@@ -4,6 +4,8 @@ Oifey is a bot for Discord that shows data based on the Fire Emblem games. Can b
 
 Made with [Discord.py](https://github.com/Rapptz/discord.py) to handle basic Discord API stuff, has a custom command system for an easier time when generating a lot of commands and some custom behavior.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W415DE4)
+
 ## Setting it up
 
 ### Requirements
