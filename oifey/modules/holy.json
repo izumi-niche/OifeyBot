@@ -1,0 +1,336 @@
+{
+    "fe4": {
+        "name": "Genealogy of the Holy War",
+        "default": "unit",
+        "alias": [
+            "holy",
+            "war",
+            "genealogy",
+            "holywar"
+        ],
+        "random": {
+            "pool": "database/fe4/char.json",
+            "add": [
+                "jugdral"
+            ]
+        },
+        "color": "0xde9c5b",
+        "data": {
+            "unit": {
+                "main": "database/fe4/char.json",
+                "add": "weapon",
+                "exclamation": "father",
+                "level": [
+                    30
+                ],
+                "bool": {
+                    "personal": [],
+                    "secret": []
+                },
+                "entry": {
+                    "class": "database/fe4/job.json",
+                    "mother": "database/fe4/parent.json",
+                    "father": "database/fe4/parent.json",
+                    "weapon": "database/fe4/item.json"
+                },
+                "int": {
+                    "parent": [
+                        1,
+                        30
+                    ]
+                },
+                "list": {
+                    "major": [
+                        "od",
+                        "baldr",
+                        "hodr",
+                        "dainn",
+                        "njorun",
+                        "nal",
+                        "ullr",
+                        "thrud",
+                        "fjalar",
+                        "forseti",
+                        "bragi",
+                        "naga",
+                        "loptous"
+                    ],
+                    "minor": [
+                        "od",
+                        "baldr",
+                        "hodr",
+                        "dainn",
+                        "njorun",
+                        "nal",
+                        "ullr",
+                        "thrud",
+                        "fjalar",
+                        "forseti",
+                        "bragi",
+                        "naga",
+                        "loptous"
+                    ],
+                    "none": [
+                        "od",
+                        "baldr",
+                        "hodr",
+                        "dainn",
+                        "njorun",
+                        "nal",
+                        "ullr",
+                        "thrud",
+                        "fjalar",
+                        "forseti",
+                        "bragi",
+                        "naga",
+                        "loptous"
+                    ]
+                },
+                "help_entries": {
+                    "father": {
+                        "entries": [
+                            "alec",
+                            "naoise",
+                            "midir",
+                            "dew",
+                            "chulainn",
+                            "beowulf",
+                            "lewyn",
+                            "lex",
+                            "azelle",
+                            "jamke",
+                            "finn",
+                            "arden"
+                        ],
+                        "main": [
+                            "lana",
+                            "larcei",
+                            "scathach",
+                            "diarmuid",
+                            "lester",
+                            "fee",
+                            "arthur",
+                            "patty",
+                            "nanna",
+                            "lene",
+                            "tinni",
+                            "febail",
+                            "ced",
+                            "coirpre"
+                        ]
+                    },
+                    "mother": {
+                        "entries": [
+                            "deirdre",
+                            "ethlyn",
+                            "edain",
+                            "ayra",
+                            "lachesis",
+                            "silvia",
+                            "tailtiu",
+                            "erinys",
+                            "brigid"
+                        ],
+                        "main": [
+                            "lana",
+                            "larcei",
+                            "scathach",
+                            "diarmuid",
+                            "lester",
+                            "fee",
+                            "arthur",
+                            "patty",
+                            "nanna",
+                            "lene",
+                            "tinni",
+                            "febail",
+                            "ced",
+                            "coirpre"
+                        ]
+                    },
+                    "class": {
+                        "main": [
+                            "edain",
+                            "alec",
+                            "altena",
+                            "amid",
+                            "arden",
+                            "ares",
+                            "arthur",
+                            "asaello",
+                            "ayra",
+                            "azelle",
+                            "beowulf",
+                            "brigid",
+                            "ced",
+                            "charlot",
+                            "chulainn",
+                            "claud",
+                            "coirpre",
+                            "creidne",
+                            "daisy",
+                            "dalvin",
+                            "deimne",
+                            "deirdre",
+                            "dew",
+                            "diarmuid",
+                            "erinys",
+                            "ethlyn",
+                            "febail",
+                            "fee",
+                            "finn",
+                            "hannibal",
+                            "hawke",
+                            "hermina",
+                            "iuchar",
+                            "iucharba",
+                            "jamke",
+                            "jeanne",
+                            "julia",
+                            "lachesis",
+                            "lana",
+                            "larcei",
+                            "laylea",
+                            "leif",
+                            "lene",
+                            "lester",
+                            "lewyn",
+                            "lex",
+                            "linda",
+                            "midir",
+                            "muirne",
+                            "nanna",
+                            "naoise",
+                            "oifey",
+                            "patty",
+                            "quan",
+                            "seliph",
+                            "shannan",
+                            "sigurd",
+                            "silvia",
+                            "tailtiu",
+                            "tinni",
+                            "tristan",
+                            "scathach"
+                        ]
+                    }
+                },
+                "prefix": {
+                    "major": "+",
+                    "minor": "-",
+                    "none": "?",
+                    "modifiers": "$"
+                },
+                "stats": {
+                    "modifiers": [
+                        "hp",
+                        "str",
+                        "mag",
+                        "skl",
+                        "lck",
+                        "spd",
+                        "def",
+                        "res",
+                        "hit",
+                        "as",
+                        "crit",
+                        "atk"
+                    ]
+                },
+                "custom_help": {
+                    "Averages": "text/game/averages/fe4.txt"
+                },
+                "classic_hidden": [
+                    "level"
+                ],
+                "par": {
+                    "od": [
+                        "odo"
+                    ],
+                    "baldr": [
+                        "baldur",
+                        "baldo"
+                    ],
+                    "hodr": [
+                        "hezul"
+                    ],
+                    "dainn": [
+                        "dain",
+                        "daen"
+                    ],
+                    "njorun": [
+                        "noba",
+                        "nova"
+                    ],
+                    "nal": [
+                        "neir"
+                    ],
+                    "ullr": [
+                        "ullir",
+                        "ullur",
+                        "ur"
+                    ],
+                    "thrud": [
+                        "tordo"
+                    ],
+                    "fjalar": [
+                        "fala"
+                    ],
+                    "forseti": [
+                        "sety",
+                        "ced",
+                        "forsety",
+                        "forsetti"
+                    ],
+                    "bragi": [
+                        "blaggi",
+                        "braggi",
+                        "blagi"
+                    ],
+                    "naga": [
+                        "narga"
+                    ],
+                    "loptous": [
+                        "loptyr"
+                    ]
+                },
+                "lua": [
+                    "fe4",
+                    "Character"
+                ],
+                "comma": {
+                    "name": "compare",
+                    "size": 4
+                }
+            },
+            "class": {
+                "main": "database/fe4/job.json",
+                "lua": [
+                    "fe4",
+                    "Job"
+                ]
+            },
+            "item": {
+                "main": "database/fe4/item.json",
+                "lua": [
+                    "fe4",
+                    "Item"
+                ]
+            },
+            "blood": {
+                "main": "database/fe4/blood.json",
+                "lua": [
+                    "fe4",
+                    "Blood"
+                ]
+            },
+            "skill": {
+                "main": "database/fe4/skill.json",
+                "lua": [
+                    "fe4",
+                    "Skill"
+                ]
+            }
+        }
+    }
+}

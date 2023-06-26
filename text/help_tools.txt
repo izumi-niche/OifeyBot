@@ -1,0 +1,11 @@
+`o!donate` *Support Oifey and receive a cool perk!*
+`o!alias` Add your own custom aliases!
+
+`o!birthday` Character birthdays in this month and the next one.
+
+`changelog` Latest major changes.
+`o!names` All aliases available for the bot.
+
+`o!invite` Sends a bot invite and a invite to the support server to your DMs.
+`o!credits` Credits stuff.
+`o!help` Shows this.

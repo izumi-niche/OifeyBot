@@ -1,0 +1,3807 @@
+{
+    "sword": {
+        "name": "sword",
+        "desc": "A standard sword.",
+        "type": "sword",
+        "stats": {
+            "hit": 90,
+            "rng": 1
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "ironsword": {
+        "name": "Iron Sword",
+        "desc": "A sword that's easy to wield.",
+        "type": "sword",
+        "stats": {
+            "mt": 2,
+            "hit": 90,
+            "rng": 1,
+            "sell": "<:silver:861870608295788546>10"
+        },
+        "reference": {
+            "Combat Arts": "Wrath Strike (10 WEXP)\nWindsweep (25 WEXP)",
+            "Evolve": "**Steel Sword**: <:star_1:759767702905552916>1 <:silver:861870608295788546>50",
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>10 | Mt 3 | Hit 90\n<:star_2:759767702834905119>2 <:silver:861870608295788546>15 | Mt 4 | Hit 95\n<:star_3:759767702696230933>3 <:silver:861870608295788546>25 | Mt 5 | Hit 95\n<:star_4:759767703195222026>4 <:silver:861870608295788546>50 | Mt 6 | Hit 100\n<:star_5:759767702876192772>5 <:silver:861870608295788546>100 | Mt 8 | Hit 110"
+        },
+        "weapon": true,
+        "forge": [
+            {
+                "mt": 3,
+                "hit": 90
+            },
+            {
+                "mt": 4,
+                "hit": 95
+            },
+            {
+                "mt": 5,
+                "hit": 95
+            },
+            {
+                "mt": 6,
+                "hit": 100
+            },
+            {
+                "mt": 8,
+                "hit": 110
+            }
+        ]
+    },
+    "steelsword": {
+        "name": "Steel Sword",
+        "desc": "A tempered sword with increased power.",
+        "type": "sword",
+        "stats": {
+            "mt": 4,
+            "wt": 1,
+            "hit": 80,
+            "rng": 1,
+            "sell": "<:silver:861870608295788546>15"
+        },
+        "reference": {
+            "Combat Arts": "Sunder (15 WEXP)\nCrosswise Cut (20 WEXP)",
+            "Evolve": "**Silver Sword**: <:star_1:759767702905552916>1 <:silver:861870608295788546>100\n**Zweih\u00e4nder**: <:star_2:759767702834905119>2 <:gold:861870608153182209>1",
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>15 | Mt 5 | Wt 1 | Hit 80\n<:star_2:759767702834905119>2 <:silver:861870608295788546>20 | Mt 6 | Wt 1 | Hit 85\n<:star_3:759767702696230933>3 <:silver:861870608295788546>40 | Mt 8 | Wt 1 | Hit 85\n<:star_4:759767703195222026>4 <:silver:861870608295788546>75 | Mt 9 | Wt 1 | Hit 85 | Crit 5\n<:star_5:759767702876192772>5 <:silver:861870608295788546>150 | Mt 11 | Wt 1 | Hit 90 | Crit 10"
+        },
+        "weapon": true,
+        "forge": [
+            {
+                "mt": 5,
+                "wt": 1,
+                "hit": 80
+            },
+            {
+                "mt": 6,
+                "wt": 1,
+                "hit": 85
+            },
+            {
+                "mt": 8,
+                "wt": 1,
+                "hit": 85
+            },
+            {
+                "mt": 9,
+                "wt": 1,
+                "hit": 85,
+                "crit": 5
+            },
+            {
+                "mt": 11,
+                "wt": 1,
+                "hit": 90,
+                "crit": 10
+            }
+        ]
+    },
+    "silversword": {
+        "name": "Silver Sword",
+        "desc": "A sword made from precious metal.",
+        "type": "sword",
+        "stats": {
+            "mt": 8,
+            "wt": 2,
+            "hit": 90,
+            "rng": 1,
+            "sell": "<:silver:861870608295788546>20"
+        },
+        "reference": {
+            "Combat Arts": "Duelist Sword (20 WEXP)\nRoundhouse (20 WEXP)",
+            "Evolve": "**Brave Sword**: <:star_1:759767702905552916>1 <:silver:861870608295788546>50",
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>20 | Mt 9 | Wt 2 | Hit 90\n<:star_2:759767702834905119>2 <:silver:861870608295788546>30 | Mt 9 | Wt 2 | Hit 95\n<:star_3:759767702696230933>3 <:silver:861870608295788546>50 | Mt 10 | Wt 2 | Hit 95\n<:star_4:759767703195222026>4 <:silver:861870608295788546>100 | Mt 10 | Wt 2 | Hit 95 | Crit 5\n<:star_5:759767702876192772>5 <:silver:861870608295788546>200 | Mt 12 | Wt 1 | Hit 100 | Crit 5"
+        },
+        "weapon": true,
+        "forge": [
+            {
+                "mt": 9,
+                "wt": 2,
+                "hit": 90
+            },
+            {
+                "mt": 9,
+                "wt": 2,
+                "hit": 95
+            },
+            {
+                "mt": 10,
+                "wt": 2,
+                "hit": 95
+            },
+            {
+                "mt": 10,
+                "wt": 2,
+                "hit": 95,
+                "crit": 5
+            },
+            {
+                "mt": 12,
+                "wt": 1,
+                "hit": 100,
+                "crit": 5
+            }
+        ]
+    },
+    "bravesword": {
+        "name": "Brave Sword",
+        "desc": "A sword that yields more frequent critical hits.",
+        "type": "sword",
+        "stats": {
+            "mt": 5,
+            "hit": 90,
+            "crit": 30,
+            "rng": 1,
+            "sell": "<:silver:861870608295788546>25"
+        },
+        "reference": {
+            "Combat Arts": "Penetrate (10 WEXP)\nGrounder (25 WEXP)",
+            "Evolve": "**Shadow Sword**: <:silver:861870608295788546>50\n**Rapier**: <:gold:861870608153182209>1",
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>50 | Mt 6 | Hit 90 | Crit 30\n<:star_2:759767702834905119>2 <:silver:861870608295788546>100 | Mt 7 | Hit 90 | Crit 35\n<:star_3:759767702696230933>3 <:silver:861870608295788546>200 | Mt 9 | Hit 90 | Crit 40"
+        },
+        "weapon": true,
+        "forge": [
+            {
+                "mt": 6,
+                "hit": 90,
+                "crit": 30
+            },
+            {
+                "mt": 7,
+                "hit": 90,
+                "crit": 35
+            },
+            {
+                "mt": 9,
+                "hit": 90,
+                "crit": 40
+            }
+        ]
+    },
+    "shadowsword": {
+        "name": "Shadow Sword",
+        "desc": "A cursed sword.",
+        "type": "sword",
+        "stats": {
+            "mt": 13,
+            "wt": 5,
+            "hit": 65,
+            "rng": 1,
+            "lck": -10,
+            "sell": "<:silver:861870608295788546>25"
+        },
+        "reference": {
+            "Passives": "Hex\nLifetaker",
+            "Evolve": "**Ilwoon**: <:star_1:759767702905552916>1 <:gold:861870608153182209>1\n**Brave Sword**: <:silver:861870608295788546>50",
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>50 | Mt 14 | Wt 5 | Hit 65\n<:star_2:759767702834905119>2 <:silver:861870608295788546>80 | Mt 14 | Wt 5 | Hit 70\n<:star_3:759767702696230933>3 <:gold:861870608153182209>1 | Mt 14 | Wt 3 | Hit 75"
+        },
+        "weapon": true,
+        "forge": [
+            {
+                "mt": 14,
+                "wt": 5,
+                "hit": 65
+            },
+            {
+                "mt": 14,
+                "wt": 5,
+                "hit": 70
+            },
+            {
+                "mt": 14,
+                "wt": 3,
+                "hit": 75
+            }
+        ]
+    },
+    "lightningsword": {
+        "name": "Lightning Sword",
+        "desc": "A sword that rains down lightning bolts.",
+        "type": "sword",
+        "stats": {
+            "mt": 15,
+            "wt": 3,
+            "hit": 80,
+            "crit": -10,
+            "crit evade": -1,
+            "rng": "1-2",
+            "sell": "<:silver:861870608295788546>25"
+        },
+        "reference": {
+            "Passives": "Transmute",
+            "Combat Arts": "Thunderclap (20 WEXP)\nFoudroyant (20 WEXP)",
+            "Upgrade": "<:star_1:759767702905552916>1 <:gold:861870608153182209>1 | Mt 16 | Wt 3 | Hit 80 | Crit -10\n<:star_2:759767702834905119>2 <:gold:861870608153182209>1 <:silver:861870608295788546>30 | Mt 17 | Wt 2 | Hit 85 | Crit -10\n<:star_3:759767702696230933>3 <:gold:861870608153182209>1 <:silver:861870608295788546>50 | Mt 19 | Wt 2 | Hit 90 | Crit -10"
+        },
+        "weapon": true,
+        "forge": [
+            {
+                "mt": 16,
+                "wt": 3,
+                "hit": 80,
+                "crit": -10
+            },
+            {
+                "mt": 17,
+                "wt": 2,
+                "hit": 85,
+                "crit": -10
+            },
+            {
+                "mt": 19,
+                "wt": 2,
+                "hit": 90,
+                "crit": -10
+            }
+        ],
+        "equip": {
+            "fixed_dmg": true
+        }
+    },
+    "blessedsword": {
+        "name": "Blessed Sword",
+        "desc": "A sword said to drive away evil.",
+        "type": "sword",
+        "stats": {
+            "mt": 3,
+            "hit": 100,
+            "crit": 10,
+            "rng": 1,
+            "sell": "<:silver:861870608295788546>25"
+        },
+        "reference": {
+            "Passives": "Recovery\nAnti-Terrors",
+            "Evolve": "**Mercurius**: <:star_3:759767702696230933>3 <:gold:861870608153182209>5",
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>30 | Mt 3 | Hit 105 | Crit 15\n<:star_2:759767702834905119>2 <:gold:861870608153182209>1 | Mt 4 | Hit 105 | Crit 15\n<:star_3:759767702696230933>3 <:gold:861870608153182209>1 | Mt 5 | Hit 105 | Crit 15"
+        },
+        "weapon": true,
+        "equip": {
+            "effective": true
+        },
+        "forge": [
+            {
+                "mt": 3,
+                "hit": 105,
+                "crit": 15
+            },
+            {
+                "mt": 4,
+                "hit": 105,
+                "crit": 15
+            },
+            {
+                "mt": 5,
+                "hit": 105,
+                "crit": 15
+            }
+        ]
+    },
+    "royalsword": {
+        "name": "Royal Sword",
+        "desc": "A sword presented as a gift from Rigel to Zofia.",
+        "type": "sword",
+        "stats": {
+            "mt": 6,
+            "wt": 1,
+            "hit": 90,
+            "crit": 10,
+            "rng": 1
+        },
+        "reference": {
+            "Passives": "Recovery",
+            "Combat Arts": "Subdue (5 WEXP)\nDouble Lion (20 WEXP)\nScendscale (50 WEXP)",
+            "Upgrade": "<:star_1:759767702905552916>1 <:gold:861870608153182209>1 | Mt 7 | Wt 1 | Hit 90 | Crit 10\n<:star_2:759767702834905119>2 <:gold:861870608153182209>1 <:silver:861870608295788546>50 | Mt 8 | Wt 1 | Hit 95 | Crit 10\n<:star_3:759767702696230933>3 <:gold:861870608153182209>1 <:silver:861870608295788546>150 | Mt 10 | Wt 1 | Hit 100 | Crit 15"
+        },
+        "weapon": true,
+        "forge": [
+            {
+                "mt": 7,
+                "wt": 1,
+                "hit": 90,
+                "crit": 10
+            },
+            {
+                "mt": 8,
+                "wt": 1,
+                "hit": 95,
+                "crit": 10
+            },
+            {
+                "mt": 10,
+                "wt": 1,
+                "hit": 100,
+                "crit": 15
+            }
+        ]
+    },
+    "falchion": {
+        "name": "Falchion",
+        "desc": "A sword with the power to destroy gods.",
+        "type": "sword",
+        "stats": {
+            "mt": 10,
+            "wt": 1,
+            "hit": 80,
+            "rng": 1
+        },
+        "reference": {
+            "Passives": "Recovery\nDeicide\nAnti-Terrors",
+            "Combat Arts": "Scendscale (50 WEXP)",
+            "Upgrade": "<:star_1:759767702905552916>1 <:gold:861870608153182209>2 | Mt 12 | Wt 1 | Hit 100"
+        },
+        "weapon": true,
+        "equip": {
+            "effective": true
+        },
+        "forge": [
+            {
+                "mt": 12,
+                "wt": 1,
+                "hit": 100
+            }
+        ]
+    },
+    "astra": {
+        "name": "Astra",
+        "desc": "A legendary sword.",
+        "type": "sword",
+        "stats": {
+            "mt": 10,
+            "wt": 2,
+            "hit": 100,
+            "crit": 50,
+            "rng": 1,
+            "sell": "<:gold:861870608153182209>1"
+        },
+        "reference": {
+            "Combat Arts": "Astral Blade (30 WEXP)"
+        },
+        "weapon": true
+    },
+    "goldendagger": {
+        "name": "Golden Dagger",
+        "desc": "An ornate dagger used for self-defense.",
+        "type": "sword",
+        "stats": {
+            "mt": 1,
+            "hit": 90,
+            "rng": 1
+        },
+        "reference": {
+            "Combat Arts": "Plenitude (10 WEXP)\nEarth's Boon (25 WEXP)",
+            "Evolve": "**Beloved Zofia**: <:star_2:759767702834905119>2 <:gold:861870608153182209>1",
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>5 | Mt 2 | Hit 95\n<:star_2:759767702834905119>2 <:silver:861870608295788546>5 | Mt 3 | Hit 95 | Crit 5\n<:star_3:759767702696230933>3 <:silver:861870608295788546>10 | Mt 4 | Hit 100 | Crit 10"
+        },
+        "weapon": true,
+        "forge": [
+            {
+                "mt": 2,
+                "hit": 95
+            },
+            {
+                "mt": 3,
+                "hit": 95,
+                "crit": 5
+            },
+            {
+                "mt": 4,
+                "hit": 100,
+                "crit": 10
+            }
+        ]
+    },
+    "zweihander": {
+        "name": "Zweih\u00e4nder",
+        "desc": "A sword favored by competitive fighters.",
+        "type": "sword",
+        "stats": {
+            "mt": 8,
+            "wt": 3,
+            "hit": 70,
+            "crit": 10,
+            "rng": 1,
+            "sell": "<:silver:861870608295788546>50"
+        },
+        "reference": {
+            "Combat Arts": "Sunder (15 WEXP)\nPenetrate (10 WEXP)\nTigerstance (25 WEXP)",
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>50 | Mt 9 | Wt 3 | Hit 75 | Crit 10\n<:star_2:759767702834905119>2 <:gold:861870608153182209>1 | Mt 11 | Wt 3 | Hit 75 | Crit 15\n<:star_3:759767702696230933>3 <:gold:861870608153182209>1 <:silver:861870608295788546>150 | Mt 13 | Wt 2 | Hit 85 | Crit 15"
+        },
+        "weapon": true,
+        "forge": [
+            {
+                "mt": 9,
+                "wt": 3,
+                "hit": 75,
+                "crit": 10
+            },
+            {
+                "mt": 11,
+                "wt": 3,
+                "hit": 75,
+                "crit": 15
+            },
+            {
+                "mt": 13,
+                "wt": 2,
+                "hit": 85,
+                "crit": 15
+            }
+        ]
+    },
+    "ladyblade": {
+        "name": "Ladyblade",
+        "desc": "A sword that doubles in power in female hands.",
+        "type": "sword",
+        "stats": {
+            "mt": 6,
+            "wt": 1,
+            "hit": 85,
+            "crit": 5,
+            "rng": 1,
+            "sell": "<:silver:861870608295788546>25"
+        },
+        "reference": {
+            "Passives": "Lethal Lady (Hidden)",
+            "Combat Arts": "Hexblade (15 WEXP)\nFlamberge (20 WEXP)",
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>50 | Mt 7 | Wt 1 | Hit 90 | Crit 5\n<:star_2:759767702834905119>2 <:gold:861870608153182209>1 | Mt 8 | Wt 1 | Hit 90 | Crit 10\n<:star_3:759767702696230933>3 <:gold:861870608153182209>1 <:silver:861870608295788546>150 | Mt 10 | Wt 0 | Hit 95 | Crit 10"
+        },
+        "weapon": true,
+        "forge": [
+            {
+                "mt": 7,
+                "wt": 1,
+                "hit": 90,
+                "crit": 5
+            },
+            {
+                "mt": 8,
+                "wt": 1,
+                "hit": 90,
+                "crit": 10
+            },
+            {
+                "mt": 10,
+                "wt": 0,
+                "hit": 95,
+                "crit": 10
+            }
+        ]
+    },
+    "mercurius": {
+        "name": "Mercurius",
+        "desc": "A slender, lovely sword. One of the three Regalia.",
+        "type": "sword",
+        "stats": {
+            "mt": 11,
+            "wt": 2,
+            "hit": 80,
+            "rng": 1,
+            "sell": "<:gold:861870608153182209>1"
+        },
+        "reference": {
+            "Passives": "Recovery",
+            "Upgrade": "<:star_1:759767702905552916>1 <:gold:861870608153182209>2 | Mt 12 | Wt 1 | Hit 90"
+        },
+        "weapon": true,
+        "forge": [
+            {
+                "mt": 12,
+                "wt": 1,
+                "hit": 90
+            }
+        ]
+    },
+    "belovedzofia": {
+        "name": "Beloved Zofia",
+        "desc": "A prized sword belonging to the Zofian royal family.",
+        "type": "sword",
+        "stats": {
+            "mt": 6,
+            "wt": 1,
+            "hit": 85,
+            "crit": 10,
+            "rng": 1
+        },
+        "reference": {
+            "Passives": "Recovery",
+            "Combat Arts": "Subdue (5 WEXP)\nSwap (5 WEXP)\nRagnarok \u03a9 (25 WEXP)",
+            "Upgrade": "<:star_1:759767702905552916>1 <:gold:861870608153182209>3 | Mt 10 | Wt 0 | Hit 95 | Crit 15"
+        },
+        "weapon": true,
+        "forge": [
+            {
+                "mt": 10,
+                "wt": 0,
+                "hit": 95,
+                "crit": 15
+            }
+        ]
+    },
+    "ilwoon": {
+        "name": "Ilwoon",
+        "desc": "A sword made to bring ruin and naught else.",
+        "type": "sword",
+        "stats": {
+            "mt": 10,
+            "wt": 4,
+            "hit": 70,
+            "crit": 15,
+            "rng": 1,
+            "sell": "<:silver:861870608295788546>50"
+        },
+        "reference": {
+            "Combat Arts": "Wrath Strike (10 WEXP)\nLunge (10 WEXP)\nDeath Blow (20 WEXP)",
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>50 | Mt 11 | Wt 4 | Hit 70 | Crit 15\n<:star_2:759767702834905119>2 <:gold:861870608153182209>1 <:silver:861870608295788546>100 | Mt 12 | Wt 3 | Hit 70 | Crit 15\n<:star_3:759767702696230933>3 <:gold:861870608153182209>1 <:silver:861870608295788546>150 | Mt 13 | Wt 2 | Hit 70 | Crit 25"
+        },
+        "weapon": true,
+        "forge": [
+            {
+                "mt": 11,
+                "wt": 4,
+                "hit": 70,
+                "crit": 15
+            },
+            {
+                "mt": 12,
+                "wt": 3,
+                "hit": 70,
+                "crit": 15
+            },
+            {
+                "mt": 13,
+                "wt": 2,
+                "hit": 70,
+                "crit": 25
+            }
+        ]
+    },
+    "rapier": {
+        "name": "Rapier",
+        "desc": "A sword effective against cavalry and armored units.",
+        "type": "sword",
+        "stats": {
+            "mt": 3,
+            "wt": 1,
+            "hit": 90,
+            "crit": 5,
+            "rng": 1,
+            "sell": "<:silver:861870608295788546>50"
+        },
+        "reference": {
+            "Passives": "Anti-Cavalry\nAnti-Armor",
+            "Combat Arts": "Subdue (5 WEXP)\nShadow Gambit (15 WEXP)\nDestreza (20 WEXP)",
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>80 | Mt 4 | Wt 1 | Hit 95 | Crit 5\n<:star_2:759767702834905119>2 <:gold:861870608153182209>1 <:silver:861870608295788546>50 | Mt 5 | Wt 0 | Hit 95 | Crit 10\n<:star_3:759767702696230933>3 <:gold:861870608153182209>1 <:silver:861870608295788546>100 | Mt 6 | Wt 0 | Hit 100 | Crit 15"
+        },
+        "weapon": true,
+        "equip": {
+            "effective": true
+        },
+        "forge": [
+            {
+                "mt": 4,
+                "wt": 1,
+                "hit": 95,
+                "crit": 5
+            },
+            {
+                "mt": 5,
+                "wt": 0,
+                "hit": 95,
+                "crit": 10
+            },
+            {
+                "mt": 6,
+                "wt": 0,
+                "hit": 100,
+                "crit": 15
+            }
+        ]
+    },
+    "lance": {
+        "name": "Lance",
+        "desc": "A standard lance.",
+        "type": "lance",
+        "stats": {
+            "hit": 90,
+            "rng": 1
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "ironlance": {
+        "name": "Iron Lance",
+        "desc": "A lance that's easy to wield.",
+        "type": "lance",
+        "stats": {
+            "mt": 2,
+            "hit": 90,
+            "rng": 1,
+            "sell": "<:silver:861870608295788546>10"
+        },
+        "reference": {
+            "Combat Arts": "Hit and Run (20 WEXP)\nLongearche (20 WEXP)",
+            "Evolve": "**Steel Lance**: <:star_1:759767702905552916>1 <:silver:861870608295788546>50",
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>10 | Mt 3 | Hit 90\n<:star_2:759767702834905119>2 <:silver:861870608295788546>15 | Mt 4 | Hit 95\n<:star_3:759767702696230933>3 <:silver:861870608295788546>25 | Mt 5 | Hit 95\n<:star_4:759767703195222026>4 <:silver:861870608295788546>50 | Mt 6 | Hit 100\n<:star_5:759767702876192772>5 <:silver:861870608295788546>100 | Mt 8 | Hit 110"
+        },
+        "weapon": true,
+        "forge": [
+            {
+                "mt": 3,
+                "hit": 90
+            },
+            {
+                "mt": 4,
+                "hit": 95
+            },
+            {
+                "mt": 5,
+                "hit": 95
+            },
+            {
+                "mt": 6,
+                "hit": 100
+            },
+            {
+                "mt": 8,
+                "hit": 110
+            }
+        ]
+    },
+    "steellance": {
+        "name": "Steel Lance",
+        "desc": "A tempered lance with increased power.",
+        "type": "lance",
+        "stats": {
+            "mt": 4,
+            "wt": 1,
+            "hit": 80,
+            "rng": 1,
+            "sell": "<:silver:861870608295788546>15"
+        },
+        "reference": {
+            "Combat Arts": "Armorcrush (15 WEXP)\nTempest Lance (20 WEXP)",
+            "Evolve": "**Silver Lance**: <:star_1:759767702905552916>1 <:silver:861870608295788546>100\n**Javelin**: <:star_2:759767702834905119>2 <:silver:861870608295788546>100",
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>15 | Mt 5 | Wt 1 | Hit 80\n<:star_2:759767702834905119>2 <:silver:861870608295788546>20 | Mt 6 | Wt 1 | Hit 85\n<:star_3:759767702696230933>3 <:silver:861870608295788546>40 | Mt 8 | Wt 1 | Hit 85\n<:star_4:759767703195222026>4 <:silver:861870608295788546>75 | Mt 9 | Wt 1 | Hit 85 | Crit 5\n<:star_5:759767702876192772>5 <:silver:861870608295788546>150 | Mt 11 | Wt 1 | Hit 90 | Crit 10"
+        },
+        "weapon": true,
+        "forge": [
+            {
+                "mt": 5,
+                "wt": 1,
+                "hit": 80
+            },
+            {
+                "mt": 6,
+                "wt": 1,
+                "hit": 85
+            },
+            {
+                "mt": 8,
+                "wt": 1,
+                "hit": 85
+            },
+            {
+                "mt": 9,
+                "wt": 1,
+                "hit": 85,
+                "crit": 5
+            },
+            {
+                "mt": 11,
+                "wt": 1,
+                "hit": 90,
+                "crit": 10
+            }
+        ]
+    },
+    "silverlance": {
+        "name": "Silver Lance",
+        "desc": "A lance made from precious metal.",
+        "type": "lance",
+        "stats": {
+            "mt": 8,
+            "wt": 2,
+            "hit": 90,
+            "rng": 1,
+            "sell": "<:silver:861870608295788546>20"
+        },
+        "reference": {
+            "Combat Arts": "Mistdancer (20 WEXP)\nOverrun (20 WEXP)",
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>20 | Mt 9 | Wt 2 | Hit 90\n<:star_2:759767702834905119>2 <:silver:861870608295788546>30 | Mt 9 | Wt 2 | Hit 95\n<:star_3:759767702696230933>3 <:silver:861870608295788546>50 | Mt 10 | Wt 2 | Hit 95\n<:star_4:759767703195222026>4 <:silver:861870608295788546>100 | Mt 10 | Wt 2 | Hit 95 | Crit 5\n<:star_5:759767702876192772>5 <:silver:861870608295788546>200 | Mt 12 | Wt 1 | Hit 100 | Crit 5"
+        },
+        "weapon": true,
+        "forge": [
+            {
+                "mt": 9,
+                "wt": 2,
+                "hit": 90
+            },
+            {
+                "mt": 9,
+                "wt": 2,
+                "hit": 95
+            },
+            {
+                "mt": 10,
+                "wt": 2,
+                "hit": 95
+            },
+            {
+                "mt": 10,
+                "wt": 2,
+                "hit": 95,
+                "crit": 5
+            },
+            {
+                "mt": 12,
+                "wt": 1,
+                "hit": 100,
+                "crit": 5
+            }
+        ]
+    },
+    "javelin": {
+        "name": "Javelin",
+        "desc": "A type of throwing lance.",
+        "type": "lance",
+        "stats": {
+            "mt": 3,
+            "wt": 2,
+            "hit": 70,
+            "rng": "1-2",
+            "sell": "<:silver:861870608295788546>20"
+        },
+        "reference": {
+            "Evolve": "**Saunion**: <:star_1:759767702905552916>1 <:gold:861870608153182209>1",
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>40 | Mt 4 | Wt 2 | Hit 75\n<:star_2:759767702834905119>2 <:silver:861870608295788546>100 | Mt 6 | Wt 2 | Hit 80\n<:star_3:759767702696230933>3 <:gold:861870608153182209>1 <:silver:861870608295788546>50 | Mt 8 | Wt 1 | Hit 85 | Crit 5"
+        },
+        "weapon": true,
+        "forge": [
+            {
+                "mt": 4,
+                "wt": 2,
+                "hit": 75
+            },
+            {
+                "mt": 6,
+                "wt": 2,
+                "hit": 80
+            },
+            {
+                "mt": 8,
+                "wt": 1,
+                "hit": 85,
+                "crit": 5
+            }
+        ]
+    },
+    "ridersbane": {
+        "name": "Ridersbane",
+        "desc": "A lance effective against cavalry.",
+        "type": "lance",
+        "stats": {
+            "mt": 4,
+            "wt": 2,
+            "hit": 80,
+            "rng": 1,
+            "sell": "<:silver:861870608295788546>20"
+        },
+        "reference": {
+            "Passives": "Anti-Cavalry",
+            "Evolve": "**Rhomphaia**: <:star_1:759767702905552916>1 <:gold:861870608153182209>1",
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>50 | Mt 5 | Wt 2 | Hit 85\n<:star_2:759767702834905119>2 <:gold:861870608153182209>1 | Mt 7 | Wt 2 | Hit 85 | Crit 5\n<:star_3:759767702696230933>3 <:gold:861870608153182209>1 <:silver:861870608295788546>80 | Mt 9 | Wt 1 | Hit 85 | Crit 10"
+        },
+        "weapon": true,
+        "equip": {
+            "effective": true
+        },
+        "forge": [
+            {
+                "mt": 5,
+                "wt": 2,
+                "hit": 85
+            },
+            {
+                "mt": 7,
+                "wt": 2,
+                "hit": 85,
+                "crit": 5
+            },
+            {
+                "mt": 9,
+                "wt": 1,
+                "hit": 85,
+                "crit": 10
+            }
+        ]
+    },
+    "blessedlance": {
+        "name": "Blessed Lance",
+        "desc": "A lance said to drive away evil.",
+        "type": "lance",
+        "stats": {
+            "mt": 3,
+            "hit": 90,
+            "crit": 10,
+            "rng": 1,
+            "sell": "<:silver:861870608295788546>25"
+        },
+        "reference": {
+            "Passives": "Recovery\nAnti-Terrors",
+            "Evolve": "**Gradivus**: <:star_3:759767702696230933>3 <:gold:861870608153182209>5",
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>30 | Mt 3 | Hit 95 | Crit 15\n<:star_2:759767702834905119>2 <:gold:861870608153182209>1 | Mt 4 | Hit 95 | Crit 15\n<:star_3:759767702696230933>3 <:gold:861870608153182209>1 | Mt 5 | Hit 95 | Crit 15"
+        },
+        "weapon": true,
+        "equip": {
+            "effective": true
+        },
+        "forge": [
+            {
+                "mt": 3,
+                "hit": 95,
+                "crit": 15
+            },
+            {
+                "mt": 4,
+                "hit": 95,
+                "crit": 15
+            },
+            {
+                "mt": 5,
+                "hit": 95,
+                "crit": 15
+            }
+        ]
+    },
+    "gradivus": {
+        "name": "Gradivus",
+        "desc": "A lance that pierces rock. One of the three Regalia.",
+        "type": "lance",
+        "stats": {
+            "mt": 12,
+            "wt": 5,
+            "hit": 100,
+            "rng": "1-2",
+            "sell": "<:gold:861870608153182209>1"
+        },
+        "reference": {
+            "Passives": "Recovery",
+            "Upgrade": "<:star_1:759767702905552916>1 <:gold:861870608153182209>2 | Mt 13 | Wt 4 | Hit 110"
+        },
+        "weapon": true,
+        "forge": [
+            {
+                "mt": 13,
+                "wt": 4,
+                "hit": 110
+            }
+        ]
+    },
+    "sol": {
+        "name": "Sol",
+        "desc": "A legendary lance.",
+        "type": "lance",
+        "stats": {
+            "mt": 15,
+            "wt": 4,
+            "hit": 80,
+            "rng": 1,
+            "sell": "<:gold:861870608153182209>1"
+        },
+        "reference": {
+            "Combat Arts": "Solar Thrust (30 WEXP)"
+        },
+        "weapon": true
+    },
+    "dumaslance": {
+        "name": "Duma's Lance",
+        "desc": "A lance under divine providence.",
+        "type": "lance",
+        "stats": {
+            "mt": 6,
+            "wt": 3,
+            "hit": 80,
+            "crit": 10,
+            "rng": 1,
+            "sell": "<:silver:861870608295788546>25"
+        },
+        "reference": {
+            "Combat Arts": "Vendetta (20 WEXP)",
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>50 | Mt 7 | Wt 3 | Hit 85 | Crit 10\n<:star_2:759767702834905119>2 <:gold:861870608153182209>1 | Mt 8 | Wt 2 | Hit 85 | Crit 10\n<:star_3:759767702696230933>3 <:gold:861870608153182209>1 <:silver:861870608295788546>100 | Mt 10 | Wt 1 | Hit 95 | Crit 15"
+        },
+        "weapon": true,
+        "forge": [
+            {
+                "mt": 7,
+                "wt": 3,
+                "hit": 85,
+                "crit": 10
+            },
+            {
+                "mt": 8,
+                "wt": 2,
+                "hit": 85,
+                "crit": 10
+            },
+            {
+                "mt": 10,
+                "wt": 1,
+                "hit": 95,
+                "crit": 15
+            }
+        ]
+    },
+    "emperorlance": {
+        "name": "Emperor Lance",
+        "desc": "A lance used by the emperor of Rigel.",
+        "type": "lance",
+        "stats": {
+            "mt": 7,
+            "wt": 4,
+            "hit": 85,
+            "rng": 1,
+            "sell": "<:silver:861870608295788546>25"
+        },
+        "reference": {
+            "Combat Arts": "Subdue (5 WEXP)\nShove (10 WEXP)\nLeonine Poise (25 WEXP)",
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>50 | Mt 8 | Wt 4 | Hit 90\n<:star_2:759767702834905119>2 <:gold:861870608153182209>1 | Mt 9 | Wt 3 | Hit 90\n<:star_3:759767702696230933>3 <:gold:861870608153182209>1 <:silver:861870608295788546>100 | Mt 12 | Wt 3 | Hit 90 | Crit 10"
+        },
+        "weapon": true,
+        "forge": [
+            {
+                "mt": 8,
+                "wt": 4,
+                "hit": 90
+            },
+            {
+                "mt": 9,
+                "wt": 3,
+                "hit": 90
+            },
+            {
+                "mt": 12,
+                "wt": 3,
+                "hit": 90,
+                "crit": 10
+            }
+        ]
+    },
+    "kriemhild": {
+        "name": "Kriemhild",
+        "desc": "A lance that came at a price.",
+        "type": "lance",
+        "stats": {
+            "mt": 10,
+            "wt": 2,
+            "hit": 85,
+            "rng": "1-3",
+            "def": 5,
+            "res": 5
+        },
+        "reference": {
+            "Passives": "Phantasm\nHeavy Armor\nApotrope"
+        },
+        "weapon": true
+    },
+    "rhomphaia": {
+        "name": "Rhomphaia",
+        "desc": "A tricky, long-hilted lance that requires practice.",
+        "type": "lance",
+        "stats": {
+            "mt": 5,
+            "wt": 3,
+            "hit": 80,
+            "crit": 10,
+            "rng": 1,
+            "sell": "<:silver:861870608295788546>50"
+        },
+        "reference": {
+            "Combat Arts": "Armorcrush (15 WEXP)\nKnightkneeler (15 WEXP)\nDragonhaze (20 WEXP)",
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>50 | Mt 6 | Wt 3 | Hit 85 | Crit 10\n<:star_2:759767702834905119>2 <:gold:861870608153182209>1 <:silver:861870608295788546>50 | Mt 8 | Wt 2 | Hit 85 | Crit 10\n<:star_3:759767702696230933>3 <:gold:861870608153182209>2 <:silver:861870608295788546>100 | Mt 11 | Wt 2 | Hit 90 | Crit 20"
+        },
+        "weapon": true,
+        "equip": {
+            "effective": true
+        },
+        "forge": [
+            {
+                "mt": 6,
+                "wt": 3,
+                "hit": 85,
+                "crit": 10
+            },
+            {
+                "mt": 8,
+                "wt": 2,
+                "hit": 85,
+                "crit": 10
+            },
+            {
+                "mt": 11,
+                "wt": 2,
+                "hit": 90,
+                "crit": 20
+            }
+        ]
+    },
+    "saunion": {
+        "name": "Saunion",
+        "desc": "A large lance designed for throwing.",
+        "type": "lance",
+        "stats": {
+            "mt": 6,
+            "wt": 4,
+            "hit": 70,
+            "rng": "2-3",
+            "sell": "<:silver:861870608295788546>50"
+        },
+        "reference": {
+            "Combat Arts": "Swap (5 WEXP)\nDefensive (15 WEXP)\nArchballista (25 WEXP)",
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>100 | Mt 7 | Wt 4 | Hit 75\n<:star_2:759767702834905119>2 <:gold:861870608153182209>1 <:silver:861870608295788546>50 | Mt 8 | Wt 3 | Hit 75\n<:star_3:759767702696230933>3 <:gold:861870608153182209>1 <:silver:861870608295788546>150 | Mt 10 | Wt 3 | Hit 80 | Crit 5"
+        },
+        "weapon": true,
+        "forge": [
+            {
+                "mt": 7,
+                "wt": 4,
+                "hit": 75
+            },
+            {
+                "mt": 8,
+                "wt": 3,
+                "hit": 75
+            },
+            {
+                "mt": 10,
+                "wt": 3,
+                "hit": 80,
+                "crit": 5
+            }
+        ]
+    },
+    "axe": {
+        "name": "Axe",
+        "desc": "A standard axe.",
+        "type": "axe",
+        "stats": {
+            "hit": 90,
+            "rng": 1
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "splittingaxe": {
+        "name": "Splitting Axe",
+        "desc": "An axe for splitting wood. Not ideal for battle.",
+        "type": "axe",
+        "stats": {
+            "mt": 1,
+            "wt": 1,
+            "hit": 80,
+            "rng": 1,
+            "sell": "<:silver:861870608295788546>10"
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "devilaxe": {
+        "name": "Devil Axe",
+        "desc": "A cursed axe.",
+        "type": "axe",
+        "stats": {
+            "mt": 15,
+            "wt": 5,
+            "hit": 70,
+            "crit": 5,
+            "rng": 1,
+            "sell": "<:silver:861870608295788546>50"
+        },
+        "reference": {
+            "Passives": "Hex\nLifetaker"
+        },
+        "weapon": true
+    },
+    "bow": {
+        "name": "Bow",
+        "desc": "A standard bow.",
+        "type": "bow",
+        "stats": {
+            "hit": 70,
+            "rng": "1-2"
+        },
+        "reference": {},
+        "weapon": true,
+        "equip": {
+            "effective": true
+        }
+    },
+    "ironbow": {
+        "name": "Iron Bow",
+        "desc": "A bow that's easy to wield.",
+        "type": "bow",
+        "stats": {
+            "mt": 2,
+            "wt": 2,
+            "hit": 75,
+            "rng": "1-3",
+            "sell": "<:silver:861870608295788546>10"
+        },
+        "reference": {
+            "Passives": "Anti-Fliers",
+            "Combat Arts": "Curved Shot (15 WEXP)",
+            "Evolve": "**Steel Bow**: <:star_1:759767702905552916>1 <:silver:861870608295788546>50",
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>10 | Mt 3 | Wt 2 | Hit 75\n<:star_2:759767702834905119>2 <:silver:861870608295788546>15 | Mt 4 | Wt 2 | Hit 80\n<:star_3:759767702696230933>3 <:silver:861870608295788546>25 | Mt 5 | Wt 2 | Hit 85\n<:star_4:759767703195222026>4 <:silver:861870608295788546>50 | Mt 6 | Wt 2 | Hit 85\n<:star_5:759767702876192772>5 <:silver:861870608295788546>100 | Mt 7 | Wt 2 | Hit 95"
+        },
+        "weapon": true,
+        "equip": {
+            "effective": true
+        },
+        "forge": [
+            {
+                "mt": 3,
+                "wt": 2,
+                "hit": 75
+            },
+            {
+                "mt": 4,
+                "wt": 2,
+                "hit": 80
+            },
+            {
+                "mt": 5,
+                "wt": 2,
+                "hit": 85
+            },
+            {
+                "mt": 6,
+                "wt": 2,
+                "hit": 85
+            },
+            {
+                "mt": 7,
+                "wt": 2,
+                "hit": 95
+            }
+        ]
+    },
+    "steelbow": {
+        "name": "Steel Bow",
+        "desc": "A tempered bow with increased power.",
+        "type": "bow",
+        "stats": {
+            "mt": 3,
+            "wt": 3,
+            "hit": 65,
+            "rng": "1-3",
+            "sell": "<:silver:861870608295788546>15"
+        },
+        "reference": {
+            "Passives": "Anti-Fliers",
+            "Combat Arts": "Heavy Draw (20 WEXP)",
+            "Evolve": "**Silver Bow**: <:star_1:759767702905552916>1 <:silver:861870608295788546>100\n**Longbow**: <:star_2:759767702834905119>2 <:gold:861870608153182209>1",
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>15 | Mt 4 | Wt 3 | Hit 70\n<:star_2:759767702834905119>2 <:silver:861870608295788546>20 | Mt 5 | Wt 3 | Hit 70\n<:star_3:759767702696230933>3 <:silver:861870608295788546>40 | Mt 6 | Wt 3 | Hit 70 | Crit 5\n<:star_4:759767703195222026>4 <:silver:861870608295788546>75 | Mt 7 | Wt 3 | Hit 70 | Crit 5\n<:star_5:759767702876192772>5 <:silver:861870608295788546>150 | Mt 8 | Wt 3 | Hit 75 | Crit 10"
+        },
+        "weapon": true,
+        "equip": {
+            "effective": true
+        },
+        "forge": [
+            {
+                "mt": 4,
+                "wt": 3,
+                "hit": 70
+            },
+            {
+                "mt": 5,
+                "wt": 3,
+                "hit": 70
+            },
+            {
+                "mt": 6,
+                "wt": 3,
+                "hit": 70,
+                "crit": 5
+            },
+            {
+                "mt": 7,
+                "wt": 3,
+                "hit": 70,
+                "crit": 5
+            },
+            {
+                "mt": 8,
+                "wt": 3,
+                "hit": 75,
+                "crit": 10
+            }
+        ]
+    },
+    "silverbow": {
+        "name": "Silver Bow",
+        "desc": "A bow made from precious metal.",
+        "type": "bow",
+        "stats": {
+            "mt": 5,
+            "wt": 4,
+            "hit": 70,
+            "rng": "1-3",
+            "sell": "<:silver:861870608295788546>20"
+        },
+        "reference": {
+            "Passives": "Anti-Fliers",
+            "Combat Arts": "Ward Arrow (25 WEXP)",
+            "Evolve": "**Killer Bow**: <:star_1:759767702905552916>1 <:silver:861870608295788546>100\n**Radiant Bow**: <:star_2:759767702834905119>2 <:gold:861870608153182209>1",
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>15 | Mt 6 | Wt 4 | Hit 70\n<:star_2:759767702834905119>2 <:silver:861870608295788546>20 | Mt 6 | Wt 4 | Hit 75\n<:star_3:759767702696230933>3 <:silver:861870608295788546>40 | Mt 7 | Wt 4 | Hit 75\n<:star_4:759767703195222026>4 <:silver:861870608295788546>75 | Mt 7 | Wt 4 | Hit 75 | Crit 5\n<:star_5:759767702876192772>5 <:silver:861870608295788546>150 | Mt 8 | Wt 3 | Hit 80 | Crit 5"
+        },
+        "weapon": true,
+        "equip": {
+            "effective": true
+        },
+        "forge": [
+            {
+                "mt": 6,
+                "wt": 4,
+                "hit": 70
+            },
+            {
+                "mt": 6,
+                "wt": 4,
+                "hit": 75
+            },
+            {
+                "mt": 7,
+                "wt": 4,
+                "hit": 75
+            },
+            {
+                "mt": 7,
+                "wt": 4,
+                "hit": 75,
+                "crit": 5
+            },
+            {
+                "mt": 8,
+                "wt": 3,
+                "hit": 80,
+                "crit": 5
+            }
+        ]
+    },
+    "blessedbow": {
+        "name": "Blessed Bow",
+        "desc": "A bow said to drive away evil.",
+        "type": "bow",
+        "stats": {
+            "mt": 3,
+            "wt": 2,
+            "hit": 80,
+            "crit": 10,
+            "rng": "1-3",
+            "sell": "<:silver:861870608295788546>25"
+        },
+        "reference": {
+            "Passives": "Recovery\nAnti-Fliers\nAnti-Terrors",
+            "Evolve": "**Parthia**: <:star_3:759767702696230933>3 <:gold:861870608153182209>5",
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>30 | Mt 3 | Wt 2 | Hit 85 | Crit 15\n<:star_2:759767702834905119>2 <:gold:861870608153182209>1 | Mt 4 | Wt 2 | Hit 85 | Crit 15\n<:star_3:759767702696230933>3 <:gold:861870608153182209>1 | Mt 5 | Wt 2 | Hit 85 | Crit 15"
+        },
+        "weapon": true,
+        "equip": {
+            "effective": true
+        },
+        "forge": [
+            {
+                "mt": 3,
+                "wt": 2,
+                "hit": 85,
+                "crit": 15
+            },
+            {
+                "mt": 4,
+                "wt": 2,
+                "hit": 85,
+                "crit": 15
+            },
+            {
+                "mt": 5,
+                "wt": 2,
+                "hit": 85,
+                "crit": 15
+            }
+        ]
+    },
+    "luna": {
+        "name": "Luna",
+        "desc": "A legendary bow.",
+        "type": "bow",
+        "stats": {
+            "mt": 10,
+            "wt": 5,
+            "hit": 85,
+            "rng": "1-3",
+            "sell": "<:gold:861870608153182209>1"
+        },
+        "reference": {
+            "Passives": "Anti-Fliers",
+            "Combat Arts": "Lunar Flash (30 WEXP)"
+        },
+        "weapon": true,
+        "equip": {
+            "effective": true
+        }
+    },
+    "parthia": {
+        "name": "Parthia",
+        "desc": "A bow filled with holy fire. One of the three Regalia.",
+        "type": "bow",
+        "stats": {
+            "mt": 8,
+            "wt": 6,
+            "hit": 75,
+            "rng": "1-3",
+            "sell": "<:gold:861870608153182209>2"
+        },
+        "reference": {
+            "Passives": "Recovery\nAnti-Fliers",
+            "Combat Arts": "Trance Shot (30 WEXP)",
+            "Upgrade": "<:star_1:759767702905552916>1 <:gold:861870608153182209>3 | Mt 9 | Wt 4 | Hit 85"
+        },
+        "weapon": true,
+        "equip": {
+            "effective": true
+        },
+        "forge": [
+            {
+                "mt": 9,
+                "wt": 4,
+                "hit": 85
+            }
+        ]
+    },
+    "milasbow": {
+        "name": "Mila's Bow",
+        "desc": "A bow under divine providence.",
+        "type": "bow",
+        "stats": {
+            "mt": 3,
+            "wt": 3,
+            "hit": 80,
+            "rng": "1-3",
+            "sell": "<:gold:861870608153182209>1"
+        },
+        "reference": {
+            "Passives": "Recovery\nAnti-Fliers",
+            "Combat Arts": "Plenitude (10 WEXP)\nEarth's Boon (25 WEXP)",
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>50 | Mt 3 | Wt 3 | Hit 90\n<:star_2:759767702834905119>2 <:gold:861870608153182209>1 | Mt 5 | Wt 3 | Hit 90\n<:star_3:759767702696230933>3 <:gold:861870608153182209>1 <:silver:861870608295788546>100 | Mt 7 | Wt 2 | Hit 95 | Crit 5"
+        },
+        "weapon": true,
+        "equip": {
+            "effective": true
+        },
+        "forge": [
+            {
+                "mt": 3,
+                "wt": 3,
+                "hit": 90
+            },
+            {
+                "mt": 5,
+                "wt": 3,
+                "hit": 90
+            },
+            {
+                "mt": 7,
+                "wt": 2,
+                "hit": 95,
+                "crit": 5
+            }
+        ]
+    },
+    "longbow": {
+        "name": "Longbow",
+        "desc": "A bow designed for long-distance attacks.",
+        "type": "bow",
+        "stats": {
+            "mt": 2,
+            "wt": 4,
+            "hit": 70,
+            "rng": "2-4",
+            "sell": "<:silver:861870608295788546>50"
+        },
+        "reference": {
+            "Passives": "Anti-Fliers",
+            "Combat Arts": "Encloser (20 WEXP)",
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>100 | Mt 3 | Wt 4 | Hit 75\n<:star_2:759767702834905119>2 <:gold:861870608153182209>1 <:silver:861870608295788546>50 | Mt 4 | Wt 3 | Hit 80\n<:star_3:759767702696230933>3 <:gold:861870608153182209>1 <:silver:861870608295788546>150 | Mt 6 | Wt 3 | Hit 90"
+        },
+        "weapon": true,
+        "equip": {
+            "effective": true
+        },
+        "forge": [
+            {
+                "mt": 3,
+                "wt": 4,
+                "hit": 75
+            },
+            {
+                "mt": 4,
+                "wt": 3,
+                "hit": 80
+            },
+            {
+                "mt": 6,
+                "wt": 3,
+                "hit": 90
+            }
+        ]
+    },
+    "killerbow": {
+        "name": "Killer Bow",
+        "desc": "A bow designed to be especially lethal.",
+        "type": "bow",
+        "stats": {
+            "mt": 4,
+            "wt": 4,
+            "hit": 80,
+            "crit": 20,
+            "rng": "1-3",
+            "sell": "<:silver:861870608295788546>50"
+        },
+        "reference": {
+            "Passives": "Anti-Fliers",
+            "Combat Arts": "Hunter's Volley (20 WEXP)",
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>100 | Mt 5 | Wt 4 | Hit 85 | Crit 20\n<:star_2:759767702834905119>2 <:gold:861870608153182209>1 <:silver:861870608295788546>50 | Mt 7 | Wt 3 | Hit 85 | Crit 25\n<:star_3:759767702696230933>3 <:gold:861870608153182209>1 <:silver:861870608295788546>150 | Mt 9 | Wt 2 | Hit 90 | Crit 30"
+        },
+        "weapon": true,
+        "equip": {
+            "effective": true
+        },
+        "forge": [
+            {
+                "mt": 5,
+                "wt": 4,
+                "hit": 85,
+                "crit": 20
+            },
+            {
+                "mt": 7,
+                "wt": 3,
+                "hit": 85,
+                "crit": 25
+            },
+            {
+                "mt": 9,
+                "wt": 2,
+                "hit": 90,
+                "crit": 30
+            }
+        ]
+    },
+    "radiantbow": {
+        "name": "Radiant Bow",
+        "desc": "A bow imbued with magical power.",
+        "type": "bow",
+        "stats": {
+            "mt": 1,
+            "wt": 3,
+            "hit": 75,
+            "rng": "1-2",
+            "sell": "<:silver:861870608295788546>50"
+        },
+        "reference": {
+            "Passives": "Transmute\nAnti-Fliers",
+            "Combat Arts": "Celestial Bow (20 WEXP)",
+            "Upgrade": "<:star_1:759767702905552916>1 <:gold:861870608153182209>1 <:silver:861870608295788546>50 | Mt 2 | Wt 3 | Hit 80\n<:star_2:759767702834905119>2 <:gold:861870608153182209>1 <:silver:861870608295788546>80 | Mt 4 | Wt 2 | Hit 80 | Crit 5\n<:star_3:759767702696230933>3 <:gold:861870608153182209>1 <:silver:861870608295788546>200 | Mt 6 | Wt 1 | Hit 85 | Crit 10"
+        },
+        "weapon": true,
+        "equip": {
+            "effective": true
+        },
+        "forge": [
+            {
+                "mt": 2,
+                "wt": 3,
+                "hit": 80
+            },
+            {
+                "mt": 4,
+                "wt": 2,
+                "hit": 80,
+                "crit": 5
+            },
+            {
+                "mt": 6,
+                "wt": 1,
+                "hit": 85,
+                "crit": 10
+            }
+        ]
+    },
+    "exaltedfalchion": {
+        "name": "Exalted Falchion",
+        "desc": "A weapon wielded by an illusory hero.",
+        "type": "sword",
+        "stats": {
+            "hit": 90,
+            "rng": 1
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "parallelfalchion": {
+        "name": "Parallel Falchion",
+        "desc": "A weapon wielded by an illusory hero.",
+        "type": "sword",
+        "stats": {
+            "hit": 90,
+            "rng": 1
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "ragnell": {
+        "name": "Ragnell",
+        "desc": "A weapon wielded by an illusory hero.",
+        "type": "sword",
+        "stats": {
+            "hit": 90,
+            "rng": 1
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "bindingblade": {
+        "name": "Binding Blade",
+        "desc": "A weapon wielded by an illusory hero.",
+        "type": "sword",
+        "stats": {
+            "hit": 90,
+            "rng": 1
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "yato": {
+        "name": "Yato",
+        "desc": false,
+        "type": "sword",
+        "stats": {
+            "hit": 90,
+            "rng": 1
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "rustedsword": {
+        "name": "Rusted Sword",
+        "desc": "A rusty sword. Unusable in this state.",
+        "type": "sword",
+        "stats": {
+            "wt": 3,
+            "hit": 80,
+            "rng": 1,
+            "sell": "<:silver:861870608295788546>5"
+        },
+        "reference": {
+            "Evolve": "**Iron Sword**: <:silver:861870608295788546>10\n**Steel Sword**: <:silver:861870608295788546>10\n**Shadow Sword**: <:silver:861870608295788546>100\n**Brave Sword**: <:silver:861870608295788546>50\n**Astra**: <:gold:861870608153182209>1\n**Venin Edge**: <:silver:861870608295788546>20"
+        },
+        "weapon": true
+    },
+    "rustedlance": {
+        "name": "Rusted Lance",
+        "desc": "A rusty lance. Unusable in this state.",
+        "type": "lance",
+        "stats": {
+            "wt": 3,
+            "hit": 80,
+            "rng": 1,
+            "sell": "<:silver:861870608295788546>5"
+        },
+        "reference": {
+            "Evolve": "**Iron Lance**: <:silver:861870608295788546>10\n**Steel Lance**: <:silver:861870608295788546>10\n**Sol**: <:gold:861870608153182209>1\n**Venin Lance**: <:silver:861870608295788546>20"
+        },
+        "weapon": true
+    },
+    "rustedbow": {
+        "name": "Rusted Bow",
+        "desc": "A rusty bow. Unusable in this state.",
+        "type": "bow",
+        "stats": {
+            "wt": 3,
+            "hit": 70,
+            "rng": "1-2",
+            "sell": "<:silver:861870608295788546>5"
+        },
+        "reference": {
+            "Evolve": "**Iron Bow**: <:silver:861870608295788546>10\n**Steel Bow**: <:silver:861870608295788546>10\n**Luna**: <:gold:861870608153182209>1\n**Venin Bow**: <:silver:861870608295788546>20"
+        },
+        "weapon": true,
+        "equip": {
+            "effective": true
+        }
+    },
+    "rustedshield": {
+        "name": "Rusted Shield",
+        "desc": "A rusty shield. Unusable in this state.",
+        "type": "shield",
+        "stats": {
+            "wt": 3,
+            "sell": "<:silver:861870608295788546>5"
+        },
+        "reference": {
+            "Evolve": "**Iron Shield**: <:silver:861870608295788546>10\n**Steel Shield**: <:silver:861870608295788546>10\n**Dracoshield**: <:gold:861870608153182209>1"
+        },
+        "weapon": false
+    },
+    "rustedaxe": {
+        "name": "Rusted Axe",
+        "desc": "A rusty axe. Unusable in this state.",
+        "type": "axe",
+        "stats": {
+            "wt": 5,
+            "hit": 80,
+            "rng": 1
+        },
+        "reference": {
+            "Evolve": "**Devil Axe**: <:silver:861870608295788546>100"
+        },
+        "weapon": true
+    },
+    "rustedring": {
+        "name": "Rusted Ring",
+        "desc": "A rusty ring. Unusable in this state.",
+        "type": "ring",
+        "stats": {
+            "wt": 2,
+            "sell": "<:silver:861870608295788546>5"
+        },
+        "reference": {
+            "Evolve": "**Angel Ring**: <:silver:861870608295788546>50\n**Demon Ring**: <:silver:861870608295788546>50\n**Mage Ring**: <:silver:861870608295788546>50"
+        },
+        "weapon": false
+    },
+    "fire": {
+        "name": "Fire",
+        "desc": "Standard fire magic.",
+        "type": "black",
+        "stats": {
+            "hp": -1,
+            "mt": 3,
+            "wt": 3,
+            "hit": 80,
+            "rng": "1-2"
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "thunder": {
+        "name": "Thunder",
+        "description": "",
+        "type": "black",
+        "stats": {
+            "hp": -2,
+            "mt": 4,
+            "wt": 5,
+            "hit": 70,
+            "rng": "1-2"
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "thunderrobin": {
+        "name": "Thunder (Robin)",
+        "desc": "Magic that attacks foes with lightning.",
+        "type": "black",
+        "stats": {
+            "mt": 3,
+            "hit": 80,
+            "crit": 5,
+            "rng": "1-2"
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "excalibur": {
+        "name": "Excalibur",
+        "desc": "Wind magic that yields frequent critical hits.",
+        "type": "black",
+        "stats": {
+            "hp": -3,
+            "mt": 5,
+            "wt": 1,
+            "hit": 95,
+            "crit": 20,
+            "rng": "1-2"
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "seraphim": {
+        "name": "Seraphim",
+        "desc": "Holy magic effective against Terrors.",
+        "type": "black",
+        "stats": {
+            "hp": -4,
+            "mt": 7,
+            "wt": 4,
+            "hit": 90,
+            "rng": "1-2"
+        },
+        "reference": {
+            "Passives": "Anti-Terrors"
+        },
+        "weapon": true,
+        "equip": {
+            "effective": true
+        }
+    },
+    "aura": {
+        "name": "Aura",
+        "desc": "Powerful magic that smothers enemies in light.",
+        "type": "black",
+        "stats": {
+            "hp": -6,
+            "mt": 12,
+            "wt": 8,
+            "hit": 80,
+            "rng": "1-2"
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "sagittae": {
+        "name": "Sagittae",
+        "desc": "Arrows of light that hit from a long distance.",
+        "type": "black",
+        "stats": {
+            "hp": -8,
+            "mt": 16,
+            "wt": 11,
+            "hit": 70,
+            "rng": "1-3"
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "ragnarok": {
+        "name": "Ragnarok",
+        "desc": "Ultimate magic that purges foes in its flames.",
+        "type": "black",
+        "stats": {
+            "hp": -10,
+            "mt": 20,
+            "wt": 14,
+            "hit": 95,
+            "rng": "1-2"
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "miasma": {
+        "name": "Miasma",
+        "desc": "Poison magic.",
+        "type": "black",
+        "stats": {
+            "hp": -1,
+            "mt": 3,
+            "wt": 3,
+            "hit": 80,
+            "rng": "1-2"
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "mire": {
+        "name": "Mire",
+        "desc": "Magic that beckons forth an accursed lifeform.",
+        "type": "black",
+        "stats": {
+            "hp": -2,
+            "mt": 10,
+            "wt": 6,
+            "hit": 70,
+            "rng": "1-3"
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "death": {
+        "name": "Death",
+        "desc": "Deadly magic.",
+        "type": "black",
+        "stats": {
+            "hp": -5,
+            "mt": 14,
+            "wt": 9,
+            "hit": 70,
+            "rng": "1-3"
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "medusa": {
+        "name": "Medusa",
+        "desc": "Reduces HP to 1, or defeats foes with 1 HP.",
+        "type": "black",
+        "stats": {
+            "hp": -7,
+            "wt": 11,
+            "hit": 70,
+            "rng": "1-5"
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "ocularbeam": {
+        "name": "Ocular Beam",
+        "desc": "Fell dragon magic.",
+        "type": "black",
+        "stats": {
+            "mt": 10,
+            "wt": 8,
+            "hit": 55,
+            "rng": "1-5"
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "oculus": {
+        "name": "Oculus",
+        "desc": "Fell dragon magic that halts enemy movement.",
+        "type": "black",
+        "stats": {
+            "mt": 10,
+            "wt": 10,
+            "hit": 80,
+            "rng": "1-5"
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "apocalypse": {
+        "name": "Apocalypse",
+        "desc": "Ruinous magic.",
+        "type": "black",
+        "stats": {
+            "hp": -12,
+            "mt": 30
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "nosferatu": {
+        "name": "Nosferatu",
+        "desc": "Holy magic that absorbs HP from enemies.",
+        "type": "black",
+        "stats": {
+            "wt": 2,
+            "hit": 60,
+            "rng": "1-2"
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "recover": {
+        "name": "Recover",
+        "desc": "Restores HP to an adjacent ally.",
+        "type": "white",
+        "stats": {
+            "hp": -1,
+            "exp": 9,
+            "mt": 8,
+            "hit": 100,
+            "rng": 1
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "physic": {
+        "name": "Physic",
+        "desc": "Restores HP to a distant ally.",
+        "type": "white",
+        "stats": {
+            "hp": -3,
+            "exp": 9,
+            "mt": 6,
+            "hit": 100,
+            "rng": "1-(Attack/2)"
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "fortify": {
+        "name": "Fortify",
+        "desc": "Restores HP to allies within range.",
+        "type": "white",
+        "stats": {
+            "hp": -12,
+            "exp": 9,
+            "mt": 6,
+            "hit": 100,
+            "rng": "1-(Attack/2)"
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "warp": {
+        "name": "Warp",
+        "desc": "Warps an adjacent ally to a new space. (Rng: Atk/2)",
+        "type": "white",
+        "stats": {
+            "hp": -8,
+            "hit": 100,
+            "rng": 1
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "rewarp": {
+        "name": "Rewarp",
+        "desc": "Warps the caster to a space near an ally.",
+        "type": "white",
+        "stats": {
+            "hp": -5,
+            "hit": 100
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "rescue": {
+        "name": "Rescue",
+        "desc": "Warps a distant ally to the vicinity of the caster.",
+        "type": "white",
+        "stats": {
+            "hp": -6,
+            "hit": 100,
+            "rng": "1-(Attack/2)"
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "anew": {
+        "name": "Anew",
+        "desc": "Lets an ally on standby take another action.",
+        "type": "white",
+        "stats": {
+            "hp": -24,
+            "hit": 100,
+            "rng": 1
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "entrap": {
+        "name": "Entrap",
+        "desc": "Warps a distant enemy to the vicinity of the caster.",
+        "type": "white",
+        "stats": {
+            "hp": -12,
+            "exp": 8,
+            "hit": 70,
+            "rng": "1-(Attack/2)"
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "freeze": {
+        "name": "Freeze",
+        "desc": "Stops an enemy from moving for one turn.",
+        "type": "white",
+        "stats": {
+            "hp": -11,
+            "exp": 8,
+            "hit": 70,
+            "rng": "1-(Attack/2)"
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "silence": {
+        "name": "Silence",
+        "desc": "Stops an enemy from using magic for one turn.",
+        "type": "white",
+        "stats": {
+            "hp": -10,
+            "exp": 8,
+            "hit": 70,
+            "rng": "1-(Attack/2)"
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "expel": {
+        "name": "Expel",
+        "desc": "Eradicates some Terrors within range.",
+        "type": "white",
+        "stats": {
+            "hp": -14,
+            "exp": 7,
+            "hit": 65,
+            "rng": "1-(Attack/2)"
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "invoke": {
+        "name": "Invoke",
+        "desc": "Summons illusory soldiers. (Eight max)",
+        "type": "white",
+        "stats": {
+            "hp": -12,
+            "hit": 100,
+            "rng": "4-6"
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "invokedread": {
+        "name": "Invoke (Dread)",
+        "type": "white",
+        "desc": "Summons a number of allied dread fighters",
+        "stats": {
+            "hp": -12,
+            "hit": 100
+        },
+        "info": {},
+        "weapon": true
+    },
+    "invokepegasus": {
+        "name": "Invoke (Pegasus)",
+        "type": "white",
+        "desc": "Summons a number of allied pegasus knights.",
+        "stats": {
+            "hp": -12,
+            "hit": 100
+        },
+        "info": {},
+        "weapon": true
+    },
+    "invokesoldier": {
+        "name": "Invoke (Soldier)",
+        "type": "white",
+        "desc": "Summons a number of allied soldiers.",
+        "stats": {
+            "hp": -12,
+            "hit": 100
+        },
+        "info": {},
+        "weapon": true
+    },
+    "conjure": {
+        "name": "Conjure",
+        "desc": "Summons evil beings from the darkness.",
+        "type": "white",
+        "stats": {
+            "hit": 100,
+            "rng": "2-3"
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "claws": {
+        "name": "Claws",
+        "desc": "Putrefied claws.",
+        "type": "terror",
+        "stats": {
+            "hit": 90,
+            "rng": 1
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "veninclaws": {
+        "name": "Venin Claws",
+        "desc": "Claws that drip with venom.",
+        "type": "terror",
+        "stats": {
+            "mt": 5,
+            "hit": 80,
+            "rng": 1
+        },
+        "reference": {
+            "Passives": "Venom Strike (Hidden)"
+        },
+        "weapon": true
+    },
+    "numbingclaws": {
+        "name": "Numbing Claws",
+        "desc": "Claws that drip with a paralyzing agent.",
+        "type": "terror",
+        "stats": {
+            "mt": 7,
+            "hit": 70,
+            "rng": 1
+        },
+        "reference": {
+            "Passives": "Stun Toxin (Hidden)"
+        },
+        "weapon": true
+    },
+    "fangs": {
+        "name": "Fangs",
+        "desc": "Sharp fangs.",
+        "type": "terror",
+        "stats": {
+            "hit": 90,
+            "rng": 1
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "scythe": {
+        "name": "Scythe",
+        "desc": "A scythe covered in blood.",
+        "type": "terror",
+        "stats": {
+            "hit": 90,
+            "rng": 1
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "bonesword": {
+        "name": "Bone Sword",
+        "desc": "An unsettling sword.",
+        "type": "terror",
+        "stats": {
+            "hit": 90,
+            "rng": 1
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "club": {
+        "name": "Club",
+        "desc": "A giant club.",
+        "type": "terror",
+        "stats": {
+            "hit": 90,
+            "rng": 1
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "tackle": {
+        "name": "Tackle",
+        "desc": "A tentacle-based attack.",
+        "type": "terror",
+        "stats": {
+            "hit": 90,
+            "rng": 1
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "tentacle": {
+        "name": "Tentacle",
+        "desc": "Divine hands that rend the earth and bury foes.",
+        "type": "terror",
+        "stats": {
+            "mt": 10,
+            "wt": 5,
+            "hit": 60,
+            "rng": "1-2"
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "firebreath": {
+        "name": "Fire Breath",
+        "desc": "Intense dragon breath that bypasses defenses.",
+        "type": "terror",
+        "stats": {
+            "mt": 12,
+            "wt": 5,
+            "hit": 80,
+            "rng": "2-3"
+        },
+        "reference": {
+            "Passives": "Bypass Defense"
+        },
+        "weapon": true
+    },
+    "waterbreath": {
+        "name": "Water Breath",
+        "desc": "A wall of water that bypasses defenses.",
+        "type": "terror",
+        "stats": {
+            "mt": 8,
+            "wt": 4,
+            "hit": 80,
+            "rng": "2-3"
+        },
+        "reference": {
+            "Passives": "Bypass Defense"
+        },
+        "weapon": true
+    },
+    "talons": {
+        "name": "Talons",
+        "desc": "Immense claws that tear foes limb from limb.",
+        "type": "terror",
+        "stats": {
+            "mt": 22,
+            "hit": 100,
+            "rng": 1
+        },
+        "reference": {},
+        "weapon": true
+    },
+    "expiration": {
+        "name": "Expiration",
+        "desc": "Shadowy breath that bypasses defenses.",
+        "type": "terror",
+        "stats": {
+            "mt": 14,
+            "wt": 8,
+            "hit": 70,
+            "rng": "1-5"
+        },
+        "reference": {
+            "Passives": "Bypass Defense"
+        },
+        "weapon": true
+    },
+    "leathershield": {
+        "name": "Leather Shield",
+        "desc": "A shield that's easy to wield.",
+        "type": "shield",
+        "stats": {
+            "def": 3,
+            "sell": "<:silver:861870608295788546>5"
+        },
+        "reference": {
+            "Combat Arts": "Swap (5 WEXP)"
+        },
+        "weapon": false
+    },
+    "ironshield": {
+        "name": "Iron Shield",
+        "desc": "A shield made of iron.",
+        "type": "shield",
+        "stats": {
+            "wt": 1,
+            "def": 4,
+            "sell": "<:silver:861870608295788546>10"
+        },
+        "reference": {
+            "Combat Arts": "Shove (10 WEXP)"
+        },
+        "weapon": false
+    },
+    "steelshield": {
+        "name": "Steel Shield",
+        "desc": "A tempered steel shield.",
+        "type": "shield",
+        "stats": {
+            "wt": 2,
+            "def": 5,
+            "sell": "<:silver:861870608295788546>15"
+        },
+        "reference": {
+            "Combat Arts": "Defensive (15 WEXP)"
+        },
+        "weapon": false
+    },
+    "rionshield": {
+        "name": "Rion Shield",
+        "desc": "The prized shield of House Rion of Zofia.",
+        "type": "shield",
+        "stats": {
+            "wt": 3,
+            "atk": 2,
+            "def": 2,
+            "res": 2,
+            "sell": "<:silver:861870608295788546>20"
+        },
+        "reference": {
+            "Combat Arts": "Shove (10 WEXP)\nDefensive (15 WEXP)"
+        },
+        "weapon": false
+    },
+    "fugueshield": {
+        "name": "Fugue Shield",
+        "desc": "The prized shield of House Fugue of Zofia.",
+        "type": "shield",
+        "stats": {
+            "wt": 1,
+            "def": 2,
+            "res": 2,
+            "sell": "<:silver:861870608295788546>20"
+        },
+        "reference": {
+            "Combat Arts": "Swap (5 WEXP)\nCoral Cover (15 WEXP)"
+        },
+        "weapon": false
+    },
+    "silvershield": {
+        "name": "Silver Shield",
+        "desc": "A shield made of precious metal.",
+        "type": "shield",
+        "stats": {
+            "wt": 3,
+            "def": 7,
+            "sell": "<:silver:861870608295788546>20"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "blessedshield": {
+        "name": "Blessed Shield",
+        "desc": "A shield said to show its worth against Terrors.",
+        "type": "shield",
+        "stats": {
+            "sell": "<:silver:861870608295788546>25"
+        },
+        "reference": {
+            "Passives": "Sanctuary\nRecovery"
+        },
+        "weapon": false
+    },
+    "dracoshield": {
+        "name": "Dracoshield",
+        "desc": "A shield with high defense against all attacks.",
+        "type": "shield",
+        "stats": {
+            "wt": 10,
+            "def": 13,
+            "res": 13,
+            "sell": "<:silver:861870608295788546>50"
+        },
+        "reference": {
+            "Passives": "Recovery"
+        },
+        "weapon": false
+    },
+    "hexlockshield": {
+        "name": "Hexlock Shield",
+        "desc": "A shield that halves magical damage.",
+        "type": "shield",
+        "stats": {
+            "wt": 3,
+            "res": 7,
+            "sell": "<:silver:861870608295788546>50"
+        },
+        "reference": {
+            "Passives": "Apotrope"
+        },
+        "weapon": false
+    },
+    "emperorshield": {
+        "name": "Emperor Shield",
+        "desc": "A shield used by the emperor of Rigel.",
+        "type": "shield",
+        "stats": {
+            "wt": 4,
+            "def": 4,
+            "sell": "<:silver:861870608295788546>25"
+        },
+        "reference": {
+            "Combat Arts": "Swap (5 WEXP)\nShove (10 WEXP)\nDefensive (15 WEXP)"
+        },
+        "weapon": false
+    },
+    "dumasshield": {
+        "name": "Duma's Shield",
+        "desc": "A shield under divine providence.",
+        "type": "shield",
+        "stats": {
+            "wt": 5,
+            "atk": 4,
+            "def": 2,
+            "sell": "<:silver:861870608295788546>25"
+        },
+        "reference": {
+            "Combat Arts": "Pavise (20 WEXP)"
+        },
+        "weapon": false
+    },
+    "royalshield": {
+        "name": "Royal Shield",
+        "desc": "A prized shield belonging to the Zofian royal family.",
+        "type": "shield",
+        "stats": {
+            "wt": 2,
+            "def": 3,
+            "res": 3,
+            "sell": "<:silver:861870608295788546>25"
+        },
+        "reference": {
+            "Combat Arts": "Earth's Kiss (25 WEXP)"
+        },
+        "weapon": false
+    },
+    "silverplatter": {
+        "name": "Silver Platter",
+        "desc": "A platter used in temples and noble households.",
+        "type": "shield",
+        "stats": {
+            "sell": "<:silver:861870608295788546>10"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "blessedring": {
+        "name": "Blessed Ring",
+        "desc": "A ring with healing properties.",
+        "type": "ring",
+        "stats": {
+            "sell": "<:silver:861870608295788546>5"
+        },
+        "reference": {
+            "Passives": "Recovery"
+        },
+        "weapon": false
+    },
+    "angelring": {
+        "name": "Angel Ring",
+        "desc": "A blessed ring that raises luck by 20.",
+        "type": "ring",
+        "stats": {
+            "lck": 20,
+            "sell": "<:silver:861870608295788546>10"
+        },
+        "reference": {
+            "Passives": "Recovery"
+        },
+        "weapon": false
+    },
+    "speedring": {
+        "name": "Speed Ring",
+        "desc": "A blessed ring that raises speed and movement.",
+        "type": "ring",
+        "stats": {
+            "spd": 10,
+            "mov": 1,
+            "sell": "<:silver:861870608295788546>10"
+        },
+        "reference": {
+            "Passives": "Recovery"
+        },
+        "weapon": false
+    },
+    "magering": {
+        "name": "Mage Ring",
+        "desc": "A ring that raises tomes' magical power and range.",
+        "type": "ring",
+        "stats": {
+            "sell": "<:silver:861870608295788546>10"
+        },
+        "reference": {
+            "Passives": "Sophisticate\nRecovery"
+        },
+        "weapon": false
+    },
+    "prayerring": {
+        "name": "Prayer Ring",
+        "desc": "A ring that might just save its dying wearer.",
+        "type": "ring",
+        "stats": {
+            "sell": "<:silver:861870608295788546>10"
+        },
+        "reference": {
+            "Passives": "Miracle\nRecovery"
+        },
+        "weapon": false
+    },
+    "grimoirering": {
+        "name": "Grimoire Ring",
+        "desc": "A ring that amplifies magical power.",
+        "type": "ring",
+        "stats": {
+            "sell": "<:silver:861870608295788546>10"
+        },
+        "reference": {
+            "Passives": "Magic +5"
+        },
+        "weapon": false
+    },
+    "coralring": {
+        "name": "Coral Ring",
+        "desc": "A ring tied to nature that raises resistance by 4.",
+        "type": "ring",
+        "stats": {
+            "res": 4,
+            "sell": "<:silver:861870608295788546>10"
+        },
+        "reference": {
+            "Passives": "Recovery",
+            "Combat Arts": "Coral Cover (15 WEXP)"
+        },
+        "weapon": false
+    },
+    "milasring": {
+        "name": "Mila's Ring",
+        "desc": "A ring blessed by Mila. Nullifies enemy criticals.",
+        "type": "ring",
+        "stats": {
+            "sell": "<:silver:861870608295788546>10"
+        },
+        "reference": {
+            "Passives": "Evade Critical\nRecovery"
+        },
+        "weapon": false
+    },
+    "animusring": {
+        "name": "Animus Ring",
+        "desc": "A ring that uses hate to raise the range of tomes.",
+        "type": "ring",
+        "stats": {
+            "sell": "<:silver:861870608295788546>10"
+        },
+        "reference": {
+            "Passives": "Vengeful Cry\nRecovery"
+        },
+        "weapon": false
+    },
+    "demonring": {
+        "name": "Demon Ring",
+        "desc": "A cursed ring that transforms the wearer.",
+        "type": "ring",
+        "stats": {
+            "atk": 5,
+            "skl": 5,
+            "def": -5,
+            "res": -5,
+            "sell": "<:silver:861870608295788546>10"
+        },
+        "reference": {
+            "Passives": "Reconstruct"
+        },
+        "weapon": false
+    },
+    "keepsakering": {
+        "name": "Keepsake Ring",
+        "desc": "A ring that belonged to Berkut's late mother.",
+        "type": "ring",
+        "stats": {
+            "skl": 5,
+            "lck": 5,
+            "res": 5,
+            "sell": "<:gold:861870608153182209>3"
+        },
+        "reference": {
+            "Passives": "Recovery"
+        },
+        "weapon": false
+    },
+    "handmadedoll": {
+        "name": "Handmade Doll",
+        "desc": "A handmade doll that any child would love.",
+        "type": "item",
+        "stats": {
+            "sell": "<:silver:861870608295788546>1"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "gossamerhair": {
+        "name": "Gossamer Hair",
+        "desc": "The unique, transparent hair of a dragon.",
+        "type": "item",
+        "stats": {
+            "sell": "<:silver:861870608295788546>2"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "dragonscale": {
+        "name": "Dragon Scale",
+        "desc": "A large, sturdy scale with mystic properties.",
+        "type": "item",
+        "stats": {
+            "def": 2,
+            "res": 2,
+            "sell": "<:silver:861870608295788546>5"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "limaarmlet": {
+        "name": "Lima Armlet",
+        "desc": "A luxurious treasure of Zofia's royal House Lima.",
+        "type": "item",
+        "stats": {
+            "sell": "<:silver:861870608295788546>2"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "asonsjournal": {
+        "name": "A Son's Journal",
+        "desc": "The words of a boy who risked the Dragon Shrine.",
+        "type": "item",
+        "stats": {
+            "sell": "<:silver:861870608295788546>1"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "bearcarving": {
+        "name": "Bear Carving",
+        "desc": "A bear figure carved lovingly from wood.",
+        "type": "item",
+        "stats": {
+            "sell": "<:silver:861870608295788546>1"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "milacarving": {
+        "name": "Mila Carving",
+        "desc": "A figure of Mila carved from wood.",
+        "type": "item",
+        "stats": {
+            "lck": 5,
+            "sell": "<:silver:861870608295788546>1"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "dumacarving": {
+        "name": "Duma Carving",
+        "desc": "A figure of Duma carved from wood.",
+        "type": "item",
+        "stats": {
+            "skl": 5,
+            "sell": "<:silver:861870608295788546>1"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "coralfragment": {
+        "name": "Coral Fragment",
+        "desc": "A shard of coral that's used to make fine jewelry.",
+        "type": "item",
+        "stats": {
+            "res": 1,
+            "sell": "<:silver:861870608295788546>1"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "blackpearl": {
+        "name": "Black Pearl",
+        "desc": "A black pearl harvested from a special mollusk.",
+        "type": "item",
+        "stats": {
+            "sell": "<:silver:861870608295788546>1"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "gargoyleear": {
+        "name": "Gargoyle Ear",
+        "desc": "A rock-hard ear taken from a gargoyle.",
+        "type": "item",
+        "stats": {
+            "sell": "<:silver:861870608295788546>5"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "bonewalkeroil": {
+        "name": "Bonewalker Oil",
+        "desc": "An efficient fuel extracted from a bonewalker's skull.",
+        "type": "item",
+        "stats": {
+            "sell": "<:silver:861870608295788546>10"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "redtricorn": {
+        "name": "Red Tricorn",
+        "desc": "A smart-looking hat made of fine fabric.",
+        "type": "accessory",
+        "stats": {
+            "sell": "<:silver:861870608295788546>10"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "dubiousmask": {
+        "name": "Dubious Mask",
+        "desc": "An eerie stone mask.",
+        "type": "accessory",
+        "stats": {
+            "sell": "<:silver:861870608295788546>10"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "dumashelm": {
+        "name": "Duma's Helm",
+        "desc": "A helm under divine providence.",
+        "type": "accessory",
+        "stats": {},
+        "reference": {},
+        "weapon": false
+    },
+    "milasdiadem": {
+        "name": "Mila's Diadem",
+        "desc": "A crown under divine providence.",
+        "type": "accessory",
+        "stats": {},
+        "reference": {},
+        "weapon": false
+    },
+    "ale": {
+        "name": "Ale",
+        "desc": "A beverage consumed across the continent.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 10,
+            "fatigue restored": 10,
+            "sell": "<:silver:861870608295788546>6"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "leftoverale": {
+        "name": "Leftover Ale",
+        "desc": "An ale that someone has already half quaffed.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 10,
+            "fatigue restored": 10,
+            "sell": "<:silver:861870608295788546>3"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "soup": {
+        "name": "Soup",
+        "desc": "Warm soup cooked in meat stock.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 10,
+            "fatigue restored": 20,
+            "sell": "<:silver:861870608295788546>2"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "coldsoup": {
+        "name": "Cold Soup",
+        "desc": "Soup that was left out all night. It's cold.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 10,
+            "fatigue restored": 10,
+            "sell": "<:silver:861870608295788546>2"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "wine": {
+        "name": "Wine",
+        "desc": "A popular beverage made by fermenting grapes.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 10,
+            "fatigue restored": 10,
+            "sell": "<:silver:861870608295788546>12"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "garlic": {
+        "name": "Garlic",
+        "desc": "A flavorful root essential to many recipes.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 10,
+            "fatigue restored": 30,
+            "sell": "<:silver:861870608295788546>2"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "ramwine": {
+        "name": "Ram Wine",
+        "desc": "Wine that used to be produced in Ram Village.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 30,
+            "fatigue restored": 20,
+            "sell": "<:silver:861870608295788546>25"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "drinkingwater": {
+        "name": "Drinking Water",
+        "desc": "Clean water that is suitable for drinking.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 10,
+            "fatigue restored": 10,
+            "sell": "<:silver:861870608295788546>2"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "dumamoss": {
+        "name": "Duma Moss",
+        "desc": "A rare moss with healing properties.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 30,
+            "sell": "<:silver:861870608295788546>6"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "herring": {
+        "name": "Herring",
+        "desc": "A common fish found all across Valentia.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 20,
+            "fatigue restored": 10,
+            "sell": "<:silver:861870608295788546>4"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "dagonfillet": {
+        "name": "Dagon Fillet",
+        "desc": "A slice of a giant sea creature native to Zofia.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 40,
+            "fatigue restored": 20,
+            "sell": "<:silver:861870608295788546>8"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "yogurt": {
+        "name": "Yogurt",
+        "desc": "A refreshing, sour food made by fermenting milk.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 20,
+            "fatigue restored": 10,
+            "sell": "<:silver:861870608295788546>4"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "medicinalsyrup": {
+        "name": "Medicinal Syrup",
+        "desc": "A thick, restorative tincture made from herbs.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 40,
+            "fatigue restored": 40,
+            "sell": "<:silver:861870608295788546>8"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "orange": {
+        "name": "Orange",
+        "desc": "A sour fruit found across the continent.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 10,
+            "fatigue restored": 10,
+            "sell": "<:silver:861870608295788546>2"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "exoticspice": {
+        "name": "Exotic Spice",
+        "desc": "A potent spice traded far and wide.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 10,
+            "fatigue restored": 50,
+            "sell": "<:gold:861870608153182209>3"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "sausage": {
+        "name": "Sausage",
+        "desc": "Ground pork cased in intestine and smoked.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 30,
+            "fatigue restored": 20,
+            "sell": "<:silver:861870608295788546>6"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "driedshieldfish": {
+        "name": "Dried Shieldfish",
+        "desc": "A fish caught near Zofia's shores and then dried.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 30,
+            "fatigue restored": 20,
+            "sell": "<:silver:861870608295788546>6"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "carrot": {
+        "name": "Carrot",
+        "desc": "A light, sweet vegetable that's full of nutrition.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 10,
+            "fatigue restored": 10,
+            "sell": "<:silver:861870608295788546>2"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "butter": {
+        "name": "Butter",
+        "desc": "Milk churned to separate the butterfat, then salted.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 20,
+            "fatigue restored": 10,
+            "sell": "<:silver:861870608295788546>4"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "honey": {
+        "name": "Honey",
+        "desc": "Sweet honey harvested from a beehive.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 30,
+            "fatigue restored": 20,
+            "sell": "<:silver:861870608295788546>6"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "ham": {
+        "name": "Ham",
+        "desc": "A hunk of pork that's been cured to perfection.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 30,
+            "fatigue restored": 20,
+            "sell": "<:silver:861870608295788546>6"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "bread": {
+        "name": "Bread",
+        "desc": "A big loaf of bread good for multiple servings.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 10,
+            "fatigue restored": 10,
+            "sell": "<:silver:861870608295788546>2"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "leftoverbread": {
+        "name": "Leftover Bread",
+        "desc": "Bread with someone's teeth marks all over it.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 10,
+            "fatigue restored": 10,
+            "sell": "<:silver:861870608295788546>2"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "breadpiece": {
+        "name": "Bread Piece",
+        "desc": "A bite-sized chunk of bread.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 10,
+            "fatigue restored": 10,
+            "sell": "<:silver:861870608295788546>2"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "hardbread": {
+        "name": "Hard Bread",
+        "desc": "Bread that has dried out and become hard to eat.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 10,
+            "fatigue restored": 10,
+            "sell": "<:silver:861870608295788546>2"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "driedmeat": {
+        "name": "Dried Meat",
+        "desc": "Thin slices of dried meat. Long-lasting, but chewy.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 20,
+            "fatigue restored": 10,
+            "sell": "<:silver:861870608295788546>4"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "rawmeat": {
+        "name": "Raw Meat",
+        "desc": "Red meat that's still fresh from the kill.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 20,
+            "fatigue restored": 20,
+            "sell": "<:silver:861870608295788546>4"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "manaherbs": {
+        "name": "Mana Herbs",
+        "desc": "Herbs that grow in shade. Used in medicine.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 20,
+            "fatigue restored": 10,
+            "sell": "<:silver:861870608295788546>4"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "flour": {
+        "name": "Flour",
+        "desc": "Dried wheat that has been ground into powder.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 10,
+            "fatigue restored": 10,
+            "sell": "<:silver:861870608295788546>2"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "holeycheese": {
+        "name": "Holey Cheese",
+        "desc": "A simple hard cheese made from sheep's milk.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 10,
+            "fatigue restored": 10,
+            "sell": "<:silver:861870608295788546>2"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "bluecheese": {
+        "name": "Blue Cheese",
+        "desc": "Aged cheese infused with mold. Stinky and salty.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 40,
+            "fatigue restored": 20,
+            "sell": "<:silver:861870608295788546>8"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "sweetcookie": {
+        "name": "Sweet Cookie",
+        "desc": "A sweet baked treat popular with children.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 30,
+            "fatigue restored": 20,
+            "sell": "<:silver:861870608295788546>6"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "pegasuscheese": {
+        "name": "Pegasus Cheese",
+        "desc": "An extremely rare cheese. Increases speed.",
+        "type": "provision",
+        "stats": {
+            "fatigue restored": 40,
+            "sell": "<:silver:861870608295788546>10"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "nectar": {
+        "name": "Nectar",
+        "desc": "The sweet drink of the gods. Increases luck.",
+        "type": "provision",
+        "stats": {
+            "fatigue restored": 40,
+            "sell": "<:silver:861870608295788546>10"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "fruitoflife": {
+        "name": "Fruit of Life",
+        "desc": "Fruit from the elusive tree of life. Increases HP.",
+        "type": "provision",
+        "stats": {
+            "fatigue restored": 40,
+            "sell": "<:silver:861870608295788546>10"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "ambrosia": {
+        "name": "Ambrosia",
+        "desc": "The fragrant food of the gods. Increases defense.",
+        "type": "provision",
+        "stats": {
+            "fatigue restored": 40,
+            "sell": "<:silver:861870608295788546>10"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "goldenapple": {
+        "name": "Golden Apple",
+        "desc": "Fruit from the tree of knowledge. Grants EXP.",
+        "type": "provision",
+        "stats": {
+            "fatigue restored": 40,
+            "sell": "<:silver:861870608295788546>10"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "soma": {
+        "name": "Soma",
+        "desc": "A mystic plant extract. Increases attack.",
+        "type": "provision",
+        "stats": {
+            "fatigue restored": 40,
+            "sell": "<:silver:861870608295788546>10"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "nethergranate": {
+        "name": "Nethergranate",
+        "desc": "An underworld fruit. Increases skill.",
+        "type": "provision",
+        "stats": {
+            "fatigue restored": 40,
+            "sell": "<:silver:861870608295788546>10"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "veninsword": {
+        "name": "Venin Sword",
+        "desc": "A sword laced in venom. Poisons foes.",
+        "type": "sword",
+        "stats": {
+            "mt": 1,
+            "wt": 1,
+            "hit": 80,
+            "rng": 1,
+            "sell": "<:silver:861870608295788546>10"
+        },
+        "reference": {
+            "Passives": "Venom Strike (Hidden)"
+        },
+        "weapon": true
+    },
+    "veninlance": {
+        "name": "Venin Lance",
+        "desc": "A lance laced in venom. Poisons foes.",
+        "type": "lance",
+        "stats": {
+            "mt": 1,
+            "wt": 1,
+            "hit": 80,
+            "rng": 1,
+            "sell": "<:silver:861870608295788546>10"
+        },
+        "reference": {
+            "Passives": "Venom Strike (Hidden)"
+        },
+        "weapon": true
+    },
+    "veninbow": {
+        "name": "Venin Bow",
+        "desc": "A bow and arrows laced in venom. Poisons foes.",
+        "type": "bow",
+        "stats": {
+            "mt": 1,
+            "wt": 1,
+            "hit": 60,
+            "rng": "1-3",
+            "sell": "<:silver:861870608295788546>10"
+        },
+        "reference": {
+            "Passives": "Venom Strike (Hidden)"
+        },
+        "weapon": true,
+        "equip": {
+            "effective": true
+        }
+    },
+    "veninaxe": {
+        "name": "Venin Axe",
+        "desc": "An axe laced in venom. Poisons foes.",
+        "type": "axe",
+        "stats": {
+            "mt": 1,
+            "wt": 1,
+            "hit": 80,
+            "rng": 1
+        },
+        "reference": {
+            "Passives": "Venom Strike (Hidden)"
+        },
+        "weapon": true
+    },
+    "sagesshield": {
+        "name": "Sage's Shield",
+        "desc": "A shield that held some- thing in Thabes at bay.",
+        "type": "shield",
+        "stats": {
+            "wt": 2,
+            "def": 5,
+            "res": 5,
+            "sell": "<:gold:861870608153182209>3"
+        },
+        "reference": {
+            "Passives": "Recovery"
+        },
+        "weapon": false
+    },
+    "boots": {
+        "name": "Boots",
+        "desc": "An item that raises the user's movement.",
+        "type": "item",
+        "stats": {
+            "sell": "<:gold:861870608153182209>3"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "sevensword": {
+        "name": "Seven Sword",
+        "desc": "A sword that gains power in Turns 7-11.",
+        "type": "sword",
+        "stats": {
+            "mt": 5,
+            "wt": 1,
+            "hit": 90,
+            "rng": 1,
+            "sell": "<:gold:861870608153182209>1"
+        },
+        "reference": {
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>30 | Mt 6 | Wt 1 | Hit 90\n<:star_2:759767702834905119>2 <:gold:861870608153182209>1 | Mt 7 | Wt 0 | Hit 110"
+        },
+        "weapon": true,
+        "forge": [
+            {
+                "mt": 6,
+                "wt": 1,
+                "hit": 90
+            },
+            {
+                "mt": 7,
+                "wt": 0,
+                "hit": 110
+            }
+        ]
+    },
+    "elevenshield": {
+        "name": "Eleven Shield",
+        "desc": "A shield that gains power in Turns 7-11.",
+        "type": "shield",
+        "stats": {
+            "wt": 1,
+            "def": 4,
+            "res": 3,
+            "sell": "<:silver:861870608295788546>100"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "boiledchicken": {
+        "name": "Boiled Chicken",
+        "desc": "Delicious chicken that has been lightly seasoned.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 30,
+            "fatigue restored": 30
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "moistbread": {
+        "name": "Moist Bread",
+        "desc": "Delicious bread with a moist, chewy texture.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 30,
+            "fatigue restored": 30
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "spicychicken": {
+        "name": "Spicy Chicken",
+        "desc": "Delicious fried chicken with a fiery kick.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 30,
+            "fatigue restored": 30
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "millecrepe": {
+        "name": "Mille Crepe",
+        "desc": "A delicious cake made with layers of rich cream.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 30,
+            "fatigue restored": 30
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "chickenlink": {
+        "name": "Chicken Link",
+        "desc": "Delicious fried chicken flavored with garlic.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 30,
+            "fatigue restored": 30
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "purehoney": {
+        "name": "Pure Honey",
+        "desc": "Rich, delicious honey.",
+        "type": "provision",
+        "stats": {
+            "hp restored": 30,
+            "fatigue restored": 30
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "fernandslance": {
+        "name": "Fernand's Lance",
+        "desc": "The lance of an outrider in search of his own path.",
+        "type": "lance",
+        "stats": {
+            "mt": 3,
+            "wt": 1,
+            "hit": 90,
+            "rng": 1,
+            "sell": "<:silver:861870608295788546>10"
+        },
+        "reference": {
+            "Combat Arts": "Longearche (20 WEXP)\nPenetrate (10 WEXP)\nWindsweep (25 WEXP)",
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>30 | Mt 4 | Wt 1 | Hit 90\n<:star_2:759767702834905119>2 <:silver:861870608295788546>70 | Mt 5 | Wt 1 | Hit 90\n<:star_3:759767702696230933>3 <:silver:861870608295788546>120 | Mt 5 | Wt 1 | Hit 90 | Crit 5\n<:star_4:759767703195222026>4 <:gold:861870608153182209>1 | Mt 6 | Wt 1 | Hit 90 | Crit 5\n<:star_5:759767702876192772>5 <:gold:861870608153182209>2 | Mt 9 | Wt 1 | Hit 90 | Crit 15"
+        },
+        "weapon": true,
+        "forge": [
+            {
+                "mt": 4,
+                "wt": 1,
+                "hit": 90
+            },
+            {
+                "mt": 5,
+                "wt": 1,
+                "hit": 90
+            },
+            {
+                "mt": 5,
+                "wt": 1,
+                "hit": 90,
+                "crit": 5
+            },
+            {
+                "mt": 6,
+                "wt": 1,
+                "hit": 90,
+                "crit": 5
+            },
+            {
+                "mt": 9,
+                "wt": 1,
+                "hit": 90,
+                "crit": 15
+            }
+        ]
+    },
+    "clairslance": {
+        "name": "Clair's Lance",
+        "desc": "A lance said to drive away evil and improve Resistance.",
+        "type": "lance",
+        "stats": {
+            "mt": 2,
+            "wt": 0,
+            "hit": 90,
+            "rng": 1,
+            "res": 5,
+            "sell": "<:silver:861870608295788546>25"
+        },
+        "reference": {
+            "Passives": "Anti-Terrors",
+            "Combat Arts": "Mistdancer (20 WEXP)",
+            "Upgrade": "<:star_1:759767702905552916>1 <:gold:861870608153182209>1 | Mt 3 | Wt 0 | Hit 90\n<:star_2:759767702834905119>2 <:gold:861870608153182209>1 | Mt 4 | Wt 0 | Hit 90\n<:star_3:759767702696230933>3 <:gold:861870608153182209>1 | Mt 5 | Wt 0 | Hit 90\n<:star_4:759767703195222026>4 <:gold:861870608153182209>2 | Mt 7 | Wt 0 | Hit 100"
+        },
+        "weapon": true,
+        "equip": {
+            "effective": true
+        },
+        "forge": [
+            {
+                "mt": 3,
+                "wt": 0,
+                "hit": 90
+            },
+            {
+                "mt": 4,
+                "wt": 0,
+                "hit": 90
+            },
+            {
+                "mt": 5,
+                "wt": 0,
+                "hit": 90
+            },
+            {
+                "mt": 7,
+                "wt": 0,
+                "hit": 100
+            }
+        ]
+    },
+    "cliveslance": {
+        "name": "Clive's Lance",
+        "desc": "A lance that points to a better future.",
+        "type": "lance",
+        "stats": {
+            "mt": 5,
+            "wt": 2,
+            "hit": 80,
+            "rng": 1,
+            "sell": "<:silver:861870608295788546>15"
+        },
+        "reference": {
+            "Combat Arts": "Wrath Strike (10 WEXP)\nArmorcrush (15 WEXP)\nLunge (10 WEXP)",
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>50 | Mt 6 | Wt 2 | Hit 80\n<:star_2:759767702834905119>2 <:silver:861870608295788546>120 | Mt 7 | Wt 2 | Hit 80\n<:star_3:759767702696230933>3 <:silver:861870608295788546>200 | Mt 8 | Wt 2 | Hit 80\n<:star_4:759767703195222026>4 <:gold:861870608153182209>1 | Mt 9 | Wt 2 | Hit 80\n<:star_5:759767702876192772>5 <:gold:861870608153182209>2 | Mt 10 | Wt 2 | Hit 85\n**6 stars** <:gold:861870608153182209>3 | Mt 13 | Wt 2 | Hit 90"
+        },
+        "weapon": true,
+        "forge": [
+            {
+                "mt": 6,
+                "wt": 2,
+                "hit": 80
+            },
+            {
+                "mt": 7,
+                "wt": 2,
+                "hit": 80
+            },
+            {
+                "mt": 8,
+                "wt": 2,
+                "hit": 80
+            },
+            {
+                "mt": 9,
+                "wt": 2,
+                "hit": 80
+            },
+            {
+                "mt": 10,
+                "wt": 2,
+                "hit": 85
+            },
+            {
+                "mt": 13,
+                "wt": 2,
+                "hit": 90
+            }
+        ]
+    },
+    "traineeslance": {
+        "name": "Trainee's Lance",
+        "desc": "A lance Emma has been using for some time.",
+        "type": "lance",
+        "stats": {
+            "mt": 2,
+            "wt": 0,
+            "hit": 100,
+            "rng": 1
+        },
+        "reference": {
+            "Combat Arts": "Solo Triangle Attack (20 WEXP)"
+        },
+        "weapon": true
+    },
+    "waywardlance": {
+        "name": "Wayward Lance",
+        "desc": "Randal's favorite lance.",
+        "type": "lance",
+        "stats": {
+            "mt": 3,
+            "wt": 2,
+            "hit": 70,
+            "crit": 20,
+            "rng": 1
+        },
+        "reference": {
+            "Combat Arts": "Heaven or Hell (20 WEXP)"
+        },
+        "weapon": true
+    },
+    "warriorssword": {
+        "name": "Warrior's Sword",
+        "desc": "A simple, sturdy sword favored by Yuzu.",
+        "type": "sword",
+        "stats": {
+            "mt": 6,
+            "wt": 2,
+            "hit": 80,
+            "crit": 20,
+            "rng": 1
+        },
+        "reference": {
+            "Combat Arts": "Armor Disruptor (15 WEXP)"
+        },
+        "weapon": true
+    },
+    "pythonsbow": {
+        "name": "Python's Bow",
+        "desc": "A bow that answers to a skilled archer.",
+        "type": "bow",
+        "stats": {
+            "mt": 2,
+            "wt": 3,
+            "hit": 80,
+            "rng": "2-3",
+            "sell": "<:silver:861870608295788546>10"
+        },
+        "reference": {
+            "Passives": "Anti-Fliers",
+            "Combat Arts": "Curved Shot (15 WEXP)\nHeavy Draw (20 WEXP)\nEncloser (20 WEXP)",
+            "Upgrade": "<:star_1:759767702905552916>1 <:silver:861870608295788546>40 | Mt 3 | Wt 3 | Hit 80\n<:star_2:759767702834905119>2 <:silver:861870608295788546>90 | Mt 4 | Wt 3 | Hit 80\n<:star_3:759767702696230933>3 <:silver:861870608295788546>150 | Mt 5 | Wt 3 | Hit 80 | Crit 5\n<:star_4:759767703195222026>4 <:gold:861870608153182209>2 | Mt 7 | Wt 3 | Hit 80 | Crit 10\n<:star_5:759767702876192772>5 <:gold:861870608153182209>2 | Mt 9 | Wt 3 | Hit 80 | Crit 20"
+        },
+        "weapon": true,
+        "equip": {
+            "effective": true
+        },
+        "forge": [
+            {
+                "mt": 3,
+                "wt": 3,
+                "hit": 80
+            },
+            {
+                "mt": 4,
+                "wt": 3,
+                "hit": 80
+            },
+            {
+                "mt": 5,
+                "wt": 3,
+                "hit": 80,
+                "crit": 5
+            },
+            {
+                "mt": 7,
+                "wt": 3,
+                "hit": 80,
+                "crit": 10
+            },
+            {
+                "mt": 9,
+                "wt": 3,
+                "hit": 80,
+                "crit": 20
+            }
+        ]
+    },
+    "lukassshield": {
+        "name": "Lukas's Shield",
+        "desc": "A shield in which the tides of battle are reflected.",
+        "type": "shield",
+        "stats": {
+            "wt": 3,
+            "def": 5,
+            "sell": "<:silver:861870608295788546>10"
+        },
+        "reference": {
+            "Combat Arts": "Swap (5 WEXP)\nShove (10 WEXP)\nDefensive (15 WEXP)"
+        },
+        "weapon": false
+    },
+    "ariesshard": {
+        "name": "Aries Shard",
+        "desc": "+40% Lck Growth",
+        "type": "shard",
+        "stats": {
+            "sell": "<:silver:861870608295788546>5"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "taurusshard": {
+        "name": "Taurus Shard",
+        "desc": "+5% HP Growth, +5% Atk Growth, +5% Skl Growth, +5% Spd Growth, +5% Lck Growth, +5% Def Growth, +2% Res Growth",
+        "type": "shard",
+        "stats": {
+            "sell": "<:silver:861870608295788546>5"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "geminishard": {
+        "name": "Gemini Shard",
+        "desc": "+25% Atk Growth, -5% Skl Growth, +20% Def Growth",
+        "type": "shard",
+        "stats": {
+            "sell": "<:silver:861870608295788546>5"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "cancershard": {
+        "name": "Cancer Shard",
+        "desc": "-10% Atk Growth, +50% Def Growth",
+        "type": "shard",
+        "stats": {
+            "sell": "<:silver:861870608295788546>5"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "leoshard": {
+        "name": "Leo Shard",
+        "desc": "+50% Atk Growth, -10% Def Growth",
+        "type": "shard",
+        "stats": {
+            "sell": "<:silver:861870608295788546>5"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "virgoshard": {
+        "name": "Virgo Shard",
+        "desc": "+10% Atk Growth, +10% Skl Growth, -10% Def Growth, +5% Res Growth",
+        "type": "shard",
+        "stats": {
+            "sell": "<:silver:861870608295788546>5"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "librashard": {
+        "name": "Libra Shard",
+        "desc": "-10% HP Growth, +5% Atk Growth, +5% Skl Growth, +40% Spd Growth, +10% Lck Growth, -2% Res Growth",
+        "type": "shard",
+        "stats": {
+            "sell": "<:silver:861870608295788546>5"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "scorpioshard": {
+        "name": "Scorpio Shard",
+        "desc": "+20% Atk Growth, +20% Skl Growth, +10% Spd Growth, -10% Lck Growth",
+        "type": "shard",
+        "stats": {
+            "sell": "<:silver:861870608295788546>5"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "sagittariusshard": {
+        "name": "Sagittarius Shard",
+        "desc": "-10% HP Growth, +40% Skl Growth, +10% Spd Growth",
+        "type": "shard",
+        "stats": {
+            "sell": "<:silver:861870608295788546>5"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "capricornshard": {
+        "name": "Capricorn Shard",
+        "desc": "+20% HP Growth, +15% Atk Growth, +5% Skl Growth, -10% Spd Growth, +10% Def Growth",
+        "type": "shard",
+        "stats": {
+            "sell": "<:silver:861870608295788546>5"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "aquariusshard": {
+        "name": "Aquarius Shard",
+        "desc": "+15% Atk Growth, +15% Skl Growth, +10% Spd Growth",
+        "type": "shard",
+        "stats": {
+            "sell": "<:silver:861870608295788546>5"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "piscesshard": {
+        "name": "Pisces Shard",
+        "desc": "+10% HP Growth, +10% Lck Growth, +10% Def Growth, +2% Res Growth",
+        "type": "shard",
+        "stats": {
+            "sell": "<:silver:861870608295788546>5"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "pitchfork": {
+        "name": "Pitchfork",
+        "desc": "Allows the holder to reclass to Villager in a Mila Shrine. Cannot be used on Alm or Celica.",
+        "type": "item",
+        "stats": {
+            "sell": "<:silver:861870608295788546>1"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "talisman": {
+        "name": "Talisman",
+        "desc": "A consecrated accessory that increases Resistance by 3.",
+        "type": "item",
+        "stats": {
+            "sell": "<:silver:861870608295788546>5"
+        },
+        "reference": {},
+        "weapon": false
+    },
+    "starjacinth": {
+        "name": "Star Jacinth",
+        "desc": "Increases holder's resistance growth rate by 5%, and all other stats by 30%.",
+        "type": "shard",
+        "stats": {
+            "sell": "<:gold:861870608153182209>1"
+        },
+        "reference": {},
+        "weapon": false
+    }
+}

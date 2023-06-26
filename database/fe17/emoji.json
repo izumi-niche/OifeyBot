@@ -1,0 +1,57 @@
+{
+    "Silver": {
+        "name": "fe17_silver",
+        "id": 1068245670990975069,
+        "animated": false
+    },
+    "Steel": {
+        "name": "fe17_steel",
+        "id": 1068245673620807690,
+        "animated": false
+    },
+    "Iron": {
+        "name": "fe17_iron",
+        "id": 1068245695557021826,
+        "animated": false
+    },
+    "knife": {
+        "name": "fe17_knife",
+        "id": 1070975710916780062,
+        "animated": false
+    },
+    "art": {
+        "name": "fe17_art",
+        "id": 1070975713429159986,
+        "animated": false
+    },
+    "lance": {
+        "name": "fe17_lance",
+        "id": 1070975714712637500,
+        "animated": false
+    },
+    "bow": {
+        "name": "fe17_bow",
+        "id": 1070975716675567677,
+        "animated": false
+    },
+    "staff": {
+        "name": "fe17_staff",
+        "id": 1070975719376691200,
+        "animated": false
+    },
+    "tome": {
+        "name": "fe17_tome",
+        "id": 1070975720739831859,
+        "animated": false
+    },
+    "sword": {
+        "name": "fe17_sword",
+        "id": 1070975742311149598,
+        "animated": false
+    },
+    "axe": {
+        "name": "fe17_axe",
+        "id": 1070975744336994405,
+        "animated": false
+    }
+}

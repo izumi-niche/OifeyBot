@@ -1,0 +1,292 @@
+{
+    "fe9_axe": {
+        "name": "fe9_axe",
+        "id": 703095245742538753,
+        "animated": false
+    },
+    "fe9_fire": {
+        "name": "fe9_fire",
+        "id": 705235588579721247,
+        "animated": false
+    },
+    "fe9_staff": {
+        "name": "fe9_staff",
+        "id": 703095245902053377,
+        "animated": false
+    },
+    "fe9_thunder": {
+        "name": "fe9_thunder",
+        "id": 705235588609212457,
+        "animated": false
+    },
+    "fe9_bow": {
+        "name": "fe9_bow",
+        "id": 703095246019493928,
+        "animated": false
+    },
+    "fe9_sword": {
+        "name": "fe9_sword",
+        "id": 703095246057373806,
+        "animated": false
+    },
+    "fe9_lance": {
+        "name": "fe9_lance",
+        "id": 703095246065631314,
+        "animated": false
+    },
+    "fe9_wind": {
+        "name": "fe9_wind",
+        "id": 705235588756013136,
+        "animated": false
+    },
+    "fe9_aether": {
+        "name": "fe9_aether",
+        "id": 704883812085006337,
+        "animated": false
+    },
+    "fe9_celerity": {
+        "name": "fe9_celerity",
+        "id": 704883812286464032,
+        "animated": false
+    },
+    "fe9_astra": {
+        "name": "fe9_astra",
+        "id": 704883812324212737,
+        "animated": false
+    },
+    "fe9_deadeye": {
+        "name": "fe9_deadeye",
+        "id": 704883812383064127,
+        "animated": false
+    },
+    "fe9_blossom": {
+        "name": "fe9_blossom",
+        "id": 704883812425007184,
+        "animated": false
+    },
+    "fe9_boon": {
+        "name": "fe9_boon",
+        "id": 704883812512825405,
+        "animated": false
+    },
+    "fe9_adept": {
+        "name": "fe9_adept",
+        "id": 704883812525670530,
+        "animated": false
+    },
+    "fe9_canto": {
+        "name": "fe9_canto",
+        "id": 704883812550574180,
+        "animated": false
+    },
+    "fe9_cancel": {
+        "name": "fe9_cancel",
+        "id": 704883812550705202,
+        "animated": false
+    },
+    "fe9_mantle": {
+        "name": "fe9_mantle",
+        "id": 704883812559093872,
+        "animated": false
+    },
+    "fe9_corrosion": {
+        "name": "fe9_corrosion",
+        "id": 704883812563419167,
+        "animated": false
+    },
+    "fe9_colossus": {
+        "name": "fe9_colossus",
+        "id": 704883812592517130,
+        "animated": false
+    },
+    "fe9_lumina": {
+        "name": "fe9_lumina",
+        "id": 704883812592648204,
+        "animated": false
+    },
+    "fe9_blessing": {
+        "name": "fe9_blessing",
+        "id": 704883812601167902,
+        "animated": false
+    },
+    "fe9_daunt": {
+        "name": "fe9_daunt",
+        "id": 704883812663820419,
+        "animated": false
+    },
+    "fe9_counter": {
+        "name": "fe9_counter",
+        "id": 704883812685054043,
+        "animated": false
+    },
+    "fe9_paragon": {
+        "name": "fe9_paragon",
+        "id": 704883812710088795,
+        "animated": false
+    },
+    "fe9_discipline": {
+        "name": "fe9_discipline",
+        "id": 704883812752162876,
+        "animated": false
+    },
+    "fe9_guard": {
+        "name": "fe9_guard",
+        "id": 704883812781260850,
+        "animated": false
+    },
+    "fe9_insight": {
+        "name": "fe9_insight",
+        "id": 704883812794105886,
+        "animated": false
+    },
+    "fe9_lethality": {
+        "name": "fe9_lethality",
+        "id": 704883812802363493,
+        "animated": false
+    },
+    "fe9_flare": {
+        "name": "fe9_flare",
+        "id": 704883812810883082,
+        "animated": false
+    },
+    "fe9_gamble": {
+        "name": "fe9_gamble",
+        "id": 704883812835786792,
+        "animated": false
+    },
+    "fe9_luna": {
+        "name": "fe9_luna",
+        "id": 704883812903026743,
+        "animated": false
+    },
+    "fe9_miracle": {
+        "name": "fe9_miracle",
+        "id": 704883812940644412,
+        "animated": false
+    },
+    "fe9_provoke": {
+        "name": "fe9_provoke",
+        "id": 704883812961878037,
+        "animated": false
+    },
+    "fe9_parity": {
+        "name": "fe9_parity",
+        "id": 704883813037375678,
+        "animated": false
+    },
+    "fe9_nihil": {
+        "name": "fe9_nihil",
+        "id": 704883813041569793,
+        "animated": false
+    },
+    "fe9_renewal": {
+        "name": "fe9_renewal",
+        "id": 704883813188108398,
+        "animated": false
+    },
+    "fe9_reinforce": {
+        "name": "fe9_reinforce",
+        "id": 704883813196759141,
+        "animated": false
+    },
+    "fe9_knife": {
+        "name": "fe9_knife",
+        "id": 704884349220290641,
+        "animated": false
+    },
+    "fe9_smite": {
+        "name": "fe9_smite",
+        "id": 704885494991028257,
+        "animated": false
+    },
+    "fe9_steal": {
+        "name": "fe9_steal",
+        "id": 704885495024451816,
+        "animated": false
+    },
+    "fe9_vigilance": {
+        "name": "fe9_vigilance",
+        "id": 704885495175315488,
+        "animated": false
+    },
+    "fe9_shade": {
+        "name": "fe9_shade",
+        "id": 704885495276241007,
+        "animated": false
+    },
+    "fe9_vantage": {
+        "name": "fe9_vantage",
+        "id": 704885495305469955,
+        "animated": false
+    },
+    "fe9_savior": {
+        "name": "fe9_savior",
+        "id": 704885495318052964,
+        "animated": false
+    },
+    "fe9_serenity": {
+        "name": "fe9_serenity",
+        "id": 704885495326441522,
+        "animated": false
+    },
+    "fe9_sol": {
+        "name": "fe9_sol",
+        "id": 704885495334699098,
+        "animated": false
+    },
+    "fe9_resolve": {
+        "name": "fe9_resolve",
+        "id": 704885495351738508,
+        "animated": false
+    },
+    "fe9_roar": {
+        "name": "fe9_roar",
+        "id": 704885495355932712,
+        "animated": false
+    },
+    "fe9_stun": {
+        "name": "fe9_stun",
+        "id": 704885495439818803,
+        "animated": false
+    },
+    "fe9_tempest": {
+        "name": "fe9_tempest",
+        "id": 704885495464984656,
+        "animated": false
+    },
+    "fe9_vortex": {
+        "name": "fe9_vortex",
+        "id": 704885495548608543,
+        "animated": false
+    },
+    "fe9_wrath": {
+        "name": "fe9_wrath",
+        "id": 704885495670505473,
+        "animated": false
+    },
+    "fe9_earth": {
+        "name": "fe9_earth",
+        "id": 705235588172873821,
+        "animated": false
+    },
+    "fe9_dark": {
+        "name": "fe9_dark",
+        "id": 705235588353097739,
+        "animated": false
+    },
+    "fe9_light": {
+        "name": "fe9_light",
+        "id": 705235588407754822,
+        "animated": false
+    },
+    "fe9_heaven": {
+        "name": "fe9_heaven",
+        "id": 705235588563075143,
+        "animated": false
+    },
+    "fe9_water": {
+        "name": "fe9_water",
+        "id": 705235588701356131,
+        "animated": false
+    }
+}

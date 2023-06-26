@@ -1,0 +1,432 @@
+{
+    "fe12_astram": {
+        "name": "fe12_astram",
+        "id": 652542877120856105,
+        "animated": false
+    },
+    "fe12_belf": {
+        "name": "fe12_belf",
+        "id": 652542877250879499,
+        "animated": false
+    },
+    "fe12_bantu": {
+        "name": "fe12_bantu",
+        "id": 652542877322313764,
+        "animated": false
+    },
+    "fe12_athena": {
+        "name": "fe12_athena",
+        "id": 652542877343285288,
+        "animated": false
+    },
+    "fe12_beck": {
+        "name": "fe12_beck",
+        "id": 652542877351673856,
+        "animated": false
+    },
+    "fe12_abel": {
+        "name": "fe12_abel",
+        "id": 652542877360193536,
+        "animated": false
+    },
+    "fe12_barst": {
+        "name": "fe12_barst",
+        "id": 652542877464789002,
+        "animated": false
+    },
+    "fe12_bord": {
+        "name": "fe12_bord",
+        "id": 652542877594943498,
+        "animated": false
+    },
+    "fe12_arran": {
+        "name": "fe12_arran",
+        "id": 652542877624303636,
+        "animated": false
+    },
+    "fe12_caeda": {
+        "name": "fe12_caeda",
+        "id": 652542877657858069,
+        "animated": false
+    },
+    "fe12_caesar": {
+        "name": "fe12_caesar",
+        "id": 652542877678829588,
+        "animated": false
+    },
+    "fe12_castor": {
+        "name": "fe12_castor",
+        "id": 652542878693851167,
+        "animated": false
+    },
+    "fe12_cain": {
+        "name": "fe12_cain",
+        "id": 652542879062818837,
+        "animated": false
+    },
+    "fe12_catria": {
+        "name": "fe12_catria",
+        "id": 652542879432179713,
+        "animated": false
+    },
+    "fe12_cecil": {
+        "name": "fe12_cecil",
+        "id": 652542880086491186,
+        "animated": false
+    },
+    "fe12_dolph": {
+        "name": "fe12_dolph",
+        "id": 652542880388218881,
+        "animated": false
+    },
+    "fe12_cord": {
+        "name": "fe12_cord",
+        "id": 652542880493207582,
+        "animated": false
+    },
+    "fe12_dice": {
+        "name": "fe12_dice",
+        "id": 652542880594001930,
+        "animated": false
+    },
+    "fe12_darros": {
+        "name": "fe12_darros",
+        "id": 652542880702922780,
+        "animated": false
+    },
+    "fe12_elice": {
+        "name": "fe12_elice",
+        "id": 652542881332199434,
+        "animated": false
+    },
+    "fe12_draug": {
+        "name": "fe12_draug",
+        "id": 652542881336131604,
+        "animated": false
+    },
+    "fe12_est": {
+        "name": "fe12_est",
+        "id": 652542881445445639,
+        "animated": false
+    },
+    "fe12_frey": {
+        "name": "fe12_frey",
+        "id": 652542881923596299,
+        "animated": false
+    },
+    "fe12_ellerean": {
+        "name": "fe12_ellerean",
+        "id": 652542882011414528,
+        "animated": false
+    },
+    "fe12_julian": {
+        "name": "fe12_julian",
+        "id": 652542882049425408,
+        "animated": false
+    },
+    "fe12_etzel": {
+        "name": "fe12_etzel",
+        "id": 652542882053619722,
+        "animated": false
+    },
+    "fe12_jeorge": {
+        "name": "fe12_jeorge",
+        "id": 652542882317598722,
+        "animated": false
+    },
+    "fe12_gordin": {
+        "name": "fe12_gordin",
+        "id": 652542882460467240,
+        "animated": false
+    },
+    "fe12_frost": {
+        "name": "fe12_frost",
+        "id": 652542882527313920,
+        "animated": false
+    },
+    "fe12_jake": {
+        "name": "fe12_jake",
+        "id": 652542882645016606,
+        "animated": false
+    },
+    "fe12_horace": {
+        "name": "fe12_horace",
+        "id": 652542882800205847,
+        "animated": false
+    },
+    "fe12_leiden": {
+        "name": "fe12_leiden",
+        "id": 652542883336814613,
+        "animated": false
+    },
+    "fe12_katarina": {
+        "name": "fe12_katarina",
+        "id": 652542883546791946,
+        "animated": false
+    },
+    "fe12_kris": {
+        "name": "fe12_kris",
+        "id": 652542883789930517,
+        "animated": false
+    },
+    "fe12_lena": {
+        "name": "fe12_lena",
+        "id": 652542883819421702,
+        "animated": false
+    },
+    "fe12_luke": {
+        "name": "fe12_luke",
+        "id": 652542884016422934,
+        "animated": false
+    },
+    "fe12_linde": {
+        "name": "fe12_linde",
+        "id": 652542884092051489,
+        "animated": false
+    },
+    "fe12_macellan": {
+        "name": "fe12_macellan",
+        "id": 652542884196909068,
+        "animated": false
+    },
+    "fe12_minerva": {
+        "name": "fe12_minerva",
+        "id": 652542884461150230,
+        "animated": false
+    },
+    "fe12_merric": {
+        "name": "fe12_merric",
+        "id": 652542884632854560,
+        "animated": false
+    },
+    "fe12_maria": {
+        "name": "fe12_maria",
+        "id": 652542884641374218,
+        "animated": false
+    },
+    "fe12_midia": {
+        "name": "fe12_midia",
+        "id": 652542884704157718,
+        "animated": false
+    },
+    "fe12_matthis": {
+        "name": "fe12_matthis",
+        "id": 652542884708483082,
+        "animated": false
+    },
+    "fe12_navarre": {
+        "name": "fe12_navarre",
+        "id": 652542884834312214,
+        "animated": false
+    },
+    "fe12_malice": {
+        "name": "fe12_malice",
+        "id": 652542884842700850,
+        "animated": false
+    },
+    "fe12_norne": {
+        "name": "fe12_norne",
+        "id": 652542884947689512,
+        "animated": false
+    },
+    "fe12_malicia": {
+        "name": "fe12_malicia",
+        "id": 652542884972724254,
+        "animated": false
+    },
+    "fe12_nagi": {
+        "name": "fe12_nagi",
+        "id": 652542884985307136,
+        "animated": false
+    },
+    "fe12_michalis": {
+        "name": "fe12_michalis",
+        "id": 652542885006409739,
+        "animated": false
+    },
+    "fe12_marth": {
+        "name": "fe12_marth",
+        "id": 652542885387829268,
+        "animated": false
+    },
+    "bow": {
+        "name": "fe12_bow",
+        "id": 674108867616964610,
+        "animated": false
+    },
+    "axe": {
+        "name": "fe12_axe",
+        "id": 674108867885531187,
+        "animated": false
+    },
+    "lance": {
+        "name": "fe12_lance",
+        "id": 674108867948576798,
+        "animated": false
+    },
+    "sword": {
+        "name": "fe12_sword",
+        "id": 674108868040851466,
+        "animated": false
+    },
+    "staff": {
+        "name": "fe12_staff",
+        "id": 674108868061691904,
+        "animated": false
+    },
+    "tome": {
+        "name": "fe12_tome",
+        "id": 674108868279664659,
+        "animated": false
+    },
+    "fe12_nyna": {
+        "name": "fe12_nyna",
+        "id": 652543585597784086,
+        "animated": false
+    },
+    "fe12_palla": {
+        "name": "fe12_palla",
+        "id": 652543585660698644,
+        "animated": false
+    },
+    "fe12_ogma": {
+        "name": "fe12_ogma",
+        "id": 652543585711030272,
+        "animated": false
+    },
+    "fe12_rickard": {
+        "name": "fe12_rickard",
+        "id": 652543585719156756,
+        "animated": false
+    },
+    "fe12_radd": {
+        "name": "fe12_radd",
+        "id": 652543585962557471,
+        "animated": false
+    },
+    "fe12_phina": {
+        "name": "fe12_phina",
+        "id": 652543586147106846,
+        "animated": false
+    },
+    "fe12_roberto": {
+        "name": "fe12_roberto",
+        "id": 652543586159820810,
+        "animated": false
+    },
+    "fe12_roderick": {
+        "name": "fe12_roderick",
+        "id": 652543586172141568,
+        "animated": false
+    },
+    "fe12_roshea": {
+        "name": "fe12_roshea",
+        "id": 652543586298101771,
+        "animated": false
+    },
+    "fe12_ryan": {
+        "name": "fe12_ryan",
+        "id": 652543586486845442,
+        "animated": false
+    },
+    "fe12_roger": {
+        "name": "fe12_roger",
+        "id": 652543586491039764,
+        "animated": false
+    },
+    "fe12_samson": {
+        "name": "fe12_samson",
+        "id": 652543586948087819,
+        "animated": false
+    },
+    "fe12_sedgar": {
+        "name": "fe12_sedgar",
+        "id": 652543588508368904,
+        "animated": false
+    },
+    "fe12_samto": {
+        "name": "fe12_samto",
+        "id": 652543588760158226,
+        "animated": false
+    },
+    "fe12_sheena": {
+        "name": "fe12_sheena",
+        "id": 652543588781260801,
+        "animated": false
+    },
+    "fe12_tomas": {
+        "name": "fe12_tomas",
+        "id": 652543589078925313,
+        "animated": false
+    },
+    "fe12_vyland": {
+        "name": "fe12_vyland",
+        "id": 652543589318131732,
+        "animated": false
+    },
+    "fe12_sirius": {
+        "name": "fe12_sirius",
+        "id": 652543589318131772,
+        "animated": false
+    },
+    "fe12_wrys": {
+        "name": "fe12_wrys",
+        "id": 652543589389303808,
+        "animated": false
+    },
+    "fe12_warren": {
+        "name": "fe12_warren",
+        "id": 652543589431115796,
+        "animated": false
+    },
+    "fe12_wolf": {
+        "name": "fe12_wolf",
+        "id": 652543589527584780,
+        "animated": false
+    },
+    "fe12_ymir": {
+        "name": "fe12_ymir",
+        "id": 652543589557207061,
+        "animated": false
+    },
+    "fe12_xane": {
+        "name": "fe12_xane",
+        "id": 652543589628379136,
+        "animated": false
+    },
+    "fe12_yumina": {
+        "name": "fe12_yumina",
+        "id": 652543589653413909,
+        "animated": false
+    },
+    "fe12_yubello": {
+        "name": "fe12_yubello",
+        "id": 652543589653545036,
+        "animated": false
+    },
+    "fe12_tiki": {
+        "name": "fe12_tiki",
+        "id": 652543589775048714,
+        "animated": false
+    },
+    "fe12_wendell": {
+        "name": "fe12_wendell",
+        "id": 652543589989220365,
+        "animated": false
+    },
+    "dsfe_masterseal": {
+        "name": "dsfe_masterseal",
+        "id": 663448809090711603,
+        "animated": false
+    },
+    "dsfe_rainbowpotion": {
+        "name": "dsfe_rainbowpotion",
+        "id": 663448809455747087,
+        "animated": false
+    },
+    "dsfe_growthdrop": {
+        "name": "dsfe_growthdrop",
+        "id": 687114814870388757,
+        "animated": false
+    }
+}

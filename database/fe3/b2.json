@@ -1,0 +1,1290 @@
+{
+    "abel": {
+        "name": "Abel",
+        "portrait": "abel.png",
+        "lvl": 1,
+        "job": "paladin",
+        "promo": false,
+        "growth": {
+            "hp": 70,
+            "atk": 40,
+            "skl": 50,
+            "spd": 50,
+            "lck": 40,
+            "wlv": 70,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 28,
+            "atk": 6,
+            "skl": 9,
+            "spd": 8,
+            "lck": 5,
+            "wlv": 11,
+            "def": 6,
+            "res": 0
+        },
+        "note": "For Book 1 stats, use o!b1 Abel instead."
+    },
+    "arlen": {
+        "name": "Arlen",
+        "portrait": "arlen.png",
+        "lvl": 10,
+        "job": "magem",
+        "promo": "bishopm",
+        "growth": {
+            "hp": 90,
+            "atk": 10,
+            "skl": 30,
+            "spd": 40,
+            "lck": 10,
+            "wlv": 70,
+            "def": 30,
+            "res": 3
+        },
+        "base": {
+            "hp": 22,
+            "atk": 4,
+            "skl": 5,
+            "spd": 7,
+            "lck": 6,
+            "wlv": 12,
+            "def": 5,
+            "res": 0
+        },
+        "note": false
+    },
+    "arran": {
+        "name": "Arran",
+        "portrait": "arran.png",
+        "lvl": 3,
+        "job": "paladin",
+        "promo": false,
+        "growth": {
+            "hp": 10,
+            "atk": 10,
+            "skl": 10,
+            "spd": 10,
+            "lck": 0,
+            "wlv": 10,
+            "def": 10,
+            "res": 3
+        },
+        "base": {
+            "hp": 22,
+            "atk": 1,
+            "skl": 3,
+            "spd": 4,
+            "lck": 4,
+            "wlv": 10,
+            "def": 2,
+            "res": 0
+        },
+        "note": "For Book 1 stats, use o!b1 Arran instead."
+    },
+    "astram": {
+        "name": "Astram",
+        "portrait": "astram.png",
+        "lvl": 5,
+        "job": "hero",
+        "promo": false,
+        "growth": {
+            "hp": 90,
+            "atk": 50,
+            "skl": 40,
+            "spd": 20,
+            "lck": 50,
+            "wlv": 40,
+            "def": 10,
+            "res": 3
+        },
+        "base": {
+            "hp": 28,
+            "atk": 5,
+            "skl": 6,
+            "spd": 5,
+            "lck": 5,
+            "wlv": 16,
+            "def": 4,
+            "res": 0
+        },
+        "note": "For Book 1 stats, use o!b1 Astram instead."
+    },
+    "bantu": {
+        "name": "Bantu",
+        "portrait": "bantu.png",
+        "lvl": 3,
+        "job": "manaketem",
+        "promo": false,
+        "growth": {
+            "hp": 10,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 10,
+            "wlv": 0,
+            "def": 0,
+            "res": 3
+        },
+        "base": {
+            "hp": 18,
+            "atk": 2,
+            "skl": 3,
+            "spd": 2,
+            "lck": 1,
+            "wlv": 2,
+            "def": 2,
+            "res": 0
+        },
+        "note": "For Book 1 stats, use o!b1 Bantu instead."
+    },
+    "caeda": {
+        "name": "Caeda",
+        "portrait": "caeda_b2.png",
+        "lvl": 4,
+        "job": "pegasusknight",
+        "promo": "dracoknight",
+        "growth": {
+            "hp": 50,
+            "atk": 20,
+            "skl": 70,
+            "spd": 90,
+            "lck": 70,
+            "wlv": 80,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 19,
+            "atk": 1,
+            "skl": 2,
+            "spd": 8,
+            "lck": 13,
+            "wlv": 9,
+            "def": 1,
+            "res": 0
+        },
+        "note": "For Book 1 stats, use o!b1 Caeda instead."
+    },
+    "cain": {
+        "name": "Cain",
+        "portrait": "cain.png",
+        "lvl": 9,
+        "job": "cavalier",
+        "promo": "paladin",
+        "growth": {
+            "hp": 90,
+            "atk": 30,
+            "skl": 60,
+            "spd": 60,
+            "lck": 50,
+            "wlv": 60,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 26,
+            "atk": 5,
+            "skl": 6,
+            "spd": 5,
+            "lck": 4,
+            "wlv": 8,
+            "def": 4,
+            "res": 0
+        },
+        "note": "For Book 1 stats, use o!b1 Cain instead."
+    },
+    "castor": {
+        "name": "Castor",
+        "portrait": "castor.png",
+        "lvl": 7,
+        "job": "hunter",
+        "promo": "horseman",
+        "growth": {
+            "hp": 70,
+            "atk": 60,
+            "skl": 40,
+            "spd": 40,
+            "lck": 20,
+            "wlv": 20,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 24,
+            "atk": 4,
+            "skl": 3,
+            "spd": 2,
+            "lck": 4,
+            "wlv": 8,
+            "def": 2,
+            "res": 0
+        },
+        "note": "For Book 1 stats, use o!b1 Castor instead."
+    },
+    "catria": {
+        "name": "Catria",
+        "portrait": "catria.png",
+        "lvl": 6,
+        "job": "pegasusknight",
+        "promo": "dracoknight",
+        "growth": {
+            "hp": 70,
+            "atk": 40,
+            "skl": 80,
+            "spd": 80,
+            "lck": 40,
+            "wlv": 70,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 22,
+            "atk": 2,
+            "skl": 3,
+            "spd": 7,
+            "lck": 9,
+            "wlv": 10,
+            "def": 2,
+            "res": 0
+        },
+        "note": "For Book 1 stats, use o!b1 Catria instead."
+    },
+    "cecil": {
+        "name": "Cecil",
+        "portrait": "cecille.png",
+        "lvl": 3,
+        "job": "cavalier",
+        "promo": "paladin",
+        "growth": {
+            "hp": 50,
+            "atk": 30,
+            "skl": 60,
+            "spd": 60,
+            "lck": 30,
+            "wlv": 70,
+            "def": 10,
+            "res": 3
+        },
+        "base": {
+            "hp": 19,
+            "atk": 2,
+            "skl": 5,
+            "spd": 4,
+            "lck": 6,
+            "wlv": 7,
+            "def": 1,
+            "res": 0
+        },
+        "note": false
+    },
+    "draug": {
+        "name": "Draug",
+        "portrait": "draug.png",
+        "lvl": 6,
+        "job": "knight",
+        "promo": "general",
+        "growth": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 40,
+            "spd": 40,
+            "lck": 20,
+            "wlv": 40,
+            "def": 10,
+            "res": 3
+        },
+        "base": {
+            "hp": 22,
+            "atk": 2,
+            "skl": 2,
+            "spd": 4,
+            "lck": 2,
+            "wlv": 6,
+            "def": 0,
+            "res": 0
+        },
+        "note": "For Book 1 stats, use o!b1 Draug instead."
+    },
+    "elice": {
+        "name": "Elice",
+        "portrait": "elice.png",
+        "lvl": 5,
+        "job": "bishopf",
+        "promo": false,
+        "growth": {
+            "hp": 10,
+            "atk": 10,
+            "skl": 50,
+            "spd": 60,
+            "lck": 80,
+            "wlv": 90,
+            "def": 10,
+            "res": 3
+        },
+        "base": {
+            "hp": 18,
+            "atk": 2,
+            "skl": 2,
+            "spd": 2,
+            "lck": 7,
+            "wlv": 16,
+            "def": 3,
+            "res": 0
+        },
+        "note": "For Book 1 stats, use o!b1 Elice instead."
+    },
+    "est": {
+        "name": "Est",
+        "portrait": "est.png",
+        "lvl": 5,
+        "job": "pegasusknight",
+        "promo": "dracoknight",
+        "growth": {
+            "hp": 50,
+            "atk": 70,
+            "skl": 70,
+            "spd": 70,
+            "lck": 60,
+            "wlv": 70,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 20,
+            "atk": 1,
+            "skl": 2,
+            "spd": 6,
+            "lck": 11,
+            "wlv": 11,
+            "def": 2,
+            "res": 0
+        },
+        "note": "For Book 1 stats, use o!b1 Est instead."
+    },
+    "gordin": {
+        "name": "Gordin",
+        "portrait": "gordin.png",
+        "lvl": 5,
+        "job": "archer",
+        "promo": "sniper",
+        "growth": {
+            "hp": 40,
+            "atk": 30,
+            "skl": 30,
+            "spd": 30,
+            "lck": 40,
+            "wlv": 60,
+            "def": 10,
+            "res": 3
+        },
+        "base": {
+            "hp": 21,
+            "atk": 2,
+            "skl": 4,
+            "spd": 2,
+            "lck": 5,
+            "wlv": 7,
+            "def": 2,
+            "res": 0
+        },
+        "note": "For Book 1 stats, use o!b1 Gordin instead."
+    },
+    "jeorge": {
+        "name": "Jeorge",
+        "portrait": "jeorge.png",
+        "lvl": 5,
+        "job": "sniper",
+        "promo": false,
+        "growth": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 10,
+            "spd": 20,
+            "lck": 10,
+            "wlv": 50,
+            "def": 10,
+            "res": 3
+        },
+        "base": {
+            "hp": 27,
+            "atk": 3,
+            "skl": 3,
+            "spd": 4,
+            "lck": 4,
+            "wlv": 15,
+            "def": 3,
+            "res": 0
+        },
+        "note": "For Book 1 stats, use o!b1 Jeorge instead."
+    },
+    "julian": {
+        "name": "Julian",
+        "portrait": "julian.png",
+        "lvl": 6,
+        "job": "thief",
+        "promo": false,
+        "growth": {
+            "hp": 80,
+            "atk": 70,
+            "skl": 50,
+            "spd": 50,
+            "lck": 80,
+            "wlv": 40,
+            "def": 30,
+            "res": 3
+        },
+        "base": {
+            "hp": 20,
+            "atk": 5,
+            "skl": 7,
+            "spd": 7,
+            "lck": 7,
+            "wlv": 6,
+            "def": 5,
+            "res": 0
+        },
+        "note": "For Book 1 stats, use o!b1 Julian instead."
+    },
+    "lena": {
+        "name": "Lena",
+        "portrait": "lena.png",
+        "lvl": 7,
+        "job": "bishopf",
+        "promo": false,
+        "growth": {
+            "hp": 10,
+            "atk": 10,
+            "skl": 10,
+            "spd": 20,
+            "lck": 40,
+            "wlv": 30,
+            "def": 10,
+            "res": 3
+        },
+        "base": {
+            "hp": 18,
+            "atk": 3,
+            "skl": 3,
+            "spd": 8,
+            "lck": 10,
+            "wlv": 18,
+            "def": 4,
+            "res": 0
+        },
+        "note": "For Book 1 stats, use o!b1 Lena instead."
+    },
+    "linde": {
+        "name": "Linde",
+        "portrait": "linde.png",
+        "lvl": 4,
+        "job": "magef",
+        "promo": "bishopf",
+        "growth": {
+            "hp": 40,
+            "atk": 20,
+            "skl": 70,
+            "spd": 60,
+            "lck": 80,
+            "wlv": 70,
+            "def": 10,
+            "res": 3
+        },
+        "base": {
+            "hp": 20,
+            "atk": 1,
+            "skl": 3,
+            "spd": 5,
+            "lck": 8,
+            "wlv": 9,
+            "def": 1,
+            "res": 0
+        },
+        "note": "For Book 1 stats, use o!b1 Linde instead."
+    },
+    "luke": {
+        "name": "Luke",
+        "portrait": "luke.png",
+        "lvl": 2,
+        "job": "cavalier",
+        "promo": "paladin",
+        "growth": {
+            "hp": 90,
+            "atk": 30,
+            "skl": 30,
+            "spd": 40,
+            "lck": 10,
+            "wlv": 40,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 20,
+            "atk": 2,
+            "skl": 3,
+            "spd": 3,
+            "lck": 4,
+            "wlv": 5,
+            "def": 1,
+            "res": 0
+        },
+        "note": false
+    },
+    "malicia": {
+        "name": "Malicia",
+        "portrait": "malicia.png",
+        "lvl": 1,
+        "job": "cleric",
+        "promo": "bishopf",
+        "growth": {
+            "hp": 40,
+            "atk": 30,
+            "skl": 20,
+            "spd": 50,
+            "lck": 30,
+            "wlv": 70,
+            "def": 10,
+            "res": 3
+        },
+        "base": {
+            "hp": 16,
+            "atk": 0,
+            "skl": 0,
+            "spd": 1,
+            "lck": 12,
+            "wlv": 5,
+            "def": 0,
+            "res": 0
+        },
+        "note": false
+    },
+    "maria": {
+        "name": "Maria",
+        "portrait": "maria.png",
+        "lvl": 1,
+        "job": "bishopf",
+        "promo": false,
+        "growth": {
+            "hp": 10,
+            "atk": 10,
+            "skl": 10,
+            "spd": 20,
+            "lck": 30,
+            "wlv": 70,
+            "def": 10,
+            "res": 3
+        },
+        "base": {
+            "hp": 17,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 8,
+            "wlv": 12,
+            "def": 1,
+            "res": 0
+        },
+        "note": "For Book 1 stats, use o!b1 Maria instead."
+    },
+    "marth": {
+        "name": "Marth",
+        "portrait": "marth_b2.png",
+        "lvl": 3,
+        "job": "lord",
+        "promo": false,
+        "growth": {
+            "hp": 90,
+            "atk": 50,
+            "skl": 40,
+            "spd": 50,
+            "lck": 70,
+            "wlv": 40,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 22,
+            "atk": 3,
+            "skl": 5,
+            "spd": 5,
+            "lck": 8,
+            "wlv": 7,
+            "def": 1,
+            "res": 0
+        },
+        "note": "For Book 1 stats, use o!b1 Marth instead."
+    },
+    "matthis": {
+        "name": "Matthis",
+        "portrait": "matthis.png",
+        "lvl": 4,
+        "job": "cavalier",
+        "promo": "paladin",
+        "growth": {
+            "hp": 50,
+            "atk": 40,
+            "skl": 30,
+            "spd": 20,
+            "lck": 20,
+            "wlv": 70,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 21,
+            "atk": 2,
+            "skl": 1,
+            "spd": 3,
+            "lck": 1,
+            "wlv": 8,
+            "def": 3,
+            "res": 0
+        },
+        "note": "For Book 1 stats, use o!b1 Matthis instead."
+    },
+    "merric": {
+        "name": "Merric",
+        "portrait": "merric.png",
+        "lvl": 10,
+        "job": "magem",
+        "promo": "bishopmerric",
+        "growth": {
+            "hp": 80,
+            "atk": 20,
+            "skl": 50,
+            "spd": 50,
+            "lck": 50,
+            "wlv": 80,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 22,
+            "atk": 4,
+            "skl": 5,
+            "spd": 7,
+            "lck": 6,
+            "wlv": 10,
+            "def": 5,
+            "res": 0
+        },
+        "note": "For Book 1 stats, use o!b1 Merric instead."
+    },
+    "midia": {
+        "name": "Midia",
+        "portrait": "midia.png",
+        "lvl": 16,
+        "job": "paladin",
+        "promo": false,
+        "growth": {
+            "hp": 80,
+            "atk": 30,
+            "skl": 50,
+            "spd": 50,
+            "lck": 10,
+            "wlv": 50,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 28,
+            "atk": 7,
+            "skl": 12,
+            "spd": 10,
+            "lck": 7,
+            "wlv": 16,
+            "def": 8,
+            "res": 0
+        },
+        "note": "For Book 1 stats, use o!b1 Midia instead."
+    },
+    "minerva": {
+        "name": "Minerva",
+        "portrait": "minerva.png",
+        "lvl": 8,
+        "job": "dracoknight",
+        "promo": false,
+        "growth": {
+            "hp": 40,
+            "atk": 30,
+            "skl": 50,
+            "spd": 40,
+            "lck": 40,
+            "wlv": 70,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 25,
+            "atk": 5,
+            "skl": 4,
+            "spd": 8,
+            "lck": 7,
+            "wlv": 14,
+            "def": 6,
+            "res": 0
+        },
+        "note": "For Book 1 stats, use o!b1 Minerva instead."
+    },
+    "navarre": {
+        "name": "Navarre",
+        "portrait": "navarre.png",
+        "lvl": 8,
+        "job": "mercenary",
+        "promo": "hero",
+        "growth": {
+            "hp": 90,
+            "atk": 50,
+            "skl": 40,
+            "spd": 50,
+            "lck": 60,
+            "wlv": 30,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 23,
+            "atk": 5,
+            "skl": 8,
+            "spd": 6,
+            "lck": 7,
+            "wlv": 11,
+            "def": 3,
+            "res": 0
+        },
+        "note": "For Book 1 stats, use o!b1 Navarre instead."
+    },
+    "nyna": {
+        "name": "Nyna",
+        "portrait": "nyna.png",
+        "lvl": 3,
+        "job": "bishopf",
+        "promo": false,
+        "growth": {
+            "hp": 10,
+            "atk": 10,
+            "skl": 10,
+            "spd": 10,
+            "lck": 10,
+            "wlv": 30,
+            "def": 10,
+            "res": 3
+        },
+        "base": {
+            "hp": 18,
+            "atk": 1,
+            "skl": 1,
+            "spd": 5,
+            "lck": 18,
+            "wlv": 14,
+            "def": 2,
+            "res": 0
+        },
+        "note": false
+    },
+    "ogma": {
+        "name": "Ogma",
+        "portrait": "ogma.png",
+        "lvl": 7,
+        "job": "mercenary",
+        "promo": "hero",
+        "growth": {
+            "hp": 80,
+            "atk": 40,
+            "skl": 30,
+            "spd": 30,
+            "lck": 40,
+            "wlv": 70,
+            "def": 30,
+            "res": 3
+        },
+        "base": {
+            "hp": 25,
+            "atk": 4,
+            "skl": 6,
+            "spd": 4,
+            "lck": 5,
+            "wlv": 9,
+            "def": 3,
+            "res": 0
+        },
+        "note": "For Book 1 stats, use o!b1 Ogma instead."
+    },
+    "palla": {
+        "name": "Palla",
+        "portrait": "palla.png",
+        "lvl": 10,
+        "job": "pegasusknight",
+        "promo": "dracoknight",
+        "growth": {
+            "hp": 70,
+            "atk": 50,
+            "skl": 80,
+            "spd": 20,
+            "lck": 10,
+            "wlv": 30,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 24,
+            "atk": 5,
+            "skl": 6,
+            "spd": 9,
+            "lck": 9,
+            "wlv": 12,
+            "def": 3,
+            "res": 0
+        },
+        "note": "For Book 1 stats, use o!b1 Palla instead."
+    },
+    "phina": {
+        "name": "Phina",
+        "portrait": "phina.png",
+        "lvl": 1,
+        "job": "dancer",
+        "promo": false,
+        "growth": {
+            "hp": 40,
+            "atk": 60,
+            "skl": 70,
+            "spd": 80,
+            "lck": 70,
+            "wlv": 80,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 16,
+            "atk": 0,
+            "skl": 0,
+            "spd": 3,
+            "lck": 8,
+            "wlv": 1,
+            "def": 1,
+            "res": 0
+        },
+        "note": false
+    },
+    "rickard": {
+        "name": "Rickard",
+        "portrait": "rickard.png",
+        "lvl": 3,
+        "job": "thief",
+        "promo": false,
+        "growth": {
+            "hp": 50,
+            "atk": 50,
+            "skl": 20,
+            "spd": 60,
+            "lck": 40,
+            "wlv": 30,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 18,
+            "atk": 4,
+            "skl": 2,
+            "spd": 2,
+            "lck": 1,
+            "wlv": 6,
+            "def": 2,
+            "res": 0
+        },
+        "note": "For Book 1 stats, use o!b1 Rickard instead."
+    },
+    "roderick": {
+        "name": "Roderick",
+        "portrait": "roderick.png",
+        "lvl": 1,
+        "job": "cavalier",
+        "promo": "paladin",
+        "growth": {
+            "hp": 70,
+            "atk": 40,
+            "skl": 50,
+            "spd": 50,
+            "lck": 40,
+            "wlv": 60,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 20,
+            "atk": 0,
+            "skl": 3,
+            "spd": 2,
+            "lck": 5,
+            "wlv": 5,
+            "def": 0,
+            "res": 0
+        },
+        "note": false
+    },
+    "roshea": {
+        "name": "Roshea",
+        "portrait": "roshea.png",
+        "lvl": 8,
+        "job": "paladin",
+        "promo": false,
+        "growth": {
+            "hp": 80,
+            "atk": 40,
+            "skl": 50,
+            "spd": 40,
+            "lck": 50,
+            "wlv": 30,
+            "def": 30,
+            "res": 3
+        },
+        "base": {
+            "hp": 36,
+            "atk": 5,
+            "skl": 3,
+            "spd": 3,
+            "lck": 3,
+            "wlv": 8,
+            "def": 3,
+            "res": 0
+        },
+        "note": "For Book 1 stats, use o!b1 Roshea instead."
+    },
+    "ryan": {
+        "name": "Ryan",
+        "portrait": "ryan.png",
+        "lvl": 1,
+        "job": "archer",
+        "promo": "sniper",
+        "growth": {
+            "hp": 60,
+            "atk": 40,
+            "skl": 70,
+            "spd": 40,
+            "lck": 30,
+            "wlv": 40,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 18,
+            "atk": 0,
+            "skl": 1,
+            "spd": 0,
+            "lck": 3,
+            "wlv": 5,
+            "def": 0,
+            "res": 0
+        },
+        "note": false
+    },
+    "samson": {
+        "name": "Samson",
+        "portrait": "samson.png",
+        "lvl": 5,
+        "job": "hero",
+        "promo": false,
+        "growth": {
+            "hp": 70,
+            "atk": 30,
+            "skl": 10,
+            "spd": 20,
+            "lck": 50,
+            "wlv": 70,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 28,
+            "atk": 6,
+            "skl": 6,
+            "spd": 7,
+            "lck": 7,
+            "wlv": 12,
+            "def": 4,
+            "res": 0
+        },
+        "note": "For Book 1 stats, use o!b1 Samson instead."
+    },
+    "samto": {
+        "name": "Samto",
+        "portrait": "samto.png",
+        "lvl": 5,
+        "job": "mercenary",
+        "promo": "hero",
+        "growth": {
+            "hp": 70,
+            "atk": 20,
+            "skl": 20,
+            "spd": 60,
+            "lck": 10,
+            "wlv": 40,
+            "def": 10,
+            "res": 3
+        },
+        "base": {
+            "hp": 22,
+            "atk": 2,
+            "skl": 2,
+            "spd": 1,
+            "lck": 3,
+            "wlv": 7,
+            "def": 2,
+            "res": 0
+        },
+        "note": false
+    },
+    "sheena": {
+        "name": "Sheena",
+        "portrait": "sheena.png",
+        "lvl": 1,
+        "job": "general",
+        "promo": false,
+        "growth": {
+            "hp": 60,
+            "atk": 60,
+            "skl": 70,
+            "spd": 50,
+            "lck": 60,
+            "wlv": 60,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 26,
+            "atk": 0,
+            "skl": 0,
+            "spd": 2,
+            "lck": 4,
+            "wlv": 12,
+            "def": 2,
+            "res": 0
+        },
+        "note": false
+    },
+    "sirius": {
+        "name": "Sirius",
+        "portrait": "sirius.png",
+        "lvl": 4,
+        "job": "paladin",
+        "promo": false,
+        "growth": {
+            "hp": 80,
+            "atk": 50,
+            "skl": 50,
+            "spd": 40,
+            "lck": 30,
+            "wlv": 40,
+            "def": 30,
+            "res": 3
+        },
+        "base": {
+            "hp": 26,
+            "atk": 4,
+            "skl": 5,
+            "spd": 6,
+            "lck": 1,
+            "wlv": 13,
+            "def": 3,
+            "res": 0
+        },
+        "note": false
+    },
+    "tiki": {
+        "name": "Tiki",
+        "portrait": "tiki_b2.png",
+        "lvl": 6,
+        "job": "manaketef",
+        "promo": false,
+        "growth": {
+            "hp": 80,
+            "atk": 40,
+            "skl": 30,
+            "spd": 60,
+            "lck": 60,
+            "wlv": 0,
+            "def": 0,
+            "res": 3
+        },
+        "base": {
+            "hp": 18,
+            "atk": 6,
+            "skl": 6,
+            "spd": 3,
+            "lck": 13,
+            "wlv": 10,
+            "def": 4,
+            "res": 0
+        },
+        "note": "For Book 1 stats, use o!b1 Tiki instead."
+    },
+    "warren": {
+        "name": "Warren",
+        "portrait": "warren.png",
+        "lvl": 2,
+        "job": "hunter",
+        "promo": "horseman",
+        "growth": {
+            "hp": 70,
+            "atk": 50,
+            "skl": 50,
+            "spd": 10,
+            "lck": 20,
+            "wlv": 20,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 22,
+            "atk": 1,
+            "skl": 1,
+            "spd": 0,
+            "lck": 1,
+            "wlv": 5,
+            "def": 0,
+            "res": 0
+        },
+        "note": false
+    },
+    "wendell": {
+        "name": "Wendell",
+        "portrait": "wendell.png",
+        "lvl": 7,
+        "job": "bishopm",
+        "promo": false,
+        "growth": {
+            "hp": 60,
+            "atk": 10,
+            "skl": 30,
+            "spd": 20,
+            "lck": 40,
+            "wlv": 70,
+            "def": 10,
+            "res": 3
+        },
+        "base": {
+            "hp": 26,
+            "atk": 2,
+            "skl": 3,
+            "spd": 9,
+            "lck": 4,
+            "wlv": 10,
+            "def": 3,
+            "res": 0
+        },
+        "note": "For Book 1 stats, use o!b1 Wendell instead."
+    },
+    "xane": {
+        "name": "Xane",
+        "portrait": "xane.png",
+        "lvl": 5,
+        "job": "freelancer",
+        "promo": false,
+        "growth": {
+            "hp": 50,
+            "atk": 30,
+            "skl": 10,
+            "spd": 40,
+            "lck": 30,
+            "wlv": 30,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 20,
+            "atk": 2,
+            "skl": 2,
+            "spd": 5,
+            "lck": 10,
+            "wlv": 12,
+            "def": 2,
+            "res": 0
+        },
+        "note": "For Book 1 stats, use o!b1 Xane instead."
+    },
+    "yubello": {
+        "name": "Yubello",
+        "portrait": "yubello.png",
+        "lvl": 1,
+        "job": "magem",
+        "promo": "bishopm",
+        "growth": {
+            "hp": 50,
+            "atk": 50,
+            "skl": 30,
+            "spd": 40,
+            "lck": 40,
+            "wlv": 60,
+            "def": 10,
+            "res": 3
+        },
+        "base": {
+            "hp": 18,
+            "atk": 0,
+            "skl": 0,
+            "spd": 3,
+            "lck": 5,
+            "wlv": 6,
+            "def": 1,
+            "res": 0
+        },
+        "note": false
+    },
+    "yumina": {
+        "name": "Yumina",
+        "portrait": "yumina.png",
+        "lvl": 2,
+        "job": "cleric",
+        "promo": "bishopf",
+        "growth": {
+            "hp": 30,
+            "atk": 20,
+            "skl": 30,
+            "spd": 40,
+            "lck": 40,
+            "wlv": 60,
+            "def": 10,
+            "res": 3
+        },
+        "base": {
+            "hp": 16,
+            "atk": 1,
+            "skl": 0,
+            "spd": 4,
+            "lck": 9,
+            "wlv": 6,
+            "def": 1,
+            "res": 0
+        },
+        "note": false
+    },
+    "lorenz": {
+        "name": "Lorenz",
+        "portrait": "lorenz.png",
+        "lvl": 3,
+        "job": "lord",
+        "promo": false,
+        "growth": {
+            "hp": 90,
+            "atk": 50,
+            "skl": 40,
+            "spd": 50,
+            "lck": 70,
+            "wlv": 40,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 22,
+            "atk": 3,
+            "skl": 5,
+            "spd": 5,
+            "lck": 8,
+            "wlv": 7,
+            "def": 1,
+            "res": 0
+        },
+        "note": false
+    }
+}

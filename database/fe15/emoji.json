@@ -1,0 +1,17 @@
+{
+    "silver_card": {
+        "name": "silver_card",
+        "id": 818233428298301510,
+        "animated": false
+    },
+    "gold": {
+        "name": "gold",
+        "id": 861870608153182209,
+        "animated": false
+    },
+    "silver": {
+        "name": "silver",
+        "id": 861870608295788546,
+        "animated": false
+    }
+}

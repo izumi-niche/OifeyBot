@@ -1,0 +1,685 @@
+{
+    "canto\uff11": {
+        "name": "Canto (\uff11)",
+        "description": "After an attack, Assist skill, or structure destruction, unit can move \uff11 space(s).",
+        "reference": [
+            "Escape Route",
+            "Firestorm Dance",
+            "Vision of Arcadia",
+            "Bow of Twelve",
+            "Moonlit Bangle F",
+            "Florid Knife",
+            "Kindling Taiko",
+            "Soaring Wings",
+            "Alarm Atk/Spd",
+            "Fujin-Raijin Yumi",
+            "Gold Serpent",
+            "Alarm Spd/Def"
+        ],
+        "reference_hero": []
+    },
+    "dodge": {
+        "name": "Dodge",
+        "description": "If unit's Spd > foe's Spd, reduces damage from attacks during combat and from area-of-effect Specials (excluding R\u00f8kkr area-of-effect Specials) by percentage = difference between stats \u00d7 4 (max 40%).",
+        "reference": [
+            "Spd Smoke",
+            "Sharp War Sword",
+            "Severance",
+            "Guide's Hourglass",
+            "Ilian Merc Lance"
+        ],
+        "reference_hero": "<:Red_Tome:793245230706196480>Harmonic Linde"
+    },
+    "canto\uff12": {
+        "name": "Canto (\uff12)",
+        "description": "After an attack, Assist skill, or structure destruction, unit can move \uff12 space(s).",
+        "reference": [
+            "Solar Brace",
+            "Lunar Brace",
+            "Ladyblade",
+            "Dolphin-Dive Axe",
+            "Moonlight Bangle",
+            "Honorable Blade",
+            "Grim Brokkr",
+            "Ni\u00f0avellir Sprig",
+            "Ni\u00f0avellir Lots",
+            "Wing-Lifted Spear",
+            "Blazing Polearms",
+            "Holytide Tyrfing",
+            "Fetters of Dromi"
+        ],
+        "reference_hero": []
+    },
+    "desperation": {
+        "name": "Desperation",
+        "description": "Grants the following effect for 1 turn: \"If unit initiates combat, unit can make a follow-up attack before foe can counterattack.\"",
+        "reference": [
+            "Firestorm Dance",
+            "Wind Genesis",
+            "Crow's Crystal"
+        ],
+        "reference_hero": "<:Colorless_Bow:793245230132232212>Harmonic Leif"
+    },
+    "deepwounds": {
+        "name": "Deep Wounds",
+        "description": "Unit's HP cannot be healed through its next action.",
+        "reference": [
+            "Special Fighter",
+            "Fatal Smoke",
+            "Flamelick Breath",
+            "Serpentine Staff",
+            "Incurable"
+        ],
+        "reference_hero": []
+    },
+    "savior": {
+        "name": "Savior",
+        "description": "Unit takes ally's space, enters combat in ally's place, and receives all after-combat effects.",
+        "reference": [
+            "With Everyone!",
+            "D/R Near Save",
+            "A/R Far Save",
+            "A/D Near Save",
+            "A/R Near Save",
+            "D/R Far Save",
+            "A/D Far Save",
+            "Woeful Upheaval",
+            "A/S Near Save",
+            "A/S Far Save"
+        ],
+        "reference_hero": []
+    },
+    "guard": {
+        "name": "Guard",
+        "description": "Inflicts Special cooldown charge -1 on target per attack during combat through its next action. (Only highest value applied. Does not stack.)",
+        "reference": [
+            "Freezing Seal",
+            "Def/Res Ruse",
+            "Atk/Spd Ruse",
+            "Spd/Res Ruse",
+            "Melancholy",
+            "Frightful Dream",
+            "Spd/Def Ruse",
+            "Atk/Def Ruse",
+            "Iago's Tome",
+            "Mila's Turnwheel",
+            "Atk/Res Ruse",
+            "Hrei\u00f0marr",
+            "Banshee \u0398",
+            "Enveloping Breath",
+            "Caring Conch",
+            "Rite of Souls",
+            "Light's Restraint",
+            "Staff of Lilies",
+            "Hei\u00f0r"
+        ],
+        "reference_hero": "<:Blue_Tome:793245229741899776>Duo Mark"
+    },
+    "nullpanic": {
+        "name": "Null Panic",
+        "description": "If unit is inflicted with Panic (bonuses converted into penalties), neutralizes the \"converts bonuses on target into penalties\" effect for 1 turn. (Even though the effect is neutralized, the Panic status remains, and is treated as a Penalty status.)",
+        "reference": [
+            "Gray Waves",
+            "Vision of Arcadia",
+            "Rouse Atk/Def",
+            "Rouse Spd/Def",
+            "Rouse Atk/Res",
+            "Rouse Atk/Spd",
+            "Order's Restraint",
+            "Inborn Idealism"
+        ],
+        "reference_hero": []
+    },
+    "panic": {
+        "name": "Panic",
+        "description": "Converts bonuses on target into penalties through its next action.",
+        "reference": [
+            "Chaos Named",
+            "Sudden Panic",
+            "Panic Smoke",
+            "Dignified Bow",
+            "Iago's Tome",
+            "Sneering Axe",
+            "Tiger Spirit",
+            "Breaker Lance",
+            "Nightmare's Egg",
+            "Holy Panic",
+            "Kvasir"
+        ],
+        "reference_hero": "<:Colorless_Dagger:793245230064205854>Duo Nina"
+    },
+    "isolation": {
+        "name": "Isolation",
+        "description": "Target cannot use or be the target of Assist skills through its next action. (Target can neither use nor be the target of skills like Dance and Sing, skills that neutralize penalties, like Restore and Harsh Command+, etc.)",
+        "reference": [
+            "Gjallarbr\u00fa",
+            "To Change Fate!",
+            "Mila's Turnwheel",
+            "A Fate Changed!",
+            "Dragon's Dance",
+            "Fate Unchanged..."
+        ],
+        "reference_hero": "<:Blue_Tome:793245229741899776>Duo Mark"
+    },
+    "dagger\uff17": {
+        "name": "Dagger \uff17",
+        "description": "After combat, if unit attacked, inflicts Def/Res-\uff17 on target and foes within 2 spaces of target through their next actions.",
+        "reference": [
+            "Umbra Burst (Dagger)",
+            "Kagero's Dart",
+            "Tropical Treats",
+            "Broadleaf Fan",
+            "Scallop Blade",
+            "Athame",
+            "Hunting Blade",
+            "Pumpkin-a-Box",
+            "Minty Cane",
+            "Temari",
+            "Jakob's Tray",
+            "Constant Dagger",
+            "Candied Dagger",
+            "Levin Dagger",
+            "Summer Strikers",
+            "Hidden Thorns",
+            "Caltrop Dagger",
+            "Courtly Fan",
+            "Courtly Mask",
+            "Tailwind Shuriken",
+            "Honorable Blade",
+            "Kaze's Needle",
+            "Nabata Kunai",
+            "Fireman's Hook",
+            "Dreamflake",
+            "Ni\u00f0avellir Sprig",
+            "Blade of Jehanna",
+            "Quick Dagger",
+            "Vicious Dagger",
+            "Bone Carver",
+            "Hurricane Dagger",
+            "Armorpin Dagger",
+            "Frozen Delight",
+            "Florid Knife",
+            "Shadowy Quill",
+            "Kindling Taiko",
+            "Ymir, Everliving",
+            "Asura Blades",
+            "Bunny's Egg",
+            "Abyssal Blade"
+        ],
+        "reference_hero": []
+    },
+    "beastcavalry": {
+        "name": "Beast (Cavalry)",
+        "description": "At start of turn, if unit is adjacent to only beast or dragon allies or if unit is not adjacent to any ally, unit transforms (otherwise, unit reverts). If unit transforms, grants Atk+2, and if unit initiates combat, inflicts Atk/Def-4 on foe during combat and foe cannot make a follow-up attack.",
+        "reference": [
+            "Bunny Fang"
+        ],
+        "reference_hero": []
+    },
+    "dagger\uff15": {
+        "name": "Dagger \uff15",
+        "description": "After combat, if unit attacked, inflicts Def/Res-\uff15 on target and foes within 2 spaces of target through their next actions.",
+        "reference": [
+            "Tropical Treats",
+            "Broadleaf Fan",
+            "Scallop Blade",
+            "Pumpkin-a-Box",
+            "Minty Cane",
+            "Temari",
+            "Hidden Thorns",
+            "Caltrop Dagger",
+            "Courtly Fan",
+            "Courtly Mask",
+            "Quick Dagger",
+            "Vicious Dagger",
+            "Bone Carver",
+            "Armorpin Dagger",
+            "Florid Knife",
+            "Bunny's Egg"
+        ],
+        "reference_hero": []
+    },
+    "bonusdoubler": {
+        "name": "Bonus Doubler",
+        "description": "Grants bonus to Atk/Spd/Def/Res during combat = current bonus on each of unit's stats for 1 turn. Calculates each stat bonus independently.",
+        "reference": [
+            "Ardent Durandal",
+            "Damiell Bow",
+            "Inborn Idealism"
+        ],
+        "reference_hero": "<:Red_Sword:793245230739750922>Harmonic Edelgard"
+    },
+    "dagger\uff16": {
+        "name": "Dagger \uff16",
+        "description": "After combat, if unit attacked, inflicts Def/Res-\uff16 on target and foes within 2 spaces of target through their next actions.",
+        "reference": [
+            "Spy's Dagger"
+        ],
+        "reference_hero": []
+    },
+    "penalty": {
+        "name": "Penalty",
+        "description": "All effects that last \"on foe through its next action.\" Includes penalties inflicted by a skill like Panic or Threaten and negative status effects (preventing counterattacks, restricting movement, or the effects of a skill like Triangle Adept or Guard).",
+        "reference": [
+            "Petal Parasol",
+            "Big-Catch Bow",
+            "Scallop Blade",
+            "Killing Intent",
+            "Fimbulvetr",
+            "Deadly Balance",
+            "Persecution Bow",
+            "Void Tome",
+            "Flower of Ease",
+            "Levin Dagger",
+            "Odd Recovery",
+            "Kia Staff",
+            "Atk/Spd Catch",
+            "Blade of Renais",
+            "Atk/Def Catch",
+            "Even Recovery",
+            "Def/Res Catch",
+            "Maiden's Solace",
+            "Atk/Res Catch",
+            "Dreamflake",
+            "K\u00f6rmt",
+            "Carrot-Tip Spear",
+            "Carrot-Tip Bow",
+            "Bright-Shell Egg",
+            "Spd/Def Catch",
+            "Everliving Breath",
+            "Geirdriful",
+            "Faithful Breath",
+            "Severance",
+            "Retainer's Report",
+            "Spd/Res Catch"
+        ],
+        "reference_hero": "<:Red_Breath:793245230886944779>Duo Duma"
+    },
+    "gravity": {
+        "name": "Gravity",
+        "description": "Restricts target's movement to 1 space through its next action.",
+        "reference": [
+            "Sanngri\u00f0r",
+            "Elise's Staff",
+            "Springtime Staff",
+            "Petrify",
+            "Fallen Star",
+            "Banshee \u0398",
+            "Duskbloom Bow",
+            "Holy Pressure",
+            "Fruit of Life"
+        ],
+        "reference_hero": "<:Blue_Tome:793245229741899776>Duo Th\u00f3rr"
+    },
+    "exposure": {
+        "name": "Exposure",
+        "description": "Foe's attacks deal +10 damage.",
+        "reference": [
+            "Killing Intent",
+            "Divine Whimsy",
+            "Fate Unchanged..."
+        ],
+        "reference_hero": []
+    },
+    "foepenaltydoubler": {
+        "name": "Foe Penalty Doubler",
+        "description": "Inflicts penalty on foe's Atk/Spd/Def/Res during combat = any current penalty on each of those stats through their next action. Calculates each stat penalty independently.",
+        "reference": [
+            "Panic Smoke",
+            "Nightmare's Egg"
+        ],
+        "reference_hero": []
+    },
+    "bonus": {
+        "name": "Bonus",
+        "description": "All effects that last \"for 1 turn\" or \"that turn only.\" Includes bonuses granted by a skill like Rally or Hone and positive status effects (extra movement or effects like Dominance).",
+        "reference": [
+            "Pledged Blade",
+            "Huge Fan",
+            "Joyful Vows",
+            "Spirited Spear",
+            "Frostfire Breath",
+            "Atk/Spd Ideal",
+            "Blade of Renais",
+            "Atk/Def Ideal",
+            "Order's Sentence",
+            "Atk/Res Ideal",
+            "Def/Res Ideal",
+            "Flame of M\u00faspell",
+            "Ancient Ragnell",
+            "Spirited Axe",
+            "Hurricane Dagger",
+            "K\u00f6rmt",
+            "Spd/Def Ideal",
+            "Bright-Shell Egg",
+            "Spirited Sword",
+            "Unyielding Oar",
+            "Geirdriful",
+            "A Fate Changed!",
+            "Child's Compass",
+            "Spd/Res Ideal",
+            "Queenslance",
+            "Atk/Spd Hexblade",
+            "Fiery War Sword"
+        ],
+        "reference_hero": "<:Blue_Tome:793245229741899776>Duo Th\u00f3rr"
+    },
+    "elixir": {
+        "name": "Elixir",
+        "description": "Restores 99 HP to all allies",
+        "reference": [
+            "Elixir Seal"
+        ],
+        "reference_hero": []
+    },
+    "fortifyinghorn": {
+        "name": "Fortifying Horn",
+        "description": "Grants all allies Atk/Spd/Def/Res+6 for 1 turn.",
+        "reference": [
+            "Horn Seal"
+        ],
+        "reference_hero": []
+    },
+    "specialblade": {
+        "name": "Special Blade",
+        "description": "Enables use of Specials for all allies.",
+        "reference": [
+            "Blade Seal"
+        ],
+        "reference_hero": []
+    },
+    "infantryboots": {
+        "name": "Infantry Boots",
+        "description": "Grants +1 to movement to all allies for 1 turn.",
+        "reference": [
+            "Boots Seal"
+        ],
+        "reference_hero": []
+    },
+    "dancersveil": {
+        "name": "Dancer's Veil",
+        "description": "Allows one random ally that has already acted to take another action.",
+        "reference": [
+            "Veil Seal"
+        ],
+        "reference_hero": []
+    },
+    "lightningcharm": {
+        "name": "Lightning Charm",
+        "description": "Inflicts 20 damage to all enemies.",
+        "reference": [
+            "Charm Seal"
+        ],
+        "reference_hero": []
+    },
+    "sabotage": {
+        "name": "Sabotage",
+        "description": "Inflicts penalty on unit's Atk/Spd/Def/Res during combat = highest penalty on each stat between unit and allies within 2 spaces of unit through its next action. Calculates each stat penalty independently.",
+        "reference": [
+            "Spd/Def Snag",
+            "Total War Tome"
+        ],
+        "reference_hero": []
+    },
+    "canto\uff13": {
+        "name": "Canto (\uff13)",
+        "description": "After an attack, Assist skill, or structure destruction, unit can move \uff13 space(s).",
+        "reference": [
+            "Lynghei\u00f0r",
+            "Lofnhei\u00f0r",
+            "Hrei\u00f0marr",
+            "Auto-Lofnhei\u00f0r"
+        ],
+        "reference_hero": []
+    },
+    "pathfinder": {
+        "name": "Pathfinder",
+        "description": "When an ally moves through unit's space, that space is counted as 0 spaces moved instead of 1 space. (Unit's space can be freely added to ally's normal movement. Applies only to allies with movement types that allow movement through unit's space.)",
+        "reference": [
+            "Skinfaxi",
+            "Hr\u00edmfaxi",
+            "J\u00f6tnar Bow",
+            "Def/Res Smoke"
+        ],
+        "reference_hero": "<:Green_Bow:793245230819704892>Duo Dagr"
+    },
+    "fallenstar": {
+        "name": "Fallen Star",
+        "description": "For 1 turn, during unit's first combat in player phase and enemy phase, reduces damage from foe's first attack by 80%.",
+        "reference": [
+            "Fallen Star"
+        ],
+        "reference_hero": []
+    },
+    "cantorem1": {
+        "name": "Canto (Rem. +1)",
+        "description": "After an attack, Assist skill, or structure destruction, unit can move spaces = any movement not already used that turn +1. (If unit used a movement skill that warped them, its remaining movement is 0.)",
+        "reference": [
+            "S/D Near Trace",
+            "Murderous Lion",
+            "A/D Near Trace",
+            "Royal Hatari Fang",
+            "Ho\u00f0r's Zeal",
+            "Jolly Jade Lance",
+            "Unyielding Oar",
+            "Chivalry",
+            "S/R Near Trace",
+            "Tri-Edge Lance",
+            "A/R Near Trace",
+            "Florid Cane",
+            "A/S Near Trace",
+            "Beast N Trace",
+            "Flow N Trace",
+            "Queenslance",
+            "Knightly Devotion"
+        ],
+        "reference_hero": []
+    },
+    "cantorem": {
+        "name": "Canto (Rem.)",
+        "description": "After an attack, Assist skill, or structure destruction, unit can move spaces = any movement not already used that turn. (If unit used a movement skill that warped them, its remaining movement is 0.)",
+        "reference": [
+            "S/R Far Trace",
+            "A/D Far Trace",
+            "Gullinbursti",
+            "A/R Far Trace",
+            "A/S Far Trace",
+            "S/D Far Trace",
+            "Frozen Delight"
+        ],
+        "reference_hero": []
+    },
+    "triangleattack": {
+        "name": "Triangle Attack",
+        "description": "If unit initiates combat and 2 or more allies (excluding unit) with Triangle Attack are within 2 spaces of unit, unit attacks twice. (That turn only. Does not stack.)",
+        "reference": [
+            "Wedding-Bell Axe"
+        ],
+        "reference_hero": []
+    },
+    "triangleadept": {
+        "name": "Triangle Adept",
+        "description": "If unit has weapon-triangle advantage, boosts Atk by 20% through its next action, and if unit has weapon-triangle disadvantage, reduces Atk by 20% through its next action.",
+        "reference": [
+            "Punishment Staff"
+        ],
+        "reference_hero": []
+    },
+    "stall": {
+        "name": "Stall",
+        "description": "If unit has \"unit can move 1 extra space,\" converts that effect into \"restricts movement to 1 space\" through its next action.",
+        "reference": [
+            "Stall Ploy",
+            "Argent Aura",
+            "Divine Whimsy",
+            "Fetters of Dromi",
+            "Total War Tome"
+        ],
+        "reference_hero": []
+    },
+    "nullfollowup": {
+        "name": "Null Follow-Up",
+        "description": "If unit's Spd > foe's Spd during combat, neutralizes effects that guarantee foe's follow-up attacks and effects that prevent unit's follow-up attacks for 1 turn.",
+        "reference": [
+            "Goddess Bearer",
+            "Sharp War Sword",
+            "Silent Power",
+            "Ebon B\u00f6lverk",
+            "Inf. Null Follow",
+            "Inner Wellspring",
+            "Heir to Light",
+            "Inf. Spd Tactic",
+            "Celestial Globe"
+        ],
+        "reference_hero": "<:Blue_Breath:793245229641629696>Duo Sothis"
+    },
+    "falsestart": {
+        "name": "False Start",
+        "description": "Through their next action, target cannot activate skill effects that trigger at start of turn. (Start-of-turn effects that cause unit to transform or that refresh availability of Duo Skills or Harmonized Skills will still trigger. If this effect is neutralized at start of turn by skills like Even Recovery, Odd Recovery, etc., effects that would have triggered at start of turn, like healing and damage, will then trigger.)",
+        "reference": [
+            "Staff of the Saint"
+        ],
+        "reference_hero": []
+    },
+    "vantage": {
+        "name": "Vantage",
+        "description": "If foe initiates combat, unit can counterattack before foe's first attack for 1 turn.",
+        "reference": [
+            "Faithful Loyalty"
+        ],
+        "reference_hero": "<:Red_Sword:793245230739750922>Harmonic Altina"
+    },
+    "dominance": {
+        "name": "Dominance",
+        "description": "Unit deals additional damage = total penalties on foe for 1 turn.",
+        "reference": [
+            "Fiery Bolganone",
+            "Crow's Crystal"
+        ],
+        "reference_hero": "<:Colorless_Staff:793245230135640105>Duo Elise"
+    },
+    "engarde": {
+        "name": "En Garde",
+        "description": "Neutralizes damage outside of combat (from skills like Poison Strike, structures like Bolt Tower, etc.) except damage dealt by area-of-effect Specials.",
+        "reference": [
+            "Shadow Breath"
+        ],
+        "reference_hero": []
+    },
+    "cantocontrol": {
+        "name": "Canto Control",
+        "description": "Limits the number of spaces target can move with Canto through their next action. If target's Range = 1, target can move 1 space when Canto triggers. If target's Range = 2, target's action ends when Canto triggers.",
+        "reference": [
+            "Canto Control"
+        ],
+        "reference_hero": []
+    },
+    "warpbubble": {
+        "name": "Warp Bubble",
+        "description": "Foes cannot warp into spaces within 4 spaces of unit. (Does not affect foes with Pass skills or warp effects from structures, like camps and fortresses in Rival Domains.)",
+        "reference": [
+            "Darkling Guardian"
+        ],
+        "reference_hero": []
+    },
+    "charge": {
+        "name": "Charge",
+        "description": "Unit can move up to 3 spaces in any cardinal direction. (Cannot move through foes, terrain that blocks movement, or effects of skills like Obstruct. Granted movement treated as Warp movement.)",
+        "reference": [
+            "Assault Troop",
+            "Lib\u00e9ration",
+            "Rallying Cry"
+        ],
+        "reference_hero": []
+    },
+    "resonanceblades": {
+        "name": "Resonance: Blades",
+        "description": "Grants Atk/Spd+4 during combat for 1 turn.",
+        "reference": [
+            "Opened Domain"
+        ],
+        "reference_hero": "<:Green_Axe:793245230807384084>Harmonic Karla"
+    },
+    "resonanceshields": {
+        "name": "Resonance: Shields",
+        "description": "Grants Def/Res+4 during combat and the following effect for 1 turn: \"During unit's first combat in player phase or enemy phase, foe cannot make a follow-up attack.\"",
+        "reference": [
+            "Opened Domain"
+        ],
+        "reference_hero": "<:Colorless_Breath:793245229624590367>Harmonic Adult Tiki"
+    },
+    "cantorecall": {
+        "name": "Canto (Recall)",
+        "description": "After an attack, Assist skill, or structure destruction, unit can return to the space they moved from.",
+        "reference": [
+            "Shadowy Quill"
+        ],
+        "reference_hero": []
+    },
+    "cantoally2": {
+        "name": "Canto (Ally 2)",
+        "description": "After an attack, Assist skill, or structure destruction, unit can move to a space adjacent to any ally within 2 spaces.",
+        "reference": [
+            "Soothing Scent",
+            "Heartbroker Bow"
+        ],
+        "reference_hero": []
+    },
+    "cantounit3x3": {
+        "name": "Canto (Unit 3\u00d73)",
+        "description": "After an attack, Assist skill, or structure destruction, unit can move to a space within 3 rows and 3 columns centered on unit.",
+        "reference": [
+            "Lofty Leaflet"
+        ],
+        "reference_hero": []
+    },
+    "undefended": {
+        "name": "Undefended",
+        "description": "Unit cannot be protected by Savior through their next action.",
+        "reference": [
+            "Severance"
+        ],
+        "reference_hero": []
+    },
+    "feud": {
+        "name": "Feud",
+        "description": "Disables all ally skills (excluding unit's) during combat through unit's next action.",
+        "reference": [
+            "Severance"
+        ],
+        "reference_hero": []
+    },
+    "dualstrike": {
+        "name": "Dual Strike",
+        "description": "If unit initiates combat and is adjacent to an ally with Dual Strike (excluding unit), unit attacks twice. (That turn only. Does not stack.)",
+        "reference": [
+            "Inseverable Spear",
+            "Gold Serpent"
+        ],
+        "reference_hero": []
+    },
+    "grandstrategy": {
+        "name": "Grand Strategy",
+        "description": "Grants bonus to Atk/Spd/Def/Res during combat = current penalty on each of unit's stats \u00d7 2 for 1 turn. (Example: if unit has -7 penalty to Atk, grants Atk+14, for a net bonus of Atk+7.) Calculates each stat bonus independently.",
+        "reference": [
+            "Master's Tactics"
+        ],
+        "reference_hero": "<:Red_Bow:793245230895071262>Duo Chrom"
+    },
+    "hexblade": {
+        "name": "Hexblade",
+        "description": "Calculates damage using the lower of foe's Def or Res during combat for 1 turn (including damage dealt by Specials before combat).",
+        "reference": [
+            "Atk/Spd Hexblade"
+        ],
+        "reference_hero": []
+    },
+    "treachery": {
+        "name": "Treachery",
+        "description": "Unit deals additional damage = total bonuses on unit for 1 turn.",
+        "reference": [
+            "Gold Serpent"
+        ],
+        "reference_hero": "<:Blue_Lance:793245229720404008>Harmonic Cordelia"
+    }
+}

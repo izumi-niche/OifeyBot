@@ -1,0 +1,82 @@
+{
+    "accost": {
+        "name": "Accost",
+        "desc": "A round of combat happens twice if user has higher HP and Attack Speed than foe.",
+        "emoji": "<:jugdral_accost:667782733594099753>"
+    },
+    "adept": {
+        "name": "Adept",
+        "desc": "(Attack Speed)% for the user to do two consecutive strikes.",
+        "emoji": "<:jugdral_adept:667782733493305369>"
+    },
+    "astra": {
+        "name": "Astra",
+        "desc": "(Skill)% chance for the user to do 5 consecutive strikes in a row.",
+        "emoji": "<:jugdral_astra:667782733853884416>"
+    },
+    "bargain": {
+        "name": "Bargain",
+        "desc": "User can buy items for half-price in shops.",
+        "emoji": "<:jugdral_bargain:667782733782843393>"
+    },
+    "charm": {
+        "name": "Charm",
+        "desc": "Allies within a 3 tile radius receive +10 accuracy and avoid.",
+        "emoji": "<:jugdral_charm:667782733422133278>"
+    },
+    "dance": {
+        "name": "Dance",
+        "desc": "Allows an ally to move again.",
+        "emoji": "<:jugdral_dance:667782733753352212>"
+    },
+    "luna": {
+        "name": "Luna",
+        "desc": "(Skill)% chance to ignore foe's defense.",
+        "emoji": "<:jugdral_dance:667782733854015508>"
+    },
+    "miracle": {
+        "name": "Miracle",
+        "desc": "(Luck x 3)% chance to avoid an attack that would kill the user. The user will keep dodging all other attacks until the combat ends.",
+        "emoji": "<:jugdral_miracle:667782735175221248>"
+    },
+    "nihil": {
+        "name": "Nihil",
+        "desc": "Negates foe's combat skills during combat.",
+        "emoji": "<:jugdral_nihil:667782733812203520>"
+    },
+    "paragon": {
+        "name": "Paragon",
+        "desc": "User gets double experience. Stacks with Paragon mode.",
+        "emoji": "<:jugdral_paragon:667782733686112294>"
+    },
+    "pavise": {
+        "name": "Pavise",
+        "desc": "(Level)% chance to completely negate a attack.",
+        "emoji": "<:jugdral_pavise:667782733992558592>"
+    },
+    "renewal": {
+        "name": "Renewal",
+        "desc": "Restores 5%~10% of the user's HP at the start of each turn.",
+        "emoji": "<:jugdral_renewal:667782733619134523>"
+    },
+    "sol": {
+        "name": "Sol",
+        "desc": "(Skill)% chance to restore HP as the same amount of damage dealt to foe.",
+        "emoji": "<:jugdral_sol:667782733744963607>"
+    },
+    "steal": {
+        "name": "Steal",
+        "desc": "Can steal items if user has more speed than foe and more constitution than the item's weight.",
+        "emoji": "<:jugdral_steal:667782733946421248>"
+    },
+    "vantage": {
+        "name": "Vantage",
+        "desc": "User strikes first if foe initiates combat.",
+        "emoji": "<:jugdral_vantage:667782734013530112>"
+    },
+    "wrath": {
+        "name": "Wrath",
+        "desc": "Guaranteed critical hit if foe initiates combat.\n\n**Interactions if unit has Vantage:**\nIf foe doesn't have Vantage, Wrath doesn't activate.\nIf foe also has Vantage, Wrath activates.\n\nWrath also activates if foe has Vantage but the user doesn't.",
+        "emoji": "<:jugdral_wrath:667781266497732616>"
+    }
+}

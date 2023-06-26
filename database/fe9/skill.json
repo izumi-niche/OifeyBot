@@ -1,0 +1,278 @@
+{
+    "adept": {
+        "name": "Adept",
+        "desc": "(Skill)% for the user to do two consecutive strikes.",
+        "emoji": "<:fe9_adept:704883812525670530>",
+        "cost": 10
+    },
+    "aether": {
+        "name": "Aether",
+        "desc": "(Skill)% chance to do two strikes: One with a Sol effect, and the other with the Luna effect.",
+        "emoji": "<:fe9_aether:704883812085006337>",
+        "cost": 20
+    },
+    "astra": {
+        "name": "Astra",
+        "desc": "(Skill/2)% chance for the user to strike 5 times in a row doing half damage per hit. Each strike can deal a crit or miss.",
+        "emoji": "<:fe9_astra:704883812324212737>",
+        "cost": 20
+    },
+    "blessing": {
+        "name": "Blessing",
+        "desc": "Allies adjacent to the user restore HP (equal to user\u2019s Magic) at the beginning of the turn.",
+        "emoji": "<:fe9_blessing:704883812601167902>",
+        "cost": 20
+    },
+    "blossom": {
+        "name": "Blossom",
+        "desc": "User gains less experience (2/3 of the normal amount), but:\nFixed Mode: Only 90 growth points are necessary to gain a stat.\nNon-Fixed Mode: If a stat fails to increase, it rolls again for a second chance.",
+        "emoji": "<:fe9_blossom:704883812425007184>",
+        "cost": 15
+    },
+    "boon": {
+        "name": "Boon",
+        "desc": "Cures the status effects of all allies adjecent to the user at the start of the turn.",
+        "emoji": "<:fe9_boon:704883812512825405>",
+        "cost": 20
+    },
+    "cancel": {
+        "name": "Cancel",
+        "desc": "(Skill)% chance to block all damage done to the user.",
+        "emoji": "<:fe9_cancel:704883812550705202>",
+        "cost": 20
+    },
+    "canto": {
+        "name": "Canto",
+        "desc": "Allows an ally to move again. When transformed, all adjacent allies can move again.",
+        "emoji": "<:fe9_canto:704883812550574180>",
+        "cost": 20
+    },
+    "celerity": {
+        "name": "Celerity",
+        "desc": "Grants +2 movement.",
+        "emoji": "<:fe9_celerity:704883812286464032>",
+        "cost": 15
+    },
+    "colossus": {
+        "name": "Colossus",
+        "desc": "(Skill)% chance to multiply user's strength by 1.25 if user's constitution > enemy's constitution.",
+        "emoji": "<:fe9_colossus:704883812592517130>",
+        "cost": 20
+    },
+    "corrosion": {
+        "name": "Corrosion",
+        "desc": "(Skill)% chance to reduce enemy's weapon durability by user's level (+20 if promoted) / 4.",
+        "emoji": "<:fe9_corrosion:704883812563419167>",
+        "cost": 10
+    },
+    "counter": {
+        "name": "Counter",
+        "desc": "(Skill/2)% chance to return half damage to the enemy when damaged.",
+        "emoji": "<:fe9_counter:704883812685054043>",
+        "cost": 10
+    },
+    "daunt": {
+        "name": "Daunt",
+        "desc": "Inflicts -5 accuracy/crit to enemies within 3 tiles.",
+        "emoji": "<:fe9_daunt:704883812663820419>",
+        "cost": 10
+    },
+    "deadeye": {
+        "name": "Deadeye",
+        "desc": "Doubles accuracy. (Skill)% chance to inflict sleep.",
+        "emoji": "<:fe9_deadeye:704883812383064127>",
+        "cost": 20
+    },
+    "discipline": {
+        "name": "Discipline",
+        "desc": "Does nothing.",
+        "emoji": "<:fe9_discipline:704883812752162876>",
+        "cost": 0
+    },
+    "flare": {
+        "name": "Flare",
+        "desc": "(Skill)% chance to halve the enemy's resistance.",
+        "emoji": "<:fe9_flare:704883812810883082>",
+        "cost": 20
+    },
+    "gamble": {
+        "name": "Gamble",
+        "desc": "Command: User's accuracy is halved and the critical rate is doubled.",
+        "emoji": "<:fe9_gamble:704883812835786792>",
+        "cost": 10
+    },
+    "guard": {
+        "name": "Guard",
+        "desc": "(Skill)% chance to prevent the enemy from attacking in combat if user hits.",
+        "emoji": "<:fe9_guard:704883812781260850>",
+        "cost": 10
+    },
+    "insight": {
+        "name": "Insight",
+        "desc": "Grants +20% accuracy",
+        "emoji": "<:fe9_insight:704883812794105886>",
+        "cost": 0
+    },
+    "ironwall": {
+        "name": "Iron Wall",
+        "desc": "Does nothing.",
+        "emoji": "",
+        "cost": 5
+    },
+    "knife": {
+        "name": "Knife",
+        "desc": "User can use knives.",
+        "emoji": "<:fe9_knife:704884349220290641>",
+        "cost": 0
+    },
+    "lethality": {
+        "name": "Lethality",
+        "desc": "(Crit/2)% chance to kill the foe. Cannot be used against bosses.",
+        "emoji": "<:fe9_lethality:704883812802363493>",
+        "cost": 20
+    },
+    "lumina": {
+        "name": "Lumina",
+        "desc": "User can use light magic. Light's magic rank is the same as the user's staff rank.",
+        "emoji": "<:fe9_lumina:704883812592648204>",
+        "cost": 0
+    },
+    "luna": {
+        "name": "Luna",
+        "desc": "(Skill)% chance to halve enemy's defense and resistance.",
+        "emoji": "<:fe9_luna:704883812903026743>",
+        "cost": 20
+    },
+    "mantle": {
+        "name": "Mantle",
+        "desc": "User is immune to all attacks.",
+        "emoji": "<:fe9_mantle:704883812559093872>",
+        "cost": 0
+    },
+    "miracle": {
+        "name": "Miracle",
+        "desc": "(Luck)% chance to prevent an attack from killing the user. Instead the user's HP gets reduced to half of the current HP. If the current HP is 1 HP, it does zero damage.",
+        "emoji": "<:fe9_miracle:704883812940644412>",
+        "cost": 5
+    },
+    "nihil": {
+        "name": "Nihil",
+        "desc": "Negates enemy's combat skills.'",
+        "emoji": "<:fe9_nihil:704883813041569793>",
+        "cost": 15
+    },
+    "paragon": {
+        "name": "Paragon",
+        "desc": "User gains double experience from combat.",
+        "emoji": "<:fe9_paragon:704883812710088795>",
+        "cost": 15
+    },
+    "parity": {
+        "name": "Parity",
+        "desc": "Negates both user's and enemy's combat skills, terrain bonuses and support bonuses.",
+        "emoji": "<:fe9_parity:704883813037375678>",
+        "cost": 5
+    },
+    "provoke": {
+        "name": "Provoke",
+        "desc": "Makes user more likely to be attacked by the enemy.",
+        "emoji": "<:fe9_provoke:704883812961878037>",
+        "cost": 5
+    },
+    "reinforce": {
+        "name": "Reinforce",
+        "desc": "Command: Summons three yellow units, one Falcon Knight and two Pegasus Knights. Can only be used two times per chapter.",
+        "emoji": "<:fe9_reinforce:704883813196759141>",
+        "cost": 15
+    },
+    "renewal": {
+        "name": "Renewal",
+        "desc": "At the beginning of each turn, user recovers HP equal to 1/10 of their max HP.",
+        "emoji": "<:fe9_renewal:704883813188108398>",
+        "cost": 15
+    },
+    "resolve": {
+        "name": "Resolve",
+        "desc": "When user is at half HP or lower, strength, skill and speed are increased by 1.5.",
+        "emoji": "<:fe9_resolve:704885495351738508>",
+        "cost": 10
+    },
+    "roar": {
+        "name": "Roar",
+        "desc": "Command: Inflicts paralysis on hit. Can only be used once per chapter. Cannot be used against bosses.",
+        "emoji": "<:fe9_roar:704885495355932712>",
+        "cost": 20
+    },
+    "savior": {
+        "name": "Savior",
+        "desc": "User's stats aren't decreased when carrying an unit.",
+        "emoji": "<:fe9_savior:704885495318052964>",
+        "cost": 10
+    },
+    "serenity": {
+        "name": "Serenity",
+        "desc": "Halves biorhythm bonuses.",
+        "emoji": "<:fe9_serenity:704885495326441522>",
+        "cost": 5
+    },
+    "shade": {
+        "name": "Shade",
+        "desc": "Makes user less likely to be attacked by the enemy.",
+        "emoji": "<:fe9_shade:704885495276241007>",
+        "cost": 5
+    },
+    "smite": {
+        "name": "Smite",
+        "desc": "Shove command now push units two tiles away.",
+        "emoji": "<:fe9_smite:704885494991028257>",
+        "cost": 10
+    },
+    "sol": {
+        "name": "Sol",
+        "desc": "(Skill)% chance to restore HP based on damage dealt to the enemy.",
+        "emoji": "<:fe9_sol:704885495334699098>",
+        "cost": 20
+    },
+    "steal": {
+        "name": "Steal",
+        "desc": "Command: Steals an unequipped weapon/accessory or an item from the target's inventory if (user's speed > enemy's speed) and (user's strength > item's wt).",
+        "emoji": "<:fe9_steal:704885495024451816>",
+        "cost": 0
+    },
+    "stun": {
+        "name": "Stun",
+        "desc": "(Skill/2)% chance to inflict shock on the target.",
+        "emoji": "<:fe9_stun:704885495439818803>",
+        "cost": 20
+    },
+    "tempest": {
+        "name": "Tempest",
+        "desc": "Doubles Biorhythm bonuses.",
+        "emoji": "<:fe9_tempest:704885495464984656>",
+        "cost": 5
+    },
+    "vantage": {
+        "name": "Vantage",
+        "desc": "User always strikes first.",
+        "emoji": "<:fe9_vantage:704885495305469955>",
+        "cost": 10
+    },
+    "vigilance": {
+        "name": "Vigilance",
+        "desc": "Grants +20 avoid.",
+        "emoji": "<:fe9_vigilance:704885495175315488>",
+        "cost": 0
+    },
+    "vortex": {
+        "name": "Vortex",
+        "desc": "Command: Attacks an enemy using Vortex.\nFor more info, check:\n*/fe9 item entry: vortex*",
+        "emoji": "<:fe9_vortex:704885495548608543>",
+        "cost": 20
+    },
+    "wrath": {
+        "name": "Wrath",
+        "desc": "+50 crit when user is at half HP or lower.",
+        "emoji": "<:fe9_wrath:704885495670505473>",
+        "cost": 10
+    }
+}

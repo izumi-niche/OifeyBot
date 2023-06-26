@@ -1,0 +1,1422 @@
+{
+    "alm": {
+        "name": "Alm",
+        "job": "fighter",
+        "lvl": 1,
+        "fatigue": "none",
+        "portrait": "alm.png",
+        "base": {
+            "hp": 28,
+            "atk": 10,
+            "skl": 7,
+            "spd": 6,
+            "lck": 7,
+            "def": 6,
+            "res": 4
+        },
+        "growth": {
+            "hp": 50,
+            "atk": 35,
+            "skl": 40,
+            "spd": 30,
+            "lck": 20,
+            "def": 30,
+            "res": 0
+        }
+    },
+    "atlas": {
+        "name": "Atlas",
+        "job": "villager",
+        "lvl": 10,
+        "fatigue": "none",
+        "portrait": "atlas.png",
+        "base": {
+            "hp": 30,
+            "atk": 14,
+            "skl": 3,
+            "spd": 3,
+            "lck": 4,
+            "def": 5,
+            "res": 4
+        },
+        "black": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "sagittae": {
+                "lvl": 16,
+                "promo": false
+            },
+            "recover": {
+                "lvl": 1,
+                "promo": true
+            }
+        },
+        "growth": {
+            "hp": 30,
+            "atk": 30,
+            "skl": 20,
+            "spd": 10,
+            "lck": 15,
+            "def": 20,
+            "res": 0
+        },
+        "white": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "sagittae": {
+                "lvl": 16,
+                "promo": false
+            },
+            "recover": {
+                "lvl": 1,
+                "promo": true
+            }
+        }
+    },
+    "boey": {
+        "name": "Boey",
+        "job": "magem",
+        "lvl": 1,
+        "fatigue": "none",
+        "portrait": "boey.png",
+        "base": {
+            "hp": 22,
+            "atk": 8,
+            "skl": 2,
+            "spd": 4,
+            "lck": 9,
+            "def": 4,
+            "res": 7
+        },
+        "black": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "thunder": {
+                "lvl": 3,
+                "promo": false
+            },
+            "sagittae": {
+                "lvl": 12,
+                "promo": false
+            },
+            "excalibur": {
+                "lvl": 18,
+                "promo": false
+            },
+            "recover": {
+                "lvl": 1,
+                "promo": true
+            }
+        },
+        "growth": {
+            "hp": 40,
+            "atk": 30,
+            "skl": 15,
+            "spd": 10,
+            "lck": 20,
+            "def": 40,
+            "res": 0
+        },
+        "white": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "thunder": {
+                "lvl": 3,
+                "promo": false
+            },
+            "excalibur": {
+                "lvl": 18,
+                "promo": false
+            }
+        }
+    },
+    "catria": {
+        "name": "Catria",
+        "job": "pegasusknight",
+        "lvl": 5,
+        "fatigue": "none",
+        "portrait": "catria.png",
+        "base": {
+            "hp": 24,
+            "atk": 11,
+            "skl": 12,
+            "spd": 12,
+            "lck": 12,
+            "def": 5,
+            "res": 9
+        },
+        "growth": {
+            "hp": 30,
+            "atk": 30,
+            "skl": 30,
+            "spd": 40,
+            "lck": 20,
+            "def": 20,
+            "res": 0
+        }
+    },
+    "celica": {
+        "name": "Celica",
+        "job": "priestess",
+        "lvl": 1,
+        "fatigue": "none",
+        "portrait": "celica.png",
+        "base": {
+            "hp": 20,
+            "atk": 8,
+            "skl": 6,
+            "spd": 6,
+            "lck": 8,
+            "def": 4,
+            "res": 7
+        },
+        "black": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "seraphim": {
+                "lvl": 5,
+                "promo": false
+            },
+            "thunder": {
+                "lvl": 8,
+                "promo": false
+            },
+            "recover": {
+                "lvl": 9,
+                "promo": false
+            },
+            "excalibur": {
+                "lvl": 15,
+                "promo": false
+            },
+            "ragnarok": {
+                "lvl": 20,
+                "promo": false
+            }
+        },
+        "growth": {
+            "hp": 30,
+            "atk": 25,
+            "skl": 40,
+            "spd": 30,
+            "lck": 40,
+            "def": 20,
+            "res": 0
+        },
+        "white": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "thunder": {
+                "lvl": 8,
+                "promo": false
+            },
+            "ragnarok": {
+                "lvl": 20,
+                "promo": false
+            }
+        }
+    },
+    "clair": {
+        "name": "Clair",
+        "job": "pegasusknight",
+        "lvl": 1,
+        "fatigue": "none",
+        "portrait": "clair.png",
+        "base": {
+            "hp": 20,
+            "atk": 8,
+            "skl": 4,
+            "spd": 7,
+            "lck": 11,
+            "def": 4,
+            "res": 8
+        },
+        "growth": {
+            "hp": 20,
+            "atk": 30,
+            "skl": 50,
+            "spd": 40,
+            "lck": 50,
+            "def": 10,
+            "res": 0
+        }
+    },
+    "clive": {
+        "name": "Clive",
+        "job": "cavalier",
+        "lvl": 6,
+        "fatigue": "none",
+        "portrait": "clive.png",
+        "base": {
+            "hp": 26,
+            "atk": 12,
+            "skl": 7,
+            "spd": 7,
+            "lck": 6,
+            "def": 7,
+            "res": 1
+        },
+        "growth": {
+            "hp": 40,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 20,
+            "def": 20,
+            "res": 0
+        }
+    },
+    "deen": {
+        "name": "Deen",
+        "job": "myrmidon",
+        "lvl": 5,
+        "fatigue": "none",
+        "portrait": "deen.png",
+        "base": {
+            "hp": 32,
+            "atk": 13,
+            "skl": 17,
+            "spd": 17,
+            "lck": 6,
+            "def": 9,
+            "res": 4
+        },
+        "black": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "sagittae": {
+                "lvl": 3,
+                "promo": false
+            },
+            "recover": {
+                "lvl": 1,
+                "promo": true
+            }
+        },
+        "growth": {
+            "hp": 40,
+            "atk": 20,
+            "skl": 15,
+            "spd": 15,
+            "lck": 10,
+            "def": 10,
+            "res": 0
+        },
+        "white": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "sagittae": {
+                "lvl": 3,
+                "promo": false
+            },
+            "recover": {
+                "lvl": 1,
+                "promo": true
+            }
+        }
+    },
+    "delthea": {
+        "name": "Delthea",
+        "job": "magef",
+        "lvl": 3,
+        "fatigue": "none",
+        "portrait": "delthea.png",
+        "base": {
+            "hp": 22,
+            "atk": 11,
+            "skl": 8,
+            "spd": 10,
+            "lck": 15,
+            "def": 3,
+            "res": 15
+        },
+        "black": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "aura": {
+                "lvl": 1,
+                "promo": false
+            },
+            "seraphim": {
+                "lvl": 11,
+                "promo": false
+            },
+            "ragnarok": {
+                "lvl": 16,
+                "promo": false
+            },
+            "recover": {
+                "lvl": 1,
+                "promo": true
+            }
+        },
+        "growth": {
+            "hp": 30,
+            "atk": 50,
+            "skl": 30,
+            "spd": 20,
+            "lck": 30,
+            "def": 10,
+            "res": 0
+        },
+        "white": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "ragnarok": {
+                "lvl": 16,
+                "promo": false
+            },
+            "seraphim": {
+                "lvl": 11,
+                "promo": false
+            }
+        }
+    },
+    "est": {
+        "name": "Est",
+        "job": "pegasusknight",
+        "lvl": 3,
+        "fatigue": "none",
+        "portrait": "est.png",
+        "base": {
+            "hp": 20,
+            "atk": 9,
+            "skl": 5,
+            "spd": 11,
+            "lck": 5,
+            "def": 4,
+            "res": 12
+        },
+        "growth": {
+            "hp": 30,
+            "atk": 40,
+            "skl": 50,
+            "spd": 30,
+            "lck": 50,
+            "def": 50,
+            "res": 0
+        }
+    },
+    "forsyth": {
+        "name": "Forsyth",
+        "job": "soldier",
+        "lvl": 4,
+        "fatigue": "none",
+        "portrait": "forsyth.png",
+        "base": {
+            "hp": 28,
+            "atk": 11,
+            "skl": 4,
+            "spd": 5,
+            "lck": 3,
+            "def": 7,
+            "res": 5
+        },
+        "growth": {
+            "hp": 30,
+            "atk": 40,
+            "skl": 10,
+            "spd": 20,
+            "lck": 20,
+            "def": 10,
+            "res": 0
+        }
+    },
+    "genny": {
+        "name": "Genny",
+        "job": "cleric",
+        "lvl": 1,
+        "fatigue": "none",
+        "portrait": "genny.png",
+        "base": {
+            "hp": 18,
+            "atk": 7,
+            "skl": 2,
+            "spd": 5,
+            "lck": 7,
+            "def": 1,
+            "res": 13
+        },
+        "black": {
+            "recover": {
+                "lvl": 1,
+                "promo": false
+            },
+            "nosferatu": {
+                "lvl": 1,
+                "promo": false
+            },
+            "invoke": {
+                "lvl": 4,
+                "promo": false
+            },
+            "physic": {
+                "lvl": 8,
+                "promo": false
+            },
+            "expel": {
+                "lvl": 12,
+                "promo": false
+            },
+            "seraphim": {
+                "lvl": 1,
+                "promo": true
+            }
+        },
+        "growth": {
+            "hp": 20,
+            "atk": 40,
+            "skl": 40,
+            "spd": 15,
+            "lck": 20,
+            "def": 20,
+            "res": 0
+        },
+        "white": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "thunder": {
+                "lvl": 8,
+                "promo": false
+            },
+            "ragnarok": {
+                "lvl": 1,
+                "promo": false
+            }
+        }
+    },
+    "gray": {
+        "name": "Gray",
+        "job": "villager",
+        "lvl": 5,
+        "fatigue": "none",
+        "portrait": "gray.png",
+        "base": {
+            "hp": 24,
+            "atk": 9,
+            "skl": 4,
+            "spd": 4,
+            "lck": 2,
+            "def": 4,
+            "res": 2
+        },
+        "black": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "sagittae": {
+                "lvl": 9,
+                "promo": false
+            },
+            "thunder": {
+                "lvl": 10,
+                "promo": false
+            },
+            "recover": {
+                "lvl": 1,
+                "promo": true
+            }
+        },
+        "growth": {
+            "hp": 40,
+            "atk": 30,
+            "skl": 20,
+            "spd": 10,
+            "lck": 10,
+            "def": 20,
+            "res": 0
+        },
+        "white": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "thunder": {
+                "lvl": 10,
+                "promo": false
+            },
+            "sagittae": {
+                "lvl": 9,
+                "promo": false
+            }
+        }
+    },
+    "jesse": {
+        "name": "Jesse",
+        "job": "mercenary",
+        "lvl": 6,
+        "fatigue": "none",
+        "portrait": "jesse.png",
+        "base": {
+            "hp": 28,
+            "atk": 11,
+            "skl": 10,
+            "spd": 12,
+            "lck": 9,
+            "def": 5,
+            "res": 7
+        },
+        "black": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "excalibur": {
+                "lvl": 2,
+                "promo": false
+            },
+            "thunder": {
+                "lvl": 9,
+                "promo": false
+            },
+            "recover": {
+                "lvl": 1,
+                "promo": true
+            }
+        },
+        "growth": {
+            "hp": 40,
+            "atk": 25,
+            "skl": 40,
+            "spd": 40,
+            "lck": 20,
+            "def": 25,
+            "res": 0
+        },
+        "white": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "thunder": {
+                "lvl": 9,
+                "promo": false
+            },
+            "excalibur": {
+                "lvl": 2,
+                "promo": false
+            }
+        }
+    },
+    "kamui": {
+        "name": "Kamui",
+        "job": "mercenary",
+        "lvl": 3,
+        "fatigue": "none",
+        "portrait": "kamui.png",
+        "base": {
+            "hp": 34,
+            "atk": 10,
+            "skl": 5,
+            "spd": 8,
+            "lck": 2,
+            "def": 6,
+            "res": 2
+        },
+        "black": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "excalibur": {
+                "lvl": 7,
+                "promo": false
+            },
+            "recover": {
+                "lvl": 1,
+                "promo": true
+            }
+        },
+        "growth": {
+            "hp": 30,
+            "atk": 25,
+            "skl": 20,
+            "spd": 40,
+            "lck": 20,
+            "def": 20,
+            "res": 0
+        },
+        "white": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "excalibur": {
+                "lvl": 7,
+                "promo": false
+            },
+            "recover": {
+                "lvl": 1,
+                "promo": true
+            }
+        }
+    },
+    "kliff": {
+        "name": "Kliff",
+        "job": "villager",
+        "lvl": 1,
+        "fatigue": "none",
+        "portrait": "kliff.png",
+        "base": {
+            "hp": 20,
+            "atk": 7,
+            "skl": 1,
+            "spd": 2,
+            "lck": 10,
+            "def": 3,
+            "res": 8
+        },
+        "black": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "thunder": {
+                "lvl": 4,
+                "promo": false
+            },
+            "excalibur": {
+                "lvl": 7,
+                "promo": false
+            },
+            "sagittae": {
+                "lvl": 11,
+                "promo": false
+            },
+            "aura": {
+                "lvl": 20,
+                "promo": false
+            },
+            "recover": {
+                "lvl": 1,
+                "promo": true
+            }
+        },
+        "growth": {
+            "hp": 50,
+            "atk": 20,
+            "skl": 40,
+            "spd": 50,
+            "lck": 20,
+            "def": 40,
+            "res": 0
+        },
+        "white": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "thunder": {
+                "lvl": 4,
+                "promo": false
+            },
+            "excalibur": {
+                "lvl": 7,
+                "promo": false
+            }
+        }
+    },
+    "leon": {
+        "name": "Leon",
+        "job": "archer",
+        "lvl": 4,
+        "fatigue": "none",
+        "portrait": "leon.png",
+        "base": {
+            "hp": 23,
+            "atk": 11,
+            "skl": 6,
+            "spd": 4,
+            "lck": 6,
+            "def": 4,
+            "res": 1
+        },
+        "growth": {
+            "hp": 50,
+            "atk": 20,
+            "skl": 20,
+            "spd": 10,
+            "lck": 10,
+            "def": 30,
+            "res": 0
+        }
+    },
+    "lukas": {
+        "name": "Lukas",
+        "job": "soldier",
+        "lvl": 2,
+        "fatigue": "none",
+        "portrait": "lukas.png",
+        "base": {
+            "hp": 22,
+            "atk": 10,
+            "skl": 4,
+            "spd": 4,
+            "lck": 2,
+            "def": 6,
+            "res": 2
+        },
+        "growth": {
+            "hp": 40,
+            "atk": 15,
+            "skl": 35,
+            "spd": 15,
+            "lck": 20,
+            "def": 20,
+            "res": 0
+        }
+    },
+    "luthier": {
+        "name": "Luthier",
+        "job": "magem",
+        "lvl": 7,
+        "fatigue": "none",
+        "portrait": "luthier.png",
+        "base": {
+            "hp": 28,
+            "atk": 12,
+            "skl": 9,
+            "spd": 7,
+            "lck": 2,
+            "def": 5,
+            "res": 8
+        },
+        "black": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "excalibur": {
+                "lvl": 1,
+                "promo": false
+            },
+            "thunder": {
+                "lvl": 10,
+                "promo": false
+            },
+            "sagittae": {
+                "lvl": 15,
+                "promo": false
+            },
+            "recover": {
+                "lvl": 1,
+                "promo": true
+            }
+        },
+        "growth": {
+            "hp": 40,
+            "atk": 20,
+            "skl": 20,
+            "spd": 15,
+            "lck": 50,
+            "def": 15,
+            "res": 0
+        },
+        "white": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "thunder": {
+                "lvl": 10,
+                "promo": false
+            },
+            "excalibur": {
+                "lvl": 1,
+                "promo": false
+            }
+        }
+    },
+    "mae": {
+        "name": "Mae",
+        "job": "magef",
+        "lvl": 1,
+        "fatigue": "none",
+        "portrait": "mae.png",
+        "base": {
+            "hp": 20,
+            "atk": 9,
+            "skl": 1,
+            "spd": 7,
+            "lck": 5,
+            "def": 2,
+            "res": 10
+        },
+        "black": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "thunder": {
+                "lvl": 1,
+                "promo": false
+            },
+            "aura": {
+                "lvl": 9,
+                "promo": false
+            },
+            "seraphim": {
+                "lvl": 14,
+                "promo": false
+            },
+            "recover": {
+                "lvl": 1,
+                "promo": true
+            }
+        },
+        "growth": {
+            "hp": 20,
+            "atk": 40,
+            "skl": 20,
+            "spd": 10,
+            "lck": 10,
+            "def": 20,
+            "res": 0
+        },
+        "white": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "thunder": {
+                "lvl": 1,
+                "promo": false
+            },
+            "seraphim": {
+                "lvl": 14,
+                "promo": false
+            }
+        }
+    },
+    "mathilda": {
+        "name": "Mathilda",
+        "job": "paladin",
+        "lvl": 1,
+        "fatigue": "none",
+        "portrait": "mathilda.png",
+        "base": {
+            "hp": 26,
+            "atk": 12,
+            "skl": 14,
+            "spd": 12,
+            "lck": 13,
+            "def": 7,
+            "res": 10
+        },
+        "growth": {
+            "hp": 40,
+            "atk": 30,
+            "skl": 20,
+            "spd": 40,
+            "lck": 10,
+            "def": 30,
+            "res": 0
+        }
+    },
+    "mycen": {
+        "name": "Mycen",
+        "job": "goldknight",
+        "lvl": 7,
+        "fatigue": "none",
+        "portrait": "mycen.png",
+        "base": {
+            "hp": 44,
+            "atk": 22,
+            "skl": 14,
+            "spd": 11,
+            "lck": 3,
+            "def": 18,
+            "res": 8
+        },
+        "growth": {
+            "hp": 20,
+            "atk": 5,
+            "skl": 5,
+            "spd": 5,
+            "lck": 0,
+            "def": 5,
+            "res": 0
+        }
+    },
+    "nomah": {
+        "name": "Nomah",
+        "job": "sage",
+        "lvl": 7,
+        "fatigue": "none",
+        "portrait": "nomah.png",
+        "base": {
+            "hp": 28,
+            "atk": 12,
+            "skl": 16,
+            "spd": 8,
+            "lck": 1,
+            "def": 6,
+            "res": 14
+        },
+        "black": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "excalibur": {
+                "lvl": 1,
+                "promo": false
+            },
+            "sagittae": {
+                "lvl": 1,
+                "promo": false
+            },
+            "recover": {
+                "lvl": 1,
+                "promo": false
+            }
+        },
+        "growth": {
+            "hp": 10,
+            "atk": 10,
+            "skl": 15,
+            "spd": 15,
+            "lck": 10,
+            "def": 10,
+            "res": 0
+        },
+        "white": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "excalibur": {
+                "lvl": 1,
+                "promo": false
+            },
+            "sagittae": {
+                "lvl": 1,
+                "promo": false
+            }
+        }
+    },
+    "palla": {
+        "name": "Palla",
+        "job": "pegasusknight",
+        "lvl": 8,
+        "fatigue": "none",
+        "portrait": "palla.png",
+        "base": {
+            "hp": 28,
+            "atk": 12,
+            "skl": 9,
+            "spd": 10,
+            "lck": 4,
+            "def": 6,
+            "res": 5
+        },
+        "growth": {
+            "hp": 40,
+            "atk": 40,
+            "skl": 15,
+            "spd": 10,
+            "lck": 10,
+            "def": 30,
+            "res": 0
+        }
+    },
+    "python": {
+        "name": "Python",
+        "job": "archer",
+        "lvl": 3,
+        "fatigue": "none",
+        "portrait": "python.png",
+        "base": {
+            "hp": 24,
+            "atk": 10,
+            "skl": 3,
+            "spd": 4,
+            "lck": 2,
+            "def": 5,
+            "res": 4
+        },
+        "growth": {
+            "hp": 40,
+            "atk": 40,
+            "skl": 15,
+            "spd": 20,
+            "lck": 10,
+            "def": 15,
+            "res": 0
+        }
+    },
+    "saber": {
+        "name": "Saber",
+        "job": "mercenary",
+        "lvl": 1,
+        "fatigue": "none",
+        "portrait": "saber.png",
+        "base": {
+            "hp": 22,
+            "atk": 9,
+            "skl": 9,
+            "spd": 10,
+            "lck": 6,
+            "def": 4,
+            "res": 6
+        },
+        "black": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "seraphim": {
+                "lvl": 5,
+                "promo": false
+            },
+            "recover": {
+                "lvl": 1,
+                "promo": true
+            }
+        },
+        "growth": {
+            "hp": 50,
+            "atk": 20,
+            "skl": 15,
+            "spd": 15,
+            "lck": 10,
+            "def": 40,
+            "res": 0
+        },
+        "white": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "seraphim": {
+                "lvl": 5,
+                "promo": false
+            },
+            "recover": {
+                "lvl": 1,
+                "promo": true
+            }
+        }
+    },
+    "silque": {
+        "name": "Silque",
+        "job": "cleric",
+        "lvl": 1,
+        "fatigue": "none",
+        "portrait": "silque.png",
+        "base": {
+            "hp": 18,
+            "atk": 8,
+            "skl": 3,
+            "spd": 4,
+            "lck": 4,
+            "def": 1,
+            "res": 11
+        },
+        "black": {
+            "recover": {
+                "lvl": 1,
+                "promo": false
+            },
+            "nosferatu": {
+                "lvl": 1,
+                "promo": false
+            },
+            "warp": {
+                "lvl": 7,
+                "promo": false
+            },
+            "expel": {
+                "lvl": 14,
+                "promo": false
+            },
+            "invoke": {
+                "lvl": 18,
+                "promo": false
+            },
+            "seraphim": {
+                "lvl": 1,
+                "promo": true
+            }
+        },
+        "growth": {
+            "hp": 20,
+            "atk": 30,
+            "skl": 30,
+            "spd": 30,
+            "lck": 30,
+            "def": 10,
+            "res": 0
+        },
+        "white": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "ragnarok": {
+                "lvl": 1,
+                "promo": false
+            },
+            "seraphim": {
+                "lvl": 7,
+                "promo": false
+            }
+        }
+    },
+    "sonya": {
+        "name": "Sonya",
+        "job": "magef",
+        "lvl": 5,
+        "fatigue": "none",
+        "portrait": "sonya.png",
+        "base": {
+            "hp": 24,
+            "atk": 13,
+            "skl": 11,
+            "spd": 12,
+            "lck": 4,
+            "def": 5,
+            "res": 12
+        },
+        "black": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "thunder": {
+                "lvl": 1,
+                "promo": false
+            },
+            "excalibur": {
+                "lvl": 1,
+                "promo": false
+            },
+            "seraphim": {
+                "lvl": 14,
+                "promo": false
+            },
+            "sagittae": {
+                "lvl": 18,
+                "promo": false
+            },
+            "recover": {
+                "lvl": 1,
+                "promo": true
+            }
+        },
+        "growth": {
+            "hp": 30,
+            "atk": 30,
+            "skl": 30,
+            "spd": 30,
+            "lck": 30,
+            "def": 30,
+            "res": 0
+        },
+        "white": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "thunder": {
+                "lvl": 1,
+                "promo": false
+            },
+            "seraphim": {
+                "lvl": 14,
+                "promo": false
+            }
+        }
+    },
+    "tatiana": {
+        "name": "Tatiana",
+        "job": "saint",
+        "lvl": 1,
+        "fatigue": "none",
+        "portrait": "tatiana.png",
+        "base": {
+            "hp": 28,
+            "atk": 14,
+            "skl": 12,
+            "spd": 10,
+            "lck": 2,
+            "def": 3,
+            "res": 18
+        },
+        "black": {
+            "seraphim": {
+                "lvl": 1,
+                "promo": false
+            },
+            "nosferatu": {
+                "lvl": 1,
+                "promo": false
+            },
+            "physic": {
+                "lvl": 1,
+                "promo": false
+            },
+            "fortify": {
+                "lvl": 4,
+                "promo": false
+            },
+            "invoke": {
+                "lvl": 7,
+                "promo": false
+            },
+            "warp": {
+                "lvl": 8,
+                "promo": false
+            }
+        },
+        "growth": {
+            "hp": 40,
+            "atk": 10,
+            "skl": 15,
+            "spd": 15,
+            "lck": 20,
+            "def": 40,
+            "res": 0
+        },
+        "white": {
+            "thunder": {
+                "lvl": 1,
+                "promo": false
+            },
+            "ragnarok": {
+                "lvl": 1,
+                "promo": false
+            },
+            "seraphim": {
+                "lvl": 8,
+                "promo": false
+            }
+        }
+    },
+    "tobin": {
+        "name": "Tobin",
+        "job": "villager",
+        "lvl": 2,
+        "fatigue": "none",
+        "portrait": "tobin.png",
+        "base": {
+            "hp": 22,
+            "atk": 7,
+            "skl": 2,
+            "spd": 6,
+            "lck": 4,
+            "def": 3,
+            "res": 4
+        },
+        "black": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "excalibur": {
+                "lvl": 6,
+                "promo": false
+            },
+            "recover": {
+                "lvl": 1,
+                "promo": true
+            }
+        },
+        "growth": {
+            "hp": 30,
+            "atk": 10,
+            "skl": 40,
+            "spd": 15,
+            "lck": 30,
+            "def": 10,
+            "res": 0
+        },
+        "white": {
+            "fire": {
+                "lvl": 1,
+                "promo": false
+            },
+            "excalibur": {
+                "lvl": 6,
+                "promo": false
+            },
+            "recover": {
+                "lvl": 1,
+                "promo": true
+            }
+        }
+    },
+    "valbar": {
+        "name": "Valbar",
+        "job": "knight",
+        "lvl": 1,
+        "fatigue": "none",
+        "portrait": "valbar.png",
+        "base": {
+            "hp": 30,
+            "atk": 14,
+            "skl": 4,
+            "spd": 2,
+            "lck": 1,
+            "def": 12,
+            "res": 0
+        },
+        "growth": {
+            "hp": 40,
+            "atk": 20,
+            "skl": 35,
+            "spd": 25,
+            "lck": 10,
+            "def": 20,
+            "res": 0
+        }
+    },
+    "zeke": {
+        "name": "Zeke",
+        "job": "goldknight",
+        "lvl": 3,
+        "fatigue": "none",
+        "portrait": "zeke.png",
+        "base": {
+            "hp": 40,
+            "atk": 20,
+            "skl": 13,
+            "spd": 14,
+            "lck": 4,
+            "def": 14,
+            "res": 6
+        },
+        "growth": {
+            "hp": 40,
+            "atk": 20,
+            "skl": 35,
+            "spd": 55,
+            "lck": 30,
+            "def": 30,
+            "res": 0
+        }
+    }
+}

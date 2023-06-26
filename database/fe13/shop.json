@@ -1,0 +1,2833 @@
+{
+    "southtown": {
+        "name": "Southtown (Prologue: The Verge of History)",
+        "short_name": "The Verge of History (Prologue)",
+        "HARD_ALT_NAME": [
+            "Prologue"
+        ],
+        "ALT_NAME": [
+            "The Verge of History (Prologue)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "bronzesword",
+            "bronzelance",
+            "bronzeaxe",
+            "bronzebow",
+            "fire"
+        ],
+        "merchant": [
+            "ironsword",
+            "ironlance",
+            "ironaxe",
+            "ironbow",
+            "wyrmslayer",
+            "hammer",
+            "concoction",
+            "masterseal",
+            "secondseal",
+            "Rare Item"
+        ]
+    },
+    "westofylisstol": {
+        "name": "West of Ylisstol (Chapter 1: Unwelcome Change)",
+        "short_name": "Unwelcome Change (Ch. 1)",
+        "HARD_ALT_NAME": [
+            "Chapter 1"
+        ],
+        "ALT_NAME": [
+            "Unwelcome Change (Ch. 1)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "heal",
+            "vulnerary"
+        ],
+        "merchant": [
+            "ironsword",
+            "ironlance",
+            "ironaxe",
+            "ironbow",
+            "rescue",
+            "physic",
+            "concoction",
+            "masterseal",
+            "secondseal",
+            "Rare Item"
+        ]
+    },
+    "thenorthroad": {
+        "name": "The Northroad (Chapter 2: Shepherds)",
+        "short_name": "Shepherds (Ch. 2)",
+        "HARD_ALT_NAME": [
+            "Chapter 2"
+        ],
+        "ALT_NAME": [
+            "Shepherds (Ch. 2)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "fire",
+            "thunder",
+            "wind",
+            "flux"
+        ],
+        "merchant": [
+            "ironsword",
+            "ironlance",
+            "ironaxe",
+            "ironbow",
+            "beastkiller",
+            "blessedbow",
+            "concoction",
+            "masterseal",
+            "secondseal",
+            "Rare Item"
+        ]
+    },
+    "thelongfort": {
+        "name": "The Longfort (Chapter 3: Warrior Realm)",
+        "short_name": "Warrior Realm (Ch. 3)",
+        "HARD_ALT_NAME": [
+            "Chapter 3"
+        ],
+        "ALT_NAME": [
+            "Warrior Realm (Ch. 3)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "heal",
+            "vulnerary",
+            "strengthtonic",
+            "defensetonic",
+            "reekingbox"
+        ],
+        "merchant": [
+            "ironsword",
+            "ironlance",
+            "ironaxe",
+            "ironbow",
+            "rescue",
+            "concoction",
+            "hptonic",
+            "masterseal",
+            "secondseal",
+            "Rare Item"
+        ]
+    },
+    "arenaferox": {
+        "name": "Arena Ferox (Chapter 4: Two Falchions)",
+        "short_name": "Two Falchions (Ch. 4)",
+        "HARD_ALT_NAME": [
+            "Chapter 4"
+        ],
+        "ALT_NAME": [
+            "Two Falchions (Ch. 4)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "ironlance",
+            "ironbow",
+            "thunder"
+        ],
+        "merchant": [
+            "steelsword",
+            "steellance",
+            "steelaxe",
+            "steelbow",
+            "elfire",
+            "wyrmslayer",
+            "blessedlance",
+            "masterseal",
+            "secondseal",
+            "Rare Item"
+        ]
+    },
+    "borderpass": {
+        "name": "Border Pass (Chapter 5: The Exalt and the King)",
+        "short_name": "The Exalt and the King (Ch. 5)",
+        "HARD_ALT_NAME": [
+            "Chapter 5"
+        ],
+        "ALT_NAME": [
+            "The Exalt and the King (Ch. 5)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "ironsword",
+            "ironaxe",
+            "wind"
+        ],
+        "merchant": [
+            "steelsword",
+            "steellance",
+            "steelaxe",
+            "steelbow",
+            "elthunder",
+            "rescue",
+            "elixir",
+            "masterseal",
+            "secondseal",
+            "Rare Item"
+        ]
+    },
+    "ylisstol": {
+        "name": "Ylisstol (Chapter 6: Foreseer)",
+        "short_name": "Foreseer (Ch. 6)",
+        "HARD_ALT_NAME": [
+            "Chapter 6"
+        ],
+        "ALT_NAME": [
+            "Foreseer (Ch. 6)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "heal",
+            "mend",
+            "vulnerary",
+            "magictonic",
+            "resistancetonic"
+        ],
+        "merchant": [
+            "steelsword",
+            "steellance",
+            "steelaxe",
+            "steelbow",
+            "elwind",
+            "rapier",
+            "hammer",
+            "masterseal",
+            "secondseal",
+            "Rare Item"
+        ]
+    },
+    "breakneckpass": {
+        "name": "Breakneck Pass (Chapter 7: Incursion)",
+        "short_name": "Incursion (Ch. 7)",
+        "HARD_ALT_NAME": [
+            "Chapter 7"
+        ],
+        "ALT_NAME": [
+            "Incursion (Ch. 7)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "ironsword",
+            "javelin",
+            "handaxe",
+            "ironbow",
+            "fire"
+        ],
+        "merchant": [
+            "steelsword",
+            "steellance",
+            "steelaxe",
+            "steelbow",
+            "elthunder",
+            "armorslayer",
+            "rescue",
+            "masterseal",
+            "secondseal",
+            "Rare Item"
+        ]
+    },
+    "bordersands": {
+        "name": "Border Sands (Chapter 8: The Grimleal)",
+        "short_name": "The Grimleal (Ch. 8)",
+        "HARD_ALT_NAME": [
+            "Chapter 8"
+        ],
+        "ALT_NAME": [
+            "The Grimleal (Ch. 8)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "mend",
+            "concoction",
+            "skilltonic",
+            "speedtonic",
+            "lucktonic"
+        ],
+        "merchant": [
+            "steelsword",
+            "steellance",
+            "steelaxe",
+            "steelbow",
+            "elwind",
+            "hammer",
+            "ward",
+            "masterseal",
+            "secondseal",
+            "Rare Item"
+        ]
+    },
+    "plegiacastlecourtyard": {
+        "name": "Plegia Castle Courtyard (Chapter 9: Emmeryn)",
+        "short_name": "Emmeryn (Ch. 9)",
+        "HARD_ALT_NAME": [
+            "Chapter 9"
+        ],
+        "ALT_NAME": [
+            "Emmeryn (Ch. 9)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "steelsword",
+            "steellance",
+            "steelaxe",
+            "steelbow",
+            "flux"
+        ],
+        "merchant": [
+            "silversword",
+            "silverlance",
+            "silveraxe",
+            "silverbow",
+            "nosferatu",
+            "beastkiller",
+            "blessedbow",
+            "masterseal",
+            "secondseal",
+            "Rare Item"
+        ]
+    },
+    "themidmire": {
+        "name": "The Midmire (Chapter 10: Renewal)",
+        "short_name": "Renewal (Ch. 10)",
+        "HARD_ALT_NAME": [
+            "Chapter 10"
+        ],
+        "ALT_NAME": [
+            "Renewal (Ch. 10)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "ironlance",
+            "javelin",
+            "ironaxe",
+            "handaxe"
+        ],
+        "merchant": [
+            "silversword",
+            "silverlance",
+            "silveraxe",
+            "silverbow",
+            "elfire",
+            "blessedlance",
+            "elixir",
+            "masterseal",
+            "secondseal",
+            "Rare Item"
+        ]
+    },
+    "borderwastes": {
+        "name": "Border Wastes (Chapter 11: Mad King Gangrel)",
+        "short_name": "Mad King Gangrel (Ch. 11)",
+        "HARD_ALT_NAME": [
+            "Chapter 11"
+        ],
+        "ALT_NAME": [
+            "Mad King Gangrel (Ch. 11)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "ironsword",
+            "ironbow",
+            "fire",
+            "thunder",
+            "wind"
+        ],
+        "merchant": [
+            "silversword",
+            "silverlance",
+            "silveraxe",
+            "silverbow",
+            "arcthunder",
+            "levinsword",
+            "rapier",
+            "shortspear",
+            "killerbow",
+            "Rare Item"
+        ]
+    },
+    "portferox": {
+        "name": "Port Ferox (Chapter 12: The Seacomers)",
+        "short_name": "The Seacomers (Ch. 12)",
+        "HARD_ALT_NAME": [
+            "Chapter 12"
+        ],
+        "ALT_NAME": [
+            "The Seacomers (Ch. 12)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "dragonstone",
+            "beaststone",
+            "mend",
+            "rescue",
+            "masterseal"
+        ],
+        "merchant": [
+            "silversword",
+            "silverlance",
+            "silveraxe",
+            "silverbow",
+            "arcfire",
+            "killingedge",
+            "killerlance",
+            "killeraxe",
+            "killerbow",
+            "Rare Item"
+        ]
+    },
+    "carrionisle": {
+        "name": "Carrion Isle (Chapter 13: Of Sacred Blood)",
+        "short_name": "Of Sacred Blood (Ch. 13)",
+        "HARD_ALT_NAME": [
+            "Chapter 13"
+        ],
+        "ALT_NAME": [
+            "Of Sacred Blood (Ch. 13)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "elfire",
+            "elthunder",
+            "elwind",
+            "nosferatu",
+            "reekingbox"
+        ],
+        "merchant": [
+            "silversword",
+            "silverlance",
+            "silveraxe",
+            "silverbow",
+            "arcwind",
+            "armorslayer",
+            "blessedlance",
+            "shortaxe",
+            "elixir",
+            "Rare Item"
+        ]
+    },
+    "thesearoad": {
+        "name": "The Searoad (Chapter 14: Flames on the Blue)",
+        "short_name": "Flames on the Blue (Ch. 14)",
+        "HARD_ALT_NAME": [
+            "Chapter 14"
+        ],
+        "ALT_NAME": [
+            "Flames on the Blue (Ch. 14)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "steellance",
+            "silverlance",
+            "javelin",
+            "steelbow",
+            "silverbow"
+        ],
+        "merchant": [
+            "killingedge",
+            "killerlance",
+            "killeraxe",
+            "killerbow",
+            "ruin",
+            "rapier",
+            "shortspear",
+            "shortaxe",
+            "blessedbow",
+            "Rare Item"
+        ]
+    },
+    "valmharbor": {
+        "name": "Valm Harbor (Chapter 15: Smoldering Resistance)",
+        "short_name": "Smoldering Resistance (Ch. 15)",
+        "HARD_ALT_NAME": [
+            "Chapter 15"
+        ],
+        "ALT_NAME": [
+            "Smoldering Resistance (Ch. 15)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "steelsword",
+            "silversword",
+            "steelaxe",
+            "silveraxe",
+            "handaxe"
+        ],
+        "merchant": [
+            "killingedge",
+            "killerlance",
+            "killeraxe",
+            "killerbow",
+            "arcwind",
+            "wyrmslayer",
+            "shortspear",
+            "hammer",
+            "elixir",
+            "Rare Item"
+        ]
+    },
+    "themilatree": {
+        "name": "The Mila Tree (Chapter 16: Naga's Voice)",
+        "short_name": "Naga's Voice (Ch. 16)",
+        "HARD_ALT_NAME": [
+            "Chapter 16"
+        ],
+        "ALT_NAME": [
+            "Naga's Voice (Ch. 16)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "heal",
+            "ward",
+            "purewater",
+            "hptonic",
+            "secondseal"
+        ],
+        "merchant": [
+            "killingedge",
+            "killerlance",
+            "killeraxe",
+            "killerbow",
+            "arcthunder",
+            "levinsword",
+            "beastkiller",
+            "shortaxe",
+            "blessedbow",
+            "Rare Item"
+        ]
+    },
+    "fortsteiger": {
+        "name": "Fort Steiger (Chapter 17: Inexorable Death)",
+        "short_name": "Inexorable Death (Ch. 17)",
+        "HARD_ALT_NAME": [
+            "Chapter 17"
+        ],
+        "ALT_NAME": [
+            "Inexorable Death (Ch. 17)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "silversword",
+            "silverlance",
+            "silveraxe",
+            "silverbow",
+            "arcfire"
+        ],
+        "merchant": [
+            "killingedge",
+            "killerlance",
+            "killeraxe",
+            "killerbow",
+            "rexcalibur",
+            "wyrmslayer",
+            "blessedlance",
+            "hammer",
+            "dragonstone+",
+            "Rare Item"
+        ]
+    },
+    "thedemonsingle": {
+        "name": "The Demon's Ingle (Chapter 18: Sibling Blades)",
+        "short_name": "Sibling Blades (Ch. 18)",
+        "HARD_ALT_NAME": [
+            "Chapter 18"
+        ],
+        "ALT_NAME": [
+            "Sibling Blades (Ch. 18)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "dragonstone",
+            "beaststone",
+            "physic",
+            "recover",
+            "ward"
+        ],
+        "merchant": [
+            "bravesword",
+            "bravelance",
+            "braveaxe",
+            "bravebow",
+            "thoron",
+            "noblerapier",
+            "killerlance",
+            "tomahawk",
+            "beaststone+",
+            "Rare Item"
+        ]
+    },
+    "valmcastleapproach": {
+        "name": "Valm Castle Approach (Chapter 19: The Conqueror)",
+        "short_name": "The Conqueror (Ch. 19)",
+        "HARD_ALT_NAME": [
+            "Chapter 19"
+        ],
+        "ALT_NAME": [
+            "The Conqueror (Ch. 19)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "silversword",
+            "killingedge",
+            "silverbow",
+            "killerbow",
+            "ruin"
+        ],
+        "merchant": [
+            "bravesword",
+            "bravelance",
+            "braveaxe",
+            "bravebow",
+            "bolganone",
+            "spear",
+            "killeraxe",
+            "killerbow",
+            "fortify",
+            "Rare Item"
+        ]
+    },
+    "valmcastle": {
+        "name": "Valm Castle (Chapter 20: The Sword or the Knee)",
+        "short_name": "The Sword or the Knee (Ch. 20)",
+        "HARD_ALT_NAME": [
+            "Chapter 20"
+        ],
+        "ALT_NAME": [
+            "The Sword or the Knee (Ch. 20)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "silverlance",
+            "killerlance",
+            "silveraxe",
+            "killeraxe"
+        ],
+        "merchant": [
+            "bravesword",
+            "bravelance",
+            "braveaxe",
+            "bravebow",
+            "waste",
+            "levinsword",
+            "beastkiller",
+            "tomahawk",
+            "killerbow",
+            "Rare Item"
+        ]
+    },
+    "plegiacastle": {
+        "name": "Plegia Castle (Chapter 21: Five Gemstones)",
+        "short_name": "Five Gemstones (Ch. 21)",
+        "HARD_ALT_NAME": [
+            "Chapter 21"
+        ],
+        "ALT_NAME": [
+            "Five Gemstones (Ch. 21)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "javelin",
+            "handaxe",
+            "arcfire",
+            "arcthunder",
+            "arcwind"
+        ],
+        "merchant": [
+            "bravesword",
+            "bravelance",
+            "braveaxe",
+            "bravebow",
+            "thoron",
+            "armorslayer",
+            "noblerapier",
+            "longbow",
+            "mire",
+            "Rare Item"
+        ]
+    },
+    "tableapproach": {
+        "name": "Table Approach (Chapter 22: An Ill Presage)",
+        "short_name": "An Ill Presage (Ch. 22)",
+        "HARD_ALT_NAME": [
+            "Chapter 22"
+        ],
+        "ALT_NAME": [
+            "An Ill Presage (Ch. 22)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "heal",
+            "mend",
+            "rescue",
+            "ward",
+            "concoction"
+        ],
+        "merchant": [
+            "bravesword",
+            "bravelance",
+            "braveaxe",
+            "bravebow",
+            "bolganone",
+            "killingedge",
+            "spear",
+            "hammer",
+            "blessedbow",
+            "Rare Item"
+        ]
+    },
+    "thedragonstable": {
+        "name": "The Dragon's Table (Chapter 23: Invisible Ties)",
+        "short_name": "Invisible Ties (Ch. 23)",
+        "HARD_ALT_NAME": [
+            "Chapter 23"
+        ],
+        "ALT_NAME": [
+            "Invisible Ties (Ch. 23)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "dragonstone+",
+            "beaststone+",
+            "physic",
+            "recover",
+            "elixir"
+        ],
+        "merchant": [
+            "bravesword",
+            "bravelance",
+            "braveaxe",
+            "bravebow",
+            "rexcalibur",
+            "killerlance",
+            "killeraxe",
+            "longbow",
+            "fortify",
+            "Rare Item"
+        ]
+    },
+    "mountprism": {
+        "name": "Mount Prism (Chapter 24: Awakening)",
+        "short_name": "Awakening (Ch. 24)",
+        "HARD_ALT_NAME": [
+            "Chapter 24"
+        ],
+        "ALT_NAME": [
+            "Awakening (Ch. 24)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "bolganone",
+            "thoron",
+            "rexcalibur",
+            "waste"
+        ],
+        "merchant": [
+            "Rare Item",
+            "Rare Item",
+            "Rare Item"
+        ]
+    },
+    "originpeak": {
+        "name": "Origin Peak (Chapter 25: To Slay a God)",
+        "short_name": "To Slay a God (Ch. 25)",
+        "HARD_ALT_NAME": [
+            "Chapter 25"
+        ],
+        "ALT_NAME": [
+            "To Slay a God (Ch. 25)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "bravesword",
+            "bravelance",
+            "braveaxe",
+            "bravebow",
+            "reekingbox"
+        ],
+        "merchant": [
+            "Rare Item",
+            "Rare Item",
+            "Rare Item"
+        ]
+    },
+    "thefarfort": {
+        "name": "The Farfort (Paralogue 1: Sickle to Sword)",
+        "short_name": "Sickle to Sword (P. 1)",
+        "HARD_ALT_NAME": [
+            "Paralogue 1"
+        ],
+        "ALT_NAME": [
+            "Sickle to Sword (P. 1)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "ironsword",
+            "ironlance",
+            "ironaxe",
+            "ironbow"
+        ],
+        "merchant": [
+            "steelsword",
+            "steellance",
+            "steelaxe",
+            "steelbow",
+            "elthunder",
+            "wyrmslayer",
+            "rescue",
+            "masterseal",
+            "secondseal",
+            "Rare Item"
+        ]
+    },
+    "thetwinsturf": {
+        "name": "The Twins' Turf (Paralogue 2: The Secret Seller)",
+        "short_name": "The Secret Seller (P. 2)",
+        "HARD_ALT_NAME": [
+            "Paralogue 2"
+        ],
+        "ALT_NAME": [
+            "The Secret Seller (P. 2)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "javelin",
+            "handaxe",
+            "fire",
+            "thunder",
+            "wind"
+        ],
+        "merchant": [
+            "steelsword",
+            "steellance",
+            "steelaxe",
+            "steelbow",
+            "elwind",
+            "hammer",
+            "physic",
+            "masterseal",
+            "secondseal",
+            "Rare Item"
+        ]
+    },
+    "peacefulvillage": {
+        "name": "Peaceful Village (Paralogue 3: A Strangled Peace)",
+        "short_name": "A Strangled Peace (P. 3)",
+        "HARD_ALT_NAME": [
+            "Paralogue 3"
+        ],
+        "ALT_NAME": [
+            "A Strangled Peace (P. 3)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "heal",
+            "mend",
+            "vulnerary",
+            "concoction"
+        ],
+        "merchant": [
+            "steelsword",
+            "steellance",
+            "steelaxe",
+            "steelbow",
+            "nosferatu",
+            "beastkiller",
+            "elixir",
+            "masterseal",
+            "secondseal",
+            "Rare Item"
+        ]
+    },
+    "thetwinshideout": {
+        "name": "The Twins' Hideout (Paralogue 4: Anna the Merchant)",
+        "short_name": "Anna the Merchant (P. 4)",
+        "HARD_ALT_NAME": [
+            "Paralogue 4"
+        ],
+        "ALT_NAME": [
+            "Anna the Merchant (P. 4)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "steelsword",
+            "steellance",
+            "steelaxe",
+            "steelbow"
+        ],
+        "merchant": [
+            "silversword",
+            "silverlance",
+            "silveraxe",
+            "silverbow",
+            "arcthunder",
+            "ruin",
+            "shortspear",
+            "shortaxe",
+            "elixir",
+            "Rare Item"
+        ]
+    },
+    "sageshamlet": {
+        "name": "Sage's Hamlet (Paralogue 5: Scion of Legend)",
+        "short_name": "Scion of Legend (P. 5)",
+        "HARD_ALT_NAME": [
+            "Paralogue 5"
+        ],
+        "ALT_NAME": [
+            "Scion of Legend (P. 5)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "ironsword",
+            "steelsword",
+            "silversword",
+            "killingedge"
+        ],
+        "merchant": [
+            "silverlance",
+            "silveraxe",
+            "silverbow",
+            "arcfire",
+            "bravesword",
+            "bravelance",
+            "braveaxe",
+            "bravebow",
+            "thoron",
+            "Rare Item"
+        ]
+    },
+    "greatgate": {
+        "name": "Great Gate (Paralogue 6: A Man for Flowers)",
+        "short_name": "A Man for Flowers (P. 6)",
+        "HARD_ALT_NAME": [
+            "Paralogue 6"
+        ],
+        "ALT_NAME": [
+            "A Man for Flowers (P. 6)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "heal",
+            "rescue",
+            "concoction",
+            "elixir",
+            "secondseal"
+        ],
+        "merchant": [
+            "killingedge",
+            "killerlance",
+            "killeraxe",
+            "killerbow",
+            "levinsword",
+            "beastkiller",
+            "blessedlance",
+            "hammer",
+            "blessedbow",
+            "Rare Item"
+        ]
+    },
+    "milashrineruins": {
+        "name": "Mila Shrine Ruins (Paralogue 7: Noble Lineage)",
+        "short_name": "Noble Lineage (P. 7)",
+        "HARD_ALT_NAME": [
+            "Paralogue 7"
+        ],
+        "ALT_NAME": [
+            "Noble Lineage (P. 7)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "heal",
+            "mend",
+            "physic",
+            "rescue",
+            "ward"
+        ],
+        "merchant": [
+            "killingedge",
+            "killerlance",
+            "killeraxe",
+            "killerbow",
+            "armorslayer",
+            "levinsword",
+            "blessedlance",
+            "hammer",
+            "blessedbow",
+            "Rare Item"
+        ]
+    },
+    "duelinggrounds": {
+        "name": "Dueling Grounds (Paralogue 8: A Duel Disgraced)",
+        "short_name": "A Duel Disgraced (P. 8)",
+        "HARD_ALT_NAME": [
+            "Paralogue 8"
+        ],
+        "ALT_NAME": [
+            "A Duel Disgraced (P. 8)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "physic",
+            "elixir",
+            "hptonic",
+            "lucktonic",
+            "masterseal"
+        ],
+        "merchant": [
+            "killingedge",
+            "killerlance",
+            "killeraxe",
+            "killerbow",
+            "wyrmslayer",
+            "beastkiller",
+            "blessedlance",
+            "hammer",
+            "blessedbow",
+            "Rare Item"
+        ]
+    },
+    "verdantforest": {
+        "name": "Verdant Forest (Paralogue 9: Wings of Justice)",
+        "short_name": "Wings of Justice (P. 9)",
+        "HARD_ALT_NAME": [
+            "Paralogue 9"
+        ],
+        "ALT_NAME": [
+            "Wings of Justice (P. 9)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "ironlance",
+            "steellance",
+            "silverlance",
+            "javelin",
+            "killerlance"
+        ],
+        "merchant": [
+            "silversword",
+            "silveraxe",
+            "silverbow",
+            "arcthunder",
+            "bravesword",
+            "bravelance",
+            "braveaxe",
+            "bravebow",
+            "bolganone",
+            "Rare Item"
+        ]
+    },
+    "mercenaryfortress": {
+        "name": "Mercenary Fortress (Paralogue 10: Ambivalence)",
+        "short_name": "Ambivalence (P. 10)",
+        "HARD_ALT_NAME": [
+            "Paralogue 10"
+        ],
+        "ALT_NAME": [
+            "Ambivalence (P. 10)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "recover",
+            "elixir",
+            "magictonic",
+            "resistancetonic",
+            "secondseal"
+        ],
+        "merchant": [
+            "killingedge",
+            "killerlance",
+            "killeraxe",
+            "killerbow",
+            "wyrmslayer",
+            "levinsword",
+            "beastkiller",
+            "blessedlance",
+            "hammer",
+            "Rare Item"
+        ]
+    },
+    "wyvernvalley": {
+        "name": "Wyvern Valley (Paralogue 11: Twin Wyverns)",
+        "short_name": "Twin Wyverns (P. 11)",
+        "HARD_ALT_NAME": [
+            "Paralogue 11"
+        ],
+        "ALT_NAME": [
+            "Twin Wyverns (P. 11)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "ironaxe",
+            "steelaxe",
+            "silveraxe",
+            "handaxe",
+            "killeraxe"
+        ],
+        "merchant": [
+            "silversword",
+            "silverlance",
+            "silverbow",
+            "ruin",
+            "bravesword",
+            "bravelance",
+            "braveaxe",
+            "bravebow",
+            "bolganone",
+            "Rare Item"
+        ]
+    },
+    "theruinsoftime": {
+        "name": "The Ruins of Time (Paralogue 12: Disowned by Time)",
+        "short_name": "Disowned by Time (P. 12)",
+        "HARD_ALT_NAME": [
+            "Paralogue 12"
+        ],
+        "ALT_NAME": [
+            "Disowned by Time (P. 12)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "mend",
+            "ward",
+            "concoction",
+            "elixir",
+            "masterseal"
+        ],
+        "merchant": [
+            "killingedge",
+            "killerlance",
+            "killeraxe",
+            "killerbow",
+            "wyrmslayer",
+            "beastkiller",
+            "blessedlance",
+            "hammer",
+            "blessedbow",
+            "Rare Item"
+        ]
+    },
+    "lawsend": {
+        "name": "Law's End (Paralogue 13: Rival Bands)",
+        "short_name": "Rival Bands (P. 13)",
+        "HARD_ALT_NAME": [
+            "Paralogue 13"
+        ],
+        "ALT_NAME": [
+            "Rival Bands (P. 13)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "beaststone",
+            "concoction",
+            "skilltonic",
+            "speedtonic",
+            "masterseal"
+        ],
+        "merchant": [
+            "killingedge",
+            "killerlance",
+            "killeraxe",
+            "killerbow",
+            "armorslayer",
+            "levinsword",
+            "beastkiller",
+            "blessedlance",
+            "blessedbow",
+            "Rare Item"
+        ]
+    },
+    "desertoasis": {
+        "name": "Desert Oasis (Paralogue 14: Shadow in the Sands)",
+        "short_name": "Shadow in the Sands (P. 14)",
+        "HARD_ALT_NAME": [
+            "Paralogue 14"
+        ],
+        "ALT_NAME": [
+            "Shadow in the Sands (P. 14)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "elfire",
+            "elthunder",
+            "elwind",
+            "flux",
+            "nosferatu"
+        ],
+        "merchant": [
+            "killingedge",
+            "killerlance",
+            "killeraxe",
+            "killerbow",
+            "wyrmslayer",
+            "beastkiller",
+            "blessedlance",
+            "hammer",
+            "blessedbow",
+            "Rare Item"
+        ]
+    },
+    "kidnapperskeep": {
+        "name": "Kidnapper's Keep (Paralogue 15: A Shot from the Dark)",
+        "short_name": "A Shot from the Dark (P. 15)",
+        "HARD_ALT_NAME": [
+            "Paralogue 15"
+        ],
+        "ALT_NAME": [
+            "A Shot from the Dark (P. 15)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "ironbow",
+            "steelbow",
+            "silverbow",
+            "killerbow"
+        ],
+        "merchant": [
+            "silversword",
+            "silverlance",
+            "silveraxe",
+            "arcwind",
+            "bravesword",
+            "bravelance",
+            "braveaxe",
+            "bravebow",
+            "rexcalibur",
+            "Rare Item"
+        ]
+    },
+    "manoroflostsouls": {
+        "name": "Manor of Lost Souls (Paralogue 16: Daughter to Dragons)",
+        "short_name": "Daughter to Dragons (P. 16)",
+        "HARD_ALT_NAME": [
+            "Paralogue 16"
+        ],
+        "ALT_NAME": [
+            "Daughter to Dragons (P. 16)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "dragonstone",
+            "concoction",
+            "strengthtonic",
+            "defensetonic",
+            "secondseal"
+        ],
+        "merchant": [
+            "killingedge",
+            "killerlance",
+            "killeraxe",
+            "killerbow",
+            "armorslayer",
+            "levinsword",
+            "beastkiller",
+            "hammer",
+            "blessedbow",
+            "Rare Item"
+        ]
+    },
+    "divinedragongrounds": {
+        "name": "Divine Dragon Grounds (Paralogue 17: The Threat of Silence)",
+        "short_name": "The Threat of Silence (P. 17)",
+        "HARD_ALT_NAME": [
+            "Paralogue 17"
+        ],
+        "ALT_NAME": [
+            "The Threat of Silence (P. 17)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "arcfire",
+            "arcthunder",
+            "arcwind",
+            "nosferatu",
+            "ruin"
+        ],
+        "merchant": [
+            "bolganone",
+            "thoron",
+            "rexcalibur",
+            "waste",
+            "bravesword",
+            "bravelance",
+            "braveaxe",
+            "bravebow",
+            "fortify",
+            "Rare Item"
+        ]
+    },
+    "seakingsthrone": {
+        "name": "Sea-King's Throne (Paralogue 18: The Dead King's Lament)",
+        "short_name": "The Dead King's Lament (P. 18)",
+        "HARD_ALT_NAME": [
+            "Paralogue 18"
+        ],
+        "ALT_NAME": [
+            "The Dead King's Lament (P. 18)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "silveraxe",
+            "braveaxe",
+            "hammer",
+            "dragonstone+",
+            "beaststone+"
+        ],
+        "merchant": [
+            "Rare Item",
+            "Rare Item",
+            "Rare Item"
+        ]
+    },
+    "conquerorswhetstone": {
+        "name": "Conqueror's Whetstone (Paralogue 19: Irreconcilable Paths)",
+        "short_name": "Irreconcilable Paths (P. 19)",
+        "HARD_ALT_NAME": [
+            "Paralogue 19"
+        ],
+        "ALT_NAME": [
+            "Irreconcilable Paths (P. 19)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "silverlance",
+            "bravelance",
+            "beastkiller",
+            "blessedlance",
+            "thoron"
+        ],
+        "merchant": [
+            "Rare Item",
+            "Rare Item",
+            "Rare Item"
+        ]
+    },
+    "mountainvillage": {
+        "name": "Mountain Village (Paralogue 20: A Hard Miracle)",
+        "short_name": "A Hard Miracle (P. 20)",
+        "HARD_ALT_NAME": [
+            "Paralogue 20"
+        ],
+        "ALT_NAME": [
+            "A Hard Miracle (P. 20)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "silverbow",
+            "bravebow",
+            "blessedbow",
+            "rexcalibur",
+            "waste"
+        ],
+        "merchant": [
+            "Rare Item",
+            "Rare Item",
+            "Rare Item"
+        ]
+    },
+    "warriorstomb": {
+        "name": "Warriors' Tomb (Paralogue 21: Ghost of a Blade)",
+        "short_name": "Ghost of a Blade (P. 21)",
+        "HARD_ALT_NAME": [
+            "Paralogue 21"
+        ],
+        "ALT_NAME": [
+            "Ghost of a Blade (P. 21)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "silversword",
+            "bravesword",
+            "armorslayer",
+            "wyrmslayer",
+            "bolganone"
+        ],
+        "merchant": [
+            "Rare Item",
+            "Rare Item",
+            "Rare Item"
+        ]
+    },
+    "wellspringoftruth": {
+        "name": "Wellspring of Truth (Paralogue 22: The Wellspring of Truth)",
+        "short_name": "The Wellspring of Truth (P. 22)",
+        "HARD_ALT_NAME": [
+            "Paralogue 22"
+        ],
+        "ALT_NAME": [
+            "The Wellspring of Truth (P. 22)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "physic",
+            "recover",
+            "rescue",
+            "ward",
+            "elixir"
+        ],
+        "merchant": [
+            "Rare Item",
+            "Rare Item",
+            "Rare Item"
+        ]
+    },
+    "gardenofgiants": {
+        "name": "Garden of Giants (Paralogue 23: The Radiant Hero)",
+        "short_name": "The Radiant Hero (P. 23)",
+        "HARD_ALT_NAME": [
+            "Paralogue 23"
+        ],
+        "ALT_NAME": [
+            "The Radiant Hero (P. 23)"
+        ],
+        "spotpass": false,
+        "shop": [
+            "noblerapier",
+            "levinsword",
+            "shortspear",
+            "shortaxe",
+            "longbow"
+        ],
+        "merchant": [
+            "Rare Item",
+            "Rare Item",
+            "Rare Item"
+        ]
+    },
+    "nyna": {
+        "name": "Nyna",
+        "spotpass": true,
+        "shop": [
+            "silverlance",
+            "javelin",
+            "silverbow",
+            "elthunder",
+            "mend"
+        ],
+        "merchant": []
+    },
+    "caeda": {
+        "name": "Caeda",
+        "spotpass": true,
+        "shop": [
+            "steelsword",
+            "steellance",
+            "shortspear",
+            "killerlance",
+            "fire",
+            "elfire",
+            "thunder"
+        ],
+        "merchant": []
+    },
+    "linde": {
+        "name": "Linde",
+        "spotpass": true,
+        "shop": [
+            "steelsword",
+            "killingedge",
+            "steelbow",
+            "killerbow",
+            "arcthunder"
+        ],
+        "merchant": []
+    },
+    "merric": {
+        "name": "Merric",
+        "spotpass": true,
+        "shop": [
+            "arcfire",
+            "bolganone",
+            "arcthunder",
+            "nosferatu",
+            "ruin"
+        ],
+        "merchant": []
+    },
+    "tiki": {
+        "name": "Tiki",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "silveraxe",
+            "killingedge",
+            "shortaxe",
+            "dragonstone+"
+        ],
+        "merchant": []
+    },
+    "minerva": {
+        "name": "Minerva",
+        "spotpass": true,
+        "shop": [
+            "silverlance",
+            "beastkiller",
+            "killerlance",
+            "silveraxe",
+            "arcthunder",
+            "physic"
+        ],
+        "merchant": []
+    },
+    "ogma": {
+        "name": "Ogma",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "killingedge",
+            "silveraxe",
+            "tomahawk",
+            "hammer",
+            "killeraxe"
+        ],
+        "merchant": []
+    },
+    "navarre": {
+        "name": "Navarre",
+        "spotpass": true,
+        "shop": [
+            "killingedge",
+            "silversword",
+            "levinsword",
+            "silverbow"
+        ],
+        "merchant": []
+    },
+    "gharnef": {
+        "name": "Gharnef",
+        "spotpass": true,
+        "shop": [
+            "bolganone",
+            "thoron",
+            "rexcalibur",
+            "waste",
+            "mire"
+        ],
+        "merchant": []
+    },
+    "princemarth": {
+        "name": "Prince Marth",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "noblerapier",
+            "silverlance",
+            "beastkiller",
+            "killeraxe",
+            "longbow",
+            "physic"
+        ],
+        "merchant": []
+    },
+    "clair": {
+        "name": "Clair",
+        "spotpass": true,
+        "shop": [
+            "ironsword",
+            "ironlance",
+            "ironaxe",
+            "handaxe"
+        ],
+        "merchant": []
+    },
+    "boey": {
+        "name": "Boey",
+        "spotpass": true,
+        "shop": [
+            "steelsword",
+            "killingedge",
+            "steelaxe",
+            "elfire",
+            "elthunder"
+        ],
+        "merchant": []
+    },
+    "mycen": {
+        "name": "Mycen",
+        "spotpass": true,
+        "shop": [
+            "silverlance",
+            "shortspear",
+            "silveraxe",
+            "hammer"
+        ],
+        "merchant": []
+    },
+    "valbar": {
+        "name": "Valbar",
+        "spotpass": true,
+        "shop": [
+            "silverlance",
+            "arcfire",
+            "arcthunder"
+        ],
+        "merchant": []
+    },
+    "luthier": {
+        "name": "Luthier",
+        "spotpass": true,
+        "shop": [
+            "ironaxe",
+            "killeraxe",
+            "silverbow",
+            "blessedbow",
+            "rexcalibur"
+        ],
+        "merchant": []
+    },
+    "clive": {
+        "name": "Clive",
+        "spotpass": true,
+        "shop": [
+            "silverlance",
+            "silverbow"
+        ],
+        "merchant": []
+    },
+    "nomah": {
+        "name": "Nomah",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "silverlance",
+            "bolganone",
+            "arcthunder",
+            "arcwind",
+            "recover"
+        ],
+        "merchant": []
+    },
+    "deen": {
+        "name": "Deen",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "bravesword",
+            "silveraxe",
+            "tomahawk"
+        ],
+        "merchant": []
+    },
+    "alm": {
+        "name": "Alm",
+        "spotpass": true,
+        "shop": [
+            "almsblade",
+            "silverlance",
+            "spear",
+            "silveraxe",
+            "silverbow",
+            "thoron"
+        ],
+        "merchant": []
+    },
+    "celica": {
+        "name": "Celica",
+        "spotpass": true,
+        "shop": [
+            "silverlance",
+            "spear",
+            "silveraxe",
+            "celicasgale",
+            "physic"
+        ],
+        "merchant": []
+    },
+    "norne": {
+        "name": "Norne",
+        "spotpass": true,
+        "shop": [
+            "killingedge",
+            "ironlance",
+            "javelin",
+            "killerlance",
+            "ironbow",
+            "fire",
+            "thunder"
+        ],
+        "merchant": []
+    },
+    "catria": {
+        "name": "Catria",
+        "spotpass": true,
+        "shop": [
+            "steelsword",
+            "wyrmslayer",
+            "steellance",
+            "steelbow"
+        ],
+        "merchant": []
+    },
+    "malice": {
+        "name": "Malice",
+        "spotpass": true,
+        "shop": [
+            "armorslayer",
+            "killingedge",
+            "levinsword",
+            "steellance",
+            "javelin",
+            "imposingaxe",
+            "killerbow"
+        ],
+        "merchant": []
+    },
+    "athena": {
+        "name": "Athena",
+        "spotpass": true,
+        "shop": [
+            "steelsword",
+            "silversword",
+            "silverbow"
+        ],
+        "merchant": []
+    },
+    "horace": {
+        "name": "Horace",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "silverlance",
+            "silveraxe",
+            "arcfire",
+            "arcthunder"
+        ],
+        "merchant": []
+    },
+    "etzel": {
+        "name": "Etzel",
+        "spotpass": true,
+        "shop": [
+            "silverlance",
+            "silveraxe",
+            "arcfire",
+            "arcwind",
+            "waste"
+        ],
+        "merchant": []
+    },
+    "legion": {
+        "name": "Legion",
+        "spotpass": true,
+        "shop": [
+            "killeraxe"
+        ],
+        "merchant": []
+    },
+    "katarina": {
+        "name": "Katarina",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "killingedge",
+            "levinsword",
+            "killerbow",
+            "katarinasbolt"
+        ],
+        "merchant": []
+    },
+    "hardin": {
+        "name": "Hardin",
+        "spotpass": true,
+        "shop": [
+            "silverlance",
+            "bravelance",
+            "spear",
+            "silveraxe",
+            "bravebow"
+        ],
+        "merchant": []
+    },
+    "kingmarth": {
+        "name": "King Marth",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "silveraxe"
+        ],
+        "merchant": []
+    },
+    "deirdre": {
+        "name": "Deirdre",
+        "spotpass": true,
+        "shop": [
+            "fire",
+            "thunder",
+            "flux",
+            "nosferatu"
+        ],
+        "merchant": []
+    },
+    "arden": {
+        "name": "Arden",
+        "spotpass": true,
+        "shop": [
+            "steellance",
+            "shortspear"
+        ],
+        "merchant": []
+    },
+    "jamke": {
+        "name": "Jamke",
+        "spotpass": true,
+        "shop": [
+            "steelaxe",
+            "hammer",
+            "steelbow",
+            "blessedbow",
+            "killerbow"
+        ],
+        "merchant": []
+    },
+    "laquesis": {
+        "name": "Laquesis",
+        "spotpass": true,
+        "shop": [
+            "silverlance",
+            "recover"
+        ],
+        "merchant": []
+    },
+    "ethlyn": {
+        "name": "Ethlyn",
+        "spotpass": true,
+        "shop": [
+            "steelsword",
+            "armorslayer",
+            "steellance",
+            "killerlance",
+            "arcthunder",
+            "physic"
+        ],
+        "merchant": []
+    },
+    "quan": {
+        "name": "Quan",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "silverlance",
+            "killerlance",
+            "silverbow",
+            "killerbow"
+        ],
+        "merchant": []
+    },
+    "ayra": {
+        "name": "Ayra",
+        "spotpass": true,
+        "shop": [
+            "bravesword",
+            "silverlance",
+            "beastkiller",
+            "rexcalibur"
+        ],
+        "merchant": []
+    },
+    "lewyn": {
+        "name": "Lewyn",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "silveraxe",
+            "rexcalibur"
+        ],
+        "merchant": []
+    },
+    "arvis": {
+        "name": "Arvis",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "silverlance",
+            "bolganone",
+            "thoron"
+        ],
+        "merchant": []
+    },
+    "sigurd": {
+        "name": "Sigurd",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "bravesword",
+            "silverlance",
+            "bravelance",
+            "sigurdslance",
+            "braveaxe",
+            "silverbow",
+            "thoron",
+            "rexcalibur"
+        ],
+        "merchant": []
+    },
+    "fee": {
+        "name": "Fee",
+        "spotpass": true,
+        "shop": [
+            "ironsword",
+            "ironlance",
+            "ironaxe"
+        ],
+        "merchant": []
+    },
+    "arthur": {
+        "name": "Arthur",
+        "spotpass": true,
+        "shop": [
+            "ironlance",
+            "fire",
+            "thunder",
+            "wind",
+            "elwind"
+        ],
+        "merchant": []
+    },
+    "ulster": {
+        "name": "Ulster",
+        "spotpass": true,
+        "shop": [
+            "steelsword",
+            "steellance",
+            "steelaxe",
+            "steelbow",
+            "elfire"
+        ],
+        "merchant": []
+    },
+    "larcei": {
+        "name": "Larcei",
+        "spotpass": true,
+        "shop": [
+            "steelsword",
+            "silversword",
+            "braveaxe"
+        ],
+        "merchant": []
+    },
+    "altena": {
+        "name": "Altena",
+        "spotpass": true,
+        "shop": [
+            "silverlance",
+            "shortspear",
+            "silveraxe",
+            "shortaxe"
+        ],
+        "merchant": []
+    },
+    "ced": {
+        "name": "Ced",
+        "spotpass": true,
+        "shop": [
+            "silveraxe",
+            "shortaxe",
+            "arcwind"
+        ],
+        "merchant": []
+    },
+    "julia": {
+        "name": "Julia",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "killingedge",
+            "longbow"
+        ],
+        "merchant": []
+    },
+    "ares": {
+        "name": "Ares",
+        "spotpass": true,
+        "shop": [
+            "silverlance",
+            "silveraxe",
+            "bolganone"
+        ],
+        "merchant": []
+    },
+    "julius": {
+        "name": "Julius",
+        "spotpass": true,
+        "shop": [
+            "bravesword",
+            "bravelance",
+            "bravebow",
+            "rexcalibur"
+        ],
+        "merchant": []
+    },
+    "seliph": {
+        "name": "Seliph",
+        "spotpass": true,
+        "shop": [
+            "seliphsblade",
+            "silverlance",
+            "silveraxe",
+            "silverbow",
+            "thoron"
+        ],
+        "merchant": []
+    },
+    "nanna": {
+        "name": "Nanna",
+        "spotpass": true,
+        "shop": [
+            "ironsword",
+            "ironbow",
+            "heal"
+        ],
+        "merchant": []
+    },
+    "dagdar": {
+        "name": "Dagdar",
+        "spotpass": true,
+        "shop": [
+            "ironaxe",
+            "handaxe",
+            "hammer"
+        ],
+        "merchant": []
+    },
+    "salem": {
+        "name": "Salem",
+        "spotpass": true,
+        "shop": [
+            "steelsword",
+            "silversword",
+            "killingedge",
+            "nosferatu"
+        ],
+        "merchant": []
+    },
+    "olwen": {
+        "name": "Olwen",
+        "spotpass": true,
+        "shop": [
+            "steelsword",
+            "silversword",
+            "steellance",
+            "javelin",
+            "arcthunder"
+        ],
+        "merchant": []
+    },
+    "eyvel": {
+        "name": "Eyvel",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "silveraxe",
+            "silverbow"
+        ],
+        "merchant": []
+    },
+    "finn": {
+        "name": "Finn",
+        "spotpass": true,
+        "shop": [
+            "silverlance",
+            "bravelance",
+            "shortspear",
+            "blessedlance",
+            "killerlance",
+            "finnslance"
+        ],
+        "merchant": []
+    },
+    "saias": {
+        "name": "Saias",
+        "spotpass": true,
+        "shop": [
+            "silverlance",
+            "silveraxe",
+            "tomahawk",
+            "silverbow",
+            "bolganone",
+            "physic"
+        ],
+        "merchant": []
+    },
+    "mareeta": {
+        "name": "Mareeta",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "bravesword",
+            "wyrmslayer",
+            "killingedge",
+            "silveraxe",
+            "hammer",
+            "killeraxe",
+            "silverbow",
+            "killerbow",
+            "longbow"
+        ],
+        "merchant": []
+    },
+    "raydrik": {
+        "name": "Raydrik",
+        "spotpass": true,
+        "shop": [
+            "silverlance",
+            "silveraxe",
+            "rexcalibur",
+            "ruin",
+            "waste",
+            "mire"
+        ],
+        "merchant": []
+    },
+    "leif": {
+        "name": "Leif",
+        "spotpass": true,
+        "shop": [
+            "levinsword",
+            "leifsblade",
+            "bravelance",
+            "finnslance",
+            "silveraxe",
+            "braveaxe",
+            "tomahawk",
+            "killeraxe"
+        ],
+        "merchant": []
+    },
+    "wolt": {
+        "name": "Wolt",
+        "spotpass": true,
+        "shop": [
+            "ironaxe",
+            "woltsbow",
+            "flux"
+        ],
+        "merchant": []
+    },
+    "shanna": {
+        "name": "Shanna",
+        "spotpass": true,
+        "shop": [
+            "ironsword",
+            "ironlance"
+        ],
+        "merchant": []
+    },
+    "lugh": {
+        "name": "Lugh",
+        "spotpass": true,
+        "shop": [
+            "steelsword",
+            "steellance",
+            "fire",
+            "elfire"
+        ],
+        "merchant": []
+    },
+    "raigh": {
+        "name": "Raigh",
+        "spotpass": true,
+        "shop": [
+            "steelsword",
+            "killingedge",
+            "steelaxe",
+            "shortaxe",
+            "nosferatu"
+        ],
+        "merchant": []
+    },
+    "sophia": {
+        "name": "Sophia",
+        "spotpass": true,
+        "shop": [
+            "steelaxe",
+            "killeraxe",
+            "nosferatu",
+            "ruin"
+        ],
+        "merchant": []
+    },
+    "cecilia": {
+        "name": "Cecilia",
+        "spotpass": true,
+        "shop": [
+            "arcfire",
+            "arcthunder",
+            "arcwind",
+            "rexcalibur"
+        ],
+        "merchant": []
+    },
+    "perceval": {
+        "name": "Perceval",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "silverlance",
+            "bravelance",
+            "silverbow"
+        ],
+        "merchant": []
+    },
+    "lilina": {
+        "name": "Lilina",
+        "spotpass": true,
+        "shop": [
+            "silveraxe",
+            "bolganone",
+            "thoron",
+            "rexcalibur"
+        ],
+        "merchant": []
+    },
+    "zephiel": {
+        "name": "Zephiel",
+        "spotpass": true,
+        "shop": [
+            "bravesword",
+            "spear",
+            "braveaxe",
+            "killeraxe",
+            "bravebow",
+            "longbow"
+        ],
+        "merchant": []
+    },
+    "roy": {
+        "name": "Roy",
+        "spotpass": true,
+        "shop": [
+            "bravesword",
+            "roysblade",
+            "silverlance",
+            "bravelance",
+            "killerlance",
+            "silveraxe",
+            "silverbow"
+        ],
+        "merchant": []
+    },
+    "florina": {
+        "name": "Florina",
+        "spotpass": true,
+        "shop": [
+            "ironsword",
+            "javelin",
+            "ironbow"
+        ],
+        "merchant": []
+    },
+    "nino": {
+        "name": "Nino",
+        "spotpass": true,
+        "shop": [
+            "elfire",
+            "silversword",
+            "killingedge",
+            "levinsword",
+            "handaxe"
+        ],
+        "merchant": []
+    },
+    "serra": {
+        "name": "Serra",
+        "spotpass": true,
+        "shop": [
+            "steelsword",
+            "steellance",
+            "steelaxe",
+            "handaxe",
+            "arcfire",
+            "physic"
+        ],
+        "merchant": []
+    },
+    "matthew": {
+        "name": "Matthew",
+        "spotpass": true,
+        "shop": [
+            "steelsword",
+            "armorslayer",
+            "wyrmslayer",
+            "elfire",
+            "elwind"
+        ],
+        "merchant": []
+    },
+    "karel": {
+        "name": "Karel",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "armorslayer",
+            "silveraxe",
+            "shortaxe",
+            "killeraxe"
+        ],
+        "merchant": []
+    },
+    "jaffar": {
+        "name": "Jaffar",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "killingedge",
+            "killerbow",
+            "bolganone"
+        ],
+        "merchant": []
+    },
+    "lyn": {
+        "name": "Lyn",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "levinsword",
+            "silverlance",
+            "silveraxe",
+            "silverbow",
+            "killerbow",
+            "physic"
+        ],
+        "merchant": []
+    },
+    "hector": {
+        "name": "Hector",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "levinsword",
+            "silverlance",
+            "killerlance",
+            "silveraxe",
+            "shortaxe",
+            "hectorsaxe"
+        ],
+        "merchant": []
+    },
+    "nergal": {
+        "name": "Nergal",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "bravesword",
+            "bravelance",
+            "braveaxe",
+            "bravebow",
+            "thoron",
+            "rexcalibur"
+        ],
+        "merchant": []
+    },
+    "eliwood": {
+        "name": "Eliwood",
+        "spotpass": true,
+        "shop": [
+            "bravesword",
+            "killingedge",
+            "levinsword",
+            "eliwoodsblade",
+            "silverlance",
+            "bravelance",
+            "silveraxe",
+            "tomahawk",
+            "hectorsaxe",
+            "physic"
+        ],
+        "merchant": []
+    },
+    "eirika": {
+        "name": "Eirika",
+        "spotpass": true,
+        "shop": [
+            "ironsword",
+            "steelsword",
+            "eirikasblade",
+            "ironlance",
+            "silverlance",
+            "javelin",
+            "heal"
+        ],
+        "merchant": []
+    },
+    "amelia": {
+        "name": "Amelia",
+        "spotpass": true,
+        "shop": [
+            "ironlance",
+            "steellance",
+            "javelin"
+        ],
+        "merchant": []
+    },
+    "moulder": {
+        "name": "Moulder",
+        "spotpass": true,
+        "shop": [
+            "steellance",
+            "steelaxe",
+            "handaxe",
+            "killeraxe",
+            "physic"
+        ],
+        "merchant": []
+    },
+    "lute": {
+        "name": "Lute",
+        "spotpass": true,
+        "shop": [
+            "ironaxe",
+            "hammer",
+            "ironbow",
+            "killerbow",
+            "arcfire"
+        ],
+        "merchant": []
+    },
+    "marisa": {
+        "name": "Marisa",
+        "spotpass": true,
+        "shop": [
+            "steelsword",
+            "silversword",
+            "killingedge"
+        ],
+        "merchant": []
+    },
+    "innes": {
+        "name": "Innes",
+        "spotpass": true,
+        "shop": [
+            "silverlance",
+            "beastkiller",
+            "blessedlance",
+            "killerlance",
+            "innesbow"
+        ],
+        "merchant": []
+    },
+    "larachel": {
+        "name": "L'Arachel",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "tomahawk",
+            "boltaxe",
+            "fortify"
+        ],
+        "merchant": []
+    },
+    "seth": {
+        "name": "Seth",
+        "spotpass": true,
+        "shop": [
+            "silverlance",
+            "bravelance",
+            "silveraxe",
+            "silverbow"
+        ],
+        "merchant": []
+    },
+    "lyon": {
+        "name": "Lyon",
+        "spotpass": true,
+        "shop": [
+            "bolganone",
+            "thoron",
+            "rexcalibur",
+            "waste"
+        ],
+        "merchant": []
+    },
+    "ephraim": {
+        "name": "Ephraim",
+        "spotpass": true,
+        "shop": [
+            "bravelance",
+            "ephraimslnce",
+            "braveaxe",
+            "bolganone",
+            "thoron"
+        ],
+        "merchant": []
+    },
+    "mist": {
+        "name": "Mist",
+        "spotpass": true,
+        "shop": [
+            "bronzesword",
+            "ironlance",
+            "ironaxe",
+            "bronzebow",
+            "wind",
+            "heal"
+        ],
+        "merchant": []
+    },
+    "soren": {
+        "name": "Soren",
+        "spotpass": true,
+        "shop": [
+            "ironsword",
+            "fire",
+            "thunder",
+            "wind",
+            "elwind"
+        ],
+        "merchant": []
+    },
+    "mia": {
+        "name": "Mia",
+        "spotpass": true,
+        "shop": [
+            "ironsword",
+            "armorslayer",
+            "ironaxe",
+            "handaxe"
+        ],
+        "merchant": []
+    },
+    "zihark": {
+        "name": "Zihark",
+        "spotpass": true,
+        "shop": [
+            "ironsword",
+            "killingedge",
+            "ironlance",
+            "ironaxe",
+            "arcfire",
+            "arcwind"
+        ],
+        "merchant": []
+    },
+    "titania": {
+        "name": "Titania",
+        "spotpass": true,
+        "shop": [
+            "steelaxe",
+            "silveraxe",
+            "shortaxe",
+            "titaniasaxe"
+        ],
+        "merchant": []
+    },
+    "elincia": {
+        "name": "Elincia",
+        "spotpass": true,
+        "shop": [
+            "ironlance",
+            "silverlance",
+            "shortspear",
+            "thoron",
+            "rexcalibur",
+            "recover"
+        ],
+        "merchant": []
+    },
+    "geoffrey": {
+        "name": "Geoffrey",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "silverlance",
+            "bravelance",
+            "silveraxe",
+            "silverbow",
+            "rexcalibur"
+        ],
+        "merchant": []
+    },
+    "lucia": {
+        "name": "Lucia",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "silveraxe",
+            "hammer",
+            "silverbow",
+            "killerbow",
+            "rexcalibur"
+        ],
+        "merchant": []
+    },
+    "ashnard": {
+        "name": "Ashnard",
+        "spotpass": true,
+        "shop": [
+            "silverlance",
+            "spear",
+            "silveraxe",
+            "braveaxe",
+            "tomahawk"
+        ],
+        "merchant": []
+    },
+    "ike": {
+        "name": "Ike",
+        "spotpass": true,
+        "shop": [
+            "killingedge",
+            "bravelance",
+            "beastkiller",
+            "silveraxe",
+            "braveaxe",
+            "bravebow",
+            "killerbow",
+            "longbow",
+            "rexcalibur",
+            "fortify"
+        ],
+        "merchant": []
+    },
+    "edward": {
+        "name": "Edward",
+        "spotpass": true,
+        "shop": [
+            "bronzesword",
+            "ironsword"
+        ],
+        "merchant": []
+    },
+    "leonardo": {
+        "name": "Leonardo",
+        "spotpass": true,
+        "shop": [
+            "ironsword",
+            "ironbow"
+        ],
+        "merchant": []
+    },
+    "brom": {
+        "name": "Brom",
+        "spotpass": true,
+        "shop": [
+            "bronzelance",
+            "ironlance",
+            "steellance",
+            "javelin",
+            "killerlance"
+        ],
+        "merchant": []
+    },
+    "nephenee": {
+        "name": "Nephenee",
+        "spotpass": true,
+        "shop": [
+            "ironlance",
+            "steellance",
+            "javelin",
+            "bronzeaxe",
+            "ironaxe",
+            "handaxe",
+            "ironbow",
+            "steelbow",
+            "killerbow"
+        ],
+        "merchant": []
+    },
+    "sanaki": {
+        "name": "Sanaki",
+        "spotpass": true,
+        "shop": [
+            "steelsword",
+            "steellance",
+            "silverlance",
+            "shortspear",
+            "arcfire",
+            "mend"
+        ],
+        "merchant": []
+    },
+    "sigrun": {
+        "name": "Sigrun",
+        "spotpass": true,
+        "shop": [
+            "silverlance",
+            "shortspear",
+            "beastkiller",
+            "killerlance",
+            "bolganone",
+            "thoron"
+        ],
+        "merchant": []
+    },
+    "sothe": {
+        "name": "Sothe",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "levinsword",
+            "silverbow"
+        ],
+        "merchant": []
+    },
+    "blackknight": {
+        "name": "Black Knight",
+        "spotpass": true,
+        "shop": [
+            "bravesword",
+            "bravelance",
+            "silveraxe",
+            "braveaxe",
+            "silverbow",
+            "physic"
+        ],
+        "merchant": []
+    },
+    "sephiran": {
+        "name": "Sephiran",
+        "spotpass": true,
+        "shop": [
+            "braveaxe",
+            "hammer",
+            "bolganone",
+            "thoron",
+            "rexcalibur"
+        ],
+        "merchant": []
+    },
+    "micaiah": {
+        "name": "Micaiah",
+        "spotpass": true,
+        "shop": [
+            "bravesword",
+            "bravelance",
+            "braveaxe",
+            "hammer",
+            "killeraxe",
+            "micaiahspyre",
+            "physic"
+        ],
+        "merchant": []
+    },
+    "camus": {
+        "name": "Camus",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "bravesword",
+            "bravelance",
+            "spear",
+            "silverbow",
+            "bravebow"
+        ],
+        "merchant": []
+    },
+    "travant": {
+        "name": "Travant",
+        "spotpass": true,
+        "shop": [
+            "silverlance",
+            "bravelance",
+            "spear",
+            "silveraxe",
+            "braveaxe",
+            "tomahawk"
+        ],
+        "merchant": []
+    },
+    "ishtar": {
+        "name": "Ishtar",
+        "spotpass": true,
+        "shop": [
+            "bravelance",
+            "spear",
+            "silverbow",
+            "bravebow",
+            "rexcalibur"
+        ],
+        "merchant": []
+    },
+    "narcian": {
+        "name": "Narcian",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "bravelance",
+            "silveraxe",
+            "silverbow",
+            "bolganone",
+            "thoron"
+        ],
+        "merchant": []
+    },
+    "lloyd": {
+        "name": "Lloyd",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "bravesword",
+            "killingedge",
+            "silverlance",
+            "bravelance",
+            "silveraxe",
+            "braveaxe"
+        ],
+        "merchant": []
+    },
+    "linus": {
+        "name": "Linus",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "bravesword",
+            "silverlance",
+            "silveraxe",
+            "braveaxe",
+            "killeraxe"
+        ],
+        "merchant": []
+    },
+    "ursula": {
+        "name": "Ursula",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "silveraxe",
+            "braveaxe",
+            "silverbow",
+            "bolganone"
+        ],
+        "merchant": []
+    },
+    "selena": {
+        "name": "Selena",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "silverlance",
+            "spear",
+            "silveraxe",
+            "thoron"
+        ],
+        "merchant": []
+    },
+    "petrine": {
+        "name": "Petrine",
+        "spotpass": true,
+        "shop": [
+            "silversword",
+            "silverlance",
+            "bravelance",
+            "spear",
+            "silveraxe",
+            "braveaxe"
+        ],
+        "merchant": []
+    },
+    "oliver": {
+        "name": "Oliver",
+        "spotpass": true,
+        "shop": [
+            "braveaxe",
+            "bolganone",
+            "thoron",
+            "waste",
+            "physic",
+            "recover"
+        ],
+        "merchant": []
+    }
+}

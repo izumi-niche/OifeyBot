@@ -1,0 +1,1902 @@
+{
+    "armorslayer": {
+        "name": "Armorslayer",
+        "type": "sword",
+        "stats": {
+            "rank": "B",
+            "mt": 6,
+            "wt": 5,
+            "hit": 70,
+            "range": 1,
+            "uses": 50,
+            "price": 5000,
+            "price per use": 100,
+            "sell": 2500
+        },
+        "desc": "Effective against armored units.",
+        "weapon": true,
+        "equip": {
+            "effective": true
+        }
+    },
+    "aura": {
+        "name": "Aura",
+        "type": "light",
+        "stats": {
+            "rank": "A",
+            "mt": 20,
+            "wt": 20,
+            "hit": 80,
+            "range": "1-2",
+            "uses": 50,
+            "price": 15000,
+            "price per use": 300,
+            "sell": 7500
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "balmung": {
+        "name": "Balmung",
+        "type": "sword",
+        "stats": {
+            "rank": "S",
+            "mt": 30,
+            "wt": 3,
+            "hit": 90,
+            "range": 1,
+            "uses": 50,
+            "price": 50000,
+            "price per use": 1000,
+            "sell": 25000
+        },
+        "desc": "Grants +10 skill and +20 speed when equipped. Usable only if unit has major <a:major_od:690900958900781117>Od blood.",
+        "weapon": true,
+        "equip": {
+            "stats": {
+                "skl": 10,
+                "spd": 20
+            }
+        }
+    },
+    "bargainring": {
+        "name": "Bargain Ring",
+        "type": "item",
+        "stats": {
+            "price": 40000,
+            "sell": 20000
+        },
+        "desc": "Grants holder <:jugdral_bargain:667782733782843393>Bargain.",
+        "ALT_NAME": [
+            "bargainband"
+        ],
+        "weapon": false
+    },
+    "barrierring": {
+        "name": "Barrier Ring",
+        "type": "item",
+        "stats": {
+            "price": 20000,
+            "sell": 10000
+        },
+        "desc": "Grants holder +5 resistance.",
+        "ALT_NAME": [
+            "barrierband"
+        ],
+        "weapon": false
+    },
+    "barriersword": {
+        "name": "Barrier Sword",
+        "type": "sword",
+        "stats": {
+            "rank": "C",
+            "mt": 10,
+            "wt": 3,
+            "hit": 70,
+            "range": 1,
+            "uses": 50,
+            "price": 12000,
+            "price per use": 240,
+            "sell": 6000
+        },
+        "desc": "Grants user +7 resistance when equipped.",
+        "weapon": true
+    },
+    "berserk": {
+        "name": "Berserk",
+        "type": "staff",
+        "stats": {
+            "rank": "B",
+            "range": "1-10",
+            "uses": 1,
+            "exp": 100,
+            "price": 30000,
+            "sell": 15000
+        },
+        "desc": "Inflicts Berserk if user's magic is higher than enemy's resistance.",
+        "weapon": false
+    },
+    "berserkedge": {
+        "name": "Berserk Edge",
+        "type": "sword",
+        "stats": {
+            "rank": "C",
+            "mt": 8,
+            "wt": 12,
+            "hit": 70,
+            "range": 1,
+            "uses": 50,
+            "price": 10000,
+            "price per use": 200,
+            "sell": 5000
+        },
+        "desc": "(30 - Enemy's Resistance)% chance to inflict Berserk. If foe has 31 resistance or more the chance becomes 100%.",
+        "weapon": true
+    },
+    "blizzard": {
+        "name": "Blizzard",
+        "type": "wind",
+        "stats": {
+            "rank": "C",
+            "mt": 15,
+            "wt": 30,
+            "hit": 60,
+            "range": "3-10",
+            "uses": 50,
+            "price": 65535,
+            "price per use": 1310,
+            "sell": 32767
+        },
+        "desc": "Foe cannot counter even if they have a siege tome equipped, user's movement gets reduced to 0 when equipped.",
+        "weapon": true
+    },
+    "bolganone": {
+        "name": "Bolganone",
+        "type": "fire",
+        "stats": {
+            "rank": "A",
+            "mt": 20,
+            "wt": 12,
+            "hit": 70,
+            "range": "1-2",
+            "uses": 50,
+            "price": 12000,
+            "price per use": 240,
+            "sell": 6000
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "bolting": {
+        "name": "Bolting",
+        "type": "thunder",
+        "stats": {
+            "rank": "C",
+            "mt": 15,
+            "wt": 30,
+            "hit": 60,
+            "range": "3-10",
+            "uses": 50,
+            "price": 65535,
+            "price per use": 1310,
+            "sell": 32767
+        },
+        "desc": "Foe cannot counter even if they have a siege tome equipped, user's movement gets reduced to 0 when equipped.",
+        "weapon": true
+    },
+    "braveaxe": {
+        "name": "Brave Axe",
+        "type": "axe",
+        "stats": {
+            "rank": "B",
+            "mt": 16,
+            "wt": 12,
+            "hit": 70,
+            "range": 1,
+            "uses": 50,
+            "price": 8000,
+            "price per use": 160,
+            "sell": 4000
+        },
+        "desc": "Strikes twice.",
+        "weapon": true
+    },
+    "bravebow": {
+        "name": "Brave Bow",
+        "type": "bow",
+        "stats": {
+            "rank": "B",
+            "mt": 14,
+            "wt": 8,
+            "hit": 80,
+            "range": 2,
+            "uses": 50,
+            "price": 8000,
+            "price per use": 160,
+            "sell": 4000
+        },
+        "desc": "Strikes twice.",
+        "weapon": true,
+        "equip": {
+            "effective": true
+        }
+    },
+    "bravelance": {
+        "name": "Brave Lance",
+        "type": "lance",
+        "stats": {
+            "rank": "B",
+            "mt": 15,
+            "wt": 12,
+            "hit": 80,
+            "range": 1,
+            "uses": 50,
+            "price": 8000,
+            "price per use": 160,
+            "sell": 4000
+        },
+        "desc": "Strikes twice.",
+        "weapon": true
+    },
+    "bravesword": {
+        "name": "Brave Sword",
+        "type": "sword",
+        "stats": {
+            "rank": "B",
+            "mt": 12,
+            "wt": 3,
+            "hit": 100,
+            "range": 1,
+            "uses": 50,
+            "price": 8000,
+            "price per use": 160,
+            "sell": 4000
+        },
+        "desc": "Strikes twice.",
+        "weapon": true
+    },
+    "brokenaxe": {
+        "name": "Broken Axe",
+        "type": "axe",
+        "stats": {
+            "rank": "Varies",
+            "mt": 0,
+            "wt": 30,
+            "hit": 30,
+            "range": 1,
+            "uses": 0,
+            "price": 1000,
+            "sell": 500
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "brokenbow": {
+        "name": "Broken Bow",
+        "type": "bow",
+        "stats": {
+            "rank": "Varies",
+            "mt": 0,
+            "wt": 30,
+            "hit": 30,
+            "range": 2,
+            "uses": 0,
+            "price": 1000,
+            "sell": 500
+        },
+        "desc": false,
+        "weapon": true,
+        "equip": {
+            "effective": true
+        }
+    },
+    "brokenlance": {
+        "name": "Broken Lance",
+        "type": "lance",
+        "stats": {
+            "rank": "Varies",
+            "mt": 0,
+            "wt": 30,
+            "hit": 30,
+            "range": 1,
+            "uses": 0,
+            "price": 1000,
+            "sell": 500
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "brokensword": {
+        "name": "Broken Sword",
+        "type": "sword",
+        "stats": {
+            "rank": "Varies",
+            "mt": 0,
+            "wt": 30,
+            "hit": 30,
+            "range": 1,
+            "uses": 0,
+            "price": 1000,
+            "sell": 500
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "charmstaff": {
+        "name": "Charm Staff",
+        "type": "staff",
+        "stats": {
+            "rank": "A",
+            "range": "1-10",
+            "uses": 0,
+            "exp": 10,
+            "price": 0,
+            "sell": 0
+        },
+        "desc": "No effect, unused.",
+        "weapon": false
+    },
+    "circlet": {
+        "name": "Circlet",
+        "type": "item",
+        "stats": {
+            "price": 0,
+            "sell": 0
+        },
+        "desc": "Grants holder <:jugdral_miracle:667782735175221248>Miracle and <:jugdral_renewal:667782733619134523>Renewal.",
+        "weapon": false
+    },
+    "earthsword": {
+        "name": "Earth Sword",
+        "type": "sword",
+        "stats": {
+            "rank": "C",
+            "mt": 12,
+            "wt": 5,
+            "hit": 70,
+            "range": "1-2",
+            "uses": 10,
+            "price": 10000,
+            "price per use": 1000,
+            "sell": 5000
+        },
+        "desc": "Steals HP and ignores Pavise. Casts Nosferatu if combat is in 2 range.",
+        "weapon": true,
+        "equip": {
+            "cast": "nosferatu"
+        }
+    },
+    "elfire": {
+        "name": "Elfire",
+        "type": "fire",
+        "stats": {
+            "rank": "B",
+            "mt": 14,
+            "wt": 12,
+            "hit": 80,
+            "range": "1-2",
+            "uses": 50,
+            "price": 6000,
+            "price per use": 120,
+            "sell": 3000
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "elthunder": {
+        "name": "Elthunder",
+        "type": "thunder",
+        "stats": {
+            "rank": "B",
+            "mt": 14,
+            "wt": 7,
+            "hit": 80,
+            "range": "1-2",
+            "uses": 50,
+            "price": 5000,
+            "price per use": 100,
+            "sell": 2500
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "elwind": {
+        "name": "Elwind",
+        "type": "wind",
+        "stats": {
+            "rank": "B",
+            "mt": 14,
+            "wt": 2,
+            "hit": 80,
+            "range": "1-2",
+            "uses": 50,
+            "price": 5000,
+            "price per use": 100,
+            "sell": 2500
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "emptybook": {
+        "name": "Empty Book",
+        "type": "fire",
+        "stats": {
+            "rank": "Varies",
+            "mt": 0,
+            "wt": 0,
+            "hit": 0,
+            "range": 0,
+            "uses": 0,
+            "price": 1000,
+            "sell": 500
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "fenrir": {
+        "name": "Fenrir",
+        "type": "dark",
+        "stats": {
+            "rank": "B",
+            "mt": 14,
+            "wt": 20,
+            "hit": 70,
+            "range": "3-10",
+            "uses": 50,
+            "price": 65535,
+            "price per use": 1310,
+            "sell": 32767
+        },
+        "desc": "Foe cannot counter even if they have a siege tome equipped, user's movement gets reduced to 0 when equipped.",
+        "weapon": true
+    },
+    "fire": {
+        "name": "Fire",
+        "type": "fire",
+        "stats": {
+            "rank": "C",
+            "mt": 8,
+            "wt": 12,
+            "hit": 90,
+            "range": "1-2",
+            "uses": 50,
+            "price": 3000,
+            "price per use": 60,
+            "sell": 1500
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "flamesword": {
+        "name": "Flame Sword",
+        "type": "sword",
+        "stats": {
+            "rank": "C",
+            "mt": 12,
+            "wt": 5,
+            "hit": 70,
+            "range": "1-2",
+            "uses": 50,
+            "price": 10000,
+            "price per use": 200,
+            "sell": 5000
+        },
+        "desc": "Casts Elfire if combat is in 2 range.",
+        "weapon": true,
+        "equip": {
+            "cast": "elfire"
+        }
+    },
+    "forseti": {
+        "name": "Forseti",
+        "type": "wind",
+        "stats": {
+            "rank": "S",
+            "mt": 30,
+            "wt": 5,
+            "hit": 90,
+            "range": "1-2",
+            "uses": 50,
+            "price": 50000,
+            "price per use": 1000,
+            "sell": 25000
+        },
+        "desc": "Grants user +10 skill and +20 speed when equipped. Usable only if unit has major <a:major_forseti:690900959119016036>Forseti blood.",
+        "weapon": true,
+        "equip": {
+            "stats": {
+                "skl": 10,
+                "spd": 20
+            }
+        }
+    },
+    "fortify": {
+        "name": "Fortify",
+        "type": "staff",
+        "stats": {
+            "rank": "A",
+            "range": "1-10",
+            "uses": 10,
+            "exp": 85,
+            "price": 15000,
+            "price per use": 1500,
+            "sell": 7500
+        },
+        "desc": "Restores HP of all allies within range by (Magic + 10).",
+        "weapon": false
+    },
+    "gaebolg": {
+        "name": "G\u00e1e Bolg",
+        "type": "lance",
+        "stats": {
+            "rank": "S",
+            "mt": 30,
+            "wt": 15,
+            "hit": 70,
+            "range": 1,
+            "uses": 50,
+            "price": 50000,
+            "price per use": 1000,
+            "sell": 25000
+        },
+        "desc": "Grants user +10 str/def/skl when equipped. Usable only if unit has major <a:major_njorun:690900959282462774>Nj\u00f6run blood.",
+        "weapon": true,
+        "equip": {
+            "stats": {
+                "str": 10,
+                "def": 10,
+                "skl": 10
+            }
+        }
+    },
+    "greatballista": {
+        "name": "Great Ballista",
+        "type": "bow",
+        "stats": {
+            "rank": "C",
+            "mt": 30,
+            "wt": 30,
+            "hit": 50,
+            "range": "3-10",
+            "uses": 255,
+            "price": 65535,
+            "price per use": 257,
+            "sell": 32767
+        },
+        "desc": false,
+        "weapon": true,
+        "equip": {
+            "effective": true
+        }
+    },
+    "gungnir": {
+        "name": "Gungnir",
+        "type": "lance",
+        "stats": {
+            "rank": "S",
+            "mt": 30,
+            "wt": 15,
+            "hit": 70,
+            "range": 1,
+            "uses": 50,
+            "price": 50000,
+            "price per use": 1000,
+            "sell": 25000
+        },
+        "desc": "Grants user +10 str/def/spd when equipped. Usable only if unit has major <a:major_dain:690900958670225449>D\u00e1inn blood.",
+        "weapon": true,
+        "equip": {
+            "stats": {
+                "str": 10,
+                "def": 10,
+                "spd": 10
+            }
+        }
+    },
+    "handaxe": {
+        "name": "Hand Axe",
+        "type": "axe",
+        "stats": {
+            "rank": "C",
+            "mt": 10,
+            "wt": 20,
+            "hit": 50,
+            "range": "1-2",
+            "uses": 50,
+            "price": 3000,
+            "price per use": 60,
+            "sell": 1500
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "heal": {
+        "name": "Heal",
+        "type": "staff",
+        "stats": {
+            "rank": "C",
+            "range": 1,
+            "uses": 50,
+            "exp": 15,
+            "price": 5000,
+            "price per use": 100,
+            "sell": 2500
+        },
+        "desc": "Restores an ally's HP by (Magic + 10).",
+        "weapon": false
+    },
+    "hell": {
+        "name": "Hell",
+        "type": "dark",
+        "stats": {
+            "rank": "B",
+            "mt": "-",
+            "wt": 28,
+            "hit": 60,
+            "range": "1-2",
+            "uses": 50,
+            "price": 65535,
+            "price per use": 1310,
+            "sell": 32767
+        },
+        "desc": "Reduces foe's HP to 1.",
+        "weapon": true
+    },
+    "helswath": {
+        "name": "Helswath",
+        "type": "axe",
+        "stats": {
+            "rank": "S",
+            "mt": 30,
+            "wt": 20,
+            "hit": 70,
+            "range": "1-2",
+            "uses": 50,
+            "price": 50000,
+            "price per use": 1000,
+            "sell": 25000
+        },
+        "desc": "Grants user +20 def and +10 res when equipped. Usable only if unit has major <a:major_neir:690900959211159562>N\u00e1l blood.",
+        "weapon": true,
+        "equip": {
+            "stats": {
+                "def": 20,
+                "res": 10
+            }
+        }
+    },
+    "horseslayer": {
+        "name": "Horseslayer",
+        "type": "lance",
+        "stats": {
+            "rank": "C",
+            "mt": 10,
+            "wt": 16,
+            "hit": 60,
+            "range": 1,
+            "uses": 50,
+            "price": 5000,
+            "price per use": 100,
+            "sell": 2500
+        },
+        "desc": "Effective against cavalry.",
+        "weapon": true,
+        "equip": {
+            "effective": true
+        }
+    },
+    "ironaxe": {
+        "name": "Iron Axe",
+        "type": "axe",
+        "stats": {
+            "rank": "C",
+            "mt": 14,
+            "wt": 18,
+            "hit": 70,
+            "range": 1,
+            "uses": 50,
+            "price": 1000,
+            "price per use": 20,
+            "sell": 500
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "ironballista": {
+        "name": "Iron Ballista",
+        "type": "bow",
+        "stats": {
+            "rank": "C",
+            "mt": 25,
+            "wt": 30,
+            "hit": 60,
+            "range": "3-10",
+            "uses": 255,
+            "price": 65535,
+            "price per use": 257,
+            "sell": 32767
+        },
+        "desc": false,
+        "weapon": true,
+        "equip": {
+            "effective": true
+        }
+    },
+    "ironblade": {
+        "name": "Iron Blade",
+        "type": "sword",
+        "stats": {
+            "rank": "A",
+            "mt": 12,
+            "wt": 6,
+            "hit": 60,
+            "range": 1,
+            "uses": 50,
+            "price": 2000,
+            "price per use": 40,
+            "sell": 1000
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "ironbow": {
+        "name": "Iron Bow",
+        "type": "bow",
+        "stats": {
+            "rank": "C",
+            "mt": 10,
+            "wt": 8,
+            "hit": 70,
+            "range": 2,
+            "uses": 50,
+            "price": 1000,
+            "price per use": 20,
+            "sell": 500
+        },
+        "desc": false,
+        "weapon": true,
+        "equip": {
+            "effective": true
+        }
+    },
+    "ironlance": {
+        "name": "Iron Lance",
+        "type": "lance",
+        "stats": {
+            "rank": "C",
+            "mt": 12,
+            "wt": 12,
+            "hit": 80,
+            "range": 1,
+            "uses": 50,
+            "price": 1000,
+            "price per use": 20,
+            "sell": 500
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "ironsword": {
+        "name": "Iron Sword",
+        "type": "sword",
+        "stats": {
+            "rank": "C",
+            "mt": 6,
+            "wt": 3,
+            "hit": 80,
+            "range": 1,
+            "uses": 50,
+            "price": 1000,
+            "price per use": 20,
+            "sell": 500
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "javelin": {
+        "name": "Javelin",
+        "type": "lance",
+        "stats": {
+            "rank": "C",
+            "mt": 12,
+            "wt": 18,
+            "hit": 60,
+            "range": "1-2",
+            "uses": 50,
+            "price": 3000,
+            "price per use": 60,
+            "sell": 1500
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "jormungand": {
+        "name": "Jormungand",
+        "type": "dark",
+        "stats": {
+            "rank": "C",
+            "mt": 20,
+            "wt": 12,
+            "hit": 90,
+            "range": "1-2",
+            "uses": 50,
+            "price": 65535,
+            "price per use": 1310,
+            "sell": 32767
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "killerballista": {
+        "name": "Killer Ballista",
+        "type": "bow",
+        "stats": {
+            "rank": "C",
+            "mt": 20,
+            "wt": 30,
+            "hit": 100,
+            "range": "3-10",
+            "uses": 255,
+            "price": 65535,
+            "price per use": 257,
+            "sell": 32767
+        },
+        "desc": "Grants user <:jugdral_critical:690881355223138385>Critical when equipped.",
+        "weapon": true,
+        "equip": {
+            "effective": true
+        }
+    },
+    "killerbow": {
+        "name": "Killer Bow",
+        "type": "bow",
+        "stats": {
+            "rank": "C",
+            "mt": 14,
+            "wt": 3,
+            "hit": 100,
+            "range": 2,
+            "uses": 50,
+            "price": 10000,
+            "price per use": 200,
+            "sell": 5000
+        },
+        "desc": "Grants user <:jugdral_critical:690881355223138385>Critical when equipped.",
+        "weapon": true,
+        "equip": {
+            "effective": true
+        }
+    },
+    "knightring": {
+        "name": "Knight Ring",
+        "type": "item",
+        "stats": {
+            "price": 40000,
+            "sell": 20000
+        },
+        "desc": "Grants holder Canto.",
+        "ALT_NAME": [
+            "knightband"
+        ],
+        "weapon": false
+    },
+    "legring": {
+        "name": "Leg Ring",
+        "type": "item",
+        "stats": {
+            "price": 20000,
+            "sell": 10000
+        },
+        "desc": "Grants holder +3 movement.",
+        "ALT_NAME": [
+            "legband"
+        ],
+        "weapon": false
+    },
+    "lifering": {
+        "name": "Life Ring",
+        "type": "item",
+        "stats": {
+            "price": 40000,
+            "sell": 20000
+        },
+        "desc": "Restores 3-10 HP to user each turn.",
+        "ALT_NAME": [
+            "lifeband"
+        ],
+        "weapon": false
+    },
+    "light": {
+        "name": "Light",
+        "type": "light",
+        "stats": {
+            "rank": "C",
+            "mt": 14,
+            "wt": 5,
+            "hit": 90,
+            "range": "1-2",
+            "uses": 50,
+            "price": 5000,
+            "price per use": 100,
+            "sell": 2500
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "lightbrand": {
+        "name": "Light Brand",
+        "type": "sword",
+        "stats": {
+            "rank": "C",
+            "mt": 12,
+            "wt": 5,
+            "hit": 70,
+            "range": "1-2",
+            "uses": 50,
+            "price": 12000,
+            "price per use": 240,
+            "sell": 6000
+        },
+        "desc": "Casts Light if combat is in 2 range.",
+        "weapon": true,
+        "equip": {
+            "cast": "light"
+        }
+    },
+    "longballista": {
+        "name": "Long Ballista",
+        "type": "bow",
+        "stats": {
+            "rank": "C",
+            "mt": 15,
+            "wt": 30,
+            "hit": 60,
+            "range": "3-10",
+            "uses": 255,
+            "price": 65535,
+            "price per use": 257,
+            "sell": 32767
+        },
+        "desc": false,
+        "weapon": true,
+        "equip": {
+            "effective": true
+        }
+    },
+    "loptous": {
+        "name": "Loptous",
+        "type": "dark",
+        "stats": {
+            "rank": "S",
+            "mt": 30,
+            "wt": 12,
+            "hit": 80,
+            "range": "1-2",
+            "uses": 50,
+            "price": 65535,
+            "price per use": 1310,
+            "sell": 32767
+        },
+        "desc": "Grants user +5 resistance, and foe's total attack gets halved. Usable only if unit has major <a:major_loptous:690900959089393675>Loptous blood.",
+        "weapon": true,
+        "equip": {
+            "stats": {
+                "res": 5
+            }
+        }
+    },
+    "magicring": {
+        "name": "Magic Ring",
+        "type": "item",
+        "stats": {
+            "price": 20000,
+            "sell": 10000
+        },
+        "desc": "Grants holder +5 magic.",
+        "ALT_NAME": [
+            "magicband"
+        ],
+        "weapon": false
+    },
+    "mend": {
+        "name": "Mend",
+        "type": "staff",
+        "stats": {
+            "rank": "C",
+            "range": 1,
+            "uses": 50,
+            "exp": 20,
+            "price": 10000,
+            "price per use": 200,
+            "sell": 5000
+        },
+        "desc": "Restores an ally's HP by {(Magic + 10) x 2}.",
+        "weapon": false
+    },
+    "meteor": {
+        "name": "Meteor",
+        "type": "fire",
+        "stats": {
+            "rank": "C",
+            "mt": 15,
+            "wt": 30,
+            "hit": 60,
+            "range": "3-10",
+            "uses": 50,
+            "price": 65535,
+            "price per use": 1310,
+            "sell": 32767
+        },
+        "desc": "Foe cannot counter even if they have a siege tome equipped, user's movement gets reduced to 0 when equipped.",
+        "weapon": true
+    },
+    "miraclering": {
+        "name": "Miracle Ring",
+        "type": "item",
+        "stats": {
+            "price": 40000,
+            "sell": 20000
+        },
+        "desc": "Grants holder <:jugdral_miracle:667782735175221248>Miracle.",
+        "ALT_NAME": [
+            "miracleband"
+        ],
+        "weapon": false
+    },
+    "miraclesword": {
+        "name": "Miracle Sword",
+        "type": "sword",
+        "stats": {
+            "rank": "C",
+            "mt": 12,
+            "wt": 3,
+            "hit": 70,
+            "range": 1,
+            "uses": 50,
+            "price": 8000,
+            "price per use": 160,
+            "sell": 4000
+        },
+        "desc": "Grants user <:jugdral_miracle:667782735175221248>Miracle when equipped. Usable only by female units.",
+        "weapon": true
+    },
+    "mjolnir": {
+        "name": "Mj\u00f6lnir",
+        "type": "thunder",
+        "stats": {
+            "rank": "S",
+            "mt": 30,
+            "wt": 10,
+            "hit": 90,
+            "range": "1-2",
+            "uses": 50,
+            "price": 50000,
+            "price per use": 1000,
+            "sell": 25000
+        },
+        "desc": "Grants user +20 skill and +10 speed when equipped. Usable only if unit has major <a:major_thrud:690900959311953920>Thrud blood.",
+        "weapon": true,
+        "equip": {
+            "stats": {
+                "skl": 20,
+                "spd": 10
+            }
+        }
+    },
+    "mystletainn": {
+        "name": "Mystletainn",
+        "type": "sword",
+        "stats": {
+            "rank": "S",
+            "mt": 30,
+            "wt": 5,
+            "hit": 80,
+            "range": 1,
+            "uses": 50,
+            "price": 50000,
+            "price per use": 1000,
+            "sell": 25000
+        },
+        "desc": "Grants user +20 skill, +10 resistance, and <:jugdral_critical:690881355223138385>Critical when equipped. Usable only if unit has major <a:major_hezul:690900959072878613>Ho\u00f0r blood.",
+        "weapon": true,
+        "equip": {
+            "stats": {
+                "skl": 20,
+                "res": 10
+            }
+        }
+    },
+    "naga": {
+        "name": "Naga",
+        "type": "light",
+        "stats": {
+            "rank": "S",
+            "mt": 30,
+            "wt": 12,
+            "hit": 80,
+            "range": "1-2",
+            "uses": 50,
+            "price": 50000,
+            "price per use": 1000,
+            "sell": 25000
+        },
+        "desc": "Grants user +20 skl/spd/def/res and ignores Loptous's damage reducing effect. Usable only if unit has major <a:major_naga:690900959202770954>Naga blood.",
+        "weapon": true,
+        "equip": {
+            "stats": {
+                "skl": 20,
+                "spd": 20,
+                "def": 20,
+                "res": 20
+            }
+        }
+    },
+    "nosferatu": {
+        "name": "Nosferatu",
+        "type": "light",
+        "stats": {
+            "rank": "A",
+            "mt": 14,
+            "wt": 12,
+            "hit": 70,
+            "range": "1-2",
+            "uses": 50,
+            "price": 10000,
+            "price per use": 200,
+            "sell": 5000
+        },
+        "desc": "Steals HP, ignores Pavise.",
+        "weapon": true
+    },
+    "paragonring": {
+        "name": "Paragon Ring",
+        "type": "item",
+        "stats": {
+            "price": 40000,
+            "sell": 20000
+        },
+        "desc": "Grants holder <:jugdral_paragon:667782733686112294>Paragon.",
+        "ALT_NAME": [
+            "paragonband"
+        ],
+        "weapon": false
+    },
+    "physic": {
+        "name": "Physic",
+        "type": "staff",
+        "stats": {
+            "rank": "B",
+            "range": "1-10",
+            "uses": 10,
+            "exp": 35,
+            "price": 5000,
+            "price per use": 500,
+            "sell": 2500
+        },
+        "desc": "Restores an ally's HP by (Magic + 10).",
+        "weapon": false
+    },
+    "powerring": {
+        "name": "Power Ring",
+        "type": "item",
+        "stats": {
+            "price": 20000,
+            "sell": 10000
+        },
+        "desc": "Grants holder +5 strength.",
+        "ALT_NAME": [
+            "powerband"
+        ],
+        "weapon": false
+    },
+    "pursuitring": {
+        "name": "Pursuit Ring",
+        "type": "item",
+        "stats": {
+            "price": 40000,
+            "sell": 20000
+        },
+        "desc": "Grants holder <:jugdral_pursuit:690881354749050921>Pursuit.",
+        "ALT_NAME": [
+            "pursuitband"
+        ],
+        "weapon": false
+    },
+    "recover": {
+        "name": "Recover",
+        "type": "staff",
+        "stats": {
+            "rank": "B",
+            "range": 1,
+            "uses": 50,
+            "exp": 25,
+            "price": 15000,
+            "price per use": 300,
+            "sell": 7500
+        },
+        "desc": "Fully restores an ally's HP.",
+        "weapon": false
+    },
+    "recoverring": {
+        "name": "Recover Ring",
+        "type": "item",
+        "stats": {
+            "price": 40000,
+            "sell": 20000
+        },
+        "desc": "User recovers all HP at the start of their turn.",
+        "ALT_NAME": [
+            "recoverband"
+        ],
+        "weapon": false
+    },
+    "rescue": {
+        "name": "Rescue",
+        "type": "staff",
+        "stats": {
+            "rank": "A",
+            "range": "1-10",
+            "uses": 10,
+            "exp": 85,
+            "price": 15000,
+            "price per use": 1500,
+            "sell": 7500
+        },
+        "desc": "Brings an ally next to the user.",
+        "weapon": false
+    },
+    "reserve": {
+        "name": "Reserve",
+        "type": "staff",
+        "stats": {
+            "rank": "A",
+            "range": "1-10",
+            "uses": 10,
+            "exp": 85,
+            "price": 15000,
+            "price per use": 1500,
+            "sell": 7500
+        },
+        "desc": "Restores HP of all allies within range by (Magic + 10).",
+        "weapon": false
+    },
+    "restore": {
+        "name": "Restore",
+        "type": "staff",
+        "stats": {
+            "rank": "B",
+            "range": "1-10",
+            "uses": 10,
+            "exp": 60,
+            "price": 10000,
+            "price per use": 1000,
+            "sell": 5000
+        },
+        "desc": "Removes a stat (Sleep, Berserk etc) from an ally.",
+        "weapon": false
+    },
+    "return": {
+        "name": "Return",
+        "type": "staff",
+        "stats": {
+            "rank": "C",
+            "range": 1,
+            "uses": 10,
+            "exp": 35,
+            "price": 5000,
+            "price per use": 500,
+            "sell": 2500
+        },
+        "desc": "Returns an ally to the main castle.",
+        "weapon": false
+    },
+    "returnring": {
+        "name": "Return Ring",
+        "type": "item",
+        "stats": {
+            "price": 20000,
+            "sell": 10000
+        },
+        "desc": "Allows the user to return to the main castle.",
+        "ALT_NAME": [
+            "returnband"
+        ],
+        "weapon": false
+    },
+    "shieldring": {
+        "name": "Shield Ring",
+        "type": "item",
+        "stats": {
+            "price": 20000,
+            "sell": 10000
+        },
+        "desc": "Grants holder +5 defense.",
+        "ALT_NAME": [
+            "shieldband"
+        ],
+        "weapon": false
+    },
+    "shieldsword": {
+        "name": "Shield Sword",
+        "type": "sword",
+        "stats": {
+            "rank": "C",
+            "mt": 12,
+            "wt": 5,
+            "hit": 90,
+            "range": 1,
+            "uses": 50,
+            "price": 12000,
+            "price per use": 240,
+            "sell": 6000
+        },
+        "desc": "Grants user +7 defense when equipped.",
+        "weapon": true
+    },
+    "silence": {
+        "name": "Silence",
+        "type": "staff",
+        "stats": {
+            "rank": "B",
+            "range": "1-10",
+            "uses": 3,
+            "exp": 100,
+            "price": 30000,
+            "price per use": 10000,
+            "sell": 15000
+        },
+        "desc": "Inflicts Silence if user's magic is higher than enemy's resistance.",
+        "weapon": false
+    },
+    "silencesword": {
+        "name": "Silence Sword",
+        "type": "sword",
+        "stats": {
+            "rank": "C",
+            "mt": 8,
+            "wt": 12,
+            "hit": 70,
+            "range": 1,
+            "uses": 50,
+            "price": 15000,
+            "price per use": 300,
+            "sell": 7500
+        },
+        "desc": "(30 - Enemy's Resistance)% chance to inflict Silence. If foe has 31 resistance or more the chance becomes 100%.",
+        "weapon": true
+    },
+    "silveraxe": {
+        "name": "Silver Axe",
+        "type": "axe",
+        "stats": {
+            "rank": "A",
+            "mt": 22,
+            "wt": 18,
+            "hit": 70,
+            "range": 1,
+            "uses": 50,
+            "price": 5000,
+            "price per use": 100,
+            "sell": 2500
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "silverblade": {
+        "name": "Silver Blade",
+        "type": "sword",
+        "stats": {
+            "rank": "A",
+            "mt": 20,
+            "wt": 6,
+            "hit": 60,
+            "range": 1,
+            "uses": 50,
+            "price": 10000,
+            "price per use": 200,
+            "sell": 5000
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "silverbow": {
+        "name": "Silver Bow",
+        "type": "bow",
+        "stats": {
+            "rank": "A",
+            "mt": 18,
+            "wt": 8,
+            "hit": 70,
+            "range": 2,
+            "uses": 50,
+            "price": 5000,
+            "price per use": 100,
+            "sell": 2500
+        },
+        "desc": false,
+        "weapon": true,
+        "equip": {
+            "effective": true
+        }
+    },
+    "silverlance": {
+        "name": "Silver Lance",
+        "type": "lance",
+        "stats": {
+            "rank": "A",
+            "mt": 20,
+            "wt": 12,
+            "hit": 80,
+            "range": 1,
+            "uses": 50,
+            "price": 5000,
+            "price per use": 100,
+            "sell": 2500
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "silversword": {
+        "name": "Silver Sword",
+        "type": "sword",
+        "stats": {
+            "rank": "A",
+            "mt": 14,
+            "wt": 3,
+            "hit": 80,
+            "range": 1,
+            "uses": 50,
+            "price": 5000,
+            "price per use": 100,
+            "sell": 2500
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "skillring": {
+        "name": "Skill Ring",
+        "type": "item",
+        "stats": {
+            "price": 20000,
+            "sell": 10000
+        },
+        "desc": "Grants holder +5 skill.",
+        "ALT_NAME": [
+            "skillband"
+        ],
+        "weapon": false
+    },
+    "sleep": {
+        "name": "Sleep",
+        "type": "staff",
+        "stats": {
+            "rank": "B",
+            "range": "1-10",
+            "uses": 1,
+            "exp": 100,
+            "price": 30000,
+            "sell": 15000
+        },
+        "desc": "Inflicts Sleep if user's magic is higher than enemy's resistance.",
+        "weapon": false
+    },
+    "sleepedge": {
+        "name": "Sleep Edge",
+        "type": "sword",
+        "stats": {
+            "rank": "C",
+            "mt": 8,
+            "wt": 12,
+            "hit": 70,
+            "range": 1,
+            "uses": 50,
+            "price": 15000,
+            "price per use": 300,
+            "sell": 7500
+        },
+        "desc": "(30 - Enemy's Resistance)% chance to inflict Sleep. If foe has 31 resistance or more the chance becomes 100%.",
+        "weapon": true
+    },
+    "slimlance": {
+        "name": "Slim Lance",
+        "type": "lance",
+        "stats": {
+            "rank": "C",
+            "mt": 12,
+            "wt": 6,
+            "hit": 90,
+            "range": 1,
+            "uses": 50,
+            "price": 3000,
+            "price per use": 60,
+            "sell": 1500
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "slimsword": {
+        "name": "Slim Sword",
+        "type": "sword",
+        "stats": {
+            "rank": "C",
+            "mt": 8,
+            "wt": 1,
+            "hit": 90,
+            "range": 1,
+            "uses": 50,
+            "price": 3000,
+            "price per use": 60,
+            "sell": 1500
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "speedring": {
+        "name": "Speed Ring",
+        "type": "item",
+        "stats": {
+            "price": 20000,
+            "sell": 10000
+        },
+        "desc": "Grants holder +5 speed.",
+        "ALT_NAME": [
+            "speedband"
+        ],
+        "weapon": false
+    },
+    "steelaxe": {
+        "name": "Steel Axe",
+        "type": "axe",
+        "stats": {
+            "rank": "B",
+            "mt": 18,
+            "wt": 18,
+            "hit": 70,
+            "range": 1,
+            "uses": 50,
+            "price": 3000,
+            "price per use": 60,
+            "sell": 1500
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "steelblade": {
+        "name": "Steel Blade",
+        "type": "sword",
+        "stats": {
+            "rank": "A",
+            "mt": 16,
+            "wt": 6,
+            "hit": 60,
+            "range": 1,
+            "uses": 50,
+            "price": 6000,
+            "price per use": 120,
+            "sell": 3000
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "steelbow": {
+        "name": "Steel Bow",
+        "type": "bow",
+        "stats": {
+            "rank": "B",
+            "mt": 14,
+            "wt": 8,
+            "hit": 70,
+            "range": 2,
+            "uses": 50,
+            "price": 3000,
+            "price per use": 60,
+            "sell": 1500
+        },
+        "desc": false,
+        "weapon": true,
+        "equip": {
+            "effective": true
+        }
+    },
+    "steellance": {
+        "name": "Steel Lance",
+        "type": "lance",
+        "stats": {
+            "rank": "B",
+            "mt": 16,
+            "wt": 12,
+            "hit": 80,
+            "range": 1,
+            "uses": 50,
+            "price": 3000,
+            "price per use": 60,
+            "sell": 1500
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "steelsword": {
+        "name": "Steel Sword",
+        "type": "sword",
+        "stats": {
+            "rank": "B",
+            "mt": 10,
+            "wt": 3,
+            "hit": 80,
+            "range": 1,
+            "uses": 50,
+            "price": 3000,
+            "price per use": 60,
+            "sell": 1500
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "thief": {
+        "name": "Thief",
+        "type": "staff",
+        "stats": {
+            "rank": "B",
+            "range": "1-10",
+            "uses": 0,
+            "exp": 10,
+            "price": 0,
+            "sell": 0
+        },
+        "desc": "Steals gold from an enemy.",
+        "weapon": false
+    },
+    "thiefring": {
+        "name": "Thief Ring",
+        "type": "item",
+        "stats": {
+            "price": 40000,
+            "sell": 20000
+        },
+        "desc": "Grants holder <:jugdral_steal:667782733946421248>Steal.",
+        "ALT_NAME": [
+            "thiefband"
+        ],
+        "weapon": false
+    },
+    "thiefsword": {
+        "name": "Thief Sword",
+        "type": "sword",
+        "stats": {
+            "rank": "C",
+            "mt": 3,
+            "wt": 2,
+            "hit": 50,
+            "range": 1,
+            "uses": 50,
+            "price": 1000,
+            "price per use": 20,
+            "sell": 500
+        },
+        "desc": "Grants user <:jugdral_steal:667782733946421248>Steal when equipped.",
+        "weapon": true
+    },
+    "thoron": {
+        "name": "Thoron",
+        "type": "thunder",
+        "stats": {
+            "rank": "A",
+            "mt": 20,
+            "wt": 7,
+            "hit": 70,
+            "range": "1-2",
+            "uses": 50,
+            "price": 12000,
+            "price per use": 240,
+            "sell": 6000
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "thunder": {
+        "name": "Thunder",
+        "type": "thunder",
+        "stats": {
+            "rank": "C",
+            "mt": 8,
+            "wt": 7,
+            "hit": 90,
+            "range": "1-2",
+            "uses": 50,
+            "price": 3000,
+            "price per use": 60,
+            "sell": 1500
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "thundersword": {
+        "name": "Thunder Sword",
+        "type": "sword",
+        "stats": {
+            "rank": "C",
+            "mt": 12,
+            "wt": 5,
+            "hit": 70,
+            "range": "1-2",
+            "uses": 50,
+            "price": 10000,
+            "price per use": 200,
+            "sell": 5000
+        },
+        "desc": "Casts Elthunder if combat is in 2 range.",
+        "weapon": true
+    },
+    "tornado": {
+        "name": "Tornado",
+        "type": "wind",
+        "stats": {
+            "rank": "A",
+            "mt": 20,
+            "wt": 2,
+            "hit": 70,
+            "range": "1-2",
+            "uses": 50,
+            "price": 12000,
+            "price per use": 240,
+            "sell": 6000
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "tyrfing": {
+        "name": "Tyrfing",
+        "type": "sword",
+        "stats": {
+            "rank": "S",
+            "mt": 30,
+            "wt": 7,
+            "hit": 80,
+            "range": 1,
+            "uses": 50,
+            "price": 50000,
+            "price per use": 1000,
+            "sell": 25000
+        },
+        "desc": "Grants +10 Skl/Spd, +20 Res and <:jugdral_miracle:667782735175221248>Miracle when equipped. Usable only if unit has major <a:major_baldr:690900958988992632>Baldr blood.",
+        "weapon": true,
+        "equip": {
+            "stats": {
+                "skl": 10,
+                "spd": 10,
+                "res": 20
+            }
+        }
+    },
+    "valflame": {
+        "name": "Valflame",
+        "type": "fire",
+        "stats": {
+            "rank": "S",
+            "mt": 30,
+            "wt": 15,
+            "hit": 80,
+            "range": "1-2",
+            "uses": 50,
+            "price": 50000,
+            "price per use": 1000,
+            "sell": 25000
+        },
+        "desc": "Grants user +10 Mag/Def/Res when equipped. Usable only if unit has major <a:major_fjalar:690900958837735445>Fjalar blood.",
+        "weapon": true,
+        "equip": {
+            "stats": {
+                "mag": 10,
+                "def": 10,
+                "res": 10
+            }
+        }
+    },
+    "valkyrie": {
+        "name": "Valkyrie",
+        "type": "staff",
+        "stats": {
+            "rank": "S",
+            "range": 0,
+            "uses": 1,
+            "exp": 100,
+            "price": 30000,
+            "sell": 15000
+        },
+        "desc": "Usable only at the main castle. Revives a fallen ally.",
+        "weapon": false
+    },
+    "warp": {
+        "name": "Warp",
+        "type": "staff",
+        "stats": {
+            "rank": "B",
+            "range": 1,
+            "uses": 10,
+            "exp": 60,
+            "price": 10000,
+            "price per use": 1000,
+            "sell": 5000
+        },
+        "desc": "Transports an ally to any allied castle.",
+        "weapon": false
+    },
+    "wind": {
+        "name": "Wind",
+        "type": "wind",
+        "stats": {
+            "rank": "C",
+            "mt": 8,
+            "wt": 2,
+            "hit": 90,
+            "range": "1-2",
+            "uses": 50,
+            "price": 3000,
+            "price per use": 60,
+            "sell": 1500
+        },
+        "desc": false,
+        "weapon": true
+    },
+    "windsword": {
+        "name": "Wind Sword",
+        "type": "sword",
+        "stats": {
+            "rank": "C",
+            "mt": 12,
+            "wt": 5,
+            "hit": 70,
+            "range": "1-2",
+            "uses": 50,
+            "price": 10000,
+            "price per use": 200,
+            "sell": 5000
+        },
+        "desc": "Casts Elwind if combat is in 2 range.",
+        "weapon": true
+    },
+    "wingclipper": {
+        "name": "Wing Clipper",
+        "type": "sword",
+        "stats": {
+            "rank": "B",
+            "mt": 6,
+            "wt": 5,
+            "hit": 70,
+            "range": 1,
+            "uses": 50,
+            "price": 5000,
+            "price per use": 100,
+            "sell": 2500
+        },
+        "desc": "Effective against flying units.",
+        "weapon": true,
+        "equip": {
+            "effective": true
+        }
+    },
+    "yewfelle": {
+        "name": "Yewfelle",
+        "type": "bow",
+        "stats": {
+            "rank": "S",
+            "mt": 30,
+            "wt": 13,
+            "hit": 70,
+            "range": 2,
+            "uses": 50,
+            "price": 50000,
+            "price per use": 1000,
+            "sell": 25000
+        },
+        "desc": "Grants user +10 str/spd and <:jugdral_renewal:667782733619134523>Renewal when equipped. Usable only if unit has major <a:major_ulir:690900959282462776>Ullr blood.",
+        "weapon": true,
+        "equip": {
+            "effective": true,
+            "stats": {
+                "str": 10,
+                "spd": 10
+            }
+        }
+    }
+}

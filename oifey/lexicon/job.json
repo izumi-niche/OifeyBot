@@ -1,0 +1,244 @@
+{
+    "Falcon Knight": [
+        "Falco Knight",
+        "Falcon",
+        "Falco",
+        "FK"
+    ],
+    "Falco Knight": [
+        "Falcon Knight",
+        "Falcon",
+        "Falco",
+        "FK"
+    ],
+    "Dark Falcon": [
+        "Dark Flier"
+    ],
+    "Dark Flier": [
+        "Dark Falcon"
+    ],
+    "Gold Knight": [
+        "GK"
+    ],
+    "Bow Knight": [
+        "BK"
+    ],
+    "Great Knight": [
+        "GK"
+    ],
+    "Swordmaster": [
+        "SM"
+    ],
+    "Berserker": [
+        "Zerker",
+        "Zerk"
+    ],
+    "Horseman": [
+        "HM"
+    ],
+    "Sorcerer": [
+        "Sorceror"
+    ],
+    "Thief Fighter": [
+        "Rogue"
+    ],
+    "Rogue": [
+        "Thief Fighter"
+    ],
+    "Ranger": [
+        "Forrest Knight"
+    ],
+    "Hero": [
+        "Forrest"
+    ],
+    "Master of Arms": [
+        "MoA"
+    ],
+    "Dracozombie": [
+        "Dragonzombie"
+    ],
+    "Death Knight": [
+        "DK"
+    ],
+    "Fortress knight": [
+        "Fortnite",
+        "Knight"
+    ],
+    "Mercenary": [
+        "Merc"
+    ],
+    "General": [
+        "Gen"
+    ],
+    "Cavalier": [
+        "Social Knight",
+        "Social",
+        "Cav"
+    ],
+    "Brigand": [
+        "Barbarian",
+        "Barb"
+    ],
+    "Barbarian": [
+        "Brigand"
+    ],
+    "Samurai": [
+        "Myrmidon",
+        "Myrm"
+    ],
+    "Myrmidon": [
+        "Myrm",
+        "Swordfighter"
+    ],
+    "Onmyoji": [
+        "Sage"
+    ],
+    "Diviner": [
+        "Mage"
+    ],
+    "Malig Knight": [
+        "MK"
+    ],
+    "Mage Knight": [
+        "MK"
+    ],
+    "Dark Knight": [
+        "DK"
+    ],
+    "Knight": [
+        "Armored Knight",
+        "Armor Knight",
+        "Armored",
+        "Armor"
+    ],
+    "Shaman": [
+        "Dark Mage",
+        "DM"
+    ],
+    "Dark Mage": [
+        "DM",
+        "Shaman"
+    ],
+    "Nomad Trooper": [
+        "Nomadic Trooper",
+        "NT"
+    ],
+    "Arch Knight": [
+        "AK"
+    ],
+    "Loptrian Mage": [
+        "Lopto Mage",
+        "Loptian Mage",
+        "Loptyr Mage"
+    ],
+    "Knight Lord": [
+        "KL",
+        "Lord Knight"
+    ],
+    "Holy Knight": [
+        "HK"
+    ],
+    "Duke Knight": [
+        "DK"
+    ],
+    "Wyvern Rider": [
+        "WR"
+    ],
+    "Wyvern Lord": [
+        "WL"
+    ],
+    "Wyvern Knight": [
+        "WK"
+    ],
+    "Dread Fighter": [
+        "DF",
+        "Slayer"
+    ],
+    "Lord": [
+        "Junior Lord"
+    ],
+    "Mogall": [
+        "Bigle"
+    ],
+    "Revenant": [
+        "Zombie"
+    ],
+    "Lich": [
+        "Wight"
+    ],
+    "Fiend": [
+        "HiKnight",
+        "Demonic Knight",
+        "Demon",
+        "Majin"
+    ],
+    "Shadow Dragon": [
+        "Dark Dragon"
+    ],
+    "Cantor": [
+        "Shaman"
+    ],
+    "Arcanist": [
+        "Wizard"
+    ],
+    "Lancer": [
+        "Soldier"
+    ],
+    "Sentinel": [
+        "Lancer"
+    ],
+    "Curate": [
+        "Priest"
+    ],
+    "Kinshi Knight": [
+        "KK"
+    ],
+    "Priest": [
+        "Curate"
+    ],
+    "Griffin Knight": [
+        "Griffin Rider",
+        "Griffon Knight",
+        "Griffon Rider",
+        "GF"
+    ],
+    "Successeur": [
+        "Successor"
+    ],
+    "Wolf Knight": [
+        "WK"
+    ],
+    "Wyvern Knight": [
+        "Wyvern Rider",
+        "WF"
+    ],
+    "Royal Knight": [
+        "Holy Knight",
+        "RK"
+    ],
+    "Axe Armor": [
+        "Axe Knight"
+    ],
+    "Lance Armor": [
+        "Lance Knight"
+    ],
+    "Sword Armor": [
+        "Sword Knight"
+    ],
+    "Axe Flier": [
+        "Axe Pegasus"
+    ],
+    "Lance Flier": [
+        "Lance Pegasus"
+    ],
+    "Sword Flier": [
+        "Sword Pegasus"
+    ],
+    "Mage Cannoneer": [
+        "Cannoneer",
+        "Cannon",
+        "Canon",
+        "Ballistician",
+        "MC"
+    ]
+}

@@ -1,0 +1,3249 @@
+{
+    "aegirastralknights": {
+        "name": "Aegir Astral Knights",
+        "gambit": "Assault Troop",
+        "authority": "B",
+        "endurance": "105",
+        "growth": {
+            "phys": 1.0,
+            "avo": 1.3,
+            "prot": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "phys": 3,
+            "mag": -2,
+            "avo": 15,
+            "cha": 7
+        }
+    },
+    "alliancearchers": {
+        "name": "Alliance Archers",
+        "gambit": "Poisoned Arrows",
+        "authority": "D",
+        "endurance": "30",
+        "growth": {
+            "phys": 0.5,
+            "hit": 1.0,
+            "avo": 1.3
+        },
+        "base": {
+            "phys": 1,
+            "mag": -2,
+            "hit": 10,
+            "avo": 5,
+            "cha": 3
+        }
+    },
+    "alliancearmoredco": {
+        "name": "Alliance Armored Co.",
+        "gambit": "Disturbance",
+        "authority": "D",
+        "endurance": "60",
+        "growth": {
+            "phys": 0.5,
+            "hit": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 1,
+            "mag": -2,
+            "avo": -5,
+            "prot": 2,
+            "cha": 3
+        }
+    },
+    "alliancebrawlers": {
+        "name": "Alliance Brawlers",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "30",
+        "growth": {
+            "phys": 0.5,
+            "avo": 1.3
+        },
+        "base": {
+            "phys": 2,
+            "mag": -2,
+            "avo": 5,
+            "res": -1,
+            "cha": 1
+        }
+    },
+    "alliancecavalry": {
+        "name": "Alliance Cavalry",
+        "gambit": "Assault Troop",
+        "authority": "D",
+        "endurance": "45",
+        "growth": {
+            "phys": 0.5,
+            "avo": 1.3
+        },
+        "base": {
+            "phys": 2,
+            "mag": -2,
+            "avo": 5,
+            "cha": 3
+        }
+    },
+    "allianceduelists": {
+        "name": "Alliance Duelists",
+        "gambit": "Mad Melee",
+        "authority": "E",
+        "endurance": "30",
+        "growth": {
+            "crit": 1.0,
+            "avo": 1.3
+        },
+        "base": {
+            "mag": -2,
+            "crit": 5,
+            "avo": 5,
+            "cha": 1
+        }
+    },
+    "allianceguard": {
+        "name": "Alliance Guard",
+        "gambit": "Poison Tactic",
+        "authority": "B",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "crit": 1.3,
+            "avo": 1.0,
+            "prot": 1.0
+        },
+        "base": {
+            "phys": 3,
+            "crit": 5,
+            "avo": 1,
+            "cha": 7
+        }
+    },
+    "allianceinfantry": {
+        "name": "Alliance Infantry",
+        "gambit": "Lure",
+        "authority": "E",
+        "endurance": "30",
+        "growth": {
+            "hit": 1.0,
+            "avo": 1.3
+        },
+        "base": {
+            "mag": -2,
+            "hit": 5,
+            "avo": 5,
+            "cha": 1
+        }
+    },
+    "allianceknights": {
+        "name": "Alliance Knights",
+        "gambit": "Blaze",
+        "authority": "C",
+        "endurance": "60",
+        "growth": {
+            "phys": 0.5,
+            "avo": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 2,
+            "mag": -2,
+            "avo": 5,
+            "prot": 1,
+            "res": 1,
+            "cha": 5
+        }
+    },
+    "alliancemagiccorps": {
+        "name": "Alliance Magic Corps",
+        "gambit": "Group Lightning",
+        "authority": "D",
+        "endurance": "30",
+        "growth": {
+            "mag": 0.5,
+            "avo": 1.3,
+            "res": 0.5
+        },
+        "base": {
+            "phys": -2,
+            "mag": 1,
+            "avo": 5,
+            "res": 2,
+            "cha": 3
+        }
+    },
+    "alliancemagicusers": {
+        "name": "Alliance Magic Users",
+        "gambit": "Resonant Lightning",
+        "authority": "C",
+        "endurance": "45",
+        "growth": {
+            "mag": 0.5,
+            "avo": 1.3,
+            "res": 0.5
+        },
+        "base": {
+            "phys": -2,
+            "mag": 2,
+            "avo": 5,
+            "res": 2,
+            "cha": 5
+        }
+    },
+    "alliancemasterarchers": {
+        "name": "Alliance Master Archers",
+        "gambit": "Flash-Fire Arrows",
+        "authority": "B",
+        "endurance": "60",
+        "growth": {
+            "phys": 0.5,
+            "crit": 1.3,
+            "avo": 1.3,
+            "prot": 1.0
+        },
+        "base": {
+            "phys": 2,
+            "mag": -1,
+            "crit": 10,
+            "avo": 5,
+            "cha": 7
+        }
+    },
+    "alliancepaviseco": {
+        "name": "Alliance Pavise Co.",
+        "gambit": "Group Lance Attack",
+        "authority": "B",
+        "endurance": "90",
+        "growth": {
+            "phys": 0.5,
+            "hit": 1.3,
+            "prot": 1.0
+        },
+        "base": {
+            "phys": 2,
+            "mag": -2,
+            "avo": -5,
+            "prot": 4,
+            "res": 1,
+            "cha": 7
+        }
+    },
+    "alliancepegasusco": {
+        "name": "Alliance Pegasus Co.",
+        "gambit": "Assembly",
+        "authority": "D",
+        "endurance": "60",
+        "growth": {
+            "phys": 0.5,
+            "hit": 1.3,
+            "avo": 1.3,
+            "prot": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "phys": 2,
+            "avo": 5,
+            "res": 1,
+            "cha": 6
+        }
+    },
+    "alliancephysicians": {
+        "name": "Alliance Physicians",
+        "gambit": "Resonant White Magic",
+        "authority": "B",
+        "endurance": "60",
+        "growth": {
+            "mag": 0.5,
+            "avo": 1.3,
+            "res": 0.5
+        },
+        "base": {
+            "mag": 1,
+            "avo": 5,
+            "res": 2,
+            "cha": 7
+        }
+    },
+    "alliancesages": {
+        "name": "Alliance Sages",
+        "gambit": "Blessing",
+        "authority": "B",
+        "endurance": "60",
+        "growth": {
+            "mag": 1.0,
+            "hit": 1.3,
+            "crit": 1.3,
+            "res": 1.0
+        },
+        "base": {
+            "mag": 4,
+            "avo": -10,
+            "res": 2,
+            "cha": 7
+        }
+    },
+    "alliancesnipers": {
+        "name": "Alliance Snipers",
+        "gambit": "Fusillade",
+        "authority": "C",
+        "endurance": "60",
+        "growth": {
+            "phys": 0.5,
+            "hit": 1.3,
+            "avo": 1.3
+        },
+        "base": {
+            "phys": 1,
+            "mag": -2,
+            "hit": 10,
+            "avo": 5,
+            "cha": 5
+        }
+    },
+    "allianceveteranduelists": {
+        "name": "Alliance Veteran Duelists",
+        "gambit": "Absorption",
+        "authority": "C",
+        "endurance": "60",
+        "growth": {
+            "phys": 0.5,
+            "avo": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 2,
+            "mag": -2,
+            "avo": 5,
+            "prot": 1,
+            "cha": 5
+        }
+    },
+    "alliancewyvernco": {
+        "name": "Alliance Wyvern Co.",
+        "gambit": "Impregnable Wall",
+        "authority": "C",
+        "endurance": "60",
+        "growth": {
+            "phys": 0.5,
+            "crit": 1.3,
+            "avo": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 3,
+            "mag": -2,
+            "avo": 5,
+            "prot": 1,
+            "cha": 5
+        }
+    },
+    "allianceyouths": {
+        "name": "Alliance Youths",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "30",
+        "growth": {
+            "hit": 1.3
+        },
+        "base": {
+            "hit": 5,
+            "cha": 1
+        }
+    },
+    "almyracavalry": {
+        "name": "Almyra Cavalry",
+        "gambit": "Assault Troop",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "avo": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 2,
+            "mag": -2,
+            "avo": 10,
+            "cha": 1
+        }
+    },
+    "almyramercenaries": {
+        "name": "Almyra Mercenaries",
+        "gambit": "Fusillade",
+        "authority": "E",
+        "endurance": "30",
+        "growth": {
+            "phys": 0.5,
+            "avo": 1.3
+        },
+        "base": {
+            "phys": 3,
+            "avo": 5,
+            "res": -2,
+            "cha": 1
+        }
+    },
+    "almyrawyvernco": {
+        "name": "Almyra Wyvern Co.",
+        "gambit": "Assault Troop",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "avo": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 4,
+            "mag": -2,
+            "hit": -5,
+            "avo": 10,
+            "prot": 2,
+            "cha": 1
+        }
+    },
+    "ancientarmoredco": {
+        "name": "Ancient Armored Co.",
+        "gambit": "Onslaught",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 1,
+            "avo": -5,
+            "prot": 1,
+            "cha": 1
+        }
+    },
+    "ancientcavalry": {
+        "name": "Ancient Cavalry",
+        "gambit": "Assault Troop",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 3,
+            "avo": -5,
+            "cha": 1
+        }
+    },
+    "ancientinfantry": {
+        "name": "Ancient Infantry",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "prot": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "phys": 2,
+            "avo": -5,
+            "res": 1,
+            "cha": 1
+        }
+    },
+    "ancientsorcerers": {
+        "name": "Ancient Sorcerers",
+        "gambit": "Resonant Flames",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "mag": 0.5,
+            "prot": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "phys": -5,
+            "mag": 2,
+            "avo": -5,
+            "res": 2,
+            "cha": 1
+        }
+    },
+    "ancientwyvernco": {
+        "name": "Ancient Wyvern Co.",
+        "gambit": "Lure",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "prot": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "phys": 2,
+            "avo": -5,
+            "res": 1,
+            "cha": 3
+        }
+    },
+    "arundelmagiccorps": {
+        "name": "Arundel Magic Corps",
+        "gambit": "Resonant Flames",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "mag": 1.0,
+            "prot": 1.0,
+            "res": 1.0
+        },
+        "base": {
+            "mag": 2,
+            "prot": 1,
+            "res": 2,
+            "cha": 1
+        }
+    },
+    "banditpegasuscorps": {
+        "name": "Bandit Pegasus Corps",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "60",
+        "growth": {
+            "phys": 0.5,
+            "avo": 1.0,
+            "prot": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "phys": 2,
+            "avo": 1,
+            "res": 3,
+            "cha": 5
+        }
+    },
+    "bandits": {
+        "name": "Bandits",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "hit": 1.3,
+            "avo": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "cha": 1
+        }
+    },
+    "bergliezwargroup": {
+        "name": "Bergliez War Group",
+        "gambit": "Onslaught",
+        "authority": "B",
+        "endurance": "105",
+        "growth": {
+            "phys": 1.0,
+            "hit": 1.3,
+            "prot": 1.0
+        },
+        "base": {
+            "phys": 4,
+            "avo": -10,
+            "cha": 7
+        }
+    },
+    "blackeaglecavalry": {
+        "name": "Black Eagle Cavalry",
+        "gambit": "Linked Horses",
+        "authority": "A",
+        "endurance": "105",
+        "growth": {
+            "phys": 1.0,
+            "hit": 2.5,
+            "prot": 1.0
+        },
+        "base": {
+            "phys": 3,
+            "hit": 10,
+            "avo": 5,
+            "prot": 1,
+            "cha": 10
+        }
+    },
+    "blackeagleheavyaxes": {
+        "name": "Black Eagle Heavy Axes",
+        "gambit": "Onslaught",
+        "authority": "A",
+        "endurance": "105",
+        "growth": {
+            "phys": 1.0,
+            "prot": 1.0
+        },
+        "base": {
+            "phys": 3,
+            "crit": 10,
+            "avo": -10,
+            "prot": 4,
+            "res": 2,
+            "cha": 10
+        }
+    },
+    "blackeaglepegasusco": {
+        "name": "Black Eagle Pegasus Co.",
+        "gambit": "Retribution",
+        "authority": "A",
+        "endurance": "105",
+        "growth": {
+            "phys": 1.0,
+            "avo": 1.3,
+            "prot": 1.0,
+            "res": 1.0
+        },
+        "base": {
+            "phys": 3,
+            "crit": 10,
+            "avo": 5,
+            "prot": 1,
+            "res": 3,
+            "cha": 10
+        }
+    },
+    "blueliondancers": {
+        "name": "Blue Lion Dancers",
+        "gambit": "Dance of the Goddess",
+        "authority": "A",
+        "endurance": "105",
+        "growth": {
+            "phys": 1.0,
+            "mag": 1.0,
+            "avo": 1.3,
+            "prot": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "phys": -5,
+            "mag": -5,
+            "avo": 15,
+            "prot": 1,
+            "res": 1,
+            "cha": 10
+        }
+    },
+    "bluelionknights": {
+        "name": "Blue Lion Knights",
+        "gambit": "Linked Horses",
+        "authority": "A",
+        "endurance": "105",
+        "growth": {
+            "phys": 1.0,
+            "hit": 1.3,
+            "crit": 1.3,
+            "prot": 1.0
+        },
+        "base": {
+            "phys": 3,
+            "mag": -2,
+            "crit": 10,
+            "avo": -10,
+            "prot": 1,
+            "cha": 10
+        }
+    },
+    "bluelionmagiccorps": {
+        "name": "Blue Lion Magic Corps",
+        "gambit": "Resonant Ice",
+        "authority": "A",
+        "endurance": "105",
+        "growth": {
+            "mag": 1.0,
+            "hit": 1.3,
+            "prot": 1.0,
+            "res": 1.0
+        },
+        "base": {
+            "phys": -2,
+            "mag": 3,
+            "avo": -10,
+            "prot": 1,
+            "res": 3,
+            "cha": 10
+        }
+    },
+    "brigidhunters": {
+        "name": "Brigid Hunters",
+        "gambit": "Poison Tactic",
+        "authority": "B",
+        "endurance": "105",
+        "growth": {
+            "phys": 1.0,
+            "crit": 1.3,
+            "avo": 1.3
+        },
+        "base": {
+            "mag": -2,
+            "crit": 5,
+            "avo": 15,
+            "cha": 7
+        }
+    },
+    "brigidmercenaries": {
+        "name": "Brigid Mercenaries",
+        "gambit": "Onslaught",
+        "authority": "E",
+        "endurance": "30",
+        "growth": {
+            "phys": 0.5,
+            "hit": 1.3,
+            "crit": 1.3
+        },
+        "base": {
+            "phys": 1,
+            "hit": 5,
+            "crit": 5,
+            "cha": 1
+        }
+    },
+    "cethleannmonks": {
+        "name": "Cethleann Monks",
+        "gambit": "Resonant White Magic",
+        "authority": "A",
+        "endurance": "105",
+        "growth": {
+            "mag": 1.0,
+            "hit": 2.5,
+            "res": 1.0
+        },
+        "base": {
+            "mag": 2,
+            "hit": 10,
+            "prot": 1,
+            "res": 3,
+            "cha": 10
+        }
+    },
+    "churchofseirossoldiers": {
+        "name": "Church of Seiros Soldiers",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "30",
+        "growth": {
+            "hit": 1.3,
+            "prot": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "prot": 1,
+            "res": 1,
+            "cha": 1
+        }
+    },
+    "churchsoldiers": {
+        "name": "Church Soldiers",
+        "gambit": "Resonant White Magic",
+        "authority": "C",
+        "endurance": "75",
+        "growth": {
+            "mag": 0.5,
+            "hit": 1.3,
+            "res": 1.0
+        },
+        "base": {
+            "mag": 1,
+            "res": 2,
+            "cha": 5
+        }
+    },
+    "cicholwyvernco": {
+        "name": "Cichol Wyvern Co.",
+        "gambit": "Assault Troop",
+        "authority": "A",
+        "endurance": "105",
+        "growth": {
+            "phys": 1.0,
+            "hit": 1.3,
+            "crit": 1.3,
+            "avo": 1.3,
+            "prot": 1.0
+        },
+        "base": {
+            "phys": 3,
+            "hit": 10,
+            "crit": 10,
+            "prot": 2,
+            "res": 1,
+            "cha": 10
+        }
+    },
+    "cliffbanditmarksmen": {
+        "name": "Cliff Bandit Marksmen",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "hit": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": -1,
+            "hit": 5,
+            "cha": 1
+        }
+    },
+    "dahlmanarmoredgroup": {
+        "name": "Dahlman Armored Group",
+        "gambit": "Assault Troop",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 1.0,
+            "hit": 1.3,
+            "prot": 1.3
+        },
+        "base": {
+            "phys": 3,
+            "hit": 10,
+            "prot": 3,
+            "cha": 5
+        }
+    },
+    "dahlmanguard": {
+        "name": "Dahlman Guard",
+        "gambit": "Resonant Flames",
+        "authority": "E",
+        "endurance": "105",
+        "growth": {
+            "mag": 1.3,
+            "hit": 1.3,
+            "prot": 1.0,
+            "res": 1.0
+        },
+        "base": {
+            "mag": 3,
+            "hit": 20,
+            "prot": 3,
+            "res": 3,
+            "cha": 10
+        }
+    },
+    "dahlmanmagicco": {
+        "name": "Dahlman Magic Co.",
+        "gambit": "Group Flames",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "mag": 1.0,
+            "hit": 1.3,
+            "prot": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "mag": 2,
+            "hit": 10,
+            "prot": 2,
+            "res": 3,
+            "cha": 5
+        }
+    },
+    "dahlmanpmc": {
+        "name": "Dahlman PMC",
+        "gambit": "Onslaught",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 1.0,
+            "hit": 1.3,
+            "prot": 1.0
+        },
+        "base": {
+            "phys": 2,
+            "hit": 10,
+            "prot": 2,
+            "cha": 3
+        }
+    },
+    "daphnelduelists": {
+        "name": "Daphnel Duelists",
+        "gambit": "Onslaught",
+        "authority": "E",
+        "endurance": "105",
+        "growth": {
+            "phys": 0.5,
+            "avo": 1.3
+        },
+        "base": {
+            "phys": 3,
+            "mag": -2,
+            "avo": 10,
+            "cha": 1
+        }
+    },
+    "darkinfantry": {
+        "name": "Dark Infantry",
+        "gambit": "Onslaught",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "prot": 0.5
+        },
+        "base": {
+            "cha": 1
+        }
+    },
+    "darkmagiccorps": {
+        "name": "Dark Magic Corps",
+        "gambit": "Resonant Lightning",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "mag": 0.5,
+            "prot": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "phys": -1,
+            "mag": 2,
+            "res": 2,
+            "cha": 1
+        }
+    },
+    "darkwyvernco": {
+        "name": "Dark Wyvern Co.",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "avo": 2.5,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 1,
+            "avo": 5,
+            "prot": 1,
+            "cha": 1
+        }
+    },
+    "dominiccavalry": {
+        "name": "Dominic Cavalry",
+        "gambit": "Assault Troop",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "hit": 2.5,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 1,
+            "hit": 10,
+            "cha": 1
+        }
+    },
+    "duscurcavalry": {
+        "name": "Duscur Cavalry",
+        "gambit": "Assault Troop",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 2,
+            "avo": -10,
+            "cha": 1
+        }
+    },
+    "duscurheavysoldiers": {
+        "name": "Duscur Heavy Soldiers",
+        "gambit": "Line of Lances",
+        "authority": "B",
+        "endurance": "120",
+        "growth": {
+            "phys": 1.0,
+            "hit": 1.3,
+            "prot": 1.3
+        },
+        "base": {
+            "phys": 4,
+            "mag": -2,
+            "avo": -15,
+            "prot": 5,
+            "cha": 7
+        }
+    },
+    "duscurinfantry": {
+        "name": "Duscur Infantry",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "30",
+        "growth": {
+            "phys": 0.5,
+            "avo": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 1,
+            "mag": -2,
+            "avo": 5,
+            "prot": 1,
+            "res": -1,
+            "cha": 1
+        }
+    },
+    "duscurinfantryunused": {
+        "name": "Duscur Infantry (Unused)",
+        "gambit": "Onslaught",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 1,
+            "avo": -10,
+            "prot": 1,
+            "cha": 1
+        }
+    },
+    "edmundtroops": {
+        "name": "Edmund Troops",
+        "gambit": "Flash-Fire Arrows",
+        "authority": "B",
+        "endurance": "105",
+        "growth": {
+            "phys": 1.0,
+            "mag": 1.0,
+            "hit": 2.5,
+            "prot": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "phys": 1,
+            "mag": 1,
+            "hit": 30,
+            "cha": 7
+        }
+    },
+    "einherjar": {
+        "name": "Einherjar",
+        "gambit": "Assault Troop",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 4,
+            "avo": -10,
+            "prot": 1,
+            "cha": 1
+        }
+    },
+    "empirearchers": {
+        "name": "Empire Archers",
+        "gambit": "Fusillade",
+        "authority": "D",
+        "endurance": "30",
+        "growth": {
+            "phys": 0.5,
+            "hit": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 1,
+            "mag": -2,
+            "hit": 10,
+            "prot": 1,
+            "cha": 3
+        }
+    },
+    "empirearmoredco": {
+        "name": "Empire Armored Co.",
+        "gambit": "Impregnable Wall",
+        "authority": "D",
+        "endurance": "60",
+        "growth": {
+            "phys": 0.5,
+            "hit": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 1,
+            "mag": -2,
+            "avo": -10,
+            "prot": 3,
+            "cha": 3
+        }
+    },
+    "empirebrawlers": {
+        "name": "Empire Brawlers",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "30",
+        "growth": {
+            "phys": 0.5,
+            "avo": 1.3
+        },
+        "base": {
+            "phys": 2,
+            "mag": -2,
+            "avo": 5,
+            "res": -1,
+            "cha": 1
+        }
+    },
+    "empirecavalry": {
+        "name": "Empire Cavalry",
+        "gambit": "Assault Troop",
+        "authority": "D",
+        "endurance": "45",
+        "growth": {
+            "phys": 0.5,
+            "avo": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 2,
+            "mag": -2,
+            "prot": 2,
+            "cha": 3
+        }
+    },
+    "empireelitewyvernco": {
+        "name": "Empire Elite Wyvern Co.",
+        "gambit": "Assembly",
+        "authority": "B",
+        "endurance": "75",
+        "growth": {
+            "phys": 1.0,
+            "crit": 1.3,
+            "prot": 1.0
+        },
+        "base": {
+            "phys": 4,
+            "mag": -2,
+            "crit": 5,
+            "prot": 2,
+            "cha": 7
+        }
+    },
+    "empireheavysoldiers": {
+        "name": "Empire Heavy Soldiers",
+        "gambit": "Line of Lances",
+        "authority": "B",
+        "endurance": "75",
+        "growth": {
+            "phys": 1.0,
+            "hit": 2.5,
+            "prot": 1.0
+        },
+        "base": {
+            "phys": 2,
+            "mag": -2,
+            "hit": 5,
+            "avo": -10,
+            "prot": 5,
+            "res": 1,
+            "cha": 7
+        }
+    },
+    "empireholymagicusers": {
+        "name": "Empire Holy Magic Users",
+        "gambit": "Blessing",
+        "authority": "B",
+        "endurance": "60",
+        "growth": {
+            "mag": 1.0,
+            "prot": 1.0,
+            "res": 1.0
+        },
+        "base": {
+            "phys": -2,
+            "mag": 2,
+            "res": 3,
+            "cha": 8
+        }
+    },
+    "empireinfantry": {
+        "name": "Empire Infantry",
+        "gambit": "Lure",
+        "authority": "E",
+        "endurance": "30",
+        "growth": {
+            "hit": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "mag": -2,
+            "hit": 5,
+            "prot": 1,
+            "cha": 1
+        }
+    },
+    "empireknights": {
+        "name": "Empire Knights",
+        "gambit": "Blaze",
+        "authority": "C",
+        "endurance": "60",
+        "growth": {
+            "phys": 0.5,
+            "hit": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 3,
+            "mag": -2,
+            "prot": 2,
+            "cha": 5
+        }
+    },
+    "empiremagiccorps": {
+        "name": "Empire Magic Corps",
+        "gambit": "Group Flames",
+        "authority": "D",
+        "endurance": "30",
+        "growth": {
+            "mag": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "phys": -2,
+            "mag": 2,
+            "res": 2,
+            "cha": 3
+        }
+    },
+    "empiremagicusers": {
+        "name": "Empire Magic Users",
+        "gambit": "Resonant Flames",
+        "authority": "C",
+        "endurance": "45",
+        "growth": {
+            "mag": 0.5,
+            "crit": 1.3,
+            "res": 0.5
+        },
+        "base": {
+            "phys": -2,
+            "mag": 3,
+            "crit": 5,
+            "res": 2,
+            "cha": 5
+        }
+    },
+    "empirepaviseco": {
+        "name": "Empire Pavise Co.",
+        "gambit": "Blaze",
+        "authority": "C",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "hit": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "mag": -2,
+            "avo": -10,
+            "prot": 4,
+            "res": 1,
+            "cha": 5
+        }
+    },
+    "empirepegasusco": {
+        "name": "Empire Pegasus Co.",
+        "gambit": "Group Lance Attack",
+        "authority": "D",
+        "endurance": "60",
+        "growth": {
+            "phys": 0.5,
+            "hit": 1.3,
+            "prot": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "phys": 2,
+            "hit": 10,
+            "prot": 1,
+            "res": 2,
+            "cha": 6
+        }
+    },
+    "empireraiders": {
+        "name": "Empire Raiders",
+        "gambit": "Absorption",
+        "authority": "B",
+        "endurance": "75",
+        "growth": {
+            "phys": 1.0,
+            "avo": 1.3,
+            "prot": 1.0
+        },
+        "base": {
+            "phys": 3,
+            "avo": 5,
+            "cha": 7
+        }
+    },
+    "empiresnipers": {
+        "name": "Empire Snipers",
+        "gambit": "Flash-Fire Arrows",
+        "authority": "C",
+        "endurance": "60",
+        "growth": {
+            "phys": 0.5,
+            "hit": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 3,
+            "mag": -2,
+            "hit": 5,
+            "prot": 1,
+            "cha": 5
+        }
+    },
+    "empirewarriors": {
+        "name": "Empire Warriors",
+        "gambit": "Random Shot",
+        "authority": "E",
+        "endurance": "30",
+        "growth": {
+            "phys": 0.5
+        },
+        "base": {
+            "phys": 2,
+            "mag": -2,
+            "cha": 1
+        }
+    },
+    "empirewyvernco": {
+        "name": "Empire Wyvern Co.",
+        "gambit": "Reversal",
+        "authority": "C",
+        "endurance": "60",
+        "growth": {
+            "phys": 0.5,
+            "crit": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 3,
+            "mag": -2,
+            "hit": 5,
+            "crit": 5,
+            "prot": 2,
+            "cha": 5
+        }
+    },
+    "empireyouths": {
+        "name": "Empire Youths",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "30",
+        "growth": {
+            "hit": 1.3
+        },
+        "base": {
+            "hit": 5,
+            "cha": 1
+        }
+    },
+    "enhancedcavalry": {
+        "name": "Enhanced Cavalry",
+        "gambit": "Linked Horses",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 3,
+            "avo": -10,
+            "prot": 1,
+            "cha": 1
+        }
+    },
+    "enhancedheavyco": {
+        "name": "Enhanced Heavy Co.",
+        "gambit": "Group Lance Attack",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 1,
+            "avo": -10,
+            "prot": 2,
+            "cha": 1
+        }
+    },
+    "enhancedinfantry": {
+        "name": "Enhanced Infantry",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "prot": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "phys": 2,
+            "avo": -5,
+            "res": 1,
+            "cha": 1
+        }
+    },
+    "enhancedsorcerers": {
+        "name": "Enhanced Sorcerers",
+        "gambit": "Resonant Lightning",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "mag": 0.5,
+            "prot": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "phys": -5,
+            "mag": 4,
+            "avo": -5,
+            "res": 4,
+            "cha": 1
+        }
+    },
+    "enhancedwyvernco": {
+        "name": "Enhanced Wyvern Co.",
+        "gambit": "Poison Tactic",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "prot": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "phys": 2,
+            "avo": -10,
+            "res": 2,
+            "cha": 3
+        }
+    },
+    "essarresearchgroup": {
+        "name": "Essar Research Group",
+        "gambit": "Blessing",
+        "authority": "E",
+        "endurance": "60",
+        "growth": {
+            "phys": 1.0,
+            "mag": 1.0,
+            "hit": 2.5
+        },
+        "base": {
+            "phys": 1,
+            "mag": 1,
+            "hit": 20,
+            "cha": 1
+        }
+    },
+    "flameemperorco": {
+        "name": "Flame Emperor Co.",
+        "gambit": "Raging Flames",
+        "authority": "C",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "mag": 0.5,
+            "crit": 1.3,
+            "prot": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "phys": 3,
+            "mag": 2,
+            "hit": -5,
+            "avo": -10,
+            "prot": 2,
+            "res": 1,
+            "cha": 5
+        }
+    },
+    "fraldariussoldiers": {
+        "name": "Fraldarius Soldiers",
+        "gambit": "Onslaught",
+        "authority": "B",
+        "endurance": "105",
+        "growth": {
+            "phys": 1.0,
+            "crit": 2.5,
+            "prot": 1.0
+        },
+        "base": {
+            "phys": 3,
+            "crit": 10,
+            "prot": 2,
+            "cha": 7
+        }
+    },
+    "galateapegasusco": {
+        "name": "Galatea Pegasus Co.",
+        "gambit": "Lure",
+        "authority": "B",
+        "endurance": "105",
+        "growth": {
+            "phys": 1.0,
+            "hit": 1.3,
+            "avo": 1.3,
+            "prot": 1.0,
+            "res": 1.0
+        },
+        "base": {
+            "phys": 3,
+            "avo": 5,
+            "prot": 1,
+            "res": 2,
+            "cha": 8
+        }
+    },
+    "gaspardarchers": {
+        "name": "Gaspard Archers",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "prot": 0.5
+        },
+        "base": {
+            "phys": -1,
+            "cha": 1
+        }
+    },
+    "gaspardknights": {
+        "name": "Gaspard Knights",
+        "gambit": "Assault Troop",
+        "authority": "B",
+        "endurance": "105",
+        "growth": {
+            "phys": 1,
+            "hit": 1.3,
+            "prot": 1
+        },
+        "base": {
+            "phys": 1,
+            "avo": -5,
+            "prot": 1,
+            "cha": 7
+        }
+    },
+    "gaspardknightsenemy": {
+        "name": "Gaspard Knights",
+        "gambit": "Assault Troop",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "prot": 0.5
+        },
+        "base": {
+            "cha": 1
+        }
+    },
+    "gaspardmilitia": {
+        "name": "Gaspard Militia",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "prot": 0.5
+        },
+        "base": {
+            "phys": -1,
+            "cha": 1
+        }
+    },
+    "gautierknights": {
+        "name": "Gautier Knights",
+        "gambit": "Stride",
+        "authority": "B",
+        "endurance": "105",
+        "growth": {
+            "phys": 1.0,
+            "avo": 1.3,
+            "prot": 1.3
+        },
+        "base": {
+            "phys": 3,
+            "mag": -2,
+            "avo": 15,
+            "cha": 7
+        }
+    },
+    "gloucesterknights": {
+        "name": "Gloucester Knights",
+        "gambit": "Assault Troop",
+        "authority": "B",
+        "endurance": "105",
+        "growth": {
+            "phys": 1.0,
+            "mag": 1.0,
+            "hit": 1.3,
+            "prot": 1.0,
+            "res": 1.0
+        },
+        "base": {
+            "phys": 2,
+            "mag": 2,
+            "hit": 10,
+            "prot": 1,
+            "res": 1,
+            "cha": 7
+        }
+    },
+    "goldendeerarchers": {
+        "name": "Golden Deer Archers",
+        "gambit": "Poison Tactic",
+        "authority": "A",
+        "endurance": "105",
+        "growth": {
+            "hit": 2.5,
+            "avo": 1.3,
+            "prot": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "phys": 2,
+            "mag": -2,
+            "hit": 15,
+            "avo": 10,
+            "res": 1,
+            "cha": 10
+        }
+    },
+    "goldendeercavalry": {
+        "name": "Golden Deer Cavalry",
+        "gambit": "Linked Horses",
+        "authority": "A",
+        "endurance": "105",
+        "growth": {
+            "phys": 1.0,
+            "hit": 1.3,
+            "prot": 1.0
+        },
+        "base": {
+            "phys": 4,
+            "mag": -2,
+            "avo": -5,
+            "prot": 3,
+            "res": 2,
+            "cha": 10
+        }
+    },
+    "goldendeerwyvernco": {
+        "name": "Golden Deer Wyvern Co.",
+        "gambit": "Assault Troop",
+        "authority": "A",
+        "endurance": "105",
+        "growth": {
+            "phys": 1.0,
+            "hit": 1.3,
+            "avo": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 2,
+            "mag": -2,
+            "avo": 5,
+            "prot": 1,
+            "cha": 10
+        }
+    },
+    "gonerilvalkyries": {
+        "name": "Goneril Valkyries",
+        "gambit": "Assault Troop",
+        "authority": "B",
+        "endurance": "105",
+        "growth": {
+            "phys": 1.0,
+            "hit": 2.5,
+            "crit": 1.3,
+            "prot": 1.0
+        },
+        "base": {
+            "phys": 4,
+            "mag": -2,
+            "hit": 10,
+            "crit": 10,
+            "prot": 2,
+            "res": 1,
+            "cha": 7
+        }
+    },
+    "hevringprayertroops": {
+        "name": "Hevring Prayer Troops",
+        "gambit": "Blessing",
+        "authority": "B",
+        "endurance": "75",
+        "growth": {
+            "mag": 1.0,
+            "hit": 1.3,
+            "prot": 1.0,
+            "res": 1.0
+        },
+        "base": {
+            "mag": 3,
+            "avo": -10,
+            "res": 3,
+            "cha": 7
+        }
+    },
+    "holstschosen": {
+        "name": "Holst's Chosen",
+        "gambit": "Assault Troop",
+        "authority": "C",
+        "endurance": "60",
+        "growth": {
+            "phys": 1.0,
+            "hit": 1.3,
+            "crit": 1.3,
+            "prot": 1.0
+        },
+        "base": {
+            "phys": 3,
+            "prot": 3,
+            "cha": 3
+        }
+    },
+    "holyknightsofseiros": {
+        "name": "Holy Knights of Seiros",
+        "gambit": "Assault Troop",
+        "authority": "B",
+        "endurance": "75",
+        "growth": {
+            "phys": 1.0,
+            "prot": 1.0,
+            "res": 1.0
+        },
+        "base": {
+            "phys": 3,
+            "mag": -2,
+            "prot": 1,
+            "res": 3,
+            "cha": 7
+        }
+    },
+    "houserowearchers": {
+        "name": "House Rowe Archers",
+        "gambit": "Flash-Fire Arrows",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 2,
+            "cha": 1
+        }
+    },
+    "immortalcorps": {
+        "name": "Immortal Corps",
+        "gambit": "Ashes and Dust",
+        "authority": "C",
+        "endurance": "120",
+        "growth": {
+            "phys": 1.0,
+            "avo": 1.3,
+            "prot": 1.0
+        },
+        "base": {
+            "phys": 4,
+            "mag": -2,
+            "avo": 10,
+            "cha": 10
+        }
+    },
+    "imperialguard": {
+        "name": "Imperial Guard",
+        "gambit": "Blaze",
+        "authority": "B",
+        "endurance": "75",
+        "growth": {
+            "phys": 1.0,
+            "prot": 1.0
+        },
+        "base": {
+            "phys": 3,
+            "mag": -2,
+            "crit": 10,
+            "cha": 7
+        }
+    },
+    "indechswordfighters": {
+        "name": "Indech Sword Fighters",
+        "gambit": "Retribution",
+        "authority": "A",
+        "endurance": "105",
+        "growth": {
+            "phys": 1.0,
+            "hit": 2.5,
+            "crit": 2.0,
+            "prot": 1.0
+        },
+        "base": {
+            "phys": 4,
+            "mag": -2,
+            "hit": 10,
+            "crit": 2,
+            "cha": 10
+        }
+    },
+    "ironkingsthieves": {
+        "name": "Iron King's Thieves",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "prot": 0.5
+        },
+        "base": {
+            "phys": -1,
+            "cha": 1
+        }
+    },
+    "jeraltsmercenaries": {
+        "name": "Jeralt's Mercenaries",
+        "gambit": "Assault Troop",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "crit": 1.3,
+            "avo": 2.5
+        },
+        "base": {
+            "phys": 1,
+            "crit": 5,
+            "avo": 5,
+            "cha": 1
+        }
+    },
+    "kingdomarchers": {
+        "name": "Kingdom Archers",
+        "gambit": "Retribution",
+        "authority": "D",
+        "endurance": "30",
+        "growth": {
+            "phys": 0.5,
+            "hit": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 2,
+            "mag": -2,
+            "hit": 5,
+            "prot": 1,
+            "cha": 3
+        }
+    },
+    "kingdomarmoredco": {
+        "name": "Kingdom Armored Co.",
+        "gambit": "Impregnable Wall",
+        "authority": "D",
+        "endurance": "60",
+        "growth": {
+            "phys": 0.5,
+            "hit": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 1,
+            "mag": -2,
+            "avo": -10,
+            "prot": 3,
+            "cha": 3
+        }
+    },
+    "kingdombravelanceco": {
+        "name": "Kingdom Brave Lance Co.",
+        "gambit": "Onslaught",
+        "authority": "C",
+        "endurance": "60",
+        "growth": {
+            "phys": 0.5,
+            "hit": 2.5,
+            "avo": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 2,
+            "mag": -2,
+            "hit": 10,
+            "avo": 5,
+            "prot": 1,
+            "cha": 5
+        }
+    },
+    "kingdombrawlers": {
+        "name": "Kingdom Brawlers",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "30",
+        "growth": {
+            "phys": 0.5,
+            "avo": 1.3
+        },
+        "base": {
+            "phys": 2,
+            "mag": -2,
+            "avo": 5,
+            "res": -1,
+            "cha": 1
+        }
+    },
+    "kingdomcavalry": {
+        "name": "Kingdom Cavalry",
+        "gambit": "Stride",
+        "authority": "D",
+        "endurance": "45",
+        "growth": {
+            "phys": 0.5,
+            "hit": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 2,
+            "mag": -2,
+            "prot": 2,
+            "cha": 3
+        }
+    },
+    "kingdomheavyknights": {
+        "name": "Kingdom Heavy Knights",
+        "gambit": "Sacred Shield",
+        "authority": "B",
+        "endurance": "90",
+        "growth": {
+            "phys": 1.0,
+            "hit": 2.5,
+            "prot": 1.0
+        },
+        "base": {
+            "mag": -2,
+            "hit": 5,
+            "avo": -15,
+            "prot": 3,
+            "cha": 7
+        }
+    },
+    "kingdomheavysoldiers": {
+        "name": "Kingdom Heavy Soldiers",
+        "gambit": "Group Lance Attack",
+        "authority": "B",
+        "endurance": "90",
+        "growth": {
+            "phys": 1.0,
+            "hit": 1.3,
+            "crit": 1.3,
+            "prot": 1.0
+        },
+        "base": {
+            "mag": -2,
+            "avo": -10,
+            "prot": 3,
+            "cha": 7
+        }
+    },
+    "kingdomholyknights": {
+        "name": "Kingdom Holy Knights",
+        "gambit": "Linked Horses",
+        "authority": "B",
+        "endurance": "75",
+        "growth": {
+            "phys": 1.0,
+            "hit": 1.3,
+            "prot": 1.0,
+            "res": 1.0
+        },
+        "base": {
+            "phys": 3,
+            "mag": -2,
+            "avo": -10,
+            "prot": 1,
+            "res": 3,
+            "cha": 7
+        }
+    },
+    "kingdominfantry": {
+        "name": "Kingdom Infantry",
+        "gambit": "Lure",
+        "authority": "E",
+        "endurance": "30",
+        "growth": {
+            "phys": 0.5,
+            "hit": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 1,
+            "mag": -2,
+            "prot": 1,
+            "cha": 1
+        }
+    },
+    "kingdomknights": {
+        "name": "Kingdom Knights",
+        "gambit": "Assault Troop",
+        "authority": "C",
+        "endurance": "60",
+        "growth": {
+            "phys": 0.5,
+            "hit": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 3,
+            "mag": -2,
+            "prot": 2,
+            "res": 1,
+            "cha": 5
+        }
+    },
+    "kingdomlanceco": {
+        "name": "Kingdom Lance Co.",
+        "gambit": "Group Lance Atack",
+        "authority": "E",
+        "endurance": "30",
+        "growth": {
+            "phys": 0.5,
+            "avo": 1.3
+        },
+        "base": {
+            "phys": 1,
+            "mag": -2,
+            "avo": 5,
+            "cha": 1
+        }
+    },
+    "kingdommagiccorps": {
+        "name": "Kingdom Magic Corps",
+        "gambit": "Group Ice",
+        "authority": "D",
+        "endurance": "30",
+        "growth": {
+            "mag": 0.5,
+            "hit": 1.3,
+            "res": 0.5
+        },
+        "base": {
+            "phys": -2,
+            "mag": 1,
+            "prot": 1,
+            "res": 2,
+            "cha": 3
+        }
+    },
+    "kingdommagicusers": {
+        "name": "Kingdom Magic Users",
+        "gambit": "Resonant Ice",
+        "authority": "C",
+        "endurance": "45",
+        "growth": {
+            "mag": 0.5,
+            "avo": 1.3,
+            "res": 0.5
+        },
+        "base": {
+            "phys": -2,
+            "mag": 3,
+            "prot": 1,
+            "res": 1,
+            "cha": 5
+        }
+    },
+    "kingdompegasusco": {
+        "name": "Kingdom Pegasus Co.",
+        "gambit": "Assembly",
+        "authority": "D",
+        "endurance": "60",
+        "growth": {
+            "phys": 0.5,
+            "hit": 1.3,
+            "avo": 1.3,
+            "prot": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "phys": 2,
+            "prot": 1,
+            "res": 2,
+            "cha": 6
+        }
+    },
+    "kingdompriests": {
+        "name": "Kingdom Priests",
+        "gambit": "Blessing",
+        "authority": "B",
+        "endurance": "60",
+        "growth": {
+            "mag": 1.0,
+            "hit": 1.3,
+            "res": 1.0
+        },
+        "base": {
+            "mag": 1,
+            "avo": -5,
+            "res": 3,
+            "cha": 7
+        }
+    },
+    "kingdomsnipers": {
+        "name": "Kingdom Snipers",
+        "gambit": "Fusillade",
+        "authority": "C",
+        "endurance": "60",
+        "growth": {
+            "phys": 0.5,
+            "hit": 2.5,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 1,
+            "mag": -2,
+            "hit": 5,
+            "prot": 1,
+            "res": 1,
+            "cha": 5
+        }
+    },
+    "kingdomwyvernco": {
+        "name": "Kingdom Wyvern Co.",
+        "gambit": "Recovery Roar",
+        "authority": "C",
+        "endurance": "60",
+        "growth": {
+            "phys": 0.5,
+            "hit": 1.3,
+            "crit": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 3,
+            "mag": -2,
+            "hit": 10,
+            "prot": 2,
+            "cha": 5
+        }
+    },
+    "kingdomyouths": {
+        "name": "Kingdom Youths",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "30",
+        "growth": {
+            "hit": 1.3
+        },
+        "base": {
+            "hit": 5,
+            "cha": 1
+        }
+    },
+    "kingoflionscorps": {
+        "name": "King of Lions Corps",
+        "gambit": "Wave Attack",
+        "authority": "C",
+        "endurance": "120",
+        "growth": {
+            "phys": 1.3,
+            "hit": 1.3,
+            "crit": 1.3,
+            "prot": 1.0
+        },
+        "base": {
+            "phys": 5,
+            "mag": -2,
+            "crit": 10,
+            "avo": -5,
+            "prot": 1,
+            "cha": 10
+        }
+    },
+    "knightsofseiros": {
+        "name": "Knights of Seiros",
+        "gambit": "Blaze",
+        "authority": "C",
+        "endurance": "60",
+        "growth": {
+            "phys": 0.5,
+            "avo": 1.0,
+            "prot": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "phys": 2,
+            "mag": -1,
+            "avo": 1,
+            "prot": 1,
+            "res": 1,
+            "cha": 5
+        }
+    },
+    "kronyasubordinates": {
+        "name": "Kronya Subordinates",
+        "gambit": "Onslaught",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "avo": 1.3
+        },
+        "base": {
+            "avo": 20,
+            "cha": 1
+        }
+    },
+    "leicesterdicerscorps": {
+        "name": "Leicester Dicers Corps",
+        "gambit": "Onslaught",
+        "authority": "B",
+        "endurance": "105",
+        "growth": {
+            "phys": 1.0,
+            "mag": 1.0,
+            "hit": 1.3,
+            "prot": 1.0,
+            "res": 1.0
+        },
+        "base": {
+            "phys": 3,
+            "mag": 3,
+            "prot": 1,
+            "res": 1,
+            "cha": 5
+        }
+    },
+    "leicestermercenaries": {
+        "name": "Leicester Mercenaries",
+        "gambit": "Blaze",
+        "authority": "B",
+        "endurance": "105",
+        "growth": {
+            "phys": 1.0,
+            "hit": 2.5,
+            "crit": 1.3,
+            "prot": 1.0
+        },
+        "base": {
+            "phys": 3,
+            "mag": -2,
+            "hit": 10,
+            "crit": 10,
+            "cha": 7
+        }
+    },
+    "macuilevilrepellingco": {
+        "name": "Macuil Evil Repelling Co.",
+        "gambit": "Resonant Lightning",
+        "authority": "A",
+        "endurance": "105",
+        "growth": {
+            "mag": 1.0,
+            "hit": 2.5,
+            "res": 1.0
+        },
+        "base": {
+            "mag": 3,
+            "hit": 20,
+            "prot": 1,
+            "res": 2,
+            "cha": 10
+        }
+    },
+    "merchantmilitary": {
+        "name": "Merchant Military",
+        "gambit": "Poison Tactic",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "mag": 0.5,
+            "hit": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": -1,
+            "cha": 1
+        }
+    },
+    "miklanprivatemilitia": {
+        "name": "Miklan Private Militia",
+        "gambit": "Assault Troop",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "hit": 2.5,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 1,
+            "mag": -2,
+            "hit": 5,
+            "prot": 1,
+            "cha": 1
+        }
+    },
+    "mockingbirdsthieves": {
+        "name": "Mockingbird's Thieves",
+        "gambit": "Absorption",
+        "authority": "B",
+        "endurance": "105",
+        "growth": {
+            "phys": 1.0,
+            "mag": 1.0,
+            "hit": 1.3,
+            "crit": 1.3,
+            "avo": 1.3,
+            "prot": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "phys": 1,
+            "mag": 1,
+            "hit": 5,
+            "crit": 5,
+            "avo": 5,
+            "prot": 1,
+            "res": 1,
+            "cha": 5
+        }
+    },
+    "morfismagiccorps": {
+        "name": "Morfis Magic Corps",
+        "gambit": "Resonant Lightning",
+        "authority": "C",
+        "endurance": "45",
+        "growth": {
+            "mag": 0.5,
+            "prot": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "phys": -2,
+            "mag": 3,
+            "res": 3,
+            "cha": 5
+        }
+    },
+    "mysteriousinfantry": {
+        "name": "Mysterious Infantry",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 1,
+            "cha": 1
+        }
+    },
+    "mysteriousmagiccorps": {
+        "name": "Mysterious Magic Corps",
+        "gambit": "Group Flames",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "mag": 0.5,
+            "prot": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "mag": 1,
+            "res": 1,
+            "cha": 1
+        }
+    },
+    "mysteriousmagicusers": {
+        "name": "Mysterious Magic Users",
+        "gambit": "Resonant Flames",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "mag": 0.5,
+            "prot": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "phys": -5,
+            "mag": 2,
+            "avo": -5,
+            "res": 2,
+            "cha": 1
+        }
+    },
+    "mysteriouswyvernco": {
+        "name": "Mysterious Wyvern Co.",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "avo": 2.5,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 1,
+            "avo": 5,
+            "prot": 1,
+            "cha": 1
+        }
+    },
+    "nuvelleattendantsco": {
+        "name": "Nuvelle Attendants Co.",
+        "gambit": "Absolute Defense",
+        "authority": "C",
+        "endurance": "45",
+        "growth": {
+            "mag": 1.3,
+            "crit": 1.3,
+            "avo": 1.3,
+            "res": 1.0
+        },
+        "base": {
+            "mag": 3,
+            "crit": 5,
+            "avo": 5,
+            "prot": 1,
+            "res": 3,
+            "cha": 5
+        }
+    },
+    "nuvellechamberlainco": {
+        "name": "Nuvelle Chamberlain Co.",
+        "gambit": "Battleground Cafe",
+        "authority": "C",
+        "endurance": "45",
+        "growth": {
+            "phys": 1.3,
+            "hit": 1.3,
+            "crit": 1.3,
+            "res": 1.0
+        },
+        "base": {
+            "phys": 3,
+            "hit": 5,
+            "crit": 5,
+            "prot": 1,
+            "res": 3,
+            "cha": 5
+        }
+    },
+    "nuvelleflierscorps": {
+        "name": "Nuvelle Fliers Corps",
+        "gambit": "Resonant Lightning",
+        "authority": "B",
+        "endurance": "105",
+        "growth": {
+            "mag": 1.0,
+            "hit": 1.3,
+            "avo": 1.3,
+            "res": 1.0
+        },
+        "base": {
+            "mag": 3,
+            "avo": 5,
+            "res": 3,
+            "cha": 8
+        }
+    },
+    "nuvellestewardsco": {
+        "name": "Nuvelle Stewards Co.",
+        "gambit": "Battleground Clean Up",
+        "authority": "C",
+        "endurance": "45",
+        "growth": {
+            "phys": 1.0,
+            "mag": 1.0,
+            "hit": 1.3,
+            "crit": 1.3,
+            "avo": 1.0,
+            "res": 1.0
+        },
+        "base": {
+            "phys": 1,
+            "mag": 1,
+            "hit": 5,
+            "crit": 5,
+            "avo": 1,
+            "prot": 1,
+            "res": 3,
+            "cha": 10
+        }
+    },
+    "operacovolunteers": {
+        "name": "Opera Co. Volunteers",
+        "gambit": "Dance of the Goddess",
+        "authority": "B",
+        "endurance": "75",
+        "growth": {
+            "hit": 2.5,
+            "avo": 1.3,
+            "prot": 1.0
+        },
+        "base": {
+            "hit": 10,
+            "avo": 10,
+            "cha": 10
+        }
+    },
+    "ordeliasorceryco": {
+        "name": "Ordelia Sorcery Co.",
+        "gambit": "Resonant Lightning",
+        "authority": "B",
+        "endurance": "75",
+        "growth": {
+            "mag": 1.0,
+            "hit": 2.5,
+            "res": 1.0
+        },
+        "base": {
+            "phys": -1,
+            "mag": 4,
+            "hit": 10,
+            "res": 2,
+            "cha": 7
+        }
+    },
+    "pallard\u00f3bodyguards": {
+        "name": "Pallard\u00f3 Bodyguards",
+        "gambit": "Poison Tactic",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "prot": 0.5
+        },
+        "base": {
+            "cha": 1
+        }
+    },
+    "phantasmalarchers": {
+        "name": "Phantasmal Archers",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "hit": 2.5,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 1,
+            "hit": 10,
+            "cha": 1
+        }
+    },
+    "phantasmalcavalry": {
+        "name": "Phantasmal Cavalry",
+        "gambit": "Assault Troop",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 2,
+            "cha": 1
+        }
+    },
+    "phantasmalinfantry": {
+        "name": "Phantasmal Infantry",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "prot": 0.5
+        },
+        "base": {
+            "cha": 1
+        }
+    },
+    "phantasmalmagiccorps": {
+        "name": "Phantasmal Magic Corps",
+        "gambit": "Resonant Flames",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "mag": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "mag": 3,
+            "res": 3,
+            "cha": 1
+        }
+    },
+    "phantasmalwyvernco": {
+        "name": "Phantasmal Wyvern Co.",
+        "gambit": "Assault Troop",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 2,
+            "res": 2,
+            "cha": 1
+        }
+    },
+    "piratemarksmen": {
+        "name": "Pirate Marksmen",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "hit": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": -1,
+            "hit": 5,
+            "cha": 1
+        }
+    },
+    "piratepegasuscorps": {
+        "name": "Pirate Pegasus Corps",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "60",
+        "growth": {
+            "phys": 0.5,
+            "avo": 1.0,
+            "prot": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "phys": 2,
+            "avo": 1,
+            "res": 3,
+            "cha": 5
+        }
+    },
+    "pirates": {
+        "name": "Pirates",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "hit": 1.3,
+            "avo": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "cha": 1
+        }
+    },
+    "rampagingvillagers": {
+        "name": "Rampaging Villagers",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 1,
+            "cha": 1
+        }
+    },
+    "reaperinfantry": {
+        "name": "Reaper Infantry",
+        "gambit": "Onslaught",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "avo": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "avo": 10,
+            "cha": 1
+        }
+    },
+    "reaperknights": {
+        "name": "Reaper Knights",
+        "gambit": "Assault Troop",
+        "authority": "B",
+        "endurance": "105",
+        "growth": {
+            "phys": 1,
+            "crit": 1.3,
+            "avo": 1.3,
+            "prot": 1
+        },
+        "base": {
+            "phys": 3,
+            "crit": 5,
+            "mag": -2,
+            "avo": 10,
+            "cha": 1
+        }
+    },
+    "reaperknightsenemy": {
+        "name": "Reaper Knights (Enemy)",
+        "gambit": "Assault Troop",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "avo": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 2,
+            "mag": -2,
+            "avo": 10,
+            "cha": 1
+        }
+    },
+    "remiremilitia": {
+        "name": "Remire Militia",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "30",
+        "growth": {
+            "prot": 0.5
+        },
+        "base": {
+            "prot": 1,
+            "cha": 1
+        }
+    },
+    "rogues": {
+        "name": "Rogues",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "hit": 1.3,
+            "avo": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "cha": 1
+        }
+    },
+    "rowearmoredco": {
+        "name": "Rowe Armored Co.",
+        "gambit": "Group Lance Attack",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 1,
+            "avo": -10,
+            "prot": 1,
+            "cha": 1
+        }
+    },
+    "rowecavalry": {
+        "name": "Rowe Cavalry",
+        "gambit": "Assault Troop",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 2,
+            "cha": 1
+        }
+    },
+    "roweknights": {
+        "name": "Rowe Knights",
+        "gambit": "Linked Horses",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 3,
+            "mag": -1,
+            "cha": 1
+        }
+    },
+    "royalguard": {
+        "name": "Royal Guard",
+        "gambit": "Line of Lances",
+        "authority": "B",
+        "endurance": "75",
+        "growth": {
+            "phys": 1.0,
+            "hit": 2.5,
+            "prot": 1.0
+        },
+        "base": {
+            "phys": 2,
+            "hit": 10,
+            "crit": 10,
+            "avo": -10,
+            "cha": 7
+        }
+    },
+    "sauinmilitia": {
+        "name": "Sauin Militia",
+        "gambit": "Poisoned Arrows",
+        "authority": "C",
+        "endurance": "75",
+        "growth": {
+            "hit": 2.5,
+            "avo": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 1,
+            "hit": 10,
+            "avo": 5,
+            "cha": 5
+        }
+    },
+    "schoolofsorcerysoldiers": {
+        "name": "School of Sorcery Soldiers",
+        "gambit": "Resonant Flames",
+        "authority": "C",
+        "endurance": "75",
+        "growth": {
+            "mag": 1.0,
+            "hit": 2.5,
+            "res": 0.5
+        },
+        "base": {
+            "phys": -2,
+            "mag": 2,
+            "hit": 10,
+            "res": 2,
+            "cha": 5
+        }
+    },
+    "secrettransportforce": {
+        "name": "Secret Transport Force",
+        "gambit": "Stride",
+        "authority": "B",
+        "endurance": "105",
+        "growth": {
+            "phys": 0.5,
+            "avo": 1.3,
+            "prot": 1.0,
+            "res": 1.0
+        },
+        "base": {
+            "phys": 1,
+            "avo": 10,
+            "prot": 1,
+            "res": 1,
+            "cha": 8
+        }
+    },
+    "seirosarchers": {
+        "name": "Seiros Archers",
+        "gambit": "Fusillade",
+        "authority": "D",
+        "endurance": "45",
+        "growth": {
+            "phys": 0.5,
+            "hit": 1.3,
+            "avo": 1.3
+        },
+        "base": {
+            "hit": 10,
+            "avo": 5,
+            "cha": 3
+        }
+    },
+    "seirosarmoredco": {
+        "name": "Seiros Armored Co.",
+        "gambit": "Onslaught",
+        "authority": "D",
+        "endurance": "60",
+        "growth": {
+            "phys": 0.5,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 2,
+            "avo": -10,
+            "prot": 2,
+            "cha": 3
+        }
+    },
+    "seirosbrawlers": {
+        "name": "Seiros Brawlers",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "30",
+        "growth": {
+            "phys": 0.5,
+            "avo": 1.3
+        },
+        "base": {
+            "phys": 2,
+            "mag": -2,
+            "avo": 5,
+            "res": -1,
+            "cha": 1
+        }
+    },
+    "seirosholymonks": {
+        "name": "Seiros Holy Monks",
+        "gambit": "Stride",
+        "authority": "E",
+        "endurance": "30",
+        "growth": {
+            "hit": 1.3,
+            "res": 0.5
+        },
+        "base": {
+            "phys": -1,
+            "hit": 5,
+            "res": 1,
+            "cha": 1
+        }
+    },
+    "seirosmagiccorps": {
+        "name": "Seiros Magic Corps",
+        "gambit": "Group Flames",
+        "authority": "D",
+        "endurance": "30",
+        "growth": {
+            "mag": 0.5,
+            "hit": 1.3,
+            "res": 0.5
+        },
+        "base": {
+            "phys": -2,
+            "mag": 1,
+            "res": 3,
+            "cha": 3
+        }
+    },
+    "seirosmercenaries": {
+        "name": "Seiros Mercenaries",
+        "gambit": "Onslaught",
+        "authority": "E",
+        "endurance": "30",
+        "growth": {
+            "phys": 0.5,
+            "hit": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 1,
+            "mag": -2,
+            "hit": 5,
+            "cha": 1
+        }
+    },
+    "seirospegasusco": {
+        "name": "Seiros Pegasus Co.",
+        "gambit": "Assembly",
+        "authority": "D",
+        "endurance": "60",
+        "growth": {
+            "phys": 0.5,
+            "avo": 1.0,
+            "prot": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "phys": 2,
+            "avo": 1,
+            "res": 3,
+            "cha": 5
+        }
+    },
+    "seirossacredmonks": {
+        "name": "Seiros Sacred Monks",
+        "gambit": "Resonant White Magic",
+        "authority": "E",
+        "endurance": "30",
+        "growth": {
+            "hit": 1.3,
+            "res": 0.5
+        },
+        "base": {
+            "phys": -1,
+            "hit": 5,
+            "res": 2,
+            "cha": 1
+        }
+    },
+    "solonsubordinates": {
+        "name": "Solon Subordinates",
+        "gambit": "Resonant Flames",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "mag": 0.5,
+            "prot": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "phys": -2,
+            "mag": 3,
+            "avo": -5,
+            "res": 2,
+            "cha": 1
+        }
+    },
+    "supremearmoredco": {
+        "name": "Supreme Armored Co.",
+        "gambit": "Raging Flames",
+        "authority": "C",
+        "endurance": "120",
+        "growth": {
+            "phys": 1.0,
+            "mag": 1.0,
+            "hit": 1.3,
+            "prot": 1.0,
+            "res": 1.0
+        },
+        "base": {
+            "phys": 3,
+            "mag": 2,
+            "avo": -10,
+            "prot": 2,
+            "res": 1,
+            "cha": 10
+        }
+    },
+    "thiefmarksmen": {
+        "name": "Thief Marksmen",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "hit": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": -1,
+            "hit": 5,
+            "cha": 1
+        }
+    },
+    "thiefpegasuscorps": {
+        "name": "Thief Pegasus Corps",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "60",
+        "growth": {
+            "phys": 0.5,
+            "avo": 1.0,
+            "prot": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "phys": 2,
+            "avo": 1,
+            "res": 3,
+            "cha": 5
+        }
+    },
+    "thieves": {
+        "name": "Thieves",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "hit": 1.3,
+            "avo": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "cha": 1
+        }
+    },
+    "timotheosmagicorps": {
+        "name": "Timotheos Magi Corps",
+        "gambit": "Resonant Flames",
+        "authority": "B",
+        "endurance": "105",
+        "growth": {
+            "mag": 1.3,
+            "hit": 1.3,
+            "crit": 1.3,
+            "prot": 0.5,
+            "res": 1.0
+        },
+        "base": {
+            "mag": 3,
+            "hit": 5,
+            "crit": 5,
+            "res": 1,
+            "cha": 7
+        }
+    },
+    "varleyarchers": {
+        "name": "Varley Archers",
+        "gambit": "Fusillade",
+        "authority": "B",
+        "endurance": "75",
+        "growth": {
+            "hit": 2.5,
+            "prot": 1.0
+        },
+        "base": {
+            "hit": 20,
+            "avo": -10,
+            "prot": 1,
+            "cha": 7
+        }
+    },
+    "vestrasorceryengineers": {
+        "name": "Vestra Sorcery Engineers",
+        "gambit": "Resonant Lightning",
+        "authority": "C",
+        "endurance": "75",
+        "growth": {
+            "mag": 1.0,
+            "avo": 1.3,
+            "prot": 1.0,
+            "res": 1.0
+        },
+        "base": {
+            "phys": -2,
+            "mag": 3,
+            "avo": 5,
+            "res": 2,
+            "cha": 7
+        }
+    },
+    "victorprivatemilitary": {
+        "name": "Victor Private Military",
+        "gambit": "Assembly",
+        "authority": "C",
+        "endurance": "105",
+        "growth": {
+            "phys": 1.0,
+            "hit": 2.5,
+            "prot": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "phys": 2,
+            "hit": 5,
+            "res": 2,
+            "cha": 5
+        }
+    },
+    "westchurcharchers": {
+        "name": "West Church Archers",
+        "gambit": "Fusillade",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "hit": 1.3,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 1,
+            "hit": 5,
+            "cha": 1
+        }
+    },
+    "westchurchcorps": {
+        "name": "West Church Corps",
+        "gambit": "Group Lightning",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "mag": 0.5,
+            "prot": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "mag": 1,
+            "res": 1,
+            "cha": 1
+        }
+    },
+    "westchurchknights": {
+        "name": "West Church Knights",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 2,
+            "mag": -1,
+            "cha": 1
+        }
+    },
+    "westchurchmercenaries": {
+        "name": "West Church Mercenaries",
+        "gambit": "Onslaught",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "prot": 0.5
+        },
+        "base": {
+            "phys": 1,
+            "cha": 1
+        }
+    },
+    "westchurchpegasusco": {
+        "name": "West Church Pegasus Co.",
+        "gambit": "Disturbance",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "phys": 0.5,
+            "prot": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "phys": 1,
+            "res": 1,
+            "cha": 3
+        }
+    },
+    "westchurchsages": {
+        "name": "West Church Sages",
+        "gambit": "Group Lightning",
+        "authority": "E",
+        "endurance": "75",
+        "growth": {
+            "mag": 0.5,
+            "prot": 0.5,
+            "res": 0.5
+        },
+        "base": {
+            "mag": 2,
+            "avo": -10,
+            "res": 2,
+            "cha": 1
+        }
+    }
+}

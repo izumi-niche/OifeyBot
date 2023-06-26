@@ -1,0 +1,177 @@
+{
+    "armor": {
+        "name": "Armor",
+        "prowess": {},
+        "art": {
+            "smite": 680
+        },
+        "ability": {
+            "armoredeffectnull": 3600,
+            "weight5": 1760,
+            "weight3": 300
+        },
+        "ALT_NAME": ["Armored"]
+    },
+    "authority": {
+        "name": "Authority",
+        "prowess": {
+            "authoritylv5": 1760,
+            "authoritylv4": 960,
+            "authoritylv3": 460,
+            "authoritylv2": 180,
+            "authoritylv1": 40
+        },
+        "art": {},
+        "ability": {
+            "offensivetactics": 3600,
+            "defensivetactics": 680
+        }
+    },
+    "axe": {
+        "name": "Axe",
+        "prowess": {
+            "axeprowesslv5": 1760,
+            "axeprowesslv4": 960,
+            "axeprowesslv3": 460,
+            "axeprowesslv2": 180,
+            "axeprowesslv1": 40
+        },
+        "art": {
+            "helmsplitter": 300,
+            "smash": 100
+        },
+        "ability": {
+            "axefaire": 3600,
+            "axecrit10": 2520,
+            "lancebreaker": 680
+        }
+    },
+    "bow": {
+        "name": "Bow",
+        "prowess": {
+            "bowprowesslv5": 1760,
+            "bowprowesslv4": 960,
+            "bowprowesslv3": 460,
+            "bowprowesslv2": 180,
+            "bowprowesslv1": 40
+        },
+        "art": {
+            "curvedshot": 100
+        },
+        "ability": {
+            "bowfaire": 3600,
+            "bowcrit10": 2520,
+            "closecounter": 300
+        },
+        "ALT_NAME": ["Archery"]
+    },
+    "brawling": {
+        "name": "Brawling",
+        "prowess": {
+            "brawlingprowesslv5": 1760,
+            "brawlingprowesslv4": 960,
+            "brawlingprowesslv3": 460,
+            "brawlingprowesslv2": 180,
+            "brawlingprowesslv1": 40
+        },
+        "art": {
+            "healingfocus": 680,
+            "rushingblow": 300,
+            "fadingblow": 100
+        },
+        "ability": {
+            "fistfaire": 3600,
+            "brawlcrit10": 2520
+        },
+        "ALT_NAME": ["Gauntlet"]
+    },
+    "faith": {
+        "name": "Faith",
+        "prowess": {
+            "faithlv5": 1760,
+            "faithlv4": 960,
+            "faithlv3": 460,
+            "faithlv2": 180,
+            "faithlv1": 40
+        },
+        "art": {},
+        "ability": {
+            "whitetomefaire": 3600,
+            "whitemagicrange1": 2520
+        }
+    },
+    "flying": {
+        "name": "Flying",
+        "prowess": {},
+        "art": {},
+        "ability": {
+            "flyingeffectnull": 3600,
+            "alertstanceplus": 1760,
+            "alertstance": 680
+        }
+    },
+    "lance": {
+        "name": "Lance",
+        "prowess": {
+            "lanceprowesslv5": 1760,
+            "lanceprowesslv4": 960,
+            "lanceprowesslv3": 460,
+            "lanceprowesslv2": 180,
+            "lanceprowesslv1": 40
+        },
+        "art": {
+            "knightkneeler": 300,
+            "tempestlance": 100
+        },
+        "ability": {
+            "lancefaire": 3600,
+            "lancecrit10": 2520,
+            "swordbreaker": 680
+        }
+    },
+    "reason": {
+        "name": "Reason",
+        "prowess": {
+            "reasonlv5": 1760,
+            "reasonlv4": 960,
+            "reasonlv3": 460,
+            "reasonlv2": 180,
+            "reasonlv1": 40
+        },
+        "art": {},
+        "ability": {
+            "blacktomefaire": 3600,
+            "blackmagicrange1": 2520
+        }
+    },
+    "riding": {
+        "name": "Riding",
+        "prowess": {},
+        "art": {},
+        "ability": {
+            "cavalryeffectnull": 3600,
+            "movement1": 1760,
+            "dexterity4": 300
+        },
+        "ALT_NAME": ["Cavalry"]
+    },
+    "sword": {
+        "name": "Sword",
+        "prowess": {
+            "swordprowesslv5": 1760,
+            "swordprowesslv4": 960,
+            "swordprowesslv3": 460,
+            "swordprowesslv2": 180,
+            "swordprowesslv1": 40
+        },
+        "art": {
+            "grounder": 300,
+            "wrathstrike": 100
+        },
+        "ability": {
+            "swordfaire": 3600,
+            "swordcrit10": 2520,
+            "axebreaker": 680
+        }
+    }
+}

@@ -1,0 +1,3943 @@
+{
+    "alois": {
+        "name": "Alois",
+        "chapter": 11,
+        "skip_lvl": 1,
+        "portrait": "alois.png",
+        "buddy_rank": null,
+        "buddy_skill": null,
+        "personal": "compassion",
+        "color": "church",
+        "goal": [
+            "axe",
+            "brawling"
+        ],
+        "job": [
+            "warrior",
+            "warrior",
+            "warrior"
+        ],
+        "growth": {
+            "hp": 45,
+            "str": 45,
+            "mag": 20,
+            "dex": 35,
+            "spd": 40,
+            "lck": 30,
+            "def": 40,
+            "res": 20,
+            "cha": 40
+        },
+        "base": {
+            "hp": 28,
+            "str": 9,
+            "mag": 4,
+            "dex": 5,
+            "spd": 6,
+            "lck": 5,
+            "def": 5,
+            "res": 2,
+            "cha": 7
+        },
+        "rank_base": {
+            "axe": 300,
+            "brawling": 180,
+            "authority": 300,
+            "armor": 300
+        },
+        "reason": {
+            "fire": 100,
+            "bolganone": 300
+        },
+        "cap": {
+            "hp": 86,
+            "str": 71,
+            "mag": 33,
+            "dex": 48,
+            "spd": 56,
+            "lck": 42,
+            "def": 55,
+            "res": 37,
+            "cha": 57
+        },
+        "crest": {},
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "recover": 300
+        },
+        "art": {
+            "axe": {
+                "spike": 460,
+                "exhaustivestrike": 1320
+            },
+            "brawling": {
+                "onetwopunch": 460,
+                "mightyblow": 1320
+            }
+        },
+        "ability": {
+            "authority": {
+                "rallystrength": 100,
+                "battalionwrath": 300
+            }
+        },
+        "rank_growth": {
+            "axe": "strong",
+            "brawling": "strong",
+            "reason": "weak",
+            "armor": "strong",
+            "flying": "weak"
+        },
+        "portrait_skip": false
+    },
+    "anna": {
+        "name": "Anna",
+        "chapter": 3,
+        "skip_lvl": 0,
+        "portrait": "anna.png",
+        "buddy_rank": "riding",
+        "buddy_skill": "pass",
+        "personal": "businessprosperity",
+        "goal": [
+            "sword",
+            "bow"
+        ],
+        "job": [
+            "commoner",
+            "myrmidon",
+            "thief"
+        ],
+        "growth": {
+            "hp": 35,
+            "str": 35,
+            "mag": 35,
+            "dex": 45,
+            "spd": 55,
+            "lck": 45,
+            "def": 30,
+            "res": 40,
+            "cha": 50
+        },
+        "base": {
+            "hp": 26,
+            "str": 7,
+            "mag": 7,
+            "dex": 7,
+            "spd": 7,
+            "lck": 7,
+            "def": 5,
+            "res": 7,
+            "cha": 7
+        },
+        "rank_base": {
+            "sword": 100,
+            "axe": 40,
+            "bow": 40,
+            "faith": 40
+        },
+        "reason": {
+            "fire": 100,
+            "thunder": 180,
+            "meteor": 1320
+        },
+        "cap": {
+            "hp": 68,
+            "str": 55,
+            "mag": 49,
+            "dex": 76,
+            "spd": 65,
+            "lck": 75,
+            "def": 44,
+            "res": 49,
+            "cha": 60
+        },
+        "crest": {
+            "ernest": true
+        },
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "ward": 300,
+            "rescue": 680
+        },
+        "art": {
+            "sword": {
+                "soulblade": 460,
+                "hexblade": 1320
+            },
+            "bow": {
+                "breakshot": 460
+            },
+            "axe": {
+                "spike": 460,
+                "armoredstrike": 1320
+            }
+        },
+        "ability": {
+            "authority": {
+                "rallyluck": 100,
+                "battalionvantage": 300
+            }
+        },
+        "rank_growth": {
+            "sword": "strong",
+            "axe": "strong",
+            "bow": "strong",
+            "reason": "weak",
+            "faith": "strong",
+            "authority": "weak"
+        },
+        "color": false,
+        "portrait_skip": false
+    },
+    "annette": {
+        "name": "Annette",
+        "chapter": 1,
+        "skip_lvl": 3,
+        "portrait": "annette.png",
+        "buddy_rank": null,
+        "buddy_skill": null,
+        "personal": "perseverance",
+        "color": "lions",
+        "goal": [
+            "reason",
+            "authority"
+        ],
+        "job": [
+            "noble",
+            "monk",
+            "mage"
+        ],
+        "growth": {
+            "hp": 25,
+            "str": 30,
+            "mag": 50,
+            "dex": 50,
+            "spd": 35,
+            "lck": 35,
+            "def": 20,
+            "res": 30,
+            "cha": 35
+        },
+        "base": {
+            "hp": 23,
+            "str": 6,
+            "mag": 11,
+            "dex": 7,
+            "spd": 7,
+            "lck": 6,
+            "def": 5,
+            "res": 4,
+            "cha": 6
+        },
+        "rank_base": {
+            "axe": 40,
+            "reason": 180,
+            "authority": 40
+        },
+        "reason": {
+            "wind": 100,
+            "cuttinggale": 300,
+            "sagittae": 680,
+            "excalibur": 1320
+        },
+        "cap": {
+            "hp": 55,
+            "str": 43,
+            "mag": 73,
+            "dex": 69,
+            "spd": 50,
+            "lck": 49,
+            "def": 40,
+            "res": 41,
+            "cha": 49
+        },
+        "crest": {
+            "dominic": false
+        },
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "recover": 300,
+            "abraxas": 1320
+        },
+        "art": {
+            "axe": {
+                "lightningaxe": 460
+            }
+        },
+        "ability": {
+            "authority": {
+                "rallyresistance": 100,
+                "battalionrenewal": 300,
+                "rallyspeed": 460,
+                "battalionwrath": 1320,
+                "rallymovement": 2520
+            }
+        },
+        "rank_growth": {
+            "axe": "strong",
+            "bow": "weak",
+            "reason": "strong",
+            "authority": "strong",
+            "armor": "weak"
+        },
+        "portrait_skip": false
+    },
+    "ashe": {
+        "name": "Ashe",
+        "chapter": 1,
+        "skip_lvl": 2,
+        "portrait": "ashe.png",
+        "buddy_rank": "lance",
+        "buddy_skill": "shatterslash",
+        "personal": "lockpick",
+        "color": "lions",
+        "goal": [
+            "axe",
+            "bow"
+        ],
+        "job": [
+            "commoner",
+            "fighter",
+            "archer"
+        ],
+        "growth": {
+            "hp": 35,
+            "str": 35,
+            "mag": 25,
+            "dex": 55,
+            "spd": 50,
+            "lck": 40,
+            "def": 20,
+            "res": 35,
+            "cha": 25
+        },
+        "base": {
+            "hp": 23,
+            "str": 8,
+            "mag": 5,
+            "dex": 8,
+            "spd": 9,
+            "lck": 6,
+            "def": 5,
+            "res": 6,
+            "cha": 5
+        },
+        "rank_base": {
+            "axe": 40,
+            "bow": 100
+        },
+        "reason": {
+            "wind": 100,
+            "cuttinggale": 300
+        },
+        "cap": {
+            "hp": 68,
+            "str": 51,
+            "mag": 36,
+            "dex": 76,
+            "spd": 71,
+            "lck": 56,
+            "def": 43,
+            "res": 49,
+            "cha": 36
+        },
+        "crest": {},
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "physic": 300
+        },
+        "art": {
+            "axe": {
+                "focusedstrike": 460
+            },
+            "bow": {
+                "deadeye": 460,
+                "waningshot": 1320
+            }
+        },
+        "ability": {
+            "authority": {
+                "battaliondesperation": 300
+            }
+        },
+        "rank_growth": {
+            "axe": "strong",
+            "bow": "strong",
+            "reason": "weak"
+        },
+        "portrait_skip": false
+    },
+    "balthus": {
+        "name": "Balthus",
+        "chapter": 2,
+        "skip_lvl": 0,
+        "portrait": "balthus.png",
+        "buddy_rank": "reason",
+        "buddy_skill": "blackmagiccrit10",
+        "personal": "kingofgrappling",
+        "color": "wolves",
+        "goal": [
+            "axe",
+            "brawling"
+        ],
+        "job": [
+            "noble",
+            "fighter",
+            "brawler"
+        ],
+        "growth": {
+            "hp": 50,
+            "str": 50,
+            "mag": 30,
+            "dex": 25,
+            "spd": 30,
+            "lck": 20,
+            "def": 45,
+            "res": 30,
+            "cha": 30
+        },
+        "base": {
+            "hp": 28,
+            "str": 11,
+            "mag": 5,
+            "dex": 4,
+            "spd": 7,
+            "lck": 3,
+            "def": 7,
+            "res": 4,
+            "cha": 4
+        },
+        "rank_base": {
+            "sword": 40,
+            "axe": 100,
+            "brawling": 180,
+            "authority": 40
+        },
+        "reason": {
+            "fire": 100,
+            "bolganone": 300,
+            "ragnarok": 1320
+        },
+        "cap": {
+            "hp": 100,
+            "str": 71,
+            "mag": 48,
+            "dex": 39,
+            "spd": 46,
+            "lck": 35,
+            "def": 69,
+            "res": 43,
+            "cha": 46
+        },
+        "crest": {
+            "chevalier": true
+        },
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "seraphim": 460,
+            "restore": 960
+        },
+        "art": {
+            "sword": {
+                "baneofmonsters": 460
+            },
+            "axe": {
+                "diamondaxe": 460,
+                "armoredstrike": 1320
+            },
+            "brawling": {
+                "drainingblow": 460,
+                "mightyblow": 1320
+            }
+        },
+        "ability": {
+            "authority": {
+                "rallystrength": 100,
+                "battaliondesperation": 680
+            }
+        },
+        "rank_growth": {
+            "sword": "strong",
+            "lance": "weak",
+            "axe": "strong",
+            "bow": "weak",
+            "brawling": "strong",
+            "faith": "strong",
+            "armor": "strong",
+            "flying": "weak"
+        },
+        "portrait_skip": false
+    },
+    "bernadetta": {
+        "name": "Bernadetta",
+        "chapter": 1,
+        "skip_lvl": 0,
+        "portrait": "bernadetta.png",
+        "buddy_rank": "riding",
+        "buddy_skill": "pass",
+        "personal": "persecutioncomplex",
+        "color": "eagles",
+        "goal": [
+            "lance",
+            "bow"
+        ],
+        "job": [
+            "noble",
+            "fighter",
+            "archer"
+        ],
+        "growth": {
+            "hp": 35,
+            "str": 35,
+            "mag": 20,
+            "dex": 55,
+            "spd": 50,
+            "lck": 25,
+            "def": 20,
+            "res": 30,
+            "cha": 35
+        },
+        "base": {
+            "hp": 25,
+            "str": 8,
+            "mag": 5,
+            "dex": 7,
+            "spd": 7,
+            "lck": 5,
+            "def": 4,
+            "res": 2,
+            "cha": 6
+        },
+        "rank_base": {
+            "lance": 40,
+            "bow": 100
+        },
+        "reason": {
+            "blizzard": 100,
+            "thunder": 180,
+            "thoron": 300,
+            "fimbulvetr": 1320
+        },
+        "cap": {
+            "hp": 70,
+            "str": 51,
+            "mag": 40,
+            "dex": 75,
+            "spd": 69,
+            "lck": 41,
+            "def": 41,
+            "res": 39,
+            "cha": 49
+        },
+        "crest": {
+            "indech": false
+        },
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "physic": 300,
+            "rescue": 1320
+        },
+        "art": {
+            "lance": {
+                "vengeance": 460
+            },
+            "bow": {
+                "deadeye": 460,
+                "encloser": 1320
+            }
+        },
+        "ability": {
+            "authority": {
+                "battalionwrath": 300
+            }
+        },
+        "rank_growth": {
+            "sword": "weak",
+            "lance": "strong",
+            "axe": "weak",
+            "bow": "strong",
+            "brawling": "weak",
+            "armor": "weak"
+        },
+        "portrait_skip": false
+    },
+    "byleth": {
+        "name": "Byleth",
+        "chapter": 1,
+        "skip_lvl": 0,
+        "portrait": "byleth.png",
+        "buddy_rank": "faith",
+        "buddy_skill": "whitemagicavoid20",
+        "personal": "professorsguidance",
+        "goal": [],
+        "job": [
+            "commoner",
+            "commoner",
+            "commoner"
+        ],
+        "growth": {
+            "hp": 45,
+            "str": 45,
+            "mag": 35,
+            "dex": 45,
+            "spd": 45,
+            "lck": 45,
+            "def": 35,
+            "res": 30,
+            "cha": 45
+        },
+        "base": {
+            "hp": 27,
+            "str": 13,
+            "mag": 6,
+            "dex": 9,
+            "spd": 8,
+            "lck": 8,
+            "def": 6,
+            "res": 6,
+            "cha": 7
+        },
+        "rank_base": {
+            "sword": 180,
+            "brawling": 40,
+            "authority": 100
+        },
+        "reason": {
+            "fire": 100,
+            "thunder": 180,
+            "bolganone": 300,
+            "ragnarok": 1320
+        },
+        "cap": {
+            "hp": 88,
+            "str": 77,
+            "mag": 55,
+            "dex": 66,
+            "spd": 66,
+            "lck": 66,
+            "def": 55,
+            "res": 55,
+            "cha": 99
+        },
+        "crest": {
+            "flames": true
+        },
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "recover": 300,
+            "aura": 1320
+        },
+        "art": {
+            "sword": {
+                "baneofmonsters": 460,
+                "windsweep": 1320
+            },
+            "brawling": {
+                "drainingblow": 460,
+                "mysticblow": 1320
+            }
+        },
+        "ability": {
+            "authority": {
+                "battalionvantage": 300,
+                "modelleader": 460,
+                "battaliondesperation": 1320,
+                "rallymovement": 2520
+            }
+        },
+        "rank_growth": {
+            "sword": "strong",
+            "brawling": "strong",
+            "authority": "strong"
+        },
+        "color": false,
+        "portrait_skip": false
+    },
+    "caspar": {
+        "name": "Caspar",
+        "chapter": 1,
+        "skip_lvl": 3,
+        "portrait": "caspar.png",
+        "buddy_rank": null,
+        "buddy_skill": null,
+        "personal": "bornfighter",
+        "color": "eagles",
+        "goal": [
+            "axe",
+            "brawling"
+        ],
+        "job": [
+            "noble",
+            "fighter",
+            "brigand"
+        ],
+        "growth": {
+            "hp": 55,
+            "str": 45,
+            "mag": 25,
+            "dex": 45,
+            "spd": 45,
+            "lck": 40,
+            "def": 30,
+            "res": 20,
+            "cha": 25
+        },
+        "base": {
+            "hp": 26,
+            "str": 9,
+            "mag": 3,
+            "dex": 5,
+            "spd": 6,
+            "lck": 8,
+            "def": 6,
+            "res": 2,
+            "cha": 4
+        },
+        "rank_base": {
+            "axe": 100,
+            "brawling": 40
+        },
+        "reason": {
+            "fire": 100,
+            "bolganone": 300
+        },
+        "cap": {
+            "hp": 97,
+            "str": 65,
+            "mag": 41,
+            "dex": 61,
+            "spd": 62,
+            "lck": 58,
+            "def": 51,
+            "res": 35,
+            "cha": 46
+        },
+        "crest": {},
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "recover": 300
+        },
+        "art": {
+            "axe": {
+                "wildabandon": 460,
+                "exhaustivestrike": 1320
+            },
+            "brawling": {
+                "bombard": 460,
+                "mightyblow": 1320
+            }
+        },
+        "ability": {
+            "authority": {
+                "battalionwrath": 300
+            }
+        },
+        "rank_growth": {
+            "axe": "strong",
+            "bow": "weak",
+            "brawling": "strong",
+            "reason": "weak",
+            "authority": "weak"
+        },
+        "portrait_skip": false
+    },
+    "catherine": {
+        "name": "Catherine",
+        "chapter": 4,
+        "skip_lvl": 1,
+        "portrait": "catherine.png",
+        "buddy_rank": null,
+        "buddy_skill": null,
+        "personal": "fightingspirit",
+        "color": "church",
+        "goal": [
+            "sword",
+            "brawling"
+        ],
+        "job": [
+            "swordmaster",
+            "swordmaster",
+            "swordmaster"
+        ],
+        "growth": {
+            "hp": 50,
+            "str": 50,
+            "mag": 25,
+            "dex": 40,
+            "spd": 55,
+            "lck": 30,
+            "def": 30,
+            "res": 20,
+            "cha": 25
+        },
+        "base": {
+            "hp": 27,
+            "str": 8,
+            "mag": 5,
+            "dex": 6,
+            "spd": 7,
+            "lck": 6,
+            "def": 5,
+            "res": 2,
+            "cha": 4
+        },
+        "rank_base": {
+            "sword": 680,
+            "brawling": 180,
+            "authority": 100
+        },
+        "reason": {
+            "fire": 100,
+            "bolganone": 300,
+            "ragnarok": 1320
+        },
+        "cap": {
+            "hp": 92,
+            "str": 70,
+            "mag": 36,
+            "dex": 56,
+            "spd": 75,
+            "lck": 43,
+            "def": 42,
+            "res": 37,
+            "cha": 35
+        },
+        "crest": {
+            "charon": true
+        },
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "recover": 300
+        },
+        "art": {
+            "sword": {
+                "baneofmonsters": 460,
+                "finesseblade": 1320
+            },
+            "brawling": {
+                "nimblecombo": 460,
+                "bombard": 1320
+            }
+        },
+        "ability": {
+            "authority": {
+                "battalionvantage": 300
+            }
+        },
+        "rank_growth": {
+            "sword": "strong",
+            "brawling": "strong",
+            "reason": "weak"
+        },
+        "portrait_skip": false
+    },
+    "claude": {
+        "name": "Claude",
+        "chapter": 1,
+        "skip_lvl": 2,
+        "portrait": "claude.png",
+        "buddy_rank": "axe",
+        "buddy_skill": "diamondaxe",
+        "personal": "leicesterlineage",
+        "color": "deer",
+        "goal": [
+            "bow",
+            "authority"
+        ],
+        "job": [
+            "noble",
+            "noble",
+            "noble"
+        ],
+        "growth": {
+            "hp": 35,
+            "str": 40,
+            "mag": 25,
+            "dex": 60,
+            "spd": 55,
+            "lck": 45,
+            "def": 30,
+            "res": 25,
+            "cha": 55
+        },
+        "base": {
+            "hp": 26,
+            "str": 11,
+            "mag": 5,
+            "dex": 8,
+            "spd": 8,
+            "lck": 7,
+            "def": 6,
+            "res": 4,
+            "cha": 8
+        },
+        "rank_base": {
+            "sword": 40,
+            "bow": 100,
+            "authority": 100,
+            "riding": 40,
+            "flying": 40
+        },
+        "reason": {
+            "wind": 100,
+            "sagittae": 300,
+            "cuttinggale": 680,
+            "excalibur": 1320
+        },
+        "cap": {
+            "hp": 71,
+            "str": 61,
+            "mag": 40,
+            "dex": 89,
+            "spd": 76,
+            "lck": 63,
+            "def": 50,
+            "res": 42,
+            "cha": 76
+        },
+        "crest": {
+            "riegan": false
+        },
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "recover": 300,
+            "silence": 1320
+        },
+        "art": {
+            "sword": {
+                "baneofmonsters": 460,
+                "finesseblade": 1320
+            },
+            "bow": {
+                "monsterblast": 460,
+                "encloser": 1320
+            }
+        },
+        "ability": {
+            "authority": {
+                "battaliondesperation": 300,
+                "modelleader": 460,
+                "battalionwrath": 1320,
+                "rallycharm": 2520
+            }
+        },
+        "rank_growth": {
+            "sword": "strong",
+            "lance": "weak",
+            "bow": "strong",
+            "faith": "weak",
+            "authority": "strong",
+            "flying": "strong",
+            "riding": "strong"
+        },
+        "portrait_skip": false
+    },
+    "constance": {
+        "name": "Constance",
+        "chapter": 2,
+        "skip_lvl": 0,
+        "portrait": "constance.png",
+        "buddy_rank": "brawling",
+        "buddy_skill": "mysticblow",
+        "personal": "circadianbeat",
+        "color": "wolves",
+        "goal": [
+            "reason",
+            "authority"
+        ],
+        "job": [
+            "noble",
+            "monk",
+            "mage"
+        ],
+        "growth": {
+            "hp": 20,
+            "str": 20,
+            "mag": 60,
+            "dex": 30,
+            "spd": 35,
+            "lck": 15,
+            "def": 15,
+            "res": 30,
+            "cha": 25
+        },
+        "base": {
+            "hp": 23,
+            "str": 5,
+            "mag": 11,
+            "dex": 6,
+            "spd": 6,
+            "lck": 4,
+            "def": 3,
+            "res": 4,
+            "cha": 6
+        },
+        "rank_base": {
+            "sword": 40,
+            "reason": 100,
+            "flying": 100
+        },
+        "reason": {
+            "fire": 100,
+            "sagittae": 300,
+            "fimbulvetr": 680,
+            "bolting": 1320,
+            "agneasarrow": 1760
+        },
+        "cap": {
+            "hp": 51,
+            "str": 32,
+            "mag": 84,
+            "dex": 68,
+            "spd": 60,
+            "lck": 42,
+            "def": 39,
+            "res": 51,
+            "cha": 62
+        },
+        "crest": {
+            "noa": true
+        },
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "ward": 300,
+            "rescue": 680,
+            "abraxas": 1320
+        },
+        "art": {
+            "sword": {
+                "soulblade": 460,
+                "hexblade": 1320
+            }
+        },
+        "ability": {
+            "authority": {
+                "rallymagic": 100,
+                "rallyresistance": 300
+            }
+        },
+        "rank_growth": {
+            "sword": "strong",
+            "axe": "weak",
+            "reason": "strong",
+            "authority": "strong",
+            "armor": "weak",
+            "flying": "strong"
+        },
+        "portrait_skip": false
+    },
+    "cyril": {
+        "name": "Cyril",
+        "chapter": 5,
+        "skip_lvl": 3,
+        "portrait": "cyril.png",
+        "buddy_rank": null,
+        "buddy_skill": null,
+        "personal": "aptitude",
+        "color": "church",
+        "goal": [
+            "axe",
+            "bow"
+        ],
+        "job": [
+            "commoner",
+            "commoner",
+            "commoner"
+        ],
+        "growth": {
+            "hp": 35,
+            "str": 20,
+            "mag": 15,
+            "dex": 40,
+            "spd": 40,
+            "lck": 30,
+            "def": 10,
+            "res": 10,
+            "cha": 15
+        },
+        "base": {
+            "hp": 24,
+            "str": 7,
+            "mag": 4,
+            "dex": 6,
+            "spd": 6,
+            "lck": 6,
+            "def": 5,
+            "res": 2,
+            "cha": 4
+        },
+        "rank_base": {
+            "axe": 180,
+            "bow": 100
+        },
+        "reason": {
+            "wind": 100,
+            "cuttinggale": 300
+        },
+        "cap": {
+            "hp": 85,
+            "str": 55,
+            "mag": 48,
+            "dex": 78,
+            "spd": 76,
+            "lck": 66,
+            "def": 45,
+            "res": 41,
+            "cha": 48
+        },
+        "crest": {},
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "recover": 300
+        },
+        "art": {
+            "lance": {
+                "vengeance": 460,
+                "lancejab": 1320
+            },
+            "axe": {
+                "monsterbreaker": 460,
+                "armoredstrike": 1320
+            },
+            "bow": {
+                "pointblankvolley": 460
+            }
+        },
+        "ability": {
+            "authority": {
+                "battaliondesperation": 300
+            }
+        },
+        "rank_growth": {
+            "lance": "strong",
+            "axe": "strong",
+            "bow": "strong",
+            "reason": "weak",
+            "faith": "weak",
+            "riding": "strong",
+            "flying": "strong"
+        },
+        "portrait_skip": false
+    },
+    "dedue": {
+        "name": "Dedue",
+        "chapter": 1,
+        "skip_lvl": 4,
+        "portrait": "dedue.png",
+        "buddy_rank": null,
+        "buddy_skill": null,
+        "personal": "staunchshield",
+        "color": "lions",
+        "goal": [
+            "axe",
+            "brawling"
+        ],
+        "job": [
+            "commoner",
+            "fighter",
+            "armoredknight"
+        ],
+        "growth": {
+            "hp": 60,
+            "str": 50,
+            "mag": 15,
+            "dex": 30,
+            "spd": 20,
+            "lck": 25,
+            "def": 50,
+            "res": 10,
+            "cha": 30
+        },
+        "base": {
+            "hp": 30,
+            "str": 12,
+            "mag": 2,
+            "dex": 5,
+            "spd": 7,
+            "lck": 5,
+            "def": 8,
+            "res": 1,
+            "cha": 4
+        },
+        "rank_base": {
+            "lance": 40,
+            "axe": 180,
+            "brawling": 40,
+            "armor": 100
+        },
+        "reason": {
+            "fire": 100,
+            "bolganone": 300,
+            "ragnarok": 1320
+        },
+        "cap": {
+            "hp": 108,
+            "str": 74,
+            "mag": 30,
+            "dex": 42,
+            "spd": 35,
+            "lck": 44,
+            "def": 70,
+            "res": 35,
+            "cha": 41
+        },
+        "crest": {},
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "recover": 300
+        },
+        "art": {
+            "lance": {
+                "vengeance": 460
+            },
+            "axe": {
+                "monsterbreaker": 460,
+                "armoredstrike": 1320
+            },
+            "brawling": {
+                "onetwopunch": 460,
+                "mightyblow": 1320
+            }
+        },
+        "ability": {
+            "authority": {
+                "battalionwrath": 300
+            }
+        },
+        "rank_growth": {
+            "lance": "strong",
+            "axe": "strong",
+            "brawling": "strong",
+            "faith": "weak",
+            "armor": "strong",
+            "riding": "weak",
+            "flying": "weak"
+        },
+        "portrait_skip": false
+    },
+    "dimitri": {
+        "name": "Dimitri",
+        "chapter": 1,
+        "skip_lvl": 3,
+        "portrait": "dimitri.png",
+        "buddy_rank": "riding",
+        "buddy_skill": "sealmovement",
+        "personal": "royallineage",
+        "color": "lions",
+        "goal": [
+            "lance",
+            "authority"
+        ],
+        "job": [
+            "noble",
+            "noble",
+            "noble"
+        ],
+        "growth": {
+            "hp": 55,
+            "str": 60,
+            "mag": 20,
+            "dex": 50,
+            "spd": 50,
+            "lck": 25,
+            "def": 40,
+            "res": 20,
+            "cha": 55
+        },
+        "base": {
+            "hp": 28,
+            "str": 12,
+            "mag": 4,
+            "dex": 7,
+            "spd": 7,
+            "lck": 5,
+            "def": 7,
+            "res": 4,
+            "cha": 9
+        },
+        "rank_base": {
+            "sword": 40,
+            "lance": 180,
+            "authority": 100,
+            "riding": 180
+        },
+        "reason": {
+            "thunder": 100,
+            "thoron": 300
+        },
+        "cap": {
+            "hp": 99,
+            "str": 87,
+            "mag": 38,
+            "dex": 69,
+            "spd": 69,
+            "lck": 42,
+            "def": 57,
+            "res": 36,
+            "cha": 77
+        },
+        "crest": {
+            "blaiddyd": false
+        },
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "recover": 300,
+            "aura": 1320
+        },
+        "art": {
+            "sword": {
+                "sunder": 460,
+                "windsweep": 1320
+            },
+            "lance": {
+                "monsterpiercer": 460,
+                "glowingember": 1320
+            }
+        },
+        "ability": {
+            "authority": {
+                "battalionwrath": 300,
+                "modelleader": 460,
+                "battalionvantage": 1320,
+                "rallycharm": 2520
+            }
+        },
+        "rank_growth": {
+            "sword": "strong",
+            "lance": "strong",
+            "axe": "weak",
+            "reason": "weak",
+            "authority": "strong"
+        },
+        "portrait_skip": false
+    },
+    "dorothea": {
+        "name": "Dorothea",
+        "chapter": 1,
+        "skip_lvl": 2,
+        "portrait": "dorothea.png",
+        "buddy_rank": "faith",
+        "buddy_skill": "whitemagicavoid20",
+        "personal": "songstress",
+        "color": "eagles",
+        "goal": [
+            "sword",
+            "reason"
+        ],
+        "job": [
+            "commoner",
+            "monk",
+            "mage"
+        ],
+        "growth": {
+            "hp": 40,
+            "str": 20,
+            "mag": 40,
+            "dex": 45,
+            "spd": 40,
+            "lck": 35,
+            "def": 15,
+            "res": 35,
+            "cha": 40
+        },
+        "base": {
+            "hp": 24,
+            "str": 5,
+            "mag": 11,
+            "dex": 6,
+            "spd": 7,
+            "lck": 6,
+            "def": 4,
+            "res": 7,
+            "cha": 8
+        },
+        "rank_base": {
+            "sword": 40,
+            "reason": 100
+        },
+        "reason": {
+            "thunder": 100,
+            "thoron": 300,
+            "sagittae": 680,
+            "meteor": 1320,
+            "agneasarrow": 1760
+        },
+        "cap": {
+            "hp": 76,
+            "str": 30,
+            "mag": 61,
+            "dex": 62,
+            "spd": 57,
+            "lck": 49,
+            "def": 38,
+            "res": 50,
+            "cha": 58
+        },
+        "crest": {},
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "physic": 300
+        },
+        "art": {
+            "sword": {
+                "hexblade": 460
+            }
+        },
+        "ability": {
+            "authority": {
+                "rallycharm": 100,
+                "battaliondesperation": 300
+            }
+        },
+        "rank_growth": {
+            "sword": "strong",
+            "reason": "strong",
+            "faith": "weak",
+            "riding": "weak",
+            "flying": "weak"
+        },
+        "portrait_skip": false
+    },
+    "edelgard": {
+        "name": "Edelgard",
+        "chapter": 1,
+        "skip_lvl": 2,
+        "portrait": "edelgard.png",
+        "buddy_rank": "reason",
+        "buddy_skill": "blackmagiccrit10",
+        "personal": "imperiallineage",
+        "color": "eagles",
+        "goal": [
+            "axe",
+            "authority"
+        ],
+        "job": [
+            "noble",
+            "noble",
+            "noble"
+        ],
+        "growth": {
+            "hp": 40,
+            "str": 55,
+            "mag": 45,
+            "dex": 45,
+            "spd": 40,
+            "lck": 30,
+            "def": 35,
+            "res": 35,
+            "cha": 60
+        },
+        "base": {
+            "hp": 29,
+            "str": 13,
+            "mag": 6,
+            "dex": 5,
+            "spd": 8,
+            "lck": 5,
+            "def": 6,
+            "res": 4,
+            "cha": 10
+        },
+        "rank_base": {
+            "sword": 40,
+            "axe": 100,
+            "authority": 100,
+            "armor": 100
+        },
+        "reason": {
+            "fire": 100,
+            "bolganone": 300,
+            "lunalambda": 680,
+            "hadesomega": 1320
+        },
+        "cap": {
+            "hp": 81,
+            "str": 81,
+            "mag": 72,
+            "dex": 61,
+            "spd": 57,
+            "lck": 42,
+            "def": 61,
+            "res": 47,
+            "cha": 85
+        },
+        "crest": {
+            "seiros": false,
+            "flames": true
+        },
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "recover": 300,
+            "seraphim": 680
+        },
+        "art": {
+            "sword": {
+                "hazeslice": 460,
+                "hexblade": 1320
+            },
+            "axe": {
+                "monsterbreaker": 460,
+                "lightningaxe": 1320
+            }
+        },
+        "ability": {
+            "authority": {
+                "battalionvantage": 300,
+                "modelleader": 460,
+                "battalionrenewal": 1320,
+                "rallycharm": 2520
+            }
+        },
+        "rank_growth": {
+            "sword": "strong",
+            "axe": "strong",
+            "bow": "weak",
+            "faith": "weak",
+            "authority": "strong",
+            "armor": "strong"
+        },
+        "portrait_skip": false
+    },
+    "felix": {
+        "name": "Felix",
+        "chapter": 1,
+        "skip_lvl": 3,
+        "portrait": "felix.png",
+        "buddy_rank": "reason",
+        "buddy_skill": "blackmagiccrit10",
+        "personal": "lonewolf",
+        "color": "lions",
+        "goal": [
+            "sword",
+            "brawling"
+        ],
+        "job": [
+            "noble",
+            "myrmidon",
+            "mercenary"
+        ],
+        "growth": {
+            "hp": 45,
+            "str": 55,
+            "mag": 30,
+            "dex": 45,
+            "spd": 55,
+            "lck": 40,
+            "def": 30,
+            "res": 20,
+            "cha": 30
+        },
+        "base": {
+            "hp": 26,
+            "str": 10,
+            "mag": 5,
+            "dex": 6,
+            "spd": 9,
+            "lck": 5,
+            "def": 5,
+            "res": 3,
+            "cha": 5
+        },
+        "rank_base": {
+            "sword": 100,
+            "bow": 40,
+            "brawling": 40
+        },
+        "reason": {
+            "thunder": 100,
+            "thoron": 300
+        },
+        "cap": {
+            "hp": 84,
+            "str": 78,
+            "mag": 42,
+            "dex": 62,
+            "spd": 77,
+            "lck": 55,
+            "def": 51,
+            "res": 35,
+            "cha": 42
+        },
+        "crest": {
+            "fraldarius": true
+        },
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "recover": 300,
+            "restore": 680
+        },
+        "art": {
+            "sword": {
+                "sunder": 460,
+                "finesseblade": 1320
+            },
+            "bow": {
+                "heavydraw": 460
+            },
+            "brawling": {
+                "nimblecombo": 460,
+                "mysticblow": 1320
+            }
+        },
+        "ability": {
+            "authority": {
+                "battalionvantage": 300
+            }
+        },
+        "rank_growth": {
+            "sword": "strong",
+            "bow": "strong",
+            "brawling": "strong",
+            "reason": "weak",
+            "authority": "weak"
+        },
+        "portrait_skip": false
+    },
+    "ferdinand": {
+        "name": "Ferdinand",
+        "chapter": 1,
+        "skip_lvl": 3,
+        "portrait": "ferdinand.png",
+        "buddy_rank": "armor",
+        "buddy_skill": "sealspeed",
+        "personal": "confidence",
+        "color": "eagles",
+        "goal": [
+            "lance",
+            "axe"
+        ],
+        "job": [
+            "noble",
+            "soldier",
+            "cavalier"
+        ],
+        "growth": {
+            "hp": 50,
+            "str": 45,
+            "mag": 20,
+            "dex": 40,
+            "spd": 50,
+            "lck": 40,
+            "def": 35,
+            "res": 20,
+            "cha": 40
+        },
+        "base": {
+            "hp": 28,
+            "str": 8,
+            "mag": 5,
+            "dex": 6,
+            "spd": 8,
+            "lck": 6,
+            "def": 6,
+            "res": 2,
+            "cha": 7
+        },
+        "rank_base": {
+            "sword": 40,
+            "lance": 100,
+            "axe": 40,
+            "riding": 100
+        },
+        "reason": {
+            "thunder": 100,
+            "fire": 180,
+            "thoron": 300,
+            "bolganone": 680
+        },
+        "cap": {
+            "hp": 93,
+            "str": 64,
+            "mag": 40,
+            "dex": 56,
+            "spd": 70,
+            "lck": 56,
+            "def": 49,
+            "res": 36,
+            "cha": 57
+        },
+        "crest": {
+            "cichol": false
+        },
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "ward": 300,
+            "restore": 680
+        },
+        "art": {
+            "sword": {
+                "sunder": 460
+            },
+            "lance": {
+                "shatterslash": 460,
+                "swiftstrikes": 1320
+            },
+            "axe": {
+                "focusedstrike": 460,
+                "armoredstrike": 1320
+            }
+        },
+        "ability": {
+            "authority": {
+                "rallydexterity": 100,
+                "battaliondesperation": 300
+            }
+        },
+        "rank_growth": {
+            "sword": "strong",
+            "lance": "strong",
+            "axe": "strong",
+            "riding": "strong"
+        },
+        "portrait_skip": false
+    },
+    "flayn": {
+        "name": "Flayn",
+        "chapter": 6,
+        "skip_lvl": 0,
+        "portrait": "flayn.png",
+        "buddy_rank": "reason",
+        "buddy_skill": "sealmagic",
+        "personal": "lilyspoise",
+        "color": "church",
+        "goal": [
+            "lance",
+            "faith"
+        ],
+        "job": [
+            "priest",
+            "priest",
+            "priest"
+        ],
+        "growth": {
+            "hp": 25,
+            "str": 25,
+            "mag": 55,
+            "dex": 45,
+            "spd": 35,
+            "lck": 15,
+            "def": 25,
+            "res": 50,
+            "cha": 45
+        },
+        "base": {
+            "hp": 24,
+            "str": 6,
+            "mag": 9,
+            "dex": 6,
+            "spd": 5,
+            "lck": 4,
+            "def": 5,
+            "res": 10,
+            "cha": 9
+        },
+        "rank_base": {
+            "lance": 40,
+            "faith": 180,
+            "flying": 100
+        },
+        "reason": {
+            "wind": 100,
+            "fire": 180,
+            "cuttinggale": 300,
+            "excalibur": 1320
+        },
+        "cap": {
+            "hp": 56,
+            "str": 37,
+            "mag": 77,
+            "dex": 62,
+            "spd": 48,
+            "lck": 46,
+            "def": 36,
+            "res": 72,
+            "cha": 65
+        },
+        "crest": {
+            "cethleann": true
+        },
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "restore": 300,
+            "rescue": 680,
+            "fortify": 1320
+        },
+        "art": {
+            "lance": {
+                "hitandrun": 460,
+                "frozenlance": 1320
+            }
+        },
+        "ability": {
+            "authority": {
+                "rallyluck": 100,
+                "battalionrenewal": 300
+            }
+        },
+        "rank_growth": {
+            "lance": "strong",
+            "faith": "strong",
+            "armor": "weak",
+            "riding": "weak"
+        },
+        "portrait_skip": false
+    },
+    "gilbert": {
+        "name": "Gilbert",
+        "chapter": 13,
+        "skip_lvl": 1,
+        "portrait": "gilbert.png",
+        "buddy_rank": null,
+        "buddy_skill": null,
+        "personal": "veteranknight",
+        "color": "church",
+        "goal": [
+            "lance",
+            "axe"
+        ],
+        "job": [
+            "fortressknight",
+            "fortressknight",
+            "fortressknight"
+        ],
+        "growth": {
+            "hp": 55,
+            "str": 45,
+            "mag": 20,
+            "dex": 45,
+            "spd": 30,
+            "lck": 15,
+            "def": 45,
+            "res": 10,
+            "cha": 35
+        },
+        "base": {
+            "hp": 30,
+            "str": 10,
+            "mag": 4,
+            "dex": 6,
+            "spd": 5,
+            "lck": 4,
+            "def": 4,
+            "res": 2,
+            "cha": 7
+        },
+        "rank_base": {
+            "lance": 300,
+            "axe": 300,
+            "authority": 180,
+            "armor": 100,
+            "riding": 300
+        },
+        "reason": {
+            "thunder": 100,
+            "thoron": 300
+        },
+        "cap": {
+            "hp": 101,
+            "str": 65,
+            "mag": 35,
+            "dex": 62,
+            "spd": 42,
+            "lck": 40,
+            "def": 61,
+            "res": 35,
+            "cha": 49
+        },
+        "crest": {},
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "ward": 300
+        },
+        "art": {
+            "lance": {
+                "shatterslash": 460,
+                "glowingember": 1320
+            },
+            "axe": {
+                "spike": 460
+            }
+        },
+        "ability": {
+            "authority": {
+                "rallydefense": 100,
+                "battalionwrath": 300
+            }
+        },
+        "rank_growth": {
+            "lance": "strong",
+            "axe": "strong",
+            "armor": "strong",
+            "riding": "strong"
+        },
+        "portrait_skip": false
+    },
+    "hanneman": {
+        "name": "Hanneman",
+        "chapter": 8,
+        "skip_lvl": 1,
+        "portrait": "hanneman.png",
+        "buddy_rank": null,
+        "buddy_skill": null,
+        "personal": "crestscholar",
+        "color": "church",
+        "goal": [
+            "bow",
+            "reason"
+        ],
+        "job": [
+            "mage",
+            "mage",
+            "mage"
+        ],
+        "growth": {
+            "hp": 40,
+            "str": 30,
+            "mag": 55,
+            "dex": 45,
+            "spd": 20,
+            "lck": 35,
+            "def": 25,
+            "res": 40,
+            "cha": 35
+        },
+        "base": {
+            "hp": 25,
+            "str": 6,
+            "mag": 10,
+            "dex": 6,
+            "spd": 6,
+            "lck": 4,
+            "def": 5,
+            "res": 6,
+            "cha": 5
+        },
+        "rank_base": {
+            "bow": 100,
+            "reason": 300,
+            "authority": 100,
+            "riding": 100
+        },
+        "reason": {
+            "wind": 100,
+            "sagittae": 300,
+            "thoron": 680,
+            "ragnarok": 1320,
+            "meteor": 1760
+        },
+        "cap": {
+            "hp": 77,
+            "str": 43,
+            "mag": 78,
+            "dex": 62,
+            "spd": 35,
+            "lck": 49,
+            "def": 36,
+            "res": 57,
+            "cha": 48
+        },
+        "crest": {
+            "indech": false
+        },
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "recover": 300,
+            "ward": 680
+        },
+        "art": {
+            "bow": {
+                "schismshot": 460,
+                "wardarrow": 1320
+            }
+        },
+        "ability": {
+            "authority": {
+                "battaliondesperation": 300
+            }
+        },
+        "rank_growth": {
+            "bow": "strong",
+            "reason": "strong",
+            "armor": "weak",
+            "riding": "strong",
+            "flying": "weak"
+        },
+        "portrait_skip": false
+    },
+    "hapi": {
+        "name": "Hapi",
+        "chapter": 2,
+        "skip_lvl": 0,
+        "portrait": "hapi.png",
+        "buddy_rank": "axe",
+        "buddy_skill": "exhaustivestrike",
+        "personal": "monstrousappeal",
+        "color": "wolves",
+        "goal": [
+            "lance",
+            "reason"
+        ],
+        "job": [
+            "commoner",
+            "monk",
+            "mage"
+        ],
+        "growth": {
+            "hp": 35,
+            "str": 35,
+            "mag": 45,
+            "dex": 45,
+            "spd": 40,
+            "lck": 20,
+            "def": 15,
+            "res": 45,
+            "cha": 25
+        },
+        "base": {
+            "hp": 26,
+            "str": 6,
+            "mag": 11,
+            "dex": 8,
+            "spd": 6,
+            "lck": 4,
+            "def": 4,
+            "res": 7,
+            "cha": 4
+        },
+        "rank_base": {
+            "lance": 40,
+            "reason": 100,
+            "riding": 100
+        },
+        "reason": {
+            "miasmadelta": 100,
+            "swarmzeta": 180,
+            "bansheetheta": 300,
+            "deathgamma": 680,
+            "hadesomega": 1320
+        },
+        "cap": {
+            "hp": 69,
+            "str": 41,
+            "mag": 76,
+            "dex": 70,
+            "spd": 51,
+            "lck": 40,
+            "def": 42,
+            "res": 61,
+            "cha": 43
+        },
+        "crest": {
+            "timotheos": true
+        },
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "physic": 300,
+            "seraphim": 680,
+            "warp": 1320
+        },
+        "art": {},
+        "ability": {
+            "authority": {
+                "rallydexterity": 100,
+                "battalionwrath": 300
+            }
+        },
+        "rank_growth": {
+            "brawling": "weak",
+            "reason": "strong",
+            "authority": "weak",
+            "armor": "weak",
+            "riding": "strong",
+            "flying": "strong"
+        },
+        "portrait_skip": false
+    },
+    "hilda": {
+        "name": "Hilda",
+        "chapter": 1,
+        "skip_lvl": 1,
+        "portrait": "hilda.png",
+        "buddy_rank": "armor",
+        "buddy_skill": "sealspeed",
+        "personal": "advocate",
+        "color": "deer",
+        "goal": [
+            "lance",
+            "axe"
+        ],
+        "job": [
+            "noble",
+            "fighter",
+            "brigand"
+        ],
+        "growth": {
+            "hp": 50,
+            "str": 45,
+            "mag": 25,
+            "dex": 30,
+            "spd": 50,
+            "lck": 35,
+            "def": 35,
+            "res": 20,
+            "cha": 50
+        },
+        "base": {
+            "hp": 29,
+            "str": 10,
+            "mag": 5,
+            "dex": 5,
+            "spd": 8,
+            "lck": 6,
+            "def": 6,
+            "res": 3,
+            "cha": 7
+        },
+        "rank_base": {
+            "lance": 40,
+            "axe": 100
+        },
+        "reason": {
+            "thunder": 100,
+            "thoron": 300,
+            "bolting": 1320
+        },
+        "cap": {
+            "hp": 94,
+            "str": 66,
+            "mag": 36,
+            "dex": 42,
+            "spd": 70,
+            "lck": 49,
+            "def": 49,
+            "res": 39,
+            "cha": 76
+        },
+        "crest": {
+            "goneril": false
+        },
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "recover": 300
+        },
+        "art": {
+            "lance": {
+                "shatterslash": 460
+            },
+            "axe": {
+                "spike": 460,
+                "diamondaxe": 1320
+            }
+        },
+        "ability": {
+            "authority": {
+                "battalionwrath": 300
+            }
+        },
+        "rank_growth": {
+            "lance": "strong",
+            "axe": "strong",
+            "faith": "weak",
+            "authority": "weak"
+        },
+        "portrait_skip": false
+    },
+    "hubert": {
+        "name": "Hubert",
+        "chapter": 1,
+        "skip_lvl": 2,
+        "portrait": "hubert.png",
+        "buddy_rank": "lance",
+        "buddy_skill": "frozenlance",
+        "personal": "officerduty",
+        "color": "eagles",
+        "goal": [
+            "bow",
+            "reason"
+        ],
+        "job": [
+            "noble",
+            "monk",
+            "mage"
+        ],
+        "growth": {
+            "hp": 35,
+            "str": 30,
+            "mag": 55,
+            "dex": 45,
+            "spd": 45,
+            "lck": 35,
+            "def": 25,
+            "res": 40,
+            "cha": 35
+        },
+        "base": {
+            "hp": 22,
+            "str": 6,
+            "mag": 12,
+            "dex": 6,
+            "spd": 7,
+            "lck": 6,
+            "def": 4,
+            "res": 7,
+            "cha": 6
+        },
+        "rank_base": {
+            "bow": 40,
+            "reason": 100,
+            "authority": 40
+        },
+        "reason": {
+            "miasmadelta": 100,
+            "mirebeta": 180,
+            "bansheetheta": 300,
+            "deathgamma": 680,
+            "darkspikest": 1320
+        },
+        "cap": {
+            "hp": 67,
+            "str": 43,
+            "mag": 80,
+            "dex": 62,
+            "spd": 63,
+            "lck": 51,
+            "def": 45,
+            "res": 57,
+            "cha": 49
+        },
+        "crest": {},
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "recover": 300
+        },
+        "art": {
+            "bow": {
+                "heavydraw": 460,
+                "schismshot": 1320
+            }
+        },
+        "ability": {
+            "authority": {
+                "rallymagic": 100,
+                "battalionwrath": 300,
+                "rallyresistance": 460,
+                "battaliondesperation": 1320,
+                "rallyspeed": 2520
+            }
+        },
+        "rank_growth": {
+            "axe": "weak",
+            "bow": "strong",
+            "reason": "strong",
+            "faith": "weak",
+            "authority": "strong",
+            "flying": "weak"
+        },
+        "portrait_skip": false
+    },
+    "ignatz": {
+        "name": "Ignatz",
+        "chapter": 1,
+        "skip_lvl": 2,
+        "portrait": "ignatz.png",
+        "buddy_rank": "reason",
+        "buddy_skill": "sealstrength",
+        "personal": "watchfuleye",
+        "color": "deer",
+        "goal": [
+            "sword",
+            "bow"
+        ],
+        "job": [
+            "commoner",
+            "fighter",
+            "archer"
+        ],
+        "growth": {
+            "hp": 35,
+            "str": 35,
+            "mag": 30,
+            "dex": 50,
+            "spd": 50,
+            "lck": 55,
+            "def": 25,
+            "res": 35,
+            "cha": 25
+        },
+        "base": {
+            "hp": 25,
+            "str": 8,
+            "mag": 5,
+            "dex": 7,
+            "spd": 8,
+            "lck": 8,
+            "def": 4,
+            "res": 6,
+            "cha": 4
+        },
+        "rank_base": {
+            "sword": 40,
+            "bow": 100,
+            "authority": 40
+        },
+        "reason": {
+            "blizzard": 100,
+            "cuttinggale": 300,
+            "fimbulvetr": 1320
+        },
+        "cap": {
+            "hp": 70,
+            "str": 51,
+            "mag": 42,
+            "dex": 69,
+            "spd": 70,
+            "lck": 76,
+            "def": 43,
+            "res": 49,
+            "cha": 45
+        },
+        "crest": {},
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "physic": 300,
+            "ward": 680
+        },
+        "art": {
+            "sword": {
+                "hazeslice": 460
+            },
+            "bow": {
+                "breakshot": 460,
+                "wardarrow": 1320
+            }
+        },
+        "ability": {
+            "authority": {
+                "rallyspeed": 100,
+                "battaliondesperation": 300,
+                "rallydexterity": 460,
+                "battalionvantage": 1320,
+                "rallystrength": 2520
+            }
+        },
+        "rank_growth": {
+            "sword": "strong",
+            "bow": "strong",
+            "authority": "strong",
+            "flying": "weak"
+        },
+        "portrait_skip": false
+    },
+    "ingrid": {
+        "name": "Ingrid",
+        "chapter": 1,
+        "skip_lvl": 2,
+        "portrait": "ingrid.png",
+        "buddy_rank": null,
+        "buddy_skill": null,
+        "personal": "ladyknight",
+        "color": "lions",
+        "goal": [
+            "sword",
+            "lance"
+        ],
+        "job": [
+            "noble",
+            "soldier",
+            "pegasusknight"
+        ],
+        "growth": {
+            "hp": 40,
+            "str": 35,
+            "mag": 35,
+            "dex": 40,
+            "spd": 60,
+            "lck": 45,
+            "def": 30,
+            "res": 40,
+            "cha": 45
+        },
+        "base": {
+            "hp": 27,
+            "str": 8,
+            "mag": 6,
+            "dex": 6,
+            "spd": 8,
+            "lck": 6,
+            "def": 5,
+            "res": 8,
+            "cha": 8
+        },
+        "rank_base": {
+            "sword": 40,
+            "lance": 100,
+            "riding": 100,
+            "flying": 100
+        },
+        "reason": {
+            "blizzard": 100,
+            "thoron": 300,
+            "fimbulvetr": 1320
+        },
+        "cap": {
+            "hp": 79,
+            "str": 51,
+            "mag": 49,
+            "dex": 56,
+            "spd": 83,
+            "lck": 62,
+            "def": 51,
+            "res": 58,
+            "cha": 64
+        },
+        "crest": {
+            "daphnel": false
+        },
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "physic": 300,
+            "seraphim": 680
+        },
+        "art": {
+            "sword": {
+                "hexblade": 1320
+            },
+            "lance": {
+                "hitandrun": 300,
+                "frozenlance": 1320
+            }
+        },
+        "ability": {
+            "authority": {
+                "rallymagic": 100,
+                "battaliondesperation": 300
+            }
+        },
+        "rank_growth": {
+            "sword": "strong",
+            "lance": "strong",
+            "riding": "strong",
+            "flying": "strong"
+        },
+        "portrait_skip": false
+    },
+    "jeralt": {
+        "name": "Jeralt",
+        "chapter": 1,
+        "skip_lvl": 0,
+        "portrait": "jeralt.png",
+        "buddy_rank": null,
+        "buddy_skill": null,
+        "personal": "bladebreaker",
+        "color": "church",
+        "goal": [],
+        "job": [
+            "paladin",
+            "paladin",
+            "paladin"
+        ],
+        "growth": {
+            "hp": 50,
+            "str": 45,
+            "mag": 20,
+            "dex": 45,
+            "spd": 40,
+            "lck": 25,
+            "def": 35,
+            "res": 35,
+            "cha": 35
+        },
+        "base": {
+            "hp": 29,
+            "str": 8,
+            "mag": 4,
+            "dex": 6,
+            "spd": 4,
+            "lck": 5,
+            "def": 6,
+            "res": 5,
+            "cha": 6
+        },
+        "rank_base": {},
+        "reason": {},
+        "cap": {
+            "hp": 94,
+            "str": 64,
+            "mag": 30,
+            "dex": 62,
+            "spd": 54,
+            "lck": 40,
+            "def": 49,
+            "res": 48,
+            "cha": 49
+        },
+        "crest": {
+            "seiros": true
+        },
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "recover": 300
+        },
+        "art": {},
+        "ability": {},
+        "rank_growth": {
+            "lance": "strong",
+            "authority": "strong",
+            "riding": "strong",
+            "flying": "weak"
+        },
+        "portrait_skip": false
+    },
+    "jeritza": {
+        "name": "Jeritza",
+        "chapter": 13,
+        "skip_lvl": 2,
+        "portrait": "jeritza.png",
+        "buddy_rank": "flying",
+        "buddy_skill": "dartingblow",
+        "personal": "murderousintent",
+        "color": "eagles",
+        "goal": [
+            "sword",
+            "lance"
+        ],
+        "job": [
+            "deathknight",
+            "deathknight",
+            "deathknight"
+        ],
+        "growth": {
+            "hp": 50,
+            "str": 50,
+            "mag": 35,
+            "dex": 35,
+            "spd": 60,
+            "lck": 30,
+            "def": 40,
+            "res": 25,
+            "cha": 25
+        },
+        "base": {
+            "hp": 30,
+            "str": 8,
+            "mag": 6,
+            "dex": 6,
+            "spd": 8,
+            "lck": 4,
+            "def": 7,
+            "res": 5,
+            "cha": 3
+        },
+        "rank_base": {
+            "sword": 680,
+            "lance": 1320,
+            "brawling": 180,
+            "authority": 680,
+            "riding": 680
+        },
+        "reason": {
+            "thunder": 100,
+            "thoron": 300,
+            "deathgamma": 680
+        },
+        "cap": {
+            "hp": 79,
+            "str": 74,
+            "mag": 42,
+            "dex": 49,
+            "spd": 78,
+            "lck": 41,
+            "def": 63,
+            "res": 42,
+            "cha": 42
+        },
+        "crest": {
+            "lamine": false
+        },
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "restore": 300
+        },
+        "art": {
+            "sword": {
+                "hazeslice": 460,
+                "windsweep": 1320
+            },
+            "brawling": {
+                "nimblecombo": 460
+            },
+            "lance": {
+                "shatterslash": 460,
+                "glowingember": 1320
+            }
+        },
+        "ability": {
+            "authority": {
+                "battalionwrath": 300,
+                "battaliondesperation": 680
+            },
+            "sword": {
+                "mastermind": 40
+            }
+        },
+        "rank_growth": {
+            "sword": "strong",
+            "lance": "strong",
+            "brawling": "strong",
+            "faith": "weak",
+            "authority": "weak",
+            "riding": "strong"
+        },
+        "portrait_skip": false
+    },
+    "leonie": {
+        "name": "Leonie",
+        "chapter": 1,
+        "skip_lvl": 3,
+        "portrait": "leonie.png",
+        "buddy_rank": null,
+        "buddy_skill": null,
+        "personal": "rivalry",
+        "color": "deer",
+        "goal": [
+            "lance",
+            "bow"
+        ],
+        "job": [
+            "commoner",
+            "soldier",
+            "cavalier"
+        ],
+        "growth": {
+            "hp": 40,
+            "str": 40,
+            "mag": 20,
+            "dex": 55,
+            "spd": 60,
+            "lck": 40,
+            "def": 40,
+            "res": 15,
+            "cha": 40
+        },
+        "base": {
+            "hp": 26,
+            "str": 9,
+            "mag": 5,
+            "dex": 8,
+            "spd": 9,
+            "lck": 6,
+            "def": 7,
+            "res": 2,
+            "cha": 7
+        },
+        "rank_base": {
+            "lance": 180,
+            "bow": 40,
+            "riding": 40
+        },
+        "reason": {
+            "fire": 100,
+            "bolganone": 300,
+            "ragnarok": 1320
+        },
+        "cap": {
+            "hp": 78,
+            "str": 59,
+            "mag": 38,
+            "dex": 76,
+            "spd": 84,
+            "lck": 56,
+            "def": 57,
+            "res": 36,
+            "cha": 57
+        },
+        "crest": {},
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "physic": 300,
+            "restore": 680
+        },
+        "art": {
+            "lance": {
+                "monsterpiercer": 460,
+                "lancejab": 1320
+            },
+            "bow": {
+                "breakshot": 460,
+                "pointblankvolley": 1320
+            }
+        },
+        "ability": {
+            "authority": {
+                "battaliondesperation": 300
+            }
+        },
+        "rank_growth": {
+            "lance": "strong",
+            "bow": "strong",
+            "riding": "strong"
+        },
+        "portrait_skip": false
+    },
+    "linhardt": {
+        "name": "Linhardt",
+        "chapter": 1,
+        "skip_lvl": 1,
+        "portrait": "linhardt.png",
+        "buddy_rank": null,
+        "buddy_skill": null,
+        "personal": "catnap",
+        "color": "eagles",
+        "goal": [
+            "reason",
+            "faith"
+        ],
+        "job": [
+            "noble",
+            "monk",
+            "priest"
+        ],
+        "growth": {
+            "hp": 30,
+            "str": 30,
+            "mag": 45,
+            "dex": 40,
+            "spd": 40,
+            "lck": 45,
+            "def": 30,
+            "res": 45,
+            "cha": 20
+        },
+        "base": {
+            "hp": 24,
+            "str": 5,
+            "mag": 10,
+            "dex": 6,
+            "spd": 5,
+            "lck": 7,
+            "def": 5,
+            "res": 9,
+            "cha": 3
+        },
+        "rank_base": {
+            "reason": 40,
+            "faith": 180
+        },
+        "reason": {
+            "wind": 100,
+            "fire": 180,
+            "cuttinggale": 300,
+            "bolganone": 680,
+            "excalibur": 1320
+        },
+        "cap": {
+            "hp": 63,
+            "str": 42,
+            "mag": 66,
+            "dex": 56,
+            "spd": 55,
+            "lck": 63,
+            "def": 48,
+            "res": 65,
+            "cha": 43
+        },
+        "crest": {
+            "cethleann": false
+        },
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "physic": 300,
+            "restore": 680,
+            "warp": 1320
+        },
+        "art": {},
+        "ability": {
+            "authority": {
+                "battalionrenewal": 300
+            }
+        },
+        "rank_growth": {
+            "axe": "weak",
+            "brawling": "weak",
+            "reason": "strong",
+            "faith": "strong"
+        },
+        "portrait_skip": false
+    },
+    "lorenz": {
+        "name": "Lorenz",
+        "chapter": 1,
+        "skip_lvl": 2,
+        "portrait": "lorenz.png",
+        "buddy_rank": null,
+        "buddy_skill": null,
+        "personal": "distinguishedhouse",
+        "color": "deer",
+        "goal": [
+            "lance",
+            "reason"
+        ],
+        "job": [
+            "noble",
+            "soldier",
+            "cavalier"
+        ],
+        "growth": {
+            "hp": 55,
+            "str": 40,
+            "mag": 40,
+            "dex": 45,
+            "spd": 40,
+            "lck": 25,
+            "def": 30,
+            "res": 40,
+            "cha": 35
+        },
+        "base": {
+            "hp": 28,
+            "str": 8,
+            "mag": 7,
+            "dex": 6,
+            "spd": 7,
+            "lck": 5,
+            "def": 6,
+            "res": 6,
+            "cha": 3
+        },
+        "rank_base": {
+            "lance": 100,
+            "reason": 40,
+            "riding": 100
+        },
+        "reason": {
+            "fire": 100,
+            "sagittae": 300,
+            "ragnarok": 680,
+            "agneasarrow": 1320
+        },
+        "cap": {
+            "hp": 99,
+            "str": 58,
+            "mag": 57,
+            "dex": 62,
+            "spd": 57,
+            "lck": 48,
+            "def": 55,
+            "res": 56,
+            "cha": 46
+        },
+        "crest": {
+            "gloucester": false
+        },
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "recover": 300,
+            "ward": 680
+        },
+        "art": {
+            "lance": {
+                "frozenlance": 460
+            }
+        },
+        "ability": {
+            "authority": {
+                "battalionvantage": 300
+            }
+        },
+        "rank_growth": {
+            "lance": "strong",
+            "brawling": "weak",
+            "reason": "strong",
+            "riding": "strong"
+        },
+        "portrait_skip": false
+    },
+    "lysithea": {
+        "name": "Lysithea",
+        "chapter": 1,
+        "skip_lvl": 3,
+        "portrait": "lysithea.png",
+        "buddy_rank": "sword",
+        "buddy_skill": "soulblade",
+        "personal": "mastermind",
+        "color": "deer",
+        "goal": [
+            "reason",
+            "authority"
+        ],
+        "job": [
+            "noble",
+            "monk",
+            "mage"
+        ],
+        "growth": {
+            "hp": 20,
+            "str": 15,
+            "mag": 60,
+            "dex": 60,
+            "spd": 50,
+            "lck": 15,
+            "def": 10,
+            "res": 25,
+            "cha": 25
+        },
+        "base": {
+            "hp": 22,
+            "str": 4,
+            "mag": 11,
+            "dex": 7,
+            "spd": 7,
+            "lck": 4,
+            "def": 3,
+            "res": 4,
+            "cha": 5
+        },
+        "rank_base": {
+            "reason": 100,
+            "faith": 40,
+            "authority": 40
+        },
+        "reason": {
+            "miasmadelta": 100,
+            "swarmzeta": 180,
+            "lunalambda": 300,
+            "darkspikest": 680,
+            "hadesomega": 1320
+        },
+        "cap": {
+            "hp": 48,
+            "str": 30,
+            "mag": 86,
+            "dex": 82,
+            "spd": 69,
+            "lck": 40,
+            "def": 36,
+            "res": 41,
+            "cha": 44
+        },
+        "crest": {
+            "charon": false,
+            "gloucester": true
+        },
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "seraphim": 300,
+            "warp": 680,
+            "abraxas": 1320
+        },
+        "art": {},
+        "ability": {
+            "authority": {
+                "battaliondesperation": 300
+            }
+        },
+        "rank_growth": {
+            "sword": "weak",
+            "lance": "weak",
+            "axe": "weak",
+            "reason": "strong",
+            "faith": "strong",
+            "authority": "strong",
+            "armor": "weak"
+        },
+        "portrait_skip": false
+    },
+    "manuela": {
+        "name": "Manuela",
+        "chapter": 8,
+        "skip_lvl": 1,
+        "portrait": "manuela.png",
+        "buddy_rank": null,
+        "buddy_skill": null,
+        "personal": "infirmarymaster",
+        "color": "church",
+        "goal": [
+            "sword",
+            "faith"
+        ],
+        "job": [
+            "priest",
+            "priest",
+            "priest"
+        ],
+        "growth": {
+            "hp": 50,
+            "str": 35,
+            "mag": 35,
+            "dex": 40,
+            "spd": 60,
+            "lck": 35,
+            "def": 30,
+            "res": 25,
+            "cha": 50
+        },
+        "base": {
+            "hp": 26,
+            "str": 10,
+            "mag": 8,
+            "dex": 6,
+            "spd": 8,
+            "lck": 6,
+            "def": 5,
+            "res": 4,
+            "cha": 7
+        },
+        "rank_base": {
+            "sword": 100,
+            "faith": 300,
+            "flying": 100
+        },
+        "reason": {
+            "thunder": 100,
+            "bolganone": 300,
+            "bolting": 1320
+        },
+        "cap": {
+            "hp": 91,
+            "str": 53,
+            "mag": 48,
+            "dex": 56,
+            "spd": 83,
+            "lck": 52,
+            "def": 42,
+            "res": 44,
+            "cha": 69
+        },
+        "crest": {},
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "ward": 300,
+            "silence": 680,
+            "warp": 1320
+        },
+        "art": {
+            "sword": {
+                "hexblade": 460
+            }
+        },
+        "ability": {
+            "authority": {
+                "rallycharm": 100,
+                "battalionrenewal": 300
+            }
+        },
+        "rank_growth": {
+            "sword": "strong",
+            "reason": "weak",
+            "faith": "strong",
+            "armor": "weak",
+            "flying": "strong"
+        },
+        "portrait_skip": false
+    },
+    "marianne": {
+        "name": "Marianne",
+        "chapter": 1,
+        "skip_lvl": 1,
+        "portrait": "marianne.png",
+        "buddy_rank": "lance",
+        "buddy_skill": "frozenlance",
+        "personal": "animalfriend",
+        "color": "deer",
+        "goal": [
+            "sword",
+            "faith"
+        ],
+        "job": [
+            "noble",
+            "monk",
+            "priest"
+        ],
+        "growth": {
+            "hp": 35,
+            "str": 20,
+            "mag": 50,
+            "dex": 40,
+            "spd": 40,
+            "lck": 35,
+            "def": 15,
+            "res": 45,
+            "cha": 40
+        },
+        "base": {
+            "hp": 23,
+            "str": 5,
+            "mag": 11,
+            "dex": 6,
+            "spd": 7,
+            "lck": 6,
+            "def": 4,
+            "res": 8,
+            "cha": 7
+        },
+        "rank_base": {
+            "sword": 40,
+            "faith": 180
+        },
+        "reason": {
+            "blizzard": 100,
+            "thoron": 300,
+            "cuttinggale": 680,
+            "fimbulvetr": 1320
+        },
+        "cap": {
+            "hp": 68,
+            "str": 30,
+            "mag": 73,
+            "dex": 56,
+            "spd": 57,
+            "lck": 49,
+            "def": 39,
+            "res": 64,
+            "cha": 57
+        },
+        "crest": {
+            "beast": false
+        },
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "physic": 300,
+            "silence": 680,
+            "aura": 1320
+        },
+        "art": {
+            "sword": {
+                "soulblade": 460
+            }
+        },
+        "ability": {
+            "authority": {
+                "battalionrenewal": 300
+            }
+        },
+        "rank_growth": {
+            "sword": "strong",
+            "brawling": "weak",
+            "faith": "strong",
+            "armor": "weak",
+            "riding": "strong",
+            "flying": "strong"
+        },
+        "portrait_skip": false
+    },
+    "mercedes": {
+        "name": "Mercedes",
+        "chapter": 1,
+        "skip_lvl": 1,
+        "portrait": "mercedes.png",
+        "buddy_rank": "bow",
+        "buddy_skill": "waningshot",
+        "personal": "livetoserve",
+        "color": "lions",
+        "goal": [
+            "reason",
+            "faith"
+        ],
+        "job": [
+            "commoner",
+            "monk",
+            "priest"
+        ],
+        "growth": {
+            "hp": 30,
+            "str": 25,
+            "mag": 50,
+            "dex": 45,
+            "spd": 40,
+            "lck": 30,
+            "def": 25,
+            "res": 45,
+            "cha": 40
+        },
+        "base": {
+            "hp": 25,
+            "str": 6,
+            "mag": 10,
+            "dex": 6,
+            "spd": 8,
+            "lck": 5,
+            "def": 5,
+            "res": 9,
+            "cha": 8
+        },
+        "rank_base": {
+            "reason": 40,
+            "faith": 100
+        },
+        "reason": {
+            "fire": 100,
+            "thunder": 180,
+            "bolganone": 300,
+            "ragnarok": 1320
+        },
+        "cap": {
+            "hp": 64,
+            "str": 37,
+            "mag": 72,
+            "dex": 62,
+            "spd": 58,
+            "lck": 54,
+            "def": 44,
+            "res": 65,
+            "cha": 58
+        },
+        "crest": {
+            "lamine": false
+        },
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "physic": 300,
+            "restore": 680,
+            "fortify": 1320
+        },
+        "art": {},
+        "ability": {
+            "authority": {
+                "battalionrenewal": 300
+            }
+        },
+        "rank_growth": {
+            "sword": "weak",
+            "lance": "weak",
+            "axe": "weak",
+            "reason": "strong",
+            "faith": "strong",
+            "armor": "weak"
+        },
+        "portrait_skip": false
+    },
+    "petra": {
+        "name": "Petra",
+        "chapter": 1,
+        "skip_lvl": 3,
+        "portrait": "petra.png",
+        "buddy_rank": null,
+        "buddy_skill": null,
+        "personal": "huntersboon",
+        "color": "eagles",
+        "goal": [
+            "sword",
+            "axe"
+        ],
+        "job": [
+            "commoner",
+            "myrmidon",
+            "thief"
+        ],
+        "growth": {
+            "hp": 45,
+            "str": 40,
+            "mag": 25,
+            "dex": 50,
+            "spd": 60,
+            "lck": 45,
+            "def": 30,
+            "res": 15,
+            "cha": 35
+        },
+        "base": {
+            "hp": 25,
+            "str": 9,
+            "mag": 3,
+            "dex": 7,
+            "spd": 10,
+            "lck": 7,
+            "def": 5,
+            "res": 2,
+            "cha": 6
+        },
+        "rank_base": {
+            "sword": 180,
+            "axe": 40,
+            "bow": 40,
+            "flying": 100
+        },
+        "reason": {
+            "wind": 100,
+            "sagittae": 300
+        },
+        "cap": {
+            "hp": 83,
+            "str": 59,
+            "mag": 36,
+            "dex": 69,
+            "spd": 85,
+            "lck": 63,
+            "def": 42,
+            "res": 35,
+            "cha": 63
+        },
+        "crest": {},
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "restore": 300
+        },
+        "art": {
+            "sword": {
+                "baneofmonsters": 460,
+                "finesseblade": 1320
+            },
+            "axe": {
+                "wildabandon": 460,
+                "diamondaxe": 1320
+            },
+            "bow": {
+                "waningshot": 460
+            }
+        },
+        "ability": {
+            "authority": {
+                "battalionwrath": 300
+            }
+        },
+        "rank_growth": {
+            "sword": "strong",
+            "axe": "strong",
+            "bow": "strong",
+            "reason": "weak",
+            "faith": "weak",
+            "flying": "strong"
+        },
+        "portrait_skip": false
+    },
+    "raphael": {
+        "name": "Raphael",
+        "chapter": 1,
+        "skip_lvl": 2,
+        "portrait": "raphael.png",
+        "buddy_rank": null,
+        "buddy_skill": null,
+        "personal": "goodybasket",
+        "color": "deer",
+        "goal": [
+            "axe",
+            "brawling"
+        ],
+        "job": [
+            "commoner",
+            "fighter",
+            "brawler"
+        ],
+        "growth": {
+            "hp": 65,
+            "str": 50,
+            "mag": 15,
+            "dex": 35,
+            "spd": 15,
+            "lck": 35,
+            "def": 45,
+            "res": 10,
+            "cha": 25
+        },
+        "base": {
+            "hp": 30,
+            "str": 11,
+            "mag": 3,
+            "dex": 5,
+            "spd": 6,
+            "lck": 6,
+            "def": 7,
+            "res": 1,
+            "cha": 4
+        },
+        "rank_base": {
+            "axe": 40,
+            "brawling": 100,
+            "armor": 100
+        },
+        "reason": {
+            "fire": 100,
+            "bolganone": 300
+        },
+        "cap": {
+            "hp": 114,
+            "str": 73,
+            "mag": 31,
+            "dex": 48,
+            "spd": 33,
+            "lck": 49,
+            "def": 63,
+            "res": 36,
+            "cha": 51
+        },
+        "crest": {},
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "recover": 300
+        },
+        "art": {
+            "axe": {
+                "wildabandon": 460
+            },
+            "brawling": {
+                "monstercrusher": 460,
+                "drainingblow": 1320
+            }
+        },
+        "ability": {
+            "authority": {
+                "rallystrength": 100,
+                "battalionwrath": 300
+            }
+        },
+        "rank_growth": {
+            "axe": "strong",
+            "bow": "weak",
+            "brawling": "strong",
+            "reason": "weak",
+            "armor": "strong",
+            "riding": "weak"
+        },
+        "portrait_skip": false
+    },
+    "rhea": {
+        "name": "Rhea",
+        "chapter": 1,
+        "skip_lvl": 0,
+        "portrait": "rhea.png",
+        "buddy_rank": null,
+        "buddy_skill": null,
+        "personal": "sacredpower",
+        "color": "church",
+        "goal": [],
+        "job": [
+            "archbishop",
+            "archbishop",
+            "archbishop"
+        ],
+        "growth": {
+            "hp": 45,
+            "str": 35,
+            "mag": 45,
+            "dex": 40,
+            "spd": 40,
+            "lck": 40,
+            "def": 30,
+            "res": 40,
+            "cha": 70
+        },
+        "base": {
+            "hp": 28,
+            "str": 9,
+            "mag": 9,
+            "dex": 6,
+            "spd": 6,
+            "lck": 6,
+            "def": 6,
+            "res": 10,
+            "cha": 10
+        },
+        "rank_base": {},
+        "reason": {
+            "fire": 40,
+            "bolganone": 100,
+            "ragnarok": 1320,
+            "agneasarrow": 1320
+        },
+        "cap": {
+            "hp": 86,
+            "str": 52,
+            "mag": 65,
+            "dex": 56,
+            "spd": 56,
+            "lck": 56,
+            "def": 43,
+            "res": 60,
+            "cha": 97
+        },
+        "crest": {
+            "seiros": true
+        },
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "recover": 300
+        },
+        "art": {},
+        "ability": {},
+        "rank_growth": {
+            "sword": "strong",
+            "faith": "strong"
+        },
+        "portrait_skip": false
+    },
+    "seteth": {
+        "name": "Seteth",
+        "chapter": 12,
+        "skip_lvl": 1,
+        "portrait": "seteth.png",
+        "buddy_rank": null,
+        "buddy_skill": null,
+        "personal": "guardian",
+        "color": "church",
+        "goal": [
+            "lance",
+            "authority"
+        ],
+        "job": [
+            "wyvernrider",
+            "wyvernrider",
+            "wyvernrider"
+        ],
+        "growth": {
+            "hp": 50,
+            "str": 45,
+            "mag": 35,
+            "dex": 50,
+            "spd": 50,
+            "lck": 25,
+            "def": 30,
+            "res": 25,
+            "cha": 45
+        },
+        "base": {
+            "hp": 27,
+            "str": 9,
+            "mag": 8,
+            "dex": 8,
+            "spd": 5,
+            "lck": 6,
+            "def": 6,
+            "res": 4,
+            "cha": 9
+        },
+        "rank_base": {
+            "sword": 180,
+            "lance": 300,
+            "axe": 300,
+            "authority": 300,
+            "flying": 300
+        },
+        "reason": {
+            "wind": 100,
+            "cuttinggale": 300,
+            "bolganone": 680,
+            "excalibur": 1320
+        },
+        "cap": {
+            "hp": 92,
+            "str": 65,
+            "mag": 51,
+            "dex": 70,
+            "spd": 67,
+            "lck": 49,
+            "def": 43,
+            "res": 41,
+            "cha": 65
+        },
+        "crest": {
+            "cichol": true
+        },
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "recover": 300
+        },
+        "art": {
+            "sword": {
+                "hazeslice": 460
+            },
+            "axe": {
+                "focusedstrike": 460,
+                "diamondaxe": 1320
+            },
+            "lance": {
+                "monsterpiercer": 460,
+                "swiftstrikes": 1320
+            }
+        },
+        "ability": {
+            "authority": {
+                "rallydefense": 100,
+                "battalionwrath": 300,
+                "modelleader": 460,
+                "battaliondesperation": 1320,
+                "rallyresistance": 2520
+            }
+        },
+        "rank_growth": {
+            "sword": "strong",
+            "lance": "strong",
+            "axe": "strong",
+            "authority": "strong",
+            "riding": "weak",
+            "flying": "strong"
+        },
+        "portrait_skip": false
+    },
+    "shamir": {
+        "name": "Shamir",
+        "chapter": 6,
+        "skip_lvl": 1,
+        "portrait": "shamir.png",
+        "buddy_rank": null,
+        "buddy_skill": null,
+        "personal": "survivalinstinct",
+        "color": "church",
+        "goal": [
+            "lance",
+            "bow"
+        ],
+        "job": [
+            "sniper",
+            "sniper",
+            "sniper"
+        ],
+        "growth": {
+            "hp": 35,
+            "str": 40,
+            "mag": 20,
+            "dex": 55,
+            "spd": 40,
+            "lck": 55,
+            "def": 20,
+            "res": 15,
+            "cha": 30
+        },
+        "base": {
+            "hp": 26,
+            "str": 8,
+            "mag": 4,
+            "dex": 7,
+            "spd": 6,
+            "lck": 8,
+            "def": 5,
+            "res": 2,
+            "cha": 6
+        },
+        "rank_base": {
+            "lance": 180,
+            "bow": 680,
+            "authority": 100
+        },
+        "reason": {
+            "blizzard": 100,
+            "wind": 180,
+            "sagittae": 300,
+            "fimbulvetr": 1320
+        },
+        "cap": {
+            "hp": 71,
+            "str": 58,
+            "mag": 35,
+            "dex": 75,
+            "spd": 56,
+            "lck": 76,
+            "def": 37,
+            "res": 35,
+            "cha": 43
+        },
+        "crest": {},
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "physic": 300
+        },
+        "art": {
+            "lance": {
+                "hitandrun": 460,
+                "lancejab": 1320
+            },
+            "bow": {
+                "heavydraw": 460,
+                "monsterblast": 1320
+            }
+        },
+        "ability": {
+            "authority": {
+                "battaliondesperation": 300
+            }
+        },
+        "rank_growth": {
+            "lance": "strong",
+            "bow": "strong",
+            "faith": "weak"
+        },
+        "portrait_skip": false
+    },
+    "sothis": {
+        "name": "Sothis",
+        "chapter": 1,
+        "skip_lvl": 0,
+        "portrait": "sothis.png",
+        "buddy_rank": null,
+        "buddy_skill": null,
+        "goal": [],
+        "job": [
+            "commoner",
+            "commoner",
+            "commoner"
+        ],
+        "growth": {
+            "hp": 35,
+            "str": 30,
+            "mag": 65,
+            "dex": 40,
+            "spd": 40,
+            "lck": 65,
+            "def": 30,
+            "res": 60,
+            "cha": 70
+        },
+        "base": {
+            "hp": 26,
+            "str": 6,
+            "mag": 12,
+            "dex": 6,
+            "spd": 6,
+            "lck": 8,
+            "def": 6,
+            "res": 10,
+            "cha": 10
+        },
+        "rank_base": {},
+        "reason": {},
+        "cap": {
+            "hp": 71,
+            "str": 43,
+            "mag": 93,
+            "dex": 56,
+            "spd": 56,
+            "lck": 89,
+            "def": 43,
+            "res": 85,
+            "cha": 99
+        },
+        "crest": {},
+        "faith": {},
+        "art": {},
+        "ability": {},
+        "rank_growth": {},
+        "color": false,
+        "portrait_skip": false,
+        "personal": false
+    },
+    "sylvain": {
+        "name": "Sylvain",
+        "chapter": 1,
+        "skip_lvl": 2,
+        "portrait": "sylvain.png",
+        "buddy_rank": "reason",
+        "buddy_skill": "blackmagicavo20",
+        "personal": "philanderer",
+        "color": "lions",
+        "goal": [
+            "lance",
+            "axe"
+        ],
+        "job": [
+            "noble",
+            "soldier",
+            "cavalier"
+        ],
+        "growth": {
+            "hp": 55,
+            "str": 45,
+            "mag": 30,
+            "dex": 35,
+            "spd": 50,
+            "lck": 35,
+            "def": 40,
+            "res": 25,
+            "cha": 40
+        },
+        "base": {
+            "hp": 27,
+            "str": 9,
+            "mag": 5,
+            "dex": 5,
+            "spd": 8,
+            "lck": 6,
+            "def": 6,
+            "res": 2,
+            "cha": 7
+        },
+        "rank_base": {
+            "lance": 100,
+            "axe": 100,
+            "riding": 100
+        },
+        "reason": {
+            "fire": 100,
+            "bolganone": 300,
+            "sagittae": 680,
+            "ragnarok": 1320
+        },
+        "cap": {
+            "hp": 98,
+            "str": 65,
+            "mag": 42,
+            "dex": 48,
+            "spd": 70,
+            "lck": 49,
+            "def": 56,
+            "res": 38,
+            "cha": 57
+        },
+        "crest": {
+            "gautier": false
+        },
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "physic": 300,
+            "seraphim": 680
+        },
+        "art": {
+            "lance": {
+                "monsterpiercer": 460,
+                "swiftstrikes": 1320
+            },
+            "axe": {
+                "spike": 460,
+                "lightningaxe": 1320
+            }
+        },
+        "ability": {
+            "authority": {
+                "battalionvantage": 300
+            }
+        },
+        "rank_growth": {
+            "lance": "strong",
+            "axe": "strong",
+            "bow": "weak",
+            "riding": "strong"
+        },
+        "portrait_skip": false
+    },
+    "yuri": {
+        "name": "Yuri",
+        "chapter": 2,
+        "skip_lvl": 0,
+        "portrait": "yuri.png",
+        "buddy_rank": "bow",
+        "buddy_skill": "deadeye",
+        "personal": "honorablespirit",
+        "color": "wolves",
+        "goal": [
+            "sword",
+            "authority"
+        ],
+        "job": [
+            "commoner",
+            "myrmidon",
+            "thief"
+        ],
+        "growth": {
+            "hp": 30,
+            "str": 40,
+            "mag": 35,
+            "dex": 40,
+            "spd": 65,
+            "lck": 45,
+            "def": 30,
+            "res": 35,
+            "cha": 50
+        },
+        "base": {
+            "hp": 24,
+            "str": 10,
+            "mag": 6,
+            "dex": 7,
+            "spd": 9,
+            "lck": 7,
+            "def": 5,
+            "res": 7,
+            "cha": 8
+        },
+        "rank_base": {
+            "sword": 100,
+            "reason": 40,
+            "faith": 100,
+            "authority": 100
+        },
+        "reason": {
+            "wind": 100,
+            "cuttinggale": 300,
+            "sagittae": 680,
+            "excalibur": 1320
+        },
+        "cap": {
+            "hp": 64,
+            "str": 59,
+            "mag": 55,
+            "dex": 68,
+            "spd": 92,
+            "lck": 77,
+            "def": 48,
+            "res": 51,
+            "cha": 71
+        },
+        "crest": {
+            "aubin": true
+        },
+        "faith": {
+            "heal": 100,
+            "nosferatu": 180,
+            "recover": 300,
+            "silence": 680,
+            "aura": 1320
+        },
+        "art": {
+            "sword": {
+                "windsweep": 460,
+                "finesseblade": 1320
+            }
+        },
+        "ability": {
+            "authority": {
+                "battalionvantage": 300,
+                "modelleader": 460
+            }
+        },
+        "rank_growth": {
+            "sword": "strong",
+            "lance": "weak",
+            "axe": "weak",
+            "reason": "strong",
+            "faith": "strong",
+            "authority": "strong",
+            "riding": "weak",
+            "flying": "weak"
+        },
+        "portrait_skip": false
+    }
+}

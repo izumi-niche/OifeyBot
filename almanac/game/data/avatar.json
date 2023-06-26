@@ -1,0 +1,546 @@
+{
+    "fe13": {
+        "base": {
+            "hp": {
+                "boon": 5,
+                "bane": -3
+            },
+            "str": {
+                "boon": 2,
+                "bane": -1
+            },
+            "mag": {
+                "boon": 2,
+                "bane": -1
+            },
+            "skl": {
+                "boon": 2,
+                "bane": -1
+            },
+            "spd": {
+                "boon": 2,
+                "bane": -1
+            },
+            "lck": {
+                "boon": 4,
+                "bane": -2
+            },
+            "def": {
+                "boon": 2,
+                "bane": -1
+            },
+            "res": {
+                "boon": 2,
+                "bane": -1
+            }
+        },
+        "growth": {
+            "hp": {
+                "hp": {
+                    "boon": 30,
+                    "bane": -20
+                },
+                "def": {
+                    "boon": 5,
+                    "bane": -5
+                },
+                "res": {
+                    "boon": 5,
+                    "bane": -5
+                }
+            },
+            "str": {
+                "str": {
+                    "boon": 15,
+                    "bane": -10
+                },
+                "skl": {
+                    "boon": 5,
+                    "bane": -5
+                },
+                "def": {
+                    "boon": 5,
+                    "bane": -5
+                }
+            },
+            "mag": {
+                "mag": {
+                    "boon": 15,
+                    "bane": -10
+                },
+                "spd": {
+                    "boon": 5,
+                    "bane": -5
+                },
+                "res": {
+                    "boon": 5,
+                    "bane": -5
+                }
+            },
+            "skl": {
+                "skl": {
+                    "boon": 15,
+                    "bane": -10
+                },
+                "str": {
+                    "boon": 5,
+                    "bane": -5
+                },
+                "def": {
+                    "boon": 5,
+                    "bane": -5
+                }
+            },
+            "spd": {
+                "spd": {
+                    "boon": 15,
+                    "bane": -10
+                },
+                "skl": {
+                    "boon": 5,
+                    "bane": -5
+                },
+                "lck": {
+                    "boon": 5,
+                    "bane": -5
+                }
+            },
+            "lck": {
+                "lck": {
+                    "boon": 15,
+                    "bane": -10
+                },
+                "mag": {
+                    "boon": 5,
+                    "bane": -5
+                },
+                "str": {
+                    "boon": 5,
+                    "bane": -5
+                }
+            },
+            "def": {
+                "def": {
+                    "boon": 15,
+                    "bane": -10
+                },
+                "lck": {
+                    "boon": 5,
+                    "bane": -5
+                },
+                "res": {
+                    "boon": 5,
+                    "bane": -5
+                }
+            },
+            "res": {
+                "res": {
+                    "boon": 15,
+                    "bane": -10
+                },
+                "mag": {
+                    "boon": 5,
+                    "bane": -5
+                },
+                "spd": {
+                    "boon": 5,
+                    "bane": -5
+                }
+            }
+        },
+        "cap": {
+            "hp": {
+                "str": {
+                    "boon": 1,
+                    "bane": -1
+                },
+                "mag": {
+                    "boon": 1,
+                    "bane": -1
+                },
+                "lck": {
+                    "boon": 2,
+                    "bane": -1
+                },
+                "def": {
+                    "boon": 2,
+                    "bane": -1
+                },
+                "res": {
+                    "boon": 2,
+                    "bane": -1
+                }
+            },
+            "str": {
+                "str": {
+                    "boon": 4,
+                    "bane": -3
+                },
+                "skl": {
+                    "boon": 2,
+                    "bane": -1
+                },
+                "def": {
+                    "boon": 2,
+                    "bane": -1
+                }
+            },
+            "mag": {
+                "mag": {
+                    "boon": 4,
+                    "bane": -3
+                },
+                "spd": {
+                    "boon": 2,
+                    "bane": -1
+                },
+                "res": {
+                    "boon": 2,
+                    "bane": -1
+                }
+            },
+            "skl": {
+                "skl": {
+                    "boon": 4,
+                    "bane": -3
+                },
+                "str": {
+                    "boon": 2,
+                    "bane": -1
+                },
+                "def": {
+                    "boon": 2,
+                    "bane": -1
+                }
+            },
+            "spd": {
+                "spd": {
+                    "boon": 4,
+                    "bane": -3
+                },
+                "skl": {
+                    "boon": 2,
+                    "bane": -1
+                },
+                "lck": {
+                    "boon": 2,
+                    "bane": -1
+                }
+            },
+            "lck": {
+                "lck": {
+                    "boon": 4,
+                    "bane": -3
+                },
+                "mag": {
+                    "boon": 2,
+                    "bane": -1
+                },
+                "str": {
+                    "boon": 2,
+                    "bane": -1
+                }
+            },
+            "def": {
+                "def": {
+                    "boon": 4,
+                    "bane": -3
+                },
+                "lck": {
+                    "boon": 2,
+                    "bane": -1
+                },
+                "res": {
+                    "boon": 2,
+                    "bane": -1
+                }
+            },
+            "res": {
+                "res": {
+                    "boon": 4,
+                    "bane": -3
+                },
+                "mag": {
+                    "boon": 2,
+                    "bane": -1
+                },
+                "spd": {
+                    "boon": 2,
+                    "bane": -1
+                }
+            }
+        }
+    },
+    "fe14": {
+        "base": {
+            "hp": {
+                "boon": 3,
+                "bane": -2
+            },
+            "str": {
+                "boon": 2,
+                "bane": -1
+            },
+            "mag": {
+                "boon": 3,
+                "bane": -2
+            },
+            "skl": {
+                "boon": 3,
+                "bane": -2
+            },
+            "spd": {
+                "boon": 2,
+                "bane": -1
+            },
+            "lck": {
+                "boon": 3,
+                "bane": -2
+            },
+            "def": {
+                "boon": 1,
+                "bane": -1
+            },
+            "res": {
+                "boon": 1,
+                "bane": -1
+            }
+        },
+        "growth": {
+            "hp": {
+                "hp": {
+                    "boon": 15,
+                    "bane": -10
+                },
+                "def": {
+                    "boon": 5,
+                    "bane": -5
+                },
+                "res": {
+                    "boon": 5,
+                    "bane": -5
+                }
+            },
+            "str": {
+                "str": {
+                    "boon": 15,
+                    "bane": -10
+                },
+                "skl": {
+                    "boon": 5,
+                    "bane": -5
+                },
+                "def": {
+                    "boon": 5,
+                    "bane": -5
+                }
+            },
+            "mag": {
+                "mag": {
+                    "boon": 20,
+                    "bane": -15
+                },
+                "spd": {
+                    "boon": 5,
+                    "bane": -5
+                },
+                "res": {
+                    "boon": 5,
+                    "bane": -5
+                }
+            },
+            "skl": {
+                "skl": {
+                    "boon": 25,
+                    "bane": -20
+                },
+                "str": {
+                    "boon": 5,
+                    "bane": -5
+                },
+                "def": {
+                    "boon": 5,
+                    "bane": -5
+                }
+            },
+            "spd": {
+                "spd": {
+                    "boon": 15,
+                    "bane": -10
+                },
+                "skl": {
+                    "boon": 5,
+                    "bane": -5
+                },
+                "lck": {
+                    "boon": 5,
+                    "bane": -5
+                }
+            },
+            "lck": {
+                "lck": {
+                    "boon": 25,
+                    "bane": -20
+                },
+                "mag": {
+                    "boon": 5,
+                    "bane": -5
+                },
+                "str": {
+                    "boon": 5,
+                    "bane": -5
+                }
+            },
+            "def": {
+                "def": {
+                    "boon": 10,
+                    "bane": -10
+                },
+                "lck": {
+                    "boon": 5,
+                    "bane": -5
+                },
+                "res": {
+                    "boon": 5,
+                    "bane": -5
+                }
+            },
+            "res": {
+                "res": {
+                    "boon": 10,
+                    "bane": -10
+                },
+                "mag": {
+                    "boon": 5,
+                    "bane": -5
+                },
+                "spd": {
+                    "boon": 5,
+                    "bane": -5
+                }
+            }
+        },
+        "cap": {
+            "hp": {
+                "str": {
+                    "boon": 1,
+                    "bane": -1
+                },
+                "mag": {
+                    "boon": 1,
+                    "bane": -1
+                },
+                "lck": {
+                    "boon": 2,
+                    "bane": -1
+                },
+                "def": {
+                    "boon": 2,
+                    "bane": -1
+                },
+                "res": {
+                    "boon": 2,
+                    "bane": -1
+                }
+            },
+            "str": {
+                "str": {
+                    "boon": 4,
+                    "bane": -3
+                },
+                "skl": {
+                    "boon": 2,
+                    "bane": -1
+                },
+                "def": {
+                    "boon": 2,
+                    "bane": -1
+                }
+            },
+            "mag": {
+                "mag": {
+                    "boon": 4,
+                    "bane": -3
+                },
+                "spd": {
+                    "boon": 2,
+                    "bane": -1
+                },
+                "res": {
+                    "boon": 2,
+                    "bane": -1
+                }
+            },
+            "skl": {
+                "skl": {
+                    "boon": 4,
+                    "bane": -3
+                },
+                "str": {
+                    "boon": 2,
+                    "bane": -1
+                },
+                "def": {
+                    "boon": 2,
+                    "bane": -1
+                }
+            },
+            "spd": {
+                "spd": {
+                    "boon": 4,
+                    "bane": -3
+                },
+                "skl": {
+                    "boon": 2,
+                    "bane": -1
+                },
+                "lck": {
+                    "boon": 2,
+                    "bane": -1
+                }
+            },
+            "lck": {
+                "lck": {
+                    "boon": 4,
+                    "bane": -3
+                },
+                "mag": {
+                    "boon": 2,
+                    "bane": -1
+                },
+                "str": {
+                    "boon": 2,
+                    "bane": -1
+                }
+            },
+            "def": {
+                "def": {
+                    "boon": 4,
+                    "bane": -3
+                },
+                "lck": {
+                    "boon": 2,
+                    "bane": -1
+                },
+                "res": {
+                    "boon": 2,
+                    "bane": -1
+                }
+            },
+            "res": {
+                "res": {
+                    "boon": 4,
+                    "bane": -3
+                },
+                "mag": {
+                    "boon": 2,
+                    "bane": -1
+                },
+                "spd": {
+                    "boon": 2,
+                    "bane": -1
+                }
+            }
+        }
+    }
+}

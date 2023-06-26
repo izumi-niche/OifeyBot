@@ -1,0 +1,3769 @@
+{
+    "slimsword": {
+        "name": "Slim Sword",
+        "type": "sword",
+        "desc": false,
+        "stats": {
+            "rank": "E",
+            "mt": 2,
+            "hit": 100,
+            "wt": 3,
+            "crit": 5,
+            "rng": 1,
+            "uses": 35,
+            "price": 560,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "bronzesword": {
+        "name": "Bronze Sword",
+        "type": "sword",
+        "desc": "Cannot crit.",
+        "stats": {
+            "rank": "E",
+            "mt": 3,
+            "hit": 95,
+            "wt": 5,
+            "rng": 1,
+            "uses": 50,
+            "price": 350,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "ironsword": {
+        "name": "Iron Sword",
+        "type": "sword",
+        "desc": false,
+        "stats": {
+            "rank": "D",
+            "mt": 6,
+            "hit": 90,
+            "wt": 7,
+            "rng": 1,
+            "uses": 50,
+            "price": 500,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "veninedge": {
+        "name": "Venin Edge",
+        "type": "sword",
+        "desc": "Inflicts poison on hit",
+        "stats": {
+            "rank": "D",
+            "mt": 6,
+            "hit": 90,
+            "wt": 7,
+            "rng": 1,
+            "uses": 50,
+            "price": 300,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "windedge": {
+        "name": "Wind Edge",
+        "type": "sword",
+        "desc": false,
+        "stats": {
+            "rank": "D",
+            "mt": 6,
+            "hit": 60,
+            "wt": 10,
+            "rng": "1-2",
+            "uses": 20,
+            "price": 700,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "steelsword": {
+        "name": "Steel Sword",
+        "type": "sword",
+        "desc": false,
+        "stats": {
+            "rank": "C",
+            "mt": 9,
+            "hit": 85,
+            "wt": 11,
+            "rng": 1,
+            "uses": 40,
+            "price": 800,
+            "wex": 3
+        },
+        "weapon": true
+    },
+    "bravesword": {
+        "name": "Brave Sword",
+        "type": "sword",
+        "desc": "Strikes twice.",
+        "stats": {
+            "rank": "C",
+            "mt": 9,
+            "hit": 90,
+            "wt": 9,
+            "rng": 1,
+            "uses": 40,
+            "price": 2800,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "ironblade": {
+        "name": "Iron Blade",
+        "type": "sword",
+        "desc": false,
+        "stats": {
+            "rank": "C",
+            "mt": 10,
+            "hit": 70,
+            "wt": 13,
+            "rng": 1,
+            "uses": 40,
+            "price": 800,
+            "wex": 3
+        },
+        "weapon": true
+    },
+    "wodao": {
+        "name": "Wo Dao",
+        "type": "sword",
+        "desc": false,
+        "stats": {
+            "rank": "B",
+            "mt": 7,
+            "hit": 90,
+            "wt": 7,
+            "crit": 20,
+            "rng": 1,
+            "uses": 30,
+            "price": 3000,
+            "wex": 3
+        },
+        "weapon": true
+    },
+    "killingedge": {
+        "name": "Killing Edge",
+        "type": "sword",
+        "desc": false,
+        "stats": {
+            "rank": "B",
+            "mt": 8,
+            "hit": 85,
+            "wt": 8,
+            "crit": 30,
+            "rng": 1,
+            "uses": 30,
+            "price": 3600,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "wyrmslayer": {
+        "name": "Wyrmslayer",
+        "type": "sword",
+        "desc": "Effective against dragons.",
+        "stats": {
+            "rank": "B",
+            "mt": 11,
+            "hit": 70,
+            "wt": 14,
+            "rng": 1,
+            "uses": 20,
+            "price": 3600,
+            "wex": 3
+        },
+        "weapon": true
+    },
+    "steelblade": {
+        "name": "Steel Blade",
+        "type": "sword",
+        "desc": false,
+        "stats": {
+            "rank": "B",
+            "mt": 13,
+            "hit": 65,
+            "wt": 17,
+            "rng": 1,
+            "uses": 35,
+            "price": 1400,
+            "wex": 4
+        },
+        "weapon": true
+    },
+    "stormsword": {
+        "name": "Storm Sword",
+        "type": "sword",
+        "desc": false,
+        "stats": {
+            "rank": "B",
+            "mt": 12,
+            "hit": 50,
+            "wt": 11,
+            "rng": "1-2",
+            "uses": 20,
+            "price": 4000,
+            "wex": 3
+        },
+        "weapon": true
+    },
+    "silversword": {
+        "name": "Silver Sword",
+        "type": "sword",
+        "desc": false,
+        "stats": {
+            "rank": "A",
+            "mt": 12,
+            "hit": 80,
+            "wt": 10,
+            "rng": 1,
+            "uses": 30,
+            "price": 1800,
+            "wex": 5
+        },
+        "weapon": true
+    },
+    "silverblade": {
+        "name": "Silver Blade",
+        "type": "sword",
+        "desc": false,
+        "stats": {
+            "rank": "A",
+            "mt": 16,
+            "hit": 60,
+            "wt": 16,
+            "rng": 1,
+            "uses": 30,
+            "price": 3600,
+            "wex": 5
+        },
+        "weapon": true
+    },
+    "tempestblade": {
+        "name": "Tempest Blade",
+        "type": "sword",
+        "desc": false,
+        "stats": {
+            "rank": "S",
+            "mt": 18,
+            "hit": 55,
+            "wt": 15,
+            "crit": 5,
+            "rng": "1-2",
+            "uses": 20,
+            "price": 10000,
+            "wex": 5
+        },
+        "weapon": true
+    },
+    "vaguekatti": {
+        "name": "Vague Katti",
+        "type": "sword",
+        "desc": "Def +3.",
+        "stats": {
+            "rank": "SS",
+            "mt": 20,
+            "hit": 95,
+            "wt": 10,
+            "crit": 5,
+            "rng": 1,
+            "uses": 50,
+            "price": 20000,
+            "wex": 6
+        },
+        "weapon": true
+    },
+    "alondite": {
+        "name": "Alondite",
+        "type": "sword",
+        "desc": "Def +5.",
+        "stats": {
+            "rank": "SS",
+            "mt": 18,
+            "hit": 80,
+            "wt": 20,
+            "crit": 5,
+            "rng": "1-2",
+            "wex": 8
+        },
+        "weapon": true
+    },
+    "ettard": {
+        "name": "Ettard",
+        "type": "sword",
+        "desc": "Ike only.",
+        "stats": {
+            "mt": 12,
+            "hit": 75,
+            "wt": 17,
+            "crit": 10,
+            "rng": 1,
+            "uses": 50,
+            "wex": 5
+        },
+        "weapon": true
+    },
+    "florete": {
+        "name": "Florete",
+        "type": "sword",
+        "desc": "Mist only.",
+        "stats": {
+            "mt": 14,
+            "hit": 95,
+            "wt": 5,
+            "crit": 15,
+            "rng": "1-2",
+            "uses": 45,
+            "price": 9000,
+            "wex": 4
+        },
+        "weapon": true
+    },
+    "caladbolg": {
+        "name": "Caladbolg",
+        "type": "sword",
+        "desc": "Edward only. Grants Luck +8.",
+        "stats": {
+            "mt": 15,
+            "hit": 85,
+            "wt": 8,
+            "crit": 5,
+            "rng": 1,
+            "uses": 40,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "amiti": {
+        "name": "Amiti",
+        "type": "sword",
+        "desc": "Elincia only. Strikes twice. Grants Defense +3 and Resistance +3.",
+        "stats": {
+            "mt": 15,
+            "hit": 90,
+            "wt": 10,
+            "rng": 1,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "ragnell": {
+        "name": "Ragnell",
+        "type": "sword",
+        "desc": "Ike only. Grants Defense +5.",
+        "stats": {
+            "mt": 18,
+            "hit": 80,
+            "wt": 20,
+            "crit": 5,
+            "rng": "1-2",
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "slimlance": {
+        "name": "Slim Lance",
+        "type": "lance",
+        "desc": false,
+        "stats": {
+            "rank": "E",
+            "mt": 3,
+            "hit": 95,
+            "wt": 4,
+            "crit": 5,
+            "rng": 1,
+            "uses": 35,
+            "price": 490,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "bronzelance": {
+        "name": "Bronze Lance",
+        "type": "lance",
+        "desc": "Cannot crit.",
+        "stats": {
+            "rank": "E",
+            "mt": 4,
+            "hit": 90,
+            "wt": 6,
+            "rng": 1,
+            "uses": 50,
+            "price": 450,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "ironlance": {
+        "name": "Iron Lance",
+        "type": "lance",
+        "desc": false,
+        "stats": {
+            "rank": "D",
+            "mt": 7,
+            "hit": 85,
+            "wt": 9,
+            "rng": 1,
+            "uses": 50,
+            "price": 600,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "veninlance": {
+        "name": "Venin Lance",
+        "type": "lance",
+        "desc": "Inflicts poison on hit",
+        "stats": {
+            "rank": "D",
+            "mt": 7,
+            "hit": 85,
+            "wt": 9,
+            "rng": 1,
+            "uses": 50,
+            "price": 350,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "javelin": {
+        "name": "Javelin",
+        "type": "lance",
+        "desc": false,
+        "stats": {
+            "rank": "D",
+            "mt": 7,
+            "hit": 65,
+            "wt": 11,
+            "rng": "1-2",
+            "uses": 20,
+            "price": 600,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "horseslayer": {
+        "name": "Horseslayer",
+        "type": "lance",
+        "desc": "Effective against cavalry.",
+        "stats": {
+            "rank": "D",
+            "mt": 12,
+            "hit": 65,
+            "wt": 15,
+            "rng": 1,
+            "uses": 20,
+            "price": 1300,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "steellance": {
+        "name": "Steel Lance",
+        "type": "lance",
+        "desc": false,
+        "stats": {
+            "rank": "C",
+            "mt": 10,
+            "hit": 80,
+            "wt": 13,
+            "rng": 1,
+            "uses": 40,
+            "price": 960,
+            "wex": 3
+        },
+        "weapon": true
+    },
+    "bravelance": {
+        "name": "Brave Lance",
+        "type": "lance",
+        "desc": "Strikes twice.",
+        "stats": {
+            "rank": "C",
+            "mt": 10,
+            "hit": 85,
+            "wt": 11,
+            "rng": 1,
+            "uses": 40,
+            "price": 2960,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "irongreatlance": {
+        "name": "Iron Greatlance",
+        "type": "lance",
+        "desc": false,
+        "stats": {
+            "rank": "C",
+            "mt": 11,
+            "hit": 75,
+            "wt": 14,
+            "rng": 1,
+            "uses": 40,
+            "price": 640,
+            "wex": 3
+        },
+        "weapon": true
+    },
+    "killerlance": {
+        "name": "Killer Lance",
+        "type": "lance",
+        "desc": false,
+        "stats": {
+            "rank": "B",
+            "mt": 9,
+            "hit": 80,
+            "wt": 10,
+            "crit": 30,
+            "rng": 1,
+            "uses": 30,
+            "price": 4320,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "shortspear": {
+        "name": "Short Spear",
+        "type": "lance",
+        "desc": false,
+        "stats": {
+            "rank": "B",
+            "mt": 10,
+            "hit": 55,
+            "wt": 12,
+            "rng": "1-2",
+            "uses": 20,
+            "price": 3000,
+            "wex": 3
+        },
+        "weapon": true
+    },
+    "steelgreatlance": {
+        "name": "Steel Greatlance",
+        "type": "lance",
+        "desc": false,
+        "stats": {
+            "rank": "B",
+            "mt": 14,
+            "hit": 70,
+            "wt": 18,
+            "rng": 1,
+            "uses": 35,
+            "price": 1120,
+            "wex": 4
+        },
+        "weapon": true
+    },
+    "silverlance": {
+        "name": "Silver Lance",
+        "type": "lance",
+        "desc": false,
+        "stats": {
+            "rank": "A",
+            "mt": 13,
+            "hit": 80,
+            "wt": 12,
+            "rng": 1,
+            "uses": 30,
+            "price": 2160,
+            "wex": 5
+        },
+        "weapon": true
+    },
+    "silvergreatlance": {
+        "name": "Silver Greatlance",
+        "type": "lance",
+        "desc": false,
+        "stats": {
+            "rank": "A",
+            "mt": 17,
+            "hit": 50,
+            "wt": 17,
+            "rng": 1,
+            "uses": 30,
+            "price": 2880,
+            "wex": 5
+        },
+        "weapon": true
+    },
+    "spear": {
+        "name": "Spear",
+        "type": "lance",
+        "desc": false,
+        "stats": {
+            "rank": "S",
+            "mt": 13,
+            "hit": 60,
+            "wt": 16,
+            "crit": 5,
+            "rng": "1-2",
+            "uses": 20,
+            "price": 9000,
+            "wex": 5
+        },
+        "weapon": true
+    },
+    "wishblade": {
+        "name": "Wishblade",
+        "type": "lance",
+        "desc": "Luck +3.",
+        "stats": {
+            "rank": "SS",
+            "mt": 22,
+            "hit": 100,
+            "wt": 15,
+            "crit": 5,
+            "rng": "1-2",
+            "uses": 50,
+            "price": 15500,
+            "wex": 6
+        },
+        "weapon": true
+    },
+    "bronzeaxe": {
+        "name": "Bronze Axe",
+        "type": "axe",
+        "desc": "Cannot crit.",
+        "stats": {
+            "rank": "E",
+            "mt": 5,
+            "hit": 85,
+            "wt": 7,
+            "rng": 1,
+            "uses": 50,
+            "price": 250,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "ironaxe": {
+        "name": "Iron Axe",
+        "type": "axe",
+        "desc": false,
+        "stats": {
+            "rank": "D",
+            "mt": 8,
+            "hit": 80,
+            "wt": 11,
+            "rng": 1,
+            "uses": 50,
+            "price": 400,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "veninaxe": {
+        "name": "Venin Axe",
+        "type": "axe",
+        "desc": "Inflicts poison on hit",
+        "stats": {
+            "rank": "D",
+            "mt": 8,
+            "hit": 80,
+            "wt": 11,
+            "rng": 1,
+            "uses": 50,
+            "price": 250,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "handaxe": {
+        "name": "Hand Axe",
+        "type": "axe",
+        "desc": false,
+        "stats": {
+            "rank": "D",
+            "mt": 9,
+            "hit": 70,
+            "wt": 12,
+            "rng": "1-2",
+            "uses": 25,
+            "price": 625,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "hammer": {
+        "name": "Hammer",
+        "type": "axe",
+        "desc": "Effective against armors.",
+        "stats": {
+            "rank": "D",
+            "mt": 13,
+            "hit": 60,
+            "wt": 17,
+            "rng": 1,
+            "uses": 20,
+            "price": 800,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "steelaxe": {
+        "name": "Steel Axe",
+        "type": "axe",
+        "desc": false,
+        "stats": {
+            "rank": "C",
+            "mt": 11,
+            "hit": 75,
+            "wt": 15,
+            "rng": 1,
+            "uses": 40,
+            "price": 640,
+            "wex": 3
+        },
+        "weapon": true
+    },
+    "braveaxe": {
+        "name": "Brave Axe",
+        "type": "axe",
+        "desc": "Strikes twice.",
+        "stats": {
+            "rank": "C",
+            "mt": 11,
+            "hit": 80,
+            "wt": 13,
+            "rng": 1,
+            "uses": 40,
+            "price": 2640,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "ironpoleax": {
+        "name": "Iron Poleax",
+        "type": "axe",
+        "desc": false,
+        "stats": {
+            "rank": "C",
+            "mt": 12,
+            "hit": 65,
+            "wt": 16,
+            "rng": 1,
+            "uses": 40,
+            "price": 400,
+            "wex": 3
+        },
+        "weapon": true
+    },
+    "killeraxe": {
+        "name": "Killer Axe",
+        "type": "axe",
+        "desc": false,
+        "stats": {
+            "rank": "B",
+            "mt": 10,
+            "hit": 75,
+            "wt": 12,
+            "crit": 30,
+            "rng": 1,
+            "uses": 30,
+            "price": 2880,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "shortaxe": {
+        "name": "Short Axe",
+        "type": "axe",
+        "desc": false,
+        "stats": {
+            "rank": "B",
+            "mt": 12,
+            "hit": 60,
+            "wt": 13,
+            "rng": "1-2",
+            "uses": 15,
+            "price": 1500,
+            "wex": 3
+        },
+        "weapon": true
+    },
+    "steelpoleax": {
+        "name": "Steel Poleax",
+        "type": "axe",
+        "desc": false,
+        "stats": {
+            "rank": "B",
+            "mt": 15,
+            "hit": 60,
+            "wt": 20,
+            "rng": 1,
+            "uses": 35,
+            "price": 700,
+            "wex": 4
+        },
+        "weapon": true
+    },
+    "silveraxe": {
+        "name": "Silver Axe",
+        "type": "axe",
+        "desc": false,
+        "stats": {
+            "rank": "A",
+            "mt": 14,
+            "hit": 70,
+            "wt": 14,
+            "rng": 1,
+            "uses": 30,
+            "price": 1440,
+            "wex": 5
+        },
+        "weapon": true
+    },
+    "silverpoleax": {
+        "name": "Silver Poleax",
+        "type": "axe",
+        "desc": false,
+        "stats": {
+            "rank": "A",
+            "mt": 18,
+            "hit": 60,
+            "wt": 19,
+            "rng": 1,
+            "uses": 30,
+            "price": 1800,
+            "wex": 5
+        },
+        "weapon": true
+    },
+    "tomahawk": {
+        "name": "Tomahawk",
+        "type": "axe",
+        "desc": false,
+        "stats": {
+            "rank": "S",
+            "mt": 15,
+            "hit": 65,
+            "wt": 17,
+            "crit": 5,
+            "rng": "1-2",
+            "uses": 15,
+            "price": 6000,
+            "wex": 5
+        },
+        "weapon": true
+    },
+    "urvan": {
+        "name": "Urvan",
+        "type": "axe",
+        "desc": "Res +3.",
+        "stats": {
+            "rank": "SS",
+            "mt": 22,
+            "hit": 110,
+            "wt": 17,
+            "crit": 5,
+            "rng": 1,
+            "uses": 50,
+            "price": 15000,
+            "wex": 6
+        },
+        "weapon": true
+    },
+    "tarvos": {
+        "name": "Tarvos",
+        "type": "axe",
+        "desc": "Nolan only. Grants Defense +4.",
+        "stats": {
+            "mt": 18,
+            "hit": 100,
+            "wt": 12,
+            "crit": 5,
+            "rng": 1,
+            "uses": 40,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "bronzebow": {
+        "name": "Bronze Bow",
+        "type": "bow",
+        "desc": "Cannot crit.",
+        "stats": {
+            "rank": "E",
+            "mt": 3,
+            "hit": 80,
+            "wt": 4,
+            "rng": 2,
+            "uses": 50,
+            "price": 400,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "ironbow": {
+        "name": "Iron Bow",
+        "type": "bow",
+        "desc": false,
+        "stats": {
+            "rank": "D",
+            "mt": 6,
+            "hit": 85,
+            "wt": 8,
+            "rng": 2,
+            "uses": 50,
+            "price": 750,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "veninbow": {
+        "name": "Venin Bow",
+        "type": "bow",
+        "desc": "Inflicts poison on hit",
+        "stats": {
+            "rank": "D",
+            "mt": 6,
+            "hit": 85,
+            "wt": 8,
+            "rng": 2,
+            "uses": 50,
+            "price": 400,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "killerbow": {
+        "name": "Killer Bow",
+        "type": "bow",
+        "desc": false,
+        "stats": {
+            "rank": "C",
+            "mt": 8,
+            "hit": 80,
+            "wt": 9,
+            "crit": 30,
+            "rng": 2,
+            "uses": 25,
+            "price": 2000,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "rolfsbow": {
+        "name": "Rolf's Bow",
+        "type": "bow",
+        "desc": false,
+        "stats": {
+            "rank": "C",
+            "mt": 8,
+            "hit": 85,
+            "wt": 8,
+            "rng": 2,
+            "uses": 45,
+            "price": 2700,
+            "wex": 4
+        },
+        "weapon": true
+    },
+    "ironlongbow": {
+        "name": "Iron Longbow",
+        "type": "bow",
+        "desc": false,
+        "stats": {
+            "rank": "C",
+            "mt": 8,
+            "hit": 65,
+            "wt": 15,
+            "rng": "2-3",
+            "uses": 20,
+            "price": 2000,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "steelbow": {
+        "name": "Steel Bow",
+        "type": "bow",
+        "desc": false,
+        "stats": {
+            "rank": "C",
+            "mt": 10,
+            "hit": 80,
+            "wt": 10,
+            "rng": 2,
+            "uses": 35,
+            "price": 1050,
+            "wex": 3
+        },
+        "weapon": true
+    },
+    "bravebow": {
+        "name": "Brave Bow",
+        "type": "bow",
+        "desc": "Strikes twice.",
+        "stats": {
+            "rank": "B",
+            "mt": 9,
+            "hit": 85,
+            "wt": 10,
+            "rng": 2,
+            "uses": 40,
+            "price": 7200,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "steellongbow": {
+        "name": "Steel Longbow",
+        "type": "bow",
+        "desc": false,
+        "stats": {
+            "rank": "B",
+            "mt": 12,
+            "hit": 60,
+            "wt": 18,
+            "rng": "2-3",
+            "uses": 20,
+            "price": 4000,
+            "wex": 3
+        },
+        "weapon": true
+    },
+    "silverbow": {
+        "name": "Silver Bow",
+        "type": "bow",
+        "desc": false,
+        "stats": {
+            "rank": "A",
+            "mt": 15,
+            "hit": 75,
+            "wt": 9,
+            "rng": 2,
+            "uses": 25,
+            "price": 2250,
+            "wex": 5
+        },
+        "weapon": true
+    },
+    "silencer": {
+        "name": "Silencer",
+        "type": "bow",
+        "desc": false,
+        "stats": {
+            "rank": "A",
+            "mt": 16,
+            "hit": 100,
+            "wt": 6,
+            "crit": 5,
+            "rng": 2,
+            "uses": 50,
+            "price": 8000,
+            "wex": 5
+        },
+        "weapon": true
+    },
+    "silverlongbow": {
+        "name": "Silver Longbow",
+        "type": "bow",
+        "desc": false,
+        "stats": {
+            "rank": "S",
+            "mt": 17,
+            "hit": 55,
+            "wt": 17,
+            "rng": "2-3",
+            "uses": 20,
+            "price": 12000,
+            "wex": 5
+        },
+        "weapon": true
+    },
+    "doublebow": {
+        "name": "Double Bow",
+        "type": "bow",
+        "desc": "Grants Strength +3.",
+        "stats": {
+            "rank": "SS",
+            "mt": 22,
+            "hit": 100,
+            "wt": 12,
+            "crit": 5,
+            "rng": "1-2",
+            "uses": 50,
+            "price": 16500,
+            "wex": 6
+        },
+        "weapon": true
+    },
+    "lughnasadh": {
+        "name": "Lughnasadh",
+        "type": "bow",
+        "desc": "Leonardo only. Grants Speed +5.",
+        "stats": {
+            "mt": 16,
+            "hit": 100,
+            "wt": 5,
+            "crit": 5,
+            "rng": 2,
+            "uses": 40,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "bowgun": {
+        "name": "Bowgun",
+        "type": "bow",
+        "desc": "Ignores user's strength.",
+        "stats": {
+            "mt": 24,
+            "hit": 100,
+            "wt": 12,
+            "rng": "1-2",
+            "uses": 40,
+            "price": 2000
+        },
+        "weapon": true
+    },
+    "crossbow": {
+        "name": "Crossbow",
+        "type": "bow",
+        "desc": "Ignores user's strength.",
+        "stats": {
+            "mt": 28,
+            "hit": 100,
+            "wt": 14,
+            "rng": "1-2",
+            "uses": 35,
+            "price": 3500
+        },
+        "weapon": true
+    },
+    "taksh": {
+        "name": "Taksh",
+        "type": "bow",
+        "desc": "Ignores user's strength.",
+        "stats": {
+            "mt": 30,
+            "hit": 100,
+            "wt": 16,
+            "crit": 10,
+            "rng": "1-2",
+            "uses": 30,
+            "price": 6000
+        },
+        "weapon": true
+    },
+    "aqqar": {
+        "name": "Aqqar",
+        "type": "bow",
+        "desc": "Ignores user's strength.",
+        "stats": {
+            "mt": 34,
+            "hit": 100,
+            "wt": 18,
+            "rng": "1-2",
+            "uses": 25,
+            "price": 6250
+        },
+        "weapon": true
+    },
+    "arbalest": {
+        "name": "Arbalest",
+        "type": "bow",
+        "desc": "Ignores user's strength.",
+        "stats": {
+            "mt": 38,
+            "hit": 100,
+            "wt": 20,
+            "crit": 15,
+            "rng": "1-2",
+            "uses": 20,
+            "price": 6000
+        },
+        "weapon": true
+    },
+    "ballista": {
+        "name": "Ballista",
+        "type": "bow",
+        "desc": "Ignores user's strength.",
+        "stats": {
+            "rank": "E",
+            "mt": 18,
+            "hit": 100,
+            "wt": 20,
+            "rng": "3-10",
+            "uses": 5
+        },
+        "weapon": true
+    },
+    "ironballista": {
+        "name": "Iron ballista",
+        "type": "bow",
+        "desc": "Ignores user's strength.",
+        "stats": {
+            "rank": "E",
+            "mt": 28,
+            "hit": 90,
+            "wt": 20,
+            "rng": "3-15",
+            "uses": 5
+        },
+        "weapon": true
+    },
+    "killerballista": {
+        "name": "Killer ballista",
+        "type": "bow",
+        "desc": "Ignores user's strength.",
+        "stats": {
+            "rank": "E",
+            "mt": 26,
+            "hit": 95,
+            "wt": 20,
+            "crit": 10,
+            "rng": "3-10",
+            "uses": 5
+        },
+        "weapon": true
+    },
+    "onager": {
+        "name": "Onager",
+        "type": "bow",
+        "desc": "Ignores user's strength, hits nearby units, cannot crit.",
+        "stats": {
+            "rank": "E",
+            "mt": 22,
+            "hit": 255,
+            "wt": 20,
+            "rng": "3-10",
+            "uses": 5
+        },
+        "weapon": true
+    },
+    "fire": {
+        "name": "Fire",
+        "type": "fire",
+        "desc": false,
+        "stats": {
+            "rank": "E",
+            "mt": 5,
+            "hit": 90,
+            "wt": 3,
+            "rng": "1-2",
+            "uses": 40,
+            "price": 800,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "elfire": {
+        "name": "Elfire",
+        "type": "fire",
+        "desc": false,
+        "stats": {
+            "rank": "D",
+            "mt": 7,
+            "hit": 85,
+            "wt": 5,
+            "rng": "1-2",
+            "uses": 35,
+            "price": 2100,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "meteor": {
+        "name": "Meteor",
+        "type": "fire",
+        "desc": false,
+        "stats": {
+            "rank": "C",
+            "mt": 8,
+            "hit": 70,
+            "wt": 18,
+            "rng": "3-10",
+            "uses": 5,
+            "price": 750,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "arcfire": {
+        "name": "Arcfire",
+        "type": "fire",
+        "desc": false,
+        "stats": {
+            "rank": "B",
+            "mt": 9,
+            "hit": 80,
+            "wt": 7,
+            "crit": 5,
+            "rng": "1-2",
+            "uses": 25,
+            "price": 2500,
+            "wex": 4
+        },
+        "weapon": true
+    },
+    "bolganone": {
+        "name": "Bolganone",
+        "type": "fire",
+        "desc": false,
+        "stats": {
+            "rank": "S",
+            "mt": 11,
+            "hit": 75,
+            "wt": 9,
+            "rng": "1-2",
+            "uses": 20,
+            "price": 3000,
+            "wex": 5
+        },
+        "weapon": true
+    },
+    "rexflame": {
+        "name": "Rexflame",
+        "type": "fire",
+        "desc": "Spd +3.",
+        "stats": {
+            "rank": "SS",
+            "mt": 14,
+            "hit": 100,
+            "wt": 13,
+            "crit": 5,
+            "rng": "1-2",
+            "uses": 15,
+            "price": 7500,
+            "wex": 6
+        },
+        "weapon": true
+    },
+    "firetail": {
+        "name": "Fire Tail",
+        "type": "fire",
+        "desc": "Spirits only. Cannot crit.",
+        "stats": {
+            "rank": "SS",
+            "mt": 13,
+            "hit": 85,
+            "wt": 1,
+            "rng": "1-2",
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "cymbeline": {
+        "name": "Cymbeline",
+        "type": "fire",
+        "desc": "Sanaki only.",
+        "stats": {
+            "mt": 13,
+            "hit": 95,
+            "wt": 5,
+            "crit": 10,
+            "rng": "1-2",
+            "uses": 45,
+            "wex": 8
+        },
+        "weapon": true
+    },
+    "thunder": {
+        "name": "Thunder",
+        "type": "thunder",
+        "desc": false,
+        "stats": {
+            "rank": "E",
+            "mt": 3,
+            "hit": 80,
+            "wt": 4,
+            "crit": 5,
+            "rng": "1-2",
+            "uses": 40,
+            "price": 880,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "elthunder": {
+        "name": "Elthunder",
+        "type": "thunder",
+        "desc": false,
+        "stats": {
+            "rank": "C",
+            "mt": 5,
+            "hit": 75,
+            "wt": 6,
+            "crit": 10,
+            "rng": "1-2",
+            "uses": 35,
+            "price": 1470,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "bolting": {
+        "name": "Bolting",
+        "type": "thunder",
+        "desc": false,
+        "stats": {
+            "rank": "B",
+            "mt": 6,
+            "hit": 60,
+            "wt": 19,
+            "crit": 5,
+            "rng": "3-10",
+            "uses": 5,
+            "price": 800,
+            "wex": 3
+        },
+        "weapon": true
+    },
+    "arcthunder": {
+        "name": "Arcthunder",
+        "type": "thunder",
+        "desc": false,
+        "stats": {
+            "rank": "A",
+            "mt": 7,
+            "hit": 70,
+            "wt": 9,
+            "crit": 15,
+            "rng": "1-2",
+            "uses": 25,
+            "price": 2550,
+            "wex": 4
+        },
+        "weapon": true
+    },
+    "thoron": {
+        "name": "Thoron",
+        "type": "thunder",
+        "desc": false,
+        "stats": {
+            "rank": "S",
+            "mt": 9,
+            "hit": 65,
+            "wt": 11,
+            "crit": 5,
+            "rng": "1-2",
+            "uses": 20,
+            "price": 3200,
+            "wex": 5
+        },
+        "weapon": true
+    },
+    "rexbolt": {
+        "name": "Rexbolt",
+        "type": "thunder",
+        "desc": "Grants Skill +3.",
+        "stats": {
+            "rank": "SS",
+            "mt": 12,
+            "hit": 95,
+            "wt": 14,
+            "crit": 15,
+            "rng": "1-2",
+            "uses": 15,
+            "price": 9000,
+            "wex": 6
+        },
+        "weapon": true
+    },
+    "thundertail": {
+        "name": "Thunder Tail",
+        "type": "thunder",
+        "desc": "Spirits only. Cannot crit.",
+        "stats": {
+            "rank": "SS",
+            "mt": 11,
+            "hit": 75,
+            "wt": 1,
+            "rng": "1-2",
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "wind": {
+        "name": "Wind",
+        "type": "wind",
+        "desc": false,
+        "stats": {
+            "rank": "E",
+            "mt": 4,
+            "hit": 95,
+            "wt": 2,
+            "rng": "1-2",
+            "uses": 40,
+            "price": 720,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "elwind": {
+        "name": "Elwind",
+        "type": "wind",
+        "desc": false,
+        "stats": {
+            "rank": "D",
+            "mt": 6,
+            "hit": 90,
+            "wt": 4,
+            "rng": "1-2",
+            "uses": 35,
+            "price": 2030,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "blizzard": {
+        "name": "Blizzard",
+        "type": "wind",
+        "desc": false,
+        "stats": {
+            "rank": "C",
+            "mt": 7,
+            "hit": 75,
+            "wt": 17,
+            "rng": "3-10",
+            "uses": 5,
+            "price": 700,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "arcwind": {
+        "name": "Arcwind",
+        "type": "wind",
+        "desc": false,
+        "stats": {
+            "rank": "B",
+            "mt": 8,
+            "hit": 85,
+            "wt": 6,
+            "crit": 10,
+            "rng": "1-2",
+            "uses": 25,
+            "price": 2450,
+            "wex": 4
+        },
+        "weapon": true
+    },
+    "tornado": {
+        "name": "Tornado",
+        "type": "wind",
+        "desc": false,
+        "stats": {
+            "rank": "S",
+            "mt": 10,
+            "hit": 80,
+            "wt": 7,
+            "rng": "1-2",
+            "uses": 20,
+            "price": 2800,
+            "wex": 5
+        },
+        "weapon": true
+    },
+    "rexcalibur": {
+        "name": "Rexcalibur",
+        "type": "wind",
+        "desc": "Luck +3.",
+        "stats": {
+            "rank": "SS",
+            "mt": 13,
+            "hit": 105,
+            "wt": 12,
+            "crit": 10,
+            "rng": "1-2",
+            "uses": 15,
+            "price": 6750,
+            "wex": 6
+        },
+        "weapon": true
+    },
+    "windtail": {
+        "name": "Wind Tail",
+        "type": "wind",
+        "desc": "Spirits only. Cannot crit.",
+        "stats": {
+            "rank": "SS",
+            "mt": 12,
+            "hit": 90,
+            "wt": 1,
+            "rng": "1-2",
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "light": {
+        "name": "Light",
+        "type": "light",
+        "desc": false,
+        "stats": {
+            "rank": "E",
+            "mt": 3,
+            "hit": 100,
+            "wt": 1,
+            "rng": "1-2",
+            "uses": 40,
+            "price": 960,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "ellight": {
+        "name": "Ellight",
+        "type": "light",
+        "desc": false,
+        "stats": {
+            "rank": "C",
+            "mt": 5,
+            "hit": 95,
+            "wt": 3,
+            "rng": "1-2",
+            "uses": 35,
+            "price": 2240,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "purge": {
+        "name": "Purge",
+        "type": "light",
+        "desc": false,
+        "stats": {
+            "rank": "B",
+            "mt": 5,
+            "hit": 80,
+            "wt": 16,
+            "rng": "3-10",
+            "uses": 5,
+            "price": 1000,
+            "wex": 3
+        },
+        "weapon": true
+    },
+    "shine": {
+        "name": "Shine",
+        "type": "light",
+        "desc": false,
+        "stats": {
+            "rank": "A",
+            "mt": 7,
+            "hit": 90,
+            "wt": 5,
+            "crit": 10,
+            "rng": "1-2",
+            "uses": 25,
+            "price": 2600,
+            "wex": 4
+        },
+        "weapon": true
+    },
+    "nosferatu": {
+        "name": "Nosferatu",
+        "type": "light",
+        "desc": "Restores HP equal to damage done to enemy.",
+        "stats": {
+            "rank": "S",
+            "mt": 6,
+            "hit": 85,
+            "wt": 7,
+            "rng": "1-2",
+            "uses": 20,
+            "price": 4000,
+            "wex": 4
+        },
+        "weapon": true
+    },
+    "valaura": {
+        "name": "Valaura",
+        "type": "light",
+        "desc": "Inflicts poison on hit",
+        "stats": {
+            "rank": "S",
+            "mt": 8,
+            "hit": 95,
+            "wt": 12,
+            "rng": "1-2",
+            "uses": 17,
+            "price": 6800,
+            "wex": 5
+        },
+        "weapon": true
+    },
+    "rexaura": {
+        "name": "Rexaura",
+        "type": "light",
+        "desc": "Def +3.",
+        "stats": {
+            "rank": "SS",
+            "mt": 12,
+            "hit": 110,
+            "wt": 11,
+            "crit": 5,
+            "rng": "1-2",
+            "uses": 15,
+            "price": 12000,
+            "wex": 6
+        },
+        "weapon": true
+    },
+    "thani": {
+        "name": "Thani",
+        "type": "light",
+        "desc": "Micaiah only. Effective against cavalry and armors.",
+        "stats": {
+            "mt": 8,
+            "hit": 100,
+            "wt": 1,
+            "rng": "1-2",
+            "uses": 45,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "creiddylad": {
+        "name": "Creiddylad",
+        "type": "light",
+        "desc": "Sephiran only.",
+        "stats": {
+            "mt": 11,
+            "hit": 100,
+            "wt": 15,
+            "crit": 15,
+            "rng": "1-2",
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "worm": {
+        "name": "Worm",
+        "type": "dark",
+        "desc": false,
+        "stats": {
+            "rank": "C",
+            "mt": 8,
+            "hit": 75,
+            "wt": 9,
+            "rng": "1-2",
+            "uses": 30,
+            "price": 2400,
+            "wex": 3
+        },
+        "weapon": true
+    },
+    "carreau": {
+        "name": "Carreau",
+        "type": "dark",
+        "desc": false,
+        "stats": {
+            "rank": "B",
+            "mt": 10,
+            "hit": 70,
+            "wt": 11,
+            "crit": 5,
+            "rng": "1-2",
+            "uses": 25,
+            "price": 3000,
+            "wex": 4
+        },
+        "weapon": true
+    },
+    "fenrir": {
+        "name": "Fenrir",
+        "type": "dark",
+        "desc": false,
+        "stats": {
+            "rank": "A",
+            "mt": 9,
+            "hit": 60,
+            "wt": 20,
+            "rng": "3-10",
+            "uses": 5,
+            "price": 1500,
+            "wex": 4
+        },
+        "weapon": true
+    },
+    "verrine": {
+        "name": "Verrine",
+        "type": "dark",
+        "desc": false,
+        "stats": {
+            "rank": "S",
+            "mt": 12,
+            "hit": 65,
+            "wt": 13,
+            "rng": "1-2",
+            "uses": 20,
+            "price": 5000,
+            "wex": 5
+        },
+        "weapon": true
+    },
+    "balberith": {
+        "name": "Balberith",
+        "type": "dark",
+        "desc": "Str +3.",
+        "stats": {
+            "rank": "SS",
+            "mt": 15,
+            "hit": 75,
+            "wt": 15,
+            "crit": 10,
+            "rng": "1-2",
+            "uses": 15,
+            "price": 13500,
+            "wex": 6
+        },
+        "weapon": true
+    },
+    "bronzeknife": {
+        "name": "Bronze Knife",
+        "type": "knife",
+        "desc": "Cannot crit.",
+        "stats": {
+            "rank": "E",
+            "mt": 1,
+            "hit": 70,
+            "wt": 1,
+            "rng": "1-2",
+            "uses": 30,
+            "price": 480,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "bronzedagger": {
+        "name": "Bronze Dagger",
+        "type": "knife",
+        "desc": "Cannot crit.",
+        "stats": {
+            "rank": "D",
+            "mt": 2,
+            "hit": 85,
+            "wt": 2,
+            "rng": 1,
+            "uses": 45,
+            "price": 270,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "ironknife": {
+        "name": "Iron Knife",
+        "type": "knife",
+        "desc": false,
+        "stats": {
+            "rank": "D",
+            "mt": 2,
+            "hit": 65,
+            "wt": 2,
+            "rng": "1-2",
+            "uses": 25,
+            "price": 500,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "beastkiller": {
+        "name": "Beast Killer",
+        "type": "knife",
+        "desc": "Effective against beasts.",
+        "stats": {
+            "rank": "D",
+            "mt": 9,
+            "hit": 65,
+            "wt": 8,
+            "crit": 20,
+            "rng": 1,
+            "uses": 20,
+            "price": 1200,
+            "wex": 2
+        },
+        "weapon": true
+    },
+    "steelknife": {
+        "name": "Steel Knife",
+        "type": "knife",
+        "desc": false,
+        "stats": {
+            "rank": "C",
+            "mt": 4,
+            "hit": 60,
+            "wt": 3,
+            "rng": "1-2",
+            "uses": 20,
+            "price": 800,
+            "wex": 3
+        },
+        "weapon": true
+    },
+    "irondagger": {
+        "name": "Iron Dagger",
+        "type": "knife",
+        "desc": false,
+        "stats": {
+            "rank": "C",
+            "mt": 5,
+            "hit": 80,
+            "wt": 3,
+            "crit": 5,
+            "rng": 1,
+            "uses": 40,
+            "price": 360,
+            "wex": 3
+        },
+        "weapon": true
+    },
+    "kard": {
+        "name": "Kard",
+        "type": "knife",
+        "desc": false,
+        "stats": {
+            "rank": "B",
+            "mt": 4,
+            "hit": 70,
+            "wt": 6,
+            "crit": 10,
+            "rng": 1,
+            "uses": 30,
+            "price": 2400,
+            "wex": 4
+        },
+        "weapon": true
+    },
+    "steeldagger": {
+        "name": "Steel Dagger",
+        "type": "knife",
+        "desc": false,
+        "stats": {
+            "rank": "B",
+            "mt": 8,
+            "hit": 85,
+            "wt": 5,
+            "crit": 5,
+            "rng": 1,
+            "uses": 35,
+            "price": 420,
+            "wex": 4
+        },
+        "weapon": true
+    },
+    "silverknife": {
+        "name": "Silver Knife",
+        "type": "knife",
+        "desc": false,
+        "stats": {
+            "rank": "A",
+            "mt": 7,
+            "hit": 60,
+            "wt": 4,
+            "rng": "1-2",
+            "uses": 15,
+            "price": 1800,
+            "wex": 5
+        },
+        "weapon": true
+    },
+    "stiletto": {
+        "name": "Stiletto",
+        "type": "knife",
+        "desc": false,
+        "stats": {
+            "rank": "A",
+            "mt": 8,
+            "hit": 80,
+            "wt": 8,
+            "crit": 20,
+            "rng": 1,
+            "uses": 25,
+            "price": 3100,
+            "wex": 5
+        },
+        "weapon": true
+    },
+    "silverdagger": {
+        "name": "Silver Dagger",
+        "type": "knife",
+        "desc": false,
+        "stats": {
+            "rank": "A",
+            "mt": 12,
+            "hit": 85,
+            "wt": 7,
+            "crit": 5,
+            "rng": 1,
+            "uses": 25,
+            "price": 1800,
+            "wex": 5
+        },
+        "weapon": true
+    },
+    "peshkatz": {
+        "name": "Peshkatz",
+        "type": "knife",
+        "desc": false,
+        "stats": {
+            "rank": "S",
+            "mt": 13,
+            "hit": 90,
+            "wt": 9,
+            "rng": "1-2",
+            "uses": 30,
+            "price": 12600,
+            "wex": 5
+        },
+        "weapon": true
+    },
+    "baselard": {
+        "name": "Baselard",
+        "type": "knife",
+        "desc": false,
+        "stats": {
+            "rank": "SS",
+            "mt": 18,
+            "hit": 100,
+            "wt": 10,
+            "crit": 15,
+            "rng": 1,
+            "uses": 50,
+            "price": 18600,
+            "wex": 6
+        },
+        "weapon": true
+    },
+    "heal": {
+        "name": "Heal",
+        "type": "staff",
+        "desc": "Restores an ally's HP. HP = [Mag + 10].",
+        "stats": {
+            "rank": "E",
+            "hit": 100,
+            "wt": 2,
+            "rng": 1,
+            "uses": 40,
+            "price": 800,
+            "wex": 3,
+            "exp": 11
+        },
+        "weapon": false
+    },
+    "mend": {
+        "name": "Mend",
+        "type": "staff",
+        "desc": "Restores an ally's HP. HP = [Mag + 20].",
+        "stats": {
+            "rank": "D",
+            "hit": 100,
+            "wt": 4,
+            "rng": 1,
+            "uses": 20,
+            "price": 1000,
+            "wex": 3,
+            "exp": 12
+        },
+        "weapon": false
+    },
+    "unlock": {
+        "name": "Unlock",
+        "type": "staff",
+        "desc": "Opens a door.",
+        "stats": {
+            "rank": "D",
+            "hit": 100,
+            "wt": 7,
+            "rng": "1-2",
+            "uses": 10,
+            "price": 1500,
+            "wex": 5,
+            "exp": 17
+        },
+        "weapon": false
+    },
+    "torch": {
+        "name": "Torch",
+        "type": "item",
+        "desc": "Increases vision in fog by 5 squares (effect lowers each turn).",
+        "stats": {
+            "uses": 5,
+            "price": 500
+        },
+        "weapon": false
+    },
+    "ward": {
+        "name": "Ward",
+        "type": "staff",
+        "desc": "Can be used to increase resistance by 7 (effect lowers each turn). Grants Speed +2 and Defense +2.",
+        "stats": {
+            "rank": "C",
+            "hit": 100,
+            "wt": 4,
+            "rng": 1,
+            "uses": 15,
+            "price": 2250,
+            "wex": 4,
+            "exp": 17
+        },
+        "weapon": false
+    },
+    "restore": {
+        "name": "Restore",
+        "type": "staff",
+        "desc": "Cures an ally's status condition.",
+        "stats": {
+            "rank": "C",
+            "hit": 100,
+            "wt": 4,
+            "rng": 1,
+            "uses": 10,
+            "price": 2000,
+            "wex": 3,
+            "exp": 20
+        },
+        "weapon": false
+    },
+    "physic": {
+        "name": "Physic",
+        "type": "staff",
+        "desc": "Restores an ally's HP. HP = [Mag + 10].",
+        "stats": {
+            "rank": "C",
+            "hit": 100,
+            "wt": 5,
+            "rng": "1-(Mag/2)",
+            "uses": 15,
+            "price": 3750,
+            "wex": 4,
+            "exp": 22
+        },
+        "weapon": false
+    },
+    "hammerne": {
+        "name": "Hammerne",
+        "type": "staff",
+        "desc": "Repairs an ally's weapon to full uses.",
+        "stats": {
+            "rank": "C",
+            "hit": 100,
+            "wt": 7,
+            "rng": 1,
+            "uses": 3,
+            "price": 1800,
+            "wex": 8,
+            "exp": 40
+        },
+        "weapon": false
+    },
+    "silence": {
+        "name": "Silence",
+        "type": "staff",
+        "desc": "Seals the enemy's ability to use magic.",
+        "stats": {
+            "rank": "B",
+            "hit": 70,
+            "wt": 7,
+            "rng": "1-(Mag/2)",
+            "uses": 3,
+            "price": 1200,
+            "wex": 5,
+            "exp": 30
+        },
+        "weapon": false
+    },
+    "sleep": {
+        "name": "Sleep",
+        "type": "staff",
+        "desc": "Sends the enemy to sleep.",
+        "stats": {
+            "rank": "B",
+            "hit": 65,
+            "wt": 8,
+            "rng": "1-(Mag/2)",
+            "uses": 3,
+            "price": 1500,
+            "wex": 5,
+            "exp": 35
+        },
+        "weapon": false
+    },
+    "berserk": {
+        "name": "Berserk",
+        "type": "staff",
+        "desc": "Induces berserk on the enemy.",
+        "stats": {
+            "rank": "B",
+            "hit": 60,
+            "wt": 8,
+            "rng": "1-(Mag/2)",
+            "uses": 3,
+            "price": 1800,
+            "wex": 5,
+            "exp": 40
+        },
+        "weapon": false
+    },
+    "rescue": {
+        "name": "Rescue",
+        "type": "staff",
+        "desc": "Brings an allied unit next to the user.",
+        "stats": {
+            "rank": "B",
+            "hit": 100,
+            "wt": 6,
+            "rng": "1-(Mag/2)",
+            "uses": 3,
+            "price": 1800,
+            "wex": 5,
+            "exp": 40
+        },
+        "weapon": false
+    },
+    "recover": {
+        "name": "Recover",
+        "type": "staff",
+        "desc": "Fully restores an ally's HP.",
+        "stats": {
+            "rank": "B",
+            "hit": 100,
+            "wt": 6,
+            "rng": 1,
+            "uses": 15,
+            "price": 2250,
+            "wex": 4,
+            "exp": 17
+        },
+        "weapon": false
+    },
+    "warp": {
+        "name": "Warp",
+        "type": "staff",
+        "desc": "Teleports an ally to a traversable square.",
+        "stats": {
+            "rank": "A",
+            "hit": 100,
+            "wt": 5,
+            "rng": 1,
+            "uses": 5,
+            "price": 7500,
+            "wex": 7,
+            "exp": 85
+        },
+        "weapon": false
+    },
+    "fortify": {
+        "name": "Fortify",
+        "type": "staff",
+        "desc": "Restores HP of all allies within range.",
+        "stats": {
+            "rank": "S",
+            "hit": 100,
+            "wt": 7,
+            "rng": "1-(Mag/2)",
+            "uses": 8,
+            "price": 8000,
+            "wex": 5,
+            "exp": 60
+        },
+        "weapon": false
+    },
+    "matrona": {
+        "name": "Matrona",
+        "type": "staff",
+        "desc": "Fully heals an unit's HP and moves their biorhythm to it's best point.",
+        "stats": {
+            "rank": "SS",
+            "hit": 100,
+            "wt": 3,
+            "rng": "1-(Mag/2)",
+            "uses": 3,
+            "worth": "Cannot be sold",
+            "wex": 10
+        },
+        "weapon": false
+    },
+    "asherastaff": {
+        "name": "Ashera Staff",
+        "type": "staff",
+        "desc": "Fully restores HP and status condition of all allies.",
+        "stats": {
+            "rank": "SS",
+            "hit": 100,
+            "wt": 4,
+            "rng": "All",
+            "uses": 3,
+            "wex": 4,
+            "exp": "100%"
+        },
+        "weapon": false
+    },
+    "fangwolfa": {
+        "name": "Fang (Wolf A)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "A",
+            "mt": 9,
+            "hit": 90,
+            "wt": 1,
+            "rng": 1,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "fangwolfs": {
+        "name": "Fang (Wolf S)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "S",
+            "mt": 14,
+            "hit": 90,
+            "wt": 1,
+            "rng": 1,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "fangwolfss": {
+        "name": "Fang (Wolf SS)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "SS",
+            "mt": 19,
+            "hit": 90,
+            "wt": 1,
+            "rng": 1,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "greatfangwolfqueena": {
+        "name": "Great Fang (Wolf Queen A)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "A",
+            "mt": 10,
+            "hit": 90,
+            "wt": 1,
+            "rng": 1,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "greatfangwolfqueens": {
+        "name": "Great Fang (Wolf Queen S)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "S",
+            "mt": 15,
+            "hit": 90,
+            "wt": 1,
+            "rng": 1,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "greatfangwolfqueenss": {
+        "name": "Great Fang (Wolf Queen SS)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "SS",
+            "mt": 20,
+            "hit": 100,
+            "wt": 1,
+            "rng": 1,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "fangtigera": {
+        "name": "Fang (Tiger A)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "A",
+            "mt": 10,
+            "hit": 90,
+            "wt": 1,
+            "rng": 1,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "fangtigers": {
+        "name": "Fang (Tiger S)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "S",
+            "mt": 15,
+            "hit": 90,
+            "wt": 1,
+            "rng": 1,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "fangtigerss": {
+        "name": "Fang (Tiger SS)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "SS",
+            "mt": 20,
+            "hit": 90,
+            "wt": 1,
+            "rng": 1,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "fangliona": {
+        "name": "Fang (Lion A)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "A",
+            "mt": 11,
+            "hit": 95,
+            "wt": 1,
+            "rng": 1,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "fanglions": {
+        "name": "Fang (Lion S)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "S",
+            "mt": 16,
+            "hit": 95,
+            "wt": 1,
+            "rng": 1,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "fanglionss": {
+        "name": "Fang (Lion SS)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "SS",
+            "mt": 21,
+            "hit": 95,
+            "wt": 1,
+            "rng": 1,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "greatfangliona": {
+        "name": "Great Fang (Lion King / Giffca A)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "A",
+            "mt": 12,
+            "hit": 100,
+            "wt": 1,
+            "rng": 1,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "greatfanglions": {
+        "name": "Great Fang (Lion King / Giffca S)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "S",
+            "mt": 17,
+            "hit": 100,
+            "wt": 1,
+            "rng": 1,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "greatfanglionss": {
+        "name": "Great Fang (Lion King / Giffca SS)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "SS",
+            "mt": 22,
+            "hit": 100,
+            "wt": 1,
+            "rng": 1,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "clawa": {
+        "name": "Claw (A)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "A",
+            "mt": 8,
+            "hit": 90,
+            "wt": 1,
+            "rng": 1,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "claws": {
+        "name": "Claw (S)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "S",
+            "mt": 13,
+            "hit": 90,
+            "wt": 1,
+            "rng": 1,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "clawss": {
+        "name": "Claw (SS)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "SS",
+            "mt": 18,
+            "hit": 90,
+            "wt": 1,
+            "rng": 1,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "beaka": {
+        "name": "Beak (A)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "A",
+            "mt": 7,
+            "hit": 90,
+            "wt": 1,
+            "rng": 1,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "beaks": {
+        "name": "Beak (S)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "S",
+            "mt": 12,
+            "hit": 90,
+            "wt": 1,
+            "rng": 1,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "beakss": {
+        "name": "Beak (SS)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "SS",
+            "mt": 17,
+            "hit": 90,
+            "wt": 1,
+            "rng": 1,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "greatbeaka": {
+        "name": "Great Beak (A)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "A",
+            "mt": 8,
+            "hit": 95,
+            "wt": 1,
+            "rng": 1,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "greatbeaks": {
+        "name": "Great Beak (S)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "S",
+            "mt": 13,
+            "hit": 95,
+            "wt": 1,
+            "rng": 1,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "greatbeakss": {
+        "name": "Great Beak (SS)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "SS",
+            "mt": 18,
+            "hit": 100,
+            "wt": 1,
+            "rng": 1,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "talona": {
+        "name": "Talon (A)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "A",
+            "mt": 8,
+            "hit": 90,
+            "wt": 1,
+            "rng": 1,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "talons": {
+        "name": "Talon (S)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "S",
+            "mt": 13,
+            "hit": 90,
+            "wt": 1,
+            "rng": 1,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "talonss": {
+        "name": "Talon (SS)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "SS",
+            "mt": 18,
+            "hit": 90,
+            "wt": 1,
+            "rng": 1,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "greattalona": {
+        "name": "Great Talon (A)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "A",
+            "mt": 10,
+            "hit": 100,
+            "wt": 1,
+            "rng": 1,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "greattalons": {
+        "name": "Great Talon (S)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "S",
+            "mt": 15,
+            "hit": 100,
+            "wt": 1,
+            "rng": 1,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "greattalonss": {
+        "name": "Great Talon (SS)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "SS",
+            "mt": 20,
+            "hit": 100,
+            "wt": 1,
+            "rng": 1,
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "redbreatha": {
+        "name": "Red Breath (A)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "A",
+            "mt": 13,
+            "hit": 80,
+            "wt": 1,
+            "rng": "1-2",
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "redbreaths": {
+        "name": "Red Breath (S)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "S",
+            "mt": 18,
+            "hit": 90,
+            "wt": 1,
+            "rng": "1-2",
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "redbreathss": {
+        "name": "Red Breath (SS)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "SS",
+            "mt": 23,
+            "hit": 100,
+            "wt": 1,
+            "rng": "1-2",
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "whitebreatha": {
+        "name": "White Breath (A)",
+        "type": "strike",
+        "desc": "Magical damage.",
+        "stats": {
+            "rank": "A",
+            "mt": 11,
+            "hit": 90,
+            "wt": 1,
+            "rng": "1-2",
+            "wex": 1
+        },
+        "weapon": true,
+        "equip": {
+            "magical": true
+        }
+    },
+    "whitebreaths": {
+        "name": "White Breath (S)",
+        "type": "strike",
+        "desc": "Magical damage.",
+        "stats": {
+            "rank": "S",
+            "mt": 16,
+            "hit": 100,
+            "wt": 1,
+            "rng": "1-2",
+            "wex": 1
+        },
+        "weapon": true,
+        "equip": {
+            "magical": true
+        }
+    },
+    "whitebreathss": {
+        "name": "White Breath (SS)",
+        "type": "strike",
+        "desc": "Magical damage.",
+        "stats": {
+            "rank": "SS",
+            "mt": 21,
+            "hit": 110,
+            "wt": 1,
+            "rng": "1-2",
+            "wex": 1
+        },
+        "weapon": true,
+        "equip": {
+            "magical": true
+        }
+    },
+    "blackbreathdragonprincea": {
+        "name": "Black Breath (Dragon Prince A)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "A",
+            "mt": 12,
+            "hit": 95,
+            "wt": 1,
+            "rng": "1-2",
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "blackbreathdragonprinces": {
+        "name": "Black Breath (Dragon Prince S)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "S",
+            "mt": 17,
+            "hit": 105,
+            "wt": 1,
+            "rng": "1-2",
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "blackbreathdragonprincess": {
+        "name": "Black Breath (Dragon Prince SS)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "SS",
+            "mt": 22,
+            "hit": 115,
+            "wt": 1,
+            "rng": "1-2",
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "blackbreathdragonkinga": {
+        "name": "Black Breath (Dragon King A)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "A",
+            "mt": 15,
+            "hit": 95,
+            "wt": 1,
+            "rng": "1-2",
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "blackbreathdragonkings": {
+        "name": "Black Breath (Dragon King S)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "S",
+            "mt": 20,
+            "hit": 105,
+            "wt": 1,
+            "rng": "1-2",
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "blackbreathdragonkingss": {
+        "name": "Black Breath (Dragon King SS)",
+        "type": "strike",
+        "desc": false,
+        "stats": {
+            "rank": "SS",
+            "mt": 25,
+            "hit": 115,
+            "wt": 1,
+            "rng": "1-2",
+            "wex": 1
+        },
+        "weapon": true
+    },
+    "herb": {
+        "name": "Herb",
+        "type": "item",
+        "desc": "Recovers 10 HP.",
+        "stats": {
+            "uses": 10,
+            "price": 600
+        },
+        "weapon": false
+    },
+    "vulnerary": {
+        "name": "Vulnerary",
+        "type": "item",
+        "desc": "Recovers 20 HP.",
+        "stats": {
+            "uses": 8,
+            "price": 800
+        },
+        "weapon": false
+    },
+    "concoction": {
+        "name": "Concoction",
+        "type": "item",
+        "desc": "Recovers 40 HP.",
+        "stats": {
+            "uses": 6,
+            "price": 1200
+        },
+        "weapon": false
+    },
+    "elixir": {
+        "name": "Elixir",
+        "type": "item",
+        "desc": "Recovers all HP.",
+        "stats": {
+            "uses": 3,
+            "price": 3000
+        },
+        "weapon": false
+    },
+    "antitoxin": {
+        "name": "Antitoxin",
+        "type": "item",
+        "desc": "Removes poison condition.",
+        "stats": {
+            "uses": 3,
+            "price": 450
+        },
+        "weapon": false
+    },
+    "panacea": {
+        "name": "Panacea",
+        "type": "item",
+        "desc": "Removes all conditions.",
+        "stats": {
+            "uses": 3,
+            "price": 1500
+        },
+        "weapon": false
+    },
+    "purewater": {
+        "name": "Pure Water",
+        "type": "item",
+        "desc": "Temporarily raises resistance by 7 points.",
+        "stats": {
+            "uses": 3,
+            "price": 900
+        },
+        "weapon": false
+    },
+    "olivigrass": {
+        "name": "Olivi Grass",
+        "type": "item",
+        "desc": "Increases transform gauge by 15 points.",
+        "stats": {
+            "uses": 8,
+            "price": 1600
+        },
+        "weapon": false
+    },
+    "laguzstone": {
+        "name": "Laguz Stone",
+        "type": "item",
+        "desc": "Increases transform gauge to maximum.",
+        "stats": {
+            "uses": 3,
+            "price": 3000
+        },
+        "weapon": false
+    },
+    "laguzstone2": {
+        "name": "Laguz Stone (2)",
+        "type": "item",
+        "desc": false,
+        "stats": {
+            "uses": 1,
+            "price": 4000
+        },
+        "weapon": false
+    },
+    "wildstone": {
+        "name": "Wild Stone",
+        "type": "item",
+        "desc": false,
+        "stats": {
+            "uses": 1,
+            "price": 6000
+        },
+        "weapon": false
+    },
+    "laguzgem": {
+        "name": "Laguz Gem",
+        "type": "item",
+        "desc": "Transforms laguz user for whole chapter.",
+        "stats": {
+            "uses": 5,
+            "price": 75000
+        },
+        "weapon": false
+    },
+    "shinebarrier": {
+        "name": "Shine Barrier",
+        "type": "item",
+        "desc": "Places a tile that obstructs both ally and foe.",
+        "stats": {
+            "uses": 1,
+            "price": 800
+        },
+        "weapon": false
+    },
+    "freybomb": {
+        "name": "Frey Bomb",
+        "type": "item",
+        "desc": false,
+        "stats": {
+            "uses": 1,
+            "price": 500
+        },
+        "weapon": false
+    },
+    "spectrecard": {
+        "name": "Spectre Card",
+        "type": "item",
+        "desc": "Can be used to deal magical damage.",
+        "stats": {
+            "mt": 5,
+            "hit": 100,
+            "rng": "1-2",
+            "uses": 15,
+            "price": 3000
+        },
+        "weapon": false
+    },
+    "reapercard": {
+        "name": "Reaper Card",
+        "type": "item",
+        "desc": "Can be used to deal magical damage.",
+        "stats": {
+            "mt": 8,
+            "hit": 100,
+            "rng": "1-2",
+            "uses": 10,
+            "price": 5000
+        },
+        "weapon": false
+    },
+    "daemoncard": {
+        "name": "Daemon Card",
+        "type": "item",
+        "desc": "Can be used to deal magical damage.",
+        "stats": {
+            "mt": 12,
+            "hit": 100,
+            "rng": "1-2",
+            "uses": 5,
+            "price": 5000
+        },
+        "weapon": false
+    },
+    "doorkey": {
+        "name": "Door Key",
+        "type": "item",
+        "desc": "Opens a door.",
+        "stats": {
+            "uses": 2,
+            "price": 600
+        },
+        "weapon": false
+    },
+    "chestkey": {
+        "name": "Chest Key",
+        "type": "item",
+        "desc": "Opens a chest.",
+        "stats": {
+            "uses": 2,
+            "price": 100
+        },
+        "weapon": false
+    },
+    "silvercard": {
+        "name": "Silver Card",
+        "type": "item",
+        "desc": "Buy items for half price (doesn't earn forging points 2).",
+        "stats": {
+            "uses": 1,
+            "price": 4000
+        },
+        "weapon": false
+    },
+    "redgem": {
+        "name": "Red Gem",
+        "type": "item",
+        "desc": "Sell for 2500g.",
+        "stats": {
+            "uses": 1,
+            "price": 5000
+        },
+        "weapon": false
+    },
+    "bluegem": {
+        "name": "Blue Gem",
+        "type": "item",
+        "desc": "Sell for 5000g.",
+        "stats": {
+            "uses": 1,
+            "price": 10000
+        },
+        "weapon": false
+    },
+    "whitegem": {
+        "name": "White Gem",
+        "type": "item",
+        "desc": "Sell for 10000g.",
+        "stats": {
+            "uses": 1,
+            "price": 20000
+        },
+        "weapon": false
+    },
+    "warppowder": {
+        "name": "Warp Powder",
+        "type": "item",
+        "desc": false,
+        "stats": {
+            "uses": 1,
+            "price": 10000
+        },
+        "weapon": false
+    },
+    "seraphrobe": {
+        "name": "Seraph Robe",
+        "type": "item",
+        "desc": "Max HP +7.",
+        "stats": {
+            "uses": 1,
+            "price": 8000
+        },
+        "weapon": false
+    },
+    "energydrop": {
+        "name": "Energy Drop",
+        "type": "item",
+        "desc": "Strength +2.",
+        "stats": {
+            "uses": 1,
+            "price": 8000
+        },
+        "weapon": false
+    },
+    "spiritdust": {
+        "name": "Spirit Dust",
+        "type": "item",
+        "desc": "Magic +2.",
+        "stats": {
+            "uses": 1,
+            "price": 8000
+        },
+        "weapon": false
+    },
+    "secretbook": {
+        "name": "Secret Book",
+        "type": "item",
+        "desc": "Skill +2.",
+        "stats": {
+            "uses": 1,
+            "price": 8000
+        },
+        "weapon": false
+    },
+    "speedwings": {
+        "name": "Speedwings",
+        "type": "item",
+        "desc": "Speed +2.",
+        "stats": {
+            "uses": 1,
+            "price": 8000
+        },
+        "weapon": false
+    },
+    "asheraicon": {
+        "name": "Ashera Icon",
+        "type": "item",
+        "desc": "Luck +2.",
+        "stats": {
+            "uses": 1,
+            "price": 8000
+        },
+        "weapon": false
+    },
+    "dragonshield": {
+        "name": "Dragonshield",
+        "type": "item",
+        "desc": "Defense +2.",
+        "stats": {
+            "uses": 1,
+            "price": 8000
+        },
+        "weapon": false
+    },
+    "talisman": {
+        "name": "Talisman",
+        "type": "item",
+        "desc": "Resistance +2.",
+        "stats": {
+            "uses": 1,
+            "price": 8000
+        },
+        "weapon": false
+    },
+    "boots": {
+        "name": "Boots",
+        "type": "item",
+        "desc": "Movement +2.",
+        "stats": {
+            "uses": 1,
+            "price": 8000
+        },
+        "weapon": false
+    },
+    "statuefrag": {
+        "name": "Statue Frag",
+        "type": "item",
+        "desc": "Constitution +2.",
+        "stats": {
+            "uses": 1,
+            "price": 8000
+        },
+        "weapon": false
+    },
+    "armsscroll": {
+        "name": "Arms Scroll",
+        "type": "item",
+        "desc": "Rank +1 for equipped weapon type (beorc only).",
+        "stats": {
+            "uses": 1,
+            "price": 8000
+        },
+        "weapon": false
+    },
+    "masterseal": {
+        "name": "Master Seal",
+        "type": "item",
+        "desc": "Promotes level 10+ tier 1 characters.",
+        "stats": {
+            "uses": 1,
+            "price": 10000
+        },
+        "weapon": false
+    },
+    "mastercrown": {
+        "name": "Master Crown",
+        "type": "item",
+        "desc": "Promotes level 10+ tier 2 characters.",
+        "stats": {
+            "uses": 1
+        },
+        "weapon": false
+    },
+    "holycrown": {
+        "name": "Holy Crown",
+        "type": "item",
+        "desc": "Promotes level 10+ mist.",
+        "stats": {
+            "uses": 1
+        },
+        "weapon": false
+    },
+    "satorisign": {
+        "name": "Satori Sign",
+        "type": "item",
+        "desc": "Teaches level 30+ laguz their mastery skill.",
+        "stats": {
+            "uses": 1
+        },
+        "weapon": false
+    },
+    "coin": {
+        "name": "Coin",
+        "type": "item",
+        "desc": "Used to give a random bonus during weapon forging.",
+        "stats": {
+            "uses": 1,
+            "price": 2
+        },
+        "weapon": false
+    },
+    "rudolgem": {
+        "name": "Rudol gem",
+        "type": "item",
+        "desc": "Raises Defense by 10, when in inventory.",
+        "stats": {
+            "uses": 1
+        },
+        "weapon": false
+    },
+    "disciplinescroll": {
+        "name": "Discipline Scroll",
+        "type": "item",
+        "desc": "Teaches discipline (beorc only).",
+        "stats": {
+            "price": 1000
+        },
+        "weapon": false
+    },
+    "beastfoescroll": {
+        "name": "Beastfoe Scroll",
+        "type": "item",
+        "desc": "Teaches beastfoe.",
+        "stats": {
+            "price": 2000
+        },
+        "weapon": false
+    },
+    "birdfoescroll": {
+        "name": "Birdfoe Scroll",
+        "type": "item",
+        "desc": "Teaches birdfoe.",
+        "stats": {
+            "price": 1000
+        },
+        "weapon": false
+    },
+    "dragonfoescroll": {
+        "name": "Dragonfoe Scroll",
+        "type": "item",
+        "desc": "Teaches dragonfoe.",
+        "stats": {
+            "price": 1000
+        },
+        "weapon": false
+    },
+    "renewalscroll": {
+        "name": "Renewal Scroll",
+        "type": "item",
+        "desc": "Teaches renewal.",
+        "stats": {
+            "price": 1000
+        },
+        "weapon": false
+    },
+    "paragonscroll": {
+        "name": "Paragon Scroll",
+        "type": "item",
+        "desc": "Teaches paragon.",
+        "stats": {
+            "price": 1000
+        },
+        "weapon": false
+    },
+    "passscroll": {
+        "name": "Pass Scroll",
+        "type": "item",
+        "desc": "Teaches pass.",
+        "stats": {
+            "price": 3000
+        },
+        "weapon": false
+    },
+    "nihilscroll": {
+        "name": "Nihil Scroll",
+        "type": "item",
+        "desc": "Teaches nihil.",
+        "stats": {
+            "price": 3000
+        },
+        "weapon": false
+    },
+    "nullifyscroll": {
+        "name": "Nullify Scroll",
+        "type": "item",
+        "desc": "Teaches nullify.",
+        "stats": {
+            "price": 3000
+        },
+        "weapon": false
+    },
+    "provokescroll": {
+        "name": "Provoke Scroll",
+        "type": "item",
+        "desc": "Teaches provoke.",
+        "stats": {
+            "price": 3000
+        },
+        "weapon": false
+    },
+    "fortunescroll": {
+        "name": "Fortune Scroll",
+        "type": "item",
+        "desc": "Teaches fortune.",
+        "stats": {
+            "price": 6000
+        },
+        "weapon": false
+    },
+    "vantagescroll": {
+        "name": "Vantage Scroll",
+        "type": "item",
+        "desc": "Teaches vantage.",
+        "stats": {
+            "price": 2000
+        },
+        "weapon": false
+    },
+    "parityscroll": {
+        "name": "Parity Scroll",
+        "type": "item",
+        "desc": "Teaches parity.",
+        "stats": {
+            "price": 2000
+        },
+        "weapon": false
+    },
+    "gamblescroll": {
+        "name": "Gamble Scroll",
+        "type": "item",
+        "desc": "Teaches gamble.",
+        "stats": {
+            "price": 1000
+        },
+        "weapon": false
+    },
+    "shadescroll": {
+        "name": "Shade Scroll",
+        "type": "item",
+        "desc": "Teaches shade (beorc only).",
+        "stats": {
+            "price": 2000
+        },
+        "weapon": false
+    },
+    "wrathscroll": {
+        "name": "Wrath Scroll",
+        "type": "item",
+        "desc": "Teaches wrath.",
+        "stats": {
+            "price": 1000
+        },
+        "weapon": false
+    },
+    "miraclescroll": {
+        "name": "Miracle Scroll",
+        "type": "item",
+        "desc": "Teaches miracle.",
+        "stats": {
+            "price": 1000
+        },
+        "weapon": false
+    },
+    "resolvescroll": {
+        "name": "Resolve Scroll",
+        "type": "item",
+        "desc": "Teaches resolve.",
+        "stats": {
+            "price": 2000
+        },
+        "weapon": false
+    },
+    "cancelscroll": {
+        "name": "Cancel Scroll",
+        "type": "item",
+        "desc": "Teaches cancel.",
+        "stats": {
+            "price": 2000
+        },
+        "weapon": false
+    },
+    "counterscroll": {
+        "name": "Counter Scroll",
+        "type": "item",
+        "desc": "Teaches counter.",
+        "stats": {
+            "price": 2000
+        },
+        "weapon": false
+    },
+    "mercyscroll": {
+        "name": "Mercy Scroll",
+        "type": "item",
+        "desc": "Teaches mercy (elincia only).",
+        "stats": {
+            "price": 3000
+        },
+        "weapon": false
+    },
+    "stillnessscroll": {
+        "name": "Stillness Scroll",
+        "type": "item",
+        "desc": "Teaches stillness (beorc only).",
+        "stats": {
+            "price": 1000
+        },
+        "weapon": false
+    },
+    "corrosionscroll": {
+        "name": "Corrosion Scroll",
+        "type": "item",
+        "desc": "Teaches corrosion (beorc only).",
+        "stats": {
+            "price": 2000
+        },
+        "weapon": false
+    },
+    "disarmscroll": {
+        "name": "Disarm Scroll",
+        "type": "item",
+        "desc": "Teaches disarm (beorc only).",
+        "stats": {
+            "price": 2000
+        },
+        "weapon": false
+    },
+    "smitescroll": {
+        "name": "Smite Scroll",
+        "type": "item",
+        "desc": "Teaches smite.",
+        "stats": {
+            "price": 2000
+        },
+        "weapon": false
+    },
+    "adeptscroll": {
+        "name": "Adept Scroll",
+        "type": "item",
+        "desc": "Teaches adept.",
+        "stats": {
+            "price": 6000
+        },
+        "weapon": false
+    },
+    "blossomscroll": {
+        "name": "Blossom Scroll",
+        "type": "item",
+        "desc": "Teaches blossom.",
+        "stats": {
+            "price": 2000
+        },
+        "weapon": false
+    },
+    "celerityscroll": {
+        "name": "Celerity Scroll",
+        "type": "item",
+        "desc": "Teaches celerity.",
+        "stats": {
+            "price": 2000
+        },
+        "weapon": false
+    },
+    "savourscroll": {
+        "name": "Savour Scroll",
+        "type": "item",
+        "desc": "Teaches saviour.",
+        "stats": {
+            "price": 2000
+        },
+        "weapon": false
+    },
+    "flourishscroll": {
+        "name": "Flourish Scroll",
+        "type": "item",
+        "desc": "Teaches flourish.",
+        "stats": {
+            "price": 3000
+        },
+        "weapon": false
+    },
+    "dauntscroll": {
+        "name": "Daunt Scroll",
+        "type": "item",
+        "desc": "Teaches daunt.",
+        "stats": {
+            "price": 2000
+        },
+        "weapon": false
+    },
+    "imbuescroll": {
+        "name": "Imbue Scroll",
+        "type": "item",
+        "desc": "Teaches imbue (non-magic users only).",
+        "stats": {
+            "price": 1000
+        },
+        "weapon": false
+    },
+    "guardscroll": {
+        "name": "Guard Scroll",
+        "type": "item",
+        "desc": "Teaches guard.",
+        "stats": {
+            "price": 1000
+        },
+        "weapon": false
+    },
+    "pavisescroll": {
+        "name": "Pavise Scroll",
+        "type": "item",
+        "desc": "Teaches pavise.",
+        "stats": {
+            "price": 2000
+        },
+        "weapon": false
+    },
+    "quickclawscroll": {
+        "name": "Quickclaw Scroll",
+        "type": "item",
+        "desc": "Teaches quickclaw (beasts only).",
+        "stats": {
+            "price": 2000
+        },
+        "weapon": false
+    },
+    "howlscroll": {
+        "name": "Howl Scroll",
+        "type": "item",
+        "desc": "Teaches howl (beasts only).",
+        "stats": {
+            "price": 3000
+        },
+        "weapon": false
+    },
+    "shriekscroll": {
+        "name": "Shriek Scroll",
+        "type": "item",
+        "desc": "Teaches shriek (hawks and ravens only).",
+        "stats": {
+            "price": 3000
+        },
+        "weapon": false
+    },
+    "maelstromscroll": {
+        "name": "Maelstrom Scroll",
+        "type": "item",
+        "desc": "Teaches maelstrom (hawks and ravens only).",
+        "stats": {
+            "price": 1000
+        },
+        "weapon": false
+    },
+    "skyboonscroll": {
+        "name": "Sky Boon Scroll",
+        "type": "item",
+        "desc": "Teaches blessing (herons only).",
+        "stats": {
+            "price": 1000
+        },
+        "weapon": false
+    },
+    "earthbountyscroll": {
+        "name": "Earth Bounty Scroll",
+        "type": "item",
+        "desc": "Teaches boon (dragons only).",
+        "stats": {
+            "price": 2000
+        },
+        "weapon": false
+    },
+    "bloodtidescroll": {
+        "name": "Blood Tide Scroll",
+        "type": "item",
+        "desc": "Teaches blood tide (red dragons only).",
+        "stats": {
+            "price": 2000
+        },
+        "weapon": false
+    },
+    "whitepoolscroll": {
+        "name": "White Pool Scroll",
+        "type": "item",
+        "desc": "Teaches white pool (white dragons only).",
+        "stats": {
+            "price": 3000
+        },
+        "weapon": false
+    },
+    "nighttidescroll": {
+        "name": "Night Tide Scroll",
+        "type": "item",
+        "desc": "Teaches night tide (black dragons only).",
+        "stats": {
+            "price": 2000
+        },
+        "weapon": false
+    },
+    "wildheartscroll": {
+        "name": "Wildheart Scroll",
+        "type": "item",
+        "desc": "Teaches wildheart (non-heron laguz only).",
+        "stats": {
+            "price": 1000
+        },
+        "weapon": false
+    },
+    "tempestscroll": {
+        "name": "Tempestscroll",
+        "type": "item",
+        "desc": "Teaches tempest.",
+        "stats": {
+            "price": 2000
+        },
+        "weapon": false
+    },
+    "serenityscroll": {
+        "name": "Serenity Scroll",
+        "type": "item",
+        "desc": "Teaches serenity.",
+        "stats": {
+            "price": 3000
+        },
+        "weapon": false
+    },
+    "laguzguard": {
+        "name": "Laguzguard",
+        "type": "item",
+        "desc": "Halves laguz damage (beorc only).",
+        "stats": {
+            "price": 8000
+        },
+        "weapon": false
+    },
+    "beorcguard": {
+        "name": "Beorcguard",
+        "type": "item",
+        "desc": "Negates laguz effective bonus towards user (laguz only).",
+        "stats": {
+            "price": 8000
+        },
+        "weapon": false
+    },
+    "fullguard": {
+        "name": "Full Guard",
+        "type": "item",
+        "desc": "Negates effective bonus towards user.",
+        "stats": {
+            "price": 10000
+        },
+        "weapon": false
+    },
+    "knightward": {
+        "name": "Knight Ward",
+        "type": "item",
+        "desc": false,
+        "stats": {
+            "price": 1000
+        },
+        "weapon": false
+    },
+    "troopscroll": {
+        "name": "Troop Scroll",
+        "type": "item",
+        "desc": "Allows user to use up leftover movement after performing an action.",
+        "stats": {
+            "price": 2000
+        },
+        "weapon": false
+    }
+}

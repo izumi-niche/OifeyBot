@@ -1,0 +1,3108 @@
+{
+    "athos": {
+        "name": "Athos",
+        "portrait": "athos.png",
+        "job": "archsage",
+        "lvl": 20,
+        "gender": "male",
+        "affinity": "anima",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 0,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "rank": {
+            "staff": 251,
+            "anima": 251,
+            "light": 251,
+            "dark": 251
+        },
+        "base": {
+            "hp": 0,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 25,
+            "def": 0,
+            "res": 0,
+            "con": 0
+        },
+        "support": {}
+    },
+    "bartre": {
+        "name": "Bartre",
+        "portrait": "bartre.png",
+        "job": "fighter",
+        "lvl": 2,
+        "gender": "male",
+        "affinity": "thunder",
+        "note": false,
+        "promo": [
+            "warrior"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 85,
+            "atk": 50,
+            "skl": 35,
+            "spd": 40,
+            "lck": 30,
+            "def": 30,
+            "res": 25
+        },
+        "rank": {
+            "axe": 31
+        },
+        "base": {
+            "hp": 9,
+            "atk": 4,
+            "skl": 3,
+            "spd": -1,
+            "lck": 4,
+            "def": 2,
+            "res": 0,
+            "con": 2
+        },
+        "support": {
+            "Dorcas": {
+                "base": "15",
+                "growth": "+3",
+                "affinity": "fire"
+            },
+            "Raven": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "ice"
+            },
+            "Canas": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "anima"
+            },
+            "Karla": {
+                "base": "5",
+                "growth": "+4",
+                "affinity": "dark"
+            },
+            "Renault": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "anima"
+            }
+        }
+    },
+    "canas": {
+        "name": "Canas",
+        "portrait": "canas.png",
+        "job": "shamanm",
+        "lvl": 8,
+        "gender": "male",
+        "affinity": "anima",
+        "note": false,
+        "promo": [
+            "druidm"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 70,
+            "atk": 45,
+            "skl": 40,
+            "spd": 35,
+            "lck": 25,
+            "def": 25,
+            "res": 45
+        },
+        "rank": {
+            "dark": 121
+        },
+        "base": {
+            "hp": 5,
+            "atk": 8,
+            "skl": 8,
+            "spd": 6,
+            "lck": 7,
+            "def": 3,
+            "res": 4,
+            "con": 0
+        },
+        "support": {
+            "Pent": {
+                "base": "0",
+                "growth": "+3",
+                "affinity": "ice"
+            },
+            "Nino": {
+                "base": "0",
+                "growth": "+3",
+                "affinity": "fire"
+            },
+            "Renault": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "anima"
+            },
+            "Bartre": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "thunder"
+            },
+            "Vaida": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "fire"
+            }
+        }
+    },
+    "dart": {
+        "name": "Dart",
+        "portrait": "dart.png",
+        "job": "pirate",
+        "lvl": 8,
+        "gender": "male",
+        "affinity": "fire",
+        "note": false,
+        "promo": [
+            "berserker"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 70,
+            "atk": 65,
+            "skl": 20,
+            "spd": 60,
+            "lck": 35,
+            "def": 20,
+            "res": 15
+        },
+        "rank": {
+            "axe": 121
+        },
+        "base": {
+            "hp": 15,
+            "atk": 8,
+            "skl": 6,
+            "spd": 2,
+            "lck": 3,
+            "def": 3,
+            "res": 1,
+            "con": 0
+        },
+        "support": {
+            "Farina": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "anima"
+            },
+            "Wil": {
+                "base": "20",
+                "growth": "+3",
+                "affinity": "wind"
+            },
+            "Geitz": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "thunder"
+            },
+            "Rebecca": {
+                "base": "35",
+                "growth": "+3",
+                "affinity": "fire"
+            },
+            "Karel": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "light"
+            }
+        }
+    },
+    "dorcas": {
+        "name": "Dorcas",
+        "portrait": "dorcas.png",
+        "job": "fighter",
+        "lvl": 3,
+        "gender": "male",
+        "affinity": "fire",
+        "note": false,
+        "promo": [
+            "warrior"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 80,
+            "atk": 60,
+            "skl": 40,
+            "spd": 20,
+            "lck": 45,
+            "def": 25,
+            "res": 15
+        },
+        "rank": {
+            "axe": 71
+        },
+        "base": {
+            "hp": 10,
+            "atk": 2,
+            "skl": 5,
+            "spd": 2,
+            "lck": 3,
+            "def": 1,
+            "res": 0,
+            "con": 3
+        },
+        "support": {
+            "Bartre": {
+                "base": "15",
+                "growth": "+3",
+                "affinity": "thunder"
+            },
+            "Geitz": {
+                "base": "0",
+                "growth": "+3",
+                "affinity": "thunder"
+            },
+            "Oswin": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "anima"
+            },
+            "Vaida": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "fire"
+            },
+            "Farina": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "anima"
+            }
+        }
+    },
+    "eliwood": {
+        "name": "Eliwood",
+        "portrait": "eliwood.png",
+        "job": "lordeliwood",
+        "lvl": 1,
+        "gender": "male",
+        "affinity": "anima",
+        "note": false,
+        "promo": [
+            "knightlord"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 80,
+            "atk": 45,
+            "skl": 50,
+            "spd": 40,
+            "lck": 45,
+            "def": 30,
+            "res": 35
+        },
+        "rank": {
+            "sword": 71
+        },
+        "base": {
+            "hp": 0,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 7,
+            "def": 0,
+            "res": 0,
+            "con": 0
+        },
+        "support": {
+            "Hector": {
+                "base": "72",
+                "growth": "+3",
+                "affinity": "thunder"
+            },
+            "Lyn": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "wind"
+            },
+            "Ninian": {
+                "base": "0",
+                "growth": "+5",
+                "affinity": "ice"
+            },
+            "Marcus": {
+                "base": "25",
+                "growth": "+2",
+                "affinity": "ice"
+            },
+            "Lowen": {
+                "base": "20",
+                "growth": "+2",
+                "affinity": "fire"
+            },
+            "Harken": {
+                "base": "25",
+                "growth": "+3",
+                "affinity": "fire"
+            },
+            "Fiora": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "wind"
+            }
+        }
+    },
+    "erk": {
+        "name": "Erk",
+        "portrait": "erk.png",
+        "job": "magem",
+        "lvl": 1,
+        "gender": "male",
+        "affinity": "thunder",
+        "note": false,
+        "promo": [
+            "sagem"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 65,
+            "atk": 40,
+            "skl": 40,
+            "spd": 50,
+            "lck": 30,
+            "def": 20,
+            "res": 40
+        },
+        "rank": {
+            "anima": 31
+        },
+        "base": {
+            "hp": 1,
+            "atk": 4,
+            "skl": 4,
+            "spd": 4,
+            "lck": 3,
+            "def": -1,
+            "res": 1,
+            "con": -1
+        },
+        "support": {
+            "Louise": {
+                "base": "20",
+                "growth": "+2",
+                "affinity": "light"
+            },
+            "Nino": {
+                "base": "0",
+                "growth": "+3",
+                "affinity": "fire"
+            },
+            "Pent": {
+                "base": "25",
+                "growth": "+3",
+                "affinity": "ice"
+            },
+            "Priscilla": {
+                "base": "15",
+                "growth": "+3",
+                "affinity": "wind"
+            },
+            "Serra": {
+                "base": "2",
+                "growth": "+1",
+                "affinity": "thunder"
+            }
+        }
+    },
+    "farina": {
+        "name": "Farina",
+        "portrait": "farina.png",
+        "job": "pegasusknight",
+        "lvl": 12,
+        "gender": "female",
+        "affinity": "anima",
+        "note": false,
+        "promo": [
+            "falcoknight"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 75,
+            "atk": 50,
+            "skl": 40,
+            "spd": 45,
+            "lck": 45,
+            "def": 25,
+            "res": 30
+        },
+        "rank": {
+            "lance": 181
+        },
+        "base": {
+            "hp": 10,
+            "atk": 6,
+            "skl": 8,
+            "spd": 9,
+            "lck": 10,
+            "def": 7,
+            "res": 10,
+            "con": 0
+        },
+        "support": {
+            "Hector": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "thunder"
+            },
+            "Florina": {
+                "base": "35",
+                "growth": "+3",
+                "affinity": "light"
+            },
+            "Fiora": {
+                "base": "30",
+                "growth": "+3",
+                "affinity": "wind"
+            },
+            "Kent": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "anima"
+            },
+            "Dart": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "fire"
+            },
+            "Karla": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "dark"
+            },
+            "Dorcas": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "fire"
+            }
+        }
+    },
+    "fiora": {
+        "name": "Fiora",
+        "portrait": "fiora.png",
+        "job": "pegasusknight",
+        "lvl": 7,
+        "gender": "female",
+        "affinity": "wind",
+        "note": false,
+        "promo": [
+            "falcoknight"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 70,
+            "atk": 35,
+            "skl": 60,
+            "spd": 50,
+            "lck": 30,
+            "def": 20,
+            "res": 50
+        },
+        "rank": {
+            "lance": 71
+        },
+        "base": {
+            "hp": 7,
+            "atk": 4,
+            "skl": 6,
+            "spd": 8,
+            "lck": 6,
+            "def": 3,
+            "res": 5,
+            "con": 0
+        },
+        "support": {
+            "Farina": {
+                "base": "30",
+                "growth": "+3",
+                "affinity": "anima"
+            },
+            "Florina": {
+                "base": "35",
+                "growth": "+4",
+                "affinity": "light"
+            },
+            "Eliwood": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "anima"
+            },
+            "Kent": {
+                "base": "0",
+                "growth": "+3",
+                "affinity": "anima"
+            },
+            "Sain": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "wind"
+            },
+            "Pent": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "ice"
+            },
+            "Geitz": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "thunder"
+            }
+        }
+    },
+    "florina": {
+        "name": "Florina (Main Mode)",
+        "portrait": "florina.png",
+        "job": "pegasusknight",
+        "lvl": 3,
+        "gender": "female",
+        "affinity": "light",
+        "note": false,
+        "promo": [
+            "falcoknight"
+        ],
+        "alt": [
+            "florinalyn"
+        ],
+        "growth": {
+            "hp": 60,
+            "atk": 40,
+            "skl": 50,
+            "spd": 55,
+            "lck": 50,
+            "def": 15,
+            "res": 35
+        },
+        "rank": {
+            "lance": 31
+        },
+        "base": {
+            "hp": 4,
+            "atk": 2,
+            "skl": 3,
+            "spd": 4,
+            "lck": 8,
+            "def": 1,
+            "res": 3,
+            "con": -1
+        },
+        "support": {
+            "Hector": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "thunder"
+            },
+            "Lyn": {
+                "base": "76",
+                "growth": "+4",
+                "affinity": "wind"
+            },
+            "Farina": {
+                "base": "35",
+                "growth": "+3",
+                "affinity": "anima"
+            },
+            "Fiora": {
+                "base": "35",
+                "growth": "+4",
+                "affinity": "wind"
+            },
+            "Ninian": {
+                "base": "0",
+                "growth": "+4",
+                "affinity": "ice"
+            },
+            "Nino": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "fire"
+            },
+            "Serra": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "thunder"
+            }
+        }
+    },
+    "florinalyn": {
+        "name": "Florina (Lyn Mode)",
+        "portrait": "florina.png",
+        "job": "pegasusknight",
+        "lvl": 1,
+        "gender": "female",
+        "affinity": "light",
+        "note": false,
+        "promo": [
+            "falcoknight"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 60,
+            "atk": 40,
+            "skl": 50,
+            "spd": 55,
+            "lck": 50,
+            "def": 15,
+            "res": 35
+        },
+        "rank": {
+            "lance": 31
+        },
+        "base": {
+            "hp": 3,
+            "atk": 1,
+            "skl": 2,
+            "spd": 4,
+            "lck": 7,
+            "def": 1,
+            "res": 2,
+            "con": -1
+        },
+        "IGNORE": true,
+        "RANDOM_IGNORE": true,
+        "support": {}
+    },
+    "geitz": {
+        "name": "Geitz",
+        "portrait": "geitz.png",
+        "job": "warrior",
+        "lvl": 3,
+        "gender": "male",
+        "affinity": "thunder",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 85,
+            "atk": 50,
+            "skl": 30,
+            "spd": 40,
+            "lck": 40,
+            "def": 20,
+            "res": 20
+        },
+        "hard": {
+            "hp": 16,
+            "atk": 11,
+            "skl": 8,
+            "spd": 8,
+            "lck": 10,
+            "def": 7,
+            "res": 4,
+            "con": 0
+        },
+        "rank": {
+            "axe": 121,
+            "bow": 121
+        },
+        "base": {
+            "hp": 12,
+            "atk": 9,
+            "skl": 7,
+            "spd": 7,
+            "lck": 10,
+            "def": 6,
+            "res": 3,
+            "con": 0
+        },
+        "support": {
+            "Dorcas": {
+                "base": "0",
+                "growth": "+3",
+                "affinity": "fire"
+            },
+            "Karel": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "light"
+            },
+            "Isadora": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "dark"
+            },
+            "Fiora": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "wind"
+            },
+            "Dart": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "fire"
+            }
+        }
+    },
+    "guy": {
+        "name": "Guy",
+        "portrait": "guy.png",
+        "job": "myrmidonm",
+        "lvl": 3,
+        "gender": "male",
+        "affinity": "fire",
+        "note": false,
+        "promo": [
+            "swordmasterm"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 75,
+            "atk": 30,
+            "skl": 50,
+            "spd": 70,
+            "lck": 45,
+            "def": 15,
+            "res": 25
+        },
+        "hard": {
+            "hp": 9,
+            "atk": 4,
+            "skl": 4,
+            "spd": 4,
+            "lck": 5,
+            "def": 4,
+            "res": 1,
+            "con": -3
+        },
+        "rank": {
+            "sword": 71
+        },
+        "base": {
+            "hp": 5,
+            "atk": 2,
+            "skl": 2,
+            "spd": 2,
+            "lck": 5,
+            "def": 3,
+            "res": 0,
+            "con": -3
+        },
+        "support": {
+            "Matthew": {
+                "base": "10",
+                "growth": "+3",
+                "affinity": "wind"
+            },
+            "Rath": {
+                "base": "0",
+                "growth": "+4",
+                "affinity": "dark"
+            },
+            "Karel": {
+                "base": "5",
+                "growth": "+3",
+                "affinity": "light"
+            },
+            "Priscilla": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "wind"
+            },
+            "Louise": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "light"
+            }
+        }
+    },
+    "harken": {
+        "name": "Harken",
+        "portrait": "harken.png",
+        "job": "herom",
+        "lvl": 8,
+        "gender": "male",
+        "affinity": "fire",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 80,
+            "atk": 35,
+            "skl": 30,
+            "spd": 40,
+            "lck": 20,
+            "def": 30,
+            "res": 25
+        },
+        "hard": {
+            "hp": 20,
+            "atk": 17,
+            "skl": 13,
+            "spd": 8,
+            "lck": 12,
+            "def": 8,
+            "res": 9,
+            "con": 1
+        },
+        "rank": {
+            "sword": 121,
+            "axe": 121
+        },
+        "base": {
+            "hp": 16,
+            "atk": 15,
+            "skl": 11,
+            "spd": 7,
+            "lck": 12,
+            "def": 7,
+            "res": 8,
+            "con": 1
+        },
+        "support": {
+            "Eliwood": {
+                "base": "25",
+                "growth": "+3",
+                "affinity": "anima"
+            },
+            "Isadora": {
+                "base": "40",
+                "growth": "+4",
+                "affinity": "dark"
+            },
+            "Lowen": {
+                "base": "15",
+                "growth": "+3",
+                "affinity": "fire"
+            },
+            "Marcus": {
+                "base": "20",
+                "growth": "+2",
+                "affinity": "ice"
+            },
+            "Vaida": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "fire"
+            }
+        }
+    },
+    "hawkeye": {
+        "name": "Hawkeye",
+        "portrait": "hawkeye.png",
+        "job": "berserker",
+        "lvl": 4,
+        "gender": "male",
+        "affinity": "wind",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 50,
+            "atk": 40,
+            "skl": 30,
+            "spd": 25,
+            "lck": 40,
+            "def": 20,
+            "res": 35
+        },
+        "rank": {
+            "axe": 181
+        },
+        "base": {
+            "hp": 26,
+            "atk": 11,
+            "skl": 8,
+            "spd": 4,
+            "lck": 13,
+            "def": 8,
+            "res": 10,
+            "con": 3
+        },
+        "support": {
+            "Ninian": {
+                "base": "0",
+                "growth": "+3",
+                "affinity": "ice"
+            },
+            "Pent": {
+                "base": "20",
+                "growth": "+3",
+                "affinity": "ice"
+            },
+            "Louise": {
+                "base": "20",
+                "growth": "+3",
+                "affinity": "light"
+            }
+        }
+    },
+    "heath": {
+        "name": "Heath",
+        "portrait": "heath.png",
+        "job": "wyvernriderm",
+        "lvl": 7,
+        "gender": "male",
+        "affinity": "thunder",
+        "note": false,
+        "promo": [
+            "wyvernlordm"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 80,
+            "atk": 50,
+            "skl": 50,
+            "spd": 45,
+            "lck": 20,
+            "def": 30,
+            "res": 20
+        },
+        "hard": {
+            "hp": 12,
+            "atk": 6,
+            "skl": 7,
+            "spd": 4,
+            "lck": 7,
+            "def": 3,
+            "res": 2,
+            "con": -1
+        },
+        "rank": {
+            "lance": 121
+        },
+        "base": {
+            "hp": 8,
+            "atk": 4,
+            "skl": 5,
+            "spd": 2,
+            "lck": 7,
+            "def": 2,
+            "res": 1,
+            "con": -1
+        },
+        "support": {
+            "Vaida": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "fire"
+            },
+            "Legault": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "ice"
+            },
+            "Louise": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "light"
+            },
+            "Priscilla": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "wind"
+            },
+            "Kent": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "anima"
+            }
+        }
+    },
+    "hector": {
+        "name": "Hector",
+        "portrait": "hector.png",
+        "job": "lordhector",
+        "lvl": 1,
+        "gender": "male",
+        "affinity": "thunder",
+        "note": false,
+        "promo": [
+            "greatlord"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 90,
+            "atk": 60,
+            "skl": 45,
+            "spd": 35,
+            "lck": 30,
+            "def": 50,
+            "res": 25
+        },
+        "rank": {
+            "axe": 71
+        },
+        "base": {
+            "hp": 0,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 3,
+            "def": 0,
+            "res": 0,
+            "con": 0
+        },
+        "support": {
+            "Eliwood": {
+                "base": "72",
+                "growth": "+3",
+                "affinity": "anima"
+            },
+            "Lyn": {
+                "base": "0",
+                "growth": "+3",
+                "affinity": "wind"
+            },
+            "Oswin": {
+                "base": "20",
+                "growth": "+2",
+                "affinity": "anima"
+            },
+            "Matthew": {
+                "base": "20",
+                "growth": "+3",
+                "affinity": "wind"
+            },
+            "Florina": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "light"
+            },
+            "Serra": {
+                "base": "15",
+                "growth": "+1",
+                "affinity": "thunder"
+            },
+            "Farina": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "anima"
+            }
+        }
+    },
+    "isadora": {
+        "name": "Isadora",
+        "portrait": "isadora.png",
+        "job": "paladinf",
+        "lvl": 1,
+        "gender": "female",
+        "affinity": "dark",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 75,
+            "atk": 30,
+            "skl": 35,
+            "spd": 50,
+            "lck": 45,
+            "def": 20,
+            "res": 25
+        },
+        "rank": {
+            "sword": 181,
+            "lance": 121,
+            "axe": 31
+        },
+        "base": {
+            "hp": 5,
+            "atk": 7,
+            "skl": 6,
+            "spd": 5,
+            "lck": 10,
+            "def": 1,
+            "res": 0,
+            "con": -3
+        },
+        "support": {
+            "Legault": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "ice"
+            },
+            "Lowen": {
+                "base": "10",
+                "growth": "+3",
+                "affinity": "fire"
+            },
+            "Marcus": {
+                "base": "15",
+                "growth": "+3",
+                "affinity": "ice"
+            },
+            "Harken": {
+                "base": "40",
+                "growth": "+4",
+                "affinity": "fire"
+            },
+            "Geitz": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "thunder"
+            },
+            "Renault": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "anima"
+            },
+            "Sain": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "wind"
+            }
+        }
+    },
+    "jaffar": {
+        "name": "Jaffar",
+        "portrait": "jaffar.png",
+        "job": "assassin",
+        "lvl": 13,
+        "gender": "male",
+        "affinity": "ice",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 65,
+            "atk": 15,
+            "skl": 40,
+            "spd": 35,
+            "lck": 20,
+            "def": 30,
+            "res": 30
+        },
+        "rank": {
+            "sword": 181
+        },
+        "base": {
+            "hp": 18,
+            "atk": 16,
+            "skl": 24,
+            "spd": 15,
+            "lck": 10,
+            "def": 13,
+            "res": 11,
+            "con": 2
+        },
+        "support": {
+            "Nino": {
+                "base": "25",
+                "growth": "+3",
+                "affinity": "fire"
+            },
+            "Matthew": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "wind"
+            },
+            "Legault": {
+                "base": "5",
+                "growth": "+1",
+                "affinity": "ice"
+            }
+        }
+    },
+    "karel": {
+        "name": "Karel",
+        "portrait": "karel.png",
+        "job": "swordmasterm",
+        "lvl": 8,
+        "gender": "male",
+        "affinity": "light",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 70,
+            "atk": 30,
+            "skl": 50,
+            "spd": 50,
+            "lck": 30,
+            "def": 10,
+            "res": 15
+        },
+        "rank": {
+            "sword": 181
+        },
+        "base": {
+            "hp": 10,
+            "atk": 10,
+            "skl": 12,
+            "spd": 10,
+            "lck": 15,
+            "def": 8,
+            "res": 10,
+            "con": 0
+        },
+        "support": {
+            "Guy": {
+                "base": "5",
+                "growth": "+3",
+                "affinity": "fire"
+            },
+            "Geitz": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "thunder"
+            },
+            "Karla": {
+                "base": "25",
+                "growth": "+2",
+                "affinity": "dark"
+            },
+            "Dart": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "fire"
+            },
+            "Lucius": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "light"
+            }
+        }
+    },
+    "karla": {
+        "name": "Karla",
+        "portrait": "karla.png",
+        "job": "swordmasterf",
+        "lvl": 5,
+        "gender": "female",
+        "affinity": "dark",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 60,
+            "atk": 25,
+            "skl": 45,
+            "spd": 55,
+            "lck": 40,
+            "def": 10,
+            "res": 20
+        },
+        "rank": {
+            "sword": 181
+        },
+        "base": {
+            "hp": 10,
+            "atk": 8,
+            "skl": 10,
+            "spd": 6,
+            "lck": 16,
+            "def": 7,
+            "res": 9,
+            "con": 0
+        },
+        "support": {
+            "Karel": {
+                "base": "25",
+                "growth": "+2",
+                "affinity": "light"
+            },
+            "Bartre": {
+                "base": "5",
+                "growth": "+4",
+                "affinity": "thunder"
+            },
+            "Farina": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "anima"
+            },
+            "Vaida": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "fire"
+            }
+        }
+    },
+    "kent": {
+        "name": "Kent (Main Mode)",
+        "portrait": "kent.png",
+        "job": "cavalierm",
+        "lvl": 5,
+        "gender": "male",
+        "affinity": "anima",
+        "note": false,
+        "promo": [
+            "paladinm"
+        ],
+        "alt": [
+            "kentlyn"
+        ],
+        "growth": {
+            "hp": 85,
+            "atk": 40,
+            "skl": 50,
+            "spd": 45,
+            "lck": 20,
+            "def": 25,
+            "res": 25
+        },
+        "rank": {
+            "sword": 31,
+            "lance": 31
+        },
+        "base": {
+            "hp": 3,
+            "atk": 3,
+            "skl": 5,
+            "spd": 3,
+            "lck": 4,
+            "def": 0,
+            "res": 1,
+            "con": 0
+        },
+        "support": {
+            "Lyn": {
+                "base": "20",
+                "growth": "+3",
+                "affinity": "wind"
+            },
+            "Sain": {
+                "base": "30",
+                "growth": "+3",
+                "affinity": "wind"
+            },
+            "Fiora": {
+                "base": "0",
+                "growth": "+3",
+                "affinity": "wind"
+            },
+            "Farina": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "anima"
+            },
+            "Wallace": {
+                "base": "15",
+                "growth": "+2",
+                "affinity": "thunder"
+            },
+            "Heath": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "thunder"
+            }
+        }
+    },
+    "kentlyn": {
+        "name": "Kent (Lyn Mode)",
+        "portrait": "kent.png",
+        "job": "cavalierm",
+        "lvl": 1,
+        "gender": "male",
+        "affinity": "anima",
+        "note": false,
+        "promo": [
+            "paladinm"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 85,
+            "atk": 40,
+            "skl": 50,
+            "spd": 45,
+            "lck": 20,
+            "def": 25,
+            "res": 25
+        },
+        "rank": {
+            "sword": 31,
+            "lance": 1
+        },
+        "base": {
+            "hp": 0,
+            "atk": 1,
+            "skl": 4,
+            "spd": 2,
+            "lck": 2,
+            "def": -1,
+            "res": 1,
+            "con": 0
+        },
+        "IGNORE": true,
+        "RANDOM_IGNORE": true,
+        "support": {}
+    },
+    "legault": {
+        "name": "Legault",
+        "portrait": "legault.png",
+        "job": "thiefm",
+        "lvl": 12,
+        "gender": "male",
+        "affinity": "ice",
+        "note": false,
+        "promo": [
+            "assassin"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 60,
+            "atk": 25,
+            "skl": 45,
+            "spd": 60,
+            "lck": 60,
+            "def": 25,
+            "res": 25
+        },
+        "hard": {
+            "hp": 13,
+            "atk": 5,
+            "skl": 12,
+            "spd": 8,
+            "lck": 10,
+            "def": 6,
+            "res": 4,
+            "con": 3
+        },
+        "rank": {
+            "sword": 71
+        },
+        "base": {
+            "hp": 10,
+            "atk": 5,
+            "skl": 10,
+            "spd": 6,
+            "lck": 10,
+            "def": 6,
+            "res": 3,
+            "con": 3
+        },
+        "support": {
+            "Matthew": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "wind"
+            },
+            "Nino": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "fire"
+            },
+            "Isadora": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "dark"
+            },
+            "Jaffar": {
+                "base": "5",
+                "growth": "+1",
+                "affinity": "ice"
+            },
+            "Heath": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "thunder"
+            }
+        }
+    },
+    "louise": {
+        "name": "Louise",
+        "portrait": "louise.png",
+        "job": "sniperf",
+        "lvl": 4,
+        "gender": "female",
+        "affinity": "light",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 60,
+            "atk": 40,
+            "skl": 40,
+            "spd": 40,
+            "lck": 30,
+            "def": 20,
+            "res": 30
+        },
+        "rank": {
+            "bow": 181
+        },
+        "base": {
+            "hp": 9,
+            "atk": 6,
+            "skl": 8,
+            "spd": 10,
+            "lck": 16,
+            "def": 4,
+            "res": 9,
+            "con": 0
+        },
+        "support": {
+            "Pent": {
+                "base": "241",
+                "growth": "+0",
+                "affinity": "ice"
+            },
+            "Erk": {
+                "base": "20",
+                "growth": "+2",
+                "affinity": "thunder"
+            },
+            "Hawkeye": {
+                "base": "20",
+                "growth": "+3",
+                "affinity": "wind"
+            },
+            "Rebecca": {
+                "base": "0",
+                "growth": "+3",
+                "affinity": "fire"
+            },
+            "Guy": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "fire"
+            },
+            "Heath": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "thunder"
+            },
+            "Sain": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "wind"
+            }
+        }
+    },
+    "lowen": {
+        "name": "Lowen",
+        "portrait": "lowen.png",
+        "job": "cavalierm",
+        "lvl": 2,
+        "gender": "male",
+        "affinity": "fire",
+        "note": false,
+        "promo": [
+            "paladinm"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 90,
+            "atk": 30,
+            "skl": 30,
+            "spd": 30,
+            "lck": 50,
+            "def": 40,
+            "res": 30
+        },
+        "rank": {
+            "sword": 31,
+            "lance": 31
+        },
+        "base": {
+            "hp": 3,
+            "atk": 2,
+            "skl": 3,
+            "spd": 2,
+            "lck": 3,
+            "def": 1,
+            "res": 0,
+            "con": 1
+        },
+        "support": {
+            "Eliwood": {
+                "base": "20",
+                "growth": "+2",
+                "affinity": "anima"
+            },
+            "Marcus": {
+                "base": "20",
+                "growth": "+3",
+                "affinity": "ice"
+            },
+            "Isadora": {
+                "base": "10",
+                "growth": "+3",
+                "affinity": "dark"
+            },
+            "Harken": {
+                "base": "15",
+                "growth": "+3",
+                "affinity": "fire"
+            },
+            "Rebecca": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "fire"
+            }
+        }
+    },
+    "lucius": {
+        "name": "Lucius",
+        "portrait": "lucius.png",
+        "job": "monk",
+        "lvl": 3,
+        "gender": "male",
+        "affinity": "light",
+        "note": false,
+        "promo": [
+            "bishopm"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 55,
+            "atk": 60,
+            "skl": 50,
+            "spd": 40,
+            "lck": 20,
+            "def": 10,
+            "res": 60
+        },
+        "rank": {
+            "light": 31
+        },
+        "base": {
+            "hp": 0,
+            "atk": 6,
+            "skl": 5,
+            "spd": 8,
+            "lck": 2,
+            "def": 0,
+            "res": 1,
+            "con": 0
+        },
+        "support": {
+            "Raven": {
+                "base": "30",
+                "growth": "+3",
+                "affinity": "ice"
+            },
+            "Priscilla": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "wind"
+            },
+            "Serra": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "thunder"
+            },
+            "Renault": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "anima"
+            },
+            "Karel": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "light"
+            }
+        }
+    },
+    "lyn": {
+        "name": "Lyn (Main Mode)",
+        "portrait": "lyn.png",
+        "job": "lordlyn",
+        "lvl": 4,
+        "gender": "female",
+        "affinity": "wind",
+        "note": false,
+        "promo": [
+            "bladelord"
+        ],
+        "alt": [
+            "lynlyn"
+        ],
+        "growth": {
+            "hp": 70,
+            "atk": 40,
+            "skl": 60,
+            "spd": 60,
+            "lck": 55,
+            "def": 20,
+            "res": 30
+        },
+        "rank": {
+            "sword": 71
+        },
+        "base": {
+            "hp": 2,
+            "atk": 1,
+            "skl": 3,
+            "spd": 2,
+            "lck": 5,
+            "def": 0,
+            "res": 0,
+            "con": 0
+        },
+        "support": {
+            "Eliwood": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "anima"
+            },
+            "Hector": {
+                "base": "0",
+                "growth": "+3",
+                "affinity": "thunder"
+            },
+            "Florina": {
+                "base": "76",
+                "growth": "+4",
+                "affinity": "light"
+            },
+            "Rath": {
+                "base": "15",
+                "growth": "+4",
+                "affinity": "dark"
+            },
+            "Kent": {
+                "base": "20",
+                "growth": "+3",
+                "affinity": "anima"
+            },
+            "Wil": {
+                "base": "17",
+                "growth": "+3",
+                "affinity": "wind"
+            },
+            "Wallace": {
+                "base": "15",
+                "growth": "+2",
+                "affinity": "thunder"
+            }
+        }
+    },
+    "lynlyn": {
+        "name": "Lyn (Lyn Mode)",
+        "portrait": "lyn.png",
+        "job": "lordlyn",
+        "lvl": 1,
+        "gender": "female",
+        "affinity": "wind",
+        "note": false,
+        "promo": [
+            "bladelord"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 70,
+            "atk": 40,
+            "skl": 60,
+            "spd": 60,
+            "lck": 55,
+            "def": 20,
+            "res": 30
+        },
+        "rank": {
+            "sword": 31
+        },
+        "base": {
+            "hp": 0,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 5,
+            "def": 0,
+            "res": 0,
+            "con": 0
+        },
+        "IGNORE": true,
+        "RANDOM_IGNORE": true,
+        "support": {}
+    },
+    "marcus": {
+        "name": "Marcus",
+        "portrait": "marcus.png",
+        "job": "paladinm",
+        "lvl": 1,
+        "gender": "male",
+        "affinity": "ice",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 65,
+            "atk": 30,
+            "skl": 50,
+            "spd": 25,
+            "lck": 30,
+            "def": 15,
+            "res": 35
+        },
+        "rank": {
+            "sword": 181,
+            "lance": 181,
+            "axe": 121
+        },
+        "base": {
+            "hp": 8,
+            "atk": 8,
+            "skl": 11,
+            "spd": 4,
+            "lck": 8,
+            "def": 2,
+            "res": 5,
+            "con": 0
+        },
+        "support": {
+            "Eliwood": {
+                "base": "25",
+                "growth": "+2",
+                "affinity": "anima"
+            },
+            "Merlinus": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "dark"
+            },
+            "Lowen": {
+                "base": "20",
+                "growth": "+3",
+                "affinity": "fire"
+            },
+            "Isadora": {
+                "base": "15",
+                "growth": "+3",
+                "affinity": "dark"
+            },
+            "Harken": {
+                "base": "20",
+                "growth": "+2",
+                "affinity": "fire"
+            }
+        }
+    },
+    "matthew": {
+        "name": "Matthew",
+        "portrait": "matthew.png",
+        "job": "thiefm",
+        "lvl": 2,
+        "gender": "male",
+        "affinity": "wind",
+        "note": false,
+        "promo": [
+            "assassin"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 75,
+            "atk": 30,
+            "skl": 40,
+            "spd": 70,
+            "lck": 50,
+            "def": 25,
+            "res": 20
+        },
+        "rank": {
+            "sword": 31
+        },
+        "base": {
+            "hp": 2,
+            "atk": 1,
+            "skl": 3,
+            "spd": 2,
+            "lck": 2,
+            "def": 1,
+            "res": 0,
+            "con": 1
+        },
+        "support": {
+            "Hector": {
+                "base": "20",
+                "growth": "+3",
+                "affinity": "thunder"
+            },
+            "Jaffar": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "ice"
+            },
+            "Guy": {
+                "base": "10",
+                "growth": "+3",
+                "affinity": "fire"
+            },
+            "Serra": {
+                "base": "5",
+                "growth": "+1",
+                "affinity": "thunder"
+            },
+            "Oswin": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "anima"
+            },
+            "Legault": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "ice"
+            }
+        }
+    },
+    "merlinus": {
+        "name": "Merlinus",
+        "portrait": "merlinus.png",
+        "job": "transportertent",
+        "lvl": 5,
+        "gender": "male",
+        "affinity": "dark",
+        "note": false,
+        "promo": [
+            "transporterwagon"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 120,
+            "atk": 0,
+            "skl": 90,
+            "spd": 90,
+            "lck": 100,
+            "def": 30,
+            "res": 15
+        },
+        "rank": {},
+        "base": {
+            "hp": 3,
+            "atk": 0,
+            "skl": 1,
+            "spd": 2,
+            "lck": 12,
+            "def": 2,
+            "res": 2,
+            "con": 0
+        },
+        "support": {
+            "Marcus": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "ice"
+            },
+            "Nino": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "fire"
+            },
+            "Vaida": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "fire"
+            }
+        }
+    },
+    "nils": {
+        "name": "Nils",
+        "portrait": "nils.png",
+        "job": "bard",
+        "lvl": 1,
+        "gender": "male",
+        "affinity": "ice",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 85,
+            "atk": 5,
+            "skl": 5,
+            "spd": 70,
+            "lck": 80,
+            "def": 30,
+            "res": 70
+        },
+        "rank": {},
+        "base": {
+            "hp": 0,
+            "atk": -1,
+            "skl": -2,
+            "spd": 5,
+            "lck": 10,
+            "def": 4,
+            "res": 4,
+            "con": 0
+        },
+        "support": {}
+    },
+    "ninian": {
+        "name": "Ninian",
+        "portrait": "ninian.png",
+        "job": "dancer",
+        "lvl": 1,
+        "gender": "female",
+        "affinity": "ice",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 85,
+            "atk": 5,
+            "skl": 5,
+            "spd": 70,
+            "lck": 80,
+            "def": 30,
+            "res": 70
+        },
+        "rank": {},
+        "base": {
+            "hp": 0,
+            "atk": -1,
+            "skl": -2,
+            "spd": 5,
+            "lck": 10,
+            "def": 5,
+            "res": 3,
+            "con": 0
+        },
+        "support": {
+            "Eliwood": {
+                "base": "0",
+                "growth": "+5",
+                "affinity": "anima"
+            },
+            "Florina": {
+                "base": "0",
+                "growth": "+4",
+                "affinity": "light"
+            },
+            "Hawkeye": {
+                "base": "0",
+                "growth": "+3",
+                "affinity": "wind"
+            }
+        }
+    },
+    "nino": {
+        "name": "Nino",
+        "portrait": "nino.png",
+        "job": "magef",
+        "lvl": 5,
+        "gender": "female",
+        "affinity": "fire",
+        "note": false,
+        "promo": [
+            "sagef"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 55,
+            "atk": 50,
+            "skl": 55,
+            "spd": 60,
+            "lck": 45,
+            "def": 15,
+            "res": 50
+        },
+        "rank": {
+            "anima": 71
+        },
+        "base": {
+            "hp": 3,
+            "atk": 6,
+            "skl": 5,
+            "spd": 9,
+            "lck": 10,
+            "def": 2,
+            "res": 3,
+            "con": 0
+        },
+        "support": {
+            "Jaffar": {
+                "base": "25",
+                "growth": "+3",
+                "affinity": "ice"
+            },
+            "Erk": {
+                "base": "0",
+                "growth": "+3",
+                "affinity": "thunder"
+            },
+            "Florina": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "light"
+            },
+            "Merlinus": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "dark"
+            },
+            "Legault": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "ice"
+            },
+            "Canas": {
+                "base": "0",
+                "growth": "+3",
+                "affinity": "anima"
+            },
+            "Rebecca": {
+                "base": "0",
+                "growth": "+3",
+                "affinity": "fire"
+            }
+        }
+    },
+    "oswin": {
+        "name": "Oswin",
+        "portrait": "oswin.png",
+        "job": "knightm",
+        "lvl": 9,
+        "gender": "male",
+        "affinity": "anima",
+        "note": false,
+        "promo": [
+            "generalm"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 90,
+            "atk": 40,
+            "skl": 30,
+            "spd": 30,
+            "lck": 35,
+            "def": 55,
+            "res": 30
+        },
+        "rank": {
+            "lance": 121
+        },
+        "base": {
+            "hp": 11,
+            "atk": 8,
+            "skl": 7,
+            "spd": 5,
+            "lck": 3,
+            "def": 4,
+            "res": 3,
+            "con": 1
+        },
+        "support": {
+            "Hector": {
+                "base": "20",
+                "growth": "+2",
+                "affinity": "thunder"
+            },
+            "Matthew": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "wind"
+            },
+            "Serra": {
+                "base": "10",
+                "growth": "+1",
+                "affinity": "thunder"
+            },
+            "Priscilla": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "wind"
+            },
+            "Dorcas": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "fire"
+            }
+        }
+    },
+    "pent": {
+        "name": "Pent",
+        "portrait": "pent.png",
+        "job": "sagem",
+        "lvl": 6,
+        "gender": "male",
+        "affinity": "ice",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 50,
+            "atk": 30,
+            "skl": 20,
+            "spd": 40,
+            "lck": 40,
+            "def": 30,
+            "res": 35
+        },
+        "rank": {
+            "staff": 181,
+            "anima": 181
+        },
+        "base": {
+            "hp": 13,
+            "atk": 13,
+            "skl": 17,
+            "spd": 13,
+            "lck": 14,
+            "def": 6,
+            "res": 11,
+            "con": 1
+        },
+        "support": {
+            "Louise": {
+                "base": "241",
+                "growth": "+0",
+                "affinity": "light"
+            },
+            "Erk": {
+                "base": "25",
+                "growth": "+3",
+                "affinity": "thunder"
+            },
+            "Canas": {
+                "base": "0",
+                "growth": "+3",
+                "affinity": "anima"
+            },
+            "Hawkeye": {
+                "base": "20",
+                "growth": "+3",
+                "affinity": "wind"
+            },
+            "Fiora": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "wind"
+            }
+        }
+    },
+    "priscilla": {
+        "name": "Priscilla",
+        "portrait": "priscilla.png",
+        "job": "troubadour",
+        "lvl": 3,
+        "gender": "female",
+        "affinity": "wind",
+        "note": false,
+        "promo": [
+            "valkyrie"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 45,
+            "atk": 40,
+            "skl": 50,
+            "spd": 40,
+            "lck": 65,
+            "def": 15,
+            "res": 50
+        },
+        "rank": {
+            "staff": 71
+        },
+        "base": {
+            "hp": 1,
+            "atk": 5,
+            "skl": 5,
+            "spd": 5,
+            "lck": 7,
+            "def": 1,
+            "res": 1,
+            "con": -1
+        },
+        "support": {
+            "Raven": {
+                "base": "20",
+                "growth": "+3",
+                "affinity": "ice"
+            },
+            "Lucius": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "light"
+            },
+            "Erk": {
+                "base": "15",
+                "growth": "+3",
+                "affinity": "thunder"
+            },
+            "Oswin": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "anima"
+            },
+            "Sain": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "wind"
+            },
+            "Heath": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "thunder"
+            },
+            "Guy": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "fire"
+            }
+        }
+    },
+    "rath": {
+        "name": "Rath (Main Mode)",
+        "portrait": "rath.png",
+        "job": "nomadm",
+        "lvl": 9,
+        "gender": "male",
+        "affinity": "dark",
+        "note": false,
+        "promo": [
+            "nomadtrooperm"
+        ],
+        "alt": [
+            "rathlyn"
+        ],
+        "growth": {
+            "hp": 80,
+            "atk": 50,
+            "skl": 40,
+            "spd": 50,
+            "lck": 30,
+            "def": 10,
+            "res": 25
+        },
+        "rank": {
+            "bow": 121
+        },
+        "base": {
+            "hp": 11,
+            "atk": 4,
+            "skl": 6,
+            "spd": 6,
+            "lck": 5,
+            "def": 4,
+            "res": 2,
+            "con": 0
+        },
+        "support": {
+            "Lyn": {
+                "base": "15",
+                "growth": "+4",
+                "affinity": "wind"
+            },
+            "Wil": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "wind"
+            },
+            "Guy": {
+                "base": "0",
+                "growth": "+4",
+                "affinity": "fire"
+            }
+        }
+    },
+    "rathlyn": {
+        "name": "Rath (Lyn Mode)",
+        "portrait": "rath.png",
+        "job": "nomadm",
+        "lvl": 7,
+        "gender": "male",
+        "affinity": "dark",
+        "note": false,
+        "promo": [
+            "nomadtrooperm"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 80,
+            "atk": 50,
+            "skl": 40,
+            "spd": 50,
+            "lck": 30,
+            "def": 10,
+            "res": 25
+        },
+        "rank": {
+            "bow": 71
+        },
+        "base": {
+            "hp": 9,
+            "atk": 3,
+            "skl": 5,
+            "spd": 5,
+            "lck": 5,
+            "def": 3,
+            "res": 2,
+            "con": 1
+        },
+        "IGNORE": true,
+        "RANDOM_IGNORE": true,
+        "support": {}
+    },
+    "raven": {
+        "name": "Raven",
+        "portrait": "raven.png",
+        "job": "mercenarym",
+        "lvl": 5,
+        "gender": "male",
+        "affinity": "ice",
+        "note": false,
+        "promo": [
+            "herom"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 85,
+            "atk": 55,
+            "skl": 40,
+            "spd": 45,
+            "lck": 35,
+            "def": 25,
+            "res": 15
+        },
+        "hard": {
+            "hp": 11,
+            "atk": 6,
+            "skl": 5,
+            "spd": 7,
+            "lck": 2,
+            "def": 2,
+            "res": 2,
+            "con": -1
+        },
+        "rank": {
+            "sword": 71
+        },
+        "base": {
+            "hp": 7,
+            "atk": 4,
+            "skl": 3,
+            "spd": 5,
+            "lck": 2,
+            "def": 1,
+            "res": 1,
+            "con": -1
+        },
+        "support": {
+            "Lucius": {
+                "base": "30",
+                "growth": "+3",
+                "affinity": "light"
+            },
+            "Priscilla": {
+                "base": "20",
+                "growth": "+3",
+                "affinity": "wind"
+            },
+            "Rebecca": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "fire"
+            },
+            "Wil": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "wind"
+            },
+            "Bartre": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "thunder"
+            }
+        }
+    },
+    "rebecca": {
+        "name": "Rebecca",
+        "portrait": "rebecca.png",
+        "job": "archerf",
+        "lvl": 1,
+        "gender": "female",
+        "affinity": "fire",
+        "note": false,
+        "promo": [
+            "sniperf"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 60,
+            "atk": 40,
+            "skl": 50,
+            "spd": 60,
+            "lck": 50,
+            "def": 15,
+            "res": 30
+        },
+        "rank": {
+            "bow": 31
+        },
+        "base": {
+            "hp": 0,
+            "atk": 1,
+            "skl": 2,
+            "spd": 2,
+            "lck": 4,
+            "def": 0,
+            "res": 1,
+            "con": 0
+        },
+        "support": {
+            "Wil": {
+                "base": "30",
+                "growth": "+3",
+                "affinity": "wind"
+            },
+            "Lowen": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "fire"
+            },
+            "Sain": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "wind"
+            },
+            "Dart": {
+                "base": "35",
+                "growth": "+3",
+                "affinity": "fire"
+            },
+            "Louise": {
+                "base": "0",
+                "growth": "+3",
+                "affinity": "light"
+            },
+            "Raven": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "ice"
+            },
+            "Nino": {
+                "base": "0",
+                "growth": "+3",
+                "affinity": "fire"
+            }
+        }
+    },
+    "renault": {
+        "name": "Renault",
+        "portrait": "renault.png",
+        "job": "bishopm",
+        "lvl": 16,
+        "gender": "male",
+        "affinity": "anima",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 60,
+            "atk": 40,
+            "skl": 30,
+            "spd": 35,
+            "lck": 15,
+            "def": 20,
+            "res": 40
+        },
+        "rank": {
+            "staff": 181,
+            "light": 181
+        },
+        "base": {
+            "hp": 22,
+            "atk": 8,
+            "skl": 18,
+            "spd": 16,
+            "lck": 10,
+            "def": 12,
+            "res": 10,
+            "con": 2
+        },
+        "support": {
+            "Bartre": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "thunder"
+            },
+            "Isadora": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "dark"
+            },
+            "Lucius": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "light"
+            },
+            "Wallace": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "thunder"
+            },
+            "Canas": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "anima"
+            }
+        }
+    },
+    "sain": {
+        "name": "Sain (Main Mode)",
+        "portrait": "sain.png",
+        "job": "cavalierm",
+        "lvl": 4,
+        "gender": "male",
+        "affinity": "wind",
+        "note": false,
+        "promo": [
+            "paladinm"
+        ],
+        "alt": [
+            "sainlyn"
+        ],
+        "growth": {
+            "hp": 80,
+            "atk": 60,
+            "skl": 35,
+            "spd": 40,
+            "lck": 35,
+            "def": 20,
+            "res": 20
+        },
+        "rank": {
+            "sword": 31,
+            "lance": 31
+        },
+        "base": {
+            "hp": 2,
+            "atk": 4,
+            "skl": 3,
+            "spd": 2,
+            "lck": 5,
+            "def": 1,
+            "res": 0,
+            "con": 0
+        },
+        "support": {
+            "Kent": {
+                "base": "30",
+                "growth": "+3",
+                "affinity": "anima"
+            },
+            "Fiora": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "wind"
+            },
+            "Serra": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "thunder"
+            },
+            "Rebecca": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "fire"
+            },
+            "Priscilla": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "wind"
+            },
+            "Louise": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "light"
+            },
+            "Isadora": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "dark"
+            }
+        }
+    },
+    "sainlyn": {
+        "name": "Sain (Lyn Mode)",
+        "portrait": "sain.png",
+        "job": "cavalierm",
+        "lvl": 1,
+        "gender": "male",
+        "affinity": "wind",
+        "note": false,
+        "promo": [
+            "paladinm"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 80,
+            "atk": 60,
+            "skl": 35,
+            "spd": 40,
+            "lck": 35,
+            "def": 20,
+            "res": 20
+        },
+        "rank": {
+            "sword": 1,
+            "lance": 31
+        },
+        "base": {
+            "hp": -1,
+            "atk": 3,
+            "skl": 2,
+            "spd": 1,
+            "lck": 4,
+            "def": 0,
+            "res": 0,
+            "con": 0
+        },
+        "IGNORE": true,
+        "RANDOM_IGNORE": true,
+        "support": {}
+    },
+    "serra": {
+        "name": "Serra",
+        "portrait": "serra.png",
+        "job": "cleric",
+        "lvl": 1,
+        "gender": "female",
+        "affinity": "thunder",
+        "note": false,
+        "promo": [
+            "bishopf"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 50,
+            "atk": 50,
+            "skl": 30,
+            "spd": 40,
+            "lck": 60,
+            "def": 15,
+            "res": 55
+        },
+        "rank": {
+            "staff": 31
+        },
+        "base": {
+            "hp": 1,
+            "atk": 1,
+            "skl": 3,
+            "spd": 6,
+            "lck": 6,
+            "def": 2,
+            "res": -1,
+            "con": 0
+        },
+        "support": {
+            "Hector": {
+                "base": "15",
+                "growth": "+1",
+                "affinity": "thunder"
+            },
+            "Matthew": {
+                "base": "5",
+                "growth": "+1",
+                "affinity": "wind"
+            },
+            "Florina": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "light"
+            },
+            "Sain": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "wind"
+            },
+            "Oswin": {
+                "base": "10",
+                "growth": "+1",
+                "affinity": "anima"
+            },
+            "Lucius": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "light"
+            },
+            "Erk": {
+                "base": "2",
+                "growth": "+1",
+                "affinity": "thunder"
+            }
+        }
+    },
+    "vaida": {
+        "name": "Vaida",
+        "portrait": "vaida.png",
+        "job": "wyvernlordf",
+        "lvl": 9,
+        "gender": "female",
+        "affinity": "fire",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 60,
+            "atk": 45,
+            "skl": 25,
+            "spd": 40,
+            "lck": 30,
+            "def": 25,
+            "res": 15
+        },
+        "hard": {
+            "hp": 23,
+            "atk": 14,
+            "skl": 14,
+            "spd": 7,
+            "lck": 11,
+            "def": 13,
+            "res": 5,
+            "con": 2
+        },
+        "rank": {
+            "sword": 181,
+            "lance": 181
+        },
+        "base": {
+            "hp": 19,
+            "atk": 12,
+            "skl": 12,
+            "spd": 6,
+            "lck": 11,
+            "def": 12,
+            "res": 4,
+            "con": 2
+        },
+        "support": {
+            "Heath": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "thunder"
+            },
+            "Harken": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "fire"
+            },
+            "Karla": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "dark"
+            },
+            "Wallace": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "thunder"
+            },
+            "Canas": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "anima"
+            },
+            "Dorcas": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "fire"
+            },
+            "Merlinus": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "dark"
+            }
+        }
+    },
+    "wallace": {
+        "name": "Wallace (Main Mode)",
+        "portrait": "wallace.png",
+        "job": "generalm",
+        "lvl": 1,
+        "gender": "male",
+        "affinity": "thunder",
+        "note": false,
+        "promo": [],
+        "alt": [
+            "wallacelyn"
+        ],
+        "growth": {
+            "hp": 70,
+            "atk": 45,
+            "skl": 40,
+            "spd": 20,
+            "lck": 30,
+            "def": 35,
+            "res": 35
+        },
+        "rank": {
+            "lance": 181,
+            "axe": 1
+        },
+        "base": {
+            "hp": 13,
+            "atk": 8,
+            "skl": 5,
+            "spd": 5,
+            "lck": 10,
+            "def": 6,
+            "res": 2,
+            "con": 0
+        },
+        "support": {
+            "Lyn": {
+                "base": "15",
+                "growth": "+2",
+                "affinity": "wind"
+            },
+            "Renault": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "anima"
+            },
+            "Wil": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "wind"
+            },
+            "Vaida": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "fire"
+            },
+            "Kent": {
+                "base": "15",
+                "growth": "+2",
+                "affinity": "anima"
+            }
+        }
+    },
+    "wallacelyn": {
+        "name": "Wallace (Lyn Mode)",
+        "portrait": "wallace.png",
+        "job": "knightm",
+        "lvl": 12,
+        "gender": "male",
+        "affinity": "thunder",
+        "note": false,
+        "promo": [
+            "generalm"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 70,
+            "atk": 45,
+            "skl": 40,
+            "spd": 20,
+            "lck": 30,
+            "def": 35,
+            "res": 35
+        },
+        "rank": {
+            "lance": 181
+        },
+        "base": {
+            "hp": 13,
+            "atk": 8,
+            "skl": 5,
+            "spd": 5,
+            "lck": 10,
+            "def": 6,
+            "res": 2,
+            "con": 0
+        },
+        "IGNORE": true,
+        "RANDOM_IGNORE": true,
+        "support": {}
+    },
+    "wil": {
+        "name": "Wil (Main Mode)",
+        "portrait": "wil.png",
+        "job": "archerm",
+        "lvl": 4,
+        "gender": "male",
+        "affinity": "wind",
+        "note": false,
+        "promo": [
+            "sniperm"
+        ],
+        "alt": [
+            "willyn"
+        ],
+        "growth": {
+            "hp": 75,
+            "atk": 50,
+            "skl": 50,
+            "spd": 40,
+            "lck": 40,
+            "def": 20,
+            "res": 25
+        },
+        "rank": {
+            "bow": 31
+        },
+        "base": {
+            "hp": 3,
+            "atk": 2,
+            "skl": 2,
+            "spd": 3,
+            "lck": 7,
+            "def": 2,
+            "res": 1,
+            "con": -1
+        },
+        "support": {
+            "Lyn": {
+                "base": "17",
+                "growth": "+3",
+                "affinity": "wind"
+            },
+            "Rebecca": {
+                "base": "30",
+                "growth": "+3",
+                "affinity": "fire"
+            },
+            "Rath": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "dark"
+            },
+            "Dart": {
+                "base": "20",
+                "growth": "+3",
+                "affinity": "fire"
+            },
+            "Wallace": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "thunder"
+            },
+            "Raven": {
+                "base": "0",
+                "growth": "+1",
+                "affinity": "ice"
+            }
+        }
+    },
+    "willyn": {
+        "name": "Wil (Lyn Mode)",
+        "portrait": "wil.png",
+        "job": "archerm",
+        "lvl": 2,
+        "gender": "male",
+        "affinity": "wind",
+        "note": false,
+        "promo": [
+            "sniperm"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 75,
+            "atk": 50,
+            "skl": 50,
+            "spd": 40,
+            "lck": 40,
+            "def": 20,
+            "res": 25
+        },
+        "rank": {
+            "bow": 31
+        },
+        "base": {
+            "hp": 2,
+            "atk": 2,
+            "skl": 2,
+            "spd": 2,
+            "lck": 6,
+            "def": 2,
+            "res": 0,
+            "con": -1
+        },
+        "IGNORE": true,
+        "RANDOM_IGNORE": true,
+        "support": {}
+    }
+}

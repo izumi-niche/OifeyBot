@@ -1,0 +1,79 @@
+{
+    "name": "Takumi (Endgame)",
+    "job": "sniper",
+    "portrait": "takumi_valla.png",
+    "lvl": 20,
+    "type": "boss",
+    "personal": "competitive",
+    "father": false,
+    "mother": false,
+    "gender": "male",
+    "blood": true,
+    "note": false,
+    "base": {
+        "normal": {
+            "hp": 41,
+            "str": 19,
+            "mag": 0,
+            "skl": 21,
+            "spd": 16,
+            "lck": 12,
+            "def": 18,
+            "res": 18
+        },
+        "hard": {
+            "hp": 46,
+            "str": 21,
+            "mag": 0,
+            "skl": 24,
+            "spd": 18,
+            "lck": 12,
+            "def": 20,
+            "res": 20
+        },
+        "lunatic": {
+            "hp": 56,
+            "str": 21,
+            "mag": 0,
+            "skl": 24,
+            "spd": 18,
+            "lck": 12,
+            "def": 20,
+            "res": 20
+        }
+    },
+    "cap": false,
+    "rank": {
+        "normal": {
+            "bow": 251
+        },
+        "hard": {
+            "bow": 251
+        },
+        "lunatic": {
+            "bow": 251
+        }
+    },
+    "skill": {
+        "normal": [
+            "draconichex",
+            "dragonskin",
+            "boldstance"
+        ],
+        "hard": [
+            "draconichex",
+            "vengeance",
+            "dragonskin",
+            "boldstance"
+        ],
+        "lunatic": [
+            "draconichex",
+            "vengeance",
+            "lifetaker",
+            "dragonskin",
+            "boldstance"
+        ]
+    },
+    "pairup": false,
+    "variable": true
+}

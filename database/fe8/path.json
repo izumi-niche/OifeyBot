@@ -1,0 +1,134 @@
+{
+    "cavalier": {
+        "name": "Cavalier",
+        "path": 1
+    },
+    "knight": {
+        "name": "Knight",
+        "path": 2
+    },
+    "superrecruit": {
+        "name": "Super Recruit",
+        "path": 3
+    },
+    "bishop": {
+        "name": "Bishop",
+        "path": 1
+    },
+    "sage": {
+        "name": "Sage",
+        "path": 2
+    },
+    "rogue": {
+        "name": "Rogue",
+        "path": 1
+    },
+    "assassin": {
+        "name": "Assassin",
+        "path": 2
+    },
+    "wyvernlord": {
+        "name": "Wyvern Lord",
+        "path": 1
+    },
+    "wyvernknight": {
+        "name": "Wyvern Knight",
+        "path": 2
+    },
+    "greatlord": {
+        "name": "Great Lord",
+        "path": 1
+    },
+    "mage": {
+        "name": "Mage",
+        "path": 1
+    },
+    "shaman": {
+        "name": "Shaman",
+        "path": 2
+    },
+    "superpupil": {
+        "name": "Super Pupil",
+        "path": 3
+    },
+    "paladin": {
+        "name": "Paladin",
+        "path": 1
+    },
+    "greatknight": {
+        "name": "Great Knight",
+        "path": 2
+    },
+    "hero": {
+        "name": "Hero",
+        "path": 1
+    },
+    "warrior": {
+        "name": "Warrior",
+        "path": 2
+    },
+    "ranger": {
+        "name": "Ranger",
+        "path": 2
+    },
+    "general": {
+        "name": "General",
+        "path": 1
+    },
+    "swordmaster": {
+        "name": "Swordmaster",
+        "path": 1
+    },
+    "druid": {
+        "name": "Druid",
+        "path": 1
+    },
+    "summoner": {
+        "name": "Summoner",
+        "path": 2
+    },
+    "mageknight": {
+        "name": "Mage Knight",
+        "path": 1
+    },
+    "valkyrie": {
+        "name": "Valkyrie",
+        "path": 2
+    },
+    "sniper": {
+        "name": "Sniper",
+        "path": 1
+    },
+    "fighter": {
+        "name": "Fighter",
+        "path": 1
+    },
+    "pirate": {
+        "name": "Pirate",
+        "path": 2
+    },
+    "superjourneyman": {
+        "name": "Super Journeyman",
+        "path": 3
+    },
+    "falcoknight": {
+        "name": "Falcoknight",
+        "path": 1
+    },
+    "hyperjourneyman": {
+        "name": "Hyper Journeyman",
+        "path": 2
+    },
+    "hyperpupil": {
+        "name": "Hyper Pupil",
+        "path": 2
+    },
+    "hyperrecruit": {
+        "name": "Hyper Recruit",
+        "path": 2
+    },
+    "berserker": {
+        "name": "Berserker",
+        "path": 1
+    }
+}

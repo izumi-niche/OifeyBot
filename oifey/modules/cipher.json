@@ -1,0 +1,15 @@
+{
+    "cipher": {
+        "name": "Cipher",
+        "default": "card",
+        "data": {
+            "card": {
+                "main": "database/cipher/card.json",
+                "lua": [
+                    "cipher",
+                    "Card"
+                ]
+            }
+        }
+    }
+}

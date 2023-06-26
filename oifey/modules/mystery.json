@@ -1,0 +1,197 @@
+{
+    "fe3": {
+        "name": "Mystery",
+        "default": "unit",
+        "alias": [
+            "mystery"
+        ],
+        "data": {
+            "unit": {
+                "main": "database/fe3/redirect.json",
+                "bool": {
+                    "personal": [],
+                    "secret": []
+                },
+                "entry": {
+                    "class": "database/fe3/job.json"
+                },
+                "list": {
+                    "shard": [
+                        "aries",
+                        "taurus",
+                        "gemini",
+                        "cancer",
+                        "leo",
+                        "virgo",
+                        "libra",
+                        "scorpio",
+                        "sagittarius",
+                        "capricorn",
+                        "aquarius",
+                        "pisces",
+                        "starsphere"
+                    ]
+                },
+                "choice": {
+                    "book": {
+                        "Book 1": "b1",
+                        "Book 2": "b2"
+                    }
+                },
+                "required": [
+                    "book"
+                ],
+                "level": [
+                    20,
+                    20
+                ],
+                "custom_help": {
+                    "Averages": "text/game/averages/fe3.txt"
+                },
+                "classic_hidden": [
+                    "level",
+                    "book"
+                ],
+                "lua": [
+                    "fe3",
+                    "Character"
+                ],
+                "comma": {
+                    "name": "compare",
+                    "size": 4
+                }
+            },
+            "b2": {
+                "main": "database/fe3/b2.json",
+                "bool": {
+                    "personal": [],
+                    "secret": []
+                },
+                "entry": {
+                    "class": "database/fe3/job.json"
+                },
+                "list": {
+                    "shard": [
+                        "aries",
+                        "taurus",
+                        "gemini",
+                        "cancer",
+                        "leo",
+                        "virgo",
+                        "libra",
+                        "scorpio",
+                        "sagittarius",
+                        "capricorn",
+                        "aquarius",
+                        "pisces",
+                        "starsphere"
+                    ]
+                },
+                "NO_SLASH": true,
+                "level": [
+                    20,
+                    20
+                ],
+                "classic_hidden": [
+                    "level",
+                    "book"
+                ],
+                "lua": [
+                    "fe3",
+                    "Book2"
+                ]
+            },
+            "b1": {
+                "main": "database/fe3/b1.json",
+                "bool": {
+                    "personal": [],
+                    "secret": []
+                },
+                "entry": {
+                    "class": "database/fe3/job.json"
+                },
+                "list": {
+                    "shard": [
+                        "aries",
+                        "taurus",
+                        "gemini",
+                        "cancer",
+                        "leo",
+                        "virgo",
+                        "libra",
+                        "scorpio",
+                        "sagittarius",
+                        "capricorn",
+                        "aquarius",
+                        "pisces"
+                    ]
+                },
+                "NO_SLASH": true,
+                "level": [
+                    20,
+                    20
+                ],
+                "classic_hidden": [
+                    "level",
+                    "book"
+                ],
+                "lua": [
+                    "fe3",
+                    "Book2"
+                ]
+            },
+            "bsfe": {
+                "main": "database/fe3/bsfe.json",
+                "bool": {
+                    "personal": [],
+                    "secret": []
+                },
+                "entry": {
+                    "class": "database/fe3/job.json"
+                },
+                "list": {
+                    "shard": [
+                        "aries",
+                        "taurus",
+                        "gemini",
+                        "cancer",
+                        "leo",
+                        "virgo",
+                        "libra",
+                        "scorpio",
+                        "sagittarius",
+                        "capricorn",
+                        "aquarius",
+                        "pisces"
+                    ]
+                },
+                "level": [
+                    20,
+                    20
+                ],
+                "classic_hidden": [
+                    "level",
+                    "book"
+                ],
+                "lua": [
+                    "fe3",
+                    "BSFE"
+                ]
+            },
+            "class": {
+                "main": "database/fe3/job.json",
+                "lua": [
+                    "fe3",
+                    "Job"
+                ]
+            },
+            "item": {
+                "main": "database/fe3/item.json",
+                "lua": [
+                    "fe3",
+                    "Item"
+                ]
+            }
+        }
+    }
+}

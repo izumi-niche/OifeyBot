@@ -1,0 +1,4143 @@
+{
+    "dragonchild": {
+        "name": "Dragon Child",
+        "desc": "A descendant of a line of dragons going back to ancient days. Can use swords unique to the Divine Dragon.",
+        "skill": null,
+        "promoted": false,
+        "promo": [
+            "divinedragon"
+        ],
+        "base": {
+            "hp": 22,
+            "str": 6,
+            "dex": 2,
+            "spd": 7,
+            "lck": 2,
+            "def": 5,
+            "mag": 0,
+            "res": 3,
+            "bld": 4,
+            "sight": 3,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 10,
+            "str": 10,
+            "dex": 10,
+            "spd": 15,
+            "lck": 5,
+            "def": 10,
+            "mag": 0,
+            "res": 10,
+            "bld": 5,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 68,
+            "str": 41,
+            "dex": 36,
+            "spd": 43,
+            "lck": 35,
+            "def": 35,
+            "mag": 25,
+            "res": 25,
+            "bld": 13,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "sword": "B"
+        },
+        "slot": [
+            [
+                "sword"
+            ]
+        ],
+        "type": "Dragon"
+    },
+    "divinedragon": {
+        "name": "Divine Dragon",
+        "desc": "Keeper of the power of the great reigning dragon. Uses Divine Dragon swords and martial arts.",
+        "skill": "divinespirit",
+        "promoted": true,
+        "promo": [],
+        "base": {
+            "hp": 24,
+            "str": 8,
+            "dex": 4,
+            "spd": 8,
+            "lck": 3,
+            "def": 6,
+            "mag": 1,
+            "res": 5,
+            "bld": 7,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 10,
+            "str": 10,
+            "dex": 10,
+            "spd": 15,
+            "lck": 10,
+            "def": 15,
+            "mag": 0,
+            "res": 15,
+            "bld": 5,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 68,
+            "str": 41,
+            "dex": 36,
+            "spd": 43,
+            "lck": 35,
+            "def": 35,
+            "mag": 25,
+            "res": 25,
+            "bld": 13,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "sword": "A",
+            "art": "B"
+        },
+        "slot": [
+            [
+                "sword"
+            ],
+            [
+                "art"
+            ]
+        ],
+        "type": "Dragon"
+    },
+    "fellchildveyle": {
+        "name": "Fell Child (Veyle)",
+        "desc": "Inheritor of the blood of the Fell Dragon. Excels in Fell skills and powerful dark magic.",
+        "skill": "fellspirit",
+        "promoted": false,
+        "promo": [],
+        "base": {
+            "hp": 20,
+            "str": 3,
+            "dex": 4,
+            "spd": 5,
+            "lck": 3,
+            "def": 2,
+            "mag": 7,
+            "res": 7,
+            "bld": 4,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 10,
+            "str": 10,
+            "dex": 10,
+            "spd": 5,
+            "lck": 0,
+            "def": 10,
+            "mag": 25,
+            "res": 25,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 48,
+            "str": 35,
+            "dex": 36,
+            "spd": 33,
+            "lck": 30,
+            "def": 25,
+            "mag": 48,
+            "res": 41,
+            "bld": 11,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "knife": "B",
+            "tome": "S"
+        },
+        "slot": [
+            [
+                "knife"
+            ],
+            [
+                "tome"
+            ]
+        ],
+        "type": "Dragon"
+    },
+    "fellchildenemy": {
+        "name": "Fell Child (Enemy)",
+        "desc": "Mindless minion of the Fell Dragon. Uses powerful sword techniques.",
+        "skill": "darkspirit",
+        "promoted": false,
+        "promo": [],
+        "base": {
+            "hp": 24,
+            "str": 8,
+            "dex": 4,
+            "spd": 8,
+            "lck": 3,
+            "def": 6,
+            "mag": 1,
+            "res": 5,
+            "bld": 7,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "mag": 0,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 68,
+            "str": 41,
+            "dex": 36,
+            "spd": 43,
+            "lck": 35,
+            "def": 35,
+            "mag": 25,
+            "res": 25,
+            "bld": 13,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "sword": "A"
+        },
+        "slot": [
+            [
+                "sword"
+            ]
+        ],
+        "type": "Dragon"
+    },
+    "fellmonarch": {
+        "name": "Fell Monarch",
+        "desc": "One who seeks to rule the world as a tyrant. Wields the dark arts to cause maximum destruction.",
+        "skill": "darkspirit",
+        "promoted": false,
+        "promo": [],
+        "base": {
+            "hp": 22,
+            "str": 4,
+            "dex": 5,
+            "spd": 6,
+            "lck": 4,
+            "def": 3,
+            "mag": 10,
+            "res": 9,
+            "bld": 5,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "mag": 0,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 65,
+            "str": 35,
+            "dex": 27,
+            "spd": 36,
+            "lck": 28,
+            "def": 34,
+            "mag": 39,
+            "res": 38,
+            "bld": 18,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "tome": "S"
+        },
+        "slot": [
+            [
+                "tome"
+            ]
+        ],
+        "type": "Dragon"
+    },
+    "greatfelldragon": {
+        "name": "Great Fell Dragon",
+        "desc": "The Fell Dragon wielding the power of the Emblem Rings. Capable now of opening a gate to another world.",
+        "skill": "darkspirit",
+        "promoted": false,
+        "promo": [],
+        "base": {
+            "hp": 30,
+            "str": 10,
+            "dex": 10,
+            "spd": 2,
+            "lck": 8,
+            "def": 10,
+            "mag": 10,
+            "res": 10,
+            "bld": 10,
+            "sight": 3,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "mag": 0,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 100,
+            "str": 45,
+            "dex": 40,
+            "spd": 40,
+            "lck": 40,
+            "def": 45,
+            "mag": 45,
+            "res": 45,
+            "bld": 30,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "special": "S"
+        },
+        "slot": [
+            [
+                "special"
+            ]
+        ],
+        "type": "Dragon"
+    },
+    "noblealfred": {
+        "name": "Noble (Alfred)",
+        "desc": "One born into a noble royal family. A proficient horseman and skilled lancer.",
+        "skill": null,
+        "promoted": false,
+        "promo": [
+            "avenir"
+        ],
+        "base": {
+            "hp": 24,
+            "str": 7,
+            "dex": 6,
+            "spd": 5,
+            "lck": 4,
+            "def": 6,
+            "mag": 2,
+            "res": 4,
+            "bld": 6,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 15,
+            "str": 15,
+            "dex": 5,
+            "spd": 5,
+            "lck": 15,
+            "def": 20,
+            "mag": 0,
+            "res": 5,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 71,
+            "str": 45,
+            "dex": 33,
+            "spd": 35,
+            "lck": 45,
+            "def": 37,
+            "mag": 20,
+            "res": 21,
+            "bld": 16,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "lance": "B"
+        },
+        "slot": [
+            [
+                "lance"
+            ]
+        ],
+        "type": "Cavalry"
+    },
+    "avenir": {
+        "name": "Avenir",
+        "desc": "A dashing prince who rides a white horse into battle. Excels with a lance and serviceable with a blade.",
+        "skill": "goldenlotus",
+        "promoted": true,
+        "promo": [],
+        "base": {
+            "hp": 25,
+            "str": 8,
+            "dex": 7,
+            "spd": 6,
+            "lck": 6,
+            "def": 8,
+            "mag": 4,
+            "res": 6,
+            "bld": 7,
+            "sight": 3,
+            "mov": 6
+        },
+        "growth": {
+            "hp": 15,
+            "str": 15,
+            "dex": 5,
+            "spd": 10,
+            "lck": 20,
+            "def": 25,
+            "mag": 0,
+            "res": 5,
+            "bld": 5,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 71,
+            "str": 45,
+            "dex": 33,
+            "spd": 35,
+            "lck": 45,
+            "def": 37,
+            "mag": 20,
+            "res": 21,
+            "bld": 16,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "sword": "B",
+            "lance": "A"
+        },
+        "slot": [
+            [
+                "sword"
+            ],
+            [
+                "lance"
+            ]
+        ],
+        "type": "Cavalry"
+    },
+    "nobleceline": {
+        "name": "Noble (Celine)",
+        "desc": "One born into a noble royal family. A proficient magic user who is also serviceable with a sword.",
+        "skill": null,
+        "promoted": false,
+        "promo": [
+            "vidame"
+        ],
+        "base": {
+            "hp": 20,
+            "str": 5,
+            "dex": 5,
+            "spd": 8,
+            "lck": 4,
+            "def": 3,
+            "mag": 8,
+            "res": 5,
+            "bld": 4,
+            "sight": 3,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 0,
+            "str": 5,
+            "dex": 5,
+            "spd": 5,
+            "lck": 20,
+            "def": 5,
+            "mag": 10,
+            "res": 10,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 56,
+            "str": 38,
+            "dex": 29,
+            "spd": 41,
+            "lck": 50,
+            "def": 27,
+            "mag": 37,
+            "res": 35,
+            "bld": 11,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "sword": "B",
+            "tome": "B"
+        },
+        "slot": [
+            [
+                "sword"
+            ],
+            [
+                "tome"
+            ]
+        ],
+        "type": "Mystical"
+    },
+    "vidame": {
+        "name": "Vidame",
+        "desc": "Magic-wielding swordswoman who can cut through enemy mages. She is also capable of wielding staves.",
+        "skill": "ignis",
+        "promoted": true,
+        "promo": [],
+        "base": {
+            "hp": 21,
+            "str": 6,
+            "dex": 6,
+            "spd": 9,
+            "lck": 5,
+            "def": 4,
+            "mag": 9,
+            "res": 6,
+            "bld": 5,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 5,
+            "str": 10,
+            "dex": 5,
+            "spd": 5,
+            "lck": 20,
+            "def": 5,
+            "mag": 15,
+            "res": 15,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 56,
+            "str": 38,
+            "dex": 29,
+            "spd": 41,
+            "lck": 50,
+            "def": 27,
+            "mag": 37,
+            "res": 35,
+            "bld": 11,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "sword": "B",
+            "tome": "A",
+            "staff": "B"
+        },
+        "slot": [
+            [
+                "sword"
+            ],
+            [
+                "tome"
+            ],
+            [
+                "staff"
+            ]
+        ],
+        "type": "Mystical"
+    },
+    "lorddiamant": {
+        "name": "Lord (Diamant)",
+        "desc": "One born into a family that leads a nation. Proficient with a sword.",
+        "skill": null,
+        "promoted": false,
+        "promo": [
+            "successeur"
+        ],
+        "base": {
+            "hp": 23,
+            "str": 8,
+            "dex": 7,
+            "spd": 8,
+            "lck": 3,
+            "def": 5,
+            "mag": 1,
+            "res": 3,
+            "bld": 7,
+            "sight": 3,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 15,
+            "str": 20,
+            "dex": 10,
+            "spd": 10,
+            "lck": 5,
+            "def": 10,
+            "mag": 0,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 77,
+            "str": 43,
+            "dex": 23,
+            "spd": 38,
+            "lck": 25,
+            "def": 38,
+            "mag": 23,
+            "res": 20,
+            "bld": 20,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "sword": "B"
+        },
+        "slot": [
+            [
+                "sword"
+            ]
+        ],
+        "type": "Backup"
+    },
+    "successeur": {
+        "name": "Successeur",
+        "desc": "One with the will and strength to lead a nation. Skilled with both the blade and the axe.",
+        "skill": "sol",
+        "promoted": true,
+        "promo": [],
+        "base": {
+            "hp": 25,
+            "str": 10,
+            "dex": 8,
+            "spd": 9,
+            "lck": 4,
+            "def": 6,
+            "mag": 2,
+            "res": 3,
+            "bld": 8,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 15,
+            "str": 20,
+            "dex": 10,
+            "spd": 15,
+            "lck": 10,
+            "def": 15,
+            "mag": 0,
+            "res": 0,
+            "bld": 5,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 77,
+            "str": 43,
+            "dex": 23,
+            "spd": 38,
+            "lck": 25,
+            "def": 38,
+            "mag": 23,
+            "res": 20,
+            "bld": 20,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "sword": "S",
+            "axe": "A"
+        },
+        "slot": [
+            [
+                "sword"
+            ],
+            [
+                "axe"
+            ]
+        ],
+        "type": "Backup"
+    },
+    "lordalcryst": {
+        "name": "Lord (Alcryst)",
+        "desc": "One born into a family that leads a nation. Proficient with a bow.",
+        "skill": null,
+        "promoted": false,
+        "promo": [
+            "tireurdelite"
+        ],
+        "base": {
+            "hp": 21,
+            "str": 7,
+            "dex": 10,
+            "spd": 7,
+            "lck": 2,
+            "def": 4,
+            "mag": 1,
+            "res": 3,
+            "bld": 5,
+            "sight": 3,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 10,
+            "str": 10,
+            "dex": 25,
+            "spd": 10,
+            "lck": 5,
+            "def": 10,
+            "mag": 0,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 68,
+            "str": 41,
+            "dex": 41,
+            "spd": 40,
+            "lck": 30,
+            "def": 29,
+            "mag": 20,
+            "res": 19,
+            "bld": 15,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "bow": "B"
+        },
+        "slot": [
+            [
+                "bow"
+            ]
+        ],
+        "type": "Covert"
+    },
+    "tireurdelite": {
+        "name": "Tireur d'\u00e9lite",
+        "desc": "An archer gifted with incredible aim. Each shot can eliminate a foe.",
+        "skill": "luna",
+        "promoted": true,
+        "promo": [],
+        "base": {
+            "hp": 22,
+            "str": 8,
+            "dex": 12,
+            "spd": 8,
+            "lck": 4,
+            "def": 6,
+            "mag": 1,
+            "res": 4,
+            "bld": 6,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 10,
+            "str": 10,
+            "dex": 30,
+            "spd": 10,
+            "lck": 5,
+            "def": 15,
+            "mag": 0,
+            "res": 5,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 68,
+            "str": 41,
+            "dex": 41,
+            "spd": 40,
+            "lck": 30,
+            "def": 29,
+            "mag": 20,
+            "res": 19,
+            "bld": 15,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "bow": "S"
+        },
+        "slot": [
+            [
+                "bow"
+            ]
+        ],
+        "type": "Covert"
+    },
+    "wingtamerivy": {
+        "name": "Wing Tamer (Ivy)",
+        "desc": "A knight who has a rapport with beasts. Rides a wyvern into battle and uses magic and staves.",
+        "skill": null,
+        "promoted": false,
+        "promo": [
+            "lindwurm"
+        ],
+        "base": {
+            "hp": 20,
+            "str": 1,
+            "dex": 4,
+            "spd": 4,
+            "lck": 1,
+            "def": 6,
+            "mag": 8,
+            "res": 8,
+            "bld": 5,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 5,
+            "str": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 10,
+            "mag": 20,
+            "res": 20,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 60,
+            "str": 31,
+            "dex": 25,
+            "spd": 34,
+            "lck": 20,
+            "def": 31,
+            "mag": 40,
+            "res": 40,
+            "bld": 15,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "tome": "B",
+            "staff": "B"
+        },
+        "slot": [
+            [
+                "tome"
+            ],
+            [
+                "staff"
+            ]
+        ],
+        "type": "Flying"
+    },
+    "lindwurm": {
+        "name": "Lindwurm",
+        "desc": "A magic-using wyvern rider who destroys enemies from above. Can use powerful magic and staves.",
+        "skill": "graspingvoid",
+        "promoted": true,
+        "promo": [],
+        "base": {
+            "hp": 22,
+            "str": 2,
+            "dex": 5,
+            "spd": 5,
+            "lck": 1,
+            "def": 8,
+            "mag": 10,
+            "res": 9,
+            "bld": 6,
+            "sight": 3,
+            "mov": 6
+        },
+        "growth": {
+            "hp": 5,
+            "str": 0,
+            "dex": 5,
+            "spd": 0,
+            "lck": 0,
+            "def": 15,
+            "mag": 25,
+            "res": 25,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 60,
+            "str": 31,
+            "dex": 25,
+            "spd": 34,
+            "lck": 20,
+            "def": 31,
+            "mag": 40,
+            "res": 40,
+            "bld": 15,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "tome": "S",
+            "staff": "B"
+        },
+        "slot": [
+            [
+                "tome"
+            ],
+            [
+                "staff"
+            ]
+        ],
+        "type": "Flying"
+    },
+    "wingtamerhortensia": {
+        "name": "Wing Tamer (Hortensia)",
+        "desc": "A knight who has a rapport with beasts. Rides a pegasus into battle and is skilled with tome and staff.",
+        "skill": null,
+        "promoted": false,
+        "promo": [
+            "sleipnirrider"
+        ],
+        "base": {
+            "hp": 18,
+            "str": 0,
+            "dex": 9,
+            "spd": 8,
+            "lck": 6,
+            "def": 1,
+            "mag": 5,
+            "res": 11,
+            "bld": 4,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "dex": 10,
+            "spd": 10,
+            "lck": 10,
+            "def": 0,
+            "mag": 15,
+            "res": 25,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 47,
+            "str": 26,
+            "dex": 36,
+            "spd": 45,
+            "lck": 53,
+            "def": 19,
+            "mag": 39,
+            "res": 51,
+            "bld": 11,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "tome": "B",
+            "staff": "B"
+        },
+        "slot": [
+            [
+                "tome"
+            ],
+            [
+                "staff"
+            ]
+        ],
+        "type": "Flying"
+    },
+    "sleipnirrider": {
+        "name": "Sleipnir Rider",
+        "desc": "A knight who rides the charming pegasus Sleipnir. Uses powerful staves and is skilled with tomes.",
+        "skill": "worldtree",
+        "promoted": true,
+        "promo": [],
+        "base": {
+            "hp": 18,
+            "str": 1,
+            "dex": 10,
+            "spd": 10,
+            "lck": 8,
+            "def": 2,
+            "mag": 7,
+            "res": 13,
+            "bld": 5,
+            "sight": 3,
+            "mov": 6
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "dex": 15,
+            "spd": 15,
+            "lck": 15,
+            "def": 0,
+            "mag": 20,
+            "res": 30,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 47,
+            "str": 26,
+            "dex": 36,
+            "spd": 45,
+            "lck": 53,
+            "def": 19,
+            "mag": 39,
+            "res": 51,
+            "bld": 11,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "tome": "B",
+            "staff": "S"
+        },
+        "slot": [
+            [
+                "tome"
+            ],
+            [
+                "staff"
+            ]
+        ],
+        "type": "Flying"
+    },
+    "sentineltimerra": {
+        "name": "Sentinel (Timerra)",
+        "desc": "A Sentinel who takes up arms to defend her nation. Proficient with the lance.",
+        "skill": null,
+        "promoted": false,
+        "promo": [
+            "picket"
+        ],
+        "base": {
+            "hp": 24,
+            "str": 8,
+            "dex": 5,
+            "spd": 7,
+            "lck": 3,
+            "def": 8,
+            "mag": 1,
+            "res": 1,
+            "bld": 4,
+            "sight": 3,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 10,
+            "str": 10,
+            "dex": 10,
+            "spd": 5,
+            "lck": 5,
+            "def": 20,
+            "mag": 0,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 63,
+            "str": 35,
+            "dex": 47,
+            "spd": 41,
+            "lck": 37,
+            "def": 33,
+            "mag": 27,
+            "res": 26,
+            "bld": 12,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "lance": "B"
+        },
+        "slot": [
+            [
+                "lance"
+            ]
+        ],
+        "type": "Backup"
+    },
+    "picket": {
+        "name": "Picket",
+        "desc": "A lancer who pierces the enemy lines with flawless skill. Her bouncy steps presage deadly attacks.",
+        "skill": "sandstorm",
+        "promoted": true,
+        "promo": [],
+        "base": {
+            "hp": 25,
+            "str": 9,
+            "dex": 6,
+            "spd": 9,
+            "lck": 4,
+            "def": 10,
+            "mag": 2,
+            "res": 3,
+            "bld": 5,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 10,
+            "str": 15,
+            "dex": 10,
+            "spd": 10,
+            "lck": 5,
+            "def": 20,
+            "mag": 0,
+            "res": 5,
+            "bld": 5,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 63,
+            "str": 35,
+            "dex": 47,
+            "spd": 41,
+            "lck": 37,
+            "def": 33,
+            "mag": 27,
+            "res": 26,
+            "bld": 12,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "lance": "S"
+        },
+        "slot": [
+            [
+                "lance"
+            ]
+        ],
+        "type": "Backup"
+    },
+    "sentinelfogado": {
+        "name": "Sentinel (Fogado)",
+        "desc": "A Sentinel who takes up arms to defend his nation. A proficient rider and archer.",
+        "skill": null,
+        "promoted": false,
+        "promo": [
+            "cupido"
+        ],
+        "base": {
+            "hp": 21,
+            "str": 5,
+            "dex": 9,
+            "spd": 7,
+            "lck": 2,
+            "def": 4,
+            "mag": 1,
+            "res": 3,
+            "bld": 6,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 10,
+            "str": 5,
+            "dex": 15,
+            "spd": 15,
+            "lck": 0,
+            "def": 5,
+            "mag": 0,
+            "res": 15,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 67,
+            "str": 35,
+            "dex": 33,
+            "spd": 49,
+            "lck": 33,
+            "def": 28,
+            "mag": 28,
+            "res": 31,
+            "bld": 16,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "bow": "B"
+        },
+        "slot": [
+            [
+                "bow"
+            ]
+        ],
+        "type": "Cavalry"
+    },
+    "cupido": {
+        "name": "Cupido",
+        "desc": "A charming bow knight who fights with casual flair. Skilled with both bow and sword, he toys with his foe.",
+        "skill": "backatyou",
+        "promoted": true,
+        "promo": [],
+        "base": {
+            "hp": 23,
+            "str": 6,
+            "dex": 10,
+            "spd": 8,
+            "lck": 3,
+            "def": 5,
+            "mag": 3,
+            "res": 5,
+            "bld": 7,
+            "sight": 3,
+            "mov": 6
+        },
+        "growth": {
+            "hp": 10,
+            "str": 5,
+            "dex": 20,
+            "spd": 20,
+            "lck": 0,
+            "def": 5,
+            "mag": 5,
+            "res": 20,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 67,
+            "str": 35,
+            "dex": 33,
+            "spd": 49,
+            "lck": 33,
+            "def": 28,
+            "mag": 28,
+            "res": 31,
+            "bld": 16,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "sword": "B",
+            "bow": "A"
+        },
+        "slot": [
+            [
+                "sword"
+            ],
+            [
+                "bow"
+            ]
+        ],
+        "type": "Cavalry"
+    },
+    "melusineenemy": {
+        "name": "Melusine (Enemy)",
+        "desc": "An alluring magic knight who rides an evil dragon. Overpowers with highly honed magic and sword skills.",
+        "skill": "soulblade",
+        "promoted": false,
+        "promo": [],
+        "base": {
+            "hp": 22,
+            "str": 7,
+            "dex": 6,
+            "spd": 8,
+            "lck": 2,
+            "def": 6,
+            "mag": 8,
+            "res": 9,
+            "bld": 6,
+            "sight": 3,
+            "mov": 6
+        },
+        "growth": {
+            "hp": 10,
+            "str": 10,
+            "dex": 10,
+            "spd": 15,
+            "lck": 0,
+            "def": 10,
+            "mag": 10,
+            "res": 10,
+            "bld": 5,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 75,
+            "str": 40,
+            "dex": 33,
+            "spd": 35,
+            "lck": 27,
+            "def": 33,
+            "mag": 39,
+            "res": 36,
+            "bld": 12,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "sword": "S",
+            "tome": "A"
+        },
+        "slot": [
+            [
+                "sword"
+            ],
+            [
+                "tome"
+            ]
+        ],
+        "type": "Flying"
+    },
+    "swordfighter": {
+        "name": "Sword Fighter",
+        "desc": "Footsoldiers who take pride in their skill with a blade. They avoid enemy attacks with nimble footwork.",
+        "skill": null,
+        "promoted": false,
+        "promo": [
+            "swordmaster",
+            "hero"
+        ],
+        "base": {
+            "hp": 20,
+            "str": 5,
+            "dex": 7,
+            "spd": 8,
+            "lck": 2,
+            "def": 3,
+            "mag": 0,
+            "res": 2,
+            "bld": 5,
+            "sight": 3,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 10,
+            "str": 10,
+            "dex": 15,
+            "spd": 20,
+            "lck": 10,
+            "def": 0,
+            "mag": 0,
+            "res": 15,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 67,
+            "str": 40,
+            "dex": 37,
+            "spd": 41,
+            "lck": 33,
+            "def": 27,
+            "mag": 20,
+            "res": 22,
+            "bld": 12,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "sword": "B"
+        },
+        "slot": [
+            [
+                "sword"
+            ]
+        ],
+        "type": "Backup"
+    },
+    "swordmaster": {
+        "name": "Swordmaster",
+        "desc": "Master sword fighters who avoid attacks by a hair's breadth and retaliate with mighty skills.",
+        "skill": "runthrough",
+        "promoted": true,
+        "promo": [],
+        "base": {
+            "hp": 21,
+            "str": 6,
+            "dex": 9,
+            "spd": 11,
+            "lck": 4,
+            "def": 4,
+            "mag": 1,
+            "res": 3,
+            "bld": 6,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 10,
+            "str": 10,
+            "dex": 15,
+            "spd": 20,
+            "lck": 15,
+            "def": 0,
+            "mag": 0,
+            "res": 15,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 67,
+            "str": 40,
+            "dex": 44,
+            "spd": 49,
+            "lck": 37,
+            "def": 27,
+            "mag": 25,
+            "res": 26,
+            "bld": 12,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "sword": "S"
+        },
+        "slot": [
+            [
+                "sword"
+            ]
+        ],
+        "type": "Backup"
+    },
+    "hero": {
+        "name": "Hero",
+        "desc": "Accomplished veterans proficient in several weapons and can easily cut through the front lines.",
+        "skill": "braveassist",
+        "promoted": true,
+        "promo": [],
+        "base": {
+            "hp": 23,
+            "str": 8,
+            "dex": 8,
+            "spd": 9,
+            "lck": 3,
+            "def": 5,
+            "mag": 0,
+            "res": 2,
+            "bld": 7,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 15,
+            "str": 15,
+            "dex": 10,
+            "spd": 15,
+            "lck": 15,
+            "def": 0,
+            "mag": 0,
+            "res": 10,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 75,
+            "str": 45,
+            "dex": 37,
+            "spd": 41,
+            "lck": 33,
+            "def": 34,
+            "mag": 20,
+            "res": 22,
+            "bld": 16,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "sword": "A",
+            "lance": "C+",
+            "axe": "C+"
+        },
+        "slot": [
+            [
+                "sword"
+            ],
+            [
+                "lance",
+                "axe"
+            ]
+        ],
+        "type": "Backup"
+    },
+    "lancefighter": {
+        "name": "Lance Fighter",
+        "desc": "Soldiers who fight with a lance. They strike just the right balance between offense and defense.",
+        "skill": null,
+        "promoted": false,
+        "promo": [
+            "halberdier",
+            "royalknight"
+        ],
+        "base": {
+            "hp": 23,
+            "str": 7,
+            "dex": 8,
+            "spd": 6,
+            "lck": 2,
+            "def": 4,
+            "mag": 2,
+            "res": 2,
+            "bld": 5,
+            "sight": 3,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 10,
+            "str": 10,
+            "dex": 20,
+            "spd": 5,
+            "lck": 0,
+            "def": 10,
+            "mag": 5,
+            "res": 5,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 69,
+            "str": 43,
+            "dex": 47,
+            "spd": 36,
+            "lck": 25,
+            "def": 28,
+            "mag": 29,
+            "res": 25,
+            "bld": 12,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "lance": "B"
+        },
+        "slot": [
+            [
+                "lance"
+            ]
+        ],
+        "type": "Backup"
+    },
+    "halberdier": {
+        "name": "Halberdier",
+        "desc": "Lance-wielders with a great deal of battlefield experience. Several cuts above common lance fighters.",
+        "skill": "pincerattack",
+        "promoted": true,
+        "promo": [],
+        "base": {
+            "hp": 24,
+            "str": 9,
+            "dex": 9,
+            "spd": 7,
+            "lck": 3,
+            "def": 6,
+            "mag": 1,
+            "res": 2,
+            "bld": 6,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 10,
+            "str": 15,
+            "dex": 20,
+            "spd": 10,
+            "lck": 5,
+            "def": 15,
+            "mag": 5,
+            "res": 5,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 76,
+            "str": 46,
+            "dex": 47,
+            "spd": 36,
+            "lck": 25,
+            "def": 35,
+            "mag": 29,
+            "res": 25,
+            "bld": 15,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "lance": "S"
+        },
+        "slot": [
+            [
+                "lance"
+            ]
+        ],
+        "type": "Backup"
+    },
+    "royalknight": {
+        "name": "Royal Knight",
+        "desc": "Noble knights who tear across the battlefield on horseback, rallying their allies. They can also use staves.",
+        "skill": "reforge",
+        "promoted": true,
+        "promo": [],
+        "base": {
+            "hp": 23,
+            "str": 7,
+            "dex": 9,
+            "spd": 8,
+            "lck": 5,
+            "def": 5,
+            "mag": 5,
+            "res": 4,
+            "bld": 6,
+            "sight": 3,
+            "mov": 6
+        },
+        "growth": {
+            "hp": 5,
+            "str": 10,
+            "dex": 15,
+            "spd": 15,
+            "lck": 10,
+            "def": 5,
+            "mag": 15,
+            "res": 20,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 69,
+            "str": 43,
+            "dex": 47,
+            "spd": 40,
+            "lck": 32,
+            "def": 28,
+            "mag": 39,
+            "res": 36,
+            "bld": 12,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "lance": "A",
+            "staff": "C+"
+        },
+        "slot": [
+            [
+                "lance"
+            ],
+            [
+                "staff"
+            ]
+        ],
+        "type": "Cavalry"
+    },
+    "axefighter": {
+        "name": "Axe Fighter",
+        "desc": "Proven warriors with an axe. Their swings are fierce, but leave them open to retaliation.",
+        "skill": null,
+        "promoted": false,
+        "promo": [
+            "berserker",
+            "warrior"
+        ],
+        "base": {
+            "hp": 26,
+            "str": 9,
+            "dex": 5,
+            "spd": 5,
+            "lck": 1,
+            "def": 3,
+            "mag": 0,
+            "res": 1,
+            "bld": 7,
+            "sight": 3,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 25,
+            "str": 20,
+            "dex": 5,
+            "spd": 10,
+            "lck": 0,
+            "def": 5,
+            "mag": 0,
+            "res": 0,
+            "bld": 5,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 94,
+            "str": 46,
+            "dex": 23,
+            "spd": 29,
+            "lck": 23,
+            "def": 20,
+            "mag": 17,
+            "res": 11,
+            "bld": 20,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "axe": "B"
+        },
+        "slot": [
+            [
+                "axe"
+            ]
+        ],
+        "type": "Backup"
+    },
+    "berserker": {
+        "name": "Berserker",
+        "desc": "Mighty warriors of unparalleled strength. They cleave foes in twain with huge axes.",
+        "skill": "smash+",
+        "promoted": true,
+        "promo": [],
+        "base": {
+            "hp": 29,
+            "str": 13,
+            "dex": 6,
+            "spd": 6,
+            "lck": 2,
+            "def": 3,
+            "mag": 0,
+            "res": 2,
+            "bld": 9,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 30,
+            "str": 30,
+            "dex": 5,
+            "spd": 10,
+            "lck": 0,
+            "def": 5,
+            "mag": 0,
+            "res": 0,
+            "bld": 10,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 96,
+            "str": 49,
+            "dex": 23,
+            "spd": 29,
+            "lck": 23,
+            "def": 20,
+            "mag": 17,
+            "res": 11,
+            "bld": 24,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "axe": "S"
+        },
+        "slot": [
+            [
+                "axe"
+            ]
+        ],
+        "type": "Backup"
+    },
+    "warrior": {
+        "name": "Warrior",
+        "desc": "Skilled experts in annihilating their enemies. They are capable with bows as well as axes.",
+        "skill": "merciless",
+        "promoted": true,
+        "promo": [],
+        "base": {
+            "hp": 27,
+            "str": 12,
+            "dex": 7,
+            "spd": 7,
+            "lck": 2,
+            "def": 4,
+            "mag": 1,
+            "res": 3,
+            "bld": 8,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 25,
+            "str": 20,
+            "dex": 10,
+            "spd": 15,
+            "lck": 0,
+            "def": 10,
+            "mag": 0,
+            "res": 5,
+            "bld": 5,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 94,
+            "str": 46,
+            "dex": 30,
+            "spd": 33,
+            "lck": 23,
+            "def": 27,
+            "mag": 20,
+            "res": 18,
+            "bld": 20,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "axe": "A",
+            "bow": "C+"
+        },
+        "slot": [
+            [
+                "axe"
+            ],
+            [
+                "bow"
+            ]
+        ],
+        "type": "Backup"
+    },
+    "archer": {
+        "name": "Archer",
+        "desc": "Light infantry who fight with a bow. They can attack from a distance.",
+        "skill": null,
+        "promoted": false,
+        "promo": [
+            "sniper",
+            "bowknight"
+        ],
+        "base": {
+            "hp": 19,
+            "str": 6,
+            "dex": 9,
+            "spd": 5,
+            "lck": 2,
+            "def": 2,
+            "mag": 0,
+            "res": 1,
+            "bld": 4,
+            "sight": 3,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 10,
+            "str": 15,
+            "dex": 25,
+            "spd": 10,
+            "lck": 5,
+            "def": 5,
+            "mag": 0,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 68,
+            "str": 38,
+            "dex": 45,
+            "spd": 32,
+            "lck": 28,
+            "def": 23,
+            "mag": 20,
+            "res": 24,
+            "bld": 14,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "bow": "B"
+        },
+        "slot": [
+            [
+                "bow"
+            ]
+        ],
+        "type": "Covert"
+    },
+    "sniper": {
+        "name": "Sniper",
+        "desc": "Masters of the bow who target their foes' weak points with precision strikes.",
+        "skill": "nodistractions",
+        "promoted": true,
+        "promo": [],
+        "base": {
+            "hp": 22,
+            "str": 8,
+            "dex": 11,
+            "spd": 6,
+            "lck": 3,
+            "def": 3,
+            "mag": 1,
+            "res": 1,
+            "bld": 5,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 15,
+            "str": 15,
+            "dex": 30,
+            "spd": 10,
+            "lck": 10,
+            "def": 10,
+            "mag": 0,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 68,
+            "str": 45,
+            "dex": 52,
+            "spd": 32,
+            "lck": 28,
+            "def": 29,
+            "mag": 20,
+            "res": 24,
+            "bld": 14,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "bow": "S"
+        },
+        "slot": [
+            [
+                "bow"
+            ]
+        ],
+        "type": "Covert"
+    },
+    "bowknight": {
+        "name": "Bow Knight",
+        "desc": "Bow users that fire from the saddle and outflank foes with high mobility.",
+        "skill": "carefulaim",
+        "promoted": true,
+        "promo": [],
+        "base": {
+            "hp": 22,
+            "str": 7,
+            "dex": 10,
+            "spd": 8,
+            "lck": 3,
+            "def": 3,
+            "mag": 2,
+            "res": 3,
+            "bld": 5,
+            "sight": 3,
+            "mov": 6
+        },
+        "growth": {
+            "hp": 10,
+            "str": 10,
+            "dex": 20,
+            "spd": 20,
+            "lck": 15,
+            "def": 0,
+            "mag": 0,
+            "res": 15,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 68,
+            "str": 38,
+            "dex": 45,
+            "spd": 37,
+            "lck": 30,
+            "def": 23,
+            "mag": 23,
+            "res": 29,
+            "bld": 14,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "sword": "C+",
+            "lance": "C+",
+            "axe": "C+",
+            "bow": "A"
+        },
+        "slot": [
+            [
+                "sword",
+                "lance",
+                "axe"
+            ],
+            [
+                "bow"
+            ]
+        ],
+        "type": "Cavalry"
+    },
+    "swordarmor": {
+        "name": "Sword Armor",
+        "desc": "Heavily armored sword fighters clad in tough armor. They have high defense, but magic is their bane.",
+        "skill": null,
+        "promoted": false,
+        "promo": [
+            "general",
+            "greatknight"
+        ],
+        "base": {
+            "hp": 25,
+            "str": 8,
+            "dex": 6,
+            "spd": 1,
+            "lck": 2,
+            "def": 12,
+            "mag": 0,
+            "res": 0,
+            "bld": 7,
+            "sight": 3,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 20,
+            "str": 15,
+            "dex": 10,
+            "spd": 0,
+            "lck": 0,
+            "def": 30,
+            "mag": 0,
+            "res": 0,
+            "bld": 5,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 75,
+            "str": 42,
+            "dex": 39,
+            "spd": 17,
+            "lck": 25,
+            "def": 51,
+            "mag": 16,
+            "res": 16,
+            "bld": 20,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "sword": "B"
+        },
+        "slot": [
+            [
+                "sword"
+            ]
+        ],
+        "type": "Armored"
+    },
+    "lancearmor": {
+        "name": "Lance Armor",
+        "desc": "Heavily armored lancers clad in tough armor. They have high defense, but magic is their bane.",
+        "skill": null,
+        "promoted": false,
+        "promo": [
+            "general",
+            "greatknight"
+        ],
+        "base": {
+            "hp": 25,
+            "str": 8,
+            "dex": 6,
+            "spd": 1,
+            "lck": 2,
+            "def": 12,
+            "mag": 0,
+            "res": 0,
+            "bld": 7,
+            "sight": 3,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 20,
+            "str": 15,
+            "dex": 10,
+            "spd": 0,
+            "lck": 0,
+            "def": 30,
+            "mag": 0,
+            "res": 0,
+            "bld": 5,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 75,
+            "str": 42,
+            "dex": 39,
+            "spd": 17,
+            "lck": 25,
+            "def": 51,
+            "mag": 16,
+            "res": 16,
+            "bld": 20,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "lance": "B"
+        },
+        "slot": [
+            [
+                "lance"
+            ]
+        ],
+        "type": "Armored"
+    },
+    "axearmor": {
+        "name": "Axe Armor",
+        "desc": "Heavily armored axe-wielders clad in tough armor. They have high defense, but magic is their bane.",
+        "skill": null,
+        "promoted": false,
+        "promo": [
+            "general",
+            "greatknight"
+        ],
+        "base": {
+            "hp": 25,
+            "str": 8,
+            "dex": 6,
+            "spd": 1,
+            "lck": 2,
+            "def": 12,
+            "mag": 0,
+            "res": 0,
+            "bld": 7,
+            "sight": 3,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 20,
+            "str": 15,
+            "dex": 10,
+            "spd": 0,
+            "lck": 0,
+            "def": 30,
+            "mag": 0,
+            "res": 0,
+            "bld": 5,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 75,
+            "str": 42,
+            "dex": 39,
+            "spd": 17,
+            "lck": 25,
+            "def": 51,
+            "mag": 16,
+            "res": 16,
+            "bld": 20,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "axe": "B"
+        },
+        "slot": [
+            [
+                "axe"
+            ]
+        ],
+        "type": "Armored"
+    },
+    "general": {
+        "name": "General",
+        "desc": "Heavily armored fighters boasting both an impenetrable defense and a fearsome offense.",
+        "skill": "swap",
+        "promoted": true,
+        "promo": [],
+        "base": {
+            "hp": 28,
+            "str": 11,
+            "dex": 7,
+            "spd": 2,
+            "lck": 3,
+            "def": 14,
+            "mag": 1,
+            "res": 1,
+            "bld": 10,
+            "sight": 3,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 25,
+            "str": 20,
+            "dex": 10,
+            "spd": 0,
+            "lck": 0,
+            "def": 30,
+            "mag": 0,
+            "res": 0,
+            "bld": 10,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 86,
+            "str": 47,
+            "dex": 39,
+            "spd": 17,
+            "lck": 25,
+            "def": 55,
+            "mag": 16,
+            "res": 16,
+            "bld": 25,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "sword": "A+",
+            "lance": "A+",
+            "axe": "A+"
+        },
+        "slot": [
+            [
+                "sword",
+                "lance",
+                "axe"
+            ]
+        ],
+        "type": "Armored"
+    },
+    "greatknight": {
+        "name": "Great Knight",
+        "desc": "Heavily armored knights clad in thick armor. They defend their allies with a variety of weapons.",
+        "skill": "allieddefense",
+        "promoted": true,
+        "promo": [],
+        "base": {
+            "hp": 26,
+            "str": 9,
+            "dex": 8,
+            "spd": 5,
+            "lck": 3,
+            "def": 13,
+            "mag": 2,
+            "res": 2,
+            "bld": 8,
+            "sight": 3,
+            "mov": 6
+        },
+        "growth": {
+            "hp": 20,
+            "str": 15,
+            "dex": 15,
+            "spd": 0,
+            "lck": 5,
+            "def": 25,
+            "mag": 0,
+            "res": 10,
+            "bld": 5,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 75,
+            "str": 42,
+            "dex": 43,
+            "spd": 25,
+            "lck": 30,
+            "def": 51,
+            "mag": 19,
+            "res": 22,
+            "bld": 20,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "sword": "B+",
+            "lance": "B+",
+            "axe": "B+"
+        },
+        "slot": [
+            [
+                "sword",
+                "lance",
+                "axe"
+            ],
+            [
+                "sword",
+                "lance",
+                "axe"
+            ]
+        ],
+        "type": "Cavalry"
+    },
+    "swordcavalier": {
+        "name": "Sword Cavalier",
+        "desc": "Sword-wielding knights who ride freely about the battlefield. They strike a good balance of skills.",
+        "skill": null,
+        "promoted": false,
+        "promo": [
+            "paladin",
+            "wolfknight"
+        ],
+        "base": {
+            "hp": 23,
+            "str": 6,
+            "dex": 8,
+            "spd": 7,
+            "lck": 2,
+            "def": 4,
+            "mag": 1,
+            "res": 2,
+            "bld": 6,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 10,
+            "str": 10,
+            "dex": 10,
+            "spd": 10,
+            "lck": 10,
+            "def": 10,
+            "mag": 0,
+            "res": 10,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 69,
+            "str": 40,
+            "dex": 41,
+            "spd": 37,
+            "lck": 30,
+            "def": 27,
+            "mag": 21,
+            "res": 29,
+            "bld": 12,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "sword": "B"
+        },
+        "slot": [
+            [
+                "sword"
+            ]
+        ],
+        "type": "Cavalry"
+    },
+    "lancecavalier": {
+        "name": "Lance Cavalier",
+        "desc": "Lance-wielding knights who ride freely about the battlefield. They strike a good balance of skills.",
+        "skill": null,
+        "promoted": false,
+        "promo": [
+            "paladin",
+            "wolfknight"
+        ],
+        "base": {
+            "hp": 23,
+            "str": 6,
+            "dex": 8,
+            "spd": 7,
+            "lck": 2,
+            "def": 4,
+            "mag": 1,
+            "res": 2,
+            "bld": 6,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 10,
+            "str": 10,
+            "dex": 10,
+            "spd": 10,
+            "lck": 10,
+            "def": 10,
+            "mag": 0,
+            "res": 10,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 69,
+            "str": 40,
+            "dex": 41,
+            "spd": 37,
+            "lck": 30,
+            "def": 27,
+            "mag": 21,
+            "res": 29,
+            "bld": 12,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "lance": "B"
+        },
+        "slot": [
+            [
+                "lance"
+            ]
+        ],
+        "type": "Cavalry"
+    },
+    "axecavalier": {
+        "name": "Axe Cavalier",
+        "desc": "Axe-wielding knights who ride freely about the battlefield. They strike a good balance of skills.",
+        "skill": null,
+        "promoted": false,
+        "promo": [
+            "paladin",
+            "wolfknight"
+        ],
+        "base": {
+            "hp": 23,
+            "str": 6,
+            "dex": 8,
+            "spd": 7,
+            "lck": 2,
+            "def": 4,
+            "mag": 1,
+            "res": 2,
+            "bld": 6,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 10,
+            "str": 10,
+            "dex": 10,
+            "spd": 10,
+            "lck": 10,
+            "def": 10,
+            "mag": 0,
+            "res": 10,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 69,
+            "str": 40,
+            "dex": 41,
+            "spd": 37,
+            "lck": 30,
+            "def": 27,
+            "mag": 21,
+            "res": 29,
+            "bld": 12,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "axe": "B"
+        },
+        "slot": [
+            [
+                "axe"
+            ]
+        ],
+        "type": "Cavalry"
+    },
+    "paladin": {
+        "name": "Paladin",
+        "desc": "High-ranking knights with a wealth of experience. Highly mobile and strong against magic.",
+        "skill": "pivot",
+        "promoted": true,
+        "promo": [],
+        "base": {
+            "hp": 25,
+            "str": 8,
+            "dex": 10,
+            "spd": 8,
+            "lck": 3,
+            "def": 6,
+            "mag": 2,
+            "res": 3,
+            "bld": 7,
+            "sight": 3,
+            "mov": 6
+        },
+        "growth": {
+            "hp": 15,
+            "str": 15,
+            "dex": 10,
+            "spd": 15,
+            "lck": 10,
+            "def": 15,
+            "mag": 0,
+            "res": 15,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 77,
+            "str": 45,
+            "dex": 45,
+            "spd": 37,
+            "lck": 30,
+            "def": 35,
+            "mag": 21,
+            "res": 29,
+            "bld": 16,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "sword": "A+",
+            "lance": "A+",
+            "axe": "A+"
+        },
+        "slot": [
+            [
+                "sword",
+                "lance",
+                "axe"
+            ]
+        ],
+        "type": "Cavalry"
+    },
+    "wolfknight": {
+        "name": "Wolf Knight",
+        "desc": "Knights who dart over the battlefield mounted on wolves. Their knife strikes are the ruin of enemy camps.",
+        "skill": "hobble",
+        "promoted": true,
+        "promo": [],
+        "base": {
+            "hp": 23,
+            "str": 6,
+            "dex": 9,
+            "spd": 10,
+            "lck": 4,
+            "def": 4,
+            "mag": 3,
+            "res": 4,
+            "bld": 6,
+            "sight": 3,
+            "mov": 6
+        },
+        "growth": {
+            "hp": 10,
+            "str": 5,
+            "dex": 15,
+            "spd": 20,
+            "lck": 20,
+            "def": 5,
+            "mag": 0,
+            "res": 20,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 69,
+            "str": 40,
+            "dex": 41,
+            "spd": 45,
+            "lck": 34,
+            "def": 27,
+            "mag": 26,
+            "res": 33,
+            "bld": 12,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "sword": "B+",
+            "lance": "B+",
+            "axe": "B+",
+            "knife": "A+"
+        },
+        "slot": [
+            [
+                "sword",
+                "lance",
+                "axe"
+            ],
+            [
+                "knife"
+            ]
+        ],
+        "type": "Cavalry"
+    },
+    "mage": {
+        "name": "Mage",
+        "desc": "Magic users who cast spells from tomes. Strong against enemies with high defense.",
+        "skill": null,
+        "promoted": false,
+        "promo": [
+            "sage",
+            "mageknight"
+        ],
+        "base": {
+            "hp": 18,
+            "str": 1,
+            "dex": 6,
+            "spd": 6,
+            "lck": 2,
+            "def": 1,
+            "mag": 7,
+            "res": 7,
+            "bld": 4,
+            "sight": 3,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "dex": 5,
+            "spd": 0,
+            "lck": 5,
+            "def": 0,
+            "mag": 25,
+            "res": 25,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 43,
+            "str": 26,
+            "dex": 28,
+            "spd": 30,
+            "lck": 24,
+            "def": 20,
+            "mag": 40,
+            "res": 40,
+            "bld": 11,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "tome": "B"
+        },
+        "slot": [
+            [
+                "tome"
+            ]
+        ],
+        "type": "Mystical"
+    },
+    "sage": {
+        "name": "Sage",
+        "desc": "Experienced mages who can call upon great power. Capable of using both tomes and staves.",
+        "skill": "spellharmony",
+        "promoted": true,
+        "promo": [],
+        "base": {
+            "hp": 20,
+            "str": 1,
+            "dex": 8,
+            "spd": 7,
+            "lck": 3,
+            "def": 3,
+            "mag": 9,
+            "res": 9,
+            "bld": 5,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "dex": 5,
+            "spd": 0,
+            "lck": 15,
+            "def": 0,
+            "mag": 30,
+            "res": 30,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 43,
+            "str": 26,
+            "dex": 34,
+            "spd": 30,
+            "lck": 30,
+            "def": 20,
+            "mag": 48,
+            "res": 44,
+            "bld": 11,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "tome": "S",
+            "staff": "B+"
+        },
+        "slot": [
+            [
+                "tome"
+            ],
+            [
+                "staff"
+            ]
+        ],
+        "type": "Mystical"
+    },
+    "mageknight": {
+        "name": "Mage Knight",
+        "desc": "Magic knights who cast spells from horseback, but can also take part in melee combat.",
+        "skill": "chaosstyle",
+        "promoted": true,
+        "promo": [],
+        "base": {
+            "hp": 21,
+            "str": 5,
+            "dex": 8,
+            "spd": 9,
+            "lck": 2,
+            "def": 3,
+            "mag": 7,
+            "res": 8,
+            "bld": 6,
+            "sight": 3,
+            "mov": 6
+        },
+        "growth": {
+            "hp": 5,
+            "str": 5,
+            "dex": 0,
+            "spd": 5,
+            "lck": 5,
+            "def": 10,
+            "mag": 25,
+            "res": 25,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 47,
+            "str": 35,
+            "dex": 28,
+            "spd": 32,
+            "lck": 24,
+            "def": 26,
+            "mag": 40,
+            "res": 40,
+            "bld": 12,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "sword": "B+",
+            "lance": "B+",
+            "axe": "B+",
+            "tome": "A"
+        },
+        "slot": [
+            [
+                "sword",
+                "lance",
+                "axe"
+            ],
+            [
+                "tome"
+            ]
+        ],
+        "type": "Cavalry"
+    },
+    "martialmonk": {
+        "name": "Martial Monk",
+        "desc": "Combat monks who use staves to heal wounded allies. They are versed in the martial arts of self-defense.",
+        "skill": null,
+        "promoted": false,
+        "promo": [
+            "martialmaster",
+            "highpriest"
+        ],
+        "base": {
+            "hp": 18,
+            "str": 3,
+            "dex": 6,
+            "spd": 5,
+            "lck": 3,
+            "def": 3,
+            "mag": 5,
+            "res": 8,
+            "bld": 3,
+            "sight": 3,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 0,
+            "str": 10,
+            "dex": 0,
+            "spd": 0,
+            "lck": 10,
+            "def": 10,
+            "mag": 25,
+            "res": 20,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 55,
+            "str": 28,
+            "dex": 26,
+            "spd": 28,
+            "lck": 29,
+            "def": 20,
+            "mag": 41,
+            "res": 39,
+            "bld": 13,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "staff": "B",
+            "art": "C"
+        },
+        "slot": [
+            [
+                "staff"
+            ],
+            [
+                "art"
+            ]
+        ],
+        "type": "Qi Adept"
+    },
+    "martialmaster": {
+        "name": "Martial Master",
+        "desc": "Experienced monks trained in the martial arts. They excel at hand-to- hand combat as well as healing.",
+        "skill": "diffusehealer",
+        "promoted": true,
+        "promo": [],
+        "base": {
+            "hp": 22,
+            "str": 6,
+            "dex": 6,
+            "spd": 5,
+            "lck": 4,
+            "def": 4,
+            "mag": 5,
+            "res": 7,
+            "bld": 6,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 5,
+            "str": 10,
+            "dex": 0,
+            "spd": 0,
+            "lck": 10,
+            "def": 15,
+            "mag": 20,
+            "res": 25,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 66,
+            "str": 38,
+            "dex": 26,
+            "spd": 28,
+            "lck": 29,
+            "def": 27,
+            "mag": 41,
+            "res": 39,
+            "bld": 15,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "staff": "A",
+            "art": "S"
+        },
+        "slot": [
+            [
+                "staff"
+            ],
+            [
+                "art"
+            ]
+        ],
+        "type": "Qi Adept"
+    },
+    "highpriest": {
+        "name": "High Priest",
+        "desc": "Masters of staves with wisdom from experience. Their healing powers are lifesaving in battle.",
+        "skill": "selfhealing",
+        "promoted": true,
+        "promo": [],
+        "base": {
+            "hp": 20,
+            "str": 3,
+            "dex": 8,
+            "spd": 6,
+            "lck": 5,
+            "def": 3,
+            "mag": 8,
+            "res": 10,
+            "bld": 4,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "dex": 0,
+            "spd": 5,
+            "lck": 30,
+            "def": 0,
+            "mag": 25,
+            "res": 30,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 55,
+            "str": 28,
+            "dex": 31,
+            "spd": 32,
+            "lck": 38,
+            "def": 20,
+            "mag": 45,
+            "res": 48,
+            "bld": 13,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "tome": "B+",
+            "staff": "S",
+            "art": "C+"
+        },
+        "slot": [
+            [
+                "tome"
+            ],
+            [
+                "staff"
+            ],
+            [
+                "art"
+            ]
+        ],
+        "type": "Mystical"
+    },
+    "swordflier": {
+        "name": "Sword Flier",
+        "desc": "Sword fighters who soar through the sky on their pegasus mounts. Strong against magic, but weak to bows.",
+        "skill": null,
+        "promoted": false,
+        "promo": [
+            "griffinknight",
+            "wyvernknight"
+        ],
+        "base": {
+            "hp": 21,
+            "str": 5,
+            "dex": 7,
+            "spd": 9,
+            "lck": 3,
+            "def": 3,
+            "mag": 2,
+            "res": 7,
+            "bld": 4,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 5,
+            "str": 10,
+            "dex": 10,
+            "spd": 10,
+            "lck": 10,
+            "def": 0,
+            "mag": 5,
+            "res": 10,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 68,
+            "str": 40,
+            "dex": 43,
+            "spd": 38,
+            "lck": 25,
+            "def": 27,
+            "mag": 31,
+            "res": 22,
+            "bld": 14,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "sword": "B"
+        },
+        "slot": [
+            [
+                "sword"
+            ]
+        ],
+        "type": "Flying"
+    },
+    "lanceflier": {
+        "name": "Lance Flier",
+        "desc": "Lance users who soar through the sky on their pegasus mounts. Strong against magic, but weak to bows.",
+        "skill": null,
+        "promoted": false,
+        "promo": [
+            "griffinknight",
+            "wyvernknight"
+        ],
+        "base": {
+            "hp": 21,
+            "str": 5,
+            "dex": 7,
+            "spd": 9,
+            "lck": 3,
+            "def": 3,
+            "mag": 2,
+            "res": 7,
+            "bld": 4,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 5,
+            "str": 10,
+            "dex": 10,
+            "spd": 10,
+            "lck": 10,
+            "def": 0,
+            "mag": 5,
+            "res": 10,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 68,
+            "str": 40,
+            "dex": 43,
+            "spd": 38,
+            "lck": 25,
+            "def": 27,
+            "mag": 31,
+            "res": 22,
+            "bld": 14,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "lance": "B"
+        },
+        "slot": [
+            [
+                "lance"
+            ]
+        ],
+        "type": "Flying"
+    },
+    "axeflier": {
+        "name": "Axe Flier",
+        "desc": "Axe-wielders who soar through the sky on their pegasus mounts. Strong against magic, but weak to bows.",
+        "skill": null,
+        "promoted": false,
+        "promo": [
+            "griffinknight",
+            "wyvernknight"
+        ],
+        "base": {
+            "hp": 21,
+            "str": 5,
+            "dex": 7,
+            "spd": 9,
+            "lck": 3,
+            "def": 3,
+            "mag": 2,
+            "res": 7,
+            "bld": 4,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 5,
+            "str": 10,
+            "dex": 10,
+            "spd": 10,
+            "lck": 10,
+            "def": 0,
+            "mag": 5,
+            "res": 10,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 68,
+            "str": 40,
+            "dex": 43,
+            "spd": 38,
+            "lck": 25,
+            "def": 27,
+            "mag": 31,
+            "res": 22,
+            "bld": 14,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "axe": "B"
+        },
+        "slot": [
+            [
+                "axe"
+            ]
+        ],
+        "type": "Flying"
+    },
+    "griffinknight": {
+        "name": "Griffin Knight",
+        "desc": "Experienced knights who fly through the skies on a griffin. They are well- balanced and can use staves.",
+        "skill": "cleartheway",
+        "promoted": true,
+        "promo": [],
+        "base": {
+            "hp": 22,
+            "str": 7,
+            "dex": 10,
+            "spd": 11,
+            "lck": 5,
+            "def": 4,
+            "mag": 3,
+            "res": 9,
+            "bld": 5,
+            "sight": 3,
+            "mov": 6
+        },
+        "growth": {
+            "hp": 0,
+            "str": 10,
+            "dex": 15,
+            "spd": 20,
+            "lck": 15,
+            "def": 0,
+            "mag": 15,
+            "res": 15,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 68,
+            "str": 40,
+            "dex": 48,
+            "spd": 49,
+            "lck": 35,
+            "def": 27,
+            "mag": 37,
+            "res": 35,
+            "bld": 14,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "sword": "A+",
+            "lance": "A+",
+            "axe": "A+",
+            "staff": "C+"
+        },
+        "slot": [
+            [
+                "sword",
+                "lance",
+                "axe"
+            ],
+            [
+                "staff"
+            ]
+        ],
+        "type": "Flying"
+    },
+    "wyvernknight": {
+        "name": "Wyvern Knight",
+        "desc": "Experienced knights who fly through the skies on wyverns. Though powerful, they fear bows and magic.",
+        "skill": "airraid",
+        "promoted": true,
+        "promo": [],
+        "base": {
+            "hp": 25,
+            "str": 9,
+            "dex": 8,
+            "spd": 9,
+            "lck": 3,
+            "def": 6,
+            "mag": 1,
+            "res": 5,
+            "bld": 6,
+            "sight": 3,
+            "mov": 6
+        },
+        "growth": {
+            "hp": 20,
+            "str": 20,
+            "dex": 10,
+            "spd": 5,
+            "lck": 5,
+            "def": 20,
+            "mag": 0,
+            "res": 5,
+            "bld": 5,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 83,
+            "str": 46,
+            "dex": 43,
+            "spd": 38,
+            "lck": 25,
+            "def": 35,
+            "mag": 31,
+            "res": 22,
+            "bld": 18,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "sword": "B+",
+            "lance": "B+",
+            "axe": "B+"
+        },
+        "slot": [
+            [
+                "sword",
+                "lance",
+                "axe"
+            ],
+            [
+                "sword",
+                "lance",
+                "axe"
+            ]
+        ],
+        "type": "Flying"
+    },
+    "thief": {
+        "name": "Thief",
+        "desc": "Burglars with a talent for picking locks. They are nimble with their hands and deadly with a knife.",
+        "skill": "pass",
+        "promoted": false,
+        "promo": [],
+        "base": {
+            "hp": 22,
+            "str": 5,
+            "dex": 10,
+            "spd": 10,
+            "lck": 2,
+            "def": 6,
+            "mag": 0,
+            "res": 2,
+            "bld": 4,
+            "sight": 5,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 5,
+            "str": 10,
+            "dex": 20,
+            "spd": 15,
+            "lck": 15,
+            "def": 15,
+            "mag": 0,
+            "res": 5,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 60,
+            "str": 43,
+            "dex": 51,
+            "spd": 42,
+            "lck": 30,
+            "def": 33,
+            "mag": 22,
+            "res": 23,
+            "bld": 13,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "knife": "S"
+        },
+        "slot": [
+            [
+                "knife"
+            ]
+        ],
+        "type": "Covert"
+    },
+    "dancer": {
+        "name": "Dancer",
+        "desc": "Charming performers who can raise an ally's spirits, allowing the ally to act once more in battle.",
+        "skill": "specialdance",
+        "promoted": false,
+        "promo": [],
+        "base": {
+            "hp": 21,
+            "str": 5,
+            "dex": 8,
+            "spd": 8,
+            "lck": 5,
+            "def": 2,
+            "mag": 1,
+            "res": 5,
+            "bld": 5,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 5,
+            "str": 10,
+            "dex": 5,
+            "spd": 15,
+            "lck": 20,
+            "def": 10,
+            "mag": 0,
+            "res": 20,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 64,
+            "str": 36,
+            "dex": 29,
+            "spd": 43,
+            "lck": 39,
+            "def": 24,
+            "mag": 31,
+            "res": 26,
+            "bld": 15,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "art": "A"
+        },
+        "slot": [
+            [
+                "art"
+            ]
+        ],
+        "type": "Qi Adept"
+    },
+    "barbarian": {
+        "name": "Barbarian",
+        "desc": "Fierce fighters with an insatiable rage. They possess great strength and speed, but little defense.",
+        "skill": null,
+        "promoted": false,
+        "promo": [],
+        "base": {
+            "hp": 26,
+            "str": 9,
+            "dex": 0,
+            "spd": 5,
+            "lck": 0,
+            "def": 2,
+            "mag": 0,
+            "res": 0,
+            "bld": 9,
+            "sight": 3,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "mag": 0,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 85,
+            "str": 46,
+            "dex": 30,
+            "spd": 26,
+            "lck": 16,
+            "def": 23,
+            "mag": 15,
+            "res": 15,
+            "bld": 21,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "axe": "A"
+        },
+        "slot": [
+            [
+                "axe"
+            ]
+        ],
+        "type": "Backup"
+    },
+    "corruptedwyrm": {
+        "name": "Corrupted Wyrm",
+        "desc": "Minions of the Fell Dragon who aim to bring the world to ruin. Their dark breath destroys all.",
+        "skill": null,
+        "promoted": false,
+        "promo": [],
+        "base": {
+            "hp": 30,
+            "str": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 9,
+            "mag": 7,
+            "res": 9,
+            "bld": 10,
+            "sight": 3,
+            "mov": 2
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "mag": 0,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 74,
+            "str": 0,
+            "dex": 24,
+            "spd": 6,
+            "lck": 19,
+            "def": 36,
+            "mag": 42,
+            "res": 36,
+            "bld": 28,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "special": "S"
+        },
+        "slot": [
+            [
+                "special"
+            ]
+        ],
+        "type": "Dragon"
+    },
+    "phantomwyrm": {
+        "name": "Phantom Wyrm",
+        "desc": "Enormous draconic minions. Though they are slow, their breath can affect faraway enemies.",
+        "skill": null,
+        "promoted": false,
+        "promo": [],
+        "base": {
+            "hp": 30,
+            "str": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 9,
+            "mag": 7,
+            "res": 9,
+            "bld": 10,
+            "sight": 3,
+            "mov": 2
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "mag": 0,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 74,
+            "str": 0,
+            "dex": 24,
+            "spd": 6,
+            "lck": 19,
+            "def": 36,
+            "mag": 42,
+            "res": 36,
+            "bld": 28,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "special": "S"
+        },
+        "slot": [
+            [
+                "special"
+            ]
+        ],
+        "type": "Dragon"
+    },
+    "villager": {
+        "name": "Villager",
+        "desc": "An ordinary person with no combat training.",
+        "skill": null,
+        "promoted": false,
+        "promo": [],
+        "base": {
+            "hp": 18,
+            "str": 1,
+            "dex": 6,
+            "spd": 5,
+            "lck": 3,
+            "def": 2,
+            "mag": 0,
+            "res": 2,
+            "bld": 4,
+            "sight": 3,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "mag": 0,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 45,
+            "str": 20,
+            "dex": 30,
+            "spd": 33,
+            "lck": 30,
+            "def": 25,
+            "mag": 15,
+            "res": 25,
+            "bld": 12,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {},
+        "slot": [],
+        "type": null
+    },
+    "emblem": {
+        "name": "Emblem",
+        "desc": "Heroes from worlds beyond Elyos, who are contained in rings. They possess unimaginable power.",
+        "skill": null,
+        "promoted": false,
+        "promo": [],
+        "base": {
+            "hp": 23,
+            "str": 5,
+            "dex": 10,
+            "spd": 11,
+            "lck": 3,
+            "def": 4,
+            "mag": 2,
+            "res": 3,
+            "bld": 6,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "mag": 0,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 64,
+            "str": 40,
+            "dex": 48,
+            "spd": 46,
+            "lck": 33,
+            "def": 31,
+            "mag": 21,
+            "res": 33,
+            "bld": 15,
+            "sight": 20,
+            "mov": 20
+        },
+        "rank": {
+            "sword": "S"
+        },
+        "slot": [
+            [
+                "sword"
+            ]
+        ],
+        "type": "Backup"
+    },
+    "melusine": {
+        "name": "Melusine",
+        "desc": "An alluring magic knight who rides an evil dragon. Overpowers with highly honed magic and sword skills.",
+        "type": "Flying",
+        "skill": "soulblade",
+        "promoted": false,
+        "promo": [],
+        "base": {
+            "hp": 22,
+            "str": 7,
+            "mag": 8,
+            "dex": 6,
+            "spd": 8,
+            "lck": 2,
+            "def": 6,
+            "res": 9,
+            "bld": 6,
+            "sight": 3,
+            "mov": 6
+        },
+        "growth": {
+            "hp": 10,
+            "str": 10,
+            "mag": 10,
+            "dex": 10,
+            "spd": 15,
+            "lck": 0,
+            "def": 10,
+            "res": 10,
+            "bld": 5
+        },
+        "cap": {
+            "hp": 75,
+            "str": 40,
+            "mag": 39,
+            "dex": 33,
+            "spd": 35,
+            "lck": 27,
+            "def": 33,
+            "res": 36,
+            "bld": 12
+        },
+        "rank": {
+            "sword": "A",
+            "tome": "S"
+        },
+        "slot": [
+            [
+                "sword"
+            ],
+            [
+                "tome"
+            ]
+        ]
+    },
+    "enchanter": {
+        "name": "Enchanter",
+        "desc": "A combat medic who skillfully uses items for combat. Can use convoy, and excels at ally-support tactics.",
+        "type": "Qi Adept",
+        "skill": "convoy",
+        "promoted": false,
+        "promo": [],
+        "base": {
+            "hp": 20,
+            "str": 5,
+            "mag": 5,
+            "dex": 5,
+            "spd": 5,
+            "lck": 5,
+            "def": 5,
+            "res": 5,
+            "bld": 5,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 5,
+            "str": 15,
+            "mag": 15,
+            "dex": 15,
+            "spd": 10,
+            "lck": 15,
+            "def": 5,
+            "res": 5,
+            "bld": 5
+        },
+        "cap": {
+            "hp": 53,
+            "str": 25,
+            "mag": 25,
+            "dex": 43,
+            "spd": 39,
+            "lck": 42,
+            "def": 20,
+            "res": 22,
+            "bld": 11
+        },
+        "rank": {
+            "knife": "B+",
+            "art": "B+"
+        },
+        "slot": [
+            [
+                "knife"
+            ],
+            [
+                "art"
+            ]
+        ]
+    },
+    "corruptedwolf": {
+        "name": "Corrupted Wolf",
+        "desc": "Minions of the Fell Dragon who aim to bring the world to ruin. They attack foes with cursed fangs.",
+        "type": "Backup",
+        "skill": "packhunter",
+        "promoted": false,
+        "promo": [],
+        "base": {
+            "hp": 23,
+            "str": 6,
+            "mag": 2,
+            "dex": 9,
+            "spd": 11,
+            "lck": 2,
+            "def": 4,
+            "res": 4,
+            "bld": 4,
+            "sight": 3,
+            "mov": 6
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "bld": 0
+        },
+        "cap": {
+            "hp": 65,
+            "str": 40,
+            "mag": 19,
+            "dex": 41,
+            "spd": 51,
+            "lck": 31,
+            "def": 25,
+            "res": 29,
+            "bld": 10
+        },
+        "rank": {
+            "special": "S"
+        },
+        "slot": [
+            [
+                "special"
+            ]
+        ]
+    },
+    "phantomwolf": {
+        "name": "Phantom Wolf",
+        "desc": "Wolves that move swiftly around the battlefield. They confound their foes as they lash out with cursed fangs.",
+        "type": "Backup",
+        "skill": "packhunter",
+        "promoted": false,
+        "promo": [],
+        "base": {
+            "hp": 23,
+            "str": 6,
+            "mag": 2,
+            "dex": 9,
+            "spd": 11,
+            "lck": 2,
+            "def": 4,
+            "res": 4,
+            "bld": 4,
+            "sight": 3,
+            "mov": 6
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "bld": 0
+        },
+        "cap": {
+            "hp": 65,
+            "str": 40,
+            "mag": 19,
+            "dex": 41,
+            "spd": 51,
+            "lck": 31,
+            "def": 25,
+            "res": 29,
+            "bld": 10
+        },
+        "rank": {
+            "special": "S"
+        },
+        "slot": [
+            [
+                "special"
+            ]
+        ]
+    },
+    "corruptedwyvern": {
+        "name": "Corrupted Wyvern",
+        "desc": "Minions of the Fell Dragon who aim to bring the world to ruin. They mow down foes with vile breath attacks.",
+        "type": "Dragon",
+        "skill": "miasmadomain",
+        "promoted": false,
+        "promo": [],
+        "base": {
+            "hp": 30,
+            "str": 2,
+            "mag": 5,
+            "dex": 4,
+            "spd": 5,
+            "lck": 3,
+            "def": 8,
+            "res": 10,
+            "bld": 8,
+            "sight": 3,
+            "mov": 3
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "bld": 0
+        },
+        "cap": {
+            "hp": 70,
+            "str": 14,
+            "mag": 38,
+            "dex": 30,
+            "spd": 27,
+            "lck": 23,
+            "def": 32,
+            "res": 34,
+            "bld": 28
+        },
+        "rank": {
+            "special": "S"
+        },
+        "slot": [
+            [
+                "special"
+            ]
+        ]
+    },
+    "phantomwyvern": {
+        "name": "Phantom Wyvern",
+        "desc": "Wyverns that soar freely over the battlefield. They can corner enemies with breath attacks.",
+        "type": "Dragon",
+        "skill": "frostdomain",
+        "promoted": false,
+        "promo": [],
+        "base": {
+            "hp": 30,
+            "str": 2,
+            "mag": 5,
+            "dex": 4,
+            "spd": 5,
+            "lck": 3,
+            "def": 8,
+            "res": 10,
+            "bld": 8,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "bld": 0
+        },
+        "cap": {
+            "hp": 70,
+            "str": 14,
+            "mag": 38,
+            "dex": 30,
+            "spd": 27,
+            "lck": 23,
+            "def": 32,
+            "res": 34,
+            "bld": 28
+        },
+        "rank": {
+            "special": "S"
+        },
+        "slot": [
+            [
+                "special"
+            ]
+        ]
+    },
+    "fellchildnel": {
+        "name": "Fell Child (Nel)",
+        "desc": "Inheritor of the blood of the Fell Dragon. Fights with a lance and uses a dragonstone to become a dragon.",
+        "type": "Dragon",
+        "skill": "resistemblems",
+        "promoted": false,
+        "promo": [],
+        "base": {
+            "hp": 20,
+            "str": 5,
+            "mag": 5,
+            "dex": 5,
+            "spd": 5,
+            "lck": 5,
+            "def": 5,
+            "res": 5,
+            "bld": 5,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 10,
+            "str": 15,
+            "mag": 10,
+            "dex": 10,
+            "spd": 15,
+            "lck": 0,
+            "def": 15,
+            "res": 15,
+            "bld": 5
+        },
+        "cap": {
+            "hp": 65,
+            "str": 39,
+            "mag": 30,
+            "dex": 32,
+            "spd": 45,
+            "lck": 37,
+            "def": 33,
+            "res": 31,
+            "bld": 13
+        },
+        "rank": {
+            "lance": "A",
+            "special": "S"
+        },
+        "slot": [
+            [
+                "lance"
+            ],
+            [
+                "special"
+            ]
+        ]
+    },
+    "fellchildrafal": {
+        "name": "Fell Child (Rafal)",
+        "desc": "Inheritor of the blood of the Fell Dragon. Fights with an axe and uses a dragonstone to become a dragon.",
+        "type": "Dragon",
+        "skill": "spuremblems",
+        "promoted": false,
+        "promo": [],
+        "base": {
+            "hp": 20,
+            "str": 5,
+            "mag": 5,
+            "dex": 5,
+            "spd": 5,
+            "lck": 5,
+            "def": 5,
+            "res": 5,
+            "bld": 5,
+            "sight": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 15,
+            "str": 20,
+            "mag": 0,
+            "dex": 5,
+            "spd": 5,
+            "lck": 0,
+            "def": 20,
+            "res": 10,
+            "bld": 10
+        },
+        "cap": {
+            "hp": 76,
+            "str": 46,
+            "mag": 13,
+            "dex": 30,
+            "spd": 33,
+            "lck": 19,
+            "def": 42,
+            "res": 20,
+            "bld": 13
+        },
+        "rank": {
+            "axe": "A",
+            "special": "S"
+        },
+        "slot": [
+            [
+                "axe"
+            ],
+            [
+                "special"
+            ]
+        ]
+    },
+    "magecannoneer": {
+        "name": "Mage Cannoneer",
+        "desc": "An armored foot soldier equipped with a handheld cannon. Launches ranged attacks.",
+        "type": "Armored",
+        "skill": "letfly",
+        "promoted": false,
+        "promo": [],
+        "base": {
+            "hp": 20,
+            "str": 5,
+            "mag": 5,
+            "dex": 5,
+            "spd": 5,
+            "lck": 5,
+            "def": 5,
+            "res": 5,
+            "bld": 5,
+            "sight": 3,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 15,
+            "str": 10,
+            "mag": 0,
+            "dex": 15,
+            "spd": 5,
+            "lck": 10,
+            "def": 20,
+            "res": 5,
+            "bld": 10
+        },
+        "cap": {
+            "hp": 73,
+            "str": 45,
+            "mag": 23,
+            "dex": 43,
+            "spd": 23,
+            "lck": 31,
+            "def": 49,
+            "res": 24,
+            "bld": 18
+        },
+        "rank": {
+            "special": "S"
+        },
+        "slot": [
+            [
+                "special"
+            ]
+        ]
+    }
+}

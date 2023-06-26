@@ -1,0 +1,102 @@
+{
+    "accost": {
+        "name": "Accost",
+        "desc": "([User's AS - Foe's AS] + [User's HP/2])% chance for another round of combat (can repeat 2-20 times) if user is at 25 HP or higher.",
+        "emoji": "<:jugdral_accost:667782733594099753>"
+    },
+    "adept": {
+        "name": "Adept",
+        "desc": "(Attack Speed + 20)% for the user to do two consecutive strikes",
+        "emoji": "<:jugdral_adept:667782733493305369>"
+    },
+    "astra": {
+        "name": "Astra",
+        "desc": "(Skill)% chance for the user to do 5 consecutive strikes in a row. Cannot simultaneously active Sol or Luna. Can only be inherited by foot locked units with sword access at base.",
+        "emoji": "<:jugdral_astra:667782733853884416>"
+    },
+    "bargain": {
+        "name": "Bargain",
+        "desc": "User can buy items or repair for half-price in shops.",
+        "emoji": "<:jugdral_bargain:667782733782843393>"
+    },
+    "charm": {
+        "name": "Charm",
+        "desc": "Allies within a 3 tile radius receive +10 accuracy and avoid.",
+        "emoji": "<:jugdral_charm:667782733422133278>"
+    },
+    "critical": {
+        "name": "Critical",
+        "desc": "Allows the user to perform critical hits.\nCritical chance = (Skill + [Weapon's kills - 50])%.\nGranted to any weapons with 50+ kills.",
+        "emoji": "<:jugdral_critical:690881355223138385>"
+    },
+    "dance": {
+        "name": "Dance",
+        "desc": "Allows all adjacent allies to move again.",
+        "emoji": "<:jugdral_dance:667782733753352212>"
+    },
+    "luna": {
+        "name": "Luna",
+        "desc": "(Skill)% chance to ignore foe's defense. Cannot simultaneously active Astra or Sol. Can only be inherited by foot locked units with sword access at base.",
+        "emoji": "<:jugdral_luna:667782733854015508>"
+    },
+    "miracle": {
+        "name": "Miracle",
+        "desc": "If user is at 10 HP or below, their avoid is increased by [(11 - HP) x 10] for one turn. Doesn't work in arena if user enters it at already 10 HP or less.",
+        "emoji": "<:jugdral_miracle:667782735175221248>"
+    },
+    "nihil": {
+        "name": "Nihil",
+        "desc": "Negates foe's swords skills (Luna, Sol, Astra), critical hits and effective weapons during combat.",
+        "emoji": "<:jugdral_nihil:667782733812203520>"
+    },
+    "paragon": {
+        "name": "Paragon",
+        "desc": "User gets double experience.",
+        "emoji": "<:jugdral_paragon:667782733686112294>"
+    },
+    "pavise": {
+        "name": "Pavise",
+        "desc": "(Level)% chance to completely negate a attack.",
+        "emoji": "<:jugdral_pavise:667782733992558592>"
+    },
+    "pursuit": {
+        "name": "Pursuit",
+        "desc": "Allows the user to double.\nDouble = User's Attack Speed > Foe's Attack Speed",
+        "emoji": "<:jugdral_pursuit:690881354749050921>"
+    },
+    "renewal": {
+        "name": "Renewal",
+        "desc": "Restores 5~10 of the user's HP at the start of each turn.",
+        "emoji": "<:jugdral_renewal:667782733619134523>"
+    },
+    "sol": {
+        "name": "Sol",
+        "desc": "(Skill)% chance to restore HP as the same amount of damage dealt to foe. Cannot simultaneously active Astra or Luna. Can only be inherited by foot locked units with sword access at base.",
+        "emoji": "<:jugdral_sol:667782733744963607>"
+    },
+    "steal": {
+        "name": "Steal",
+        "desc": "Steals all of the enemy's gold on hit.",
+        "emoji": "<:jugdral_steal:667782733946421248>"
+    },
+    "vantage": {
+        "name": "Vantage",
+        "desc": "User strikes first if foe initiates combat and negates enemy's accost if unit at half HP or below.",
+        "emoji": "<:jugdral_vantage:667782734013530112>"
+    },
+    "wrath": {
+        "name": "Wrath",
+        "desc": "Guaranteed critical hit if user's current HP <= (Max HP/2) + 1.",
+        "emoji": "<:jugdral_wrath:667781266497732616>"
+    },
+    "holysword": {
+        "name": "Holy Sword",
+        "desc": "(??)% chance to trigger on user's or foe's strike.\n**User:** Increases damage by 20.\n**Foe:** Decreases damage by 20.",
+        "emoji": ""
+    },
+    "darknesssword": {
+        "name": "Darkness Sword",
+        "desc": "(??)% chance to trigger on user's or foe's strike.\n**User:** Multiplies damage by 1, 2 or 3.\n**Foe:** Decreases damage by 20.",
+        "emoji": ""
+    }
+}

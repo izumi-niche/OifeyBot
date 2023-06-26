@@ -1,0 +1,17 @@
+{
+    "ross": {
+        "fighter": ["herom", "warrior"],
+        "pirate": ["berserker", "warrior"],
+        "journeyman2": ["herom", "journeyman3"]
+    },
+    "amelia": {
+        "cavalierf": ["paladinf", "greatknightf"],
+        "knightf": ["generalf", "greatknightf"],
+        "recruit2": ["paladinf", "recruit3"]
+    },
+    "ewan": {
+        "magem": ["sagem", "mageknightm"],
+        "shamanm": ["druidm", "summonerm"],
+        "pupil2": ["sagem", "pupil3"]
+    }
+}

@@ -1,0 +1,1182 @@
+{
+    "fe16_weak": {
+        "name": "fe16_weak",
+        "id": 712446075050393641,
+        "animated": false
+    },
+    "fe16_strong": {
+        "name": "fe16_strong",
+        "id": 712446075524350022,
+        "animated": false
+    },
+    "fe16_bow": {
+        "name": "fe16_bow",
+        "id": 712446188346933340,
+        "animated": false
+    },
+    "fe16_lance": {
+        "name": "fe16_lance",
+        "id": 712446188619563049,
+        "animated": false
+    },
+    "fe16_authority": {
+        "name": "fe16_authority",
+        "id": 712446188640534568,
+        "animated": false
+    },
+    "fe16_armor": {
+        "name": "fe16_armor",
+        "id": 712446188665962497,
+        "animated": false
+    },
+    "fe16_brawling": {
+        "name": "fe16_brawling",
+        "id": 712446188720226344,
+        "animated": false
+    },
+    "fe16_axe": {
+        "name": "fe16_axe",
+        "id": 712446188758237285,
+        "animated": false
+    },
+    "fe16_faith": {
+        "name": "fe16_faith",
+        "id": 712446188783140944,
+        "animated": false
+    },
+    "fe16_sword": {
+        "name": "fe16_sword",
+        "id": 712446188841992194,
+        "animated": false
+    },
+    "fe16_flying": {
+        "name": "fe16_flying",
+        "id": 712446188921553016,
+        "animated": false
+    },
+    "fe16_reason": {
+        "name": "fe16_reason",
+        "id": 712446189089587311,
+        "animated": false
+    },
+    "fe16_riding": {
+        "name": "fe16_riding",
+        "id": 713346756645224478,
+        "animated": false
+    },
+    "fe16_0": {
+        "name": "fe16_0",
+        "id": 715104062537859113,
+        "animated": false
+    },
+    "fe16_5": {
+        "name": "fe16_5",
+        "id": 715104063246827550,
+        "animated": false
+    },
+    "fe16_6": {
+        "name": "fe16_6",
+        "id": 715104063322062851,
+        "animated": false
+    },
+    "fe16_7": {
+        "name": "fe16_7",
+        "id": 715104063452348497,
+        "animated": false
+    },
+    "fe16_8": {
+        "name": "fe16_8",
+        "id": 715104063573721158,
+        "animated": false
+    },
+    "fe16_10": {
+        "name": "fe16_10",
+        "id": 715104063645024317,
+        "animated": false
+    },
+    "fe16_11": {
+        "name": "fe16_11",
+        "id": 715104063683035207,
+        "animated": false
+    },
+    "fe16_2": {
+        "name": "fe16_2",
+        "id": 715104063758532628,
+        "animated": false
+    },
+    "fe16_4": {
+        "name": "fe16_4",
+        "id": 715104063779242044,
+        "animated": false
+    },
+    "fe16_9": {
+        "name": "fe16_9",
+        "id": 715104063787892816,
+        "animated": false
+    },
+    "fe16_13": {
+        "name": "fe16_13",
+        "id": 715104063792087072,
+        "animated": false
+    },
+    "fe16_1": {
+        "name": "fe16_1",
+        "id": 715104063817121802,
+        "animated": false
+    },
+    "fe16_3": {
+        "name": "fe16_3",
+        "id": 715104063917916160,
+        "animated": false
+    },
+    "fe16_12": {
+        "name": "fe16_12",
+        "id": 715104064156991498,
+        "animated": false
+    },
+    "fe16_14": {
+        "name": "fe16_14",
+        "id": 715104064374833212,
+        "animated": false
+    },
+    "fe16_16": {
+        "name": "fe16_16",
+        "id": 715104064479690845,
+        "animated": false
+    },
+    "fe16_15": {
+        "name": "fe16_15",
+        "id": 715104064601325668,
+        "animated": false
+    },
+    "fe16_17": {
+        "name": "fe16_17",
+        "id": 715104064832274494,
+        "animated": false
+    },
+    "fe16_21": {
+        "name": "fe16_21",
+        "id": 715104065167687714,
+        "animated": false
+    },
+    "fe16_20": {
+        "name": "fe16_20",
+        "id": 715104065281064962,
+        "animated": false
+    },
+    "fe16_18": {
+        "name": "fe16_18",
+        "id": 715104065557626890,
+        "animated": false
+    },
+    "fe16_19": {
+        "name": "fe16_19",
+        "id": 715104065566146610,
+        "animated": false
+    },
+    "fe16_22": {
+        "name": "fe16_22",
+        "id": 715104065599569920,
+        "animated": false
+    },
+    "fe16_23": {
+        "name": "fe16_23",
+        "id": 715104065679392790,
+        "animated": false
+    },
+    "fe16_24": {
+        "name": "fe16_24",
+        "id": 715104065998159882,
+        "animated": false
+    },
+    "fe16_26": {
+        "name": "fe16_26",
+        "id": 715104066014806069,
+        "animated": false
+    },
+    "fe16_27": {
+        "name": "fe16_27",
+        "id": 715104066287697921,
+        "animated": false
+    },
+    "fe16_25": {
+        "name": "fe16_25",
+        "id": 715104066363195432,
+        "animated": false
+    },
+    "fe16_28": {
+        "name": "fe16_28",
+        "id": 715104067420160050,
+        "animated": false
+    },
+    "fe16_33": {
+        "name": "fe16_33",
+        "id": 715104070142001193,
+        "animated": false
+    },
+    "fe16_31": {
+        "name": "fe16_31",
+        "id": 715104070297321555,
+        "animated": false
+    },
+    "fe16_29": {
+        "name": "fe16_29",
+        "id": 715104070385270834,
+        "animated": false
+    },
+    "fe16_37": {
+        "name": "fe16_37",
+        "id": 715104070385270835,
+        "animated": false
+    },
+    "fe16_36": {
+        "name": "fe16_36",
+        "id": 715104070414630932,
+        "animated": false
+    },
+    "fe16_32": {
+        "name": "fe16_32",
+        "id": 715104070481870899,
+        "animated": false
+    },
+    "fe16_34": {
+        "name": "fe16_34",
+        "id": 715104070486065162,
+        "animated": false
+    },
+    "fe16_35": {
+        "name": "fe16_35",
+        "id": 715104070523682927,
+        "animated": false
+    },
+    "fe16_40": {
+        "name": "fe16_40",
+        "id": 715104070553174056,
+        "animated": false
+    },
+    "fe16_30": {
+        "name": "fe16_30",
+        "id": 715104070657900654,
+        "animated": false
+    },
+    "fe16_39": {
+        "name": "fe16_39",
+        "id": 715104070745980981,
+        "animated": false
+    },
+    "fe16_41": {
+        "name": "fe16_41",
+        "id": 715104070779535430,
+        "animated": false
+    },
+    "fe16_47": {
+        "name": "fe16_47",
+        "id": 715104070884655185,
+        "animated": false
+    },
+    "fe16_42": {
+        "name": "fe16_42",
+        "id": 715104071081656320,
+        "animated": false
+    },
+    "fe16_48": {
+        "name": "fe16_48",
+        "id": 715104071144439872,
+        "animated": false
+    },
+    "fe16_38": {
+        "name": "fe16_38",
+        "id": 715104071161479178,
+        "animated": false
+    },
+    "fe16_49": {
+        "name": "fe16_49",
+        "id": 715104071199227925,
+        "animated": false
+    },
+    "fe16_46": {
+        "name": "fe16_46",
+        "id": 715104071203422248,
+        "animated": false
+    },
+    "fe16_43": {
+        "name": "fe16_43",
+        "id": 715104071211810847,
+        "animated": false
+    },
+    "fe16_45": {
+        "name": "fe16_45",
+        "id": 715104071216005131,
+        "animated": false
+    },
+    "fe16_44": {
+        "name": "fe16_44",
+        "id": 715104071257817139,
+        "animated": false
+    },
+    "fe16_50": {
+        "name": "fe16_50",
+        "id": 715167528384725063,
+        "animated": false
+    },
+    "fe16_51": {
+        "name": "fe16_51",
+        "id": 715167528615280701,
+        "animated": false
+    },
+    "fe16_52": {
+        "name": "fe16_52",
+        "id": 715167529076523078,
+        "animated": false
+    },
+    "fe16_53": {
+        "name": "fe16_53",
+        "id": 715167529257140224,
+        "animated": false
+    },
+    "fe16_54": {
+        "name": "fe16_54",
+        "id": 715167529525313547,
+        "animated": false
+    },
+    "fe16_55": {
+        "name": "fe16_55",
+        "id": 715167529621782678,
+        "animated": false
+    },
+    "fe16_56": {
+        "name": "fe16_56",
+        "id": 715167532016861245,
+        "animated": false
+    },
+    "fe16_57": {
+        "name": "fe16_57",
+        "id": 715167532516114492,
+        "animated": false
+    },
+    "fe16_58": {
+        "name": "fe16_58",
+        "id": 715167532620972042,
+        "animated": false
+    },
+    "fe16_60": {
+        "name": "fe16_60",
+        "id": 715167532620972053,
+        "animated": false
+    },
+    "fe16_61": {
+        "name": "fe16_61",
+        "id": 715167532813779025,
+        "animated": false
+    },
+    "fe16_59": {
+        "name": "fe16_59",
+        "id": 715167532981682186,
+        "animated": false
+    },
+    "fe16_63": {
+        "name": "fe16_63",
+        "id": 715167533216563262,
+        "animated": false
+    },
+    "fe16_62": {
+        "name": "fe16_62",
+        "id": 715167533254180937,
+        "animated": false
+    },
+    "fe16_64": {
+        "name": "fe16_64",
+        "id": 715167533279346709,
+        "animated": false
+    },
+    "fe16_65": {
+        "name": "fe16_65",
+        "id": 715167533396918332,
+        "animated": false
+    },
+    "fe16_67": {
+        "name": "fe16_67",
+        "id": 715167533593788507,
+        "animated": false
+    },
+    "fe16_66": {
+        "name": "fe16_66",
+        "id": 715167533610696704,
+        "animated": false
+    },
+    "fe16_68": {
+        "name": "fe16_68",
+        "id": 715167533992509533,
+        "animated": false
+    },
+    "fe16_69": {
+        "name": "fe16_69",
+        "id": 715167534071939113,
+        "animated": false
+    },
+    "fe16_70": {
+        "name": "fe16_70",
+        "id": 715167534319534170,
+        "animated": false
+    },
+    "fe16_71": {
+        "name": "fe16_71",
+        "id": 715167534529249330,
+        "animated": false
+    },
+    "fe16_72": {
+        "name": "fe16_72",
+        "id": 715167534734639155,
+        "animated": false
+    },
+    "fe16_73": {
+        "name": "fe16_73",
+        "id": 715167534797684777,
+        "animated": false
+    },
+    "fe16_74": {
+        "name": "fe16_74",
+        "id": 715167536219422741,
+        "animated": false
+    },
+    "fe16_75": {
+        "name": "fe16_75",
+        "id": 715167536236462102,
+        "animated": false
+    },
+    "fe16_79": {
+        "name": "fe16_79",
+        "id": 715167536467148831,
+        "animated": false
+    },
+    "fe16_76": {
+        "name": "fe16_76",
+        "id": 715167536626270289,
+        "animated": false
+    },
+    "fe16_78": {
+        "name": "fe16_78",
+        "id": 715167536697835520,
+        "animated": false
+    },
+    "fe16_77": {
+        "name": "fe16_77",
+        "id": 715167536714350644,
+        "animated": false
+    },
+    "fe16_80": {
+        "name": "fe16_80",
+        "id": 715167537385701397,
+        "animated": false
+    },
+    "fe16_81": {
+        "name": "fe16_81",
+        "id": 715167538497192028,
+        "animated": false
+    },
+    "fe16_82": {
+        "name": "fe16_82",
+        "id": 715167539810009179,
+        "animated": false
+    },
+    "fe16_83": {
+        "name": "fe16_83",
+        "id": 715167539868598313,
+        "animated": false
+    },
+    "fe16_87": {
+        "name": "fe16_87",
+        "id": 715167539994427465,
+        "animated": false
+    },
+    "fe16_84": {
+        "name": "fe16_84",
+        "id": 715167540296548362,
+        "animated": false
+    },
+    "fe16_90": {
+        "name": "fe16_90",
+        "id": 715167540313194498,
+        "animated": false
+    },
+    "fe16_85": {
+        "name": "fe16_85",
+        "id": 715167540342423553,
+        "animated": false
+    },
+    "fe16_88": {
+        "name": "fe16_88",
+        "id": 715167540376109158,
+        "animated": false
+    },
+    "fe16_86": {
+        "name": "fe16_86",
+        "id": 715167540472578072,
+        "animated": false
+    },
+    "fe16_95": {
+        "name": "fe16_95",
+        "id": 715167540506001410,
+        "animated": false
+    },
+    "fe16_93": {
+        "name": "fe16_93",
+        "id": 715167540598407188,
+        "animated": false
+    },
+    "fe16_92": {
+        "name": "fe16_92",
+        "id": 715167540606926848,
+        "animated": false
+    },
+    "fe16_97": {
+        "name": "fe16_97",
+        "id": 715167540623704167,
+        "animated": false
+    },
+    "fe16_94": {
+        "name": "fe16_94",
+        "id": 715167540644544552,
+        "animated": false
+    },
+    "fe16_91": {
+        "name": "fe16_91",
+        "id": 715167540648607763,
+        "animated": false
+    },
+    "fe16_89": {
+        "name": "fe16_89",
+        "id": 715167540648738879,
+        "animated": false
+    },
+    "fe16_96": {
+        "name": "fe16_96",
+        "id": 715167540682424350,
+        "animated": false
+    },
+    "fe16_98": {
+        "name": "fe16_98",
+        "id": 715167540808122519,
+        "animated": false
+    },
+    "fe16_99": {
+        "name": "fe16_99",
+        "id": 715167540946665585,
+        "animated": false
+    },
+    "fe16_152": {
+        "name": "fe16_152",
+        "id": 715168333825179720,
+        "animated": false
+    },
+    "fe16_150": {
+        "name": "fe16_150",
+        "id": 715168333925842975,
+        "animated": false
+    },
+    "fe16_151": {
+        "name": "fe16_151",
+        "id": 715168334076706857,
+        "animated": false
+    },
+    "fe16_154": {
+        "name": "fe16_154",
+        "id": 715168334202667129,
+        "animated": false
+    },
+    "fe16_153": {
+        "name": "fe16_153",
+        "id": 715168334609383524,
+        "animated": false
+    },
+    "fe16_157": {
+        "name": "fe16_157",
+        "id": 715168334647132262,
+        "animated": false
+    },
+    "fe16_155": {
+        "name": "fe16_155",
+        "id": 715168334752251935,
+        "animated": false
+    },
+    "fe16_156": {
+        "name": "fe16_156",
+        "id": 715168334882013264,
+        "animated": false
+    },
+    "fe16_158": {
+        "name": "fe16_158",
+        "id": 715168335209431130,
+        "animated": false
+    },
+    "fe16_159": {
+        "name": "fe16_159",
+        "id": 715168335280603187,
+        "animated": false
+    },
+    "fe16_163": {
+        "name": "fe16_163",
+        "id": 715168335586656330,
+        "animated": false
+    },
+    "fe16_161": {
+        "name": "fe16_161",
+        "id": 715168335750496347,
+        "animated": false
+    },
+    "fe16_160": {
+        "name": "fe16_160",
+        "id": 715168335809216572,
+        "animated": false
+    },
+    "fe16_162": {
+        "name": "fe16_162",
+        "id": 715168335926525972,
+        "animated": false
+    },
+    "fe16_164": {
+        "name": "fe16_164",
+        "id": 715168336195092560,
+        "animated": false
+    },
+    "fe16_165": {
+        "name": "fe16_165",
+        "id": 715168336232710204,
+        "animated": false
+    },
+    "fe16_166": {
+        "name": "fe16_166",
+        "id": 715168336383836180,
+        "animated": false
+    },
+    "fe16_167": {
+        "name": "fe16_167",
+        "id": 715168336740352010,
+        "animated": false
+    },
+    "fe16_168": {
+        "name": "fe16_168",
+        "id": 715168336924639232,
+        "animated": false
+    },
+    "fe16_170": {
+        "name": "fe16_170",
+        "id": 715168337255989278,
+        "animated": false
+    },
+    "fe16_169": {
+        "name": "fe16_169",
+        "id": 715168337323098122,
+        "animated": false
+    },
+    "fe16_172": {
+        "name": "fe16_172",
+        "id": 715168337545396266,
+        "animated": false
+    },
+    "fe16_173": {
+        "name": "fe16_173",
+        "id": 715168337637802014,
+        "animated": false
+    },
+    "fe16_171": {
+        "name": "fe16_171",
+        "id": 715168337700847666,
+        "animated": false
+    },
+    "fe16_174": {
+        "name": "fe16_174",
+        "id": 715168337830608958,
+        "animated": false
+    },
+    "fe16_175": {
+        "name": "fe16_175",
+        "id": 715168338082398219,
+        "animated": false
+    },
+    "fe16_176": {
+        "name": "fe16_176",
+        "id": 715168338157764638,
+        "animated": false
+    },
+    "fe16_177": {
+        "name": "fe16_177",
+        "id": 715168338287919104,
+        "animated": false
+    },
+    "fe16_178": {
+        "name": "fe16_178",
+        "id": 715168338648629259,
+        "animated": false
+    },
+    "fe16_179": {
+        "name": "fe16_179",
+        "id": 715168338854150144,
+        "animated": false
+    },
+    "fe16_182": {
+        "name": "fe16_182",
+        "id": 715168339139231848,
+        "animated": false
+    },
+    "fe16_181": {
+        "name": "fe16_181",
+        "id": 715168339152076850,
+        "animated": false
+    },
+    "fe16_180": {
+        "name": "fe16_180",
+        "id": 715168339281838080,
+        "animated": false
+    },
+    "fe16_183": {
+        "name": "fe16_183",
+        "id": 715168339961577473,
+        "animated": false
+    },
+    "fe16_184": {
+        "name": "fe16_184",
+        "id": 715168340087406592,
+        "animated": false
+    },
+    "fe16_185": {
+        "name": "fe16_185",
+        "id": 715168340729004102,
+        "animated": false
+    },
+    "fe16_189": {
+        "name": "fe16_189",
+        "id": 715168341710471230,
+        "animated": false
+    },
+    "fe16_190": {
+        "name": "fe16_190",
+        "id": 715168342029107281,
+        "animated": false
+    },
+    "fe16_188": {
+        "name": "fe16_188",
+        "id": 715168342100672582,
+        "animated": false
+    },
+    "fe16_192": {
+        "name": "fe16_192",
+        "id": 715168342155067393,
+        "animated": false
+    },
+    "fe16_193": {
+        "name": "fe16_193",
+        "id": 715168342289285121,
+        "animated": false
+    },
+    "fe16_191": {
+        "name": "fe16_191",
+        "id": 715168342335291423,
+        "animated": false
+    },
+    "fe16_199": {
+        "name": "fe16_199",
+        "id": 715168342465445930,
+        "animated": false
+    },
+    "fe16_187": {
+        "name": "fe16_187",
+        "id": 715168342528360559,
+        "animated": false
+    },
+    "fe16_186": {
+        "name": "fe16_186",
+        "id": 715168342607921153,
+        "animated": false
+    },
+    "fe16_196": {
+        "name": "fe16_196",
+        "id": 715168342943727638,
+        "animated": false
+    },
+    "fe16_198": {
+        "name": "fe16_198",
+        "id": 715168343128145971,
+        "animated": false
+    },
+    "fe16_194": {
+        "name": "fe16_194",
+        "id": 715168343144923156,
+        "animated": false
+    },
+    "fe16_197": {
+        "name": "fe16_197",
+        "id": 715168343191191552,
+        "animated": false
+    },
+    "fe16_195": {
+        "name": "fe16_195",
+        "id": 715168343388323950,
+        "animated": false
+    },
+    "fe16_100": {
+        "name": "fe16_100",
+        "id": 715167986125766666,
+        "animated": false
+    },
+    "fe16_102": {
+        "name": "fe16_102",
+        "id": 715167986335481888,
+        "animated": false
+    },
+    "fe16_101": {
+        "name": "fe16_101",
+        "id": 715167986507579414,
+        "animated": false
+    },
+    "fe16_103": {
+        "name": "fe16_103",
+        "id": 715167986951913503,
+        "animated": false
+    },
+    "fe16_104": {
+        "name": "fe16_104",
+        "id": 715167987119816755,
+        "animated": false
+    },
+    "fe16_105": {
+        "name": "fe16_105",
+        "id": 715167987329662986,
+        "animated": false
+    },
+    "fe16_109": {
+        "name": "fe16_109",
+        "id": 715167988592148561,
+        "animated": false
+    },
+    "fe16_113": {
+        "name": "fe16_113",
+        "id": 715167988747337780,
+        "animated": false
+    },
+    "fe16_106": {
+        "name": "fe16_106",
+        "id": 715167988860452867,
+        "animated": false
+    },
+    "fe16_110": {
+        "name": "fe16_110",
+        "id": 715167988986150982,
+        "animated": false
+    },
+    "fe16_114": {
+        "name": "fe16_114",
+        "id": 715167989019705355,
+        "animated": false
+    },
+    "fe16_112": {
+        "name": "fe16_112",
+        "id": 715167989032550400,
+        "animated": false
+    },
+    "fe16_108": {
+        "name": "fe16_108",
+        "id": 715167989044871193,
+        "animated": false
+    },
+    "fe16_107": {
+        "name": "fe16_107",
+        "id": 715167989091139674,
+        "animated": false
+    },
+    "fe16_111": {
+        "name": "fe16_111",
+        "id": 715167989195866232,
+        "animated": false
+    },
+    "fe16_115": {
+        "name": "fe16_115",
+        "id": 715167989447655534,
+        "animated": false
+    },
+    "fe16_116": {
+        "name": "fe16_116",
+        "id": 715167989653307543,
+        "animated": false
+    },
+    "fe16_118": {
+        "name": "fe16_118",
+        "id": 715167989732737115,
+        "animated": false
+    },
+    "fe16_117": {
+        "name": "fe16_117",
+        "id": 715167989787525252,
+        "animated": false
+    },
+    "fe16_119": {
+        "name": "fe16_119",
+        "id": 715167990454419476,
+        "animated": false
+    },
+    "fe16_120": {
+        "name": "fe16_120",
+        "id": 715167990538043464,
+        "animated": false
+    },
+    "fe16_122": {
+        "name": "fe16_122",
+        "id": 715167990550888610,
+        "animated": false
+    },
+    "fe16_121": {
+        "name": "fe16_121",
+        "id": 715167990710009936,
+        "animated": false
+    },
+    "fe16_124": {
+        "name": "fe16_124",
+        "id": 715167990861267015,
+        "animated": false
+    },
+    "fe16_123": {
+        "name": "fe16_123",
+        "id": 715167990873587763,
+        "animated": false
+    },
+    "fe16_125": {
+        "name": "fe16_125",
+        "id": 715167991024713759,
+        "animated": false
+    },
+    "fe16_126": {
+        "name": "fe16_126",
+        "id": 715167991678894101,
+        "animated": false
+    },
+    "fe16_127": {
+        "name": "fe16_127",
+        "id": 715167991679025282,
+        "animated": false
+    },
+    "fe16_128": {
+        "name": "fe16_128",
+        "id": 715167991695671327,
+        "animated": false
+    },
+    "fe16_129": {
+        "name": "fe16_129",
+        "id": 715167991779819564,
+        "animated": false
+    },
+    "fe16_130": {
+        "name": "fe16_130",
+        "id": 715167992463360050,
+        "animated": false
+    },
+    "fe16_131": {
+        "name": "fe16_131",
+        "id": 715167994220642316,
+        "animated": false
+    },
+    "fe16_134": {
+        "name": "fe16_134",
+        "id": 715167994883342377,
+        "animated": false
+    },
+    "fe16_139": {
+        "name": "fe16_139",
+        "id": 715167995122417795,
+        "animated": false
+    },
+    "fe16_140": {
+        "name": "fe16_140",
+        "id": 715167995424538684,
+        "animated": false
+    },
+    "fe16_143": {
+        "name": "fe16_143",
+        "id": 715167995500036136,
+        "animated": false
+    },
+    "fe16_142": {
+        "name": "fe16_142",
+        "id": 715167995541848074,
+        "animated": false
+    },
+    "fe16_144": {
+        "name": "fe16_144",
+        "id": 715167995550236691,
+        "animated": false
+    },
+    "fe16_138": {
+        "name": "fe16_138",
+        "id": 715167995625734146,
+        "animated": false
+    },
+    "fe16_136": {
+        "name": "fe16_136",
+        "id": 715167995713814581,
+        "animated": false
+    },
+    "fe16_133": {
+        "name": "fe16_133",
+        "id": 715167995743305769,
+        "animated": false
+    },
+    "fe16_145": {
+        "name": "fe16_145",
+        "id": 715167995764146197,
+        "animated": false
+    },
+    "fe16_141": {
+        "name": "fe16_141",
+        "id": 715167995764277294,
+        "animated": false
+    },
+    "fe16_137": {
+        "name": "fe16_137",
+        "id": 715167995936112670,
+        "animated": false
+    },
+    "fe16_147": {
+        "name": "fe16_147",
+        "id": 715167995982512149,
+        "animated": false
+    },
+    "fe16_135": {
+        "name": "fe16_135",
+        "id": 715167996032843836,
+        "animated": false
+    },
+    "fe16_146": {
+        "name": "fe16_146",
+        "id": 715167996129312870,
+        "animated": false
+    },
+    "fe16_149": {
+        "name": "fe16_149",
+        "id": 715167996158672919,
+        "animated": false
+    },
+    "fe16_148": {
+        "name": "fe16_148",
+        "id": 715167996200615996,
+        "animated": false
+    },
+    "fe16_132": {
+        "name": "fe16_132",
+        "id": 715167996208742486,
+        "animated": false
+    },
+    "fe16_200": {
+        "name": "fe16_200",
+        "id": 715168644585357454,
+        "animated": false
+    },
+    "fe16_201": {
+        "name": "fe16_201",
+        "id": 715168644639883265,
+        "animated": false
+    },
+    "fe16_202": {
+        "name": "fe16_202",
+        "id": 715168645013176389,
+        "animated": false
+    },
+    "fe16_203": {
+        "name": "fe16_203",
+        "id": 715168645185011803,
+        "animated": false
+    },
+    "fe16_204": {
+        "name": "fe16_204",
+        "id": 715168645399052329,
+        "animated": false
+    },
+    "fe16_205": {
+        "name": "fe16_205",
+        "id": 715168645751373864,
+        "animated": false
+    },
+    "fe16_206": {
+        "name": "fe16_206",
+        "id": 715168645973672056,
+        "animated": false
+    },
+    "fe16_207": {
+        "name": "fe16_207",
+        "id": 715168646221266954,
+        "animated": false
+    },
+    "fe16_209": {
+        "name": "fe16_209",
+        "id": 715168646229393409,
+        "animated": false
+    },
+    "fe16_208": {
+        "name": "fe16_208",
+        "id": 715168646632046642,
+        "animated": false
+    },
+    "fe16_210": {
+        "name": "fe16_210",
+        "id": 715168646799818883,
+        "animated": false
+    },
+    "fe16_211": {
+        "name": "fe16_211",
+        "id": 715168647131299932,
+        "animated": false
+    },
+    "fe16_212": {
+        "name": "fe16_212",
+        "id": 715168647441678387,
+        "animated": false
+    },
+    "fe16_213": {
+        "name": "fe16_213",
+        "id": 715168648247115839,
+        "animated": false
+    },
+    "art_bow": {
+        "name": "art_bow",
+        "id": 715535875185836118,
+        "animated": false
+    },
+    "art_gauntlet": {
+        "name": "art_gauntlet",
+        "id": 715535875425042542,
+        "animated": false
+    },
+    "art_axe": {
+        "name": "art_axe",
+        "id": 715535875425173564,
+        "animated": false
+    },
+    "art_lance": {
+        "name": "art_lance",
+        "id": 715535875538288662,
+        "animated": false
+    },
+    "art_sword": {
+        "name": "art_sword",
+        "id": 715535876024827944,
+        "animated": false
+    },
+    "rank_black": {
+        "name": "rank_black",
+        "id": 715912412389310464,
+        "animated": false
+    },
+    "rank_white": {
+        "name": "rank_white",
+        "id": 715912412620128276,
+        "animated": false
+    },
+    "rank_dark": {
+        "name": "rank_dark",
+        "id": 715912412620128307,
+        "animated": false
+    },
+    "art_other": {
+        "name": "art_other",
+        "id": 720415973013848114,
+        "animated": false
+    }
+}

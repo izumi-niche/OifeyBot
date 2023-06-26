@@ -1,0 +1,327 @@
+{
+    "fe11_gordin": {
+        "name": "fe11_gordin",
+        "id": 663550347398348831,
+        "animated": false
+    },
+    "fe11_frey": {
+        "name": "fe11_frey",
+        "id": 663550347511332878,
+        "animated": false
+    },
+    "fe11_gotoh": {
+        "name": "fe11_gotoh",
+        "id": 663550347549343754,
+        "animated": false
+    },
+    "fe11_hardin": {
+        "name": "fe11_hardin",
+        "id": 663550347813584907,
+        "animated": false
+    },
+    "fe11_horace": {
+        "name": "fe11_horace",
+        "id": 663550348102729738,
+        "animated": false
+    },
+    "fe11_jagen": {
+        "name": "fe11_jagen",
+        "id": 663550348496994314,
+        "animated": false
+    },
+    "fe11_jake": {
+        "name": "fe11_jake",
+        "id": 663550348505513994,
+        "animated": false
+    },
+    "fe11_jeorge": {
+        "name": "fe11_jeorge",
+        "id": 663550348581142528,
+        "animated": false
+    },
+    "fe11_julian": {
+        "name": "fe11_julian",
+        "id": 663550348643926019,
+        "animated": false
+    },
+    "fe11_lena": {
+        "name": "fe11_lena",
+        "id": 663550348899909642,
+        "animated": false
+    },
+    "fe11_linde": {
+        "name": "fe11_linde",
+        "id": 663550348967018499,
+        "animated": false
+    },
+    "fe11_lorenz": {
+        "name": "fe11_lorenz",
+        "id": 663550349529055242,
+        "animated": false
+    },
+    "fe11_marth": {
+        "name": "fe11_marth",
+        "id": 663550350774632460,
+        "animated": false
+    },
+    "fe11_matthis": {
+        "name": "fe11_matthis",
+        "id": 663550350892073017,
+        "animated": false
+    },
+    "fe11_midia": {
+        "name": "fe11_midia",
+        "id": 663550350892204062,
+        "animated": false
+    },
+    "fe11_merric": {
+        "name": "fe11_merric",
+        "id": 663550350900592683,
+        "animated": false
+    },
+    "fe11_maria": {
+        "name": "fe11_maria",
+        "id": 663550350904786955,
+        "animated": false
+    },
+    "fe11_macellan": {
+        "name": "fe11_macellan",
+        "id": 663550350950662154,
+        "animated": false
+    },
+    "fe11_ogma": {
+        "name": "fe11_ogma",
+        "id": 663550351164833822,
+        "animated": false
+    },
+    "fe11_minerva": {
+        "name": "fe11_minerva",
+        "id": 663550351168765952,
+        "animated": false
+    },
+    "fe11_nagi": {
+        "name": "fe11_nagi",
+        "id": 663550351441526784,
+        "animated": false
+    },
+    "fe11_navarre": {
+        "name": "fe11_navarre",
+        "id": 663550351588196353,
+        "animated": false
+    },
+    "fe11_radd": {
+        "name": "fe11_radd",
+        "id": 663550351588196360,
+        "animated": false
+    },
+    "fe11_palla": {
+        "name": "fe11_palla",
+        "id": 663550351600910337,
+        "animated": false
+    },
+    "fe11_rickard": {
+        "name": "fe11_rickard",
+        "id": 663550351793717314,
+        "animated": false
+    },
+    "fe11_roger": {
+        "name": "fe11_roger",
+        "id": 663550351953100800,
+        "animated": false
+    },
+    "fe11_roshea": {
+        "name": "fe11_roshea",
+        "id": 663550352032923658,
+        "animated": false
+    },
+    "fe11_samson": {
+        "name": "fe11_samson",
+        "id": 663550352200564770,
+        "animated": false
+    },
+    "fe11_wrys": {
+        "name": "fe11_wrys",
+        "id": 663550355107217431,
+        "animated": false
+    },
+    "fe11_wendell": {
+        "name": "fe11_wendell",
+        "id": 663550355233308683,
+        "animated": false
+    },
+    "fe11_wolf": {
+        "name": "fe11_wolf",
+        "id": 663550355241435136,
+        "animated": false
+    },
+    "fe11_xane": {
+        "name": "fe11_xane",
+        "id": 663550355241697280,
+        "animated": false
+    },
+    "fe11_tomas": {
+        "name": "fe11_tomas",
+        "id": 663550355300286465,
+        "animated": false
+    },
+    "fe11_tiki": {
+        "name": "fe11_tiki",
+        "id": 663550355308806165,
+        "animated": false
+    },
+    "fe11_ymir": {
+        "name": "fe11_ymir",
+        "id": 663550355342229505,
+        "animated": false
+    },
+    "fe11_vyland": {
+        "name": "fe11_vyland",
+        "id": 663550355421921280,
+        "animated": false
+    },
+    "fe11_caeda": {
+        "name": "fe11_caeda",
+        "id": 663846547494010883,
+        "animated": false
+    },
+    "fe11_norne": {
+        "name": "fe11_norne",
+        "id": 663897365005991964,
+        "animated": false
+    },
+    "fe11_sedgar": {
+        "name": "fe11_sedgar",
+        "id": 663900096777420831,
+        "animated": false
+    },
+    "lance": {
+        "name": "fe11_lance",
+        "id": 674114194240438274,
+        "animated": false
+    },
+    "staff": {
+        "name": "fe11_staff",
+        "id": 674114194261540864,
+        "animated": false
+    },
+    "axe": {
+        "name": "fe11_axe",
+        "id": 674114194299158538,
+        "animated": false
+    },
+    "bow": {
+        "name": "fe11_bow",
+        "id": 674114194303483904,
+        "animated": false
+    },
+    "fe11_abel": {
+        "name": "fe11_abel",
+        "id": 663548486616350723,
+        "animated": false
+    },
+    "fe11_arran": {
+        "name": "fe11_arran",
+        "id": 663548487350222858,
+        "animated": false
+    },
+    "fe11_astram": {
+        "name": "fe11_astram",
+        "id": 663548487417462784,
+        "animated": false
+    },
+    "fe11_athena": {
+        "name": "fe11_athena",
+        "id": 663548487606206471,
+        "animated": false
+    },
+    "fe11_bantu": {
+        "name": "fe11_bantu",
+        "id": 663548487732035603,
+        "animated": false
+    },
+    "fe11_barst": {
+        "name": "fe11_barst",
+        "id": 663548487819984920,
+        "animated": false
+    },
+    "fe11_beck": {
+        "name": "fe11_beck",
+        "id": 663548487912259602,
+        "animated": false
+    },
+    "fe11_boah": {
+        "name": "fe11_boah",
+        "id": 663548488021180427,
+        "animated": false
+    },
+    "fe11_bord": {
+        "name": "fe11_bord",
+        "id": 663548488339947569,
+        "animated": false
+    },
+    "fe11_caesar": {
+        "name": "fe11_caesar",
+        "id": 663548488495267840,
+        "animated": false
+    },
+    "fe11_cain": {
+        "name": "fe11_cain",
+        "id": 663548488516370522,
+        "animated": false
+    },
+    "fe11_cord": {
+        "name": "fe11_cord",
+        "id": 663548488562245673,
+        "animated": false
+    },
+    "fe11_castor": {
+        "name": "fe11_castor",
+        "id": 663548488574828546,
+        "animated": false
+    },
+    "fe11_catria": {
+        "name": "fe11_catria",
+        "id": 663548488839069696,
+        "animated": false
+    },
+    "fe11_darros": {
+        "name": "fe11_darros",
+        "id": 663548489053110302,
+        "animated": false
+    },
+    "fe11_dolph": {
+        "name": "fe11_dolph",
+        "id": 663548489095053344,
+        "animated": false
+    },
+    "fe11_draug": {
+        "name": "fe11_draug",
+        "id": 663548492924321826,
+        "animated": false
+    },
+    "fe11_est": {
+        "name": "fe11_est",
+        "id": 663548493092093973,
+        "animated": false
+    },
+    "fe11_elice": {
+        "name": "fe11_elice",
+        "id": 663548493159465020,
+        "animated": false
+    },
+    "fe11_etzel": {
+        "name": "fe11_etzel",
+        "id": 663548493306265600,
+        "animated": false
+    },
+    "tome": {
+        "name": "fe11_tome",
+        "id": 674114313929228328,
+        "animated": false
+    },
+    "sword": {
+        "name": "fe11_sword",
+        "id": 674114313946136578,
+        "animated": false
+    }
+}

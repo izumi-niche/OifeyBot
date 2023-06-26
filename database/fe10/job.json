@@ -1,0 +1,8988 @@
+{
+    "archer": {
+        "name": "Archer",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 19,
+            "str": 9,
+            "mag": 0,
+            "skl": 10,
+            "spd": 8,
+            "lck": 0,
+            "def": 5,
+            "res": 1,
+            "con": 10,
+            "wt": 10,
+            "mov": 6,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 65,
+            "str": 55,
+            "mag": 10,
+            "skl": 45,
+            "spd": 50,
+            "lck": 30,
+            "def": 45,
+            "res": 35
+        },
+        "cap": {
+            "hp": 40,
+            "str": 20,
+            "mag": 10,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 10
+        },
+        "rank": {
+            "min": {
+                "bow": 31
+            },
+            "max": {
+                "bow": 181
+            }
+        }
+    },
+    "archsagedark": {
+        "name": "Arch Sage (Dark)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "trans": false,
+        "skill": [
+            "shove",
+            "flare"
+        ],
+        "base": {
+            "hp": 43,
+            "str": 5,
+            "mag": 20,
+            "skl": 16,
+            "spd": 19,
+            "lck": 0,
+            "def": 9,
+            "res": 17,
+            "con": 10,
+            "wt": 10,
+            "mov": 6,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 55,
+            "str": 15,
+            "mag": 55,
+            "skl": 45,
+            "spd": 45,
+            "lck": 20,
+            "def": 35,
+            "res": 50
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "str": 4,
+            "mag": 2,
+            "skl": 2,
+            "spd": 2,
+            "def": 4,
+            "res": 2,
+            "con": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 50,
+            "str": 25,
+            "mag": 39,
+            "skl": 34,
+            "spd": 31,
+            "lck": 30,
+            "def": 24,
+            "res": 36
+        },
+        "rank": {
+            "min": {
+                "thunder": 181,
+                "dark": 251,
+                "staff": 121
+            },
+            "max": {
+                "thunder": 251,
+                "dark": 331,
+                "staff": 251
+            }
+        }
+    },
+    "archsagefiref": {
+        "name": "Arch Sage (Fire F)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "trans": false,
+        "skill": [
+            "shove",
+            "flare"
+        ],
+        "base": {
+            "hp": 43,
+            "str": 5,
+            "mag": 20,
+            "skl": 16,
+            "spd": 19,
+            "lck": 0,
+            "def": 8,
+            "res": 18,
+            "con": 7,
+            "wt": 7,
+            "mov": 6,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 55,
+            "str": 10,
+            "mag": 55,
+            "skl": 45,
+            "spd": 50,
+            "lck": 20,
+            "def": 20,
+            "res": 55
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "str": 5,
+            "mag": 2,
+            "skl": 2,
+            "spd": 2,
+            "def": 5,
+            "res": 2,
+            "con": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 50,
+            "str": 24,
+            "mag": 38,
+            "skl": 34,
+            "spd": 32,
+            "lck": 30,
+            "def": 23,
+            "res": 38
+        },
+        "rank": {
+            "min": {
+                "fire": 181,
+                "thunder": 31,
+                "wind": 31,
+                "staff": 1
+            },
+            "max": {
+                "fire": 331,
+                "thunder": 251,
+                "wind": 251,
+                "staff": 181
+            }
+        }
+    },
+    "archsagefirem": {
+        "name": "Arch Sage (Fire M)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "trans": false,
+        "skill": [
+            "shove",
+            "flare"
+        ],
+        "base": {
+            "hp": 43,
+            "str": 6,
+            "mag": 20,
+            "skl": 16,
+            "spd": 18,
+            "lck": 0,
+            "def": 9,
+            "res": 17,
+            "con": 10,
+            "wt": 10,
+            "mov": 6,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 55,
+            "str": 15,
+            "mag": 55,
+            "skl": 45,
+            "spd": 45,
+            "lck": 20,
+            "def": 35,
+            "res": 50
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "str": 4,
+            "mag": 2,
+            "skl": 2,
+            "spd": 2,
+            "def": 4,
+            "res": 2,
+            "con": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 50,
+            "str": 24,
+            "mag": 38,
+            "skl": 34,
+            "spd": 32,
+            "lck": 30,
+            "def": 25,
+            "res": 36
+        },
+        "rank": {
+            "min": {
+                "fire": 181,
+                "thunder": 31,
+                "wind": 31,
+                "staff": 1
+            },
+            "max": {
+                "fire": 331,
+                "thunder": 251,
+                "wind": 251,
+                "staff": 181
+            }
+        }
+    },
+    "archsagethunder": {
+        "name": "Arch Sage (Thunder)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "trans": false,
+        "skill": [
+            "shove",
+            "flare"
+        ],
+        "base": {
+            "hp": 43,
+            "str": 6,
+            "mag": 20,
+            "skl": 16,
+            "spd": 18,
+            "lck": 0,
+            "def": 7,
+            "res": 19,
+            "con": 6,
+            "wt": 6,
+            "mov": 6,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 55,
+            "str": 10,
+            "mag": 55,
+            "skl": 45,
+            "spd": 50,
+            "lck": 20,
+            "def": 20,
+            "res": 55
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "str": 5,
+            "mag": 2,
+            "skl": 2,
+            "spd": 2,
+            "def": 5,
+            "res": 2,
+            "con": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 45,
+            "str": 24,
+            "mag": 39,
+            "skl": 34,
+            "spd": 30,
+            "lck": 30,
+            "def": 24,
+            "res": 38
+        },
+        "rank": {
+            "min": {
+                "fire": 31,
+                "thunder": 181,
+                "wind": 31,
+                "staff": 1
+            },
+            "max": {
+                "fire": 251,
+                "thunder": 331,
+                "wind": 251,
+                "staff": 181
+            }
+        }
+    },
+    "archsagewind": {
+        "name": "Arch Sage (Wind)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "trans": false,
+        "skill": [
+            "shove",
+            "flare"
+        ],
+        "base": {
+            "hp": 43,
+            "str": 4,
+            "mag": 20,
+            "skl": 16,
+            "spd": 20,
+            "lck": 0,
+            "def": 9,
+            "res": 17,
+            "con": 10,
+            "wt": 10,
+            "mov": 6,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 55,
+            "str": 15,
+            "mag": 55,
+            "skl": 45,
+            "spd": 45,
+            "lck": 20,
+            "def": 35,
+            "res": 50
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "str": 4,
+            "mag": 2,
+            "skl": 2,
+            "spd": 2,
+            "def": 4,
+            "res": 2,
+            "con": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 50,
+            "str": 23,
+            "mag": 40,
+            "skl": 34,
+            "spd": 32,
+            "lck": 30,
+            "def": 24,
+            "res": 36
+        },
+        "rank": {
+            "min": {
+                "fire": 31,
+                "thunder": 31,
+                "wind": 181,
+                "staff": 1
+            },
+            "max": {
+                "fire": 251,
+                "thunder": 251,
+                "wind": 331,
+                "staff": 181
+            }
+        }
+    },
+    "armoraxe": {
+        "name": "Armor Axe",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 8,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 21,
+            "str": 10,
+            "mag": 0,
+            "skl": 7,
+            "spd": 4,
+            "lck": 0,
+            "def": 11,
+            "res": 4,
+            "con": 12,
+            "wt": 20,
+            "mov": 5,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 90,
+            "str": 45,
+            "mag": 20,
+            "skl": 45,
+            "spd": 65,
+            "lck": 25,
+            "def": 40,
+            "res": 20
+        },
+        "cap": {
+            "hp": 40,
+            "str": 20,
+            "mag": 10,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 10
+        },
+        "rank": {
+            "min": {
+                "axe": 31
+            },
+            "max": {
+                "axe": 181
+            }
+        }
+    },
+    "armorlance": {
+        "name": "Armor Lance",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 8,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 22,
+            "str": 9,
+            "mag": 0,
+            "skl": 6,
+            "spd": 5,
+            "lck": 0,
+            "def": 11,
+            "res": 4,
+            "con": 12,
+            "wt": 20,
+            "mov": 5,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 85,
+            "str": 55,
+            "mag": 15,
+            "skl": 50,
+            "spd": 55,
+            "lck": 30,
+            "def": 40,
+            "res": 20
+        },
+        "cap": {
+            "hp": 40,
+            "str": 20,
+            "mag": 10,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 10
+        },
+        "rank": {
+            "min": {
+                "lance": 31
+            },
+            "max": {
+                "lance": 181
+            }
+        }
+    },
+    "armorswordf": {
+        "name": "Armor Sword (F)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 6,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 20,
+            "str": 6,
+            "mag": 0,
+            "skl": 7,
+            "spd": 3,
+            "lck": 0,
+            "def": 9,
+            "res": 4,
+            "con": 6,
+            "wt": 12,
+            "mov": 5,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 80,
+            "str": 50,
+            "mag": 15,
+            "skl": 55,
+            "spd": 45,
+            "lck": 60,
+            "def": 35,
+            "res": 30
+        },
+        "cap": {
+            "hp": 40,
+            "str": 20,
+            "mag": 10,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 10
+        },
+        "rank": {
+            "min": {
+                "sword": 31
+            },
+            "max": {
+                "sword": 181
+            }
+        }
+    },
+    "armorswordm": {
+        "name": "Armor Sword (M)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 8,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 22,
+            "str": 8,
+            "mag": 0,
+            "skl": 5,
+            "spd": 6,
+            "lck": 0,
+            "def": 12,
+            "res": 4,
+            "con": 12,
+            "wt": 20,
+            "mov": 5,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 85,
+            "str": 60,
+            "mag": 25,
+            "skl": 50,
+            "spd": 50,
+            "lck": 25,
+            "def": 35,
+            "res": 20
+        },
+        "cap": {
+            "hp": 40,
+            "str": 20,
+            "mag": 10,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 10
+        },
+        "rank": {
+            "min": {
+                "sword": 31
+            },
+            "max": {
+                "sword": 181
+            }
+        }
+    },
+    "assassin": {
+        "name": "Assassin",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove",
+            "crtplus25",
+            "lethality"
+        ],
+        "base": {
+            "hp": 60,
+            "str": 28,
+            "mag": 10,
+            "skl": 36,
+            "spd": 38,
+            "lck": 0,
+            "def": 22,
+            "res": 20,
+            "con": 11,
+            "wt": 11,
+            "mov": 7,
+            "vision": 5
+        },
+        "growth": {
+            "hp": 65,
+            "str": 50,
+            "mag": 5,
+            "skl": 55,
+            "spd": 65,
+            "lck": 20,
+            "def": 35,
+            "res": 15
+        },
+        "cap": {
+            "hp": 55,
+            "str": 32,
+            "mag": 15,
+            "skl": 40,
+            "spd": 40,
+            "lck": 25,
+            "def": 30,
+            "res": 25
+        },
+        "rank": {
+            "min": {
+                "knife": 251
+            },
+            "max": {
+                "knife": 331
+            }
+        }
+    },
+    "axegeneral": {
+        "name": "Axe General",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 10,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 34,
+            "str": 19,
+            "mag": 5,
+            "skl": 18,
+            "spd": 15,
+            "lck": 0,
+            "def": 20,
+            "res": 10,
+            "con": 13,
+            "wt": 23,
+            "mov": 6,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 60,
+            "str": 40,
+            "mag": 45,
+            "skl": 25,
+            "spd": 25,
+            "lck": 40,
+            "def": 50,
+            "res": 50
+        },
+        "cap": {
+            "hp": 45,
+            "str": 28,
+            "mag": 15,
+            "skl": 25,
+            "spd": 22,
+            "lck": 30,
+            "def": 30,
+            "res": 20
+        },
+        "rank": {
+            "min": {
+                "sword": 1,
+                "axe": 71
+            },
+            "max": {
+                "sword": 181,
+                "axe": 251
+            }
+        }
+    },
+    "axegeneralsp": {
+        "name": "Axe General (SP)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 10,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 39,
+            "str": 21,
+            "mag": 7,
+            "skl": 20,
+            "spd": 17,
+            "lck": 0,
+            "def": 22,
+            "res": 12,
+            "con": 13,
+            "wt": 23,
+            "mov": 6,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 85,
+            "str": 75,
+            "mag": 60,
+            "skl": 70,
+            "spd": 60,
+            "lck": 65,
+            "def": 65,
+            "res": 85
+        },
+        "cap": {
+            "hp": 55,
+            "str": 35,
+            "mag": 18,
+            "skl": 33,
+            "spd": 28,
+            "lck": 30,
+            "def": 34,
+            "res": 28
+        },
+        "rank": {
+            "min": {
+                "sword": 71,
+                "lance": 31,
+                "axe": 181
+            },
+            "max": {
+                "sword": 251,
+                "lance": 181,
+                "axe": 331
+            }
+        }
+    },
+    "axeknight": {
+        "name": "Axe Knight",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 24,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "canto"
+        ],
+        "base": {
+            "hp": 18,
+            "str": 8,
+            "mag": 0,
+            "skl": 7,
+            "spd": 6,
+            "lck": 0,
+            "def": 7,
+            "res": 0,
+            "con": 10,
+            "wt": 34,
+            "mov": 8,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 70,
+            "str": 45,
+            "mag": 15,
+            "skl": 40,
+            "spd": 45,
+            "lck": 25,
+            "def": 40,
+            "res": 40
+        },
+        "cap": {
+            "hp": 40,
+            "str": 20,
+            "mag": 10,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 10
+        },
+        "rank": {
+            "min": {
+                "axe": 31
+            },
+            "max": {
+                "axe": 181
+            }
+        }
+    },
+    "axepaladinf": {
+        "name": "Axe Paladin (F)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 25,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "canto"
+        ],
+        "base": {
+            "hp": 35,
+            "str": 11,
+            "mag": 1,
+            "skl": 6,
+            "spd": 8,
+            "lck": 0,
+            "def": 10,
+            "res": 3,
+            "con": 8,
+            "wt": 33,
+            "mov": 9,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 60,
+            "str": 60,
+            "mag": 25,
+            "skl": 40,
+            "spd": 40,
+            "lck": 30,
+            "def": 40,
+            "res": 35
+        },
+        "cap": {
+            "hp": 45,
+            "str": 26,
+            "mag": 15,
+            "skl": 25,
+            "spd": 25,
+            "lck": 30,
+            "def": 22,
+            "res": 16
+        },
+        "rank": {
+            "min": {
+                "axe": 71
+            },
+            "max": {
+                "axe": 251
+            }
+        }
+    },
+    "axepaladinm": {
+        "name": "Axe Paladin (M)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 25,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "canto"
+        ],
+        "base": {
+            "hp": 33,
+            "str": 18,
+            "mag": 5,
+            "skl": 16,
+            "spd": 16,
+            "lck": 0,
+            "def": 15,
+            "res": 10,
+            "con": 11,
+            "wt": 36,
+            "mov": 9,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 55,
+            "str": 30,
+            "mag": 40,
+            "skl": 35,
+            "spd": 25,
+            "lck": 55,
+            "def": 35,
+            "res": 20
+        },
+        "cap": {
+            "hp": 45,
+            "str": 26,
+            "mag": 15,
+            "skl": 25,
+            "spd": 23,
+            "lck": 30,
+            "def": 24,
+            "res": 16
+        },
+        "rank": {
+            "min": {
+                "axe": 71
+            },
+            "max": {
+                "axe": 251
+            }
+        }
+    },
+    "axepaladinsp": {
+        "name": "Axe Paladin (SP)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 25,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "canto"
+        ],
+        "base": {
+            "hp": 38,
+            "str": 20,
+            "mag": 7,
+            "skl": 18,
+            "spd": 18,
+            "lck": 0,
+            "def": 17,
+            "res": 12,
+            "con": 11,
+            "wt": 36,
+            "mov": 9,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 105,
+            "str": 75,
+            "mag": 55,
+            "skl": 80,
+            "spd": 60,
+            "lck": 80,
+            "def": 60,
+            "res": 55
+        },
+        "cap": {
+            "hp": 58,
+            "str": 34,
+            "mag": 17,
+            "skl": 33,
+            "spd": 29,
+            "lck": 30,
+            "def": 28,
+            "res": 22
+        },
+        "rank": {
+            "min": {
+                "axe": 181
+            },
+            "max": {
+                "axe": 331
+            }
+        }
+    },
+    "bandit": {
+        "name": "Bandit",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 25,
+            "str": 9,
+            "mag": 0,
+            "skl": 4,
+            "spd": 6,
+            "lck": 0,
+            "def": 3,
+            "res": 0,
+            "con": 13,
+            "wt": 13,
+            "mov": 5,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 105,
+            "str": 60,
+            "mag": 10,
+            "skl": 85,
+            "spd": 75,
+            "lck": 70,
+            "def": 90,
+            "res": 50
+        },
+        "cap": {
+            "hp": 45,
+            "str": 20,
+            "mag": 10,
+            "skl": 20,
+            "spd": 20,
+            "lck": 35,
+            "def": 20,
+            "res": 10
+        },
+        "rank": {
+            "min": {
+                "axe": 31
+            },
+            "max": {
+                "axe": 181
+            }
+        }
+    },
+    "bishopf": {
+        "name": "Bishop (F)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 29,
+            "str": 3,
+            "mag": 11,
+            "skl": 6,
+            "spd": 8,
+            "lck": 0,
+            "def": 4,
+            "res": 16,
+            "con": 6,
+            "wt": 6,
+            "mov": 6,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 60,
+            "str": 30,
+            "mag": 35,
+            "skl": 30,
+            "spd": 60,
+            "lck": 75,
+            "def": 20,
+            "res": 60
+        },
+        "promo_bonus": {
+            "hp": 2,
+            "str": 3,
+            "mag": 1,
+            "skl": 1,
+            "spd": 1,
+            "def": 3,
+            "res": 1,
+            "con": 1,
+            "mov": 1
+        },
+        "cap": {
+            "hp": 40,
+            "str": 15,
+            "mag": 25,
+            "skl": 22,
+            "spd": 23,
+            "lck": 40,
+            "def": 17,
+            "res": 32
+        },
+        "rank": {
+            "min": {
+                "light": 1,
+                "staff": 71
+            },
+            "max": {
+                "light": 181,
+                "staff": 251
+            }
+        }
+    },
+    "bishopm": {
+        "name": "Bishop (M)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 27,
+            "str": 9,
+            "mag": 17,
+            "skl": 14,
+            "spd": 14,
+            "lck": 0,
+            "def": 8,
+            "res": 18,
+            "con": 10,
+            "wt": 10,
+            "mov": 6,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 45,
+            "str": 20,
+            "mag": 30,
+            "skl": 30,
+            "spd": 35,
+            "lck": 35,
+            "def": 45,
+            "res": 50
+        },
+        "cap": {
+            "hp": 40,
+            "str": 15,
+            "mag": 25,
+            "skl": 22,
+            "spd": 23,
+            "lck": 35,
+            "def": 19,
+            "res": 30
+        },
+        "rank": {
+            "min": {
+                "light": 1,
+                "staff": 71
+            },
+            "max": {
+                "light": 181,
+                "staff": 251
+            }
+        }
+    },
+    "bishopsp": {
+        "name": "Bishop (SP)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 32,
+            "str": 11,
+            "mag": 19,
+            "skl": 16,
+            "spd": 16,
+            "lck": 0,
+            "def": 10,
+            "res": 20,
+            "con": 10,
+            "wt": 10,
+            "mov": 6,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 85,
+            "str": 65,
+            "mag": 75,
+            "skl": 60,
+            "spd": 60,
+            "lck": 65,
+            "def": 55,
+            "res": 95
+        },
+        "cap": {
+            "hp": 48,
+            "str": 23,
+            "mag": 33,
+            "skl": 27,
+            "spd": 27,
+            "lck": 35,
+            "def": 20,
+            "res": 38
+        },
+        "rank": {
+            "min": {
+                "light": 71,
+                "staff": 181
+            },
+            "max": {
+                "light": 251,
+                "staff": 331
+            }
+        }
+    },
+    "blackknight": {
+        "name": "Black Knight",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 12,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove",
+            "eclipse"
+        ],
+        "base": {
+            "hp": 70,
+            "str": 38,
+            "mag": 18,
+            "skl": 40,
+            "spd": 30,
+            "lck": 0,
+            "def": 35,
+            "res": 25,
+            "con": 13,
+            "wt": 25,
+            "mov": 6,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "cap": {
+            "hp": 70,
+            "str": 40,
+            "mag": 20,
+            "skl": 40,
+            "spd": 35,
+            "lck": 30,
+            "def": 40,
+            "res": 35
+        },
+        "rank": {
+            "min": {
+                "sword": 331,
+                "lance": 251
+            },
+            "max": {
+                "sword": 331,
+                "lance": 331
+            }
+        }
+    },
+    "bladepaladin": {
+        "name": "Blade Paladin",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 25,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "canto"
+        ],
+        "base": {
+            "hp": 35,
+            "str": 17,
+            "mag": 4,
+            "skl": 14,
+            "spd": 16,
+            "lck": 0,
+            "def": 17,
+            "res": 10,
+            "con": 11,
+            "wt": 36,
+            "mov": 9,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 40,
+            "str": 25,
+            "mag": 45,
+            "skl": 40,
+            "spd": 35,
+            "lck": 55,
+            "def": 30,
+            "res": 20
+        },
+        "cap": {
+            "hp": 45,
+            "str": 24,
+            "mag": 15,
+            "skl": 24,
+            "spd": 25,
+            "lck": 30,
+            "def": 25,
+            "res": 16
+        },
+        "rank": {
+            "min": {
+                "sword": 71
+            },
+            "max": {
+                "sword": 251
+            }
+        }
+    },
+    "bladepaladinsp": {
+        "name": "Blade Paladin (SP)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 25,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "canto"
+        ],
+        "base": {
+            "hp": 40,
+            "str": 19,
+            "mag": 6,
+            "skl": 16,
+            "spd": 18,
+            "lck": 0,
+            "def": 19,
+            "res": 12,
+            "con": 11,
+            "wt": 36,
+            "mov": 9,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 95,
+            "str": 70,
+            "mag": 60,
+            "skl": 85,
+            "spd": 70,
+            "lck": 80,
+            "def": 45,
+            "res": 60
+        },
+        "cap": {
+            "hp": 58,
+            "str": 32,
+            "mag": 17,
+            "skl": 32,
+            "spd": 31,
+            "lck": 30,
+            "def": 28,
+            "res": 23
+        },
+        "rank": {
+            "min": {
+                "sword": 181
+            },
+            "max": {
+                "sword": 331
+            }
+        }
+    },
+    "bowknight": {
+        "name": "Bow Knight",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 23,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "canto"
+        ],
+        "base": {
+            "hp": 18,
+            "str": 6,
+            "mag": 0,
+            "skl": 6,
+            "spd": 6,
+            "lck": 0,
+            "def": 8,
+            "res": 2,
+            "con": 10,
+            "wt": 33,
+            "mov": 8,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 75,
+            "str": 50,
+            "mag": 15,
+            "skl": 40,
+            "spd": 45,
+            "lck": 25,
+            "def": 40,
+            "res": 30
+        },
+        "cap": {
+            "hp": 40,
+            "str": 20,
+            "mag": 10,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 10
+        },
+        "rank": {
+            "min": {
+                "bow": 31
+            },
+            "max": {
+                "bow": 181
+            }
+        }
+    },
+    "bowpaladinf": {
+        "name": "Bow Paladin (F)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 24,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "canto"
+        ],
+        "base": {
+            "hp": 33,
+            "str": 10,
+            "mag": 1,
+            "skl": 6,
+            "spd": 9,
+            "lck": 0,
+            "def": 10,
+            "res": 5,
+            "con": 7,
+            "wt": 31,
+            "mov": 9,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 50,
+            "str": 40,
+            "mag": 35,
+            "skl": 80,
+            "spd": 30,
+            "lck": 35,
+            "def": 30,
+            "res": 50
+        },
+        "cap": {
+            "hp": 40,
+            "str": 23,
+            "mag": 15,
+            "skl": 27,
+            "spd": 26,
+            "lck": 30,
+            "def": 23,
+            "res": 20
+        },
+        "rank": {
+            "min": {
+                "bow": 71
+            },
+            "max": {
+                "bow": 251
+            }
+        }
+    },
+    "bowpaladinm": {
+        "name": "Bow Paladin (M)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 24,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "canto"
+        ],
+        "base": {
+            "hp": 34,
+            "str": 17,
+            "mag": 5,
+            "skl": 15,
+            "spd": 16,
+            "lck": 0,
+            "def": 16,
+            "res": 10,
+            "con": 11,
+            "wt": 35,
+            "mov": 9,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 45,
+            "str": 20,
+            "mag": 40,
+            "skl": 40,
+            "spd": 30,
+            "lck": 55,
+            "def": 30,
+            "res": 30
+        },
+        "cap": {
+            "hp": 45,
+            "str": 23,
+            "mag": 15,
+            "skl": 25,
+            "spd": 24,
+            "lck": 30,
+            "def": 24,
+            "res": 18
+        },
+        "rank": {
+            "min": {
+                "bow": 71
+            },
+            "max": {
+                "bow": 251
+            }
+        }
+    },
+    "bowpaladinsp": {
+        "name": "Bow Paladin (SP)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 24,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "canto"
+        ],
+        "base": {
+            "hp": 39,
+            "str": 19,
+            "mag": 7,
+            "skl": 17,
+            "spd": 18,
+            "lck": 0,
+            "def": 18,
+            "res": 12,
+            "con": 11,
+            "wt": 35,
+            "mov": 9,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 100,
+            "str": 65,
+            "mag": 55,
+            "skl": 80,
+            "spd": 70,
+            "lck": 80,
+            "def": 45,
+            "res": 70
+        },
+        "cap": {
+            "hp": 58,
+            "str": 31,
+            "mag": 17,
+            "skl": 32,
+            "spd": 31,
+            "lck": 30,
+            "def": 27,
+            "res": 25
+        },
+        "rank": {
+            "min": {
+                "bow": 181
+            },
+            "max": {
+                "bow": 331
+            }
+        }
+    },
+    "catf": {
+        "name": "Cat (F)",
+        "type": "laguz",
+        "gauge": {
+            "unshifted": {
+                "turn": "+10",
+                "battle": "+15"
+            },
+            "shifted": {
+                "turn": "-5",
+                "battle": "-4"
+            }
+        },
+        "wtmod": 5,
+        "promo_bonus": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 47,
+            "str": 7,
+            "mag": 6,
+            "skl": 11,
+            "spd": 11,
+            "lck": 0,
+            "def": 7,
+            "res": 8,
+            "con": 6,
+            "wt": 11,
+            "mov": 7,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 50,
+            "str": 35,
+            "mag": 10,
+            "skl": 65,
+            "spd": 70,
+            "lck": 50,
+            "def": 20,
+            "res": 30
+        },
+        "cap": {
+            "hp": 65,
+            "str": 18,
+            "mag": 10,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 14,
+            "res": 16
+        },
+        "rank": {
+            "min": {
+                "strike": 181
+            },
+            "max": {
+                "strike": 331
+            }
+        },
+        "trans": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "def": 0,
+            "res": 0,
+            "con": 5,
+            "wt": 20,
+            "mov": 2,
+            "vision": 1
+        },
+        "laguz_weapon": [
+            "clawss",
+            "claws",
+            "clawa"
+        ]
+    },
+    "catm": {
+        "name": "Cat (M)",
+        "type": "laguz",
+        "gauge": {
+            "unshifted": {
+                "turn": "+10",
+                "battle": "+15"
+            },
+            "shifted": {
+                "turn": "-5",
+                "battle": "-4"
+            }
+        },
+        "wtmod": 5,
+        "promo_bonus": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 31,
+            "str": 4,
+            "mag": 2,
+            "skl": 7,
+            "spd": 6,
+            "lck": 0,
+            "def": 3,
+            "res": 2,
+            "con": 9,
+            "wt": 14,
+            "mov": 7,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 80,
+            "str": 30,
+            "mag": 15,
+            "skl": 30,
+            "spd": 35,
+            "lck": 50,
+            "def": 30,
+            "res": 25
+        },
+        "cap": {
+            "hp": 65,
+            "str": 18,
+            "mag": 10,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 16,
+            "res": 14
+        },
+        "rank": {
+            "min": {
+                "strike": 181
+            },
+            "max": {
+                "strike": 331
+            }
+        },
+        "trans": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "def": 0,
+            "res": 0,
+            "con": 5,
+            "wt": 20,
+            "mov": 2,
+            "vision": 1
+        },
+        "laguz_weapon": [
+            "clawss",
+            "claws",
+            "clawa"
+        ]
+    },
+    "chancellor": {
+        "name": "Chancellor",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove",
+            "corona"
+        ],
+        "base": {
+            "hp": 53,
+            "str": 4,
+            "mag": 40,
+            "skl": 40,
+            "spd": 36,
+            "lck": 0,
+            "def": 20,
+            "res": 40,
+            "con": 9,
+            "wt": 9,
+            "mov": 6,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "cap": {
+            "hp": 50,
+            "str": 25,
+            "mag": 40,
+            "skl": 40,
+            "spd": 40,
+            "lck": 40,
+            "def": 25,
+            "res": 40
+        },
+        "rank": {
+            "min": {
+                "light": 331,
+                "dark": 331,
+                "staff": 331
+            },
+            "max": {
+                "light": 331,
+                "dark": 331,
+                "staff": 331
+            }
+        }
+    },
+    "citizenchildf": {
+        "name": "Citizen (Child F)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [],
+        "base": {
+            "hp": 12,
+            "str": 1,
+            "mag": 0,
+            "skl": 1,
+            "spd": 3,
+            "lck": 0,
+            "def": 1,
+            "res": 0,
+            "con": 2,
+            "wt": 2,
+            "mov": 4,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 30,
+            "str": 10,
+            "mag": 5,
+            "skl": 5,
+            "spd": 25,
+            "lck": 50,
+            "def": 5,
+            "res": 15
+        },
+        "cap": {
+            "hp": 40,
+            "str": 10,
+            "mag": 10,
+            "skl": 10,
+            "spd": 10,
+            "lck": 30,
+            "def": 10,
+            "res": 10
+        },
+        "rank": {
+            "min": {},
+            "max": {}
+        }
+    },
+    "citizenchildm": {
+        "name": "Citizen (Child M)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [],
+        "base": {
+            "hp": 12,
+            "str": 1,
+            "mag": 0,
+            "skl": 1,
+            "spd": 3,
+            "lck": 0,
+            "def": 1,
+            "res": 0,
+            "con": 2,
+            "wt": 2,
+            "mov": 4,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 30,
+            "str": 10,
+            "mag": 5,
+            "skl": 5,
+            "spd": 25,
+            "lck": 50,
+            "def": 5,
+            "res": 15
+        },
+        "cap": {
+            "hp": 40,
+            "str": 10,
+            "mag": 10,
+            "skl": 10,
+            "spd": 10,
+            "lck": 30,
+            "def": 10,
+            "res": 10
+        },
+        "rank": {
+            "min": {},
+            "max": {}
+        }
+    },
+    "citizenf": {
+        "name": "Citizen (F)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [],
+        "base": {
+            "hp": 18,
+            "str": 2,
+            "mag": 0,
+            "skl": 2,
+            "spd": 3,
+            "lck": 0,
+            "def": 2,
+            "res": 2,
+            "con": 8,
+            "wt": 8,
+            "mov": 5,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 50,
+            "str": 30,
+            "mag": 10,
+            "skl": 10,
+            "spd": 20,
+            "lck": 45,
+            "def": 20,
+            "res": 20
+        },
+        "cap": {
+            "hp": 40,
+            "str": 20,
+            "mag": 10,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 10
+        },
+        "rank": {
+            "min": {},
+            "max": {}
+        }
+    },
+    "citizenm": {
+        "name": "Citizen (M)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [],
+        "base": {
+            "hp": 20,
+            "str": 3,
+            "mag": 0,
+            "skl": 2,
+            "spd": 4,
+            "lck": 0,
+            "def": 3,
+            "res": 0,
+            "con": 8,
+            "wt": 8,
+            "mov": 6,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 55,
+            "str": 35,
+            "mag": 5,
+            "skl": 10,
+            "spd": 30,
+            "lck": 35,
+            "def": 25,
+            "res": 10
+        },
+        "cap": {
+            "hp": 40,
+            "str": 20,
+            "mag": 10,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 10
+        },
+        "rank": {
+            "min": {},
+            "max": {}
+        }
+    },
+    "citizenoldman": {
+        "name": "Citizen (Old Man)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [],
+        "base": {
+            "hp": 16,
+            "str": 1,
+            "mag": 0,
+            "skl": 1,
+            "spd": 2,
+            "lck": 0,
+            "def": 1,
+            "res": 1,
+            "con": 8,
+            "wt": 8,
+            "mov": 4,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 40,
+            "str": 10,
+            "mag": 5,
+            "skl": 5,
+            "spd": 5,
+            "lck": 30,
+            "def": 5,
+            "res": 10
+        },
+        "cap": {
+            "hp": 30,
+            "str": 15,
+            "mag": 10,
+            "skl": 15,
+            "spd": 15,
+            "lck": 30,
+            "def": 15,
+            "res": 10
+        },
+        "rank": {
+            "min": {},
+            "max": {}
+        }
+    },
+    "cleric": {
+        "name": "Cleric",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 30,
+            "str": 4,
+            "mag": 6,
+            "skl": 8,
+            "spd": 10,
+            "lck": 0,
+            "def": 5,
+            "res": 14,
+            "con": 6,
+            "wt": 6,
+            "mov": 7,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 50,
+            "str": 25,
+            "mag": 45,
+            "skl": 45,
+            "spd": 30,
+            "lck": 85,
+            "def": 30,
+            "res": 40
+        },
+        "cap": {
+            "hp": 40,
+            "str": 17,
+            "mag": 24,
+            "skl": 25,
+            "spd": 24,
+            "lck": 40,
+            "def": 18,
+            "res": 28
+        },
+        "rank": {
+            "min": {
+                "sword": 31,
+                "staff": 71
+            },
+            "max": {
+                "sword": 181,
+                "staff": 251
+            }
+        }
+    },
+    "darksage": {
+        "name": "Dark Sage",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 29,
+            "str": 11,
+            "mag": 18,
+            "skl": 16,
+            "spd": 15,
+            "lck": 0,
+            "def": 10,
+            "res": 14,
+            "con": 10,
+            "wt": 10,
+            "mov": 6,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 50,
+            "str": 10,
+            "mag": 35,
+            "skl": 25,
+            "spd": 35,
+            "lck": 50,
+            "def": 25,
+            "res": 35
+        },
+        "cap": {
+            "hp": 40,
+            "str": 15,
+            "mag": 26,
+            "skl": 23,
+            "spd": 24,
+            "lck": 30,
+            "def": 17,
+            "res": 23
+        },
+        "rank": {
+            "min": {
+                "thunder": 71,
+                "dark": 121
+            },
+            "max": {
+                "thunder": 181,
+                "dark": 251
+            }
+        }
+    },
+    "dracoknightf": {
+        "name": "Dracoknight (F)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 29,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "canto"
+        ],
+        "base": {
+            "hp": 20,
+            "str": 6,
+            "mag": 0,
+            "skl": 3,
+            "spd": 5,
+            "lck": 0,
+            "def": 9,
+            "res": 2,
+            "con": 7,
+            "wt": 36,
+            "mov": 8,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 70,
+            "str": 45,
+            "mag": 25,
+            "skl": 40,
+            "spd": 65,
+            "lck": 30,
+            "def": 40,
+            "res": 40
+        },
+        "cap": {
+            "hp": 40,
+            "str": 20,
+            "mag": 5,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 10
+        },
+        "rank": {
+            "min": {
+                "axe": 31
+            },
+            "max": {
+                "axe": 181
+            }
+        }
+    },
+    "dracoknightm": {
+        "name": "Dracoknight (M)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 29,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "canto"
+        ],
+        "base": {
+            "hp": 20,
+            "str": 7,
+            "mag": 0,
+            "skl": 5,
+            "spd": 5,
+            "lck": 0,
+            "def": 9,
+            "res": 0,
+            "con": 12,
+            "wt": 41,
+            "mov": 8,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 80,
+            "str": 65,
+            "mag": 0,
+            "skl": 55,
+            "spd": 55,
+            "lck": 15,
+            "def": 45,
+            "res": 5
+        },
+        "cap": {
+            "hp": 40,
+            "str": 20,
+            "mag": 5,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 10
+        },
+        "rank": {
+            "min": {
+                "axe": 31
+            },
+            "max": {
+                "axe": 181
+            }
+        }
+    },
+    "dragonking": {
+        "name": "Dragon King",
+        "type": "laguz",
+        "gauge": {
+            "unshifted": {
+                "turn": "+5",
+                "battle": "+6"
+            },
+            "shifted": {
+                "turn": "-2",
+                "battle": "-1"
+            }
+        },
+        "wtmod": 10,
+        "promo_bonus": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 100,
+            "str": 25,
+            "mag": 13,
+            "skl": 18,
+            "spd": 15,
+            "lck": 0,
+            "def": 25,
+            "res": 23,
+            "con": 13,
+            "wt": 23,
+            "mov": 5,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "cap": {
+            "hp": 100,
+            "str": 25,
+            "mag": 13,
+            "skl": 22,
+            "spd": 19,
+            "lck": 30,
+            "def": 25,
+            "res": 23
+        },
+        "rank": {
+            "min": {
+                "strike": 331
+            },
+            "max": {
+                "strike": 331
+            }
+        },
+        "trans": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "def": 0,
+            "res": 0,
+            "con": 26,
+            "wt": 56,
+            "mov": 1
+        },
+        "laguz_weapon": [
+            "blackbreathdragonkingss",
+            "blackbreathdragonkings",
+            "blackbreathdragonkinga"
+        ]
+    },
+    "dragonlordf": {
+        "name": "Dragonlord (F)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 31,
+        "trans": false,
+        "skill": [
+            "canto",
+            "stun"
+        ],
+        "base": {
+            "hp": 51,
+            "str": 21,
+            "mag": 2,
+            "skl": 18,
+            "spd": 17,
+            "lck": 0,
+            "def": 19,
+            "res": 5,
+            "con": 8,
+            "wt": 39,
+            "mov": 9,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 70,
+            "str": 45,
+            "mag": 25,
+            "skl": 40,
+            "spd": 65,
+            "lck": 30,
+            "def": 40,
+            "res": 40
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "str": 3,
+            "mag": 4,
+            "skl": 2,
+            "spd": 2,
+            "def": 3,
+            "res": 4,
+            "con": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 55,
+            "str": 35,
+            "mag": 10,
+            "skl": 38,
+            "spd": 35,
+            "lck": 35,
+            "def": 36,
+            "res": 22
+        },
+        "rank": {
+            "min": {
+                "lance": 121,
+                "axe": 181
+            },
+            "max": {
+                "lance": 251,
+                "axe": 331
+            }
+        }
+    },
+    "dragonlordm": {
+        "name": "Dragonlord (M)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 31,
+        "trans": false,
+        "skill": [
+            "canto",
+            "stun"
+        ],
+        "base": {
+            "hp": 51,
+            "str": 21,
+            "mag": 2,
+            "skl": 18,
+            "spd": 17,
+            "lck": 0,
+            "def": 20,
+            "res": 4,
+            "con": 13,
+            "wt": 44,
+            "mov": 9,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 80,
+            "str": 50,
+            "mag": 10,
+            "skl": 40,
+            "spd": 35,
+            "lck": 25,
+            "def": 50,
+            "res": 35
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "str": 2,
+            "mag": 4,
+            "skl": 2,
+            "spd": 2,
+            "def": 2,
+            "res": 4,
+            "con": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 60,
+            "str": 38,
+            "mag": 10,
+            "skl": 38,
+            "spd": 32,
+            "lck": 30,
+            "def": 38,
+            "res": 20
+        },
+        "rank": {
+            "min": {
+                "lance": 71,
+                "axe": 181
+            },
+            "max": {
+                "lance": 251,
+                "axe": 331
+            }
+        }
+    },
+    "dragonmasterf": {
+        "name": "Dragonmaster (F)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 30,
+        "trans": false,
+        "skill": [
+            "canto"
+        ],
+        "base": {
+            "hp": 36,
+            "str": 11,
+            "mag": 0,
+            "skl": 8,
+            "spd": 9,
+            "lck": 0,
+            "def": 11,
+            "res": 1,
+            "con": 8,
+            "wt": 38,
+            "mov": 9,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 70,
+            "str": 45,
+            "mag": 25,
+            "skl": 40,
+            "spd": 65,
+            "lck": 30,
+            "def": 40,
+            "res": 40
+        },
+        "promo_bonus": {
+            "hp": 2,
+            "str": 2,
+            "mag": 2,
+            "skl": 1,
+            "spd": 1,
+            "def": 2,
+            "res": 2,
+            "con": 1,
+            "mov": 1
+        },
+        "cap": {
+            "hp": 50,
+            "str": 28,
+            "mag": 5,
+            "skl": 26,
+            "spd": 25,
+            "lck": 30,
+            "def": 25,
+            "res": 14
+        },
+        "rank": {
+            "min": {
+                "lance": 31,
+                "axe": 71
+            },
+            "max": {
+                "lance": 181,
+                "axe": 251
+            }
+        }
+    },
+    "dragonmasterm": {
+        "name": "Dragonmaster (M)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 30,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "canto"
+        ],
+        "base": {
+            "hp": 35,
+            "str": 20,
+            "mag": 2,
+            "skl": 18,
+            "spd": 16,
+            "lck": 0,
+            "def": 19,
+            "res": 5,
+            "con": 13,
+            "wt": 43,
+            "mov": 9,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 60,
+            "str": 35,
+            "mag": 5,
+            "skl": 30,
+            "spd": 30,
+            "lck": 50,
+            "def": 25,
+            "res": 30
+        },
+        "cap": {
+            "hp": 50,
+            "str": 29,
+            "mag": 5,
+            "skl": 26,
+            "spd": 24,
+            "lck": 30,
+            "def": 26,
+            "res": 13
+        },
+        "rank": {
+            "min": {
+                "lance": 71,
+                "axe": 71
+            },
+            "max": {
+                "lance": 181,
+                "axe": 251
+            }
+        }
+    },
+    "dragonmastersp": {
+        "name": "Dragonmaster (SP)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 30,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "canto"
+        ],
+        "base": {
+            "hp": 40,
+            "str": 22,
+            "mag": 4,
+            "skl": 20,
+            "spd": 18,
+            "lck": 0,
+            "def": 21,
+            "res": 7,
+            "con": 13,
+            "wt": 43,
+            "mov": 9,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 95,
+            "str": 75,
+            "mag": 20,
+            "skl": 85,
+            "spd": 65,
+            "lck": 90,
+            "def": 75,
+            "res": 60
+        },
+        "cap": {
+            "hp": 58,
+            "str": 36,
+            "mag": 8,
+            "skl": 36,
+            "spd": 30,
+            "lck": 30,
+            "def": 35,
+            "res": 18
+        },
+        "rank": {
+            "min": {
+                "lance": 71,
+                "axe": 71
+            },
+            "max": {
+                "lance": 251,
+                "axe": 331
+            }
+        }
+    },
+    "dragonprince": {
+        "name": "Dragon Prince",
+        "type": "laguz",
+        "gauge": {
+            "unshifted": {
+                "turn": "+5",
+                "battle": "+6"
+            },
+            "shifted": {
+                "turn": "-2",
+                "battle": "-1"
+            }
+        },
+        "wtmod": 5,
+        "promo_bonus": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 55,
+            "str": 15,
+            "mag": 7,
+            "skl": 8,
+            "spd": 10,
+            "lck": 0,
+            "def": 15,
+            "res": 15,
+            "con": 7,
+            "wt": 12,
+            "mov": 6,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 95,
+            "str": 45,
+            "mag": 15,
+            "skl": 20,
+            "spd": 35,
+            "lck": 60,
+            "def": 25,
+            "res": 40
+        },
+        "cap": {
+            "hp": 80,
+            "str": 23,
+            "mag": 12,
+            "skl": 18,
+            "spd": 16,
+            "lck": 30,
+            "def": 23,
+            "res": 19
+        },
+        "rank": {
+            "min": {
+                "strike": 181
+            },
+            "max": {
+                "strike": 331
+            }
+        },
+        "trans": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "def": 0,
+            "res": 0,
+            "con": 10,
+            "wt": 30,
+            "mov": -1
+        },
+        "laguz_weapon": [
+            "blackbreathdragonprincess",
+            "blackbreathdragonprinces",
+            "blackbreathdragonprincea"
+        ]
+    },
+    "druid": {
+        "name": "Druid",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 29,
+            "str": 13,
+            "mag": 18,
+            "skl": 20,
+            "spd": 17,
+            "lck": 0,
+            "def": 9,
+            "res": 18,
+            "con": 10,
+            "wt": 10,
+            "mov": 6,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 60,
+            "str": 10,
+            "mag": 65,
+            "skl": 25,
+            "spd": 30,
+            "lck": 35,
+            "def": 35,
+            "res": 40
+        },
+        "cap": {
+            "hp": 40,
+            "str": 15,
+            "mag": 30,
+            "skl": 25,
+            "spd": 23,
+            "lck": 25,
+            "def": 16,
+            "res": 26
+        },
+        "rank": {
+            "min": {
+                "dark": 71
+            },
+            "max": {
+                "dark": 251
+            }
+        }
+    },
+    "druidsp": {
+        "name": "Druid (SP)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 34,
+            "str": 15,
+            "mag": 20,
+            "skl": 20,
+            "spd": 19,
+            "lck": 0,
+            "def": 13,
+            "res": 20,
+            "con": 10,
+            "wt": 10,
+            "mov": 6,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 75,
+            "str": 50,
+            "mag": 95,
+            "skl": 55,
+            "spd": 50,
+            "lck": 105,
+            "def": 40,
+            "res": 90
+        },
+        "cap": {
+            "hp": 48,
+            "str": 24,
+            "mag": 38,
+            "skl": 30,
+            "spd": 28,
+            "lck": 25,
+            "def": 21,
+            "res": 37
+        },
+        "rank": {
+            "min": {
+                "dark": 181
+            },
+            "max": {
+                "dark": 331
+            }
+        }
+    },
+    "empress": {
+        "name": "Empress",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove",
+            "flare"
+        ],
+        "base": {
+            "hp": 28,
+            "str": 1,
+            "mag": 30,
+            "skl": 22,
+            "spd": 26,
+            "lck": 0,
+            "def": 3,
+            "res": 28,
+            "con": 4,
+            "wt": 4,
+            "mov": 6,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 95,
+            "str": 10,
+            "mag": 70,
+            "skl": 30,
+            "spd": 25,
+            "lck": 55,
+            "def": 10,
+            "res": 65
+        },
+        "cap": {
+            "hp": 45,
+            "str": 20,
+            "mag": 40,
+            "skl": 33,
+            "spd": 32,
+            "lck": 40,
+            "def": 20,
+            "res": 40
+        },
+        "rank": {
+            "min": {
+                "fire": 251,
+                "thunder": 121,
+                "wind": 181,
+                "light": 181
+            },
+            "max": {
+                "fire": 331,
+                "thunder": 251,
+                "wind": 251,
+                "light": 251
+            }
+        }
+    },
+    "falconknight": {
+        "name": "Falcon Knight",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 16,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "canto"
+        ],
+        "base": {
+            "hp": 30,
+            "str": 13,
+            "mag": 5,
+            "skl": 17,
+            "spd": 19,
+            "lck": 0,
+            "def": 14,
+            "res": 13,
+            "con": 7,
+            "wt": 23,
+            "mov": 9,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 40,
+            "str": 50,
+            "mag": 40,
+            "skl": 25,
+            "spd": 30,
+            "lck": 45,
+            "def": 30,
+            "res": 55
+        },
+        "cap": {
+            "hp": 40,
+            "str": 24,
+            "mag": 15,
+            "skl": 24,
+            "spd": 27,
+            "lck": 35,
+            "def": 22,
+            "res": 25
+        },
+        "rank": {
+            "min": {
+                "sword": 1,
+                "lance": 71
+            },
+            "max": {
+                "sword": 181,
+                "lance": 251
+            }
+        }
+    },
+    "falconknightsp": {
+        "name": "Falcon Knight (SP)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 16,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "canto"
+        ],
+        "base": {
+            "hp": 35,
+            "str": 15,
+            "mag": 7,
+            "skl": 19,
+            "spd": 21,
+            "lck": 0,
+            "def": 16,
+            "res": 15,
+            "con": 7,
+            "wt": 23,
+            "mov": 9,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 70,
+            "str": 80,
+            "mag": 50,
+            "skl": 80,
+            "spd": 70,
+            "lck": 80,
+            "def": 50,
+            "res": 85
+        },
+        "cap": {
+            "hp": 48,
+            "str": 30,
+            "mag": 16,
+            "skl": 34,
+            "spd": 34,
+            "lck": 35,
+            "def": 26,
+            "res": 31
+        },
+        "rank": {
+            "min": {
+                "sword": 71,
+                "lance": 181
+            },
+            "max": {
+                "sword": 251,
+                "lance": 331
+            }
+        }
+    },
+    "fighter": {
+        "name": "Fighter",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 22,
+            "str": 10,
+            "mag": 0,
+            "skl": 6,
+            "spd": 8,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "con": 12,
+            "wt": 12,
+            "mov": 6,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 80,
+            "str": 50,
+            "mag": 5,
+            "skl": 60,
+            "spd": 45,
+            "lck": 25,
+            "def": 40,
+            "res": 30
+        },
+        "cap": {
+            "hp": 45,
+            "str": 20,
+            "mag": 5,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 10
+        },
+        "rank": {
+            "min": {
+                "axe": 31
+            },
+            "max": {
+                "axe": 181
+            }
+        }
+    },
+    "firemage": {
+        "name": "Fire Mage",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 17,
+            "str": 4,
+            "mag": 4,
+            "skl": 6,
+            "spd": 7,
+            "lck": 0,
+            "def": 3,
+            "res": 5,
+            "con": 9,
+            "wt": 9,
+            "mov": 5,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 50,
+            "str": 20,
+            "mag": 65,
+            "skl": 40,
+            "spd": 40,
+            "lck": 25,
+            "def": 25,
+            "res": 55
+        },
+        "cap": {
+            "hp": 30,
+            "str": 10,
+            "mag": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 10,
+            "res": 20
+        },
+        "rank": {
+            "min": {
+                "fire": 31
+            },
+            "max": {
+                "fire": 181
+            }
+        }
+    },
+    "firesagef": {
+        "name": "Fire Sage (F)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 30,
+            "str": 3,
+            "mag": 10,
+            "skl": 6,
+            "spd": 9,
+            "lck": 0,
+            "def": 4,
+            "res": 10,
+            "con": 7,
+            "wt": 7,
+            "mov": 6,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 55,
+            "str": 10,
+            "mag": 55,
+            "skl": 45,
+            "spd": 50,
+            "lck": 20,
+            "def": 20,
+            "res": 55
+        },
+        "cap": {
+            "hp": 40,
+            "str": 15,
+            "mag": 25,
+            "skl": 23,
+            "spd": 25,
+            "lck": 30,
+            "def": 15,
+            "res": 25
+        },
+        "rank": {
+            "min": {
+                "fire": 71,
+                "thunder": 1,
+                "wind": 1
+            },
+            "max": {
+                "fire": 251,
+                "thunder": 181,
+                "wind": 181
+            }
+        }
+    },
+    "firesagem": {
+        "name": "Fire Sage (M)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 30,
+            "str": 10,
+            "mag": 17,
+            "skl": 15,
+            "spd": 16,
+            "lck": 0,
+            "def": 11,
+            "res": 14,
+            "con": 10,
+            "wt": 10,
+            "mov": 6,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 40,
+            "str": 15,
+            "mag": 35,
+            "skl": 30,
+            "spd": 35,
+            "lck": 55,
+            "def": 20,
+            "res": 35
+        },
+        "cap": {
+            "hp": 40,
+            "str": 15,
+            "mag": 25,
+            "skl": 23,
+            "spd": 25,
+            "lck": 30,
+            "def": 17,
+            "res": 23
+        },
+        "rank": {
+            "min": {
+                "fire": 71,
+                "thunder": 1,
+                "wind": 1
+            },
+            "max": {
+                "fire": 251,
+                "thunder": 181,
+                "wind": 181
+            }
+        }
+    },
+    "firesagesp": {
+        "name": "Fire Sage (SP)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 35,
+            "str": 12,
+            "mag": 19,
+            "skl": 17,
+            "spd": 18,
+            "lck": 0,
+            "def": 13,
+            "res": 16,
+            "con": 10,
+            "wt": 10,
+            "mov": 6,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 70,
+            "str": 55,
+            "mag": 90,
+            "skl": 80,
+            "spd": 60,
+            "lck": 65,
+            "def": 55,
+            "res": 85
+        },
+        "cap": {
+            "hp": 48,
+            "str": 22,
+            "mag": 36,
+            "skl": 32,
+            "spd": 29,
+            "lck": 30,
+            "def": 23,
+            "res": 32
+        },
+        "rank": {
+            "min": {
+                "fire": 181,
+                "thunder": 31,
+                "wind": 31
+            },
+            "max": {
+                "fire": 331,
+                "thunder": 251,
+                "wind": 251
+            }
+        }
+    },
+    "goldknightaxef": {
+        "name": "Gold Knight (Axe F)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 26,
+        "trans": false,
+        "skill": [
+            "canto",
+            "sol"
+        ],
+        "base": {
+            "hp": 50,
+            "str": 21,
+            "mag": 3,
+            "skl": 16,
+            "spd": 16,
+            "lck": 0,
+            "def": 18,
+            "res": 7,
+            "con": 8,
+            "wt": 34,
+            "mov": 9,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 60,
+            "str": 60,
+            "mag": 25,
+            "skl": 40,
+            "spd": 40,
+            "lck": 30,
+            "def": 40,
+            "res": 35
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "str": 3,
+            "mag": 4,
+            "skl": 2,
+            "spd": 2,
+            "def": 3,
+            "res": 4,
+            "con": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 60,
+            "str": 34,
+            "mag": 20,
+            "skl": 35,
+            "spd": 33,
+            "lck": 30,
+            "def": 28,
+            "res": 26
+        },
+        "rank": {
+            "min": {
+                "sword": 71,
+                "axe": 181
+            },
+            "max": {
+                "sword": 181,
+                "axe": 331
+            }
+        }
+    },
+    "goldknightaxem": {
+        "name": "Gold Knight (Axe M)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 26,
+        "trans": false,
+        "skill": [
+            "canto",
+            "sol"
+        ],
+        "base": {
+            "hp": 50,
+            "str": 21,
+            "mag": 3,
+            "skl": 16,
+            "spd": 16,
+            "lck": 0,
+            "def": 19,
+            "res": 6,
+            "con": 11,
+            "wt": 37,
+            "mov": 9,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 65,
+            "str": 45,
+            "mag": 20,
+            "skl": 35,
+            "spd": 45,
+            "lck": 30,
+            "def": 45,
+            "res": 40
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "str": 2,
+            "mag": 4,
+            "skl": 2,
+            "spd": 2,
+            "def": 2,
+            "res": 4,
+            "con": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 60,
+            "str": 36,
+            "mag": 20,
+            "skl": 35,
+            "spd": 31,
+            "lck": 30,
+            "def": 30,
+            "res": 24
+        },
+        "rank": {
+            "min": {
+                "sword": 71,
+                "axe": 181
+            },
+            "max": {
+                "sword": 181,
+                "axe": 331
+            }
+        }
+    },
+    "goldknightsword": {
+        "name": "Gold Knight (Sword)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 26,
+        "trans": false,
+        "skill": [
+            "canto",
+            "sol"
+        ],
+        "base": {
+            "hp": 50,
+            "str": 19,
+            "mag": 3,
+            "skl": 16,
+            "spd": 18,
+            "lck": 0,
+            "def": 19,
+            "res": 6,
+            "con": 11,
+            "wt": 37,
+            "mov": 9,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 65,
+            "str": 45,
+            "mag": 20,
+            "skl": 35,
+            "spd": 45,
+            "lck": 30,
+            "def": 45,
+            "res": 40
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "str": 2,
+            "mag": 4,
+            "skl": 2,
+            "spd": 2,
+            "def": 2,
+            "res": 4,
+            "con": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 60,
+            "str": 34,
+            "mag": 20,
+            "skl": 34,
+            "spd": 33,
+            "lck": 30,
+            "def": 30,
+            "res": 25
+        },
+        "rank": {
+            "min": {
+                "sword": 181,
+                "axe": 71
+            },
+            "max": {
+                "sword": 331,
+                "axe": 181
+            }
+        }
+    },
+    "halberdierf": {
+        "name": "Halberdier (F)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 5,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove",
+            "crtplus5"
+        ],
+        "base": {
+            "hp": 38,
+            "str": 11,
+            "mag": 1,
+            "skl": 11,
+            "spd": 9,
+            "lck": 0,
+            "def": 11,
+            "res": 6,
+            "con": 7,
+            "wt": 12,
+            "mov": 7,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 65,
+            "str": 40,
+            "mag": 20,
+            "skl": 65,
+            "spd": 60,
+            "lck": 30,
+            "def": 35,
+            "res": 35
+        },
+        "cap": {
+            "hp": 45,
+            "str": 25,
+            "mag": 15,
+            "skl": 26,
+            "spd": 27,
+            "lck": 30,
+            "def": 24,
+            "res": 18
+        },
+        "rank": {
+            "min": {
+                "lance": 71
+            },
+            "max": {
+                "lance": 251
+            }
+        }
+    },
+    "halberdierm": {
+        "name": "Halberdier (M)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 6,
+        "trans": false,
+        "skill": [
+            "shove",
+            "crtplus5"
+        ],
+        "base": {
+            "hp": 33,
+            "str": 17,
+            "mag": 6,
+            "skl": 18,
+            "spd": 18,
+            "lck": 0,
+            "def": 15,
+            "res": 12,
+            "con": 12,
+            "wt": 18,
+            "mov": 7,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 55,
+            "str": 35,
+            "mag": 35,
+            "skl": 30,
+            "spd": 30,
+            "lck": 50,
+            "def": 55,
+            "res": 20
+        },
+        "promo_bonus": {
+            "hp": 2,
+            "str": 1,
+            "mag": 2,
+            "skl": 1,
+            "spd": 1,
+            "def": 1,
+            "res": 2,
+            "con": 1,
+            "mov": 1
+        },
+        "cap": {
+            "hp": 45,
+            "str": 26,
+            "mag": 15,
+            "skl": 26,
+            "spd": 26,
+            "lck": 30,
+            "def": 25,
+            "res": 17
+        },
+        "rank": {
+            "min": {
+                "lance": 31
+            },
+            "max": {
+                "lance": 251
+            }
+        }
+    },
+    "halberdiersp": {
+        "name": "Halberdier (SP)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 6,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove",
+            "crtplus5"
+        ],
+        "base": {
+            "hp": 38,
+            "str": 19,
+            "mag": 8,
+            "skl": 20,
+            "spd": 20,
+            "lck": 0,
+            "def": 17,
+            "res": 14,
+            "con": 12,
+            "wt": 18,
+            "mov": 7,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 95,
+            "str": 70,
+            "mag": 55,
+            "skl": 70,
+            "spd": 60,
+            "lck": 80,
+            "def": 75,
+            "res": 60
+        },
+        "cap": {
+            "hp": 56,
+            "str": 32,
+            "mag": 18,
+            "skl": 33,
+            "spd": 31,
+            "lck": 30,
+            "def": 31,
+            "res": 25
+        },
+        "rank": {
+            "min": {
+                "lance": 181
+            },
+            "max": {
+                "lance": 331
+            }
+        }
+    },
+    "hawk": {
+        "name": "Hawk",
+        "type": "laguz",
+        "gauge": {
+            "unshifted": {
+                "turn": "+8",
+                "battle": "+15"
+            },
+            "shifted": {
+                "turn": "-4",
+                "battle": "-3"
+            }
+        },
+        "wtmod": 1,
+        "promo_bonus": false,
+        "skill": [
+            "shove",
+            "canto"
+        ],
+        "base": {
+            "hp": 29,
+            "str": 5,
+            "mag": 1,
+            "skl": 7,
+            "spd": 7,
+            "lck": 0,
+            "def": 2,
+            "res": 2,
+            "con": 10,
+            "wt": 11,
+            "mov": 7,
+            "vision": 1
+        },
+        "growth": {
+            "hp": 90,
+            "str": 30,
+            "mag": 5,
+            "skl": 40,
+            "spd": 30,
+            "lck": 70,
+            "def": 40,
+            "res": 20
+        },
+        "cap": {
+            "hp": 65,
+            "str": 19,
+            "mag": 5,
+            "skl": 23,
+            "spd": 21,
+            "lck": 35,
+            "def": 16,
+            "res": 12
+        },
+        "rank": {
+            "min": {
+                "strike": 181
+            },
+            "max": {
+                "strike": 331
+            }
+        },
+        "trans": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "def": 0,
+            "res": 0,
+            "con": 10,
+            "wt": 9,
+            "mov": 2,
+            "vision": -1
+        },
+        "laguz_weapon": [
+            "talonss",
+            "talons",
+            "talona"
+        ]
+    },
+    "hawkking": {
+        "name": "Hawk King",
+        "type": "laguz",
+        "gauge": {
+            "unshifted": {
+                "turn": "+8",
+                "battle": "+15"
+            },
+            "shifted": {
+                "turn": "-4",
+                "battle": "-3"
+            }
+        },
+        "wtmod": 2,
+        "promo_bonus": false,
+        "skill": [
+            "shove",
+            "canto"
+        ],
+        "base": {
+            "hp": 68,
+            "str": 18,
+            "mag": 2,
+            "skl": 24,
+            "spd": 20,
+            "lck": 0,
+            "def": 16,
+            "res": 10,
+            "con": 10,
+            "wt": 12,
+            "mov": 8,
+            "vision": 1
+        },
+        "growth": {
+            "hp": 75,
+            "str": 40,
+            "mag": 5,
+            "skl": 10,
+            "spd": 20,
+            "lck": 40,
+            "def": 40,
+            "res": 20
+        },
+        "cap": {
+            "hp": 75,
+            "str": 22,
+            "mag": 6,
+            "skl": 25,
+            "spd": 23,
+            "lck": 35,
+            "def": 20,
+            "res": 14
+        },
+        "rank": {
+            "min": {
+                "strike": 331
+            },
+            "max": {
+                "strike": 331
+            }
+        },
+        "trans": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "def": 0,
+            "res": 0,
+            "con": 14,
+            "wt": 12,
+            "mov": 2,
+            "vision": -1
+        },
+        "laguz_weapon": [
+            "greattalonss",
+            "greattalons",
+            "greattalona"
+        ]
+    },
+    "hero": {
+        "name": "Hero",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 1,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 38,
+            "str": 9,
+            "mag": 1,
+            "skl": 13,
+            "spd": 11,
+            "lck": 0,
+            "def": 9,
+            "res": 2,
+            "con": 12,
+            "wt": 13,
+            "mov": 7,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 80,
+            "str": 50,
+            "mag": 10,
+            "skl": 70,
+            "spd": 40,
+            "lck": 30,
+            "def": 40,
+            "res": 15
+        },
+        "cap": {
+            "hp": 50,
+            "str": 27,
+            "mag": 10,
+            "skl": 30,
+            "spd": 30,
+            "lck": 30,
+            "def": 26,
+            "res": 15
+        },
+        "rank": {
+            "min": {
+                "sword": 251
+            },
+            "max": {
+                "sword": 251
+            }
+        }
+    },
+    "heronleanne": {
+        "name": "Heron (Leanne)",
+        "type": "laguz",
+        "gauge": {
+            "unshifted": {
+                "turn": "+3",
+                "battle": "+8"
+            },
+            "shifted": {
+                "turn": "-5",
+                "battle": "-8"
+            }
+        },
+        "wtmod": -3,
+        "promo_bonus": false,
+        "skill": [
+            "shove",
+            "canto",
+            "galdrar"
+        ],
+        "base": {
+            "hp": 25,
+            "str": 0,
+            "mag": 3,
+            "skl": 1,
+            "spd": 6,
+            "lck": 0,
+            "def": 2,
+            "res": 11,
+            "con": 5,
+            "wt": 2,
+            "mov": 5,
+            "vision": 1
+        },
+        "growth": {
+            "hp": 60,
+            "str": 0,
+            "mag": 40,
+            "skl": 10,
+            "spd": 20,
+            "lck": 80,
+            "def": 10,
+            "res": 40
+        },
+        "cap": {
+            "hp": 60,
+            "str": 5,
+            "mag": 15,
+            "skl": 10,
+            "spd": 15,
+            "lck": 50,
+            "def": 10,
+            "res": 25
+        },
+        "rank": {
+            "min": {},
+            "max": {}
+        },
+        "trans": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "def": 0,
+            "res": 0,
+            "con": 6,
+            "wt": 4,
+            "mov": 1,
+            "vision": -1
+        },
+        "laguz_weapon": false
+    },
+    "heronrafiel": {
+        "name": "Heron (Rafiel)",
+        "type": "laguz",
+        "gauge": {
+            "unshifted": {
+                "turn": "+3",
+                "battle": "+6"
+            },
+            "shifted": {
+                "turn": "-5",
+                "battle": "-8"
+            }
+        },
+        "wtmod": -3,
+        "promo_bonus": false,
+        "skill": [
+            "shove",
+            "galdrar"
+        ],
+        "base": {
+            "hp": 31,
+            "str": 1,
+            "mag": 6,
+            "skl": 1,
+            "spd": 6,
+            "lck": 0,
+            "def": 3,
+            "res": 13,
+            "con": 8,
+            "wt": 5,
+            "mov": 5,
+            "vision": 1
+        },
+        "growth": {
+            "hp": 60,
+            "str": 0,
+            "mag": 40,
+            "skl": 10,
+            "spd": 20,
+            "lck": 60,
+            "def": 10,
+            "res": 50
+        },
+        "cap": {
+            "hp": 60,
+            "str": 5,
+            "mag": 15,
+            "skl": 10,
+            "spd": 15,
+            "lck": 50,
+            "def": 10,
+            "res": 25
+        },
+        "rank": {
+            "min": {},
+            "max": {}
+        },
+        "trans": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "def": 0,
+            "res": 0,
+            "con": 6,
+            "wt": 4,
+            "mov": 0,
+            "vision": -1
+        },
+        "laguz_weapon": false
+    },
+    "heronreyson": {
+        "name": "Heron (Reyson)",
+        "type": "laguz",
+        "gauge": {
+            "unshifted": {
+                "turn": "+4",
+                "battle": "+10"
+            },
+            "shifted": {
+                "turn": "-5",
+                "battle": "-6"
+            }
+        },
+        "wtmod": -3,
+        "promo_bonus": false,
+        "skill": [
+            "shove",
+            "canto",
+            "galdrar"
+        ],
+        "base": {
+            "hp": 40,
+            "str": 3,
+            "mag": 5,
+            "skl": 5,
+            "spd": 11,
+            "lck": 0,
+            "def": 6,
+            "res": 17,
+            "con": 8,
+            "wt": 5,
+            "mov": 6,
+            "vision": 1
+        },
+        "growth": {
+            "hp": 65,
+            "str": 5,
+            "mag": 30,
+            "skl": 20,
+            "spd": 20,
+            "lck": 60,
+            "def": 20,
+            "res": 20
+        },
+        "cap": {
+            "hp": 60,
+            "str": 5,
+            "mag": 13,
+            "skl": 10,
+            "spd": 16,
+            "lck": 50,
+            "def": 12,
+            "res": 24
+        },
+        "rank": {
+            "min": {},
+            "max": {}
+        },
+        "trans": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "def": 0,
+            "res": 0,
+            "con": 6,
+            "wt": 4,
+            "mov": 2,
+            "vision": -1
+        },
+        "laguz_weapon": false
+    },
+    "horse": {
+        "name": "Horse",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [],
+        "base": {
+            "hp": 25,
+            "str": 20,
+            "mag": 0,
+            "skl": 1,
+            "spd": 10,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "con": 20,
+            "wt": 20,
+            "mov": 9,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "cap": {
+            "hp": 40,
+            "str": 20,
+            "mag": 10,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 10
+        },
+        "rank": {
+            "min": {},
+            "max": {}
+        }
+    },
+    "lancegeneral": {
+        "name": "Lance General",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 10,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 35,
+            "str": 18,
+            "mag": 5,
+            "skl": 17,
+            "spd": 16,
+            "lck": 0,
+            "def": 20,
+            "res": 10,
+            "con": 13,
+            "wt": 23,
+            "mov": 6,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 55,
+            "str": 40,
+            "mag": 45,
+            "skl": 30,
+            "spd": 25,
+            "lck": 40,
+            "def": 50,
+            "res": 50
+        },
+        "cap": {
+            "hp": 45,
+            "str": 27,
+            "mag": 15,
+            "skl": 25,
+            "spd": 23,
+            "lck": 30,
+            "def": 30,
+            "res": 20
+        },
+        "rank": {
+            "min": {
+                "lance": 71,
+                "axe": 31
+            },
+            "max": {
+                "lance": 251,
+                "axe": 181
+            }
+        }
+    },
+    "lancegeneralsp": {
+        "name": "Lance General (SP)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 10,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 40,
+            "str": 20,
+            "mag": 7,
+            "skl": 19,
+            "spd": 18,
+            "lck": 0,
+            "def": 22,
+            "res": 12,
+            "con": 13,
+            "wt": 23,
+            "mov": 6,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 80,
+            "str": 75,
+            "mag": 60,
+            "skl": 70,
+            "spd": 60,
+            "lck": 65,
+            "def": 70,
+            "res": 85
+        },
+        "cap": {
+            "hp": 55,
+            "str": 34,
+            "mag": 18,
+            "skl": 32,
+            "spd": 29,
+            "lck": 30,
+            "def": 35,
+            "res": 28
+        },
+        "rank": {
+            "min": {
+                "sword": 31,
+                "lance": 181,
+                "axe": 71
+            },
+            "max": {
+                "sword": 181,
+                "lance": 331,
+                "axe": 251
+            }
+        }
+    },
+    "lanceknightf": {
+        "name": "Lance Knight (F)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 24,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "canto"
+        ],
+        "base": {
+            "hp": 19,
+            "str": 4,
+            "mag": 1,
+            "skl": 2,
+            "spd": 5,
+            "lck": 0,
+            "def": 5,
+            "res": 2,
+            "con": 7,
+            "wt": 31,
+            "mov": 8,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 45,
+            "str": 55,
+            "mag": 20,
+            "skl": 50,
+            "spd": 55,
+            "lck": 70,
+            "def": 20,
+            "res": 45
+        },
+        "cap": {
+            "hp": 40,
+            "str": 20,
+            "mag": 10,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 10
+        },
+        "rank": {
+            "min": {
+                "lance": 31
+            },
+            "max": {
+                "lance": 181
+            }
+        }
+    },
+    "lanceknightm": {
+        "name": "Lance Knight (M)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 24,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "canto"
+        ],
+        "base": {
+            "hp": 19,
+            "str": 7,
+            "mag": 0,
+            "skl": 6,
+            "spd": 7,
+            "lck": 0,
+            "def": 7,
+            "res": 0,
+            "con": 10,
+            "wt": 34,
+            "mov": 8,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 70,
+            "str": 45,
+            "mag": 15,
+            "skl": 40,
+            "spd": 45,
+            "lck": 25,
+            "def": 40,
+            "res": 40
+        },
+        "cap": {
+            "hp": 40,
+            "str": 20,
+            "mag": 10,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 10
+        },
+        "rank": {
+            "min": {
+                "lance": 31
+            },
+            "max": {
+                "lance": 181
+            }
+        }
+    },
+    "lancepaladinf": {
+        "name": "Lance Paladin (F)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 25,
+        "trans": false,
+        "skill": [
+            "canto"
+        ],
+        "base": {
+            "hp": 34,
+            "str": 10,
+            "mag": 1,
+            "skl": 6,
+            "spd": 9,
+            "lck": 0,
+            "def": 10,
+            "res": 4,
+            "con": 7,
+            "wt": 32,
+            "mov": 9,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 45,
+            "str": 55,
+            "mag": 20,
+            "skl": 50,
+            "spd": 55,
+            "lck": 70,
+            "def": 20,
+            "res": 45
+        },
+        "promo_bonus": {
+            "hp": 2,
+            "str": 1,
+            "mag": 2,
+            "skl": 1,
+            "spd": 1,
+            "def": 1,
+            "res": 2,
+            "con": 0,
+            "mov": 1
+        },
+        "cap": {
+            "hp": 45,
+            "str": 25,
+            "mag": 15,
+            "skl": 24,
+            "spd": 24,
+            "lck": 30,
+            "def": 23,
+            "res": 18
+        },
+        "rank": {
+            "min": {
+                "lance": 71
+            },
+            "max": {
+                "lance": 251
+            }
+        }
+    },
+    "lancepaladinm": {
+        "name": "Lance Paladin (M)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 25,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "canto"
+        ],
+        "base": {
+            "hp": 34,
+            "str": 17,
+            "mag": 5,
+            "skl": 15,
+            "spd": 17,
+            "lck": 0,
+            "def": 15,
+            "res": 10,
+            "con": 11,
+            "wt": 36,
+            "mov": 9,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 45,
+            "str": 30,
+            "mag": 40,
+            "skl": 35,
+            "spd": 25,
+            "lck": 55,
+            "def": 40,
+            "res": 20
+        },
+        "cap": {
+            "hp": 45,
+            "str": 25,
+            "mag": 15,
+            "skl": 24,
+            "spd": 24,
+            "lck": 30,
+            "def": 25,
+            "res": 16
+        },
+        "rank": {
+            "min": {
+                "lance": 71
+            },
+            "max": {
+                "lance": 251
+            }
+        }
+    },
+    "lancepaladinsp": {
+        "name": "Lance Paladin (SP)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 25,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "canto"
+        ],
+        "base": {
+            "hp": 39,
+            "str": 19,
+            "mag": 7,
+            "skl": 17,
+            "spd": 19,
+            "lck": 0,
+            "def": 17,
+            "res": 12,
+            "con": 11,
+            "wt": 36,
+            "mov": 9,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 100,
+            "str": 75,
+            "mag": 55,
+            "skl": 80,
+            "spd": 60,
+            "lck": 80,
+            "def": 60,
+            "res": 60
+        },
+        "cap": {
+            "hp": 58,
+            "str": 33,
+            "mag": 17,
+            "skl": 32,
+            "spd": 30,
+            "lck": 30,
+            "def": 28,
+            "res": 23
+        },
+        "rank": {
+            "min": {
+                "lance": 181
+            },
+            "max": {
+                "lance": 331
+            }
+        }
+    },
+    "lightmage": {
+        "name": "Light Mage",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 16,
+            "str": 0,
+            "mag": 4,
+            "skl": 5,
+            "spd": 5,
+            "lck": 0,
+            "def": 1,
+            "res": 7,
+            "con": 5,
+            "wt": 5,
+            "mov": 5,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "cap": {
+            "hp": 30,
+            "str": 10,
+            "mag": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 40,
+            "def": 10,
+            "res": 20
+        },
+        "rank": {
+            "min": {
+                "light": 31
+            },
+            "max": {
+                "light": 181
+            }
+        }
+    },
+    "lightpriestess": {
+        "name": "Light Priestess",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 42,
+            "str": 3,
+            "mag": 19,
+            "skl": 19,
+            "spd": 20,
+            "lck": 0,
+            "def": 8,
+            "res": 20,
+            "con": 6,
+            "wt": 6,
+            "mov": 6,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "str": 5,
+            "mag": 2,
+            "skl": 2,
+            "spd": 2,
+            "def": 5,
+            "res": 2,
+            "con": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 50,
+            "str": 22,
+            "mag": 40,
+            "skl": 35,
+            "spd": 33,
+            "lck": 40,
+            "def": 23,
+            "res": 40
+        },
+        "rank": {
+            "min": {
+                "light": 181,
+                "staff": 121
+            },
+            "max": {
+                "light": 331,
+                "staff": 331
+            }
+        }
+    },
+    "lightsage": {
+        "name": "Light Sage",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 29,
+            "str": 1,
+            "mag": 9,
+            "skl": 9,
+            "spd": 10,
+            "lck": 0,
+            "def": 4,
+            "res": 12,
+            "con": 6,
+            "wt": 6,
+            "mov": 6,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "promo_bonus": {
+            "hp": 2,
+            "str": 3,
+            "mag": 1,
+            "skl": 1,
+            "spd": 1,
+            "def": 3,
+            "res": 1,
+            "con": 1,
+            "mov": 1
+        },
+        "cap": {
+            "hp": 40,
+            "str": 15,
+            "mag": 30,
+            "skl": 23,
+            "spd": 25,
+            "lck": 40,
+            "def": 15,
+            "res": 30
+        },
+        "rank": {
+            "min": {
+                "light": 71,
+                "staff": 71
+            },
+            "max": {
+                "light": 251,
+                "staff": 181
+            }
+        }
+    },
+    "liongiffca": {
+        "name": "Lion (Giffca)",
+        "type": "laguz",
+        "gauge": {
+            "unshifted": {
+                "turn": "+5",
+                "battle": "+10"
+            },
+            "shifted": {
+                "turn": "-3",
+                "battle": "-2"
+            }
+        },
+        "wtmod": 10,
+        "promo_bonus": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 73,
+            "str": 21,
+            "mag": 4,
+            "skl": 22,
+            "spd": 18,
+            "lck": 0,
+            "def": 20,
+            "res": 11,
+            "con": 17,
+            "wt": 27,
+            "mov": 7,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 40,
+            "str": 35,
+            "mag": 10,
+            "skl": 35,
+            "spd": 50,
+            "lck": 25,
+            "def": 30,
+            "res": 15
+        },
+        "cap": {
+            "hp": 80,
+            "str": 24,
+            "mag": 5,
+            "skl": 23,
+            "spd": 20,
+            "lck": 35,
+            "def": 23,
+            "res": 12
+        },
+        "rank": {
+            "min": {
+                "strike": 331
+            },
+            "max": {
+                "strike": 331
+            }
+        },
+        "trans": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "def": 0,
+            "res": 0,
+            "con": 10,
+            "wt": 20,
+            "mov": 2,
+            "vision": 1
+        },
+        "laguz_weapon": [
+            "greatfanglionss",
+            "greatfanglions",
+            "greatfangliona"
+        ]
+    },
+    "lionking": {
+        "name": "Lion King",
+        "type": "laguz",
+        "gauge": {
+            "unshifted": {
+                "turn": "+5",
+                "battle": "+10"
+            },
+            "shifted": {
+                "turn": "-3",
+                "battle": "-2"
+            }
+        },
+        "wtmod": 10,
+        "promo_bonus": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 76,
+            "str": 22,
+            "mag": 4,
+            "skl": 23,
+            "spd": 17,
+            "lck": 0,
+            "def": 22,
+            "res": 10,
+            "con": 17,
+            "wt": 27,
+            "mov": 7,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 50,
+            "str": 40,
+            "mag": 10,
+            "skl": 40,
+            "spd": 20,
+            "lck": 40,
+            "def": 30,
+            "res": 10
+        },
+        "cap": {
+            "hp": 80,
+            "str": 24,
+            "mag": 5,
+            "skl": 23,
+            "spd": 20,
+            "lck": 35,
+            "def": 23,
+            "res": 12
+        },
+        "rank": {
+            "min": {
+                "strike": 331
+            },
+            "max": {
+                "strike": 331
+            }
+        },
+        "trans": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "def": 0,
+            "res": 0,
+            "con": 10,
+            "wt": 20,
+            "mov": 2,
+            "vision": 1
+        },
+        "laguz_weapon": [
+            "greatfanglionss",
+            "greatfanglions",
+            "greatfangliona"
+        ]
+    },
+    "lionskrimir": {
+        "name": "Lion (Skrimir)",
+        "type": "laguz",
+        "gauge": {
+            "unshifted": {
+                "turn": "+5",
+                "battle": "+10"
+            },
+            "shifted": {
+                "turn": "-3",
+                "battle": "-2"
+            }
+        },
+        "wtmod": 10,
+        "promo_bonus": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 66,
+            "str": 19,
+            "mag": 3,
+            "skl": 14,
+            "spd": 13,
+            "lck": 0,
+            "def": 16,
+            "res": 9,
+            "con": 17,
+            "wt": 27,
+            "mov": 7,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 90,
+            "str": 35,
+            "mag": 5,
+            "skl": 35,
+            "spd": 25,
+            "lck": 40,
+            "def": 50,
+            "res": 5
+        },
+        "cap": {
+            "hp": 80,
+            "str": 24,
+            "mag": 5,
+            "skl": 23,
+            "spd": 17,
+            "lck": 30,
+            "def": 23,
+            "res": 12
+        },
+        "rank": {
+            "min": {
+                "strike": 251
+            },
+            "max": {
+                "strike": 331
+            }
+        },
+        "trans": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "def": 0,
+            "res": 0,
+            "con": 10,
+            "wt": 20,
+            "mov": 2,
+            "vision": 1
+        },
+        "laguz_weapon": [
+            "fanglionss",
+            "fanglions",
+            "fangliona"
+        ]
+    },
+    "marksman": {
+        "name": "Marksman",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 1,
+        "trans": false,
+        "skill": [
+            "shove",
+            "crtplus15",
+            "deadeye"
+        ],
+        "base": {
+            "hp": 49,
+            "str": 20,
+            "mag": 3,
+            "skl": 23,
+            "spd": 18,
+            "lck": 0,
+            "def": 17,
+            "res": 6,
+            "con": 11,
+            "wt": 12,
+            "mov": 7,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 60,
+            "str": 45,
+            "mag": 10,
+            "skl": 55,
+            "spd": 45,
+            "lck": 30,
+            "def": 35,
+            "res": 35
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "str": 2,
+            "mag": 4,
+            "skl": 2,
+            "spd": 2,
+            "def": 2,
+            "res": 4,
+            "con": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 60,
+            "str": 36,
+            "mag": 15,
+            "skl": 40,
+            "spd": 34,
+            "lck": 30,
+            "def": 32,
+            "res": 25
+        },
+        "rank": {
+            "min": {
+                "bow": 181
+            },
+            "max": {
+                "bow": 331
+            }
+        }
+    },
+    "marshallaxe": {
+        "name": "Marshall (Axe)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 13,
+        "trans": false,
+        "skill": [
+            "shove",
+            "luna"
+        ],
+        "base": {
+            "hp": 55,
+            "str": 21,
+            "mag": 3,
+            "skl": 20,
+            "spd": 15,
+            "lck": 0,
+            "def": 24,
+            "res": 9,
+            "con": 13,
+            "wt": 26,
+            "mov": 6,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 75,
+            "str": 45,
+            "mag": 20,
+            "skl": 45,
+            "spd": 30,
+            "lck": 25,
+            "def": 55,
+            "res": 45
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "str": 2,
+            "mag": 4,
+            "skl": 2,
+            "spd": 2,
+            "def": 2,
+            "res": 4,
+            "con": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 60,
+            "str": 37,
+            "mag": 20,
+            "skl": 35,
+            "spd": 30,
+            "lck": 30,
+            "def": 36,
+            "res": 30
+        },
+        "rank": {
+            "min": {
+                "sword": 71,
+                "lance": 31,
+                "axe": 181
+            },
+            "max": {
+                "sword": 251,
+                "lance": 181,
+                "axe": 331
+            }
+        }
+    },
+    "marshalllance": {
+        "name": "Marshall (Lance)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 13,
+        "trans": false,
+        "skill": [
+            "shove",
+            "luna"
+        ],
+        "base": {
+            "hp": 55,
+            "str": 21,
+            "mag": 3,
+            "skl": 21,
+            "spd": 14,
+            "lck": 0,
+            "def": 24,
+            "res": 9,
+            "con": 13,
+            "wt": 26,
+            "mov": 6,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 75,
+            "str": 45,
+            "mag": 20,
+            "skl": 45,
+            "spd": 30,
+            "lck": 25,
+            "def": 55,
+            "res": 45
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "str": 2,
+            "mag": 4,
+            "skl": 2,
+            "spd": 2,
+            "def": 2,
+            "res": 4,
+            "con": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 60,
+            "str": 36,
+            "mag": 20,
+            "skl": 34,
+            "spd": 31,
+            "lck": 30,
+            "def": 37,
+            "res": 30
+        },
+        "rank": {
+            "min": {
+                "sword": 31,
+                "lance": 181,
+                "axe": 71
+            },
+            "max": {
+                "sword": 181,
+                "lance": 331,
+                "axe": 251
+            }
+        }
+    },
+    "marshallsword": {
+        "name": "Marshall (Sword)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 10,
+        "trans": false,
+        "skill": [
+            "shove",
+            "luna"
+        ],
+        "base": {
+            "hp": 55,
+            "str": 21,
+            "mag": 3,
+            "skl": 22,
+            "spd": 13,
+            "lck": 0,
+            "def": 23,
+            "res": 10,
+            "con": 6,
+            "wt": 16,
+            "mov": 6,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 80,
+            "str": 50,
+            "mag": 15,
+            "skl": 55,
+            "spd": 45,
+            "lck": 60,
+            "def": 35,
+            "res": 30
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "str": 3,
+            "mag": 4,
+            "skl": 2,
+            "spd": 2,
+            "def": 3,
+            "res": 4,
+            "con": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 60,
+            "str": 36,
+            "mag": 20,
+            "skl": 33,
+            "spd": 32,
+            "lck": 30,
+            "def": 35,
+            "res": 32
+        },
+        "rank": {
+            "min": {
+                "sword": 181,
+                "lance": 71,
+                "axe": 31
+            },
+            "max": {
+                "sword": 331,
+                "lance": 251,
+                "axe": 181
+            }
+        }
+    },
+    "marshallzelgius": {
+        "name": "Marshall (Zelgius)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 10,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove",
+            "luna"
+        ],
+        "base": {
+            "hp": 60,
+            "str": 31,
+            "mag": 18,
+            "skl": 35,
+            "spd": 28,
+            "lck": 0,
+            "def": 30,
+            "res": 24,
+            "con": 13,
+            "wt": 23,
+            "mov": 6,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "cap": {
+            "hp": 70,
+            "str": 40,
+            "mag": 20,
+            "skl": 40,
+            "spd": 35,
+            "lck": 30,
+            "def": 40,
+            "res": 35
+        },
+        "rank": {
+            "min": {
+                "sword": 331,
+                "lance": 251
+            },
+            "max": {
+                "sword": 331,
+                "lance": 331
+            }
+        }
+    },
+    "myrmidon": {
+        "name": "Myrmidon",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove",
+            "crtplus5"
+        ],
+        "base": {
+            "hp": 18,
+            "str": 6,
+            "mag": 0,
+            "skl": 10,
+            "spd": 11,
+            "lck": 0,
+            "def": 4,
+            "res": 0,
+            "con": 10,
+            "wt": 10,
+            "mov": 6,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 65,
+            "str": 40,
+            "mag": 20,
+            "skl": 45,
+            "spd": 50,
+            "lck": 30,
+            "def": 40,
+            "res": 40
+        },
+        "cap": {
+            "hp": 30,
+            "str": 20,
+            "mag": 10,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 10
+        },
+        "rank": {
+            "min": {
+                "sword": 31
+            },
+            "max": {
+                "sword": 181
+            }
+        }
+    },
+    "orderincarnate": {
+        "name": "Order Incarnate",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 80,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [],
+        "base": {
+            "hp": 120,
+            "str": 8,
+            "mag": 15,
+            "skl": 40,
+            "spd": 40,
+            "lck": 0,
+            "def": 28,
+            "res": 28,
+            "con": 7,
+            "wt": 87,
+            "mov": 0,
+            "vision": 20
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "cap": {
+            "hp": 120,
+            "str": 50,
+            "mag": 50,
+            "skl": 50,
+            "spd": 50,
+            "lck": 50,
+            "def": 50,
+            "res": 50
+        },
+        "rank": {
+            "min": {
+                "strike": 331,
+                "fire": 331,
+                "thunder": 331,
+                "wind": 331,
+                "light": 331,
+                "dark": 331
+            },
+            "max": {
+                "strike": 331,
+                "fire": 331,
+                "thunder": 331,
+                "wind": 331,
+                "light": 331,
+                "dark": 331
+            }
+        }
+    },
+    "orderincarnateaura": {
+        "name": "Order Incarnate (Aura)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 80,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [],
+        "base": {
+            "hp": 90,
+            "str": 8,
+            "mag": 15,
+            "skl": 40,
+            "spd": 35,
+            "lck": 0,
+            "def": 28,
+            "res": 28,
+            "con": 0,
+            "wt": 80,
+            "mov": 0,
+            "vision": 20
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "cap": {
+            "hp": 90,
+            "str": 50,
+            "mag": 50,
+            "skl": 50,
+            "spd": 50,
+            "lck": 50,
+            "def": 50,
+            "res": 50
+        },
+        "rank": {
+            "min": {
+                "strike": 331,
+                "fire": 331,
+                "thunder": 331,
+                "wind": 331,
+                "light": 331,
+                "dark": 331
+            },
+            "max": {
+                "strike": 331,
+                "fire": 331,
+                "thunder": 331,
+                "wind": 331,
+                "light": 331,
+                "dark": 331
+            }
+        }
+    },
+    "pegasusknight": {
+        "name": "Pegasus Knight",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 16,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "canto"
+        ],
+        "base": {
+            "hp": 16,
+            "str": 5,
+            "mag": 0,
+            "skl": 6,
+            "spd": 9,
+            "lck": 0,
+            "def": 6,
+            "res": 5,
+            "con": 7,
+            "wt": 23,
+            "mov": 8,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 65,
+            "str": 35,
+            "mag": 15,
+            "skl": 50,
+            "spd": 50,
+            "lck": 45,
+            "def": 35,
+            "res": 35
+        },
+        "cap": {
+            "hp": 30,
+            "str": 15,
+            "mag": 10,
+            "skl": 20,
+            "spd": 20,
+            "lck": 35,
+            "def": 15,
+            "res": 15
+        },
+        "rank": {
+            "min": {
+                "lance": 31
+            },
+            "max": {
+                "lance": 181
+            }
+        }
+    },
+    "pilgrim": {
+        "name": "Pilgrim",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 5,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [],
+        "base": {
+            "hp": 55,
+            "str": 15,
+            "mag": 7,
+            "skl": 8,
+            "spd": 10,
+            "lck": 0,
+            "def": 15,
+            "res": 15,
+            "con": 7,
+            "wt": 12,
+            "mov": 6,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "cap": {
+            "hp": 80,
+            "str": 40,
+            "mag": 15,
+            "skl": 37,
+            "spd": 35,
+            "lck": 40,
+            "def": 40,
+            "res": 35
+        },
+        "rank": {
+            "min": {},
+            "max": {}
+        }
+    },
+    "priestf": {
+        "name": "Priest (F)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 17,
+            "str": 0,
+            "mag": 6,
+            "skl": 3,
+            "spd": 3,
+            "lck": 0,
+            "def": 1,
+            "res": 10,
+            "con": 5,
+            "wt": 5,
+            "mov": 5,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 60,
+            "str": 30,
+            "mag": 35,
+            "skl": 30,
+            "spd": 60,
+            "lck": 75,
+            "def": 20,
+            "res": 60
+        },
+        "cap": {
+            "hp": 30,
+            "str": 10,
+            "mag": 20,
+            "skl": 15,
+            "spd": 15,
+            "lck": 40,
+            "def": 10,
+            "res": 20
+        },
+        "rank": {
+            "min": {
+                "staff": 31
+            },
+            "max": {
+                "staff": 181
+            }
+        }
+    },
+    "priestm": {
+        "name": "Priest (M)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 16,
+            "str": 3,
+            "mag": 5,
+            "skl": 5,
+            "spd": 6,
+            "lck": 0,
+            "def": 3,
+            "res": 10,
+            "con": 9,
+            "wt": 9,
+            "mov": 5,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 60,
+            "str": 25,
+            "mag": 65,
+            "skl": 45,
+            "spd": 40,
+            "lck": 40,
+            "def": 25,
+            "res": 40
+        },
+        "cap": {
+            "hp": 30,
+            "str": 10,
+            "mag": 20,
+            "skl": 15,
+            "spd": 15,
+            "lck": 35,
+            "def": 10,
+            "res": 20
+        },
+        "rank": {
+            "min": {
+                "staff": 31
+            },
+            "max": {
+                "staff": 181
+            }
+        }
+    },
+    "queen": {
+        "name": "Queen",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 17,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "canto",
+            "stun"
+        ],
+        "base": {
+            "hp": 38,
+            "str": 16,
+            "mag": 17,
+            "skl": 21,
+            "spd": 22,
+            "lck": 0,
+            "def": 18,
+            "res": 24,
+            "con": 6,
+            "wt": 23,
+            "mov": 9,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 55,
+            "str": 25,
+            "mag": 40,
+            "skl": 45,
+            "spd": 45,
+            "lck": 50,
+            "def": 25,
+            "res": 40
+        },
+        "cap": {
+            "hp": 50,
+            "str": 30,
+            "mag": 30,
+            "skl": 36,
+            "spd": 35,
+            "lck": 40,
+            "def": 26,
+            "res": 36
+        },
+        "rank": {
+            "min": {
+                "sword": 121,
+                "staff": 181
+            },
+            "max": {
+                "sword": 331,
+                "staff": 251
+            }
+        }
+    },
+    "ravenf": {
+        "name": "Raven (F)",
+        "type": "laguz",
+        "gauge": {
+            "unshifted": {
+                "turn": "+6",
+                "battle": "+10"
+            },
+            "shifted": {
+                "turn": "-4",
+                "battle": "-3"
+            }
+        },
+        "wtmod": -1,
+        "promo_bonus": false,
+        "skill": [
+            "shove",
+            "canto"
+        ],
+        "base": {
+            "hp": 34,
+            "str": 7,
+            "mag": 5,
+            "skl": 13,
+            "spd": 14,
+            "lck": 0,
+            "def": 5,
+            "res": 6,
+            "con": 6,
+            "wt": 5,
+            "mov": 6,
+            "vision": 1
+        },
+        "growth": {
+            "hp": 70,
+            "str": 25,
+            "mag": 20,
+            "skl": 30,
+            "spd": 45,
+            "lck": 70,
+            "def": 20,
+            "res": 50
+        },
+        "cap": {
+            "hp": 60,
+            "str": 16,
+            "mag": 10,
+            "skl": 19,
+            "spd": 23,
+            "lck": 35,
+            "def": 12,
+            "res": 18
+        },
+        "rank": {
+            "min": {
+                "strike": 181
+            },
+            "max": {
+                "strike": 331
+            }
+        },
+        "trans": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "def": 0,
+            "res": 0,
+            "con": 9,
+            "wt": 9,
+            "mov": 2,
+            "vision": -1
+        },
+        "laguz_weapon": [
+            "beakss",
+            "beaks",
+            "beaka"
+        ]
+    },
+    "ravenking": {
+        "name": "Raven King",
+        "type": "laguz",
+        "gauge": {
+            "unshifted": {
+                "turn": "+6",
+                "battle": "+10"
+            },
+            "shifted": {
+                "turn": "-4",
+                "battle": "-3"
+            }
+        },
+        "wtmod": 1,
+        "promo_bonus": false,
+        "skill": [
+            "shove",
+            "canto"
+        ],
+        "base": {
+            "hp": 60,
+            "str": 17,
+            "mag": 7,
+            "skl": 20,
+            "spd": 21,
+            "lck": 0,
+            "def": 13,
+            "res": 14,
+            "con": 10,
+            "wt": 11,
+            "mov": 7,
+            "vision": 1
+        },
+        "growth": {
+            "hp": 40,
+            "str": 45,
+            "mag": 15,
+            "skl": 30,
+            "spd": 45,
+            "lck": 55,
+            "def": 15,
+            "res": 35
+        },
+        "cap": {
+            "hp": 70,
+            "str": 20,
+            "mag": 10,
+            "skl": 22,
+            "spd": 25,
+            "lck": 30,
+            "def": 17,
+            "res": 19
+        },
+        "rank": {
+            "min": {
+                "strike": 251
+            },
+            "max": {
+                "strike": 331
+            }
+        },
+        "trans": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "def": 0,
+            "res": 0,
+            "con": 10,
+            "wt": 8,
+            "mov": 2,
+            "vision": -1
+        },
+        "laguz_weapon": [
+            "greatbeakss",
+            "greatbeaks",
+            "greatbeaka"
+        ]
+    },
+    "ravenm": {
+        "name": "Raven (M)",
+        "type": "laguz",
+        "gauge": {
+            "unshifted": {
+                "turn": "+6",
+                "battle": "+10"
+            },
+            "shifted": {
+                "turn": "-4",
+                "battle": "-3"
+            }
+        },
+        "wtmod": 0,
+        "promo_bonus": false,
+        "skill": [
+            "shove",
+            "canto"
+        ],
+        "base": {
+            "hp": 27,
+            "str": 4,
+            "mag": 2,
+            "skl": 6,
+            "spd": 8,
+            "lck": 0,
+            "def": 2,
+            "res": 3,
+            "con": 10,
+            "wt": 10,
+            "mov": 6,
+            "vision": 1
+        },
+        "growth": {
+            "hp": 85,
+            "str": 25,
+            "mag": 20,
+            "skl": 30,
+            "spd": 35,
+            "lck": 70,
+            "def": 20,
+            "res": 35
+        },
+        "cap": {
+            "hp": 60,
+            "str": 16,
+            "mag": 10,
+            "skl": 19,
+            "spd": 23,
+            "lck": 35,
+            "def": 13,
+            "res": 17
+        },
+        "rank": {
+            "min": {
+                "strike": 181
+            },
+            "max": {
+                "strike": 331
+            }
+        },
+        "trans": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "def": 0,
+            "res": 0,
+            "con": 9,
+            "wt": 8,
+            "mov": 2,
+            "vision": -1
+        },
+        "laguz_weapon": [
+            "beakss",
+            "beaks",
+            "beaka"
+        ]
+    },
+    "reaver": {
+        "name": "Reaver",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 2,
+        "trans": false,
+        "skill": [
+            "shove",
+            "crtplus5",
+            "colossus"
+        ],
+        "base": {
+            "hp": 58,
+            "str": 22,
+            "mag": 3,
+            "skl": 19,
+            "spd": 19,
+            "lck": 0,
+            "def": 16,
+            "res": 5,
+            "con": 13,
+            "wt": 15,
+            "mov": 7,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 85,
+            "str": 60,
+            "mag": 10,
+            "skl": 35,
+            "spd": 50,
+            "lck": 30,
+            "def": 35,
+            "res": 25
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "str": 2,
+            "mag": 4,
+            "skl": 2,
+            "spd": 2,
+            "def": 2,
+            "res": 4,
+            "con": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 68,
+            "str": 40,
+            "mag": 10,
+            "skl": 36,
+            "spd": 35,
+            "lck": 30,
+            "def": 30,
+            "res": 20
+        },
+        "rank": {
+            "min": {
+                "axe": 181
+            },
+            "max": {
+                "axe": 331
+            }
+        }
+    },
+    "reddragonf": {
+        "name": "Red Dragon (F)",
+        "type": "laguz",
+        "gauge": {
+            "unshifted": {
+                "turn": "+5",
+                "battle": "+6"
+            },
+            "shifted": {
+                "turn": "-2",
+                "battle": "-1"
+            }
+        },
+        "wtmod": 5,
+        "promo_bonus": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 59,
+            "str": 10,
+            "mag": 15,
+            "skl": 13,
+            "spd": 11,
+            "lck": 0,
+            "def": 13,
+            "res": 17,
+            "con": 6,
+            "wt": 11,
+            "mov": 5,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 50,
+            "str": 20,
+            "mag": 50,
+            "skl": 40,
+            "spd": 40,
+            "lck": 35,
+            "def": 15,
+            "res": 50
+        },
+        "cap": {
+            "hp": 70,
+            "str": 20,
+            "mag": 20,
+            "skl": 15,
+            "spd": 13,
+            "lck": 30,
+            "def": 20,
+            "res": 20
+        },
+        "rank": {
+            "min": {
+                "strike": 181
+            },
+            "max": {
+                "strike": 331
+            }
+        },
+        "trans": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "def": 0,
+            "res": 0,
+            "con": 12,
+            "wt": 33,
+            "mov": 1
+        },
+        "laguz_weapon": [
+            "redbreathss",
+            "redbreaths",
+            "redbreatha"
+        ]
+    },
+    "reddragonm": {
+        "name": "Red Dragon (M)",
+        "type": "laguz",
+        "gauge": {
+            "unshifted": {
+                "turn": "+5",
+                "battle": "+6"
+            },
+            "shifted": {
+                "turn": "-2",
+                "battle": "-1"
+            }
+        },
+        "wtmod": 5,
+        "promo_bonus": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 51,
+            "str": 15,
+            "mag": 5,
+            "skl": 5,
+            "spd": 4,
+            "lck": 0,
+            "def": 12,
+            "res": 5,
+            "con": 13,
+            "wt": 21,
+            "mov": 5,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 100,
+            "str": 20,
+            "mag": 5,
+            "skl": 20,
+            "spd": 10,
+            "lck": 50,
+            "def": 25,
+            "res": 20
+        },
+        "cap": {
+            "hp": 90,
+            "str": 25,
+            "mag": 10,
+            "skl": 15,
+            "spd": 10,
+            "lck": 30,
+            "def": 23,
+            "res": 15
+        },
+        "rank": {
+            "min": {
+                "strike": 181
+            },
+            "max": {
+                "strike": 331
+            }
+        },
+        "trans": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "def": 0,
+            "res": 0,
+            "con": 26,
+            "wt": 58,
+            "mov": 1
+        },
+        "laguz_weapon": [
+            "redbreathss",
+            "redbreaths",
+            "redbreatha"
+        ]
+    },
+    "roguef": {
+        "name": "Rogue (F)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove",
+            "steal"
+        ],
+        "base": {
+            "hp": 31,
+            "str": 8,
+            "mag": 2,
+            "skl": 9,
+            "spd": 12,
+            "lck": 0,
+            "def": 7,
+            "res": 3,
+            "con": 7,
+            "wt": 7,
+            "mov": 7,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 65,
+            "str": 50,
+            "mag": 30,
+            "skl": 55,
+            "spd": 70,
+            "lck": 40,
+            "def": 15,
+            "res": 25
+        },
+        "cap": {
+            "hp": 40,
+            "str": 21,
+            "mag": 15,
+            "skl": 25,
+            "spd": 30,
+            "lck": 40,
+            "def": 20,
+            "res": 17
+        },
+        "rank": {
+            "min": {
+                "knife": 71
+            },
+            "max": {
+                "knife": 251
+            }
+        }
+    },
+    "roguem": {
+        "name": "Rogue (M)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove",
+            "steal"
+        ],
+        "base": {
+            "hp": 28,
+            "str": 14,
+            "mag": 5,
+            "skl": 17,
+            "spd": 20,
+            "lck": 0,
+            "def": 12,
+            "res": 8,
+            "con": 10,
+            "wt": 10,
+            "mov": 7,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 65,
+            "str": 40,
+            "mag": 55,
+            "skl": 50,
+            "spd": 50,
+            "lck": 115,
+            "def": 40,
+            "res": 35
+        },
+        "cap": {
+            "hp": 40,
+            "str": 22,
+            "mag": 15,
+            "skl": 26,
+            "spd": 30,
+            "lck": 40,
+            "def": 20,
+            "res": 15
+        },
+        "rank": {
+            "min": {
+                "knife": 71
+            },
+            "max": {
+                "knife": 251
+            }
+        }
+    },
+    "saintf": {
+        "name": "Saint (F)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "trans": false,
+        "skill": [
+            "shove",
+            "corona"
+        ],
+        "base": {
+            "hp": 42,
+            "str": 5,
+            "mag": 21,
+            "skl": 16,
+            "spd": 18,
+            "lck": 0,
+            "def": 8,
+            "res": 24,
+            "con": 6,
+            "wt": 6,
+            "mov": 6,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 60,
+            "str": 30,
+            "mag": 35,
+            "skl": 30,
+            "spd": 60,
+            "lck": 75,
+            "def": 20,
+            "res": 60
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "str": 5,
+            "mag": 2,
+            "skl": 2,
+            "spd": 2,
+            "def": 5,
+            "res": 2,
+            "con": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 45,
+            "str": 23,
+            "mag": 38,
+            "skl": 30,
+            "spd": 31,
+            "lck": 40,
+            "def": 21,
+            "res": 40
+        },
+        "rank": {
+            "min": {
+                "light": 71,
+                "staff": 181
+            },
+            "max": {
+                "light": 331,
+                "staff": 331
+            }
+        }
+    },
+    "saintm": {
+        "name": "Saint (M)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "trans": false,
+        "skill": [
+            "shove",
+            "corona"
+        ],
+        "base": {
+            "hp": 43,
+            "str": 5,
+            "mag": 20,
+            "skl": 16,
+            "spd": 18,
+            "lck": 0,
+            "def": 9,
+            "res": 23,
+            "con": 10,
+            "wt": 10,
+            "mov": 6,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 50,
+            "str": 15,
+            "mag": 55,
+            "skl": 30,
+            "spd": 40,
+            "lck": 50,
+            "def": 15,
+            "res": 55
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "str": 4,
+            "mag": 2,
+            "skl": 2,
+            "spd": 2,
+            "def": 4,
+            "res": 2,
+            "con": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 50,
+            "str": 25,
+            "mag": 36,
+            "skl": 30,
+            "spd": 30,
+            "lck": 35,
+            "def": 22,
+            "res": 40
+        },
+        "rank": {
+            "min": {
+                "light": 71,
+                "staff": 181
+            },
+            "max": {
+                "light": 331,
+                "staff": 331
+            }
+        }
+    },
+    "saintsp": {
+        "name": "Saint (SP)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove",
+            "corona"
+        ],
+        "base": {
+            "hp": 43,
+            "str": 5,
+            "mag": 20,
+            "skl": 16,
+            "spd": 18,
+            "lck": 0,
+            "def": 9,
+            "res": 23,
+            "con": 10,
+            "wt": 10,
+            "mov": 6,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 50,
+            "str": 15,
+            "mag": 55,
+            "skl": 30,
+            "spd": 40,
+            "lck": 50,
+            "def": 15,
+            "res": 55
+        },
+        "cap": {
+            "hp": 50,
+            "str": 25,
+            "mag": 36,
+            "skl": 30,
+            "spd": 30,
+            "lck": 35,
+            "def": 22,
+            "res": 40
+        },
+        "rank": {
+            "min": {
+                "light": 71,
+                "staff": 181
+            },
+            "max": {
+                "light": 331,
+                "staff": 331
+            }
+        }
+    },
+    "sentinelf": {
+        "name": "Sentinel (F)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 7,
+        "trans": false,
+        "skill": [
+            "shove",
+            "crtplus10",
+            "impale"
+        ],
+        "base": {
+            "hp": 53,
+            "str": 21,
+            "mag": 3,
+            "skl": 21,
+            "spd": 17,
+            "lck": 0,
+            "def": 19,
+            "res": 10,
+            "con": 7,
+            "wt": 14,
+            "mov": 7,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 65,
+            "str": 40,
+            "mag": 20,
+            "skl": 65,
+            "spd": 60,
+            "lck": 30,
+            "def": 35,
+            "res": 35
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "str": 3,
+            "mag": 4,
+            "skl": 2,
+            "spd": 2,
+            "def": 3,
+            "res": 4,
+            "con": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 58,
+            "str": 34,
+            "mag": 20,
+            "skl": 35,
+            "spd": 34,
+            "lck": 30,
+            "def": 33,
+            "res": 30
+        },
+        "rank": {
+            "min": {
+                "lance": 181
+            },
+            "max": {
+                "lance": 331
+            }
+        }
+    },
+    "sentinelm": {
+        "name": "Sentinel (M)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 8,
+        "trans": false,
+        "skill": [
+            "shove",
+            "crtplus10",
+            "impale"
+        ],
+        "base": {
+            "hp": 53,
+            "str": 21,
+            "mag": 3,
+            "skl": 21,
+            "spd": 17,
+            "lck": 0,
+            "def": 21,
+            "res": 8,
+            "con": 12,
+            "wt": 20,
+            "mov": 7,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 75,
+            "str": 45,
+            "mag": 20,
+            "skl": 45,
+            "spd": 40,
+            "lck": 25,
+            "def": 45,
+            "res": 40
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "str": 2,
+            "mag": 4,
+            "skl": 2,
+            "spd": 2,
+            "def": 2,
+            "res": 4,
+            "con": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 60,
+            "str": 35,
+            "mag": 20,
+            "skl": 35,
+            "spd": 33,
+            "lck": 30,
+            "def": 34,
+            "res": 27
+        },
+        "rank": {
+            "min": {
+                "lance": 181
+            },
+            "max": {
+                "lance": 331
+            }
+        }
+    },
+    "seraphknight": {
+        "name": "Seraph Knight",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 17,
+        "trans": false,
+        "skill": [
+            "canto",
+            "stun"
+        ],
+        "base": {
+            "hp": 46,
+            "str": 19,
+            "mag": 5,
+            "skl": 17,
+            "spd": 19,
+            "lck": 0,
+            "def": 15,
+            "res": 13,
+            "con": 7,
+            "wt": 24,
+            "mov": 9,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 60,
+            "str": 35,
+            "mag": 20,
+            "skl": 45,
+            "spd": 50,
+            "lck": 35,
+            "def": 30,
+            "res": 45
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "str": 3,
+            "mag": 4,
+            "skl": 2,
+            "spd": 2,
+            "def": 3,
+            "res": 4,
+            "con": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 50,
+            "str": 32,
+            "mag": 20,
+            "skl": 36,
+            "spd": 36,
+            "lck": 35,
+            "def": 28,
+            "res": 34
+        },
+        "rank": {
+            "min": {
+                "sword": 71,
+                "lance": 181
+            },
+            "max": {
+                "sword": 251,
+                "lance": 331
+            }
+        }
+    },
+    "silverknightbow": {
+        "name": "Silver Knight (Bow)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 26,
+        "trans": false,
+        "skill": [
+            "canto",
+            "sol"
+        ],
+        "base": {
+            "hp": 48,
+            "str": 20,
+            "mag": 3,
+            "skl": 16,
+            "spd": 17,
+            "lck": 0,
+            "def": 18,
+            "res": 9,
+            "con": 7,
+            "wt": 33,
+            "mov": 9,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 50,
+            "str": 40,
+            "mag": 35,
+            "skl": 80,
+            "spd": 30,
+            "lck": 35,
+            "def": 30,
+            "res": 50
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "str": 3,
+            "mag": 4,
+            "skl": 2,
+            "spd": 2,
+            "def": 3,
+            "res": 4,
+            "con": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 50,
+            "str": 33,
+            "mag": 20,
+            "skl": 36,
+            "spd": 35,
+            "lck": 35,
+            "def": 27,
+            "res": 30
+        },
+        "rank": {
+            "min": {
+                "lance": 71,
+                "bow": 181
+            },
+            "max": {
+                "lance": 181,
+                "bow": 331
+            }
+        }
+    },
+    "silverknightlancef": {
+        "name": "Silver Knight (Lance F)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 26,
+        "trans": false,
+        "skill": [
+            "canto",
+            "sol"
+        ],
+        "base": {
+            "hp": 49,
+            "str": 20,
+            "mag": 3,
+            "skl": 16,
+            "spd": 17,
+            "lck": 0,
+            "def": 18,
+            "res": 8,
+            "con": 7,
+            "wt": 33,
+            "mov": 9,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 45,
+            "str": 55,
+            "mag": 20,
+            "skl": 50,
+            "spd": 55,
+            "lck": 70,
+            "def": 20,
+            "res": 45
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "str": 3,
+            "mag": 4,
+            "skl": 2,
+            "spd": 2,
+            "def": 3,
+            "res": 4,
+            "con": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 55,
+            "str": 33,
+            "mag": 20,
+            "skl": 34,
+            "spd": 34,
+            "lck": 35,
+            "def": 28,
+            "res": 27
+        },
+        "rank": {
+            "min": {
+                "lance": 181,
+                "bow": 71
+            },
+            "max": {
+                "lance": 331,
+                "bow": 181
+            }
+        }
+    },
+    "silverknightlancem": {
+        "name": "Silver Knight (Lance M)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 26,
+        "trans": false,
+        "skill": [
+            "canto",
+            "sol"
+        ],
+        "base": {
+            "hp": 50,
+            "str": 20,
+            "mag": 3,
+            "skl": 16,
+            "spd": 17,
+            "lck": 0,
+            "def": 19,
+            "res": 6,
+            "con": 11,
+            "wt": 37,
+            "mov": 9,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 65,
+            "str": 45,
+            "mag": 20,
+            "skl": 35,
+            "spd": 45,
+            "lck": 30,
+            "def": 45,
+            "res": 40
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "str": 2,
+            "mag": 4,
+            "skl": 2,
+            "spd": 2,
+            "def": 2,
+            "res": 4,
+            "con": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 60,
+            "str": 35,
+            "mag": 20,
+            "skl": 34,
+            "spd": 32,
+            "lck": 30,
+            "def": 30,
+            "res": 25
+        },
+        "rank": {
+            "min": {
+                "lance": 181,
+                "bow": 71
+            },
+            "max": {
+                "lance": 331,
+                "bow": 181
+            }
+        }
+    },
+    "sniper": {
+        "name": "Sniper",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 1,
+        "trans": false,
+        "skill": [
+            "shove",
+            "crtplus10"
+        ],
+        "base": {
+            "hp": 33,
+            "str": 18,
+            "mag": 4,
+            "skl": 19,
+            "spd": 18,
+            "lck": 0,
+            "def": 14,
+            "res": 10,
+            "con": 11,
+            "wt": 12,
+            "mov": 7,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 60,
+            "str": 35,
+            "mag": 20,
+            "skl": 45,
+            "spd": 25,
+            "lck": 50,
+            "def": 45,
+            "res": 25
+        },
+        "promo_bonus": {
+            "hp": 2,
+            "str": 1,
+            "mag": 2,
+            "skl": 1,
+            "spd": 1,
+            "def": 1,
+            "res": 2,
+            "con": 1,
+            "mov": 1
+        },
+        "cap": {
+            "hp": 45,
+            "str": 27,
+            "mag": 10,
+            "skl": 30,
+            "spd": 26,
+            "lck": 30,
+            "def": 24,
+            "res": 16
+        },
+        "rank": {
+            "min": {
+                "bow": 71
+            },
+            "max": {
+                "bow": 251
+            }
+        }
+    },
+    "snipersp": {
+        "name": "Sniper (SP)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 1,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove",
+            "crtplus10"
+        ],
+        "base": {
+            "hp": 38,
+            "str": 20,
+            "mag": 6,
+            "skl": 21,
+            "spd": 20,
+            "lck": 0,
+            "def": 16,
+            "res": 12,
+            "con": 11,
+            "wt": 12,
+            "mov": 7,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 100,
+            "str": 75,
+            "mag": 35,
+            "skl": 90,
+            "spd": 65,
+            "lck": 75,
+            "def": 70,
+            "res": 60
+        },
+        "cap": {
+            "hp": 57,
+            "str": 34,
+            "mag": 13,
+            "skl": 38,
+            "spd": 32,
+            "lck": 30,
+            "def": 29,
+            "res": 23
+        },
+        "rank": {
+            "min": {
+                "bow": 181
+            },
+            "max": {
+                "bow": 331
+            }
+        }
+    },
+    "soldier": {
+        "name": "Soldier",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 4,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 20,
+            "str": 8,
+            "mag": 0,
+            "skl": 8,
+            "spd": 8,
+            "lck": 0,
+            "def": 7,
+            "res": 2,
+            "con": 11,
+            "wt": 15,
+            "mov": 6,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 70,
+            "str": 50,
+            "mag": 20,
+            "skl": 45,
+            "spd": 50,
+            "lck": 25,
+            "def": 40,
+            "res": 40
+        },
+        "cap": {
+            "hp": 40,
+            "str": 20,
+            "mag": 10,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 10
+        },
+        "rank": {
+            "min": {
+                "lance": 31
+            },
+            "max": {
+                "lance": 181
+            }
+        }
+    },
+    "spiritfire": {
+        "name": "Spirit (Fire)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [],
+        "base": {
+            "hp": 40,
+            "str": 7,
+            "mag": 23,
+            "skl": 28,
+            "spd": 30,
+            "lck": 0,
+            "def": 22,
+            "res": 30,
+            "con": 0,
+            "wt": 0,
+            "mov": 20,
+            "vision": 5
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "cap": {
+            "hp": 40,
+            "str": 7,
+            "mag": 33,
+            "skl": 38,
+            "spd": 40,
+            "lck": 45,
+            "def": 30,
+            "res": 30
+        },
+        "rank": {
+            "min": {
+                "fire": 331
+            },
+            "max": {
+                "fire": 331
+            }
+        }
+    },
+    "spiritthunder": {
+        "name": "Spirit (Thunder)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [],
+        "base": {
+            "hp": 38,
+            "str": 9,
+            "mag": 25,
+            "skl": 30,
+            "spd": 28,
+            "lck": 0,
+            "def": 20,
+            "res": 30,
+            "con": 0,
+            "wt": 0,
+            "mov": 20,
+            "vision": 5
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "cap": {
+            "hp": 38,
+            "str": 9,
+            "mag": 35,
+            "skl": 40,
+            "spd": 38,
+            "lck": 45,
+            "def": 30,
+            "res": 30
+        },
+        "rank": {
+            "min": {
+                "thunder": 331
+            },
+            "max": {
+                "thunder": 331
+            }
+        }
+    },
+    "spiritwind": {
+        "name": "Spirit (Wind)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [],
+        "base": {
+            "hp": 38,
+            "str": 5,
+            "mag": 27,
+            "skl": 28,
+            "spd": 30,
+            "lck": 0,
+            "def": 20,
+            "res": 32,
+            "con": 0,
+            "wt": 0,
+            "mov": 20,
+            "vision": 5
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "cap": {
+            "hp": 38,
+            "str": 5,
+            "mag": 37,
+            "skl": 38,
+            "spd": 40,
+            "lck": 45,
+            "def": 30,
+            "res": 32
+        },
+        "rank": {
+            "min": {
+                "wind": 331
+            },
+            "max": {
+                "wind": 331
+            }
+        }
+    },
+    "summoner": {
+        "name": "Summoner",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove",
+            "flare"
+        ],
+        "base": {
+            "hp": 43,
+            "str": 6,
+            "mag": 22,
+            "skl": 18,
+            "spd": 18,
+            "lck": 0,
+            "def": 8,
+            "res": 20,
+            "con": 10,
+            "wt": 10,
+            "mov": 6,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "cap": {
+            "hp": 50,
+            "str": 26,
+            "mag": 40,
+            "skl": 31,
+            "spd": 30,
+            "lck": 25,
+            "def": 23,
+            "res": 39
+        },
+        "rank": {
+            "min": {
+                "dark": 251,
+                "staff": 251
+            },
+            "max": {
+                "dark": 331,
+                "staff": 251
+            }
+        }
+    },
+    "swordgeneralf": {
+        "name": "Sword General (F)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 8,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 40,
+            "str": 11,
+            "mag": 1,
+            "skl": 12,
+            "spd": 5,
+            "lck": 0,
+            "def": 15,
+            "res": 6,
+            "con": 6,
+            "wt": 14,
+            "mov": 6,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 80,
+            "str": 50,
+            "mag": 15,
+            "skl": 55,
+            "spd": 45,
+            "lck": 60,
+            "def": 35,
+            "res": 30
+        },
+        "promo_bonus": {
+            "hp": 2,
+            "str": 2,
+            "mag": 2,
+            "skl": 1,
+            "spd": 1,
+            "def": 2,
+            "res": 2,
+            "con": 0,
+            "mov": 1
+        },
+        "cap": {
+            "hp": 45,
+            "str": 27,
+            "mag": 15,
+            "skl": 24,
+            "spd": 22,
+            "lck": 30,
+            "def": 30,
+            "res": 22
+        },
+        "rank": {
+            "min": {
+                "sword": 71,
+                "lance": 1
+            },
+            "max": {
+                "sword": 251,
+                "lance": 181
+            }
+        }
+    },
+    "swordgeneralm": {
+        "name": "Sword General (M)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 10,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 35,
+            "str": 17,
+            "mag": 5,
+            "skl": 16,
+            "spd": 17,
+            "lck": 0,
+            "def": 21,
+            "res": 10,
+            "con": 13,
+            "wt": 23,
+            "mov": 6,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 55,
+            "str": 40,
+            "mag": 45,
+            "skl": 35,
+            "spd": 25,
+            "lck": 40,
+            "def": 45,
+            "res": 50
+        },
+        "cap": {
+            "hp": 45,
+            "str": 26,
+            "mag": 15,
+            "skl": 25,
+            "spd": 24,
+            "lck": 30,
+            "def": 30,
+            "res": 20
+        },
+        "rank": {
+            "min": {
+                "sword": 71,
+                "lance": 1
+            },
+            "max": {
+                "sword": 251,
+                "lance": 181
+            }
+        }
+    },
+    "swordgeneralsp": {
+        "name": "Sword General (SP)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 10,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 40,
+            "str": 19,
+            "mag": 7,
+            "skl": 18,
+            "spd": 19,
+            "lck": 0,
+            "def": 23,
+            "res": 12,
+            "con": 13,
+            "wt": 23,
+            "mov": 6,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 80,
+            "str": 90,
+            "mag": 60,
+            "skl": 70,
+            "spd": 55,
+            "lck": 65,
+            "def": 60,
+            "res": 85
+        },
+        "cap": {
+            "hp": 55,
+            "str": 36,
+            "mag": 18,
+            "skl": 31,
+            "spd": 29,
+            "lck": 30,
+            "def": 34,
+            "res": 28
+        },
+        "rank": {
+            "min": {
+                "sword": 71,
+                "lance": 31,
+                "axe": 181
+            },
+            "max": {
+                "sword": 331,
+                "lance": 251,
+                "axe": 181
+            }
+        }
+    },
+    "swordknight": {
+        "name": "Sword Knight",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 24,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "canto"
+        ],
+        "base": {
+            "hp": 19,
+            "str": 6,
+            "mag": 0,
+            "skl": 5,
+            "spd": 8,
+            "lck": 0,
+            "def": 8,
+            "res": 0,
+            "con": 10,
+            "wt": 34,
+            "mov": 8,
+            "vision": 2
+        },
+        "growth": {
+            "hp": 75,
+            "str": 50,
+            "mag": 10,
+            "skl": 40,
+            "spd": 35,
+            "lck": 25,
+            "def": 45,
+            "res": 40
+        },
+        "cap": {
+            "hp": 40,
+            "str": 20,
+            "mag": 10,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 10
+        },
+        "rank": {
+            "min": {
+                "sword": 31
+            },
+            "max": {
+                "sword": 181
+            }
+        }
+    },
+    "swordmasterf": {
+        "name": "Swordmaster (F)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove",
+            "crtplus10"
+        ],
+        "base": {
+            "hp": 34,
+            "str": 14,
+            "mag": 4,
+            "skl": 20,
+            "spd": 22,
+            "lck": 0,
+            "def": 8,
+            "res": 8,
+            "con": 8,
+            "wt": 8,
+            "mov": 7,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "cap": {
+            "hp": 40,
+            "str": 23,
+            "mag": 15,
+            "skl": 30,
+            "spd": 30,
+            "lck": 30,
+            "def": 22,
+            "res": 17
+        },
+        "rank": {
+            "min": {
+                "sword": 71
+            },
+            "max": {
+                "sword": 251
+            }
+        }
+    },
+    "swordmasterm": {
+        "name": "Swordmaster (M)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "trans": false,
+        "skill": [
+            "shove",
+            "crtplus10"
+        ],
+        "base": {
+            "hp": 30,
+            "str": 15,
+            "mag": 6,
+            "skl": 20,
+            "spd": 21,
+            "lck": 0,
+            "def": 13,
+            "res": 10,
+            "con": 11,
+            "wt": 11,
+            "mov": 7,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 50,
+            "str": 35,
+            "mag": 35,
+            "skl": 40,
+            "spd": 35,
+            "lck": 50,
+            "def": 40,
+            "res": 15
+        },
+        "promo_bonus": {
+            "hp": 2,
+            "str": 1,
+            "mag": 2,
+            "skl": 1,
+            "spd": 1,
+            "def": 1,
+            "res": 2,
+            "con": 1,
+            "mov": 1
+        },
+        "cap": {
+            "hp": 40,
+            "str": 24,
+            "mag": 15,
+            "skl": 30,
+            "spd": 30,
+            "lck": 30,
+            "def": 23,
+            "res": 15
+        },
+        "rank": {
+            "min": {
+                "sword": 71
+            },
+            "max": {
+                "sword": 331
+            }
+        }
+    },
+    "swordmastersp": {
+        "name": "Swordmaster (SP)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove",
+            "crtplus10"
+        ],
+        "base": {
+            "hp": 35,
+            "str": 17,
+            "mag": 8,
+            "skl": 22,
+            "spd": 23,
+            "lck": 0,
+            "def": 15,
+            "res": 12,
+            "con": 11,
+            "wt": 11,
+            "mov": 7,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 95,
+            "str": 70,
+            "mag": 55,
+            "skl": 85,
+            "spd": 80,
+            "lck": 75,
+            "def": 50,
+            "res": 55
+        },
+        "cap": {
+            "hp": 53,
+            "str": 30,
+            "mag": 18,
+            "skl": 38,
+            "spd": 38,
+            "lck": 30,
+            "def": 24,
+            "res": 22
+        },
+        "rank": {
+            "min": {
+                "sword": 181
+            },
+            "max": {
+                "sword": 251
+            }
+        }
+    },
+    "thief": {
+        "name": "Thief",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove",
+            "steal"
+        ],
+        "base": {
+            "hp": 16,
+            "str": 5,
+            "mag": 0,
+            "skl": 6,
+            "spd": 10,
+            "lck": 0,
+            "def": 3,
+            "res": 0,
+            "con": 9,
+            "wt": 9,
+            "mov": 7,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 55,
+            "str": 40,
+            "mag": 10,
+            "skl": 55,
+            "spd": 45,
+            "lck": 70,
+            "def": 40,
+            "res": 30
+        },
+        "cap": {
+            "hp": 30,
+            "str": 15,
+            "mag": 10,
+            "skl": 20,
+            "spd": 20,
+            "lck": 40,
+            "def": 15,
+            "res": 10
+        },
+        "rank": {
+            "min": {
+                "knife": 31
+            },
+            "max": {
+                "knife": 181
+            }
+        }
+    },
+    "thundermagef": {
+        "name": "Thunder Mage (F)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 16,
+            "str": 1,
+            "mag": 3,
+            "skl": 3,
+            "spd": 4,
+            "lck": 0,
+            "def": 1,
+            "res": 5,
+            "con": 5,
+            "wt": 5,
+            "mov": 5,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 60,
+            "str": 15,
+            "mag": 65,
+            "skl": 50,
+            "spd": 55,
+            "lck": 20,
+            "def": 25,
+            "res": 65
+        },
+        "cap": {
+            "hp": 30,
+            "str": 10,
+            "mag": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 10,
+            "res": 20
+        },
+        "rank": {
+            "min": {
+                "thunder": 31
+            },
+            "max": {
+                "thunder": 181
+            }
+        }
+    },
+    "thundermagem": {
+        "name": "Thunder Mage (M)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 16,
+            "str": 5,
+            "mag": 5,
+            "skl": 7,
+            "spd": 6,
+            "lck": 0,
+            "def": 2,
+            "res": 5,
+            "con": 9,
+            "wt": 9,
+            "mov": 5,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 55,
+            "str": 15,
+            "mag": 65,
+            "skl": 45,
+            "spd": 45,
+            "lck": 20,
+            "def": 30,
+            "res": 45
+        },
+        "cap": {
+            "hp": 30,
+            "str": 10,
+            "mag": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 10,
+            "res": 20
+        },
+        "rank": {
+            "min": {
+                "thunder": 31
+            },
+            "max": {
+                "thunder": 181
+            }
+        }
+    },
+    "thundersagef": {
+        "name": "Thunder Sage (F)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 30,
+            "str": 4,
+            "mag": 10,
+            "skl": 6,
+            "spd": 8,
+            "lck": 0,
+            "def": 3,
+            "res": 11,
+            "con": 6,
+            "wt": 6,
+            "mov": 6,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 55,
+            "str": 10,
+            "mag": 55,
+            "skl": 45,
+            "spd": 50,
+            "lck": 20,
+            "def": 20,
+            "res": 55
+        },
+        "promo_bonus": {
+            "hp": 2,
+            "str": 3,
+            "mag": 1,
+            "skl": 1,
+            "spd": 1,
+            "def": 3,
+            "res": 1,
+            "con": 1,
+            "mov": 1
+        },
+        "cap": {
+            "hp": 40,
+            "str": 15,
+            "mag": 26,
+            "skl": 23,
+            "spd": 24,
+            "lck": 30,
+            "def": 15,
+            "res": 25
+        },
+        "rank": {
+            "min": {
+                "fire": 1,
+                "thunder": 71,
+                "wind": 1
+            },
+            "max": {
+                "fire": 181,
+                "thunder": 251,
+                "wind": 181
+            }
+        }
+    },
+    "thundersagem": {
+        "name": "Thunder Sage (M)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 29,
+            "str": 11,
+            "mag": 18,
+            "skl": 16,
+            "spd": 15,
+            "lck": 0,
+            "def": 10,
+            "res": 14,
+            "con": 10,
+            "wt": 10,
+            "mov": 6,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 50,
+            "str": 10,
+            "mag": 35,
+            "skl": 25,
+            "spd": 35,
+            "lck": 50,
+            "def": 25,
+            "res": 35
+        },
+        "cap": {
+            "hp": 40,
+            "str": 15,
+            "mag": 26,
+            "skl": 23,
+            "spd": 24,
+            "lck": 30,
+            "def": 17,
+            "res": 23
+        },
+        "rank": {
+            "min": {
+                "fire": 1,
+                "thunder": 71,
+                "wind": 1
+            },
+            "max": {
+                "fire": 181,
+                "thunder": 251,
+                "wind": 181
+            }
+        }
+    },
+    "thundersagesp": {
+        "name": "Thunder Sage (SP)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 34,
+            "str": 13,
+            "mag": 20,
+            "skl": 18,
+            "spd": 17,
+            "lck": 0,
+            "def": 12,
+            "res": 16,
+            "con": 10,
+            "wt": 10,
+            "mov": 6,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 75,
+            "str": 55,
+            "mag": 90,
+            "skl": 75,
+            "spd": 60,
+            "lck": 65,
+            "def": 55,
+            "res": 85
+        },
+        "cap": {
+            "hp": 48,
+            "str": 23,
+            "mag": 37,
+            "skl": 32,
+            "spd": 28,
+            "lck": 30,
+            "def": 22,
+            "res": 32
+        },
+        "rank": {
+            "min": {
+                "fire": 31,
+                "thunder": 181,
+                "wind": 31
+            },
+            "max": {
+                "fire": 251,
+                "thunder": 331,
+                "wind": 251
+            }
+        }
+    },
+    "tiger": {
+        "name": "Tiger",
+        "type": "laguz",
+        "gauge": {
+            "unshifted": {
+                "turn": "+8",
+                "battle": "+15"
+            },
+            "shifted": {
+                "turn": "-4",
+                "battle": "-3"
+            }
+        },
+        "wtmod": 9,
+        "promo_bonus": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 36,
+            "str": 6,
+            "mag": 0,
+            "skl": 6,
+            "spd": 5,
+            "lck": 0,
+            "def": 4,
+            "res": 1,
+            "con": 12,
+            "wt": 21,
+            "mov": 7,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 100,
+            "str": 45,
+            "mag": 5,
+            "skl": 30,
+            "spd": 25,
+            "lck": 50,
+            "def": 40,
+            "res": 15
+        },
+        "cap": {
+            "hp": 75,
+            "str": 23,
+            "mag": 5,
+            "skl": 18,
+            "spd": 15,
+            "lck": 30,
+            "def": 22,
+            "res": 10
+        },
+        "rank": {
+            "min": {
+                "strike": 181
+            },
+            "max": {
+                "strike": 331
+            }
+        },
+        "trans": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "def": 0,
+            "res": 0,
+            "con": 10,
+            "wt": 21,
+            "mov": 2,
+            "vision": 1
+        },
+        "laguz_weapon": [
+            "fangtigerss",
+            "fangtigers",
+            "fangtigera"
+        ]
+    },
+    "truebladef": {
+        "name": "Trueblade (F)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "trans": false,
+        "skill": [
+            "shove",
+            "crtplus20",
+            "astra"
+        ],
+        "base": {
+            "hp": 48,
+            "str": 18,
+            "mag": 3,
+            "skl": 23,
+            "spd": 23,
+            "lck": 0,
+            "def": 14,
+            "res": 8,
+            "con": 8,
+            "wt": 8,
+            "mov": 7,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "str": 3,
+            "mag": 4,
+            "skl": 2,
+            "spd": 2,
+            "def": 3,
+            "res": 4,
+            "con": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 50,
+            "str": 31,
+            "mag": 20,
+            "skl": 40,
+            "spd": 40,
+            "lck": 35,
+            "def": 25,
+            "res": 26
+        },
+        "rank": {
+            "min": {
+                "sword": 181
+            },
+            "max": {
+                "sword": 331
+            }
+        }
+    },
+    "truebladem": {
+        "name": "Trueblade (M)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "trans": false,
+        "skill": [
+            "shove",
+            "crtplus20",
+            "astra"
+        ],
+        "base": {
+            "hp": 49,
+            "str": 19,
+            "mag": 3,
+            "skl": 23,
+            "spd": 21,
+            "lck": 0,
+            "def": 16,
+            "res": 6,
+            "con": 11,
+            "wt": 11,
+            "mov": 7,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "str": 2,
+            "mag": 4,
+            "skl": 2,
+            "spd": 2,
+            "def": 2,
+            "res": 4,
+            "con": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 55,
+            "str": 32,
+            "mag": 20,
+            "skl": 40,
+            "spd": 40,
+            "lck": 30,
+            "def": 26,
+            "res": 24
+        },
+        "rank": {
+            "min": {
+                "sword": 181
+            },
+            "max": {
+                "sword": 331
+            }
+        }
+    },
+    "valkyrie": {
+        "name": "Valkyrie",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 20,
+        "trans": false,
+        "skill": [
+            "canto",
+            "sol"
+        ],
+        "base": {
+            "hp": 43,
+            "str": 6,
+            "mag": 16,
+            "skl": 18,
+            "spd": 20,
+            "lck": 0,
+            "def": 9,
+            "res": 22,
+            "con": 6,
+            "wt": 26,
+            "mov": 9,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 50,
+            "str": 25,
+            "mag": 45,
+            "skl": 45,
+            "spd": 30,
+            "lck": 85,
+            "def": 30,
+            "res": 40
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "str": 5,
+            "mag": 2,
+            "skl": 2,
+            "spd": 2,
+            "def": 5,
+            "res": 2,
+            "con": 0,
+            "mov": 2
+        },
+        "cap": {
+            "hp": 50,
+            "str": 25,
+            "mag": 35,
+            "skl": 35,
+            "spd": 34,
+            "lck": 35,
+            "def": 24,
+            "res": 36
+        },
+        "rank": {
+            "min": {
+                "sword": 121,
+                "staff": 181
+            },
+            "max": {
+                "sword": 331,
+                "staff": 251
+            }
+        }
+    },
+    "vanguard": {
+        "name": "Vanguard",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 3,
+        "trans": false,
+        "skill": [
+            "shove",
+            "aether",
+            "nihil"
+        ],
+        "base": {
+            "hp": 53,
+            "str": 19,
+            "mag": 3,
+            "skl": 23,
+            "spd": 19,
+            "lck": 0,
+            "def": 17,
+            "res": 6,
+            "con": 12,
+            "wt": 15,
+            "mov": 7,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 80,
+            "str": 50,
+            "mag": 10,
+            "skl": 70,
+            "spd": 40,
+            "lck": 30,
+            "def": 40,
+            "res": 15
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "str": 2,
+            "mag": 4,
+            "skl": 2,
+            "spd": 2,
+            "def": 2,
+            "res": 4,
+            "con": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 65,
+            "str": 37,
+            "mag": 15,
+            "skl": 40,
+            "spd": 37,
+            "lck": 30,
+            "def": 32,
+            "res": 23
+        },
+        "rank": {
+            "min": {
+                "sword": 251,
+                "axe": 181
+            },
+            "max": {
+                "sword": 331,
+                "axe": 331
+            }
+        }
+    },
+    "vendor": {
+        "name": "Vendor",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [],
+        "base": {
+            "hp": 25,
+            "str": 14,
+            "mag": 10,
+            "skl": 5,
+            "spd": 14,
+            "lck": 0,
+            "def": 6,
+            "res": 14,
+            "con": 6,
+            "wt": 6,
+            "mov": 6,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "cap": {
+            "hp": 40,
+            "str": 20,
+            "mag": 10,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 15
+        },
+        "rank": {
+            "min": {},
+            "max": {}
+        }
+    },
+    "warrior": {
+        "name": "Warrior",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 1,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 36,
+            "str": 19,
+            "mag": 3,
+            "skl": 18,
+            "spd": 18,
+            "lck": 0,
+            "def": 13,
+            "res": 8,
+            "con": 13,
+            "wt": 14,
+            "mov": 7,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 65,
+            "str": 50,
+            "mag": 10,
+            "skl": 30,
+            "spd": 35,
+            "lck": 50,
+            "def": 40,
+            "res": 20
+        },
+        "promo_bonus": {
+            "hp": 2,
+            "str": 1,
+            "mag": 2,
+            "skl": 1,
+            "spd": 1,
+            "def": 1,
+            "res": 2,
+            "con": 1,
+            "mov": 1
+        },
+        "cap": {
+            "hp": 53,
+            "str": 30,
+            "mag": 5,
+            "skl": 26,
+            "spd": 27,
+            "lck": 30,
+            "def": 23,
+            "res": 13
+        },
+        "rank": {
+            "min": {
+                "axe": 31
+            },
+            "max": {
+                "axe": 251
+            }
+        }
+    },
+    "warriorsp": {
+        "name": "Warrior (SP)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 1,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 41,
+            "str": 21,
+            "mag": 5,
+            "skl": 20,
+            "spd": 20,
+            "lck": 0,
+            "def": 15,
+            "res": 10,
+            "con": 13,
+            "wt": 14,
+            "mov": 7,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 125,
+            "str": 90,
+            "mag": 15,
+            "skl": 75,
+            "spd": 70,
+            "lck": 75,
+            "def": 70,
+            "res": 40
+        },
+        "cap": {
+            "hp": 65,
+            "str": 38,
+            "mag": 8,
+            "skl": 34,
+            "spd": 33,
+            "lck": 30,
+            "def": 28,
+            "res": 18
+        },
+        "rank": {
+            "min": {
+                "axe": 31
+            },
+            "max": {
+                "axe": 331
+            }
+        }
+    },
+    "whisperf": {
+        "name": "Whisper (F)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "trans": false,
+        "skill": [
+            "shove",
+            "steal",
+            "bane"
+        ],
+        "base": {
+            "hp": 46,
+            "str": 18,
+            "mag": 4,
+            "skl": 19,
+            "spd": 20,
+            "lck": 0,
+            "def": 15,
+            "res": 7,
+            "con": 7,
+            "wt": 7,
+            "mov": 7,
+            "vision": 5
+        },
+        "growth": {
+            "hp": 65,
+            "str": 45,
+            "mag": 30,
+            "skl": 55,
+            "spd": 70,
+            "lck": 40,
+            "def": 15,
+            "res": 25
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "str": 3,
+            "mag": 4,
+            "skl": 2,
+            "spd": 2,
+            "def": 3,
+            "res": 4,
+            "con": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 50,
+            "str": 28,
+            "mag": 20,
+            "skl": 38,
+            "spd": 40,
+            "lck": 35,
+            "def": 25,
+            "res": 26
+        },
+        "rank": {
+            "min": {
+                "knife": 181
+            },
+            "max": {
+                "knife": 331
+            }
+        }
+    },
+    "whisperm": {
+        "name": "Whisper (M)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "trans": false,
+        "skill": [
+            "shove",
+            "steal",
+            "bane"
+        ],
+        "base": {
+            "hp": 47,
+            "str": 18,
+            "mag": 4,
+            "skl": 18,
+            "spd": 21,
+            "lck": 0,
+            "def": 15,
+            "res": 6,
+            "con": 10,
+            "wt": 10,
+            "mov": 7,
+            "vision": 5
+        },
+        "growth": {
+            "hp": 70,
+            "str": 35,
+            "mag": 15,
+            "skl": 60,
+            "spd": 55,
+            "lck": 40,
+            "def": 35,
+            "res": 20
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "str": 2,
+            "mag": 4,
+            "skl": 2,
+            "spd": 2,
+            "def": 2,
+            "res": 4,
+            "con": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 50,
+            "str": 28,
+            "mag": 20,
+            "skl": 38,
+            "spd": 40,
+            "lck": 35,
+            "def": 26,
+            "res": 25
+        },
+        "rank": {
+            "min": {
+                "knife": 181
+            },
+            "max": {
+                "knife": 331
+            }
+        }
+    },
+    "whitedragon": {
+        "name": "White Dragon",
+        "type": "laguz",
+        "gauge": {
+            "unshifted": {
+                "turn": "+4",
+                "battle": "+5"
+            },
+            "shifted": {
+                "turn": "-2",
+                "battle": "-1"
+            }
+        },
+        "wtmod": 7,
+        "promo_bonus": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 49,
+            "str": 4,
+            "mag": 14,
+            "skl": 7,
+            "spd": 4,
+            "lck": 0,
+            "def": 9,
+            "res": 11,
+            "con": 12,
+            "wt": 19,
+            "mov": 5,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 90,
+            "str": 10,
+            "mag": 25,
+            "skl": 15,
+            "spd": 10,
+            "lck": 50,
+            "def": 10,
+            "res": 30
+        },
+        "cap": {
+            "hp": 90,
+            "str": 10,
+            "mag": 25,
+            "skl": 15,
+            "spd": 10,
+            "lck": 30,
+            "def": 15,
+            "res": 23
+        },
+        "rank": {
+            "min": {
+                "strike": 181
+            },
+            "max": {
+                "strike": 331
+            }
+        },
+        "trans": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "def": 0,
+            "res": 0,
+            "con": 24,
+            "wt": 57,
+            "mov": 1
+        },
+        "laguz_weapon": [
+            "whitebreathss",
+            "whitebreaths",
+            "whitebreatha"
+        ]
+    },
+    "windmage": {
+        "name": "Wind Mage",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 16,
+            "str": 3,
+            "mag": 6,
+            "skl": 6,
+            "spd": 7,
+            "lck": 0,
+            "def": 2,
+            "res": 6,
+            "con": 9,
+            "wt": 9,
+            "mov": 5,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 60,
+            "str": 20,
+            "mag": 65,
+            "skl": 40,
+            "spd": 40,
+            "lck": 20,
+            "def": 30,
+            "res": 45
+        },
+        "cap": {
+            "hp": 30,
+            "str": 10,
+            "mag": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 10,
+            "res": 20
+        },
+        "rank": {
+            "min": {
+                "wind": 31
+            },
+            "max": {
+                "wind": 181
+            }
+        }
+    },
+    "windsage": {
+        "name": "Wind Sage",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 29,
+            "str": 9,
+            "mag": 19,
+            "skl": 15,
+            "spd": 16,
+            "lck": 0,
+            "def": 10,
+            "res": 15,
+            "con": 10,
+            "wt": 10,
+            "mov": 6,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 50,
+            "str": 20,
+            "mag": 35,
+            "skl": 30,
+            "spd": 25,
+            "lck": 50,
+            "def": 25,
+            "res": 30
+        },
+        "cap": {
+            "hp": 40,
+            "str": 15,
+            "mag": 27,
+            "skl": 23,
+            "spd": 23,
+            "lck": 30,
+            "def": 17,
+            "res": 23
+        },
+        "rank": {
+            "min": {
+                "fire": 1,
+                "thunder": 1,
+                "wind": 71
+            },
+            "max": {
+                "fire": 181,
+                "thunder": 181,
+                "wind": 251
+            }
+        }
+    },
+    "windsagesp": {
+        "name": "Wind Sage (SP)",
+        "type": "beorc",
+        "gauge": 0,
+        "wtmod": 0,
+        "promo_bonus": false,
+        "trans": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 34,
+            "str": 11,
+            "mag": 21,
+            "skl": 17,
+            "spd": 18,
+            "lck": 0,
+            "def": 12,
+            "res": 17,
+            "con": 10,
+            "wt": 10,
+            "mov": 6,
+            "vision": 3
+        },
+        "growth": {
+            "hp": 75,
+            "str": 55,
+            "mag": 90,
+            "skl": 80,
+            "spd": 60,
+            "lck": 65,
+            "def": 55,
+            "res": 80
+        },
+        "cap": {
+            "hp": 48,
+            "str": 21,
+            "mag": 38,
+            "skl": 32,
+            "spd": 29,
+            "lck": 30,
+            "def": 22,
+            "res": 32
+        },
+        "rank": {
+            "min": {
+                "fire": 31,
+                "thunder": 31,
+                "wind": 181
+            },
+            "max": {
+                "fire": 251,
+                "thunder": 251,
+                "wind": 331
+            }
+        }
+    },
+    "wolf": {
+        "name": "Wolf",
+        "type": "laguz",
+        "gauge": {
+            "unshifted": {
+                "turn": "+6",
+                "battle": "+10"
+            },
+            "shifted": {
+                "turn": "-4",
+                "battle": "-3"
+            }
+        },
+        "wtmod": 7,
+        "promo_bonus": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 49,
+            "str": 11,
+            "mag": 2,
+            "skl": 12,
+            "spd": 13,
+            "lck": 0,
+            "def": 9,
+            "res": 5,
+            "con": 9,
+            "wt": 16,
+            "mov": 7,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 95,
+            "str": 25,
+            "mag": 15,
+            "skl": 35,
+            "spd": 40,
+            "lck": 90,
+            "def": 15,
+            "res": 10
+        },
+        "cap": {
+            "hp": 70,
+            "str": 20,
+            "mag": 7,
+            "skl": 23,
+            "spd": 18,
+            "lck": 35,
+            "def": 15,
+            "res": 10
+        },
+        "rank": {
+            "min": {
+                "strike": 181
+            },
+            "max": {
+                "strike": 331
+            }
+        },
+        "trans": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "def": 0,
+            "res": 0,
+            "con": 9,
+            "wt": 22,
+            "mov": 2,
+            "vision": 1
+        },
+        "laguz_weapon": [
+            "fangwolfss",
+            "fangwolfs",
+            "fangwolfa"
+        ]
+    },
+    "wolfqueen": {
+        "name": "Wolf Queen",
+        "type": "laguz",
+        "gauge": {
+            "unshifted": {
+                "turn": "+6",
+                "battle": "+10"
+            },
+            "shifted": {
+                "turn": "-4",
+                "battle": "-3"
+            }
+        },
+        "wtmod": 7,
+        "promo_bonus": false,
+        "skill": [
+            "shove"
+        ],
+        "base": {
+            "hp": 66,
+            "str": 17,
+            "mag": 5,
+            "skl": 23,
+            "spd": 19,
+            "lck": 0,
+            "def": 16,
+            "res": 13,
+            "con": 6,
+            "wt": 13,
+            "mov": 7,
+            "vision": 4
+        },
+        "growth": {
+            "hp": 60,
+            "str": 30,
+            "mag": 15,
+            "skl": 20,
+            "spd": 20,
+            "lck": 45,
+            "def": 30,
+            "res": 30
+        },
+        "cap": {
+            "hp": 70,
+            "str": 20,
+            "mag": 7,
+            "skl": 24,
+            "spd": 20,
+            "lck": 40,
+            "def": 20,
+            "res": 15
+        },
+        "rank": {
+            "min": {
+                "strike": 331
+            },
+            "max": {
+                "strike": 331
+            }
+        },
+        "trans": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "def": 0,
+            "res": 0,
+            "con": 10,
+            "wt": 23,
+            "mov": 2,
+            "vision": 1
+        },
+        "laguz_weapon": [
+            "greatfangwolfqueenss",
+            "greatfangwolfqueens",
+            "greatfangwolfqueena"
+        ]
+    }
+}

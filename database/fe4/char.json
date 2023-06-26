@@ -1,0 +1,1748 @@
+{
+    "edain": {
+        "name": "Edain",
+        "portrait": "aideen.png",
+        "promo": "highpriest",
+        "gold": 5000,
+        "job": "priest",
+        "lvl": 3,
+        "type": "fixed",
+        "skill": [],
+        "base": {
+            "hp": 28,
+            "str": 0,
+            "mag": 6,
+            "skl": 2,
+            "spd": 3,
+            "lck": 11,
+            "def": 0,
+            "res": 3
+        },
+        "blood": {
+            "ullr": false
+        },
+        "growth": {
+            "hp": 50,
+            "str": 20,
+            "mag": 30,
+            "skl": 20,
+            "spd": 30,
+            "lck": 30,
+            "def": 20,
+            "res": 5
+        }
+    },
+    "alec": {
+        "name": "Alec",
+        "portrait": "alec.png",
+        "promo": "paladinm",
+        "gold": 2000,
+        "job": "cavalier",
+        "lvl": 2,
+        "type": "fixed",
+        "skill": [
+            "pursuit",
+            "nihil"
+        ],
+        "base": {
+            "hp": 32,
+            "str": 2,
+            "mag": 0,
+            "skl": 3,
+            "spd": 4,
+            "lck": 4,
+            "def": 1,
+            "res": 0
+        },
+        "blood": {},
+        "growth": {
+            "hp": 70,
+            "str": 30,
+            "mag": 5,
+            "skl": 40,
+            "spd": 30,
+            "lck": 30,
+            "def": 30,
+            "res": 5
+        }
+    },
+    "altena": {
+        "name": "Altena",
+        "portrait": "altena.png",
+        "promo": "wyvernlord",
+        "gold": "2000 + Inheritance Gold",
+        "job": "wyvernrider",
+        "lvl": 17,
+        "type": "child",
+        "mother": "ethlyn",
+        "father": "quan",
+        "influence": "father"
+    },
+    "amid": {
+        "name": "Amid",
+        "portrait": "amid.png",
+        "promo": "magefighterm",
+        "gold": 3000,
+        "job": "windmage",
+        "lvl": 2,
+        "type": "fixed",
+        "skill": [
+            "adept"
+        ],
+        "base": {
+            "hp": 29,
+            "str": 1,
+            "mag": 4,
+            "skl": 4,
+            "spd": 5,
+            "lck": 6,
+            "def": 3,
+            "res": 4
+        },
+        "blood": {
+            "thrud": false
+        },
+        "growth": {
+            "hp": 70,
+            "str": 20,
+            "mag": 40,
+            "skl": 20,
+            "spd": 40,
+            "lck": 20,
+            "def": 20,
+            "res": 20
+        }
+    },
+    "arden": {
+        "name": "Arden",
+        "portrait": "arden.png",
+        "promo": "general",
+        "gold": 2000,
+        "job": "swordarmor",
+        "lvl": 3,
+        "type": "fixed",
+        "skill": [
+            "vantage"
+        ],
+        "base": {
+            "hp": 36,
+            "str": 4,
+            "mag": 0,
+            "skl": 0,
+            "spd": 1,
+            "lck": 3,
+            "def": 3,
+            "res": 0
+        },
+        "blood": {},
+        "growth": {
+            "hp": 90,
+            "str": 50,
+            "mag": 5,
+            "skl": 10,
+            "spd": 20,
+            "lck": 10,
+            "def": 40,
+            "res": 5
+        }
+    },
+    "ares": {
+        "name": "Ares",
+        "portrait": "ares.png",
+        "promo": "paladinm",
+        "gold": 3000,
+        "job": "cavalier",
+        "lvl": 7,
+        "type": "fixed",
+        "skill": [
+            "pursuit",
+            "adept",
+            "vantage"
+        ],
+        "base": {
+            "hp": 40,
+            "str": 6,
+            "mag": 4,
+            "skl": 6,
+            "spd": 7,
+            "lck": 6,
+            "def": 6,
+            "res": 4
+        },
+        "blood": {
+            "hodr": true
+        },
+        "growth": {
+            "hp": 90,
+            "str": 30,
+            "mag": 5,
+            "skl": 20,
+            "spd": 30,
+            "lck": 50,
+            "def": 40,
+            "res": 30
+        }
+    },
+    "arthur": {
+        "name": "Arthur",
+        "portrait": "arthur.png",
+        "promo": "mageknight",
+        "gold": "2000 + Inheritance Gold",
+        "job": "mage",
+        "lvl": 2,
+        "type": "child",
+        "mother": "tailtiu",
+        "father": false,
+        "influence": "father"
+    },
+    "asaello": {
+        "name": "Asaello",
+        "portrait": "asaello.png",
+        "promo": "sniper",
+        "gold": 2000,
+        "job": "archer",
+        "lvl": 9,
+        "type": "fixed",
+        "skill": [
+            "accost"
+        ],
+        "base": {
+            "hp": 36,
+            "str": 5,
+            "mag": 1,
+            "skl": 5,
+            "spd": 5,
+            "lck": 3,
+            "def": 5,
+            "res": 1
+        },
+        "blood": {},
+        "growth": {
+            "hp": 90,
+            "str": 40,
+            "mag": 5,
+            "skl": 10,
+            "spd": 20,
+            "lck": 60,
+            "def": 30,
+            "res": 5
+        }
+    },
+    "ayra": {
+        "name": "Ayra",
+        "portrait": "ayra.png",
+        "promo": "swordmaster",
+        "gold": 3000,
+        "job": "myrmidon",
+        "lvl": 4,
+        "type": "fixed",
+        "skill": [
+            "nihil",
+            "astra"
+        ],
+        "base": {
+            "hp": 32,
+            "str": 4,
+            "mag": 0,
+            "skl": 6,
+            "spd": 7,
+            "lck": 3,
+            "def": 2,
+            "res": 1
+        },
+        "blood": {
+            "od": false
+        },
+        "growth": {
+            "hp": 50,
+            "str": 30,
+            "mag": 5,
+            "skl": 30,
+            "spd": 30,
+            "lck": 20,
+            "def": 20,
+            "res": 5
+        }
+    },
+    "azelle": {
+        "name": "Azelle",
+        "portrait": "azel.png",
+        "promo": "mageknight",
+        "gold": 5000,
+        "job": "mage",
+        "lvl": 1,
+        "type": "fixed",
+        "skill": [
+            "pursuit"
+        ],
+        "base": {
+            "hp": 30,
+            "str": 0,
+            "mag": 3,
+            "skl": 1,
+            "spd": 3,
+            "lck": 2,
+            "def": 1,
+            "res": 1
+        },
+        "blood": {
+            "fjalar": false
+        },
+        "growth": {
+            "hp": 50,
+            "str": 10,
+            "mag": 10,
+            "skl": 20,
+            "spd": 50,
+            "lck": 20,
+            "def": 20,
+            "res": 10
+        }
+    },
+    "beowulf": {
+        "name": "Beowulf",
+        "portrait": "beowulf.png",
+        "promo": "ranger",
+        "gold": 2000,
+        "job": "freeknight",
+        "lvl": 9,
+        "type": "fixed",
+        "skill": [
+            "pursuit",
+            "accost"
+        ],
+        "base": {
+            "hp": 38,
+            "str": 7,
+            "mag": 0,
+            "skl": 5,
+            "spd": 5,
+            "lck": 3,
+            "def": 4,
+            "res": 0
+        },
+        "blood": {},
+        "growth": {
+            "hp": 80,
+            "str": 40,
+            "mag": 0,
+            "skl": 40,
+            "spd": 30,
+            "lck": 20,
+            "def": 30,
+            "res": 5
+        }
+    },
+    "brigid": {
+        "name": "Brigid",
+        "portrait": "brigid.png",
+        "promo": false,
+        "gold": 10000,
+        "job": "sniper",
+        "lvl": 12,
+        "type": "fixed",
+        "skill": [],
+        "base": {
+            "hp": 40,
+            "str": 8,
+            "mag": 0,
+            "skl": 10,
+            "spd": 9,
+            "lck": 7,
+            "def": 7,
+            "res": 6
+        },
+        "blood": {
+            "ullr": true
+        },
+        "growth": {
+            "hp": 50,
+            "str": 30,
+            "mag": 20,
+            "skl": 30,
+            "spd": 20,
+            "lck": 10,
+            "def": 20,
+            "res": 5
+        }
+    },
+    "ced": {
+        "name": "Ced",
+        "portrait": "ced.png",
+        "promo": false,
+        "gold": "2000 + Inheritance Gold",
+        "job": "sage",
+        "lvl": 14,
+        "type": "child",
+        "mother": "erinys",
+        "father": false,
+        "influence": "father"
+    },
+    "charlot": {
+        "name": "Charlot",
+        "portrait": "sharlow.png",
+        "promo": "highpriest",
+        "gold": 5000,
+        "job": "priest",
+        "lvl": 1,
+        "type": "fixed",
+        "skill": [
+            "paragon"
+        ],
+        "base": {
+            "hp": 24,
+            "str": 0,
+            "mag": 4,
+            "skl": 2,
+            "spd": 3,
+            "lck": 3,
+            "def": 2,
+            "res": 2
+        },
+        "blood": {},
+        "growth": {
+            "hp": 70,
+            "str": 10,
+            "mag": 50,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 10,
+            "res": 30
+        }
+    },
+    "chulainn": {
+        "name": "Chulainn",
+        "portrait": "holyn.png",
+        "promo": "hero",
+        "gold": 10000,
+        "job": "myrmidon",
+        "lvl": 12,
+        "type": "fixed",
+        "skill": [
+            "luna"
+        ],
+        "base": {
+            "hp": 40,
+            "str": 7,
+            "mag": 0,
+            "skl": 7,
+            "spd": 7,
+            "lck": 1,
+            "def": 6,
+            "res": 1
+        },
+        "blood": {
+            "od": false
+        },
+        "growth": {
+            "hp": 90,
+            "str": 30,
+            "mag": 5,
+            "skl": 50,
+            "spd": 30,
+            "lck": 20,
+            "def": 30,
+            "res": 5
+        }
+    },
+    "claud": {
+        "name": "Claud",
+        "portrait": "claud.png",
+        "promo": false,
+        "gold": 10000,
+        "job": "highpriest",
+        "lvl": 20,
+        "type": "fixed",
+        "skill": [],
+        "base": {
+            "hp": 34,
+            "str": 0,
+            "mag": 9,
+            "skl": 5,
+            "spd": 7,
+            "lck": 9,
+            "def": 2,
+            "res": 12
+        },
+        "blood": {
+            "bragi": true
+        },
+        "growth": {
+            "hp": 50,
+            "str": 10,
+            "mag": 20,
+            "skl": 20,
+            "spd": 30,
+            "lck": 30,
+            "def": 20,
+            "res": 10
+        }
+    },
+    "coirpre": {
+        "name": "Coirpre",
+        "portrait": "coirpre.png",
+        "promo": "highpriest",
+        "gold": "2000 + Inheritance Gold",
+        "job": "priest",
+        "lvl": 1,
+        "type": "child",
+        "mother": "silvia",
+        "father": false,
+        "influence": "father"
+    },
+    "creidne": {
+        "name": "Creidne",
+        "portrait": "radney.png",
+        "promo": "hero",
+        "gold": 2000,
+        "job": "myrmidon",
+        "lvl": 1,
+        "type": "fixed",
+        "skill": [],
+        "base": {
+            "hp": 28,
+            "str": 2,
+            "mag": 0,
+            "skl": 3,
+            "spd": 5,
+            "lck": 3,
+            "def": 2,
+            "res": 1
+        },
+        "blood": {},
+        "growth": {
+            "hp": 70,
+            "str": 40,
+            "mag": 5,
+            "skl": 30,
+            "spd": 40,
+            "lck": 20,
+            "def": 30,
+            "res": 20
+        }
+    },
+    "daisy": {
+        "name": "Daisy",
+        "portrait": "daisy.png",
+        "promo": "thieffighter",
+        "gold": 5000,
+        "job": "thief",
+        "lvl": 1,
+        "type": "fixed",
+        "skill": [
+            "miracle"
+        ],
+        "base": {
+            "hp": 24,
+            "str": 0,
+            "mag": 1,
+            "skl": 1,
+            "spd": 6,
+            "lck": 6,
+            "def": 1,
+            "res": 3
+        },
+        "blood": {},
+        "growth": {
+            "hp": 50,
+            "str": 10,
+            "mag": 10,
+            "skl": 30,
+            "spd": 50,
+            "lck": 30,
+            "def": 20,
+            "res": 10
+        }
+    },
+    "dalvin": {
+        "name": "Dalvin",
+        "portrait": "roddlevan.png",
+        "promo": "hero",
+        "gold": 2000,
+        "job": "myrmidon",
+        "lvl": 1,
+        "type": "fixed",
+        "skill": [
+            "vantage"
+        ],
+        "base": {
+            "hp": 30,
+            "str": 3,
+            "mag": 0,
+            "skl": 3,
+            "spd": 3,
+            "lck": 4,
+            "def": 3,
+            "res": 0
+        },
+        "blood": {},
+        "growth": {
+            "hp": 80,
+            "str": 30,
+            "mag": 5,
+            "skl": 50,
+            "spd": 30,
+            "lck": 20,
+            "def": 30,
+            "res": 5
+        }
+    },
+    "deimne": {
+        "name": "Deimne",
+        "portrait": "dimna.png",
+        "promo": "archknight",
+        "gold": 2000,
+        "job": "bowknight",
+        "lvl": 1,
+        "type": "fixed",
+        "skill": [
+            "pursuit"
+        ],
+        "base": {
+            "hp": 30,
+            "str": 2,
+            "mag": 0,
+            "skl": 1,
+            "spd": 3,
+            "lck": 3,
+            "def": 2,
+            "res": 0
+        },
+        "blood": {},
+        "growth": {
+            "hp": 90,
+            "str": 30,
+            "mag": 5,
+            "skl": 50,
+            "spd": 20,
+            "lck": 30,
+            "def": 40,
+            "res": 5
+        }
+    },
+    "deirdre": {
+        "name": "Deirdre",
+        "portrait": "deirdre.png",
+        "promo": false,
+        "gold": 1000,
+        "job": "shaman",
+        "lvl": 3,
+        "type": "fixed",
+        "skill": [
+            "nihil"
+        ],
+        "base": {
+            "hp": 26,
+            "str": 0,
+            "mag": 6,
+            "skl": 2,
+            "spd": 5,
+            "lck": 6,
+            "def": 0,
+            "res": 6
+        },
+        "blood": {
+            "naga": true,
+            "loptous": false
+        },
+        "growth": {
+            "hp": 40,
+            "str": 10,
+            "mag": 10,
+            "skl": 20,
+            "spd": 10,
+            "lck": 10,
+            "def": 10,
+            "res": 10
+        }
+    },
+    "dew": {
+        "name": "Dew",
+        "portrait": "dew.png",
+        "promo": "thieffighter",
+        "gold": 15000,
+        "job": "thief",
+        "lvl": 1,
+        "type": "fixed",
+        "skill": [
+            "sol",
+            "bargain"
+        ],
+        "base": {
+            "hp": 28,
+            "str": 0,
+            "mag": 0,
+            "skl": 3,
+            "spd": 8,
+            "lck": 12,
+            "def": 0,
+            "res": 0
+        },
+        "blood": {},
+        "growth": {
+            "hp": 50,
+            "str": 40,
+            "mag": 10,
+            "skl": 40,
+            "spd": 40,
+            "lck": 40,
+            "def": 40,
+            "res": 10
+        }
+    },
+    "diarmuid": {
+        "name": "Diarmuid",
+        "portrait": "diarmuid.png",
+        "promo": "ranger",
+        "gold": "2000 + Inheritance Gold",
+        "job": "freeknight",
+        "lvl": 3,
+        "type": "child",
+        "mother": "lachesis",
+        "father": false,
+        "influence": "father"
+    },
+    "erinys": {
+        "name": "Erinys",
+        "portrait": "erin.png",
+        "promo": "falconknight",
+        "gold": 8000,
+        "job": "pegasusknight",
+        "lvl": 6,
+        "type": "fixed",
+        "skill": [
+            "pursuit"
+        ],
+        "base": {
+            "hp": 32,
+            "str": 4,
+            "mag": 1,
+            "skl": 5,
+            "spd": 6,
+            "lck": 7,
+            "def": 4,
+            "res": 2
+        },
+        "blood": {},
+        "growth": {
+            "hp": 50,
+            "str": 20,
+            "mag": 10,
+            "skl": 20,
+            "spd": 30,
+            "lck": 20,
+            "def": 30,
+            "res": 10
+        }
+    },
+    "ethlyn": {
+        "name": "Ethlyn",
+        "portrait": "ethlyn.png",
+        "promo": "paladinf",
+        "gold": 4000,
+        "job": "troubadour",
+        "lvl": 1,
+        "type": "fixed",
+        "skill": [
+            "critical"
+        ],
+        "base": {
+            "hp": 28,
+            "str": 2,
+            "mag": 5,
+            "skl": 5,
+            "spd": 6,
+            "lck": 8,
+            "def": 1,
+            "res": 3
+        },
+        "blood": {
+            "baldr": false
+        },
+        "growth": {
+            "hp": 40,
+            "str": 20,
+            "mag": 5,
+            "skl": 20,
+            "spd": 30,
+            "lck": 10,
+            "def": 20,
+            "res": 10
+        }
+    },
+    "febail": {
+        "name": "Febail",
+        "portrait": "faval.png",
+        "promo": "sniper",
+        "gold": "2000 + Inheritance Gold",
+        "job": "archer",
+        "lvl": 9,
+        "type": "child",
+        "mother": "brigid",
+        "father": false,
+        "influence": "mother"
+    },
+    "fee": {
+        "name": "Fee",
+        "portrait": "fee.png",
+        "promo": "falconknight",
+        "gold": "2000 + Inheritance Gold",
+        "job": "pegasusknight",
+        "lvl": 2,
+        "type": "child",
+        "mother": "erinys",
+        "father": false,
+        "influence": "mother"
+    },
+    "finn": {
+        "name": "Finn",
+        "portrait": "finn.png",
+        "promo": "dukeknight",
+        "gold": 2000,
+        "job": "lanceknight",
+        "lvl": 1,
+        "type": "fixed",
+        "skill": [
+            "pursuit",
+            "miracle"
+        ],
+        "base": {
+            "hp": 32,
+            "str": 2,
+            "mag": 0,
+            "skl": 2,
+            "spd": 4,
+            "lck": 8,
+            "def": 1,
+            "res": 0
+        },
+        "blood": {},
+        "growth": {
+            "hp": 70,
+            "str": 30,
+            "mag": 5,
+            "skl": 40,
+            "spd": 30,
+            "lck": 50,
+            "def": 30,
+            "res": 5
+        }
+    },
+    "hannibal": {
+        "name": "Hannibal",
+        "portrait": "hannibal.png",
+        "promo": false,
+        "gold": 5000,
+        "job": "general",
+        "lvl": 20,
+        "type": "fixed",
+        "skill": [
+            "adept",
+            "vantage"
+        ],
+        "base": {
+            "hp": 60,
+            "str": 10,
+            "mag": 0,
+            "skl": 10,
+            "spd": 6,
+            "lck": 7,
+            "def": 10,
+            "res": 3
+        },
+        "blood": {},
+        "growth": {
+            "hp": 60,
+            "str": 50,
+            "mag": 5,
+            "skl": 10,
+            "spd": 10,
+            "lck": 10,
+            "def": 30,
+            "res": 5
+        }
+    },
+    "hawke": {
+        "name": "Hawke",
+        "portrait": "hawk.png",
+        "promo": false,
+        "gold": 5000,
+        "job": "sage",
+        "lvl": 14,
+        "type": "fixed",
+        "skill": [
+            "pursuit"
+        ],
+        "base": {
+            "hp": 38,
+            "str": 3,
+            "mag": 7,
+            "skl": 6,
+            "spd": 8,
+            "lck": 4,
+            "def": 6,
+            "res": 5
+        },
+        "blood": {},
+        "growth": {
+            "hp": 60,
+            "str": 10,
+            "mag": 20,
+            "skl": 20,
+            "spd": 50,
+            "lck": 20,
+            "def": 20,
+            "res": 10
+        }
+    },
+    "hermina": {
+        "name": "Hermina",
+        "portrait": "femina.png",
+        "promo": "falconknight",
+        "gold": 3000,
+        "job": "pegasusknight",
+        "lvl": 2,
+        "type": "fixed",
+        "skill": [
+            "adept"
+        ],
+        "base": {
+            "hp": 28,
+            "str": 3,
+            "mag": 1,
+            "skl": 2,
+            "spd": 4,
+            "lck": 3,
+            "def": 2,
+            "res": 2
+        },
+        "blood": {},
+        "growth": {
+            "hp": 60,
+            "str": 30,
+            "mag": 10,
+            "skl": 20,
+            "spd": 50,
+            "lck": 50,
+            "def": 20,
+            "res": 5
+        }
+    },
+    "iuchar": {
+        "name": "Iuchar",
+        "portrait": "johan.png",
+        "promo": "greatknight",
+        "gold": 5000,
+        "job": "axeknight",
+        "lvl": 12,
+        "type": "fixed",
+        "skill": [
+            "vantage"
+        ],
+        "HARD_ALT_NAME": [
+            "johan"
+        ],
+        "base": {
+            "hp": 40,
+            "str": 8,
+            "mag": 0,
+            "skl": 4,
+            "spd": 6,
+            "lck": 5,
+            "def": 6,
+            "res": 1
+        },
+        "blood": {
+            "nal": false
+        },
+        "growth": {
+            "hp": 90,
+            "str": 40,
+            "mag": 5,
+            "skl": 20,
+            "spd": 50,
+            "lck": 10,
+            "def": 30,
+            "res": 5
+        }
+    },
+    "iucharba": {
+        "name": "Iucharba",
+        "portrait": "johalvier.png",
+        "promo": "warrior",
+        "gold": 5000,
+        "job": "fighter",
+        "lvl": 12,
+        "type": "fixed",
+        "skill": [
+            "accost"
+        ],
+        "base": {
+            "hp": 42,
+            "str": 8,
+            "mag": 0,
+            "skl": 4,
+            "spd": 6,
+            "lck": 5,
+            "def": 6,
+            "res": 1
+        },
+        "blood": {
+            "nal": false
+        },
+        "growth": {
+            "hp": 90,
+            "str": 40,
+            "mag": 0,
+            "skl": 50,
+            "spd": 10,
+            "lck": 10,
+            "def": 30,
+            "res": 5
+        }
+    },
+    "jamke": {
+        "name": "Jamke",
+        "portrait": "jamke.png",
+        "promo": "sniper",
+        "gold": 5000,
+        "job": "archer",
+        "lvl": 6,
+        "type": "fixed",
+        "skill": [
+            "adept",
+            "accost"
+        ],
+        "base": {
+            "hp": 36,
+            "str": 4,
+            "mag": 0,
+            "skl": 4,
+            "spd": 4,
+            "lck": 4,
+            "def": 4,
+            "res": 0
+        },
+        "blood": {},
+        "growth": {
+            "hp": 90,
+            "str": 50,
+            "mag": 0,
+            "skl": 10,
+            "spd": 30,
+            "lck": 40,
+            "def": 30,
+            "res": 5
+        }
+    },
+    "jeanne": {
+        "name": "Jeanne",
+        "portrait": "janne.png",
+        "promo": "paladinf",
+        "gold": 2000,
+        "job": "troubadour",
+        "lvl": 3,
+        "type": "fixed",
+        "skill": [],
+        "base": {
+            "hp": 30,
+            "str": 3,
+            "mag": 4,
+            "skl": 3,
+            "spd": 5,
+            "lck": 4,
+            "def": 2,
+            "res": 3
+        },
+        "blood": {},
+        "growth": {
+            "hp": 60,
+            "str": 20,
+            "mag": 20,
+            "skl": 50,
+            "spd": 20,
+            "lck": 10,
+            "def": 30,
+            "res": 20
+        }
+    },
+    "julia": {
+        "name": "Julia",
+        "portrait": "julia.png",
+        "promo": "sage",
+        "gold": 2000,
+        "job": "shaman",
+        "lvl": 1,
+        "type": "fixed",
+        "skill": [
+            "pursuit",
+            "adept",
+            "nihil"
+        ],
+        "base": {
+            "hp": 24,
+            "str": 0,
+            "mag": 3,
+            "skl": 1,
+            "spd": 4,
+            "lck": 5,
+            "def": 0,
+            "res": 4
+        },
+        "blood": {
+            "naga": true,
+            "fjalar": false
+        },
+        "growth": {
+            "hp": 50,
+            "str": 10,
+            "mag": 30,
+            "skl": 20,
+            "spd": 30,
+            "lck": 30,
+            "def": 10,
+            "res": 10
+        }
+    },
+    "lachesis": {
+        "name": "Lachesis",
+        "portrait": "lachesis.png",
+        "promo": "masterknight",
+        "gold": 10000,
+        "job": "princess",
+        "lvl": 2,
+        "type": "fixed",
+        "skill": [
+            "charm"
+        ],
+        "base": {
+            "hp": 26,
+            "str": 1,
+            "mag": 1,
+            "skl": 4,
+            "spd": 5,
+            "lck": 5,
+            "def": 2,
+            "res": 2
+        },
+        "blood": {
+            "hodr": false
+        },
+        "growth": {
+            "hp": 40,
+            "str": 20,
+            "mag": 5,
+            "skl": 10,
+            "spd": 20,
+            "lck": 40,
+            "def": 20,
+            "res": 10
+        }
+    },
+    "lana": {
+        "name": "Lana",
+        "portrait": "lana.png",
+        "promo": "highpriest",
+        "gold": "2000 + Inheritance Gold",
+        "job": "priest",
+        "lvl": 1,
+        "type": "child",
+        "mother": "edain",
+        "father": false,
+        "influence": "mother"
+    },
+    "larcei": {
+        "name": "Larcei",
+        "portrait": "larcei.png",
+        "promo": "swordmaster",
+        "gold": "2000 + Inheritance Gold",
+        "job": "myrmidon",
+        "lvl": 1,
+        "type": "child",
+        "mother": "ayra",
+        "father": false,
+        "influence": "mother"
+    },
+    "laylea": {
+        "name": "Laylea",
+        "portrait": "laylea.png",
+        "promo": false,
+        "gold": 3000,
+        "job": "dancer",
+        "lvl": 3,
+        "type": "fixed",
+        "skill": [
+            "charm"
+        ],
+        "base": {
+            "hp": 24,
+            "str": 1,
+            "mag": 0,
+            "skl": 0,
+            "spd": 6,
+            "lck": 4,
+            "def": 0,
+            "res": 1
+        },
+        "blood": {},
+        "growth": {
+            "hp": 50,
+            "str": 50,
+            "mag": 10,
+            "skl": 20,
+            "spd": 40,
+            "lck": 30,
+            "def": 20,
+            "res": 20
+        }
+    },
+    "leif": {
+        "name": "Leif",
+        "portrait": "leif.png",
+        "promo": "masterknight",
+        "gold": "2000 + Inheritance Gold",
+        "job": "prince",
+        "lvl": 1,
+        "type": "child",
+        "mother": "ethlyn",
+        "father": "quan",
+        "influence": "mother"
+    },
+    "lene": {
+        "name": "Lene",
+        "portrait": "lene.png",
+        "promo": false,
+        "gold": "2000 + Inheritance Gold",
+        "job": "dancer",
+        "lvl": 3,
+        "type": "child",
+        "mother": "silvia",
+        "father": false,
+        "influence": "mother"
+    },
+    "lester": {
+        "name": "Lester",
+        "portrait": "lester.png",
+        "promo": "archknight",
+        "gold": "2000 + Inheritance Gold",
+        "job": "bowknight",
+        "lvl": 1,
+        "type": "child",
+        "mother": "edain",
+        "father": false,
+        "influence": "father"
+    },
+    "lewyn": {
+        "name": "Lewyn",
+        "portrait": "lewyn.png",
+        "promo": "sage",
+        "gold": 8000,
+        "job": "bard",
+        "lvl": 6,
+        "type": "fixed",
+        "skill": [
+            "adept",
+            "critical"
+        ],
+        "base": {
+            "hp": 34,
+            "str": 1,
+            "mag": 5,
+            "skl": 5,
+            "spd": 6,
+            "lck": 7,
+            "def": 2,
+            "res": 2
+        },
+        "blood": {
+            "forseti": true
+        },
+        "growth": {
+            "hp": 50,
+            "str": 10,
+            "mag": 30,
+            "skl": 40,
+            "spd": 30,
+            "lck": 20,
+            "def": 20,
+            "res": 10
+        }
+    },
+    "lex": {
+        "name": "Lex",
+        "portrait": "lex.png",
+        "promo": "greatknight",
+        "gold": 5000,
+        "job": "axeknight",
+        "lvl": 4,
+        "type": "fixed",
+        "skill": [
+            "vantage",
+            "paragon"
+        ],
+        "base": {
+            "hp": 33,
+            "str": 3,
+            "mag": 0,
+            "skl": 4,
+            "spd": 5,
+            "lck": 8,
+            "def": 3,
+            "res": 0
+        },
+        "blood": {
+            "nal": false
+        },
+        "growth": {
+            "hp": 70,
+            "str": 40,
+            "mag": 5,
+            "skl": 20,
+            "spd": 20,
+            "lck": 20,
+            "def": 20,
+            "res": 5
+        }
+    },
+    "linda": {
+        "name": "Linda",
+        "portrait": "linda.png",
+        "promo": "magefighterf",
+        "gold": 5000,
+        "job": "thundermage",
+        "lvl": 3,
+        "type": "fixed",
+        "skill": [
+            "wrath",
+            "paragon"
+        ],
+        "base": {
+            "hp": 26,
+            "str": 0,
+            "mag": 4,
+            "skl": 3,
+            "spd": 3,
+            "lck": 2,
+            "def": 1,
+            "res": 2
+        },
+        "blood": {
+            "thrud": false
+        },
+        "growth": {
+            "hp": 70,
+            "str": 10,
+            "mag": 40,
+            "skl": 10,
+            "spd": 30,
+            "lck": 20,
+            "def": 10,
+            "res": 20
+        }
+    },
+    "midir": {
+        "name": "Midir",
+        "portrait": "midir.png",
+        "promo": "archknight",
+        "gold": 2000,
+        "job": "bowknight",
+        "lvl": 2,
+        "type": "fixed",
+        "skill": [
+            "pursuit",
+            "accost"
+        ],
+        "base": {
+            "hp": 32,
+            "str": 2,
+            "mag": 0,
+            "skl": 1,
+            "spd": 3,
+            "lck": 3,
+            "def": 1,
+            "res": 0
+        },
+        "blood": {},
+        "growth": {
+            "hp": 60,
+            "str": 30,
+            "mag": 5,
+            "skl": 30,
+            "spd": 40,
+            "lck": 10,
+            "def": 30,
+            "res": 5
+        }
+    },
+    "muirne": {
+        "name": "Muirne",
+        "portrait": "mana.png",
+        "promo": "highpriest",
+        "gold": 2000,
+        "job": "priest",
+        "lvl": 1,
+        "type": "fixed",
+        "skill": [],
+        "base": {
+            "hp": 24,
+            "str": 0,
+            "mag": 3,
+            "skl": 1,
+            "spd": 4,
+            "lck": 5,
+            "def": 0,
+            "res": 3
+        },
+        "blood": {},
+        "growth": {
+            "hp": 50,
+            "str": 10,
+            "mag": 30,
+            "skl": 20,
+            "spd": 20,
+            "lck": 40,
+            "def": 10,
+            "res": 20
+        }
+    },
+    "nanna": {
+        "name": "Nanna",
+        "portrait": "nanna.png",
+        "promo": "paladinf",
+        "gold": "2000 + Inheritance Gold",
+        "job": "troubadour",
+        "lvl": 3,
+        "type": "child",
+        "mother": "lachesis",
+        "father": false,
+        "influence": "mother"
+    },
+    "naoise": {
+        "name": "Naoise",
+        "portrait": "noish.png",
+        "promo": "paladinm",
+        "gold": 2000,
+        "job": "cavalier",
+        "lvl": 3,
+        "type": "fixed",
+        "skill": [
+            "critical",
+            "accost"
+        ],
+        "base": {
+            "hp": 33,
+            "str": 4,
+            "mag": 0,
+            "skl": 1,
+            "spd": 2,
+            "lck": 4,
+            "def": 2,
+            "res": 0
+        },
+        "blood": {},
+        "growth": {
+            "hp": 80,
+            "str": 40,
+            "mag": 5,
+            "skl": 30,
+            "spd": 20,
+            "lck": 20,
+            "def": 40,
+            "res": 5
+        }
+    },
+    "oifey": {
+        "name": "Oifey",
+        "portrait": "oifey.png",
+        "promo": false,
+        "gold": 5000,
+        "job": "paladinm",
+        "lvl": 15,
+        "type": "fixed",
+        "skill": [
+            "pursuit",
+            "critical"
+        ],
+        "base": {
+            "hp": 40,
+            "str": 7,
+            "mag": 4,
+            "skl": 8,
+            "spd": 7,
+            "lck": 8,
+            "def": 8,
+            "res": 3
+        },
+        "blood": {
+            "baldr": false
+        },
+        "growth": {
+            "hp": 80,
+            "str": 30,
+            "mag": 5,
+            "skl": 40,
+            "spd": 30,
+            "lck": 30,
+            "def": 30,
+            "res": 10
+        }
+    },
+    "patty": {
+        "name": "Patty",
+        "portrait": "patty.png",
+        "promo": "thieffighter",
+        "gold": "2000 + Inheritance Gold",
+        "job": "thief",
+        "lvl": 1,
+        "type": "child",
+        "mother": "brigid",
+        "father": false,
+        "influence": "father"
+    },
+    "quan": {
+        "name": "Quan",
+        "portrait": "quan.png",
+        "promo": false,
+        "gold": 5000,
+        "job": "dukeknight",
+        "lvl": 4,
+        "type": "fixed",
+        "skill": [
+            "adept"
+        ],
+        "base": {
+            "hp": 34,
+            "str": 4,
+            "mag": 0,
+            "skl": 3,
+            "spd": 3,
+            "lck": 5,
+            "def": 2,
+            "res": 0
+        },
+        "blood": {
+            "njorun": true
+        },
+        "growth": {
+            "hp": 70,
+            "str": 30,
+            "mag": 5,
+            "skl": 30,
+            "spd": 20,
+            "lck": 10,
+            "def": 30,
+            "res": 5
+        }
+    },
+    "seliph": {
+        "name": "Seliph",
+        "portrait": "seliph.png",
+        "promo": "knightlord",
+        "gold": "2000 + Inheritance Gold",
+        "job": "lord",
+        "lvl": 1,
+        "type": "child",
+        "mother": "deirdre",
+        "father": "sigurd",
+        "influence": "father"
+    },
+    "shannan": {
+        "name": "Shannan",
+        "portrait": "shannan.png",
+        "promo": false,
+        "gold": 5000,
+        "job": "swordmaster",
+        "lvl": 12,
+        "type": "fixed",
+        "skill": [
+            "astra"
+        ],
+        "base": {
+            "hp": 38,
+            "str": 6,
+            "mag": 0,
+            "skl": 7,
+            "spd": 8,
+            "lck": 10,
+            "def": 6,
+            "res": 1
+        },
+        "blood": {
+            "od": true
+        },
+        "growth": {
+            "hp": 80,
+            "str": 30,
+            "mag": 5,
+            "skl": 20,
+            "spd": 20,
+            "lck": 20,
+            "def": 40,
+            "res": 5
+        }
+    },
+    "sigurd": {
+        "name": "Sigurd",
+        "portrait": "sigurd.png",
+        "promo": false,
+        "gold": 5000,
+        "job": "knightlord",
+        "lvl": 5,
+        "type": "fixed",
+        "skill": [
+            "pursuit"
+        ],
+        "base": {
+            "hp": 35,
+            "str": 4,
+            "mag": 0,
+            "skl": 4,
+            "spd": 5,
+            "lck": 7,
+            "def": 2,
+            "res": 0
+        },
+        "blood": {
+            "baldr": true
+        },
+        "growth": {
+            "hp": 70,
+            "str": 30,
+            "mag": 5,
+            "skl": 30,
+            "spd": 30,
+            "lck": 20,
+            "def": 40,
+            "res": 5
+        }
+    },
+    "silvia": {
+        "name": "Silvia",
+        "portrait": "silvia.png",
+        "promo": false,
+        "gold": 5000,
+        "job": "dancer",
+        "lvl": 1,
+        "type": "fixed",
+        "skill": [
+            "adept",
+            "miracle"
+        ],
+        "base": {
+            "hp": 28,
+            "str": 0,
+            "mag": 0,
+            "skl": 3,
+            "spd": 5,
+            "lck": 6,
+            "def": 0,
+            "res": 2
+        },
+        "blood": {
+            "bragi": false
+        },
+        "growth": {
+            "hp": 40,
+            "str": 10,
+            "mag": 20,
+            "skl": 10,
+            "spd": 10,
+            "lck": 20,
+            "def": 10,
+            "res": 20
+        }
+    },
+    "tailtiu": {
+        "name": "Tailtiu",
+        "portrait": "tailtiu.png",
+        "promo": "magefighterf",
+        "gold": 5000,
+        "job": "thundermage",
+        "lvl": 3,
+        "type": "fixed",
+        "skill": [
+            "wrath"
+        ],
+        "base": {
+            "hp": 28,
+            "str": 0,
+            "mag": 3,
+            "skl": 6,
+            "spd": 4,
+            "lck": 9,
+            "def": 0,
+            "res": 4
+        },
+        "blood": {
+            "thrud": false
+        },
+        "growth": {
+            "hp": 40,
+            "str": 10,
+            "mag": 20,
+            "skl": 30,
+            "spd": 40,
+            "lck": 50,
+            "def": 10,
+            "res": 10
+        }
+    },
+    "tine": {
+        "name": "Tine",
+        "portrait": "tine.png",
+        "promo": "magefighterf",
+        "gold": "2000 + Inheritance Gold",
+        "job": "mage",
+        "lvl": 3,
+        "type": "child",
+        "mother": "tailtiu",
+        "father": false,
+        "influence": "mother"
+    },
+    "tristan": {
+        "name": "Tristan",
+        "portrait": "tristan.png",
+        "promo": "ranger",
+        "gold": 5000,
+        "job": "freeknight",
+        "lvl": 3,
+        "type": "fixed",
+        "skill": [
+            "critical"
+        ],
+        "base": {
+            "hp": 30,
+            "str": 4,
+            "mag": 0,
+            "skl": 4,
+            "spd": 4,
+            "lck": 5,
+            "def": 4,
+            "res": 0
+        },
+        "blood": {},
+        "growth": {
+            "hp": 130,
+            "str": 30,
+            "mag": 5,
+            "skl": 30,
+            "spd": 20,
+            "lck": 10,
+            "def": 30,
+            "res": 5
+        }
+    },
+    "scathach": {
+        "name": "Sc\u00e1thach",
+        "portrait": "ulster.png",
+        "promo": "hero",
+        "gold": "2000 + Inheritance Gold",
+        "job": "myrmidon",
+        "lvl": 1,
+        "type": "child",
+        "mother": "ayra",
+        "father": false,
+        "influence": "father"
+    }
+}

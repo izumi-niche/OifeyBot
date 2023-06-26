@@ -1,0 +1,183 @@
+{
+    "beginnings": {
+        "name": "Beginnings",
+        "stats": {
+            "mt": 1,
+            "hit": 10,
+            "crit": 10,
+            "avo": 5,
+            "ddg": 5
+        }
+    },
+    "holy": {
+        "name": "Holy",
+        "stats": {
+            "mt": 1,
+            "wt": -1,
+            "avo": 20
+        }
+    },
+    "echoes": {
+        "name": "Echoes",
+        "stats": {
+            "mt": -1,
+            "wt": -1,
+            "ddg": 50
+        }
+    },
+    "dawn": {
+        "name": "Dawn",
+        "stats": {
+            "mt": -3,
+            "wt": -1,
+            "avo": 40,
+            "ddg": 20
+        }
+    },
+    "binding": {
+        "name": "Binding",
+        "stats": {
+            "mt": 2,
+            "wt": 8,
+            "avo": -30
+        }
+    },
+    "genealogy": {
+        "name": "Genealogy",
+        "stats": {
+            "mt": 1,
+            "wt": 1,
+            "hit": 20,
+            "avo": 10
+        }
+    },
+    "awakening": {
+        "name": "Awakening",
+        "stats": {
+            "mt": -1,
+            "wt": -1,
+            "hit": 30,
+            "avo": 30
+        }
+    },
+    "blazing": {
+        "name": "Blazing",
+        "stats": {
+            "mt": -3,
+            "wt": -2,
+            "hit": 40,
+            "crit": 20
+        }
+    },
+    "radiance": {
+        "name": "Radiance",
+        "stats": {
+            "mt": 3,
+            "wt": 15
+        }
+    },
+    "academy": {
+        "name": "Academy",
+        "stats": {
+            "wt": 2,
+            "hit": 30,
+            "crit": 10,
+            "avo": 10,
+            "ddg": 30
+        }
+    },
+    "fates": {
+        "name": "Fates",
+        "stats": {
+            "mt": -2,
+            "crit": 30,
+            "avo": 10,
+            "ddg": 30
+        }
+    },
+    "sacred": {
+        "name": "Sacred",
+        "stats": {
+            "hit": 40,
+            "crit": 20,
+            "avo": -20,
+            "ddg": -20
+        }
+    },
+    "fire": {
+        "name": "Fire",
+        "stats": {
+            "mt": -1,
+            "wt": -1,
+            "hit": 20,
+            "crit": 20,
+            "avo": 20,
+            "ddg": 20
+        }
+    },
+    "rivals": {
+        "name": "Rivals",
+        "stats": {
+            "mt": 1,
+            "wt": 1,
+            "hit": 10,
+            "crit": 10,
+            "avo": 10
+        }
+    },
+    "dragons": {
+        "name": "Dragons",
+        "stats": {
+            "mt": 2,
+            "avo": -20,
+            "ddg": -20
+        }
+    },
+    "strength": {
+        "name": "Strength",
+        "stats": {
+            "mt": 3,
+            "wt": 3,
+            "avo": -30,
+            "ddg": -30
+        }
+    },
+    "revelation": {
+        "name": "Revelation",
+        "stats": {
+            "mt": 1,
+            "wt": 1,
+            "crit": 30,
+            "avo": -20,
+            "ddg": -20
+        }
+    },
+    "acumen": {
+        "name": "Acumen",
+        "stats": {
+            "mt": 2,
+            "avo": -10,
+            "ddg": -20
+        }
+    },
+    "bonds": {
+        "name": "Bonds",
+        "stats": {
+            "mt": 1,
+            "wt": -1,
+            "avo": 20,
+            "ddg": 20
+        }
+    },
+    "heroes": {
+        "name": "Heroes",
+        "stats": {
+            "mt": 1,
+            "wt": -2,
+            "hit": -20,
+            "crit": -20,
+            "avo": 20,
+            "ddg": 20
+        }
+    }
+}

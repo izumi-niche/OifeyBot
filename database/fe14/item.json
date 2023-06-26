@@ -1,0 +1,5661 @@
+{
+    "bronzesword": {
+        "name": "Bronze Sword",
+        "desc": "Ddg+10. Can't inflict criticals or trigger offensive skills.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 4,
+            "hit": 100,
+            "dodge": 10,
+            "rng": 1,
+            "price": 500,
+            "sell": 250
+        },
+        "forge": 1,
+        "ALT_NAME": [
+            "brasssword"
+        ],
+        "type": "sword"
+    },
+    "ironsword": {
+        "name": "Iron Sword",
+        "desc": "A common sword of a common material.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 6,
+            "hit": 90,
+            "rng": 1,
+            "price": 1000,
+            "sell": 500
+        },
+        "forge": 0,
+        "type": "sword"
+    },
+    "steelsword": {
+        "name": "Steel Sword",
+        "desc": "Makes follow-up attacks more difficult to perform (-3 effective Spd).",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 9,
+            "hit": 85,
+            "avoid": -5,
+            "rng": 1,
+            "price": 2000,
+            "sell": 750
+        },
+        "forge": 0,
+        "type": "sword",
+        "equip": {
+            "doubling_speed": 3
+        }
+    },
+    "silversword": {
+        "name": "Silver Sword",
+        "desc": "Ddg -5. After use in combat, wielder suffers Str/Skill-2 (recovers 1/turn).",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 12,
+            "hit": 90,
+            "dodge": -5,
+            "rng": 1,
+            "price": 4000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "sword"
+    },
+    "bravesword": {
+        "name": "Brave Sword",
+        "desc": "Def/Res-4. Enables the wielder to strike twice when attacking.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 6,
+            "hit": 75,
+            "rng": 1,
+            "price": 8000,
+            "sell": 2000
+        },
+        "forge": 0,
+        "type": "sword",
+        "equip": {
+            "stats": {
+                "def": -4,
+                "res": -4
+            }
+        }
+    },
+    "ironkukri": {
+        "name": "Iron Kukri",
+        "desc": "A common throwing sword.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 6,
+            "hit": 90,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "sword"
+    },
+    "steelkukri": {
+        "name": "Steel Kukri",
+        "desc": "Makes follow-up attacks more difficult to perform (-3 effective Spd).",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 9,
+            "hit": 85,
+            "avoid": -5,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "sword",
+        "equip": {
+            "doubling_speed": 3
+        }
+    },
+    "silverkukri": {
+        "name": "Silver Kukri",
+        "desc": "Ddg -5. After use in combat, wielder suffers Str/Skill-2 (recovers 1/turn).",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 12,
+            "hit": 90,
+            "dodge": -5,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "sword"
+    },
+    "armorslayer": {
+        "name": "Armorslayer",
+        "desc": "Effective against armored units. Weak against other units.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 9,
+            "hit": 95,
+            "rng": 1,
+            "price": 2500,
+            "sell": 850
+        },
+        "forge": 0,
+        "type": "sword",
+        "equip": {
+            "effective": true
+        }
+    },
+    "wyrmslayer": {
+        "name": "Wyrmslayer",
+        "desc": "Effective against dragons. Weak against other units.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 9,
+            "hit": 95,
+            "rng": 1,
+            "price": 2500,
+            "sell": 850
+        },
+        "forge": 0,
+        "type": "sword",
+        "equip": {
+            "effective": true
+        }
+    },
+    "killingedge": {
+        "name": "Killing Edge",
+        "desc": "Deals extra damage on critical hits.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 6,
+            "hit": 85,
+            "crit": 25,
+            "avoid": -10,
+            "rng": 1,
+            "price": 3000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "sword"
+    },
+    "levinsword": {
+        "name": "Levin Sword",
+        "desc": "Magic weapon. Cannot make critical hits or trigger offensive skills.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 11,
+            "hit": 80,
+            "avoid": -20,
+            "rng": "1-2",
+            "price": 3300,
+            "sell": 1100
+        },
+        "forge": 1,
+        "type": "sword",
+        "equip": {
+            "magical": true
+        }
+    },
+    "ganglari": {
+        "name": "Ganglari",
+        "desc": "Ddg+5. Lowers wielder's HP by 20% of max HP after combat.",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 16,
+            "hit": 90,
+            "crit": 5,
+            "dodge": 5,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "sword"
+    },
+    "siegfried": {
+        "name": "Siegfried",
+        "desc": "Xander only. Ddg +10. Def+4 when carried. A royal blade.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 11,
+            "hit": 80,
+            "crit": 5,
+            "dodge": 10,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "sword",
+        "equip": {
+            "stats": {
+                "def": 4
+            }
+        }
+    },
+    "bottle": {
+        "name": "Bottle",
+        "desc": "Ddg +10. Best suited for thirsty warriors.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 1,
+            "hit": 110,
+            "avoid": 10,
+            "dodge": 10,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "sword"
+    },
+    "umbrella": {
+        "name": "Umbrella",
+        "desc": "Cannot make follow-up attacks, but makes enemy follow-ups easier (-5 eff. Spd).",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 1,
+            "hit": 85,
+            "crit": 10,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "sword"
+    },
+    "nohrianblade": {
+        "name": "Nohrian Blade",
+        "desc": "Def+3. Tempered with Nohrian steel.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 5,
+            "hit": 85,
+            "avoid": -10,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "sword",
+        "equip": {
+            "stats": {
+                "def": 4
+            }
+        }
+    },
+    "leosiceblade": {
+        "name": "Leo's Iceblade",
+        "desc": "Magic weapon. After use in combat, user's stats are lowered until end of turn.",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 14,
+            "hit": 85,
+            "avoid": -20,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "sword",
+        "equip": {
+            "magical": true
+        }
+    },
+    "selenasblade": {
+        "name": "Selena's Blade",
+        "desc": "Ddg -5. Makes follow-up attacks more difficult to perform (-3 effective Spd).",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 7,
+            "hit": 90,
+            "crit": 10,
+            "dodge": -5,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "sword",
+        "equip": {
+            "doubling_speed": 3
+        }
+    },
+    "laslowsblade": {
+        "name": "Laslow's Blade",
+        "desc": "Spd+3, Def/Res-3. A nimble weapon.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 8,
+            "hit": 80,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "sword",
+        "equip": {
+            "stats": {
+                "spd": 3,
+                "def": -3,
+                "res": -3
+            }
+        }
+    },
+    "brasskatana": {
+        "name": "Brass Katana",
+        "desc": "Spd +1 | Def -1 | Res -1\nDdg+10. Can't inflict criticals or trigger offensive skills.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 4,
+            "hit": 100,
+            "dodge": 10,
+            "rng": 1,
+            "price": 500,
+            "sell": 250
+        },
+        "forge": 1,
+        "ALT_NAME": [
+            "bronzekatana"
+        ],
+        "type": "katana",
+        "equip": {
+            "stats": {
+                "spd": 1,
+                "def": -1,
+                "res": -1
+            }
+        }
+    },
+    "ironkatana": {
+        "name": "Iron Katana",
+        "desc": "Katana weapons grant Spd+1, Def/Res-1.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 6,
+            "hit": 90,
+            "rng": 1,
+            "price": 1000,
+            "sell": 500
+        },
+        "forge": 0,
+        "type": "katana",
+        "equip": {
+            "stats": {
+                "spd": 1,
+                "def": -1,
+                "res": -1
+            }
+        }
+    },
+    "steelkatana": {
+        "name": "Steel Katana",
+        "desc": "Spd +1 | Def -1 | Res -1\nMakes follow-up attacks more difficult to perform (-3 effective Spd).",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 9,
+            "hit": 85,
+            "avoid": -5,
+            "rng": 1,
+            "price": 2000,
+            "sell": 750
+        },
+        "forge": 0,
+        "type": "katana",
+        "equip": {
+            "stats": {
+                "spd": 1,
+                "def": -1,
+                "res": -1
+            },
+            "doubling_speed": 3
+        }
+    },
+    "silverkatana": {
+        "name": "Silver Katana",
+        "desc": "Spd +1 | Def -1 | Res -1\nDdg -5. After use in combat, wielder suffers Str/Skill-2 (recovers 1/turn).",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 12,
+            "hit": 90,
+            "dodge": -5,
+            "rng": 1,
+            "price": 4000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "katana",
+        "equip": {
+            "stats": {
+                "spd": 1,
+                "def": -1,
+                "res": -1
+            }
+        }
+    },
+    "vengekatana": {
+        "name": "Venge Katana",
+        "desc": "Spd +1 | Def -1 | Res -1\nDoubles weapon Mt during counterattacks.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 9,
+            "hit": 90,
+            "avoid": -20,
+            "rng": 1,
+            "price": 8000,
+            "sell": 2000
+        },
+        "forge": 0,
+        "type": "katana",
+        "equip": {
+            "stats": {
+                "spd": 1,
+                "def": -1,
+                "res": -1
+            }
+        }
+    },
+    "ironkatti": {
+        "name": "Iron Katti",
+        "desc": "Spd +1 | Def -1 | Res -1\nA common throwing katana.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 6,
+            "hit": 90,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "katana",
+        "equip": {
+            "stats": {
+                "spd": 1,
+                "def": -1,
+                "res": -1
+            }
+        }
+    },
+    "steelkatti": {
+        "name": "Steel Katti",
+        "desc": "Spd +2 | Def -1 | Res -1\nMakes follow-up attacks more difficult to perform (-3 effective Spd).",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 9,
+            "hit": 85,
+            "avoid": -5,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "katana",
+        "equip": {
+            "stats": {
+                "spd": 1,
+                "def": -1,
+                "res": -1
+            },
+            "doubling_speed": 3
+        }
+    },
+    "silverkatti": {
+        "name": "Silver Katti",
+        "desc": "Spd +1 | Def -1 | Res -1\nDdg -5. After use in combat, wielder suffers Str/Skill-2 (recovers 1/turn).",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 12,
+            "hit": 90,
+            "dodge": -5,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "katana",
+        "equip": {
+            "stats": {
+                "spd": 1,
+                "def": -1,
+                "res": -1
+            }
+        }
+    },
+    "kodachi": {
+        "name": "Kodachi",
+        "desc": "Spd +1 | Def -1 | Res -1\nWeak to follow-ups (-5 eff. Spd). Cannot crit, trigger offensive skills, or follow up.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 5,
+            "hit": 85,
+            "rng": "1-2",
+            "price": 1800,
+            "sell": 650
+        },
+        "forge": 1,
+        "type": "katana",
+        "equip": {
+            "stats": {
+                "spd": 1,
+                "def": -1,
+                "res": -1
+            }
+        }
+    },
+    "wakizashi": {
+        "name": "Wakizashi",
+        "desc": "Spd +1 | Def -1 | Res -1\nWeak to follow-up attacks (-5 eff. Spd). Cannot make follow-up attacks.",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 10,
+            "hit": 75,
+            "avoid": -10,
+            "rng": 2,
+            "price": 4500,
+            "sell": 1500
+        },
+        "forge": 0,
+        "type": "katana",
+        "equip": {
+            "stats": {
+                "spd": 1,
+                "def": -1,
+                "res": -1
+            }
+        }
+    },
+    "axesplitter": {
+        "name": "Axe Splitter",
+        "desc": "Spd +1 | Def -1 | Res -1\nEffective against axes/clubs. Weak against other weapons.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 7,
+            "hit": 75,
+            "avoid": -10,
+            "rng": 1,
+            "price": 3400,
+            "sell": 1150
+        },
+        "forge": 0,
+        "type": "katana",
+        "equip": {
+            "effective": true,
+            "stats": {
+                "spd": 1,
+                "def": -1,
+                "res": -1
+            }
+        }
+    },
+    "dualkatana": {
+        "name": "Dual Katana",
+        "desc": "Spd +1 | Def -1 | Res -1\nInverts weapon advantage and doubles its effects.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 8,
+            "hit": 75,
+            "crit": 5,
+            "rng": 1,
+            "price": 4000,
+            "sell": 1250
+        },
+        "forge": 0,
+        "type": "katana",
+        "equip": {
+            "stats": {
+                "spd": 1,
+                "def": -1,
+                "res": -1
+            }
+        }
+    },
+    "practicekatana": {
+        "name": "Practice Katana",
+        "desc": "Def -1 | Res -1\nSpd+5. Light and easy to use.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 6,
+            "hit": 80,
+            "rng": 1,
+            "price": 2700,
+            "sell": 900
+        },
+        "forge": 0,
+        "type": "katana",
+        "equip": {
+            "stats": {
+                "spd": 5,
+                "def": -1,
+                "res": -1
+            }
+        }
+    },
+    "spiritkatana": {
+        "name": "Spirit Katana",
+        "desc": "Spd +1\nDef/Res-4. Effective against monsters. Restores some HP every turn.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 5,
+            "hit": 80,
+            "rng": 1,
+            "price": 2200,
+            "sell": 800
+        },
+        "forge": 0,
+        "type": "katana",
+        "equip": {
+            "effective": true,
+            "stats": {
+                "spd": 1,
+                "def": -4,
+                "res": -4
+            }
+        }
+    },
+    "hagakureblade": {
+        "name": "Hagakure Blade",
+        "desc": "Spd +1 | Def -1 | Res -1\nAfter use in combat, halves Str until wielder attacks again.",
+        "weapon": true,
+        "stats": {
+            "rank": "S",
+            "mt": 18,
+            "hit": 95,
+            "avoid": 20,
+            "rng": 1,
+            "sell": 5000
+        },
+        "forge": 0,
+        "type": "katana",
+        "equip": {
+            "stats": {
+                "spd": 1,
+                "def": -1,
+                "res": -1
+            }
+        }
+    },
+    "yato": {
+        "name": "Yato",
+        "desc": "Spd +1 | Def -1 | Res -1\nThe avatar only. A divine blade said to choose its wielder.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 8,
+            "hit": 85,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "katana",
+        "equip": {
+            "stats": {
+                "spd": 1,
+                "def": -1,
+                "res": -1
+            }
+        }
+    },
+    "nobleyato": {
+        "name": "Noble Yato",
+        "desc": "Def -1 | Res -1\nStr/Spd+2 when carried. Yato and wielder ennoble one another. The avatar only.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 11,
+            "hit": 85,
+            "crit": 5,
+            "avoid": 10,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "katana",
+        "equip": {
+            "stats": {
+                "str": 2,
+                "spd": 2,
+                "def": -1,
+                "res": -1
+            }
+        }
+    },
+    "blazingyato": {
+        "name": "Blazing Yato",
+        "desc": "Def -1 | Res -1\nDdg +10. Str/Spd+4 when carried. The blade of salvation. The avatar only.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 16,
+            "hit": 85,
+            "crit": 10,
+            "avoid": 10,
+            "dodge": 10,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "katana",
+        "equip": {
+            "stats": {
+                "str": 4,
+                "spd": 4,
+                "def": -1,
+                "res": -1
+            }
+        }
+    },
+    "grimyato": {
+        "name": "Grim Yato",
+        "desc": "Spd +1\nDef/Res+2 when carried. The Yato having embraced its champion. The avatar only.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 11,
+            "hit": 85,
+            "crit": 5,
+            "avoid": 10,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "katana",
+        "equip": {
+            "stats": {
+                "spd": 1,
+                "def": 2,
+                "res": 2
+            }
+        }
+    },
+    "shadowyato": {
+        "name": "Shadow Yato",
+        "desc": "Spd +1\nDdg +10. Def/Res +4 when carried. Nohr's might made steel. The avatar only.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 16,
+            "hit": 85,
+            "crit": 10,
+            "avoid": 10,
+            "dodge": 10,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "katana",
+        "equip": {
+            "stats": {
+                "spd": 1,
+                "def": 4,
+                "res": 4
+            }
+        }
+    },
+    "alphayato": {
+        "name": "Alpha Yato",
+        "desc": "+2 to Str/Spd/Def/Res when carried. The awakened Yato. The avatar only.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 11,
+            "hit": 85,
+            "crit": 5,
+            "avoid": 10,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "katana",
+        "equip": {
+            "stats": {
+                "str": 2,
+                "spd": 2,
+                "def": 2,
+                "res": 2
+            }
+        }
+    },
+    "omegayato": {
+        "name": "Omega Yato",
+        "desc": "Ddg +10. +4 to Str/Spd/Def/Res. The fully realized Fire Emblem. The avatar only.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 16,
+            "hit": 85,
+            "crit": 10,
+            "avoid": 10,
+            "dodge": 10,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "katana",
+        "equip": {
+            "stats": {
+                "str": 4,
+                "spd": 4,
+                "def": 4,
+                "res": 4
+            }
+        }
+    },
+    "raijinto": {
+        "name": "Raijinto",
+        "desc": "Spd +1 | Def -1 | Res -1\nRyoma only. Str+4 when carried. A divine weapon.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 11,
+            "hit": 80,
+            "crit": 5,
+            "avoid": 10,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "katana",
+        "equip": {
+            "stats": {
+                "str": 4,
+                "spd": 1,
+                "def": -1,
+                "res": -1
+            }
+        }
+    },
+    "daikonradish": {
+        "name": "Daikon Radish",
+        "desc": "Spd +1 | Def -1 | Res -1\nDdg +10. Not the best weapon, but delicious when pickled.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 1,
+            "hit": 110,
+            "avoid": 10,
+            "dodge": 10,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "katana",
+        "equip": {
+            "stats": {
+                "spd": 1,
+                "def": -1,
+                "res": -1
+            }
+        }
+    },
+    "parasol": {
+        "name": "Parasol",
+        "desc": "Spd +1 | Def -1 | Res -1\nCannot make follow-up attacks, but makes enemy follow-ups easier (-5 eff. Spd).",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 1,
+            "hit": 85,
+            "crit": 10,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "katana",
+        "equip": {
+            "stats": {
+                "spd": 1,
+                "def": -1,
+                "res": -1
+            }
+        }
+    },
+    "raiderkatana": {
+        "name": "Raider Katana",
+        "desc": "Spd +1 | Def -1 | Res -1\nGood for follow-up attacks (+3 eff. Spd). With weapon advantage, strips foe's armor.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 5,
+            "hit": 85,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "katana",
+        "equip": {
+            "stats": {
+                "spd": 1,
+                "def": -1,
+                "res": -1
+            },
+            "doubling_speed": -3
+        }
+    },
+    "sunrisekatana": {
+        "name": "Sunrise Katana",
+        "desc": "Spd +1 | Def -1 | Res -1\nA defensive blade.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 3,
+            "hit": 85,
+            "avoid": 20,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "katana",
+        "equip": {
+            "stats": {
+                "spd": 1,
+                "def": -1,
+                "res": -1
+            }
+        }
+    },
+    "takumisshinai": {
+        "name": "Takumi's Shinai",
+        "desc": "Spd +1\nDef/Res-3. Cannot kill foes with >1 HP. Cannot make follow-up attacks.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 2,
+            "hit": 85,
+            "avoid": -10,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "katana",
+        "equip": {
+            "stats": {
+                "spd": 1,
+                "def": -3,
+                "res": -3
+            }
+        }
+    },
+    "hanaskatana": {
+        "name": "Hana's Katana",
+        "desc": "Spd +1 | Def -1 | Res -1\nDoubles weapon Mt during counterattacks. Cannot make follow-up attacks.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 6,
+            "hit": 90,
+            "avoid": -10,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "katana",
+        "equip": {
+            "stats": {
+                "spd": 1,
+                "def": -1,
+                "res": -1
+            }
+        }
+    },
+    "hinataskatana": {
+        "name": "Hinata's Katana",
+        "desc": "Spd +1\nDef/Res-3. Doubles Mt on attack. User's Str/Skill-2 after combat. Can't follow up.",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 9,
+            "hit": 85,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "katana",
+        "equip": {
+            "stats": {
+                "spd": 1,
+                "def": -3,
+                "res": -3
+            }
+        }
+    },
+    "bronzelance": {
+        "name": "Bronze Lance",
+        "desc": "Ddg+10. Can't inflict criticals or trigger offensive skills.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 5,
+            "hit": 90,
+            "dodge": 10,
+            "rng": 1,
+            "price": 500,
+            "sell": 250
+        },
+        "forge": 1,
+        "ALT_NAME": [
+            "brasslance"
+        ],
+        "type": "lance"
+    },
+    "ironlance": {
+        "name": "Iron Lance",
+        "desc": "A common lance.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 7,
+            "hit": 80,
+            "rng": 1,
+            "price": 1000,
+            "sell": 500
+        },
+        "forge": 0,
+        "type": "lance"
+    },
+    "steellance": {
+        "name": "Steel Lance",
+        "desc": "Makes follow-up attacks more difficult to perform (-3 effective Spd).",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 10,
+            "hit": 75,
+            "avoid": -5,
+            "rng": 1,
+            "price": 2000,
+            "sell": 750
+        },
+        "forge": 0,
+        "type": "lance",
+        "equip": {
+            "doubling_speed": 3
+        }
+    },
+    "silverlance": {
+        "name": "Silver Lance",
+        "desc": "Ddg -5. After use in combat, wielder suffers Str/Skill-2 (recovers 1/turn).",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 14,
+            "hit": 80,
+            "dodge": -5,
+            "rng": 1,
+            "price": 4000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "lance"
+    },
+    "bravelance": {
+        "name": "Brave Lance",
+        "desc": "Def/Res-4. Enables the wielder to strike twice when attacking.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 7,
+            "hit": 65,
+            "rng": 1,
+            "price": 8000,
+            "sell": 2000
+        },
+        "forge": 0,
+        "type": "lance",
+        "equip": {
+            "stats": {"def": -4, "res": -4}
+        }
+    },
+    "ironjavelin": {
+        "name": "Iron Javelin",
+        "desc": "A common javelin.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 7,
+            "hit": 80,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "lance"
+    },
+    "steeljavelin": {
+        "name": "Steel Javelin",
+        "desc": "Makes follow-up attacks more difficult to perform (-3 effective Spd).",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 10,
+            "hit": 75,
+            "avoid": -5,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "lance",
+        "equip": {
+            "doubling_speed": 3
+        }
+    },
+    "silverjavelin": {
+        "name": "Silver Javelin",
+        "desc": "Ddg -5. After use in combat, wielder suffers Str/Skill-2 (recovers 1/turn).",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 14,
+            "hit": 80,
+            "dodge": -5,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "lance"
+    },
+    "javelin": {
+        "name": "Javelin",
+        "desc": "Weak to follow-ups (-5 eff. Spd). Cannot crit, trigger offensive skills, or follow up.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 6,
+            "hit": 75,
+            "rng": "1-2",
+            "price": 1800,
+            "sell": 650
+        },
+        "forge": 1,
+        "type": "lance"
+    },
+    "spear": {
+        "name": "Spear",
+        "desc": "Weak to follow-up attacks (-5 eff. Spd). Cannot make follow-up attacks.",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 12,
+            "hit": 65,
+            "avoid": -10,
+            "rng": 2,
+            "price": 4500,
+            "sell": 1500
+        },
+        "forge": 0,
+        "type": "lance"
+    },
+    "beastkiller": {
+        "name": "Beast Killer",
+        "desc": "Effective against beasts. Weak against nonbeast units.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 10,
+            "hit": 85,
+            "rng": 1,
+            "price": 2500,
+            "sell": 850
+        },
+        "forge": 0,
+        "type": "lance",
+        "equip": {
+            "effective": true
+        }
+    },
+    "killerlance": {
+        "name": "Killer Lance",
+        "desc": "Deals extra damage on critical hits.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 7,
+            "hit": 75,
+            "crit": 25,
+            "avoid": -10,
+            "rng": 1,
+            "price": 3000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "lance"
+    },
+    "blessedlance": {
+        "name": "Blessed Lance",
+        "desc": "Def/Res-3. Effective against monsters. Restores some HP every turn.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 6,
+            "hit": 70,
+            "rng": 1,
+            "price": 2200,
+            "sell": 800
+        },
+        "forge": 0,
+        "type": "lance",
+        "equip": {
+            "effective": true,
+            "stats": {"def": -3, "res": -3}
+        }
+    },
+    "broom": {
+        "name": "Broom",
+        "desc": "Ddg+10. Don't think of it as a broom. It is a spear with a thousand tiny points.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 2,
+            "hit": 100,
+            "avoid": 10,
+            "dodge": 10,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "lance"
+    },
+    "stick": {
+        "name": "Stick",
+        "desc": "Skill+3. Suitable for practice.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 5,
+            "hit": 85,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "lance",
+        "equip": {
+            "stats": {"skl": 3}
+        }
+    },
+    "hexlockspear": {
+        "name": "Hexlock Spear",
+        "desc": "Res+8. A spear destined to pierce a mage's heart.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 1,
+            "hit": 80,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "lance",
+        "equip": {
+            "stats": {"res": 8}
+        }
+    },
+    "xanderslance": {
+        "name": "Xander's Lance",
+        "desc": "Skill/Res+2. Post-combat, Str/Skill-2 and gives nearby foes Str+4. Can't critical.",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 12,
+            "hit": 90,
+            "rng": 1
+        },
+        "forge": 1,
+        "type": "lance",
+        "equip": {
+            "stats": {"skl": 2, "res": 2}
+        }
+    },
+    "effieslance": {
+        "name": "Effie's Lance",
+        "desc": "Weak to follow-up attacks and makes them more difficult to perform (-5 eff. Spd).",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 16,
+            "hit": 65,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "lance",
+        "equip": {
+            "doubling_speed": 5
+        }
+    },
+    "perislance": {
+        "name": "Peri's Lance",
+        "desc": "Weak to follow-up attacks (-5 eff. Spd). Cannot make follow-up attacks.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 2,
+            "hit": 75,
+            "crit": 10,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "lance"
+    },
+    "brassnaginata": {
+        "name": "Brass Naginata",
+        "desc": "Def +1 | Res +1\nDdg+10. Can't inflict criticals or trigger offensive skills.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 4,
+            "hit": 90,
+            "dodge": 10,
+            "rng": 1,
+            "price": 500,
+            "sell": 250
+        },
+        "forge": 1,
+        "ALT_NAME": [
+            "bronzenaginata"
+        ],
+        "type": "naginata",
+        "equip": {
+            "stats": {
+                "def": 1,
+                "res": 1
+            }
+        }
+    },
+    "ironnaginata": {
+        "name": "Iron Naginata",
+        "desc": "Naginata weapons grant Def/Res+1.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 6,
+            "hit": 80,
+            "rng": 1,
+            "price": 1000,
+            "sell": 500
+        },
+        "forge": 0,
+        "type": "naginata",
+        "equip": {
+            "stats": {
+                "def": 1,
+                "res": 1
+            }
+        }
+    },
+    "steelnaginata": {
+        "name": "Steel Naginata",
+        "desc": "Def +1 | Res +1\nMakes follow-up attacks more difficult to perform (-3 effective Spd).",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 9,
+            "hit": 75,
+            "avoid": -5,
+            "rng": 1,
+            "price": 2000,
+            "sell": 750
+        },
+        "forge": 0,
+        "type": "naginata",
+        "equip": {
+            "stats": {
+                "def": 1,
+                "res": 1
+            },
+            "doubling_speed": 3
+        }
+    },
+    "silvernaginata": {
+        "name": "Silver Naginata",
+        "desc": "Def +1 | Res +1\nDdg -5. After use in combat, wielder suffers Str/Skill-2 (recovers 1/turn).",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 13,
+            "hit": 80,
+            "dodge": -5,
+            "rng": 1,
+            "price": 4000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "naginata",
+        "equip": {
+            "stats": {
+                "def": 1,
+                "res": 1
+            }
+        }
+    },
+    "vengenaginata": {
+        "name": "Venge Naginata",
+        "desc": "Def +1 | Res +1\nDoubles weapon Mt during counterattacks.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 9,
+            "hit": 90,
+            "avoid": -20,
+            "rng": 1,
+            "price": 8000,
+            "sell": 2000
+        },
+        "forge": 0,
+        "type": "naginata",
+        "equip": {
+            "stats": {
+                "def": 1,
+                "res": 1
+            }
+        }
+    },
+    "ironnageyari": {
+        "name": "Iron Nageyari",
+        "desc": "Def +1 | Res +1\nA Hoshidan throwing spear.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 6,
+            "hit": 80,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "naginata",
+        "equip": {
+            "stats": {
+                "def": 1,
+                "res": 1
+            }
+        }
+    },
+    "steelnageyari": {
+        "name": "Steel Nageyari",
+        "desc": "Def +1 | Res +1\nMakes follow-up attacks more difficult to perform (-3 effective Spd).",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 9,
+            "hit": 75,
+            "avoid": -5,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "naginata",
+        "equip": {
+            "stats": {
+                "def": 1,
+                "res": 1
+            },
+            "doubling_speed": 3
+        }
+    },
+    "silvernageyari": {
+        "name": "Silver Nageyari",
+        "desc": "Def +1 | Res +1\nDdg -5. After use in combat, wielder suffers Str/Skill-2 (recovers 1/turn).",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 13,
+            "hit": 80,
+            "dodge": -5,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "naginata",
+        "equip": {
+            "stats": {
+                "def": 1,
+                "res": 1
+            }
+        }
+    },
+    "swordcatcher": {
+        "name": "Swordcatcher",
+        "desc": "Def +1 | Res +1\nEffective against swords/katana. Weak against other weapons.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 7,
+            "hit": 65,
+            "avoid": -10,
+            "rng": 1,
+            "price": 3400,
+            "sell": 1150
+        },
+        "forge": 0,
+        "type": "naginata",
+        "equip": {
+            "effective": true,
+            "stats": {
+                "def": 1,
+                "res": 1
+            }
+        }
+    },
+    "dualnaginata": {
+        "name": "Dual Naginata",
+        "desc": "Def +1 | Res +1\nInverts weapon advantage and doubles its effects.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 8,
+            "hit": 65,
+            "crit": 5,
+            "rng": 1,
+            "price": 4000,
+            "sell": 1250
+        },
+        "forge": 0,
+        "type": "naginata",
+        "equip": {
+            "stats": {
+                "def": 1,
+                "res": 1
+            }
+        }
+    },
+    "guardnaginata": {
+        "name": "Guard Naginata",
+        "desc": "Def/Res+5. A guardian's spear.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 5,
+            "hit": 75,
+            "avoid": -10,
+            "rng": 1,
+            "price": 2700,
+            "sell": 900
+        },
+        "forge": 0,
+        "type": "naginata",
+        "equip": {
+            "stats": {
+                "def": 5,
+                "res": 5
+            }
+        }
+    },
+    "boltnaginata": {
+        "name": "Bolt Naginata",
+        "desc": "Def +1 | Res +1\nMagic weapon. Cannot make critical hits or trigger offensive skills.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 11,
+            "hit": 70,
+            "avoid": -20,
+            "rng": "1-2",
+            "price": 3300,
+            "sell": 1100
+        },
+        "forge": 1,
+        "type": "naginata",
+        "equip": {
+            "stats": {
+                "def": 1,
+                "res": 1
+            },
+            "magical": true
+        }
+    },
+    "waterwheel": {
+        "name": "Waterwheel",
+        "desc": "Def/Res+5, Ddg+20. After use in combat, halves Str until wielder attacks again.",
+        "weapon": true,
+        "stats": {
+            "rank": "S",
+            "mt": 19,
+            "hit": 85,
+            "dodge": 20,
+            "rng": 1,
+            "sell": 5000
+        },
+        "forge": 0,
+        "type": "naginata",
+        "equip": {
+            "stats": {
+                "def": 5,
+                "res": 5
+            }
+        }
+    },
+    "bamboopole": {
+        "name": "Bamboo Pole",
+        "desc": "Def +1 | Res +1\nDdg+10. Nature's finest blacksmithing on display.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 1,
+            "hit": 100,
+            "avoid": 10,
+            "dodge": 10,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "naginata",
+        "equip": {
+            "stats": {
+                "def": 1,
+                "res": 1
+            }
+        }
+    },
+    "pinebranch": {
+        "name": "Pine Branch",
+        "desc": "Def +1 | Res +1\nMakes follow-up attacks more difficult to perform (-3 effective Spd).",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 11,
+            "hit": 55,
+            "crit": 10,
+            "avoid": -10,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "naginata",
+        "equip": {
+            "stats": {
+                "def": 1,
+                "res": 1
+            },
+            "doubling_speed": 3
+        }
+    },
+    "raidernaginata": {
+        "name": "Raider Naginata",
+        "desc": "Def +1 | Res +1\nGood for follow-up attacks (+3 eff. Spd). With weapon advantage, strips foe's armor.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 5,
+            "hit": 75,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "naginata",
+        "equip": {
+            "stats": {
+                "def": 1,
+                "res": 1
+            },
+            "doubling_speed": -3
+        }
+    },
+    "boldnaginata": {
+        "name": "Bold Naginata",
+        "desc": "Def/Res-5. Weak to follow-up attacks (-5 eff. Spd). Cannot make follow-up attacks.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 15,
+            "hit": 100,
+            "crit": 10,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "naginata",
+        "equip": {
+            "stats": {
+                "def": -5,
+                "res": -5
+            }
+        }
+    },
+    "hinokasspear": {
+        "name": "Hinoka's Spear",
+        "desc": "Def/Res-1. A nimble weapon.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 8,
+            "hit": 75,
+            "avoid": 10,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "naginata",
+        "equip": {
+            "stats": {
+                "def": -1,
+                "res": -1
+            }
+        }
+    },
+    "subakispike": {
+        "name": "Subaki's Pike",
+        "desc": "Def +1 | Res +1\nDoubles Mt when wielder's Skill is higher than the enemy's.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 4,
+            "hit": 85,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "naginata",
+        "equip": {
+            "stats": {
+                "def": 1,
+                "res": 1
+            }
+        }
+    },
+    "oborosspear": {
+        "name": "Oboro's Spear",
+        "desc": "Def +1 | Res +1\nMakes follow-up attacks more difficult (-3 eff. Spd). Str/Skill-2 after use in combat.",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 14,
+            "hit": 75,
+            "crit": 10,
+            "avoid": -5,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "naginata",
+        "equip": {
+            "stats": {
+                "def": 1,
+                "res": 1
+            },
+            "doubling_speed": 3
+        }
+    },
+    "bronzeaxe": {
+        "name": "Bronze Axe",
+        "desc": "Ddg+10. Can't inflict criticals or trigger offensive skills.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 6,
+            "hit": 80,
+            "dodge": 10,
+            "rng": 1,
+            "price": 500,
+            "sell": 250
+        },
+        "forge": 0,
+        "ALT_NAME": [
+            "brassaxe"
+        ],
+        "type": "axe"
+    },
+    "ironaxe": {
+        "name": "Iron Axe",
+        "desc": "A common axe.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 8,
+            "hit": 70,
+            "rng": 1,
+            "price": 1000,
+            "sell": 500
+        },
+        "forge": 0,
+        "type": "axe"
+    },
+    "steelaxe": {
+        "name": "Steel Axe",
+        "desc": "Makes follow-up attacks more difficult to perform (-3 effective Spd).",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 12,
+            "hit": 65,
+            "avoid": -5,
+            "rng": 1,
+            "price": 2000,
+            "sell": 750
+        },
+        "forge": 0,
+        "type": "axe",
+        "equip": {
+            "doubling_speed": 3
+        }
+    },
+    "silveraxe": {
+        "name": "Silver Axe",
+        "desc": "Ddg -5. After use in combat, wielder suffers Str/Skill-2 (recovers 1/turn).",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 16,
+            "hit": 70,
+            "dodge": -5,
+            "rng": 1,
+            "price": 4000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "axe"
+    },
+    "braveaxe": {
+        "name": "Brave Axe",
+        "desc": "Def/Res-4. Enables the wielder to strike twice when attacking.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 8,
+            "hit": 55,
+            "rng": 1,
+            "price": 8000,
+            "sell": 2000
+        },
+        "forge": 0,
+        "type": "axe",
+        "equip": {
+            "stats": {"def": -4, "res": -4}
+        }
+    },
+    "ironstaraxe": {
+        "name": "Iron Star Axe",
+        "desc": "A common throwing axe.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 8,
+            "hit": 70,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "axe"
+    },
+    "steelstaraxe": {
+        "name": "Steel Star Axe",
+        "desc": "Makes follow-up attacks more difficult to perform (-3 effective Spd).",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 12,
+            "hit": 65,
+            "avoid": -5,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "axe",
+        "equip": {
+            "doubling_speed": 3
+        }
+    },
+    "silverstaraxe": {
+        "name": "Silver Star Axe",
+        "desc": "Ddg -5. After use in combat, wielder suffers Str/Skill-2 (recovers 1/turn).",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 16,
+            "hit": 70,
+            "dodge": -5,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "axe"
+    },
+    "handaxe": {
+        "name": "Hand Axe",
+        "desc": "Weak to follow-ups (-5 eff. Spd). Cannot crit, trigger offensive skills, or follow up.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 7,
+            "hit": 65,
+            "rng": "1-2",
+            "price": 1800,
+            "sell": 650
+        },
+        "forge": 1,
+        "type": "axe"
+    },
+    "tomahawk": {
+        "name": "Tomahawk",
+        "desc": "Weak to follow-up attacks (-5 eff. Spd). Cannot make follow-up attacks.",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 14,
+            "hit": 55,
+            "avoid": -10,
+            "rng": 2,
+            "price": 4500,
+            "sell": 1500
+        },
+        "forge": 0,
+        "type": "axe"
+    },
+    "hammer": {
+        "name": "Hammer",
+        "desc": "Effective against armored units. Weak against other units.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 12,
+            "hit": 75,
+            "rng": 1,
+            "price": 2500,
+            "sell": 850
+        },
+        "forge": 0,
+        "type": "axe",
+        "equip": {
+            "effective": true
+        }
+    },
+    "boltaxe": {
+        "name": "Bolt Axe",
+        "desc": "Magic weapon. Cannot make critical hits or trigger offensive skills.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 14,
+            "hit": 65,
+            "avoid": -20,
+            "rng": "1-2",
+            "price": 3300,
+            "sell": 1100
+        },
+        "forge": 1,
+        "type": "axe",
+        "equip": {
+            "magical": true
+        }
+    },
+    "killeraxe": {
+        "name": "Killer Axe",
+        "desc": "Deals extra damage on critical hits.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 8,
+            "hit": 65,
+            "crit": 25,
+            "avoid": -10,
+            "rng": 1,
+            "price": 3000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "axe"
+    },
+    "aurgelmir": {
+        "name": "Aurgelmir",
+        "desc": "After use in combat, halves Str until wielder attacks again.",
+        "weapon": true,
+        "stats": {
+            "rank": "S",
+            "mt": 22,
+            "hit": 75,
+            "crit": 15,
+            "rng": 1,
+            "sell": 5000
+        },
+        "forge": 0,
+        "type": "axe"
+    },
+    "bolverk": {
+        "name": "B\u00f6lverk",
+        "desc": "Ddg+20. Garon only. An elegant but cruel weapon.",
+        "weapon": true,
+        "stats": {
+            "rank": "S",
+            "mt": 21,
+            "hit": 90,
+            "crit": 10,
+            "dodge": 20,
+            "rng": "1-3"
+        },
+        "forge": 0,
+        "type": "axe"
+    },
+    "fryingpan": {
+        "name": "Frying Pan",
+        "desc": "Ddg+10. Heavy and hard to wield, but cast iron, so you don't really need to clean it.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 3,
+            "hit": 90,
+            "avoid": 10,
+            "dodge": 10,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "axe"
+    },
+    "boneaxe": {
+        "name": "Bone Axe",
+        "desc": "Res+3. Sometimes the old ways are best.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 9,
+            "hit": 60,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "axe",
+        "equip": {
+            "stats": {"res": 3}
+        }
+    },
+    "raideraxe": {
+        "name": "Raider Axe",
+        "desc": "Good for follow-up attacks (+3 eff. Spd). With weapon advantage, strips foe's armor.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 7,
+            "hit": 65,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "axe",
+        "equip": {
+            "doubling_speed": -3
+        }
+    },
+    "berserkersaxe": {
+        "name": "Berserker's Axe",
+        "desc": "Lowers wielder's HP by 30% of max after use in combat.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 17,
+            "hit": 90,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "axe"
+    },
+    "camillasaxe": {
+        "name": "Camilla's Axe",
+        "desc": "Female units only. Res+2. Str/Skill-2 after use in combat.",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 12,
+            "hit": 80,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "axe",
+        "equip": {
+            "stats": {"res": 2}
+        }
+    },
+    "arthursaxe": {
+        "name": "Arthur's Axe",
+        "desc": "Male units only. Def+2. An axe for smiting evildoers.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 10,
+            "hit": 65,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "axe",
+        "equip": {
+            "stats": {"def": 2}
+        }
+    },
+    "berukasaxe": {
+        "name": "Beruka's Axe",
+        "desc": "Ddg-20. Deals extra damage on critical. Weak to follow-up attacks (-5 eff. Spd).",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 13,
+            "hit": 60,
+            "crit": 30,
+            "dodge": -20,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "axe"
+    },
+    "brassclub": {
+        "name": "Brass Club",
+        "desc": "Ddg+10. Can't inflict criticals or trigger offensive skills.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 5,
+            "hit": 85,
+            "dodge": 10,
+            "rng": 1,
+            "price": 500,
+            "sell": 250
+        },
+        "forge": 1,
+        "ALT_NAME": [
+            "bronzeclub"
+        ],
+        "type": "club"
+    },
+    "ironclub": {
+        "name": "Iron Club",
+        "desc": "Club weapons have a greater chance to inflict a critical hit.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 6,
+            "hit": 75,
+            "crit": 5,
+            "rng": 1,
+            "price": 1000,
+            "sell": 500
+        },
+        "forge": 0,
+        "type": "club"
+    },
+    "steelclub": {
+        "name": "Steel Club",
+        "desc": "Makes follow-up attacks more difficult to perform (-3 effective Spd).",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 10,
+            "hit": 70,
+            "crit": 5,
+            "avoid": -5,
+            "rng": 1,
+            "price": 2000,
+            "sell": 750
+        },
+        "forge": 0,
+        "type": "club",
+        "equip": {
+            "doubling_speed": 3
+        }
+    },
+    "silverclub": {
+        "name": "Silver Club",
+        "desc": "Ddg -5. After use in combat, wielder suffers Str/Skill-2 (recovers 1/turn).",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 14,
+            "hit": 75,
+            "crit": 5,
+            "dodge": -5,
+            "rng": 1,
+            "price": 4000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "club"
+    },
+    "vengeclub": {
+        "name": "Venge Club",
+        "desc": "Doubles weapon Mt during counterattacks.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 10,
+            "hit": 75,
+            "crit": 5,
+            "avoid": -20,
+            "rng": 1,
+            "price": 8000,
+            "sell": 2000
+        },
+        "forge": 0,
+        "type": "club"
+    },
+    "ironmace": {
+        "name": "Iron Mace",
+        "desc": "A common throwing club.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 6,
+            "hit": 75,
+            "crit": 5,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "club"
+    },
+    "steelmace": {
+        "name": "Steel Mace",
+        "desc": "Makes follow-up attacks more difficult to perform (-3 effective Spd).",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 10,
+            "hit": 70,
+            "crit": 5,
+            "avoid": -5,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "club",
+        "equip": {
+            "doubling_speed": 3
+        }
+    },
+    "silvermace": {
+        "name": "Silver Mace",
+        "desc": "Ddg -5. After use in combat, wielder suffers Str/Skill-2 (recovers 1/turn).",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 14,
+            "hit": 75,
+            "crit": 5,
+            "dodge": -5,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "club"
+    },
+    "throwingclub": {
+        "name": "Throwing Club",
+        "desc": "Weak to follow-ups (-5 eff. Spd). Cannot crit, trigger offensive skills, or follow up.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 6,
+            "hit": 70,
+            "rng": "1-2",
+            "price": 1800,
+            "sell": 650
+        },
+        "forge": 1,
+        "type": "club"
+    },
+    "batteringclub": {
+        "name": "Battering Club",
+        "desc": "Weak to follow-up attacks (-5 eff. Spd). Cannot make follow-up attacks.",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 12,
+            "hit": 60,
+            "crit": 5,
+            "rng": 2,
+            "price": 4500,
+            "sell": 1500
+        },
+        "forge": 0,
+        "type": "club"
+    },
+    "pikeruinclub": {
+        "name": "Pike-Ruin Club",
+        "desc": "Effective against spears/naginata. Weak against other weapons.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 10,
+            "hit": 60,
+            "crit": 5,
+            "avoid": -10,
+            "rng": 1,
+            "price": 3400,
+            "sell": 1150
+        },
+        "forge": 0,
+        "type": "club",
+        "equip": {
+            "effective": true
+        }
+    },
+    "dualclub": {
+        "name": "Dual Club",
+        "desc": "Inverts weapon advantage and doubles its effects.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 9,
+            "hit": 60,
+            "crit": 10,
+            "rng": 1,
+            "price": 4000,
+            "sell": 1250
+        },
+        "forge": 0,
+        "type": "club"
+    },
+    "greatclub": {
+        "name": "Great Club",
+        "desc": "Ddg -5. Deals extra damage on critical hits and scores a lot of them.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 6,
+            "hit": 45,
+            "crit": 55,
+            "avoid": -5,
+            "dodge": -5,
+            "rng": 1,
+            "price": 1900,
+            "sell": 750
+        },
+        "forge": 0,
+        "type": "club"
+    },
+    "carpstreamer": {
+        "name": "Carp Streamer",
+        "desc": "Ddg+10. Not great in a fight, but very festive.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 1,
+            "hit": 95,
+            "crit": 5,
+            "avoid": 10,
+            "dodge": 10,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "club"
+    },
+    "hoe": {
+        "name": "Hoe",
+        "desc": "Ignores terrain effects on combat.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 5,
+            "hit": 70,
+            "crit": 5,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "club"
+    },
+    "adamantclub": {
+        "name": "Adamant Club",
+        "desc": "Def+4. An enduring weapon.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 3,
+            "hit": 80,
+            "crit": 5,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "club"
+    },
+    "rinkahsclub": {
+        "name": "Rinkah's Club",
+        "desc": "Ddg-5. Makes follow-up attacks more difficult to perform (-3 effective Spd).",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 8,
+            "hit": 75,
+            "crit": 15,
+            "dodge": -5,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "club",
+        "equip": {
+            "doubling_speed": 3
+        }
+    },
+    "ryomasclub": {
+        "name": "Ryoma's Club",
+        "desc": "Spd-5. An awkward but powerful weapon.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 16,
+            "hit": 55,
+            "crit": 15,
+            "avoid": -10,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "club"
+    },
+    "fugasclub": {
+        "name": "Fuga's Club",
+        "desc": "Spd+3. Def/Res-3. Lowers Str/Skill-2 after use in combat.",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 13,
+            "hit": 80,
+            "crit": 5,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "club"
+    },
+    "bronzedagger": {
+        "name": "Bronze Dagger",
+        "desc": "Ddg+10. Can't inflict criticals or trigger offensive skills.\n\n**Debuffs**: Skl -1 | Spd -1 | Def -2 | Res -2",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 2,
+            "hit": 100,
+            "dodge": 10,
+            "rng": "1-2",
+            "price": 500,
+            "sell": 250
+        },
+        "forge": 1,
+        "ALT_NAME": [
+            "brassdagger"
+        ],
+        "type": "dagger"
+    },
+    "irondagger": {
+        "name": "Iron Dagger",
+        "desc": "Dagger weapons lower enemy stats on a hit (stats recover at a rate of 1/turn).\n\n**Debuffs**: Mag -2 | Def -3 | Res -3",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 4,
+            "hit": 90,
+            "rng": "1-2",
+            "price": 1000,
+            "sell": 500
+        },
+        "forge": 0,
+        "type": "dagger"
+    },
+    "steeldagger": {
+        "name": "Steel Dagger",
+        "desc": "Makes follow-up attacks more difficult to perform (-3 effective Spd).\n\n**Debuffs**: Str -3 | Def -4 | Res -4",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 7,
+            "hit": 85,
+            "avoid": -5,
+            "rng": "1-2",
+            "price": 2000,
+            "sell": 750
+        },
+        "forge": 0,
+        "type": "dagger",
+        "equip": {
+            "doubling_speed": 3
+        }
+    },
+    "silverdagger": {
+        "name": "Silver Dagger",
+        "desc": "Ddg -5. After use in combat, wielder suffers Str/Skill-2 (recovers 1/turn).\n\n**Debuffs**: Spd -4 | Def -4 | Res -4",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 10,
+            "hit": 90,
+            "dodge": -5,
+            "rng": "1-2",
+            "price": 4000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "dagger"
+    },
+    "soldiersknife": {
+        "name": "Soldier's Knife",
+        "desc": "Strikes twice when attacking. After use in combat, halves Str until unit attacks again.\n\n**Debuffs**: Str -2 | Mag -2 | Skl -2 | Spd -2 | Lck -2 | Def -5 | Res -5",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 4,
+            "hit": 75,
+            "rng": "1-2",
+            "price": 8000,
+            "sell": 2000
+        },
+        "forge": 0,
+        "type": "dagger"
+    },
+    "fruitknife": {
+        "name": "Fruit Knife",
+        "desc": "When equipped, use to restore 10 HP to the wielder.\n\n**Debuffs**: Skl -2 | Def -3 | Res -3",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 4,
+            "hit": 85,
+            "rng": "1-2",
+            "price": 1800,
+            "sell": 700
+        },
+        "forge": 0,
+        "type": "dagger"
+    },
+    "huntersknife": {
+        "name": "Hunter's Knife",
+        "desc": "Effective against beasts. Weak against nonbeast units.\n\n**Debuffs**: Lck -2 | Def -3 | Res -3",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 7,
+            "hit": 95,
+            "rng": "1-2",
+            "price": 2500,
+            "sell": 850
+        },
+        "forge": 0,
+        "type": "dagger",
+        "equip": {
+            "effective": true
+        }
+    },
+    "krisknife": {
+        "name": "Kris Knife",
+        "desc": "Def/Res-3. Effective against monsters. Restores some HP every turn.\n\n**Debuffs**: Mag -3 | Def -4 | Res -4",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 3,
+            "hit": 80,
+            "rng": "1-2",
+            "price": 2200,
+            "sell": 800
+        },
+        "forge": 0,
+        "type": "dagger",
+        "equip": {
+            "effective": true,
+            "stats": {
+                "def": -3,
+                "res": -3
+            }
+        }
+    },
+    "quillpen": {
+        "name": "Quill Pen",
+        "desc": "Ddg+10. Not actually mightier than the sword.\n\n**Debuffs**: Def -1 | Res -1",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 1,
+            "hit": 110,
+            "avoid": 10,
+            "dodge": 10,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "dagger"
+    },
+    "stalebread": {
+        "name": "Stale Bread",
+        "desc": "Restores 20% of wielder's maximum HP after combat he or she initiated.\n\n**Debuffs**: Def -3 | Res -3",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 3,
+            "hit": 80,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "dagger"
+    },
+    "raiderknife": {
+        "name": "Raider Knife",
+        "desc": "Good for follow-up attacks (+3 eff. Spd). With weapon advantage, strips foe's armor.\n\n**Debuffs**: Lck -2 | Def -2 | Res -2",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 3,
+            "hit": 85,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "dagger",
+        "equip": {
+            "doubling_speed": -3
+        }
+    },
+    "votivecandle": {
+        "name": "Votive Candle",
+        "desc": "When equipped, survive lethal attacks if HP > 1. Trigger % = (Lck stat)\n\n**Debuffs**: Str -1 | Mag -1 | Def -3 | Res -3",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 5,
+            "hit": 70,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "dagger"
+    },
+    "sacrificialknife": {
+        "name": "Sacrificial Knife",
+        "desc": "Lowers wielder's HP by 30% of maximum after use in combat.\n\n**Debuffs**: Lck -8 | Def -5 | Res -5",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 11,
+            "hit": 110,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "dagger"
+    },
+    "feliciasplate": {
+        "name": "Felicia's Plate",
+        "desc": "Magic weapon. Best served chilled.\n\n**Debuffs**: Str -3 | Def -4 | Res -4",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 4,
+            "hit": 85,
+            "avoid": -10,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "dagger",
+        "equip": {
+            "magical": true
+        }
+    },
+    "jakobstray": {
+        "name": "Jakob's Tray",
+        "desc": "Def+4. After use in combat, wielder suffers Str/Skill-2 (recover 1/turn).\n\n**Debuffs**: Skl -4 | Lck -4 | Def -4 | Res -4",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 8,
+            "hit": 100,
+            "crit": 5,
+            "avoid": -5,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "dagger",
+        "equip": {
+            "stats": {"def": 4}
+        }
+    },
+    "brassshuriken": {
+        "name": "Brass Shuriken",
+        "desc": "Spd +2\nDdg+10. Can't inflict criticals or trigger offensive skills.\n\n**Debuffs**: Skl -1 | Spd -1 | Def -2 | Res -2",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 2,
+            "hit": 95,
+            "dodge": 10,
+            "rng": "1-2",
+            "price": 500,
+            "sell": 250
+        },
+        "forge": 1,
+        "ALT_NAME": [
+            "bronzeshuriken"
+        ],
+        "type": "shuriken",
+        "equip": {
+            "stats": {
+                "spd": 2
+            }
+        }
+    },
+    "ironshuriken": {
+        "name": "Iron Shuriken",
+        "desc": "Shuriken weapons grant Spd+2 and lower enemy stats on a hit (recover 1/turn).\n\n**Debuffs**: Mag -2 | Def -3 | Res -3",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 4,
+            "hit": 85,
+            "rng": "1-2",
+            "price": 1000,
+            "sell": 500
+        },
+        "forge": 0,
+        "type": "shuriken",
+        "equip": {
+            "stats": {
+                "spd": 2
+            }
+        }
+    },
+    "steelshuriken": {
+        "name": "Steel Shuriken",
+        "desc": "Spd +2\nMakes follow-up attacks more difficult to perform (-3 effective Spd).\n\n**Debuffs**: Str -3 | Def -4 | Res -4",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 7,
+            "hit": 80,
+            "avoid": -5,
+            "rng": "1-2",
+            "price": 2000,
+            "sell": 750
+        },
+        "forge": 0,
+        "type": "shuriken",
+        "equip": {
+            "stats": {
+                "spd": 2
+            },
+            "doubling_speed": 3
+        }
+    },
+    "silvershuriken": {
+        "name": "Silver Shuriken",
+        "desc": "Spd +2\nDdg -5. After use in combat, wielder suffers Str/Skill-2 (recovers 1/turn).\n\n**Debuffs**: Spd -4 | Def -4 | Res -4",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 10,
+            "hit": 85,
+            "dodge": -5,
+            "rng": "1-2",
+            "price": 4000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "shuriken",
+        "equip": {
+            "stats": {
+                "spd": 2
+            }
+        }
+    },
+    "pebble": {
+        "name": "Pebble",
+        "desc": "Cannot inflict criticals or trigger offensive skills. Cannot make follow-up attacks.\n\n**Debuffs**: Str -4 | Spd -4 | Def -4 | Res -4",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 1,
+            "hit": 80,
+            "rng": "1-2",
+            "sell": 0
+        },
+        "forge": 0,
+        "ALT_NAME": [
+            "pebbles"
+        ],
+        "type": "shuriken",
+        "equip": {
+            "stats": {
+                "spd": 2
+            }
+        }
+    },
+    "spysshuriken": {
+        "name": "Spy's Shuriken",
+        "desc": "Spd +2\nCannot perform follow-up attacks.\n\n**Debuffs**: Str -2 | Mag -2 | Skl -2 | Spd -2 | Lck -2 | Def -5 | Res -5",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 1,
+            "hit": 70,
+            "avoid": -20,
+            "rng": 3,
+            "price": 8000,
+            "sell": 2000
+        },
+        "forge": 0,
+        "type": "shuriken",
+        "equip": {
+            "stats": {
+                "spd": 2
+            }
+        }
+    },
+    "dualshuriken": {
+        "name": "Dual Shuriken",
+        "desc": "Spd +2\nInverts weapon advantage and doubles its effects.\n\n**Debuffs**: Str -2 | Mag -2 | Def -4 | Res -4",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 6,
+            "hit": 70,
+            "crit": 5,
+            "rng": "1-2",
+            "price": 4000,
+            "sell": 1250
+        },
+        "forge": 0,
+        "type": "shuriken",
+        "equip": {
+            "stats": {
+                "spd": 2
+            }
+        }
+    },
+    "stingshuriken": {
+        "name": "Sting Shuriken",
+        "desc": "Spd +2\nEffective against armored units. Weak against other units.\n\n**Debuffs**: Skl -3 | Def -3 | Res -3",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 7,
+            "hit": 90,
+            "rng": "1-2",
+            "price": 2500,
+            "sell": 850
+        },
+        "forge": 0,
+        "type": "shuriken",
+        "equip": {
+            "effective": true,
+            "stats": {
+                "spd": 2
+            }
+        }
+    },
+    "barbshuriken": {
+        "name": "Barb Shuriken",
+        "desc": "Spd +2\nDeals extra damage on critical hits.\n\n**Debuffs**: Lck -4 | Def -4 | Res -4",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 4,
+            "hit": 80,
+            "crit": 25,
+            "avoid": -10,
+            "rng": "1-2",
+            "price": 3000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "shuriken",
+        "equip": {
+            "stats": {
+                "spd": 2
+            }
+        }
+    },
+    "flameshuriken": {
+        "name": "Flame Shuriken",
+        "desc": "Spd +2\nMagic weapon. Cannot make critical hits or trigger offensive skills.\n\n**Debuffs**: Mag -4 | Def -4 | Res -4",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 9,
+            "hit": 75,
+            "avoid": -20,
+            "rng": "1-2",
+            "price": 3300,
+            "sell": 1100
+        },
+        "forge": 1,
+        "type": "shuriken",
+        "equip": {
+            "stats": {
+                "spd": 2
+            },
+            "magical": true
+        }
+    },
+    "chakram": {
+        "name": "Chakram",
+        "desc": "Spd +2\nDef/Res-5. Good for follow-up attacks, but also weak to them (+5/-5 eff. Spd).\n\n**Debuffs**: Str -6 | Mag -6 | Def -6 | Res -6",
+        "weapon": true,
+        "stats": {
+            "rank": "S",
+            "mt": 11,
+            "hit": 95,
+            "crit": 10,
+            "avoid": -10,
+            "rng": "1-2",
+            "sell": 5000
+        },
+        "forge": 0,
+        "type": "shuriken",
+        "equip": {
+            "stats": {
+                "spd": 2,
+                "def": -5,
+                "res": -5
+            },
+            "doubling_speed": -5
+        }
+    },
+    "chopstick": {
+        "name": "Chopstick",
+        "desc": "Spd +2\nDdg+10. Better on the table than the battlefield.\n\n**Debuffs**: Def -1 | Res -1",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 1,
+            "hit": 105,
+            "avoid": 10,
+            "dodge": 10,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "shuriken",
+        "equip": {
+            "stats": {
+                "spd": 2
+            }
+        }
+    },
+    "hairpin": {
+        "name": "Hair Pin",
+        "desc": "Spd +2\nFemale units only. A subtle weapon.\n\n**Debuffs**: Str -2 | Def -3 | Res -3",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 5,
+            "hit": 80,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "shuriken",
+        "equip": {
+            "stats": {
+                "spd": 2
+            }
+        }
+    },
+    "caltrop": {
+        "name": "Caltrop",
+        "desc": "Spd +2\nAfter use in combat, wielder suffers Str/Skill-2 (recovers 1/turn).\n\n**Debuffs**: Spd -8 | Def -8 | Res -8",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 5,
+            "hit": 95,
+            "crit": 5,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "shuriken",
+        "equip": {
+            "stats": {
+                "spd": 2
+            }
+        }
+    },
+    "kazesneedle": {
+        "name": "Kaze's Needle",
+        "desc": "After attacking, grants allies within two spaces Spd+4 for one turn.\n\n**Debuffs**: Spd -4 | Def -4 | Res -4",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 3,
+            "hit": 90,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "shuriken",
+        "equip": {
+            "stats": {
+                "spd": 2
+            }
+        }
+    },
+    "saizosstar": {
+        "name": "Saizo's Star",
+        "desc": "Spd +2\nAfter attacking, grants allies within two spaces Str+4 for one turn.\n\n**Debuffs**: Str -4 | Def -4 | Res -4",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 3,
+            "hit": 90,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "shuriken",
+        "equip": {
+            "stats": {
+                "spd": 2
+            }
+        }
+    },
+    "kagerosdart": {
+        "name": "Kagero's Dart",
+        "desc": "Spd +2\nA blinding weapon.\n\n**Debuffs**: Skl -5 | Def -3 | Res -3",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 1,
+            "hit": 80,
+            "avoid": 20,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "shuriken",
+        "equip": {
+            "stats": {
+                "spd": 2
+            }
+        }
+    },
+    "bronzebow": {
+        "name": "Bronze Bow",
+        "desc": "Ddg+10. Can't inflict criticals or trigger offensive skills.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 6,
+            "hit": 90,
+            "dodge": 10,
+            "rng": 2,
+            "price": 500,
+            "sell": 250
+        },
+        "forge": 1,
+        "ALT_NAME": [
+            "brassbow"
+        ],
+        "type": "bow",
+        "equip": {
+            "effective": true
+        }
+    },
+    "ironbow": {
+        "name": "Iron Bow",
+        "desc": "A common bow.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 8,
+            "hit": 80,
+            "rng": 2,
+            "price": 1000,
+            "sell": 500
+        },
+        "forge": 0,
+        "type": "bow",
+        "equip": {
+            "effective": true
+        }
+    },
+    "steelbow": {
+        "name": "Steel Bow",
+        "desc": "Makes follow-up attacks more difficult to perform (-3 effective Spd).",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 11,
+            "hit": 75,
+            "avoid": -5,
+            "rng": 2,
+            "price": 2000,
+            "sell": 750
+        },
+        "forge": 0,
+        "type": "bow",
+        "equip": {
+            "effective": true,
+            "doubling_speed": 3
+        }
+    },
+    "silverbow": {
+        "name": "Silver Bow",
+        "desc": "Ddg -5. After use in combat, wielder suffers Str/Skill-2 (recovers 1/turn).",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 15,
+            "hit": 80,
+            "dodge": -5,
+            "rng": 2,
+            "price": 4000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "bow",
+        "equip": {
+            "effective": true
+        }
+    },
+    "crescentbow": {
+        "name": "Crescent Bow",
+        "desc": "Strikes twice when attacking. After use in combat, halves Str until unit attacks again.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 8,
+            "hit": 65,
+            "rng": 2,
+            "price": 8000,
+            "sell": 2000
+        },
+        "forge": 0,
+        "type": "bow",
+        "equip": {
+            "effective": true
+        }
+    },
+    "ironshortbow": {
+        "name": "Iron Shortbow",
+        "desc": "A bow for fighting in close quarters.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 8,
+            "hit": 80,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "bow",
+        "equip": {
+            "effective": true
+        }
+    },
+    "steelshortbow": {
+        "name": "Steel Shortbow",
+        "desc": "Makes follow-up attacks more difficult to perform (-3 effective Spd).",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 11,
+            "hit": 75,
+            "avoid": -5,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "bow",
+        "equip": {
+            "effective": true,
+            "doubling_speed": 3
+        }
+    },
+    "silvershortbow": {
+        "name": "Silver Shortbow",
+        "desc": "Ddg -5. After use in combat, wielder suffers Str/Skill-2 (recovers 1/turn).",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 15,
+            "hit": 80,
+            "dodge": -5,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "bow",
+        "equip": {
+            "effective": true
+        }
+    },
+    "minibow": {
+        "name": "Mini Bow",
+        "desc": "A powerful bow with a short range.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 7,
+            "hit": 75,
+            "avoid": -10,
+            "rng": 1,
+            "price": 2400,
+            "sell": 840
+        },
+        "forge": 0,
+        "type": "bow",
+        "equip": {
+            "effective": true
+        }
+    },
+    "killerbow": {
+        "name": "Killer Bow",
+        "desc": "Deals extra damage on critical hits.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 7,
+            "hit": 75,
+            "crit": 25,
+            "avoid": -10,
+            "rng": 2,
+            "price": 3000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "bow",
+        "equip": {
+            "effective": true
+        }
+    },
+    "blessedbow": {
+        "name": "Blessed Bow",
+        "desc": "Def/Res-3. Effective against monsters. Restores some HP every turn.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 7,
+            "hit": 70,
+            "rng": 2,
+            "price": 2200,
+            "sell": 800
+        },
+        "forge": 0,
+        "type": "bow",
+        "equip": {
+            "effective": true,
+            "stats": {
+                "def": -3,
+                "res": -3
+            }
+        }
+    },
+    "shiningbow": {
+        "name": "Shining Bow",
+        "desc": "Magic weapon. Cannot make critical hits or trigger offensive skills.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 13,
+            "hit": 70,
+            "avoid": -20,
+            "rng": "1-2",
+            "price": 3300,
+            "sell": 1100
+        },
+        "forge": 1,
+        "type": "bow",
+        "equip": {
+            "effective": true,
+            "magical": true
+        }
+    },
+    "rubberbow": {
+        "name": "Rubber Bow",
+        "desc": "Ddg+10. Someone's idea of a battlefield prank?",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 3,
+            "hit": 100,
+            "avoid": 10,
+            "dodge": 10,
+            "rng": 2
+        },
+        "forge": 0,
+        "type": "bow",
+        "equip": {
+            "effective": true
+        }
+    },
+    "violinbow": {
+        "name": "Violin Bow",
+        "desc": "After attacking, grants allies within two spaces Skill+4 for one turn.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 6,
+            "hit": 75,
+            "rng": 2
+        },
+        "forge": 0,
+        "type": "bow",
+        "equip": {
+            "effective": true
+        }
+    },
+    "cupidbow": {
+        "name": "Cupid Bow",
+        "desc": "After use in combat, restores 20% of enemy's max HP.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 1,
+            "hit": 100,
+            "rng": 2
+        },
+        "forge": 0,
+        "type": "bow",
+        "equip": {
+            "effective": true
+        }
+    },
+    "huntersbow": {
+        "name": "Hunter's Bow",
+        "desc": "Effective against beasts. Weak against nonbeast units.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 6,
+            "hit": 85,
+            "avoid": -10,
+            "rng": 2
+        },
+        "forge": 0,
+        "type": "bow",
+        "equip": {
+            "effective": true
+        }
+    },
+    "annasbow": {
+        "name": "Anna's Bow",
+        "desc": "Lck+5. Str/Skill-2 after use in combat. Fortune favors the bowed.",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 8,
+            "hit": 120,
+            "rng": 2
+        },
+        "forge": 0,
+        "type": "bow",
+        "equip": {
+            "effective": true,
+            "stats": {
+                "lck": 5
+            }
+        }
+    },
+    "nilessbow": {
+        "name": "Niles's Bow",
+        "desc": "Def/Res-2. Cannot kill foes with >1 HP. Cannot make follow-up attacks.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 4,
+            "hit": 75,
+            "avoid": -10,
+            "rng": 2
+        },
+        "forge": 0,
+        "type": "bow",
+        "equip": {
+            "effective": true,
+            "stats": {
+                "def": -2,
+                "res": -2
+            }
+        }
+    },
+    "brassyumi": {
+        "name": "Brass Yumi",
+        "desc": "Res +2\nDdg+10. Can't inflict criticals or trigger offensive skills.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 7,
+            "hit": 80,
+            "dodge": 10,
+            "rng": 2,
+            "price": 500,
+            "sell": 250
+        },
+        "forge": 1,
+        "ALT_NAME": [
+            "bronzeyumi"
+        ],
+        "type": "yumi",
+        "equip": {
+            "effective": true,
+            "stats": {
+                "res": 2
+            }
+        }
+    },
+    "ironyumi": {
+        "name": "Iron Yumi",
+        "desc": "Yumi weapons grant Res+2.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 9,
+            "hit": 70,
+            "rng": 2,
+            "price": 1000,
+            "sell": 500
+        },
+        "forge": 0,
+        "type": "yumi",
+        "equip": {
+            "effective": true,
+            "stats": {
+                "res": 2
+            }
+        }
+    },
+    "steelyumi": {
+        "name": "Steel Yumi",
+        "desc": "Res +2\nMakes follow-up attacks more difficult to perform (-3 effective Spd).",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 12,
+            "hit": 65,
+            "avoid": -5,
+            "rng": 2,
+            "price": 2000,
+            "sell": 750
+        },
+        "forge": 0,
+        "type": "yumi",
+        "equip": {
+            "effective": true,
+            "stats": {
+                "res": 2
+            },
+            "doubling_speed": 3
+        }
+    },
+    "silveryumi": {
+        "name": "Silver Yumi",
+        "desc": "Res +2\nDdg -5. After use in combat, wielder suffers Str/Skill-2 (recovers 1/turn).",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 16,
+            "hit": 70,
+            "dodge": -5,
+            "rng": 2,
+            "price": 4000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "yumi",
+        "equip": {
+            "effective": true,
+            "stats": {
+                "res": 2
+            }
+        }
+    },
+    "spysyumi": {
+        "name": "Spy's Yumi",
+        "desc": "Res +2\nCannot make follow-up attacks.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 5,
+            "hit": 55,
+            "avoid": -20,
+            "rng": 3,
+            "price": 8000,
+            "sell": 2000
+        },
+        "forge": 0,
+        "type": "yumi",
+        "equip": {
+            "effective": true,
+            "stats": {
+                "res": 2
+            }
+        }
+    },
+    "ironhankyu": {
+        "name": "Iron Hankyu",
+        "desc": "Res +2\nA yumi designed for close combat.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 9,
+            "hit": 70,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "yumi",
+        "equip": {
+            "effective": true,
+            "stats": {
+                "res": 2
+            }
+        }
+    },
+    "steelhankyu": {
+        "name": "Steel Hankyu",
+        "desc": "Res +2\nMakes follow-up attacks more difficult to perform (-3 effective Spd).",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 12,
+            "hit": 65,
+            "avoid": -5,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "yumi",
+        "equip": {
+            "effective": true,
+            "stats": {
+                "res": 2
+            },
+            "doubling_speed": 3
+        }
+    },
+    "silverhankyu": {
+        "name": "Silver Hankyu",
+        "desc": "Res +2\nDdg -5. After use in combat, wielder suffers Str/Skill-2 (recovers 1/turn).",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 16,
+            "hit": 70,
+            "dodge": -5,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "yumi",
+        "equip": {
+            "effective": true,
+            "stats": {
+                "res": 2
+            }
+        }
+    },
+    "dualyumi": {
+        "name": "Dual Yumi",
+        "desc": "Res +2\nInverts weapon advantage and doubles its effects.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 11,
+            "hit": 55,
+            "crit": 5,
+            "rng": 2,
+            "price": 4000,
+            "sell": 1250
+        },
+        "forge": 0,
+        "type": "yumi",
+        "equip": {
+            "effective": true,
+            "stats": {
+                "res": 2
+            }
+        }
+    },
+    "illusoryyumi": {
+        "name": "Illusory Yumi",
+        "desc": "Res+10. A bow strung with magic.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 8,
+            "hit": 65,
+            "avoid": -10,
+            "rng": 2,
+            "price": 2700,
+            "sell": 900
+        },
+        "forge": 0,
+        "type": "yumi",
+        "equip": {
+            "effective": true,
+            "stats": {
+                "res": 10
+            }
+        }
+    },
+    "surefireyumi": {
+        "name": "Surefire Yumi",
+        "desc": "Def-4, Res-2. An accurate bow that you have to hold still to use well.",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 10,
+            "hit": 120,
+            "avoid": -30,
+            "rng": 2,
+            "price": 4300,
+            "sell": 1400
+        },
+        "forge": 0,
+        "type": "yumi",
+        "equip": {
+            "effective": true,
+            "stats": {
+                "def": -4,
+                "res": -2
+            }
+        }
+    },
+    "pursuer": {
+        "name": "Pursuer",
+        "desc": "Def-5, Res-3. Good for follow-up attacks, but also weak to them (+5/-5 eff. Spd).",
+        "weapon": true,
+        "stats": {
+            "rank": "S",
+            "mt": 22,
+            "hit": 80,
+            "crit": 10,
+            "avoid": -10,
+            "rng": 2,
+            "sell": 5000
+        },
+        "forge": 0,
+        "type": "yumi",
+        "equip": {
+            "effective": true,
+            "stats": {
+                "def": -5,
+                "res": -3
+            },
+            "doubling_speed": -5
+        }
+    },
+    "fujinyumi": {
+        "name": "Fujin Yumi",
+        "desc": "Res +2\nTakumi only. Wielder is not slowed by terrain effects.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 14,
+            "hit": 70,
+            "crit": 5,
+            "avoid": 10,
+            "rng": 2
+        },
+        "forge": 1,
+        "type": "yumi",
+        "equip": {
+            "effective": true,
+            "stats": {
+                "res": 2
+            }
+        }
+    },
+    "fujinyumidream": {
+        "name": "Fujin Yumi (Dream)",
+        "desc": "Res +2\nTakumi only. Wielder is not slowed by terrain effects.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 7,
+            "hit": 80,
+            "dodge": 10,
+            "rng": 2
+        },
+        "forge": 1,
+        "ALT_NAME": [
+            "Fujin Yumi Prologue"
+        ],
+        "type": "yumi",
+        "equip": {
+            "effective": true,
+            "stats": {
+                "res": 2
+            }
+        }
+    },
+    "skadi": {
+        "name": "Skadi",
+        "desc": "Res +2\nDdg+20. A magic bow from the Outrealm. Projects a simulacrum of the wielder.",
+        "weapon": true,
+        "stats": {
+            "rank": "S",
+            "mt": 15,
+            "hit": 95,
+            "crit": -10,
+            "dodge": 20,
+            "rng": "1-4"
+        },
+        "forge": 0,
+        "type": "yumi",
+        "equip": {
+            "effective": true,
+            "stats": {
+                "res": 2
+            }
+        }
+    },
+    "bambooyumi": {
+        "name": "Bamboo Yumi",
+        "desc": "Res +2\nDdg+10. Perhaps the final project in a bow-making class?",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 4,
+            "hit": 90,
+            "avoid": 10,
+            "dodge": 10,
+            "rng": 2
+        },
+        "forge": 0,
+        "type": "yumi",
+        "equip": {
+            "effective": true,
+            "stats": {
+                "res": 2
+            }
+        }
+    },
+    "harpyumi": {
+        "name": "Harp Yumi",
+        "desc": "After attacking, grants Res+4 to allies within two spaces for one turn.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 6,
+            "hit": 65,
+            "rng": 2
+        },
+        "forge": 0,
+        "type": "yumi",
+        "equip": {
+            "effective": true,
+            "stats": {
+                "res": 2
+            }
+        }
+    },
+    "raideryumi": {
+        "name": "Raider Yumi",
+        "desc": "Res +2\nGood for follow-up attacks (+3 eff. Spd). With weapon advantage, strips foe's armor.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 6,
+            "hit": 65,
+            "rng": 2
+        },
+        "forge": 0,
+        "type": "yumi",
+        "equip": {
+            "effective": true,
+            "stats": {
+                "res": 2
+            },
+            "doubling_speed": -3
+        }
+    },
+    "spellbaneyumi": {
+        "name": "Spellbane Yumi",
+        "desc": "Res +2\nDef-4. Effective against tomes/scrolls. Weak against other weapons.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 5,
+            "hit": 60,
+            "avoid": -10,
+            "rng": 2
+        },
+        "forge": 0,
+        "type": "yumi",
+        "equip": {
+            "effective": true,
+            "stats": {
+                "def": -4,
+                "res": 2
+            }
+        }
+    },
+    "sidelongyumi": {
+        "name": "Sidelong Yumi",
+        "desc": "Res +2\nWeak to follow-up attacks (-5 eff. Spd). Cannot make follow-up attacks.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 3,
+            "hit": 65,
+            "avoid": -10,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "yumi",
+        "equip": {
+            "effective": true,
+            "stats": {
+                "res": 2
+            }
+        }
+    },
+    "mikotosyumi": {
+        "name": "Mikoto's Yumi",
+        "desc": "Def-2. Restores HP every turn. Str/Skill-2 after use in combat (restores 1/turn).",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 13,
+            "hit": 65,
+            "rng": 2
+        },
+        "forge": 0,
+        "type": "yumi",
+        "equip": {
+            "effective": true,
+            "stats": {
+                "def": -2,
+                "res": 2
+            }
+        }
+    },
+    "setsunasyumi": {
+        "name": "Setsuna's Yumi",
+        "desc": "On a hit, target suffers Skill/Def/Res-4 (each stat recovers 1/turn).",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 7,
+            "hit": 55,
+            "rng": 2
+        },
+        "forge": 0,
+        "type": "yumi",
+        "equip": {
+            "effective": true,
+            "stats": {
+                "res": 2
+            }
+        }
+    },
+    "fire": {
+        "name": "Fire",
+        "desc": "Ddg+10. Can't inflict criticals or trigger offensive skills.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 3,
+            "hit": 90,
+            "dodge": 10,
+            "rng": "1-2",
+            "price": 500,
+            "sell": 250
+        },
+        "forge": 1,
+        "type": "tome"
+    },
+    "thunder": {
+        "name": "Thunder",
+        "desc": "A common combat spell.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 5,
+            "hit": 80,
+            "rng": "1-2",
+            "price": 1000,
+            "sell": 500
+        },
+        "forge": 0,
+        "type": "tome"
+    },
+    "fimbulvetr": {
+        "name": "Fimbulvetr",
+        "desc": "Makes follow-up attacks more difficult to perform (-3 effective Spd).",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 8,
+            "hit": 75,
+            "avoid": -5,
+            "rng": "1-2",
+            "price": 2000,
+            "sell": 750
+        },
+        "forge": 0,
+        "type": "tome",
+        "equip": {
+            "doubling_speed": 3
+        }
+    },
+    "ragnarok": {
+        "name": "Ragnarok",
+        "desc": "Ddg -5. After use in combat, wielder suffers Mag/Skill-2 (recovers 1/turn).",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 11,
+            "hit": 80,
+            "dodge": -5,
+            "rng": "1-2",
+            "price": 4000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "tome"
+    },
+    "ginnungagap": {
+        "name": "Ginnungagap",
+        "desc": "After use in combat, halves Mag until wielder attacks again.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 15,
+            "hit": 65,
+            "rng": "1-2",
+            "price": 8000,
+            "sell": 2000
+        },
+        "forge": 0,
+        "type": "tome"
+    },
+    "lightning": {
+        "name": "Lightning",
+        "desc": "Strikes twice when attacking. After use in combat, Mag/Skill-2 (recovers 1/turn).",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 1,
+            "hit": 75,
+            "rng": "1-2",
+            "price": 3400,
+            "sell": 1150
+        },
+        "forge": 0,
+        "type": "tome"
+    },
+    "mjolnir": {
+        "name": "Mj\u00f6lnir",
+        "desc": "Deals extra damage on critical hits.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 5,
+            "hit": 75,
+            "crit": 25,
+            "avoid": -10,
+            "rng": "1-2",
+            "price": 3000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "tome"
+    },
+    "nosferatu": {
+        "name": "Nosferatu",
+        "desc": "Dark mages only. Absorbs target's HP. Can't crit, trigger off. skills, or follow up.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 7,
+            "hit": 70,
+            "avoid": -20,
+            "rng": "1-2",
+            "price": 4000,
+            "sell": 1250
+        },
+        "forge": 1,
+        "type": "tome"
+    },
+    "excalibur": {
+        "name": "Excalibur",
+        "desc": "Def/Res-5. Eff. vs. fliers. Good for but also weak to follow-ups (+5/-5 eff. Spd).",
+        "weapon": true,
+        "stats": {
+            "rank": "S",
+            "mt": 12,
+            "hit": 90,
+            "crit": 25,
+            "avoid": -10,
+            "rng": "1-2",
+            "sell": 5000
+        },
+        "forge": 0,
+        "type": "tome",
+        "equip": {
+            "doubling_speed": -5
+        }
+    },
+    "brynhildr": {
+        "name": "Brynhildr",
+        "desc": "Leo only. May halve damage from magical attacks. Trigger % = (Skill stat)",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 10,
+            "hit": 80,
+            "crit": 5,
+            "dodge": 10,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "tome"
+    },
+    "ember": {
+        "name": "Ember",
+        "desc": "Ddg+10. A cantrip learned by beginning mages.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 1,
+            "hit": 100,
+            "avoid": 10,
+            "dodge": 10,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "tome"
+    },
+    "missiletainn": {
+        "name": "Missiletainn",
+        "desc": "Ophelia only. Skill/Res+1. Not a sword.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 9,
+            "hit": 70,
+            "crit": 10,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "tome"
+    },
+    "disrobinggale": {
+        "name": "Disrobing Gale",
+        "desc": "Good for follow-up attacks (+3 eff. Spd). With weapon advantage, strips foe's armor.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 4,
+            "hit": 75,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "tome",
+        "equip": {
+            "doubling_speed": -3
+        }
+    },
+    "speedthunder": {
+        "name": "Speed Thunder",
+        "desc": "Enemies within two spaces receive Spd+4 after use in combat.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 9,
+            "hit": 70,
+            "crit": 5,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "tome"
+    },
+    "moonlight": {
+        "name": "Moonlight",
+        "desc": "Restores 20% of wielder's maximum HP after combat he or she initiated.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 4,
+            "hit": 70,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "tome"
+    },
+    "iagostome": {
+        "name": "Iago's Tome",
+        "desc": "Wielder suffers Mag/Skill-2 after use in combat. Target suffers Def/Res-4 on hit.",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 7,
+            "hit": 85,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "tome"
+    },
+    "odinsgrimoire": {
+        "name": "Odin's Grimoire",
+        "desc": "Ddg-20. Deals extra damage on critical hit. Cannot make follow-up attacks.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 9,
+            "hit": 65,
+            "crit": 20,
+            "dodge": -20,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "tome"
+    },
+    "ratspirit": {
+        "name": "Rat Spirit",
+        "desc": "Skill+1, Ddg+10. Can't inflict criticals or trigger offensive skills.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 3,
+            "hit": 85,
+            "dodge": 10,
+            "rng": "1-2",
+            "price": 500,
+            "sell": 250
+        },
+        "forge": 1,
+        "type": "scroll",
+        "equip": {
+            "stats": {"skl": 1}
+        }
+    },
+    "oxspirit": {
+        "name": "Ox Spirit",
+        "desc": "Def+1. Each scroll weapon boosts one or more of the wielder's stats.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 5,
+            "hit": 75,
+            "rng": "1-2",
+            "price": 1000,
+            "sell": 500
+        },
+        "forge": 0,
+        "type": "scroll",
+        "equip": {
+            "stats": {"def": 1}
+        }
+    },
+    "tigerspirit": {
+        "name": "Tiger Spirit",
+        "desc": "Spd+1. Makes follow-up attacks more difficult to perform (-3 effective Spd).",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 8,
+            "hit": 70,
+            "avoid": -5,
+            "rng": "1-2",
+            "price": 2000,
+            "sell": 750
+        },
+        "forge": 0,
+        "type": "scroll",
+        "equip": {
+            "doubling_speed": 3,
+            "stats": {"spd": 1}
+        }
+    },
+    "rabbitspirit": {
+        "name": "Rabbit Spirit",
+        "desc": "Res+1, Ddg-5. After use in combat, Mag/Skill-2 (recovers 1/turn).",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 11,
+            "hit": 75,
+            "dodge": -5,
+            "rng": "1-2",
+            "price": 4000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "scroll",
+        "equip": {
+            "stats": {"res": 1}
+        }
+    },
+    "dragonspirit": {
+        "name": "Dragon Spirit",
+        "desc": "Skill/Def+1. Eff. vs. dragons. After use in combat, halves Mag until wielder attacks.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 11,
+            "hit": 85,
+            "crit": 10,
+            "rng": "1-2",
+            "price": 8000,
+            "sell": 2000
+        },
+        "forge": 0,
+        "type": "scroll",
+        "equip": {
+            "stats": {"skl": 1, "def": 1},
+            "effective": true
+        }
+    },
+    "calamitygate": {
+        "name": "Calamity Gate",
+        "desc": "Spd/Def+1. Inverts weapon advantage and doubles its effects.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 7,
+            "hit": 70,
+            "crit": 5,
+            "rng": "1-2",
+            "price": 4000,
+            "sell": 1250
+        },
+        "forge": 0,
+        "type": "scroll",
+        "equip": {
+            "stats": {"spd": 1, "def": 1}
+        }
+    },
+    "snakespirit": {
+        "name": "Snake Spirit",
+        "desc": "Spd/Res+1. Strikes twice when attacking. Afterward, halves Mag until unit attacks.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 5,
+            "hit": 60,
+            "rng": "1-2",
+            "price": 8000,
+            "sell": 2000
+        },
+        "forge": 0,
+        "type": "scroll",
+        "equip": {
+            "stats": {"spd": 1, "res": 1}
+        }
+    },
+    "horsespirit": {
+        "name": "Horse Spirit",
+        "desc": "+3 to Skill/Spd/Def/Res. An enduring spirit.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 4,
+            "hit": 70,
+            "rng": "1-2",
+            "price": 2100,
+            "sell": 780
+        },
+        "forge": 0,
+        "type": "scroll",
+        "equip": {
+            "stats": {"skl": 3, "spd": 3, "def": 3, "res": 3}
+        }
+    },
+    "sheepspirit": {
+        "name": "Sheep Spirit",
+        "desc": "Def/Res+1. Use while equipped to restore 10 HP to the wielder.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 5,
+            "hit": 70,
+            "rng": "1-2",
+            "price": 1800,
+            "sell": 700
+        },
+        "forge": 0,
+        "type": "scroll",
+        "equip": {
+            "stats": {"def": 1, "res": 1}
+        }
+    },
+    "paper": {
+        "name": "Paper",
+        "desc": "Spd+1, Ddg+10. Supposedly beats rock, but not much else.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 1,
+            "hit": 95,
+            "avoid": 10,
+            "dodge": 10,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "scroll",
+        "equip": {
+            "stats": {"spd": 1}
+        }
+    },
+    "malevolenttext": {
+        "name": "Malevolent Text",
+        "desc": "Skill+1. Makes follow-up attacks more difficult to perform (-3 effective Spd).",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 10,
+            "hit": 50,
+            "crit": 10,
+            "avoid": -10,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "scroll",
+        "equip": {
+            "doubling_speed": 3,
+            "stats": {"skl": 1}
+        }
+    },
+    "monkeyspirit": {
+        "name": "Monkey Spirit",
+        "desc": "Skill/Spd+1, Res+2, Lck -4. A star-crossed spirit.",
+        "weapon": true,
+        "stats": {
+            "rank": "D",
+            "mt": 4,
+            "hit": 80,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "scroll",
+        "equip": {
+            "stats": {"skl": 1, "spd": 1, "res": 2, "lck": 4}
+        }
+    },
+    "birdspirit": {
+        "name": "Bird Spirit",
+        "desc": "Spd/Lck+1, Def-4. A lighthearted spirit.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 5,
+            "hit": 75,
+            "avoid": 15,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "scroll",
+        "equip": {
+            "stats": {"skl": 1, "lck": 1, "def": -4}
+        }
+    },
+    "inkpainting": {
+        "name": "Ink Painting",
+        "desc": "Skill/Lck+1. Mt X2 on counterattack. Mag/ Skill-2 after combat. Cannot follow up.",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 9,
+            "hit": 90,
+            "avoid": -20,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "scroll",
+        "equip": {
+            "stats": {"skl": 1, "lck": 1}
+        }
+    },
+    "izanasscroll": {
+        "name": "Izana's Scroll",
+        "desc": "Skill+1, Def-2, Res-1. Doubles Mt when attacking. Cannot make follow-up attacks.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 5,
+            "hit": 85,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "scroll",
+        "equip": {
+            "stats": {"skl": 1, "def": -2, "res": -1}
+        }
+    },
+    "heal": {
+        "name": "Heal",
+        "desc": "Restores some HP to an adjacent ally. (HP restored = [10 + (Mag / 3)])",
+        "weapon": false,
+        "stats": {
+            "rank": "E",
+            "rng": 1,
+            "price": 500,
+            "sell": 250
+        },
+        "forge": 0,
+        "type": "staff"
+    },
+    "mend": {
+        "name": "Mend",
+        "desc": "Restores a lot of HP to an adjacent ally. (HP restored = [20 + (Mag / 3)])",
+        "weapon": false,
+        "stats": {
+            "rank": "D",
+            "rng": 1,
+            "price": 1000,
+            "sell": 500
+        },
+        "forge": 0,
+        "type": "staff"
+    },
+    "physic": {
+        "name": "Physic",
+        "desc": "Restores some HP to a distant ally. (HP restored = [7 + (Mag / 3)])",
+        "weapon": false,
+        "stats": {
+            "rank": "C",
+            "rng": "1-7",
+            "price": 3000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "staff"
+    },
+    "recover": {
+        "name": "Recover",
+        "desc": "Restores a huge amount of HP to an adjacent ally. (HP restored = [35 + (Mag / 3)])",
+        "weapon": false,
+        "stats": {
+            "rank": "B",
+            "rng": 1,
+            "price": 3000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "staff"
+    },
+    "fortify": {
+        "name": "Fortify",
+        "desc": "Restores some HP to all allies in range. (HP restored = [7 + (Mag / 3)])",
+        "weapon": false,
+        "stats": {
+            "rank": "A",
+            "rng": "1-7",
+            "price": 5000,
+            "sell": 2000
+        },
+        "forge": 0,
+        "type": "staff"
+    },
+    "freeze": {
+        "name": "Freeze",
+        "desc": "Reduces enemy Mov to 0 and Avo by 20 for one turn.",
+        "weapon": false,
+        "stats": {
+            "rank": "D",
+            "hit": 80,
+            "rng": "1-7",
+            "price": 1800,
+            "sell": 700
+        },
+        "forge": 0,
+        "type": "staff"
+    },
+    "enfeeble": {
+        "name": "Enfeeble",
+        "desc": "Inflicts -4 to all target's stats (each stat recovers 1/turn).",
+        "weapon": false,
+        "stats": {
+            "rank": "C",
+            "hit": 80,
+            "rng": "1-7",
+            "price": 2500,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "staff"
+    },
+    "entrap": {
+        "name": "Entrap",
+        "desc": "Warps an enemy to an adjacent space.",
+        "weapon": false,
+        "stats": {
+            "rank": "B",
+            "hit": 60,
+            "rng": "1-7",
+            "uses": 2,
+            "price": 4200
+        },
+        "forge": 0,
+        "type": "staff"
+    },
+    "entrapenemy": {
+        "name": "Entrap (Enemy)",
+        "desc": "Warps an enemy to an adjacent space.",
+        "weapon": false,
+        "stats": {
+            "rank": "B",
+            "hit": 200,
+            "rng": "1-255"
+        },
+        "forge": 0,
+        "type": "staff"
+    },
+    "bifrost": {
+        "name": "Bifr\u00f6st",
+        "desc": "Revives the most recently fallen ally in the current battle.",
+        "weapon": false,
+        "stats": {
+            "rank": "S",
+            "rng": 0,
+            "sell": 5000
+        },
+        "forge": 0,
+        "type": "staff"
+    },
+    "candycane": {
+        "name": "Candy Cane",
+        "desc": "Restores 10-13 HP to an ally and 5 HP to the user. (HP restored = [10 + (Mag / 3)])",
+        "weapon": false,
+        "stats": {
+            "rank": "E",
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "staff"
+    },
+    "mushroomstaff": {
+        "name": "Mushroom Staff",
+        "desc": "Restores 15-18 HP to an ally and grants the user Res+2 until end of battle. (HP restored = [15 + (Mag / 3)])",
+        "weapon": false,
+        "stats": {
+            "rank": "E",
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "staff"
+    },
+    "bouquetstaff": {
+        "name": "Bouquet Staff",
+        "desc": "Restores 20-23 HP to an adjacent ally and grants target Lck+4 until end of battle. (HP restored = [20 + (Mag / 3)])",
+        "weapon": false,
+        "stats": {
+            "rank": "D",
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "staff"
+    },
+    "elisesstaff": {
+        "name": "Elise's Staff",
+        "desc": "Restores 10-13 HP to an ally in range. (HP restored = [10 + (Mag / 3)])",
+        "weapon": false,
+        "stats": {
+            "rank": "C",
+            "rng": "1-5"
+        },
+        "forge": 0,
+        "type": "staff"
+    },
+    "lilithsstaff": {
+        "name": "Lilith's Staff",
+        "desc": "Restores 7-10 HP to all nearby allies. (HP restored = [7 + (Mag / 3)])",
+        "weapon": false,
+        "stats": {
+            "rank": "B",
+            "rng": "1-5"
+        },
+        "forge": 0,
+        "type": "staff"
+    },
+    "bloomfestal": {
+        "name": "Bloom Festal",
+        "desc": "Restores some HP to a nearby ally. (HP restored = [7 + (Mag / 3)])",
+        "weapon": false,
+        "stats": {
+            "rank": "E",
+            "rng": "1-2",
+            "price": 500,
+            "sell": 250
+        },
+        "forge": 0,
+        "type": "rod"
+    },
+    "sunfestal": {
+        "name": "Sun Festal",
+        "desc": "Restores a lot of HP to a nearby ally. (HP restored = [14 + (Mag / 3)])",
+        "weapon": false,
+        "stats": {
+            "rank": "D",
+            "rng": "1-2",
+            "price": 1000,
+            "sell": 500
+        },
+        "forge": 0,
+        "type": "rod"
+    },
+    "wanefestal": {
+        "name": "Wane Festal",
+        "desc": "Restores some HP to a distant ally. (HP restored = [2 + (Mag / 3)])",
+        "weapon": false,
+        "stats": {
+            "rank": "C",
+            "rng": "1-10",
+            "price": 3000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "rod"
+    },
+    "moonfestal": {
+        "name": "Moon Festal",
+        "desc": "Restores a huge amount of HP to a nearby ally. (HP restored = [25 + (Mag / 3)])",
+        "weapon": false,
+        "stats": {
+            "rank": "B",
+            "rng": "1-2",
+            "price": 3000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "rod"
+    },
+    "greatfestal": {
+        "name": "Great Festal",
+        "desc": "Restores some HP to all allies in range. (HP restored = [2 + (Mag / 3)])",
+        "weapon": false,
+        "stats": {
+            "rank": "A",
+            "rng": "1-10",
+            "price": 5000,
+            "sell": 2000
+        },
+        "forge": 0,
+        "type": "rod"
+    },
+    "rescue": {
+        "name": "Rescue",
+        "desc": "Moves a distant ally to an adjacent space.",
+        "weapon": false,
+        "stats": {
+            "rank": "E",
+            "rng": "1-10",
+            "price": 3800,
+            "sell": 1500
+        },
+        "forge": 0,
+        "type": "rod"
+    },
+    "silence": {
+        "name": "Silence",
+        "desc": "Renders target unable to use magic or staves for one turn.",
+        "weapon": false,
+        "stats": {
+            "rank": "C",
+            "hit": 70,
+            "rng": "1-10",
+            "price": 2400,
+            "sell": 900
+        },
+        "forge": 0,
+        "type": "rod"
+    },
+    "hexingrod": {
+        "name": "Hexing Rod",
+        "desc": "Reduces target's maximum HP by half for one battle.",
+        "weapon": false,
+        "stats": {
+            "rank": "B",
+            "hit": 50,
+            "rng": "1-10",
+            "price": 3000,
+            "sell": 1200
+        },
+        "forge": 0,
+        "type": "rod"
+    },
+    "lantern": {
+        "name": "Lantern",
+        "desc": "Restores 7-10 HP to an ally in range. (HP restored = [7 + (Mag / 3)])",
+        "weapon": false,
+        "stats": {
+            "rank": "E",
+            "rng": "1-3"
+        },
+        "forge": 0,
+        "type": "rod"
+    },
+    "dumplingrod": {
+        "name": "Dumpling Rod",
+        "desc": "Restores 10-13 HP to a nearby ally or use to restore 10 HP to the wielder. (HP restored = [10 + (Mag / 3)])",
+        "weapon": false,
+        "stats": {
+            "rank": "D",
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "rod"
+    },
+    "bamboobranch": {
+        "name": "Bamboo Branch",
+        "desc": "Restores 15-18 HP to a nearby ally and grants Lck+8 to all allies within two tiles. (HP restored = [15 + (Mag / 3)])",
+        "weapon": false,
+        "stats": {
+            "rank": "C",
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "rod"
+    },
+    "sakurasrod": {
+        "name": "Sakura's Rod",
+        "desc": "Restores 7-10 HP to a nearby ally. (HP restored = [7 + (Mag / 3)])",
+        "weapon": false,
+        "stats": {
+            "rank": "E",
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "rod"
+    },
+    "purificationrod": {
+        "name": "Purification Rod",
+        "desc": "Restores 30-33 HP to a nearby ally. (HP restored = [30 + (Mag / 3)])",
+        "weapon": false,
+        "stats": {
+            "rank": "B",
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "rod"
+    },
+    "dragonstone": {
+        "name": "Dragonstone",
+        "desc": "Skill-3, Spd-2, Def+4, Res+3, Ddg+10. Magical. Cannot make follow-up attacks.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 14,
+            "hit": 85,
+            "avoid": -10,
+            "dodge": 10,
+            "rng": 1,
+            "price": 2000
+        },
+        "forge": 0,
+        "type": "dragonstone",
+        "equip": {
+            "stats": {
+                "skl": -3,
+                "spd": -2,
+                "def": 4,
+                "res": 3
+            },
+            "magical": true
+        }
+    },
+    "dragonstone+": {
+        "name": "Dragonstone+",
+        "desc": "Skill-5, Spd-4, Def+9, Res+7, Ddg+10. Magical. Mag/Skill-2 after use in combat.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 25,
+            "hit": 75,
+            "avoid": -10,
+            "dodge": 10,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "dragonstone",
+        "equip": {
+            "stats": {
+                "skl": -5,
+                "spd": -4,
+                "def": 9,
+                "res": 7
+            },
+            "magical": true
+        }
+    },
+    "beaststone": {
+        "name": "Beaststone",
+        "desc": "Skill+5, Spd+3, Def-2, Ddg+10. Enables a wolfskin or kitsune to fight as a beast.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 6,
+            "hit": 90,
+            "crit": 5,
+            "avoid": 10,
+            "dodge": 10,
+            "rng": 1,
+            "price": 2000
+        },
+        "forge": 0,
+        "type": "beaststone",
+        "equip": {
+            "stats": {
+                "skl": 5,
+                "spd": 3,
+                "def": -2
+            }
+        }
+    },
+    "beastrune": {
+        "name": "Beastrune",
+        "desc": "Skill-2, Spd-1, Def+4, Res+5, Ddg+10. Enables a tougher beast form.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 9,
+            "hit": 80,
+            "dodge": 10,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "beaststone",
+        "equip": {
+            "stats": {
+                "skl": -2,
+                "spd": -1,
+                "def": 4,
+                "res": 5
+            }
+        }
+    },
+    "beaststone+": {
+        "name": "Beaststone+",
+        "desc": "Skill+8, Spd+6, Def-5, Res-3, Ddg+10. Str/Skill-2 after use in combat.",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 12,
+            "hit": 90,
+            "crit": 5,
+            "avoid": 10,
+            "dodge": 10,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "beaststone",
+        "equip": {
+            "stats": {
+                "skl": 8,
+                "spd": 6,
+                "def": -5,
+                "res": -3
+            }
+        }
+    },
+    "draconicrage": {
+        "name": "Draconic Rage",
+        "desc": "Ddg+10. Cannot make follow-up attacks. The savage fury of a bestial dragon.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 15,
+            "hit": 75,
+            "avoid": -10,
+            "dodge": 10,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "breath"
+    },
+    "darkbreath": {
+        "name": "Dark Breath",
+        "desc": "Ddg+10. Cannot make follow-up attacks. The foul exhalations of the darkest dragon.",
+        "weapon": true,
+        "stats": {
+            "rank": "S",
+            "mt": 30,
+            "hit": 100,
+            "avoid": 10,
+            "dodge": 10,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "breath"
+    },
+    "dragonbreath": {
+        "name": "Dragon Breath",
+        "desc": "Ddg+10. Cannot make follow-up attacks. The fell breath of a First Dragon.",
+        "weapon": true,
+        "stats": {
+            "rank": "S",
+            "mt": 20,
+            "hit": 100,
+            "avoid": 10,
+            "dodge": 10,
+            "rng": "1-5"
+        },
+        "forge": 0,
+        "type": "breath"
+    },
+    "shackledfist": {
+        "name": "Shackled Fist",
+        "desc": "The only weapon the Faceless need.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 8,
+            "hit": 80,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "claw"
+    },
+    "gauntlet": {
+        "name": "Gauntlet",
+        "desc": "Ddg-5. Str/Skill-2 after use in combat. Dangerous on the wrong hands.",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 13,
+            "hit": 90,
+            "dodge": -5,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "claw"
+    },
+    "rock": {
+        "name": "Rock",
+        "desc": "Stoneborn only. A weapon deadly in its simplicity.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 9,
+            "hit": 80,
+            "rng": "1-5"
+        },
+        "forge": 1,
+        "type": "rock"
+    },
+    "massiverock": {
+        "name": "Massive Rock",
+        "desc": "Stoneborn only. A weapon devastating in its simplicity.",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 15,
+            "hit": 75,
+            "rng": "1-5"
+        },
+        "forge": 1,
+        "type": "rock"
+    },
+    "astralbreath": {
+        "name": "Astral Breath",
+        "desc": "Cannot make follow-up attacks. Deadly to those who live in just one world.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 10,
+            "hit": 85,
+            "rng": "1-5"
+        },
+        "forge": 0,
+        "type": "breath"
+    },
+    "astralblessing": {
+        "name": "Astral Blessing",
+        "desc": "Restores HP to a distant ally. (HP restored = [7 + (Mag / 3)])",
+        "weapon": false,
+        "stats": {
+            "rank": "E",
+            "rng": "1-5"
+        },
+        "forge": 0,
+        "type": "staff"
+    },
+    "vulnerary": {
+        "name": "Vulnerary",
+        "desc": "Restores 10 HP to the user.",
+        "weapon": false,
+        "stats": {
+            "price": 300,
+            "sell": 100
+        },
+        "forge": 0,
+        "type": "item"
+    },
+    "concoction": {
+        "name": "Concoction",
+        "desc": "Restores 20 HP to the user.",
+        "weapon": false,
+        "stats": {
+            "price": 600,
+            "sell": 200
+        },
+        "forge": 0,
+        "type": "item"
+    },
+    "elixir": {
+        "name": "Elixir",
+        "desc": "Restores 40 HP to the user.",
+        "weapon": false,
+        "stats": {
+            "price": 900,
+            "sell": 300
+        },
+        "forge": 0,
+        "type": "item"
+    },
+    "hptonic": {
+        "name": "HP Tonic",
+        "desc": "Grants +5 to max HP for one battle.",
+        "weapon": false,
+        "stats": {
+            "price": 150,
+            "sell": 50
+        },
+        "forge": 0,
+        "type": "item"
+    },
+    "strengthtonic": {
+        "name": "Strength Tonic",
+        "desc": "Grants Str+2 for one battle.",
+        "weapon": false,
+        "stats": {
+            "price": 150,
+            "sell": 50
+        },
+        "forge": 0,
+        "type": "item"
+    },
+    "magictonic": {
+        "name": "Magic Tonic",
+        "desc": "Grants Mag+2 for one battle.",
+        "weapon": false,
+        "stats": {
+            "price": 150,
+            "sell": 50
+        },
+        "forge": 0,
+        "type": "item"
+    },
+    "skilltonic": {
+        "name": "Skill Tonic",
+        "desc": "Grants Skill+2 for one battle.",
+        "weapon": false,
+        "stats": {
+            "price": 150,
+            "sell": 50
+        },
+        "forge": 0,
+        "type": "item"
+    },
+    "speedtonic": {
+        "name": "Speed Tonic",
+        "desc": "Grants Spd+2 for one battle.",
+        "weapon": false,
+        "stats": {
+            "price": 150,
+            "sell": 50
+        },
+        "forge": 0,
+        "type": "item"
+    },
+    "lucktonic": {
+        "name": "Luck Tonic",
+        "desc": "Grants Lck+4 for one battle.",
+        "weapon": false,
+        "stats": {
+            "price": 150,
+            "sell": 50
+        },
+        "forge": 0,
+        "type": "item"
+    },
+    "defensetonic": {
+        "name": "Defense Tonic",
+        "desc": "Grants Def+2 for one battle.",
+        "weapon": false,
+        "stats": {
+            "price": 150,
+            "sell": 50
+        },
+        "forge": 0,
+        "type": "item"
+    },
+    "resistancetonic": {
+        "name": "Resistance Tonic",
+        "desc": "Grants Res+2 for one battle.",
+        "weapon": false,
+        "stats": {
+            "price": 150,
+            "sell": 50
+        },
+        "forge": 0,
+        "type": "item"
+    },
+    "azurassalve": {
+        "name": "Azura's Salve",
+        "desc": "Restores 10 HP to all adjacent allies.",
+        "weapon": false,
+        "stats": {},
+        "forge": 0,
+        "type": "item"
+    },
+    "gunterspotion": {
+        "name": "Gunter's Potion",
+        "desc": "Restores 25 HP to the user.",
+        "weapon": false,
+        "stats": {},
+        "forge": 0,
+        "type": "item"
+    },
+    "asugisconfect": {
+        "name": "Asugi's Confect",
+        "desc": "Restores 10 HP and grants +2 to Str/Skill/Spd for one battle.",
+        "weapon": false,
+        "stats": {},
+        "forge": 0,
+        "type": "item"
+    },
+    "rainbowtonic": {
+        "name": "Rainbow Tonic",
+        "desc": "Grants Lck+4 and +2 to all other stats for one battle.",
+        "weapon": false,
+        "stats": {},
+        "forge": 0,
+        "type": "item"
+    },
+    "seedoftrust": {
+        "name": "Seed of Trust",
+        "desc": "Builds support between two paired units (when possible).",
+        "weapon": false,
+        "stats": {},
+        "forge": 0,
+        "type": "item"
+    },
+    "allegroharp": {
+        "name": "Allegro Harp",
+        "desc": "Grants Spd+4 to allies within a two-square radius for one turn.",
+        "weapon": false,
+        "stats": {},
+        "forge": 0,
+        "type": "item"
+    },
+    "shellhorn": {
+        "name": "Shell Horn",
+        "desc": "Grants Def+4 to allies within a two-square radius for one turn.",
+        "weapon": false,
+        "stats": {},
+        "forge": 0,
+        "type": "item"
+    },
+    "saw": {
+        "name": "Saw",
+        "desc": "Saws lower enemy stats on a hit.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 7,
+            "hit": 90,
+            "avoid": 10,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "saw"
+    },
+    "bigsaw": {
+        "name": "Big Saw",
+        "desc": "Ddg-5. Lowers enemy stats on a hit, but Str/Skill-2 after use in combat.",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 12,
+            "hit": 85,
+            "avoid": 10,
+            "dodge": -5,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "saw"
+    },
+    "doorkey": {
+        "name": "Door Key",
+        "desc": "Opens a door.",
+        "weapon": false,
+        "stats": {},
+        "forge": 0,
+        "type": "item"
+    },
+    "chestkey": {
+        "name": "Chest Key",
+        "desc": "Opens a chest.",
+        "weapon": false,
+        "stats": {},
+        "forge": 0,
+        "type": "item"
+    },
+    "masterkey": {
+        "name": "Master Key",
+        "desc": "Opens a door or chest.",
+        "weapon": false,
+        "stats": {},
+        "forge": 0,
+        "type": "item"
+    },
+    "seraphrobe": {
+        "name": "Seraph Robe",
+        "desc": "Permanently increases Max HP by 5.",
+        "weapon": false,
+        "stats": {
+            "price": 10000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "item"
+    },
+    "energydrop": {
+        "name": "Energy Drop",
+        "desc": "Permanently increases Str by 2.",
+        "weapon": false,
+        "stats": {
+            "price": 10000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "item"
+    },
+    "spiritdust": {
+        "name": "Spirit Dust",
+        "desc": "Permanently increases Mag by 2.",
+        "weapon": false,
+        "stats": {
+            "price": 10000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "item"
+    },
+    "secretbook": {
+        "name": "Secret Book",
+        "desc": "Permanently increases Skill by 2.",
+        "weapon": false,
+        "stats": {
+            "price": 10000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "item"
+    },
+    "speedwing": {
+        "name": "Speedwing",
+        "desc": "Permanently increases Spd by 2.",
+        "weapon": false,
+        "stats": {
+            "price": 10000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "item"
+    },
+    "goddessicon": {
+        "name": "Goddess Icon",
+        "desc": "Permanently increases Lck by 4.",
+        "weapon": false,
+        "stats": {
+            "price": 10000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "item"
+    },
+    "dracoshield": {
+        "name": "Dracoshield",
+        "desc": "Permanently increases Def by 2.",
+        "weapon": false,
+        "stats": {
+            "price": 10000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "item"
+    },
+    "talisman": {
+        "name": "Talisman",
+        "desc": "Permanently increases Res by 2.",
+        "weapon": false,
+        "stats": {
+            "price": 10000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "item"
+    },
+    "dragonherbs": {
+        "name": "Dragon Herbs",
+        "desc": "Permanently increases all stats by 1.",
+        "weapon": false,
+        "stats": {
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "item"
+    },
+    "boots": {
+        "name": "Boots",
+        "desc": "Permanently increases Mov by 1.",
+        "weapon": false,
+        "stats": {
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "item"
+    },
+    "armsscroll": {
+        "name": "Arms Scroll",
+        "desc": "Raises the weapon level of all equippable weapons and staves.",
+        "weapon": false,
+        "stats": {
+            "price": 5000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "item"
+    },
+    "masterseal": {
+        "name": "Master Seal",
+        "desc": "Promotes a base class at LV 10 or higher to an advanced class.",
+        "weapon": false,
+        "stats": {
+            "price": 2000,
+            "sell": 500
+        },
+        "forge": 0,
+        "type": "item"
+    },
+    "heartseal": {
+        "name": "Heart Seal",
+        "desc": "Changes a unit's class based on personality (level stays the same).",
+        "weapon": false,
+        "stats": {
+            "price": 2000,
+            "sell": 500
+        },
+        "forge": 0,
+        "type": "item"
+    },
+    "partnerseal": {
+        "name": "Partner Seal",
+        "desc": "Changes a unit's class based on S rank support partner (level stays the same).",
+        "weapon": false,
+        "stats": {
+            "price": 2000,
+            "sell": 500
+        },
+        "forge": 0,
+        "type": "item"
+    },
+    "friendshipseal": {
+        "name": "Friendship Seal",
+        "desc": "Changes a unit's class based on A+ support partner (level stays the same).",
+        "weapon": false,
+        "stats": {
+            "price": 2000,
+            "sell": 500
+        },
+        "forge": 0,
+        "type": "item"
+    },
+    "eternalseal": {
+        "name": "Eternal Seal",
+        "desc": "Raises the level cap by +5 for a max-level unit (advanced/special classes only).",
+        "weapon": false,
+        "stats": {
+            "price": 12000,
+            "sell": 1000
+        },
+        "forge": 0,
+        "type": "item"
+    },
+    "dreadscroll": {
+        "name": "Dread Scroll",
+        "desc": "Changes a unit to the Dread Fighter class.",
+        "weapon": false,
+        "stats": {},
+        "forge": 0,
+        "type": "item"
+    },
+    "ebonwing": {
+        "name": "Ebon Wing",
+        "desc": "Changes a unit to the Dark Falcon class.",
+        "weapon": false,
+        "stats": {},
+        "forge": 0,
+        "type": "item"
+    },
+    "battleseal": {
+        "name": "Battle Seal",
+        "desc": "+2 to Str/Mag/Skill/Spd when carried. Bestowed only on the greatest tacticians.",
+        "weapon": false,
+        "stats": {
+            "sell": 10000
+        },
+        "forge": 0,
+        "type": "item"
+    },
+    "visitationseal": {
+        "name": "Visitation Seal",
+        "desc": "+2 to Lck/Def/Res when carried. Honor bestowed on the finest castle architects.",
+        "weapon": false,
+        "stats": {
+            "sell": 10000
+        },
+        "forge": 0,
+        "type": "item"
+    },
+    "offspringseal": {
+        "name": "Offspring Seal",
+        "desc": "Enables a unit to start an advanced class at a higher level than normal.",
+        "weapon": false,
+        "stats": {},
+        "forge": 0,
+        "type": "item"
+    },
+    "sightinglens": {
+        "name": "Sighting Lens",
+        "desc": "Changes a unit to the Ballistician class (male units only).",
+        "weapon": false,
+        "stats": {},
+        "forge": 0,
+        "type": "item"
+    },
+    "witchsmark": {
+        "name": "Witch's Mark",
+        "desc": "Changes a unit to the Witch class (female units only).",
+        "weapon": false,
+        "stats": {},
+        "forge": 0,
+        "type": "item"
+    },
+    "paragon": {
+        "name": "Paragon",
+        "desc": "Teaches the skill Paragon.",
+        "weapon": false,
+        "stats": {},
+        "forge": 0,
+        "type": "item"
+    },
+    "armorshield": {
+        "name": "Armor Shield",
+        "desc": "Teaches the skill Armor Shield.",
+        "weapon": false,
+        "stats": {},
+        "forge": 0,
+        "type": "item"
+    },
+    "beastshield": {
+        "name": "Beast Shield",
+        "desc": "Teaches the skill Beast Shield.",
+        "weapon": false,
+        "stats": {},
+        "forge": 0,
+        "type": "item"
+    },
+    "wingedshield": {
+        "name": "Winged Shield",
+        "desc": "Teaches the skill Winged Shield.",
+        "weapon": false,
+        "stats": {},
+        "forge": 0,
+        "type": "item"
+    },
+    "pointblank": {
+        "name": "Point Blank",
+        "desc": "Teaches the skill Point Blank.",
+        "weapon": false,
+        "stats": {},
+        "forge": 0,
+        "type": "item"
+    },
+    "boldstance": {
+        "name": "Bold Stance",
+        "desc": "Teaches the skill Bold Stance.",
+        "weapon": false,
+        "stats": {},
+        "forge": 0,
+        "type": "item"
+    },
+    "strengthtaker": {
+        "name": "Strengthtaker",
+        "desc": "Teaches the skill Strengthtaker.",
+        "weapon": false,
+        "stats": {},
+        "forge": 0,
+        "type": "item"
+    },
+    "magictaker": {
+        "name": "Magictaker",
+        "desc": "Teaches the skill Magictaker.",
+        "weapon": false,
+        "stats": {},
+        "forge": 0,
+        "type": "item"
+    },
+    "skilltaker": {
+        "name": "Skilltaker",
+        "desc": "Teaches the skill Skilltaker.",
+        "weapon": false,
+        "stats": {},
+        "forge": 0,
+        "type": "item"
+    },
+    "speedtaker": {
+        "name": "Speedtaker",
+        "desc": "Teaches the skill Speedtaker.",
+        "weapon": false,
+        "stats": {},
+        "forge": 0,
+        "type": "item"
+    },
+    "lucktaker": {
+        "name": "Lucktaker",
+        "desc": "Teaches the skill Lucktaker.",
+        "weapon": false,
+        "stats": {},
+        "forge": 0,
+        "type": "item"
+    },
+    "defensetaker": {
+        "name": "Defensetaker",
+        "desc": "Teaches the skill Defensetaker.",
+        "weapon": false,
+        "stats": {},
+        "forge": 0,
+        "type": "item"
+    },
+    "resistancetaker": {
+        "name": "Resistancetaker",
+        "desc": "Teaches the skill Resistancetaker.",
+        "weapon": false,
+        "stats": {},
+        "forge": 0,
+        "type": "item"
+    },
+    "masteremblem": {
+        "name": "Master Emblem",
+        "desc": "Grants +1 to all stats when carried.",
+        "weapon": false,
+        "stats": {
+            "sell": 10000
+        },
+        "forge": 0,
+        "type": "item"
+    },
+    "falchion": {
+        "name": "Falchion",
+        "desc": "Ddg+10. Effective vs. dragons. When equipped, use to restore 10 HP.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 13,
+            "hit": 85,
+            "crit": 10,
+            "dodge": 10,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "sword",
+        "equip": {
+            "effective": true
+        }
+    },
+    "ragnell": {
+        "name": "Ragnell",
+        "desc": "Def+3. Makes follow-up attacks more difficult (-3 effective Spd).",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 13,
+            "hit": 75,
+            "avoid": -5,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "sword",
+        "equip": {
+            "stats": {
+                "def": 3
+            },
+            "doubling_speed": 3
+        }
+    },
+    "parallelfalchion": {
+        "name": "Parallel Falchion",
+        "desc": "Effective vs. dragons. Good for follow-ups (+3 eff. Spd). Restores HP when used.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 11,
+            "hit": 85,
+            "crit": 5,
+            "avoid": 10,
+            "rng": 1
+        },
+        "forge": 0,
+        "type": "sword",
+        "equip": {
+            "effective": true,
+            "doubling_speed": -3
+        }
+    },
+    "thoron": {
+        "name": "Thoron",
+        "desc": "Res+3, Ddg+5. A mighty tome named for a legendary thunder spirit.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 12,
+            "hit": 70,
+            "crit": 10,
+            "dodge": 5,
+            "rng": "1-2"
+        },
+        "forge": 0,
+        "type": "tome"
+    },
+    "marthsspatha": {
+        "name": "Marth's Spatha",
+        "desc": "Ddg+10. A good training weapon for future hero-kings.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 9,
+            "hit": 75,
+            "dodge": 10,
+            "rng": 1,
+            "price": 3000,
+            "sell": 500
+        },
+        "forge": 0,
+        "type": "sword"
+    },
+    "ikesbackup": {
+        "name": "Ike's Backup",
+        "desc": "Def+3. Makes follow-up attacks more difficult (-3 effective Spd).",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 10,
+            "hit": 70,
+            "avoid": -10,
+            "rng": 1,
+            "price": 3000,
+            "sell": 500
+        },
+        "forge": 0,
+        "type": "sword",
+        "equip": {
+            "doubling_speed": 3
+        }
+    },
+    "lucinasestoc": {
+        "name": "Lucina's Estoc",
+        "desc": "Good for follow-up attacks (+3 effective Spd).",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 7,
+            "hit": 75,
+            "rng": 1,
+            "price": 3000,
+            "sell": 500
+        },
+        "forge": 0,
+        "type": "sword",
+        "equip": {
+            "doubling_speed": -3
+        }
+    },
+    "robinsprimer": {
+        "name": "Robin's Primer",
+        "desc": "Res+3. A practice grimoire to keep the apprentice safe.",
+        "weapon": true,
+        "stats": {
+            "rank": "C",
+            "mt": 7,
+            "hit": 65,
+            "crit": 5,
+            "avoid": -10,
+            "rng": "1-2",
+            "price": 3000,
+            "sell": 500
+        },
+        "forge": 0,
+        "type": "tome"
+    }
+}

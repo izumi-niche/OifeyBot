@@ -1,0 +1,127 @@
+{
+    "fe16": {
+        "name": "Three Houses",
+        "default": "unit",
+        "alias": [
+            "3h",
+            "houses",
+            "house",
+            "fe3h"
+        ],
+        "random": {
+            "pool": "database/fe16/char.json",
+            "add": [
+                "fodlan"
+            ]
+        },
+        "color": "0x893cb5",
+        "data": {
+            "unit": {
+                "main": "database/fe16/char.json",
+                "exclamation": "class",
+                "add": [
+                    "class",
+                    "weapon"
+                ],
+                "level": {
+                    "lvl": 99,
+                    "size": 20
+                },
+                "multiple": {
+                    "class": 20
+                },
+                "entry": {
+                    "class": "database/fe16/job.json",
+                    "weapon": "database/fe16/item.json"
+                },
+                "bool": {
+                    "personal": []
+                },
+                "int": {
+                    "chapter": [
+                        1,
+                        22
+                    ]
+                },
+                "choice": {
+                    "difficulty": {
+                        "Maddening": "maddening",
+                        "Hard": "hard",
+                        "Normal": "normal"
+                    }
+                },
+                "custom_help": {
+                    "Averages": "text/game/averages/fe16.txt"
+                },
+                "classic_hidden": [
+                    "level"
+                ],
+                "lua": [
+                    "fe16",
+                    "Character"
+                ],
+                "comma": {
+                    "name": "compare",
+                    "size": 4
+                },
+                "stats": {
+                    "modifiers": [
+                        "hp",
+                        "str",
+                        "mag",
+                        "dex",
+                        "spd",
+                        "lck",
+                        "def",
+                        "res",
+                        "atk",
+                        "as",
+                        "hit",
+                        "crit"
+                    ]
+                },
+                "prefix": {
+                    "modifiers": "$"
+                }
+            },
+            "class": {
+                "main": "database/fe16/job.json",
+                "lua": [
+                    "fe16",
+                    "Job"
+                ]
+            },
+            "item": {
+                "main": "database/fe16/item.json",
+                "lua": [
+                    "fe16",
+                    "Item"
+                ]
+            },
+            "skill": {
+                "main": "database/fe16/skill.json",
+                "alias": [
+                    "ability"
+                ],
+                "lua": [
+                    "fe16",
+                    "Skill"
+                ]
+            },
+            "bat": {
+                "main": "database/fe16/bat.json",
+                "lua": [
+                    "fe16",
+                    "Bat"
+                ]
+            },
+            "rank": {
+                "main": "database/fe16/rank.json",
+                "lua": [
+                    "fe16",
+                    "Rank"
+                ]
+            }
+        }
+    }
+}

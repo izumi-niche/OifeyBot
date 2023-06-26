@@ -1,0 +1,6714 @@
+{
+    "anna": {
+        "name": "Anna",
+        "job": "outlaw",
+        "portrait": "anna.png",
+        "lvl": 10,
+        "personal": "makeakilling",
+        "father": false,
+        "mother": false,
+        "gender": "f",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "locktouch",
+                "movement1"
+            ],
+            "hard": [
+                "locktouch",
+                "movement1"
+            ],
+            "lunatic": [
+                "locktouch",
+                "movement1"
+            ]
+        },
+        "variable": false,
+        "set": [
+            "outlaw",
+            "troubadour",
+            "apothecary"
+        ],
+        "base": {
+            "normal": {
+                "hp": 7,
+                "str": 6,
+                "mag": 10,
+                "skl": 6,
+                "spd": 6,
+                "lck": 14,
+                "def": 4,
+                "res": 11
+            },
+            "hard": {
+                "hp": 7,
+                "str": 6,
+                "mag": 10,
+                "skl": 6,
+                "spd": 6,
+                "lck": 14,
+                "def": 4,
+                "res": 11
+            },
+            "lunatic": {
+                "hp": 7,
+                "str": 6,
+                "mag": 10,
+                "skl": 6,
+                "spd": 6,
+                "lck": 14,
+                "def": 4,
+                "res": 11
+            }
+        },
+        "cap": {
+            "str": -1,
+            "mag": 1,
+            "skl": 0,
+            "spd": -1,
+            "lck": 2,
+            "def": -2,
+            "res": 2
+        },
+        "growth": {
+            "hp": 35,
+            "str": 30,
+            "mag": 55,
+            "skl": 30,
+            "spd": 40,
+            "lck": 70,
+            "def": 20,
+            "res": 45
+        },
+        "rank": {
+            "normal": {
+                "bow": 51
+            },
+            "hard": {
+                "bow": 51
+            },
+            "lunatic": {
+                "bow": 51
+            }
+        },
+        "pairup": {
+            "raw": {
+                "c": {
+                    "lck": 1
+                },
+                "b": {
+                    "mag": 1
+                },
+                "a": {
+                    "lck": 1
+                },
+                "s": {
+                    "lck": 1,
+                    "res": 1
+                }
+            },
+            "bonus": {
+                "c": {
+                    "lck": 1
+                },
+                "b": {
+                    "lck": 1,
+                    "mag": 1
+                },
+                "a": {
+                    "lck": 2,
+                    "mag": 1
+                },
+                "s": {
+                    "lck": 3,
+                    "mag": 1,
+                    "res": 1
+                }
+            }
+        }
+    },
+    "arthur": {
+        "name": "Arthur",
+        "job": "fighter",
+        "portrait": "arthur.png",
+        "lvl": 7,
+        "personal": "misfortunate",
+        "father": false,
+        "mother": false,
+        "gender": "m",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "hp5"
+            ],
+            "hard": [
+                "hp5"
+            ],
+            "lunatic": [
+                "hp5"
+            ]
+        },
+        "variable": false,
+        "set": [
+            "fighter",
+            "cavalier"
+        ],
+        "base": {
+            "normal": {
+                "hp": 5,
+                "str": 5,
+                "mag": 0,
+                "skl": 3,
+                "spd": 2,
+                "lck": -1,
+                "def": 5,
+                "res": 3
+            },
+            "hard": {
+                "hp": 5,
+                "str": 5,
+                "mag": 0,
+                "skl": 3,
+                "spd": 2,
+                "lck": -1,
+                "def": 5,
+                "res": 3
+            },
+            "lunatic": {
+                "hp": 5,
+                "str": 5,
+                "mag": 0,
+                "skl": 3,
+                "spd": 2,
+                "lck": -1,
+                "def": 5,
+                "res": 3
+            }
+        },
+        "cap": {
+            "str": 1,
+            "mag": 0,
+            "skl": 3,
+            "spd": 0,
+            "lck": -3,
+            "def": 1,
+            "res": -1
+        },
+        "growth": {
+            "hp": 50,
+            "str": 45,
+            "mag": 0,
+            "skl": 55,
+            "spd": 35,
+            "lck": 5,
+            "def": 45,
+            "res": 20
+        },
+        "rank": {
+            "normal": {
+                "axe": 21
+            },
+            "hard": {
+                "axe": 21
+            },
+            "lunatic": {
+                "axe": 21
+            }
+        },
+        "pairup": {
+            "raw": {
+                "c": {
+                    "skl": 1
+                },
+                "b": {
+                    "str": 1
+                },
+                "a": {
+                    "str": 1
+                },
+                "s": {
+                    "skl": 2
+                }
+            },
+            "bonus": {
+                "c": {
+                    "skl": 1
+                },
+                "b": {
+                    "skl": 1,
+                    "str": 1
+                },
+                "a": {
+                    "skl": 1,
+                    "str": 2
+                },
+                "s": {
+                    "skl": 3,
+                    "str": 2
+                }
+            }
+        }
+    },
+    "azura": {
+        "name": "Azura",
+        "job": "songstress",
+        "portrait": "azura.png",
+        "lvl": 1,
+        "personal": "healingdescant",
+        "father": false,
+        "mother": false,
+        "gender": "f",
+        "blood": true,
+        "skill": {
+            "normal": [
+                "luck4"
+            ],
+            "hard": [
+                "luck4"
+            ],
+            "lunatic": [
+                "luck4"
+            ]
+        },
+        "variable": false,
+        "set": [
+            "songstress",
+            "skyknight"
+        ],
+        "base": {
+            "normal": {
+                "hp": 0,
+                "str": 2,
+                "mag": 2,
+                "skl": 2,
+                "spd": 3,
+                "lck": 3,
+                "def": 2,
+                "res": 4
+            },
+            "hard": {
+                "hp": 0,
+                "str": 2,
+                "mag": 2,
+                "skl": 2,
+                "spd": 3,
+                "lck": 3,
+                "def": 2,
+                "res": 4
+            },
+            "lunatic": {
+                "hp": 0,
+                "str": 2,
+                "mag": 2,
+                "skl": 2,
+                "spd": 3,
+                "lck": 3,
+                "def": 2,
+                "res": 4
+            }
+        },
+        "cap": {
+            "str": 0,
+            "mag": 0,
+            "skl": 1,
+            "spd": 3,
+            "lck": 0,
+            "def": -3,
+            "res": 0
+        },
+        "growth": {
+            "hp": 25,
+            "str": 50,
+            "mag": 25,
+            "skl": 60,
+            "spd": 60,
+            "lck": 40,
+            "def": 15,
+            "res": 35
+        },
+        "rank": {
+            "normal": {
+                "lance": 1
+            },
+            "hard": {
+                "lance": 1
+            },
+            "lunatic": {
+                "lance": 1
+            }
+        },
+        "pairup": {
+            "raw": {
+                "c": {
+                    "spd": 1
+                },
+                "b": {
+                    "skl": 1
+                },
+                "a": {
+                    "spd": 1
+                },
+                "s": {
+                    "spd": 1,
+                    "lck": 1
+                }
+            },
+            "bonus": {
+                "c": {
+                    "spd": 1
+                },
+                "b": {
+                    "spd": 1,
+                    "skl": 1
+                },
+                "a": {
+                    "spd": 2,
+                    "skl": 1
+                },
+                "s": {
+                    "spd": 3,
+                    "skl": 1,
+                    "lck": 1
+                }
+            }
+        }
+    },
+    "benny": {
+        "name": "Benny",
+        "job": "knight",
+        "portrait": "benny.png",
+        "lvl": 15,
+        "personal": "fiercemien",
+        "father": false,
+        "mother": false,
+        "gender": "m",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "defense2",
+                "naturalcover"
+            ],
+            "hard": [
+                "defense2",
+                "naturalcover"
+            ],
+            "lunatic": [
+                "defense2",
+                "naturalcover"
+            ]
+        },
+        "variable": false,
+        "set": [
+            "knight",
+            "fighter"
+        ],
+        "base": {
+            "normal": {
+                "hp": 12,
+                "str": 7,
+                "mag": 0,
+                "skl": 10,
+                "spd": 3,
+                "lck": 9,
+                "def": 11,
+                "res": 9
+            },
+            "hard": {
+                "hp": 12,
+                "str": 7,
+                "mag": 0,
+                "skl": 10,
+                "spd": 3,
+                "lck": 9,
+                "def": 11,
+                "res": 9
+            },
+            "lunatic": {
+                "hp": 12,
+                "str": 7,
+                "mag": 0,
+                "skl": 10,
+                "spd": 3,
+                "lck": 9,
+                "def": 11,
+                "res": 9
+            }
+        },
+        "cap": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": -3,
+            "lck": 0,
+            "def": 3,
+            "res": 1
+        },
+        "growth": {
+            "hp": 50,
+            "str": 40,
+            "mag": 0,
+            "skl": 50,
+            "spd": 10,
+            "lck": 35,
+            "def": 55,
+            "res": 45
+        },
+        "rank": {
+            "normal": {
+                "lance": 51
+            },
+            "hard": {
+                "lance": 51
+            },
+            "lunatic": {
+                "lance": 51
+            }
+        },
+        "pairup": {
+            "raw": {
+                "c": {
+                    "def": 1
+                },
+                "b": {
+                    "skl": 1
+                },
+                "a": {
+                    "str": 1
+                },
+                "s": {
+                    "str": 1,
+                    "def": 1
+                }
+            },
+            "bonus": {
+                "c": {
+                    "def": 1
+                },
+                "b": {
+                    "def": 1,
+                    "skl": 1
+                },
+                "a": {
+                    "def": 1,
+                    "skl": 1,
+                    "str": 1
+                },
+                "s": {
+                    "def": 2,
+                    "skl": 1,
+                    "str": 2
+                }
+            }
+        }
+    },
+    "beruka": {
+        "name": "Beruka",
+        "job": "wyvernrider",
+        "portrait": "beruka.png",
+        "lvl": 9,
+        "personal": "opportunist",
+        "father": false,
+        "mother": false,
+        "gender": "f",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "strength2"
+            ],
+            "hard": [
+                "strength2"
+            ],
+            "lunatic": [
+                "strength2"
+            ]
+        },
+        "variable": false,
+        "set": [
+            "wyvernrider",
+            "fighter"
+        ],
+        "base": {
+            "normal": {
+                "hp": 6,
+                "str": 7,
+                "mag": 0,
+                "skl": 9,
+                "spd": 5,
+                "lck": 8,
+                "def": 7,
+                "res": 7
+            },
+            "hard": {
+                "hp": 6,
+                "str": 7,
+                "mag": 0,
+                "skl": 9,
+                "spd": 5,
+                "lck": 8,
+                "def": 7,
+                "res": 7
+            },
+            "lunatic": {
+                "hp": 6,
+                "str": 7,
+                "mag": 0,
+                "skl": 9,
+                "spd": 5,
+                "lck": 8,
+                "def": 7,
+                "res": 7
+            }
+        },
+        "cap": {
+            "str": -1,
+            "mag": 0,
+            "skl": 2,
+            "spd": -2,
+            "lck": 0,
+            "def": 2,
+            "res": -1
+        },
+        "growth": {
+            "hp": 45,
+            "str": 30,
+            "mag": 10,
+            "skl": 55,
+            "spd": 30,
+            "lck": 45,
+            "def": 40,
+            "res": 25
+        },
+        "rank": {
+            "normal": {
+                "axe": 36
+            },
+            "hard": {
+                "axe": 36
+            },
+            "lunatic": {
+                "axe": 36
+            }
+        },
+        "pairup": {
+            "raw": {
+                "c": {
+                    "skl": 1
+                },
+                "b": {
+                    "def": 1
+                },
+                "a": {
+                    "skl": 1
+                },
+                "s": {
+                    "lck": 1,
+                    "def": 1
+                }
+            },
+            "bonus": {
+                "c": {
+                    "skl": 1
+                },
+                "b": {
+                    "skl": 1,
+                    "def": 1
+                },
+                "a": {
+                    "skl": 2,
+                    "def": 1
+                },
+                "s": {
+                    "skl": 2,
+                    "def": 2,
+                    "lck": 1
+                }
+            }
+        }
+    },
+    "camilla": {
+        "name": "Camilla",
+        "job": "maligknight",
+        "portrait": "camilla.png",
+        "lvl": 1,
+        "personal": "rosesthorns",
+        "father": false,
+        "mother": false,
+        "gender": "f",
+        "blood": true,
+        "skill": {
+            "normal": [
+                "strength2",
+                "lunge"
+            ],
+            "hard": [
+                "strength2",
+                "lunge"
+            ],
+            "lunatic": [
+                "strength2",
+                "lunge"
+            ]
+        },
+        "variable": false,
+        "set": [
+            "wyvernrider",
+            "darkmage"
+        ],
+        "base": {
+            "normal": {
+                "hp": 12,
+                "str": 12,
+                "mag": 5,
+                "skl": 9,
+                "spd": 14,
+                "lck": 12,
+                "def": 10,
+                "res": 9
+            },
+            "hard": {
+                "hp": 12,
+                "str": 12,
+                "mag": 5,
+                "skl": 9,
+                "spd": 14,
+                "lck": 12,
+                "def": 10,
+                "res": 9
+            },
+            "lunatic": {
+                "hp": 12,
+                "str": 12,
+                "mag": 5,
+                "skl": 9,
+                "spd": 14,
+                "lck": 12,
+                "def": 10,
+                "res": 9
+            }
+        },
+        "cap": {
+            "str": 1,
+            "mag": -1,
+            "skl": 1,
+            "spd": 1,
+            "lck": -2,
+            "def": 1,
+            "res": 0
+        },
+        "growth": {
+            "hp": 40,
+            "str": 50,
+            "mag": 25,
+            "skl": 50,
+            "spd": 55,
+            "lck": 25,
+            "def": 35,
+            "res": 45
+        },
+        "rank": {
+            "normal": {
+                "axe": 51,
+                "tome": 21
+            },
+            "hard": {
+                "axe": 51,
+                "tome": 21
+            },
+            "lunatic": {
+                "axe": 51,
+                "tome": 21
+            }
+        },
+        "pairup": {
+            "raw": {
+                "c": {
+                    "spd": 1
+                },
+                "b": {
+                    "res": 1
+                },
+                "a": {
+                    "str": 1
+                },
+                "s": {
+                    "str": 1,
+                    "def": 1
+                }
+            },
+            "bonus": {
+                "c": {
+                    "spd": 1
+                },
+                "b": {
+                    "spd": 1,
+                    "res": 1
+                },
+                "a": {
+                    "spd": 1,
+                    "res": 1,
+                    "str": 1
+                },
+                "s": {
+                    "spd": 1,
+                    "res": 1,
+                    "str": 2,
+                    "def": 1
+                }
+            }
+        }
+    },
+    "candace": {
+        "name": "Candace",
+        "job": "adventurer",
+        "portrait": "candace.png",
+        "lvl": 3,
+        "personal": false,
+        "father": false,
+        "mother": false,
+        "gender": "f",
+        "blood": false,
+        "pairup": false,
+        "variable": true,
+        "set": [
+            "outlaw"
+        ],
+        "base": {
+            "normal": {
+                "hp": 12,
+                "str": 11,
+                "mag": 1,
+                "skl": 6,
+                "spd": 3,
+                "lck": 9,
+                "def": 6,
+                "res": 5
+            },
+            "hard": {
+                "hp": 12,
+                "str": 12,
+                "mag": 0,
+                "skl": 10,
+                "spd": 3,
+                "lck": 9,
+                "def": 8,
+                "res": 5
+            },
+            "lunatic": {
+                "hp": 15,
+                "str": 15,
+                "mag": 3,
+                "skl": 10,
+                "spd": 3,
+                "lck": 9,
+                "def": 10,
+                "res": 7
+            }
+        },
+        "cap": {
+            "str": 0,
+            "mag": 1,
+            "skl": -2,
+            "spd": -2,
+            "lck": 2,
+            "def": 1,
+            "res": 1
+        },
+        "growth": {
+            "hp": 45,
+            "str": 20,
+            "mag": 20,
+            "skl": 20,
+            "spd": 25,
+            "lck": 55,
+            "def": 35,
+            "res": 35
+        },
+        "rank": {
+            "normal": {
+                "bow": 96,
+                "staff": 1
+            },
+            "hard": {
+                "bow": 96,
+                "staff": 51
+            },
+            "lunatic": {
+                "bow": 161,
+                "staff": 96
+            }
+        },
+        "skill": {
+            "lunatic": [],
+            "hard": [],
+            "normal": []
+        }
+    },
+    "charlotte": {
+        "name": "Charlotte",
+        "job": "fighter",
+        "portrait": "charlotte.png",
+        "lvl": 10,
+        "personal": "unmask",
+        "father": false,
+        "mother": false,
+        "gender": "f",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "hp5",
+                "gamble"
+            ],
+            "hard": [
+                "hp5",
+                "gamble"
+            ],
+            "lunatic": [
+                "hp5",
+                "gamble"
+            ]
+        },
+        "variable": false,
+        "set": [
+            "fighter",
+            "troubadour"
+        ],
+        "base": {
+            "normal": {
+                "hp": 9,
+                "str": 8,
+                "mag": 0,
+                "skl": 4,
+                "spd": 7,
+                "lck": 7,
+                "def": 4,
+                "res": 1
+            },
+            "hard": {
+                "hp": 9,
+                "str": 8,
+                "mag": 0,
+                "skl": 4,
+                "spd": 7,
+                "lck": 7,
+                "def": 4,
+                "res": 1
+            },
+            "lunatic": {
+                "hp": 9,
+                "str": 8,
+                "mag": 0,
+                "skl": 4,
+                "spd": 7,
+                "lck": 7,
+                "def": 4,
+                "res": 1
+            }
+        },
+        "cap": {
+            "str": 3,
+            "mag": 0,
+            "skl": 0,
+            "spd": 2,
+            "lck": 0,
+            "def": -2,
+            "res": -2
+        },
+        "growth": {
+            "hp": 65,
+            "str": 55,
+            "mag": 0,
+            "skl": 35,
+            "spd": 50,
+            "lck": 45,
+            "def": 20,
+            "res": 5
+        },
+        "rank": {
+            "normal": {
+                "axe": 51
+            },
+            "hard": {
+                "axe": 51
+            },
+            "lunatic": {
+                "axe": 51
+            }
+        },
+        "pairup": {
+            "raw": {
+                "c": {
+                    "str": 1
+                },
+                "b": {
+                    "str": 1
+                },
+                "a": {
+                    "spd": 1
+                },
+                "s": {
+                    "str": 1,
+                    "spd": 1
+                }
+            },
+            "bonus": {
+                "c": {
+                    "str": 1
+                },
+                "b": {
+                    "str": 2
+                },
+                "a": {
+                    "str": 2,
+                    "spd": 1
+                },
+                "s": {
+                    "str": 3,
+                    "spd": 2
+                }
+            }
+        }
+    },
+    "corrin": {
+        "name": "Corrin",
+        "job": "nohrprincess",
+        "portrait": "corrin_m.png",
+        "lvl": 1,
+        "personal": "supportive",
+        "father": false,
+        "mother": false,
+        "gender": "m",
+        "blood": true,
+        "cap": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "skill": {
+            "normal": [
+                "nobility"
+            ],
+            "hard": [
+                "nobility"
+            ],
+            "lunatic": [
+                "nobility"
+            ]
+        },
+        "pairup": false,
+        "variable": false,
+        "set": [
+            "nohrprincess"
+        ],
+        "base": {
+            "normal": {
+                "hp": 2,
+                "str": 0,
+                "mag": 1,
+                "skl": 3,
+                "spd": 1,
+                "lck": 3,
+                "def": 1,
+                "res": 0
+            },
+            "hard": {
+                "hp": 2,
+                "str": 0,
+                "mag": 1,
+                "skl": 3,
+                "spd": 1,
+                "lck": 3,
+                "def": 1,
+                "res": 0
+            },
+            "lunatic": {
+                "hp": 2,
+                "str": 0,
+                "mag": 1,
+                "skl": 3,
+                "spd": 1,
+                "lck": 3,
+                "def": 1,
+                "res": 0
+            }
+        },
+        "growth": {
+            "hp": 45,
+            "str": 45,
+            "mag": 30,
+            "skl": 40,
+            "spd": 45,
+            "lck": 45,
+            "def": 35,
+            "res": 25
+        },
+        "rank": {
+            "normal": {
+                "sword": 1,
+                "stone": 21
+            },
+            "hard": {
+                "sword": 1,
+                "stone": 21
+            },
+            "lunatic": {
+                "sword": 1,
+                "stone": 21
+            }
+        }
+    },
+    "dwyer": {
+        "name": "Dwyer",
+        "job": "troubadour",
+        "portrait": "dwyer.png",
+        "lvl": 10,
+        "personal": "bornsteward",
+        "father": "jakob",
+        "mother": false,
+        "gender": "m",
+        "blood": false,
+        "cap": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "skill": {
+            "normal": [
+                "resistance2",
+                "gentilhomme"
+            ],
+            "hard": [
+                "resistance2",
+                "gentilhomme"
+            ],
+            "lunatic": [
+                "resistance2",
+                "gentilhomme"
+            ]
+        },
+        "pairup": false,
+        "influence": "father",
+        "variable": false,
+        "set": [
+            "troubadour"
+        ],
+        "base": {
+            "normal": {
+                "hp": 8,
+                "str": 7,
+                "mag": 7,
+                "skl": 2,
+                "spd": 6,
+                "lck": 4,
+                "def": 6,
+                "res": 7
+            },
+            "hard": {
+                "hp": 8,
+                "str": 7,
+                "mag": 7,
+                "skl": 2,
+                "spd": 6,
+                "lck": 4,
+                "def": 6,
+                "res": 7
+            },
+            "lunatic": {
+                "hp": 8,
+                "str": 7,
+                "mag": 7,
+                "skl": 2,
+                "spd": 6,
+                "lck": 4,
+                "def": 6,
+                "res": 7
+            }
+        },
+        "growth": {
+            "hp": 45,
+            "str": 45,
+            "mag": 30,
+            "skl": 20,
+            "spd": 30,
+            "lck": 30,
+            "def": 30,
+            "res": 35
+        },
+        "rank": {
+            "normal": {
+                "staff": 21
+            },
+            "hard": {
+                "staff": 21
+            },
+            "lunatic": {
+                "staff": 21
+            }
+        },
+        "autolevel": {
+            "type": "child",
+            "join": 8,
+            "default": 8
+        }
+    },
+    "effie": {
+        "name": "Effie",
+        "job": "knight",
+        "portrait": "effie.png",
+        "lvl": 6,
+        "personal": "puissance",
+        "father": false,
+        "mother": false,
+        "gender": "f",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "defense2"
+            ],
+            "hard": [
+                "defense2"
+            ],
+            "lunatic": [
+                "defense2"
+            ]
+        },
+        "variable": false,
+        "set": [
+            "knight",
+            "troubadour"
+        ],
+        "base": {
+            "normal": {
+                "hp": 4,
+                "str": 5,
+                "mag": 0,
+                "skl": 3,
+                "spd": 2,
+                "lck": 7,
+                "def": 4,
+                "res": 3
+            },
+            "hard": {
+                "hp": 4,
+                "str": 5,
+                "mag": 0,
+                "skl": 3,
+                "spd": 2,
+                "lck": 7,
+                "def": 4,
+                "res": 3
+            },
+            "lunatic": {
+                "hp": 4,
+                "str": 5,
+                "mag": 0,
+                "skl": 3,
+                "spd": 2,
+                "lck": 7,
+                "def": 4,
+                "res": 3
+            }
+        },
+        "cap": {
+            "str": 3,
+            "mag": 0,
+            "skl": -1,
+            "spd": 1,
+            "lck": 0,
+            "def": -1,
+            "res": -1
+        },
+        "growth": {
+            "hp": 35,
+            "str": 60,
+            "mag": 0,
+            "skl": 35,
+            "spd": 50,
+            "lck": 50,
+            "def": 35,
+            "res": 30
+        },
+        "rank": {
+            "normal": {
+                "lance": 21
+            },
+            "hard": {
+                "lance": 21
+            },
+            "lunatic": {
+                "lance": 21
+            }
+        },
+        "pairup": {
+            "raw": {
+                "c": {
+                    "str": 1
+                },
+                "b": {
+                    "lck": 1
+                },
+                "a": {
+                    "spd": 1
+                },
+                "s": {
+                    "str": 2
+                }
+            },
+            "bonus": {
+                "c": {
+                    "str": 1
+                },
+                "b": {
+                    "str": 1,
+                    "lck": 1
+                },
+                "a": {
+                    "str": 1,
+                    "lck": 1,
+                    "spd": 1
+                },
+                "s": {
+                    "str": 3,
+                    "lck": 1,
+                    "spd": 1
+                }
+            }
+        }
+    },
+    "elise": {
+        "name": "Elise",
+        "job": "troubadour",
+        "portrait": "elise.png",
+        "lvl": 5,
+        "personal": "lilyspoise",
+        "father": false,
+        "mother": false,
+        "gender": "f",
+        "blood": true,
+        "skill": {
+            "normal": [
+                "resistance2"
+            ],
+            "hard": [
+                "resistance2"
+            ],
+            "lunatic": [
+                "resistance2"
+            ]
+        },
+        "variable": false,
+        "set": [
+            "troubadour",
+            "wyvernrider"
+        ],
+        "base": {
+            "normal": {
+                "hp": 4,
+                "str": 2,
+                "mag": 8,
+                "skl": -2,
+                "spd": 5,
+                "lck": 10,
+                "def": 3,
+                "res": 7
+            },
+            "hard": {
+                "hp": 4,
+                "str": 2,
+                "mag": 8,
+                "skl": -2,
+                "spd": 5,
+                "lck": 10,
+                "def": 3,
+                "res": 7
+            },
+            "lunatic": {
+                "hp": 4,
+                "str": 2,
+                "mag": 8,
+                "skl": -2,
+                "spd": 5,
+                "lck": 10,
+                "def": 3,
+                "res": 7
+            }
+        },
+        "cap": {
+            "str": -1,
+            "mag": 3,
+            "skl": -2,
+            "spd": 1,
+            "lck": 1,
+            "def": -3,
+            "res": 1
+        },
+        "growth": {
+            "hp": 30,
+            "str": 5,
+            "mag": 65,
+            "skl": 25,
+            "spd": 55,
+            "lck": 70,
+            "def": 15,
+            "res": 40
+        },
+        "rank": {
+            "normal": {
+                "staff": 21
+            },
+            "hard": {
+                "staff": 21
+            },
+            "lunatic": {
+                "staff": 21
+            }
+        },
+        "pairup": {
+            "raw": {
+                "c": {
+                    "mag": 1
+                },
+                "b": {
+                    "mag": 1
+                },
+                "a": {
+                    "lck": 1
+                },
+                "s": {
+                    "mag": 1,
+                    "spd": 1
+                }
+            },
+            "bonus": {
+                "c": {
+                    "mag": 1
+                },
+                "b": {
+                    "mag": 2
+                },
+                "a": {
+                    "mag": 2,
+                    "lck": 1
+                },
+                "s": {
+                    "mag": 3,
+                    "lck": 1,
+                    "spd": 1
+                }
+            }
+        }
+    },
+    "felicia": {
+        "name": "Felicia",
+        "job": "maid",
+        "portrait": "felicia.png",
+        "lvl": 1,
+        "personal": "devotedpartner",
+        "father": false,
+        "mother": false,
+        "gender": "f",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "resistance2",
+                "demoiselle"
+            ],
+            "hard": [
+                "resistance2",
+                "demoiselle"
+            ],
+            "lunatic": [
+                "resistance2",
+                "demoiselle"
+            ]
+        },
+        "variable": false,
+        "set": [
+            "troubadour",
+            "mercenary"
+        ],
+        "base": {
+            "normal": {
+                "hp": 1,
+                "str": 1,
+                "mag": 4,
+                "skl": 1,
+                "spd": 2,
+                "lck": 8,
+                "def": 0,
+                "res": 5
+            },
+            "hard": {
+                "hp": 1,
+                "str": 1,
+                "mag": 4,
+                "skl": 1,
+                "spd": 2,
+                "lck": 8,
+                "def": 0,
+                "res": 5
+            },
+            "lunatic": {
+                "hp": 1,
+                "str": 1,
+                "mag": 4,
+                "skl": 1,
+                "spd": 2,
+                "lck": 8,
+                "def": 0,
+                "res": 5
+            }
+        },
+        "cap": {
+            "str": -2,
+            "mag": 2,
+            "skl": 0,
+            "spd": 1,
+            "lck": 0,
+            "def": -1,
+            "res": 1
+        },
+        "growth": {
+            "hp": 40,
+            "str": 10,
+            "mag": 35,
+            "skl": 30,
+            "spd": 40,
+            "lck": 55,
+            "def": 15,
+            "res": 35
+        },
+        "rank": {
+            "normal": {
+                "hidden": 21,
+                "staff": 21
+            },
+            "hard": {
+                "hidden": 21,
+                "staff": 21
+            },
+            "lunatic": {
+                "hidden": 21,
+                "staff": 21
+            }
+        },
+        "pairup": {
+            "raw": {
+                "c": {
+                    "spd": 1
+                },
+                "b": {
+                    "res": 1
+                },
+                "a": {
+                    "mag": 1
+                },
+                "s": {
+                    "spd": 1,
+                    "res": 1
+                }
+            },
+            "bonus": {
+                "c": {
+                    "spd": 1
+                },
+                "b": {
+                    "spd": 1,
+                    "res": 1
+                },
+                "a": {
+                    "spd": 1,
+                    "res": 1,
+                    "mag": 1
+                },
+                "s": {
+                    "spd": 2,
+                    "res": 2,
+                    "mag": 1
+                }
+            }
+        }
+    },
+    "felicia16": {
+        "name": "Felicia (Chapter 16)",
+        "job": "maid",
+        "portrait": "felicia.png",
+        "lvl": 13,
+        "personal": "devotedpartner",
+        "father": false,
+        "mother": false,
+        "gender": "f",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "resistance2",
+                "demoiselle",
+                "livetoserve"
+            ],
+            "hard": [
+                "resistance2",
+                "demoiselle",
+                "livetoserve"
+            ],
+            "lunatic": [
+                "resistance2",
+                "demoiselle",
+                "livetoserve"
+            ]
+        },
+        "variable": false,
+        "set": [
+            "troubadour",
+            "mercenary"
+        ],
+        "base": {
+            "normal": {
+                "hp": 6,
+                "str": 3,
+                "mag": 9,
+                "skl": 6,
+                "spd": 9,
+                "lck": 16,
+                "def": 2,
+                "res": 10
+            },
+            "hard": {
+                "hp": 6,
+                "str": 3,
+                "mag": 9,
+                "skl": 6,
+                "spd": 9,
+                "lck": 16,
+                "def": 2,
+                "res": 10
+            },
+            "lunatic": {
+                "hp": 6,
+                "str": 3,
+                "mag": 9,
+                "skl": 6,
+                "spd": 9,
+                "lck": 16,
+                "def": 2,
+                "res": 10
+            }
+        },
+        "cap": {
+            "str": -2,
+            "mag": 2,
+            "skl": 0,
+            "spd": 1,
+            "lck": 0,
+            "def": -1,
+            "res": 1
+        },
+        "growth": {
+            "hp": 40,
+            "str": 10,
+            "mag": 35,
+            "skl": 30,
+            "spd": 40,
+            "lck": 55,
+            "def": 15,
+            "res": 35
+        },
+        "rank": {
+            "normal": {
+                "hidden": 73,
+                "staff": 73
+            },
+            "hard": {
+                "hidden": 73,
+                "staff": 73
+            },
+            "lunatic": {
+                "hidden": 73,
+                "staff": 73
+            }
+        },
+        "pairup": {
+            "raw": {
+                "c": {
+                    "spd": 1
+                },
+                "b": {
+                    "res": 1
+                },
+                "a": {
+                    "mag": 1
+                },
+                "s": {
+                    "spd": 1,
+                    "res": 1
+                }
+            },
+            "bonus": {
+                "c": {
+                    "spd": 1
+                },
+                "b": {
+                    "spd": 1,
+                    "res": 1
+                },
+                "a": {
+                    "spd": 1,
+                    "res": 1,
+                    "mag": 1
+                },
+                "s": {
+                    "spd": 2,
+                    "res": 2,
+                    "mag": 1
+                }
+            }
+        }
+    },
+    "flora": {
+        "name": "Flora",
+        "job": "maid",
+        "portrait": "flora.png",
+        "lvl": 5,
+        "personal": "icyblood",
+        "father": false,
+        "mother": false,
+        "gender": "f",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "resistance2",
+                "demoiselle",
+                "livetoserve"
+            ],
+            "hard": [
+                "resistance2",
+                "demoiselle",
+                "livetoserve"
+            ],
+            "lunatic": [
+                "resistance2",
+                "demoiselle",
+                "livetoserve"
+            ]
+        },
+        "variable": false,
+        "set": [
+            "troubadour",
+            "darkmage",
+            "mercenary"
+        ],
+        "base": {
+            "normal": {
+                "hp": 11,
+                "str": 14,
+                "mag": 11,
+                "skl": 16,
+                "spd": 7,
+                "lck": 7,
+                "def": 9,
+                "res": 19
+            },
+            "hard": {
+                "hp": 11,
+                "str": 14,
+                "mag": 11,
+                "skl": 16,
+                "spd": 7,
+                "lck": 7,
+                "def": 9,
+                "res": 19
+            },
+            "lunatic": {
+                "hp": 11,
+                "str": 14,
+                "mag": 11,
+                "skl": 16,
+                "spd": 7,
+                "lck": 7,
+                "def": 9,
+                "res": 19
+            }
+        },
+        "cap": {
+            "str": 1,
+            "mag": -1,
+            "skl": 2,
+            "spd": 0,
+            "lck": -1,
+            "def": 1,
+            "res": -1
+        },
+        "growth": {
+            "hp": 35,
+            "str": 40,
+            "mag": 20,
+            "skl": 45,
+            "spd": 30,
+            "lck": 35,
+            "def": 30,
+            "res": 30
+        },
+        "rank": {
+            "normal": {
+                "hidden": 51,
+                "staff": 96
+            },
+            "hard": {
+                "hidden": 51,
+                "staff": 96
+            },
+            "lunatic": {
+                "hidden": 51,
+                "staff": 96
+            }
+        },
+        "pairup": {
+            "raw": {
+                "c": {
+                    "skl": 1
+                },
+                "b": {
+                    "def": 1
+                },
+                "a": {
+                    "res": 1
+                },
+                "s": {
+                    "str": 1,
+                    "lck": 1
+                }
+            },
+            "bonus": {
+                "c": {
+                    "skl": 1
+                },
+                "b": {
+                    "skl": 1,
+                    "def": 1
+                },
+                "a": {
+                    "skl": 1,
+                    "def": 1,
+                    "res": 1
+                },
+                "s": {
+                    "skl": 1,
+                    "def": 1,
+                    "res": 1,
+                    "str": 1,
+                    "lck": 1
+                }
+            }
+        },
+        "autolevel": {
+            "type": "castle",
+            "join": 19,
+            "default": 19,
+            "bonus": {
+                "23": 2,
+                "24": 2,
+                "25": 2,
+                "26": 2,
+                "27": 2
+            }
+        }
+    },
+    "forrest": {
+        "name": "Forrest",
+        "job": "troubadour",
+        "portrait": "forrest.png",
+        "lvl": 10,
+        "personal": "fiercecounter",
+        "father": "leo",
+        "mother": false,
+        "gender": "m",
+        "blood": true,
+        "cap": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "skill": {
+            "normal": [
+                "resistance2",
+                "gentilhomme"
+            ],
+            "hard": [
+                "resistance2",
+                "gentilhomme"
+            ],
+            "lunatic": [
+                "resistance2",
+                "gentilhomme"
+            ]
+        },
+        "pairup": false,
+        "influence": "father",
+        "variable": false,
+        "set": [
+            "troubadour"
+        ],
+        "base": {
+            "normal": {
+                "hp": 8,
+                "str": 5,
+                "mag": 9,
+                "skl": 1,
+                "spd": 4,
+                "lck": 5,
+                "def": 6,
+                "res": 13
+            },
+            "hard": {
+                "hp": 8,
+                "str": 5,
+                "mag": 9,
+                "skl": 1,
+                "spd": 4,
+                "lck": 5,
+                "def": 6,
+                "res": 13
+            },
+            "lunatic": {
+                "hp": 8,
+                "str": 5,
+                "mag": 9,
+                "skl": 1,
+                "spd": 4,
+                "lck": 5,
+                "def": 6,
+                "res": 13
+            }
+        },
+        "growth": {
+            "hp": 55,
+            "str": 15,
+            "mag": 65,
+            "skl": 20,
+            "spd": 35,
+            "lck": 25,
+            "def": 25,
+            "res": 55
+        },
+        "rank": {
+            "normal": {
+                "staff": 21
+            },
+            "hard": {
+                "staff": 21
+            },
+            "lunatic": {
+                "staff": 21
+            }
+        },
+        "autolevel": {
+            "type": "child",
+            "join": 15,
+            "default": 15
+        }
+    },
+    "gazak": {
+        "name": "Gazak",
+        "job": "fighter",
+        "portrait": "gazak.png",
+        "lvl": 17,
+        "personal": false,
+        "father": false,
+        "mother": false,
+        "gender": "m",
+        "blood": false,
+        "pairup": false,
+        "variable": true,
+        "set": [
+            "fighter"
+        ],
+        "base": {
+            "normal": {
+                "hp": 16,
+                "str": 12,
+                "mag": 0,
+                "skl": 12,
+                "spd": 8,
+                "lck": 8,
+                "def": 8,
+                "res": 7
+            },
+            "hard": {
+                "hp": 19,
+                "str": 15,
+                "mag": 0,
+                "skl": 13,
+                "spd": 10,
+                "lck": 8,
+                "def": 10,
+                "res": 8
+            },
+            "lunatic": {
+                "hp": 19,
+                "str": 15,
+                "mag": 0,
+                "skl": 13,
+                "spd": 10,
+                "lck": 8,
+                "def": 10,
+                "res": 8
+            }
+        },
+        "cap": {
+            "str": 1,
+            "mag": -1,
+            "skl": -2,
+            "spd": -2,
+            "lck": -2,
+            "def": 3,
+            "res": 3
+        },
+        "growth": {
+            "hp": 75,
+            "str": 40,
+            "mag": 5,
+            "skl": 25,
+            "spd": 25,
+            "lck": 15,
+            "def": 65,
+            "res": 15
+        },
+        "rank": {
+            "normal": {
+                "axe": 51
+            },
+            "hard": {
+                "axe": 51
+            },
+            "lunatic": {
+                "axe": 96
+            }
+        },
+        "skill": {
+            "normal": [
+                "goodfortune"
+            ],
+            "hard": [
+                "pavise",
+                "certainblow",
+                "goodfortune"
+            ],
+            "lunatic": [
+                "pavise",
+                "certainblow",
+                "goodfortune"
+            ]
+        }
+    },
+    "gunter": {
+        "name": "Gunter",
+        "job": "greatknight",
+        "portrait": "gunter.png",
+        "lvl": 10,
+        "personal": "forcefulpartner",
+        "father": false,
+        "mother": false,
+        "gender": "m",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "elbowroom",
+                "shelter",
+                "luna"
+            ],
+            "hard": [
+                "elbowroom",
+                "shelter",
+                "luna"
+            ],
+            "lunatic": [
+                "elbowroom",
+                "shelter",
+                "luna"
+            ]
+        },
+        "variable": false,
+        "set": [
+            "cavalier",
+            "mercenary",
+            "wyvernrider"
+        ],
+        "base": {
+            "normal": {
+                "hp": 13,
+                "str": 7,
+                "mag": 0,
+                "skl": 18,
+                "spd": 4,
+                "lck": 10,
+                "def": 10,
+                "res": 4
+            },
+            "hard": {
+                "hp": 13,
+                "str": 7,
+                "mag": 0,
+                "skl": 18,
+                "spd": 4,
+                "lck": 10,
+                "def": 10,
+                "res": 4
+            },
+            "lunatic": {
+                "hp": 13,
+                "str": 7,
+                "mag": 0,
+                "skl": 18,
+                "spd": 4,
+                "lck": 10,
+                "def": 10,
+                "res": 4
+            }
+        },
+        "cap": {
+            "str": 2,
+            "mag": 0,
+            "skl": 1,
+            "spd": -2,
+            "lck": 0,
+            "def": 2,
+            "res": -2
+        },
+        "growth": {
+            "hp": 15,
+            "str": 5,
+            "mag": 0,
+            "skl": 5,
+            "spd": 0,
+            "lck": 15,
+            "def": 5,
+            "res": 5
+        },
+        "rank": {
+            "normal": {
+                "sword": 21,
+                "lance": 96,
+                "axe": 51
+            },
+            "hard": {
+                "sword": 21,
+                "lance": 96,
+                "axe": 51
+            },
+            "lunatic": {
+                "sword": 21,
+                "lance": 96,
+                "axe": 51
+            }
+        },
+        "pairup": {
+            "raw": {
+                "c": {
+                    "def": 1
+                },
+                "b": {
+                    "str": 1
+                },
+                "a": {
+                    "skl": 1
+                },
+                "s": {
+                    "str": 1,
+                    "def": 1
+                }
+            },
+            "bonus": {
+                "c": {
+                    "def": 1
+                },
+                "b": {
+                    "def": 1,
+                    "str": 1
+                },
+                "a": {
+                    "def": 1,
+                    "str": 1,
+                    "skl": 1
+                },
+                "s": {
+                    "def": 2,
+                    "str": 2,
+                    "skl": 1
+                }
+            }
+        }
+    },
+    "haitaka": {
+        "name": "Haitaka",
+        "job": "spearfighter",
+        "portrait": "haitaka.png",
+        "lvl": 10,
+        "personal": false,
+        "father": false,
+        "mother": false,
+        "gender": "m",
+        "blood": false,
+        "pairup": false,
+        "variable": true,
+        "set": [
+            "spearfighter"
+        ],
+        "base": {
+            "normal": {
+                "hp": 13,
+                "str": 8,
+                "mag": 0,
+                "skl": 9,
+                "spd": 6,
+                "lck": 5,
+                "def": 4,
+                "res": 3
+            },
+            "hard": {
+                "hp": 14,
+                "str": 9,
+                "mag": 0,
+                "skl": 10,
+                "spd": 7,
+                "lck": 5,
+                "def": 6,
+                "res": 4
+            },
+            "lunatic": {
+                "hp": 14,
+                "str": 9,
+                "mag": 0,
+                "skl": 10,
+                "spd": 7,
+                "lck": 5,
+                "def": 6,
+                "res": 4
+            }
+        },
+        "cap": {
+            "str": 1,
+            "mag": 0,
+            "skl": 2,
+            "spd": 2,
+            "lck": -2,
+            "def": 2,
+            "res": 0
+        },
+        "growth": {
+            "hp": 40,
+            "str": 50,
+            "mag": 5,
+            "skl": 45,
+            "spd": 45,
+            "lck": 15,
+            "def": 35,
+            "res": 30
+        },
+        "rank": {
+            "normal": {
+                "lance": 51
+            },
+            "hard": {
+                "lance": 51
+            },
+            "lunatic": {
+                "lance": 96
+            }
+        },
+        "skill": {
+            "normal": [
+                "rallydefense"
+            ],
+            "hard": [
+                "rallydefense",
+                "strongriposte"
+            ],
+            "lunatic": [
+                "sealdefense",
+                "rallydefense",
+                "strongriposte"
+            ]
+        }
+    },
+    "ignatius": {
+        "name": "Ignatius",
+        "job": "knight",
+        "portrait": "ignatius.png",
+        "lvl": 10,
+        "personal": "guardedbravery",
+        "father": "benny",
+        "mother": false,
+        "gender": "m",
+        "blood": false,
+        "cap": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "skill": {
+            "normal": [
+                "defense2",
+                "naturalcover"
+            ],
+            "hard": [
+                "defense2",
+                "naturalcover"
+            ],
+            "lunatic": [
+                "defense2",
+                "naturalcover"
+            ]
+        },
+        "pairup": false,
+        "influence": "father",
+        "variable": false,
+        "set": [
+            "knight"
+        ],
+        "base": {
+            "normal": {
+                "hp": 8,
+                "str": 7,
+                "mag": 0,
+                "skl": 6,
+                "spd": 4,
+                "lck": 7,
+                "def": 6,
+                "res": 7
+            },
+            "hard": {
+                "hp": 8,
+                "str": 7,
+                "mag": 0,
+                "skl": 6,
+                "spd": 4,
+                "lck": 7,
+                "def": 6,
+                "res": 7
+            },
+            "lunatic": {
+                "hp": 8,
+                "str": 7,
+                "mag": 0,
+                "skl": 6,
+                "spd": 4,
+                "lck": 7,
+                "def": 6,
+                "res": 7
+            }
+        },
+        "growth": {
+            "hp": 40,
+            "str": 50,
+            "mag": 0,
+            "skl": 40,
+            "spd": 30,
+            "lck": 55,
+            "def": 45,
+            "res": 35
+        },
+        "rank": {
+            "normal": {
+                "lance": 21
+            },
+            "hard": {
+                "lance": 21
+            },
+            "lunatic": {
+                "lance": 21
+            }
+        },
+        "autolevel": {
+            "type": "child",
+            "join": 14,
+            "default": 14
+        }
+    },
+    "ike": {
+        "name": "Ike",
+        "job": "vanguard",
+        "portrait": "ike.png",
+        "lvl": 15,
+        "personal": false,
+        "father": false,
+        "mother": false,
+        "gender": "m",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "heavyblade",
+                "veteranintuition"
+            ],
+            "hard": [
+                "heavyblade",
+                "veteranintuition"
+            ],
+            "lunatic": [
+                "heavyblade",
+                "veteranintuition"
+            ]
+        },
+        "pairup": false,
+        "variable": false,
+        "set": [
+            "vanguard"
+        ],
+        "base": {
+            "normal": {
+                "hp": 11,
+                "str": 10,
+                "mag": 0,
+                "skl": 9,
+                "spd": 7,
+                "lck": 13,
+                "def": 9,
+                "res": 7
+            },
+            "hard": {
+                "hp": 11,
+                "str": 10,
+                "mag": 0,
+                "skl": 9,
+                "spd": 7,
+                "lck": 13,
+                "def": 9,
+                "res": 7
+            },
+            "lunatic": {
+                "hp": 11,
+                "str": 10,
+                "mag": 0,
+                "skl": 9,
+                "spd": 7,
+                "lck": 13,
+                "def": 9,
+                "res": 7
+            }
+        },
+        "cap": {
+            "str": 2,
+            "mag": 0,
+            "skl": 0,
+            "spd": -1,
+            "lck": 0,
+            "def": 1,
+            "res": -1
+        },
+        "growth": {
+            "hp": 50,
+            "str": 45,
+            "mag": 0,
+            "skl": 40,
+            "spd": 35,
+            "lck": 45,
+            "def": 40,
+            "res": 10
+        },
+        "rank": {
+            "normal": {
+                "sword": 51,
+                "axe": 21
+            },
+            "hard": {
+                "sword": 51,
+                "axe": 21
+            },
+            "lunatic": {
+                "sword": 51,
+                "axe": 21
+            }
+        }
+    },
+    "izana": {
+        "name": "Izana",
+        "job": "onmyoji",
+        "portrait": "izana.png",
+        "lvl": 5,
+        "personal": "peacebringer",
+        "father": false,
+        "mother": false,
+        "gender": "m",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "miracle",
+                "rallyluck",
+                "rallymagic"
+            ],
+            "hard": [
+                "miracle",
+                "rallyluck",
+                "rallymagic"
+            ],
+            "lunatic": [
+                "miracle",
+                "rallyluck",
+                "rallymagic"
+            ]
+        },
+        "variable": false,
+        "set": [
+            "monk",
+            "samurai",
+            "apothecary"
+        ],
+        "base": {
+            "normal": {
+                "hp": 15,
+                "str": 8,
+                "mag": 16,
+                "skl": 19,
+                "spd": 11,
+                "lck": 15,
+                "def": 11,
+                "res": 18
+            },
+            "hard": {
+                "hp": 15,
+                "str": 8,
+                "mag": 16,
+                "skl": 19,
+                "spd": 11,
+                "lck": 15,
+                "def": 11,
+                "res": 18
+            },
+            "lunatic": {
+                "hp": 15,
+                "str": 8,
+                "mag": 16,
+                "skl": 19,
+                "spd": 11,
+                "lck": 15,
+                "def": 11,
+                "res": 18
+            }
+        },
+        "cap": {
+            "str": 0,
+            "mag": 1,
+            "skl": 1,
+            "spd": -2,
+            "lck": 0,
+            "def": 0,
+            "res": 1
+        },
+        "growth": {
+            "hp": 45,
+            "str": 15,
+            "mag": 35,
+            "skl": 55,
+            "spd": 30,
+            "lck": 45,
+            "def": 35,
+            "res": 35
+        },
+        "rank": {
+            "normal": {
+                "tome": 96,
+                "staff": 51
+            },
+            "hard": {
+                "tome": 96,
+                "staff": 51
+            },
+            "lunatic": {
+                "tome": 96,
+                "staff": 51
+            }
+        },
+        "pairup": {
+            "raw": {
+                "c": {
+                    "skl": 1
+                },
+                "b": {
+                    "mag": 1
+                },
+                "a": {
+                    "def": 1
+                },
+                "s": {
+                    "skl": 1,
+                    "res": 1
+                }
+            },
+            "bonus": {
+                "c": {
+                    "skl": 1
+                },
+                "b": {
+                    "skl": 1,
+                    "mag": 1
+                },
+                "a": {
+                    "skl": 1,
+                    "mag": 1,
+                    "def": 1
+                },
+                "s": {
+                    "skl": 2,
+                    "mag": 1,
+                    "def": 1,
+                    "res": 1
+                }
+            }
+        },
+        "autolevel": {
+            "type": "castle",
+            "join": 22,
+            "default": 23,
+            "bonus": {
+                "23": 2,
+                "24": 2,
+                "25": 2,
+                "26": 2,
+                "27": 2
+            }
+        }
+    },
+    "jakob": {
+        "name": "Jakob",
+        "job": "butler",
+        "portrait": "jakob.png",
+        "lvl": 1,
+        "personal": "evasivepartner",
+        "father": false,
+        "mother": false,
+        "gender": "m",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "resistance2",
+                "gentilhomme"
+            ],
+            "hard": [
+                "resistance2",
+                "gentilhomme"
+            ],
+            "lunatic": [
+                "resistance2",
+                "gentilhomme"
+            ]
+        },
+        "variable": false,
+        "set": [
+            "troubadour",
+            "cavalier"
+        ],
+        "base": {
+            "normal": {
+                "hp": 3,
+                "str": 4,
+                "mag": 1,
+                "skl": 3,
+                "spd": 1,
+                "lck": 6,
+                "def": 2,
+                "res": 2
+            },
+            "hard": {
+                "hp": 3,
+                "str": 4,
+                "mag": 1,
+                "skl": 3,
+                "spd": 1,
+                "lck": 6,
+                "def": 2,
+                "res": 2
+            },
+            "lunatic": {
+                "hp": 3,
+                "str": 4,
+                "mag": 1,
+                "skl": 3,
+                "spd": 1,
+                "lck": 6,
+                "def": 2,
+                "res": 2
+            }
+        },
+        "cap": {
+            "str": 2,
+            "mag": -2,
+            "skl": 2,
+            "spd": 0,
+            "lck": -1,
+            "def": 0,
+            "res": -1
+        },
+        "growth": {
+            "hp": 50,
+            "str": 30,
+            "mag": 15,
+            "skl": 40,
+            "spd": 35,
+            "lck": 45,
+            "def": 25,
+            "res": 25
+        },
+        "rank": {
+            "normal": {
+                "hidden": 21,
+                "staff": 21
+            },
+            "hard": {
+                "hidden": 21,
+                "staff": 21
+            },
+            "lunatic": {
+                "hidden": 21,
+                "staff": 21
+            }
+        },
+        "pairup": {
+            "raw": {
+                "c": {
+                    "str": 1
+                },
+                "b": {
+                    "spd": 1
+                },
+                "a": {
+                    "skl": 1
+                },
+                "s": {
+                    "str": 1,
+                    "skl": 1
+                }
+            },
+            "bonus": {
+                "c": {
+                    "str": 1
+                },
+                "b": {
+                    "str": 1,
+                    "spd": 1
+                },
+                "a": {
+                    "str": 1,
+                    "spd": 1,
+                    "skl": 1
+                },
+                "s": {
+                    "str": 2,
+                    "spd": 1,
+                    "skl": 2
+                }
+            }
+        }
+    },
+    "jakob16": {
+        "name": "Jakob (Chapter 16)",
+        "job": "butler",
+        "portrait": "jakob.png",
+        "lvl": 13,
+        "personal": "evasivepartner",
+        "father": false,
+        "mother": false,
+        "gender": "m",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "resistance2",
+                "gentilhomme",
+                "livetoserve"
+            ],
+            "hard": [
+                "resistance2",
+                "gentilhomme",
+                "livetoserve"
+            ],
+            "lunatic": [
+                "resistance2",
+                "gentilhomme",
+                "livetoserve"
+            ]
+        },
+        "variable": false,
+        "set": [
+            "troubadour",
+            "cavalier"
+        ],
+        "base": {
+            "normal": {
+                "hp": 9,
+                "str": 9,
+                "mag": 4,
+                "skl": 10,
+                "spd": 7,
+                "lck": 13,
+                "def": 6,
+                "res": 6
+            },
+            "hard": {
+                "hp": 9,
+                "str": 9,
+                "mag": 4,
+                "skl": 10,
+                "spd": 7,
+                "lck": 13,
+                "def": 6,
+                "res": 6
+            },
+            "lunatic": {
+                "hp": 9,
+                "str": 9,
+                "mag": 4,
+                "skl": 10,
+                "spd": 7,
+                "lck": 13,
+                "def": 6,
+                "res": 6
+            }
+        },
+        "cap": {
+            "str": 2,
+            "mag": -2,
+            "skl": 2,
+            "spd": 0,
+            "lck": -1,
+            "def": 0,
+            "res": -1
+        },
+        "growth": {
+            "hp": 50,
+            "str": 30,
+            "mag": 15,
+            "skl": 40,
+            "spd": 35,
+            "lck": 45,
+            "def": 25,
+            "res": 25
+        },
+        "rank": {
+            "normal": {
+                "hidden": 73,
+                "staff": 73
+            },
+            "hard": {
+                "hidden": 73,
+                "staff": 73
+            },
+            "lunatic": {
+                "hidden": 73,
+                "staff": 73
+            }
+        },
+        "pairup": {
+            "raw": {
+                "c": {
+                    "str": 1
+                },
+                "b": {
+                    "spd": 1
+                },
+                "a": {
+                    "skl": 1
+                },
+                "s": {
+                    "str": 1,
+                    "skl": 1
+                }
+            },
+            "bonus": {
+                "c": {
+                    "str": 1
+                },
+                "b": {
+                    "str": 1,
+                    "spd": 1
+                },
+                "a": {
+                    "str": 1,
+                    "spd": 1,
+                    "skl": 1
+                },
+                "s": {
+                    "str": 2,
+                    "spd": 1,
+                    "skl": 2
+                }
+            }
+        }
+    },
+    "kana": {
+        "name": "Kana",
+        "job": "nohrprincess",
+        "portrait": "kana.png",
+        "lvl": 10,
+        "personal": "draconicheir",
+        "father": false,
+        "mother": false,
+        "gender": "f",
+        "blood": true,
+        "cap": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "skill": {
+            "normal": [
+                "nobility",
+                "dragonfang"
+            ],
+            "hard": [
+                "nobility",
+                "dragonfang"
+            ],
+            "lunatic": [
+                "nobility",
+                "dragonfang"
+            ]
+        },
+        "pairup": false,
+        "variable": false,
+        "set": [
+            "nohrprincess"
+        ],
+        "base": {
+            "normal": {
+                "hp": 7,
+                "str": 3,
+                "mag": 6,
+                "skl": 8,
+                "spd": 8,
+                "lck": 9,
+                "def": 5,
+                "res": 5
+            },
+            "hard": {
+                "hp": 7,
+                "str": 3,
+                "mag": 6,
+                "skl": 8,
+                "spd": 8,
+                "lck": 9,
+                "def": 5,
+                "res": 5
+            },
+            "lunatic": {
+                "hp": 7,
+                "str": 3,
+                "mag": 6,
+                "skl": 8,
+                "spd": 8,
+                "lck": 9,
+                "def": 5,
+                "res": 5
+            }
+        },
+        "growth": {
+            "hp": 30,
+            "str": 35,
+            "mag": 30,
+            "skl": 40,
+            "spd": 45,
+            "lck": 45,
+            "def": 25,
+            "res": 25
+        },
+        "rank": {
+            "normal": {
+                "sword": 21,
+                "stone": 21
+            },
+            "hard": {
+                "sword": 21,
+                "stone": 21
+            },
+            "lunatic": {
+                "sword": 21,
+                "stone": 21
+            }
+        },
+        "autolevel": {
+            "type": "child",
+            "join": 8,
+            "default": 8
+        }
+    },
+    "kaze": {
+        "name": "Kaze",
+        "job": "ninja",
+        "portrait": "kaze.png",
+        "lvl": 9,
+        "personal": "miraculoussave",
+        "father": false,
+        "mother": false,
+        "gender": "m",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "locktouch"
+            ],
+            "hard": [
+                "locktouch"
+            ],
+            "lunatic": [
+                "locktouch"
+            ]
+        },
+        "variable": false,
+        "set": [
+            "ninja",
+            "samurai"
+        ],
+        "base": {
+            "normal": {
+                "hp": 6,
+                "str": 6,
+                "mag": 0,
+                "skl": 4,
+                "spd": 8,
+                "lck": 5,
+                "def": 4,
+                "res": 10
+            },
+            "hard": {
+                "hp": 6,
+                "str": 6,
+                "mag": 0,
+                "skl": 4,
+                "spd": 8,
+                "lck": 5,
+                "def": 4,
+                "res": 10
+            },
+            "lunatic": {
+                "hp": 6,
+                "str": 6,
+                "mag": 0,
+                "skl": 4,
+                "spd": 8,
+                "lck": 5,
+                "def": 4,
+                "res": 10
+            }
+        },
+        "cap": {
+            "str": -2,
+            "mag": 0,
+            "skl": 2,
+            "spd": 3,
+            "lck": -2,
+            "def": -1,
+            "res": 1
+        },
+        "growth": {
+            "hp": 55,
+            "str": 40,
+            "mag": 0,
+            "skl": 45,
+            "spd": 65,
+            "lck": 20,
+            "def": 20,
+            "res": 35
+        },
+        "rank": {
+            "normal": {
+                "hidden": 51
+            },
+            "hard": {
+                "hidden": 51
+            },
+            "lunatic": {
+                "hidden": 51
+            }
+        },
+        "pairup": {
+            "raw": {
+                "c": {
+                    "spd": 1
+                },
+                "b": {
+                    "skl": 1
+                },
+                "a": {
+                    "res": 1
+                },
+                "s": {
+                    "skl": 1,
+                    "spd": 1
+                }
+            },
+            "bonus": {
+                "c": {
+                    "spd": 1
+                },
+                "b": {
+                    "spd": 1,
+                    "skl": 1
+                },
+                "a": {
+                    "spd": 1,
+                    "skl": 1,
+                    "res": 1
+                },
+                "s": {
+                    "spd": 2,
+                    "skl": 2,
+                    "res": 1
+                }
+            }
+        }
+    },
+    "keaton": {
+        "name": "Keaton",
+        "job": "wolfskin",
+        "portrait": "keaton.png",
+        "lvl": 15,
+        "personal": "collector",
+        "father": false,
+        "mother": false,
+        "gender": "m",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "oddshaped",
+                "beastbane"
+            ],
+            "hard": [
+                "oddshaped",
+                "beastbane"
+            ],
+            "lunatic": [
+                "oddshaped",
+                "beastbane"
+            ]
+        },
+        "variable": false,
+        "set": [
+            "wolfskin",
+            "fighter"
+        ],
+        "base": {
+            "normal": {
+                "hp": 16,
+                "str": 11,
+                "mag": 0,
+                "skl": 6,
+                "spd": 7,
+                "lck": 9,
+                "def": 12,
+                "res": 7
+            },
+            "hard": {
+                "hp": 16,
+                "str": 11,
+                "mag": 0,
+                "skl": 6,
+                "spd": 7,
+                "lck": 9,
+                "def": 12,
+                "res": 7
+            },
+            "lunatic": {
+                "hp": 16,
+                "str": 11,
+                "mag": 0,
+                "skl": 6,
+                "spd": 7,
+                "lck": 9,
+                "def": 12,
+                "res": 7
+            }
+        },
+        "cap": {
+            "str": 3,
+            "mag": 0,
+            "skl": -2,
+            "spd": -1,
+            "lck": 0,
+            "def": 2,
+            "res": -1
+        },
+        "growth": {
+            "hp": 60,
+            "str": 60,
+            "mag": 0,
+            "skl": 20,
+            "spd": 35,
+            "lck": 30,
+            "def": 50,
+            "res": 25
+        },
+        "rank": {
+            "normal": {
+                "stone": 51
+            },
+            "hard": {
+                "stone": 51
+            },
+            "lunatic": {
+                "stone": 51
+            }
+        },
+        "pairup": {
+            "raw": {
+                "c": {
+                    "str": 1
+                },
+                "b": {
+                    "str": 1
+                },
+                "a": {
+                    "def": 1
+                },
+                "s": {
+                    "str": 1,
+                    "def": 1
+                }
+            },
+            "bonus": {
+                "c": {
+                    "str": 1
+                },
+                "b": {
+                    "str": 2
+                },
+                "a": {
+                    "str": 2,
+                    "def": 1
+                },
+                "s": {
+                    "str": 3,
+                    "def": 2
+                }
+            }
+        }
+    },
+    "kumagera": {
+        "name": "Kumagera",
+        "job": "onichieftain",
+        "portrait": "kumagera.png",
+        "lvl": 1,
+        "personal": false,
+        "father": false,
+        "mother": false,
+        "gender": "m",
+        "blood": false,
+        "pairup": false,
+        "variable": true,
+        "set": [
+            "onisavage"
+        ],
+        "base": {
+            "normal": {
+                "hp": 17,
+                "str": 11,
+                "mag": 8,
+                "skl": 10,
+                "spd": 6,
+                "lck": 5,
+                "def": 9,
+                "res": 6
+            },
+            "hard": {
+                "hp": 19,
+                "str": 14,
+                "mag": 9,
+                "skl": 11,
+                "spd": 7,
+                "lck": 5,
+                "def": 11,
+                "res": 8
+            },
+            "lunatic": {
+                "hp": 19,
+                "str": 14,
+                "mag": 9,
+                "skl": 11,
+                "spd": 7,
+                "lck": 5,
+                "def": 11,
+                "res": 8
+            }
+        },
+        "cap": {
+            "str": 1,
+            "mag": 0,
+            "skl": 1,
+            "spd": 0,
+            "lck": -1,
+            "def": 1,
+            "res": -1
+        },
+        "growth": {
+            "hp": 65,
+            "str": 55,
+            "mag": 10,
+            "skl": 45,
+            "spd": 20,
+            "lck": 15,
+            "def": 45,
+            "res": 10
+        },
+        "rank": {
+            "normal": {
+                "axe": 51,
+                "tome": 51
+            },
+            "hard": {
+                "axe": 51,
+                "tome": 51
+            },
+            "lunatic": {
+                "axe": 161,
+                "tome": 96
+            }
+        },
+        "skill": {
+            "normal": [
+                "certainblow"
+            ],
+            "hard": [
+                "countermagic",
+                "dartingblow",
+                "certainblow"
+            ],
+            "lunatic": [
+                "countermagic",
+                "dartingblow",
+                "certainblow"
+            ]
+        }
+    },
+    "laslow": {
+        "name": "Laslow",
+        "job": "mercenary",
+        "portrait": "laslow.png",
+        "lvl": 12,
+        "personal": "fancyfootwork",
+        "father": false,
+        "mother": false,
+        "gender": "m",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "goodfortune",
+                "strongriposte"
+            ],
+            "hard": [
+                "goodfortune",
+                "strongriposte"
+            ],
+            "lunatic": [
+                "goodfortune",
+                "strongriposte"
+            ]
+        },
+        "variable": false,
+        "set": [
+            "mercenary",
+            "ninja"
+        ],
+        "base": {
+            "normal": {
+                "hp": 11,
+                "str": 10,
+                "mag": 0,
+                "skl": 9,
+                "spd": 7,
+                "lck": 12,
+                "def": 5,
+                "res": 5
+            },
+            "hard": {
+                "hp": 11,
+                "str": 10,
+                "mag": 0,
+                "skl": 9,
+                "spd": 7,
+                "lck": 12,
+                "def": 5,
+                "res": 5
+            },
+            "lunatic": {
+                "hp": 11,
+                "str": 10,
+                "mag": 0,
+                "skl": 9,
+                "spd": 7,
+                "lck": 12,
+                "def": 5,
+                "res": 5
+            }
+        },
+        "cap": {
+            "str": 1,
+            "mag": 0,
+            "skl": 2,
+            "spd": -1,
+            "lck": 1,
+            "def": -1,
+            "res": -1
+        },
+        "growth": {
+            "hp": 50,
+            "str": 45,
+            "mag": 0,
+            "skl": 45,
+            "spd": 30,
+            "lck": 55,
+            "def": 35,
+            "res": 25
+        },
+        "rank": {
+            "normal": {
+                "sword": 51
+            },
+            "hard": {
+                "sword": 51
+            },
+            "lunatic": {
+                "sword": 51
+            }
+        },
+        "pairup": {
+            "raw": {
+                "c": {
+                    "skl": 1
+                },
+                "b": {
+                    "str": 1
+                },
+                "a": {
+                    "lck": 1
+                },
+                "s": {
+                    "str": 1,
+                    "lck": 1
+                }
+            },
+            "bonus": {
+                "c": {
+                    "skl": 1
+                },
+                "b": {
+                    "skl": 1,
+                    "str": 1
+                },
+                "a": {
+                    "skl": 1,
+                    "str": 1,
+                    "lck": 1
+                },
+                "s": {
+                    "skl": 1,
+                    "str": 2,
+                    "lck": 2
+                }
+            }
+        }
+    },
+    "leo": {
+        "name": "Leo",
+        "job": "darkknight",
+        "portrait": "leo.png",
+        "lvl": 2,
+        "personal": "pragmatic",
+        "father": false,
+        "mother": false,
+        "gender": "m",
+        "blood": true,
+        "skill": {
+            "normal": [
+                "heartseeker",
+                "maleficaura"
+            ],
+            "hard": [
+                "heartseeker",
+                "maleficaura"
+            ],
+            "lunatic": [
+                "heartseeker",
+                "maleficaura"
+            ]
+        },
+        "variable": false,
+        "set": [
+            "darkmage",
+            "troubadour"
+        ],
+        "base": {
+            "normal": {
+                "hp": 15,
+                "str": 6,
+                "mag": 14,
+                "skl": 8,
+                "spd": 10,
+                "lck": 12,
+                "def": 8,
+                "res": 14
+            },
+            "hard": {
+                "hp": 15,
+                "str": 6,
+                "mag": 14,
+                "skl": 8,
+                "spd": 10,
+                "lck": 12,
+                "def": 8,
+                "res": 14
+            },
+            "lunatic": {
+                "hp": 15,
+                "str": 6,
+                "mag": 14,
+                "skl": 8,
+                "spd": 10,
+                "lck": 12,
+                "def": 8,
+                "res": 14
+            }
+        },
+        "cap": {
+            "str": -2,
+            "mag": 2,
+            "skl": 0,
+            "spd": -2,
+            "lck": 0,
+            "def": 0,
+            "res": 2
+        },
+        "growth": {
+            "hp": 45,
+            "str": 25,
+            "mag": 55,
+            "skl": 35,
+            "spd": 45,
+            "lck": 45,
+            "def": 30,
+            "res": 45
+        },
+        "rank": {
+            "normal": {
+                "sword": 21,
+                "tome": 51
+            },
+            "hard": {
+                "sword": 21,
+                "tome": 51
+            },
+            "lunatic": {
+                "sword": 21,
+                "tome": 51
+            }
+        },
+        "pairup": {
+            "raw": {
+                "c": {
+                    "mag": 1
+                },
+                "b": {
+                    "res": 1
+                },
+                "a": {
+                    "spd": 1
+                },
+                "s": {
+                    "mag": 1,
+                    "lck": 1
+                }
+            },
+            "bonus": {
+                "c": {
+                    "mag": 1
+                },
+                "b": {
+                    "mag": 1,
+                    "res": 1
+                },
+                "a": {
+                    "mag": 1,
+                    "res": 1,
+                    "spd": 1
+                },
+                "s": {
+                    "mag": 2,
+                    "res": 1,
+                    "spd": 1,
+                    "lck": 1
+                }
+            }
+        }
+    },
+    "llewelyn": {
+        "name": "Llewelyn",
+        "job": "berserker",
+        "portrait": "llewelyn.png",
+        "lvl": 1,
+        "personal": false,
+        "father": false,
+        "mother": false,
+        "gender": "m",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "hp5",
+                "gamble"
+            ],
+            "hard": [
+                "hp5",
+                "gamble"
+            ],
+            "lunatic": [
+                "hp5",
+                "gamble"
+            ]
+        },
+        "pairup": false,
+        "variable": true,
+        "set": [
+            "fighter"
+        ],
+        "base": {
+            "normal": {
+                "hp": 9,
+                "str": 2,
+                "mag": 0,
+                "skl": 5,
+                "spd": 4,
+                "lck": 3,
+                "def": 7,
+                "res": 5
+            },
+            "hard": {
+                "hp": 14,
+                "str": 9,
+                "mag": 0,
+                "skl": 8,
+                "spd": 8,
+                "lck": 3,
+                "def": 7,
+                "res": 5
+            },
+            "lunatic": {
+                "hp": 14,
+                "str": 11,
+                "mag": 0,
+                "skl": 8,
+                "spd": 9,
+                "lck": 3,
+                "def": 9,
+                "res": 5
+            }
+        },
+        "cap": {
+            "str": 1,
+            "mag": -1,
+            "skl": -3,
+            "spd": 2,
+            "lck": 0,
+            "def": 3,
+            "res": -2
+        },
+        "growth": {
+            "hp": 85,
+            "str": 45,
+            "mag": 5,
+            "skl": 25,
+            "spd": 45,
+            "lck": 35,
+            "def": 25,
+            "res": 5
+        },
+        "rank": {
+            "normal": {
+                "axe": 51
+            },
+            "hard": {
+                "axe": 51
+            },
+            "lunatic": {
+                "axe": 251
+            }
+        }
+    },
+    "lloyd": {
+        "name": "Lloyd",
+        "job": "berserker",
+        "portrait": "lloyd.png",
+        "lvl": 1,
+        "personal": false,
+        "father": false,
+        "mother": false,
+        "gender": "m",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "hp5",
+                "gamble"
+            ],
+            "hard": [
+                "hp5",
+                "gamble"
+            ],
+            "lunatic": [
+                "hp5",
+                "gamble"
+            ]
+        },
+        "pairup": false,
+        "variable": true,
+        "set": [
+            "fighter"
+        ],
+        "base": {
+            "normal": {
+                "hp": 9,
+                "str": 2,
+                "mag": 0,
+                "skl": 5,
+                "spd": 4,
+                "lck": 3,
+                "def": 7,
+                "res": 5
+            },
+            "hard": {
+                "hp": 14,
+                "str": 9,
+                "mag": 0,
+                "skl": 8,
+                "spd": 8,
+                "lck": 3,
+                "def": 7,
+                "res": 5
+            },
+            "lunatic": {
+                "hp": 14,
+                "str": 11,
+                "mag": 0,
+                "skl": 8,
+                "spd": 9,
+                "lck": 3,
+                "def": 9,
+                "res": 5
+            }
+        },
+        "cap": {
+            "str": 2,
+            "mag": -1,
+            "skl": 2,
+            "spd": -3,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "growth": {
+            "hp": 85,
+            "str": 60,
+            "mag": 5,
+            "skl": 35,
+            "spd": 30,
+            "lck": 35,
+            "def": 15,
+            "res": 10
+        },
+        "rank": {
+            "normal": {
+                "axe": 51
+            },
+            "hard": {
+                "axe": 51
+            },
+            "lunatic": {
+                "axe": 251
+            }
+        }
+    },
+    "lucina": {
+        "name": "Lucina",
+        "job": "greatlord",
+        "portrait": "lucina.png",
+        "lvl": 15,
+        "personal": false,
+        "father": false,
+        "mother": false,
+        "gender": "f",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "dualstriker",
+                "charm"
+            ],
+            "hard": [
+                "dualstriker",
+                "charm"
+            ],
+            "lunatic": [
+                "dualstriker",
+                "charm"
+            ]
+        },
+        "pairup": false,
+        "variable": false,
+        "set": [
+            "greatlord"
+        ],
+        "base": {
+            "normal": {
+                "hp": 10,
+                "str": 9,
+                "mag": 2,
+                "skl": 11,
+                "spd": 12,
+                "lck": 15,
+                "def": 7,
+                "res": 10
+            },
+            "hard": {
+                "hp": 10,
+                "str": 9,
+                "mag": 2,
+                "skl": 11,
+                "spd": 12,
+                "lck": 15,
+                "def": 7,
+                "res": 10
+            },
+            "lunatic": {
+                "hp": 10,
+                "str": 9,
+                "mag": 2,
+                "skl": 11,
+                "spd": 12,
+                "lck": 15,
+                "def": 7,
+                "res": 10
+            }
+        },
+        "cap": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 2,
+            "lck": 0,
+            "def": -1,
+            "res": 0
+        },
+        "growth": {
+            "hp": 40,
+            "str": 35,
+            "mag": 5,
+            "skl": 45,
+            "spd": 50,
+            "lck": 50,
+            "def": 25,
+            "res": 35
+        },
+        "rank": {
+            "normal": {
+                "sword": 51,
+                "lance": 21
+            },
+            "hard": {
+                "sword": 51,
+                "lance": 21
+            },
+            "lunatic": {
+                "sword": 51,
+                "lance": 21
+            }
+        }
+    },
+    "lucinacipher": {
+        "name": "Lucina (Cipher)",
+        "job": "greatlord",
+        "portrait": "lucinacipher.png",
+        "lvl": 10,
+        "personal": false,
+        "father": false,
+        "mother": false,
+        "gender": "f",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "dualstriker",
+                "charm"
+            ],
+            "hard": [
+                "dualstriker",
+                "charm"
+            ],
+            "lunatic": [
+                "dualstriker",
+                "charm"
+            ]
+        },
+        "pairup": false,
+        "variable": false,
+        "set": [
+            "greatlord"
+        ],
+        "base": {
+            "normal": {
+                "hp": 6,
+                "str": 6,
+                "mag": 2,
+                "skl": 8,
+                "spd": 9,
+                "lck": 12,
+                "def": 4,
+                "res": 8
+            },
+            "hard": {
+                "hp": 6,
+                "str": 6,
+                "mag": 2,
+                "skl": 8,
+                "spd": 9,
+                "lck": 12,
+                "def": 4,
+                "res": 8
+            },
+            "lunatic": {
+                "hp": 6,
+                "str": 6,
+                "mag": 2,
+                "skl": 8,
+                "spd": 9,
+                "lck": 12,
+                "def": 4,
+                "res": 8
+            }
+        },
+        "cap": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 2,
+            "lck": 0,
+            "def": -1,
+            "res": 0
+        },
+        "growth": {
+            "hp": 40,
+            "str": 35,
+            "mag": 5,
+            "skl": 45,
+            "spd": 50,
+            "lck": 50,
+            "def": 25,
+            "res": 35
+        },
+        "rank": {
+            "normal": {
+                "sword": 21,
+                "lance": 1
+            },
+            "hard": {
+                "sword": 21,
+                "lance": 1
+            },
+            "lunatic": {
+                "sword": 21,
+                "lance": 1
+            }
+        }
+    },
+    "marth": {
+        "name": "Marth",
+        "job": "lodestar",
+        "portrait": "marth.png",
+        "lvl": 15,
+        "personal": false,
+        "father": false,
+        "mother": false,
+        "gender": "m",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "dancingblade",
+                "charm"
+            ],
+            "hard": [
+                "dancingblade",
+                "charm"
+            ],
+            "lunatic": [
+                "dancingblade",
+                "charm"
+            ]
+        },
+        "pairup": false,
+        "variable": false,
+        "set": [
+            "lodestar"
+        ],
+        "base": {
+            "normal": {
+                "hp": 10,
+                "str": 8,
+                "mag": 2,
+                "skl": 13,
+                "spd": 13,
+                "lck": 17,
+                "def": 8,
+                "res": 8
+            },
+            "hard": {
+                "hp": 10,
+                "str": 8,
+                "mag": 2,
+                "skl": 13,
+                "spd": 13,
+                "lck": 17,
+                "def": 8,
+                "res": 8
+            },
+            "lunatic": {
+                "hp": 10,
+                "str": 8,
+                "mag": 2,
+                "skl": 13,
+                "spd": 13,
+                "lck": 17,
+                "def": 8,
+                "res": 8
+            }
+        },
+        "cap": {
+            "str": -1,
+            "mag": 0,
+            "skl": 1,
+            "spd": 1,
+            "lck": 1,
+            "def": 0,
+            "res": -1
+        },
+        "growth": {
+            "hp": 45,
+            "str": 30,
+            "mag": 5,
+            "skl": 50,
+            "spd": 55,
+            "lck": 60,
+            "def": 35,
+            "res": 20
+        },
+        "rank": {
+            "normal": {
+                "sword": 51
+            },
+            "hard": {
+                "sword": 51
+            },
+            "lunatic": {
+                "sword": 51
+            }
+        }
+    },
+    "marthcipher": {
+        "name": "Marth (Cipher)",
+        "job": "lodestar",
+        "portrait": "marthcipher.png",
+        "lvl": 10,
+        "personal": false,
+        "father": false,
+        "mother": false,
+        "gender": "m",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "dancingblade",
+                "charm"
+            ],
+            "hard": [
+                "dancingblade",
+                "charm"
+            ],
+            "lunatic": [
+                "dancingblade",
+                "charm"
+            ]
+        },
+        "pairup": false,
+        "variable": false,
+        "set": [
+            "lodestar"
+        ],
+        "base": {
+            "normal": {
+                "hp": 6,
+                "str": 6,
+                "mag": 2,
+                "skl": 9,
+                "spd": 9,
+                "lck": 13,
+                "def": 5,
+                "res": 7
+            },
+            "hard": {
+                "hp": 6,
+                "str": 6,
+                "mag": 2,
+                "skl": 9,
+                "spd": 9,
+                "lck": 13,
+                "def": 5,
+                "res": 7
+            },
+            "lunatic": {
+                "hp": 6,
+                "str": 6,
+                "mag": 2,
+                "skl": 9,
+                "spd": 9,
+                "lck": 13,
+                "def": 5,
+                "res": 7
+            }
+        },
+        "cap": {
+            "str": -1,
+            "mag": 0,
+            "skl": 1,
+            "spd": 1,
+            "lck": 1,
+            "def": 0,
+            "res": -1
+        },
+        "growth": {
+            "hp": 45,
+            "str": 30,
+            "mag": 5,
+            "skl": 50,
+            "spd": 55,
+            "lck": 60,
+            "def": 35,
+            "res": 20
+        },
+        "rank": {
+            "normal": {
+                "sword": 21
+            },
+            "hard": {
+                "sword": 21
+            },
+            "lunatic": {
+                "sword": 21
+            }
+        }
+    },
+    "midori": {
+        "name": "Midori",
+        "job": "apothecary",
+        "portrait": "midori.png",
+        "lvl": 10,
+        "personal": "luckycharm",
+        "father": "kaze",
+        "mother": false,
+        "gender": "f",
+        "blood": false,
+        "cap": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "skill": {
+            "normal": [
+                "potentpotion",
+                "quicksalve"
+            ],
+            "hard": [
+                "potentpotion",
+                "quicksalve"
+            ],
+            "lunatic": [
+                "potentpotion",
+                "quicksalve"
+            ]
+        },
+        "pairup": false,
+        "influence": "father",
+        "variable": false,
+        "set": [
+            "apothecary"
+        ],
+        "base": {
+            "normal": {
+                "hp": 8,
+                "str": 6,
+                "mag": 2,
+                "skl": 10,
+                "spd": 4,
+                "lck": 10,
+                "def": 4,
+                "res": 2
+            },
+            "hard": {
+                "hp": 8,
+                "str": 6,
+                "mag": 2,
+                "skl": 10,
+                "spd": 4,
+                "lck": 10,
+                "def": 4,
+                "res": 2
+            },
+            "lunatic": {
+                "hp": 8,
+                "str": 6,
+                "mag": 2,
+                "skl": 10,
+                "spd": 4,
+                "lck": 10,
+                "def": 4,
+                "res": 2
+            }
+        },
+        "growth": {
+            "hp": 45,
+            "str": 35,
+            "mag": 5,
+            "skl": 55,
+            "spd": 35,
+            "lck": 50,
+            "def": 30,
+            "res": 20
+        },
+        "rank": {
+            "normal": {
+                "bow": 21
+            },
+            "hard": {
+                "bow": 21
+            },
+            "lunatic": {
+                "bow": 21
+            }
+        },
+        "autolevel": {
+            "type": "child",
+            "join": 12,
+            "default": 12
+        }
+    },
+    "minerva": {
+        "name": "Minerva",
+        "job": "pegasusknight",
+        "portrait": "minerva.png",
+        "lvl": 10,
+        "personal": false,
+        "father": false,
+        "mother": false,
+        "gender": "f",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "speed2",
+                "relief"
+            ],
+            "hard": [
+                "speed2",
+                "relief"
+            ],
+            "lunatic": [
+                "speed2",
+                "relief"
+            ]
+        },
+        "pairup": false,
+        "variable": false,
+        "set": [
+            "pegasusknight"
+        ],
+        "base": {
+            "normal": {
+                "hp": 4,
+                "str": 7,
+                "mag": 0,
+                "skl": 2,
+                "spd": 7,
+                "lck": 2,
+                "def": 11,
+                "res": 3
+            },
+            "hard": {
+                "hp": 4,
+                "str": 7,
+                "mag": 0,
+                "skl": 2,
+                "spd": 7,
+                "lck": 2,
+                "def": 11,
+                "res": 3
+            },
+            "lunatic": {
+                "hp": 4,
+                "str": 7,
+                "mag": 0,
+                "skl": 2,
+                "spd": 7,
+                "lck": 2,
+                "def": 11,
+                "res": 3
+            }
+        },
+        "cap": {
+            "str": 1,
+            "mag": 0,
+            "skl": 0,
+            "spd": 1,
+            "lck": -2,
+            "def": 3,
+            "res": -3
+        },
+        "growth": {
+            "hp": 40,
+            "str": 50,
+            "mag": 0,
+            "skl": 25,
+            "spd": 45,
+            "lck": 15,
+            "def": 50,
+            "res": 15
+        },
+        "rank": {
+            "normal": {
+                "lance": 51
+            },
+            "hard": {
+                "lance": 51
+            },
+            "lunatic": {
+                "lance": 51
+            }
+        }
+    },
+    "mozu": {
+        "name": "Mozu",
+        "job": "villager",
+        "portrait": "mozu.png",
+        "lvl": 1,
+        "personal": "forager",
+        "father": false,
+        "mother": false,
+        "gender": "f",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "aptitude"
+            ],
+            "hard": [
+                "aptitude"
+            ],
+            "lunatic": [
+                "aptitude"
+            ]
+        },
+        "variable": false,
+        "set": [
+            "villager",
+            "archer"
+        ],
+        "base": {
+            "normal": {
+                "hp": -1,
+                "str": 1,
+                "mag": 0,
+                "skl": 1,
+                "spd": 2,
+                "lck": 0,
+                "def": 0,
+                "res": 1
+            },
+            "hard": {
+                "hp": -1,
+                "str": 1,
+                "mag": 0,
+                "skl": 1,
+                "spd": 2,
+                "lck": 0,
+                "def": 0,
+                "res": 1
+            },
+            "lunatic": {
+                "hp": -1,
+                "str": 1,
+                "mag": 0,
+                "skl": 1,
+                "spd": 2,
+                "lck": 0,
+                "def": 0,
+                "res": 1
+            }
+        },
+        "cap": {
+            "str": 0,
+            "mag": 0,
+            "skl": 1,
+            "spd": 1,
+            "lck": 1,
+            "def": 0,
+            "res": -2
+        },
+        "growth": {
+            "hp": 30,
+            "str": 40,
+            "mag": 5,
+            "skl": 50,
+            "spd": 55,
+            "lck": 45,
+            "def": 35,
+            "res": 30
+        },
+        "rank": {
+            "normal": {
+                "lance": 1
+            },
+            "hard": {
+                "lance": 1
+            },
+            "lunatic": {
+                "lance": 1
+            }
+        },
+        "pairup": {
+            "raw": {
+                "c": {
+                    "skl": 1
+                },
+                "b": {
+                    "lck": 1
+                },
+                "a": {
+                    "spd": 1
+                },
+                "s": {
+                    "skl": 1,
+                    "lck": 1
+                }
+            },
+            "bonus": {
+                "c": {
+                    "skl": 1
+                },
+                "b": {
+                    "skl": 1,
+                    "lck": 1
+                },
+                "a": {
+                    "skl": 1,
+                    "lck": 1,
+                    "spd": 1
+                },
+                "s": {
+                    "skl": 2,
+                    "lck": 2,
+                    "spd": 1
+                }
+            }
+        }
+    },
+    "nichol": {
+        "name": "Nichol",
+        "job": "maligknight",
+        "portrait": "nichol.png",
+        "lvl": 5,
+        "personal": false,
+        "father": false,
+        "mother": false,
+        "gender": "m",
+        "blood": false,
+        "pairup": false,
+        "variable": true,
+        "set": [
+            "wyvernrider"
+        ],
+        "base": {
+            "normal": {
+                "hp": 15,
+                "str": 10,
+                "mag": 2,
+                "skl": 7,
+                "spd": 8,
+                "lck": 11,
+                "def": 8,
+                "res": 7
+            },
+            "hard": {
+                "hp": 15,
+                "str": 10,
+                "mag": 4,
+                "skl": 10,
+                "spd": 12,
+                "lck": 11,
+                "def": 8,
+                "res": 7
+            },
+            "lunatic": {
+                "hp": 18,
+                "str": 13,
+                "mag": 7,
+                "skl": 10,
+                "spd": 12,
+                "lck": 11,
+                "def": 10,
+                "res": 9
+            }
+        },
+        "cap": {
+            "str": 1,
+            "mag": -1,
+            "skl": 1,
+            "spd": 0,
+            "lck": -1,
+            "def": 1,
+            "res": -1
+        },
+        "growth": {
+            "hp": 35,
+            "str": 45,
+            "mag": 20,
+            "skl": 45,
+            "spd": 45,
+            "lck": 15,
+            "def": 35,
+            "res": 20
+        },
+        "rank": {
+            "normal": {
+                "axe": 96,
+                "tome": 51
+            },
+            "hard": {
+                "axe": 96,
+                "tome": 51
+            },
+            "lunatic": {
+                "axe": 161,
+                "tome": 96
+            }
+        },
+        "skill": {
+            "normal": [],
+            "hard": [],
+            "lunatic": [
+                "strength2",
+                "lunge"
+            ]
+        }
+    },
+    "niles": {
+        "name": "Niles",
+        "job": "outlaw",
+        "portrait": "niles.png",
+        "lvl": 8,
+        "personal": "kidnap",
+        "father": false,
+        "mother": false,
+        "gender": "m",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "locktouch"
+            ],
+            "hard": [
+                "locktouch"
+            ],
+            "lunatic": [
+                "locktouch"
+            ]
+        },
+        "variable": false,
+        "set": [
+            "outlaw",
+            "darkmage"
+        ],
+        "base": {
+            "normal": {
+                "hp": 6,
+                "str": 6,
+                "mag": 4,
+                "skl": 5,
+                "spd": 7,
+                "lck": 5,
+                "def": 5,
+                "res": 8
+            },
+            "hard": {
+                "hp": 6,
+                "str": 6,
+                "mag": 4,
+                "skl": 5,
+                "spd": 7,
+                "lck": 5,
+                "def": 5,
+                "res": 8
+            },
+            "lunatic": {
+                "hp": 6,
+                "str": 6,
+                "mag": 4,
+                "skl": 5,
+                "spd": 7,
+                "lck": 5,
+                "def": 5,
+                "res": 8
+            }
+        },
+        "cap": {
+            "str": -2,
+            "mag": 0,
+            "skl": -1,
+            "spd": 3,
+            "lck": 0,
+            "def": 0,
+            "res": 1
+        },
+        "growth": {
+            "hp": 40,
+            "str": 35,
+            "mag": 20,
+            "skl": 40,
+            "spd": 50,
+            "lck": 30,
+            "def": 30,
+            "res": 40
+        },
+        "rank": {
+            "normal": {
+                "bow": 21
+            },
+            "hard": {
+                "bow": 21
+            },
+            "lunatic": {
+                "bow": 21
+            }
+        },
+        "pairup": {
+            "raw": {
+                "c": {
+                    "spd": 1
+                },
+                "b": {
+                    "spd": 1
+                },
+                "a": {
+                    "res": 1
+                },
+                "s": {
+                    "mag": 1,
+                    "res": 1
+                }
+            },
+            "bonus": {
+                "c": {
+                    "spd": 1
+                },
+                "b": {
+                    "spd": 2
+                },
+                "a": {
+                    "spd": 2,
+                    "res": 1
+                },
+                "s": {
+                    "spd": 2,
+                    "res": 2,
+                    "mag": 1
+                }
+            }
+        }
+    },
+    "nina": {
+        "name": "Nina",
+        "job": "outlaw",
+        "portrait": "nina.png",
+        "lvl": 10,
+        "personal": "daydream",
+        "father": "niles",
+        "mother": false,
+        "gender": "f",
+        "blood": false,
+        "cap": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "skill": {
+            "normal": [
+                "locktouch",
+                "movement1"
+            ],
+            "hard": [
+                "locktouch",
+                "movement1"
+            ],
+            "lunatic": [
+                "locktouch",
+                "movement1"
+            ]
+        },
+        "pairup": false,
+        "influence": "father",
+        "variable": false,
+        "set": [
+            "outlaw"
+        ],
+        "base": {
+            "normal": {
+                "hp": 5,
+                "str": 8,
+                "mag": 5,
+                "skl": 5,
+                "spd": 5,
+                "lck": 11,
+                "def": 3,
+                "res": 10
+            },
+            "hard": {
+                "hp": 5,
+                "str": 8,
+                "mag": 5,
+                "skl": 5,
+                "spd": 5,
+                "lck": 11,
+                "def": 3,
+                "res": 10
+            },
+            "lunatic": {
+                "hp": 5,
+                "str": 8,
+                "mag": 5,
+                "skl": 5,
+                "spd": 5,
+                "lck": 11,
+                "def": 3,
+                "res": 10
+            }
+        },
+        "growth": {
+            "hp": 30,
+            "str": 45,
+            "mag": 30,
+            "skl": 35,
+            "spd": 40,
+            "lck": 50,
+            "def": 25,
+            "res": 45
+        },
+        "rank": {
+            "normal": {
+                "bow": 21
+            },
+            "hard": {
+                "bow": 21
+            },
+            "lunatic": {
+                "bow": 21
+            }
+        },
+        "autolevel": {
+            "type": "child",
+            "join": 9,
+            "default": 9
+        }
+    },
+    "nyx": {
+        "name": "Nyx",
+        "job": "darkmage",
+        "portrait": "nyx.png",
+        "lvl": 9,
+        "personal": "countercurse",
+        "father": false,
+        "mother": false,
+        "gender": "f",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "heartseeker"
+            ],
+            "hard": [
+                "heartseeker"
+            ],
+            "lunatic": [
+                "heartseeker"
+            ]
+        },
+        "variable": false,
+        "set": [
+            "darkmage",
+            "outlaw"
+        ],
+        "base": {
+            "normal": {
+                "hp": 4,
+                "str": 1,
+                "mag": 6,
+                "skl": 2,
+                "spd": 8,
+                "lck": 2,
+                "def": 1,
+                "res": 3
+            },
+            "hard": {
+                "hp": 4,
+                "str": 1,
+                "mag": 6,
+                "skl": 2,
+                "spd": 8,
+                "lck": 2,
+                "def": 1,
+                "res": 3
+            },
+            "lunatic": {
+                "hp": 4,
+                "str": 1,
+                "mag": 6,
+                "skl": 2,
+                "spd": 8,
+                "lck": 2,
+                "def": 1,
+                "res": 3
+            }
+        },
+        "cap": {
+            "str": 0,
+            "mag": 3,
+            "skl": -2,
+            "spd": 2,
+            "lck": -1,
+            "def": -2,
+            "res": 1
+        },
+        "growth": {
+            "hp": 30,
+            "str": 5,
+            "mag": 50,
+            "skl": 35,
+            "spd": 50,
+            "lck": 20,
+            "def": 15,
+            "res": 30
+        },
+        "rank": {
+            "normal": {
+                "tome": 51
+            },
+            "hard": {
+                "tome": 51
+            },
+            "lunatic": {
+                "tome": 51
+            }
+        },
+        "pairup": {
+            "raw": {
+                "c": {
+                    "mag": 1
+                },
+                "b": {
+                    "spd": 1
+                },
+                "a": {
+                    "mag": 1
+                },
+                "s": {
+                    "mag": 1,
+                    "spd": 1
+                }
+            },
+            "bonus": {
+                "c": {
+                    "mag": 1
+                },
+                "b": {
+                    "mag": 1,
+                    "spd": 1
+                },
+                "a": {
+                    "mag": 2,
+                    "spd": 1
+                },
+                "s": {
+                    "mag": 3,
+                    "spd": 2
+                }
+            }
+        }
+    },
+    "odin": {
+        "name": "Odin",
+        "job": "darkmage",
+        "portrait": "odin.png",
+        "lvl": 5,
+        "personal": "achingblood",
+        "father": false,
+        "mother": false,
+        "gender": "m",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "heartseeker"
+            ],
+            "hard": [
+                "heartseeker"
+            ],
+            "lunatic": [
+                "heartseeker"
+            ]
+        },
+        "variable": false,
+        "set": [
+            "darkmage",
+            "samurai"
+        ],
+        "base": {
+            "normal": {
+                "hp": 5,
+                "str": 5,
+                "mag": 2,
+                "skl": 7,
+                "spd": 4,
+                "lck": 8,
+                "def": 3,
+                "res": 2
+            },
+            "hard": {
+                "hp": 5,
+                "str": 5,
+                "mag": 2,
+                "skl": 7,
+                "spd": 4,
+                "lck": 8,
+                "def": 3,
+                "res": 2
+            },
+            "lunatic": {
+                "hp": 5,
+                "str": 5,
+                "mag": 2,
+                "skl": 7,
+                "spd": 4,
+                "lck": 8,
+                "def": 3,
+                "res": 2
+            }
+        },
+        "cap": {
+            "str": 0,
+            "mag": 1,
+            "skl": 1,
+            "spd": -1,
+            "lck": 1,
+            "def": 0,
+            "res": -1
+        },
+        "growth": {
+            "hp": 55,
+            "str": 35,
+            "mag": 30,
+            "skl": 55,
+            "spd": 35,
+            "lck": 60,
+            "def": 40,
+            "res": 20
+        },
+        "rank": {
+            "normal": {
+                "tome": 21
+            },
+            "hard": {
+                "tome": 21
+            },
+            "lunatic": {
+                "tome": 21
+            }
+        },
+        "pairup": {
+            "raw": {
+                "c": {
+                    "mag": 1
+                },
+                "b": {
+                    "str": 1
+                },
+                "a": {
+                    "lck": 1
+                },
+                "s": {
+                    "mag": 1,
+                    "skl": 1
+                }
+            },
+            "bonus": {
+                "c": {
+                    "mag": 1
+                },
+                "b": {
+                    "mag": 1,
+                    "str": 1
+                },
+                "a": {
+                    "mag": 1,
+                    "str": 1,
+                    "lck": 1
+                },
+                "s": {
+                    "mag": 2,
+                    "str": 1,
+                    "lck": 1,
+                    "skl": 1
+                }
+            }
+        }
+    },
+    "ophelia": {
+        "name": "Ophelia",
+        "job": "darkmage",
+        "portrait": "ophelia.png",
+        "lvl": 10,
+        "personal": "bibliophile",
+        "father": "odin",
+        "mother": false,
+        "gender": "f",
+        "blood": false,
+        "cap": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "skill": {
+            "normal": [
+                "heartseeker",
+                "maleficaura"
+            ],
+            "hard": [
+                "heartseeker",
+                "maleficaura"
+            ],
+            "lunatic": [
+                "heartseeker",
+                "maleficaura"
+            ]
+        },
+        "pairup": false,
+        "influence": "father",
+        "variable": false,
+        "set": [
+            "darkmage"
+        ],
+        "base": {
+            "normal": {
+                "hp": 7,
+                "str": 3,
+                "mag": 6,
+                "skl": 6,
+                "spd": 7,
+                "lck": 12,
+                "def": 2,
+                "res": 5
+            },
+            "hard": {
+                "hp": 7,
+                "str": 3,
+                "mag": 6,
+                "skl": 6,
+                "spd": 7,
+                "lck": 12,
+                "def": 2,
+                "res": 5
+            },
+            "lunatic": {
+                "hp": 7,
+                "str": 3,
+                "mag": 6,
+                "skl": 6,
+                "spd": 7,
+                "lck": 12,
+                "def": 2,
+                "res": 5
+            }
+        },
+        "growth": {
+            "hp": 45,
+            "str": 15,
+            "mag": 45,
+            "skl": 40,
+            "spd": 45,
+            "lck": 65,
+            "def": 20,
+            "res": 30
+        },
+        "rank": {
+            "normal": {
+                "tome": 21
+            },
+            "hard": {
+                "tome": 21
+            },
+            "lunatic": {
+                "tome": 21
+            }
+        },
+        "autolevel": {
+            "type": "child",
+            "join": 9,
+            "default": 9
+        }
+    },
+    "percy": {
+        "name": "Percy",
+        "job": "wyvernrider",
+        "portrait": "percy.png",
+        "lvl": 10,
+        "personal": "fortunateson",
+        "father": "arthur",
+        "mother": false,
+        "gender": "m",
+        "blood": false,
+        "cap": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "skill": {
+            "normal": [
+                "strength2",
+                "lunge"
+            ],
+            "hard": [
+                "strength2",
+                "lunge"
+            ],
+            "lunatic": [
+                "strength2",
+                "lunge"
+            ]
+        },
+        "pairup": false,
+        "influence": "father",
+        "variable": false,
+        "set": [
+            "wyvernrider"
+        ],
+        "base": {
+            "normal": {
+                "hp": 6,
+                "str": 4,
+                "mag": 0,
+                "skl": 6,
+                "spd": 6,
+                "lck": 15,
+                "def": 8,
+                "res": 4
+            },
+            "hard": {
+                "hp": 6,
+                "str": 4,
+                "mag": 0,
+                "skl": 6,
+                "spd": 6,
+                "lck": 15,
+                "def": 8,
+                "res": 4
+            },
+            "lunatic": {
+                "hp": 6,
+                "str": 4,
+                "mag": 0,
+                "skl": 6,
+                "spd": 6,
+                "lck": 15,
+                "def": 8,
+                "res": 4
+            }
+        },
+        "growth": {
+            "hp": 30,
+            "str": 30,
+            "mag": 5,
+            "skl": 45,
+            "spd": 40,
+            "lck": 75,
+            "def": 55,
+            "res": 15
+        },
+        "rank": {
+            "normal": {
+                "axe": 21
+            },
+            "hard": {
+                "axe": 21
+            },
+            "lunatic": {
+                "axe": 21
+            }
+        },
+        "autolevel": {
+            "type": "child",
+            "join": 8,
+            "default": 8
+        }
+    },
+    "peri": {
+        "name": "Peri",
+        "job": "cavalier",
+        "portrait": "peri.png",
+        "lvl": 10,
+        "personal": "bloodthirst",
+        "father": false,
+        "mother": false,
+        "gender": "f",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "elbowroom",
+                "shelter"
+            ],
+            "hard": [
+                "elbowroom",
+                "shelter"
+            ],
+            "lunatic": [
+                "elbowroom",
+                "shelter"
+            ]
+        },
+        "variable": false,
+        "set": [
+            "cavalier",
+            "darkmage"
+        ],
+        "base": {
+            "normal": {
+                "hp": 8,
+                "str": 7,
+                "mag": 0,
+                "skl": 4,
+                "spd": 8,
+                "lck": 6,
+                "def": 5,
+                "res": 7
+            },
+            "hard": {
+                "hp": 8,
+                "str": 7,
+                "mag": 0,
+                "skl": 4,
+                "spd": 8,
+                "lck": 6,
+                "def": 5,
+                "res": 7
+            },
+            "lunatic": {
+                "hp": 8,
+                "str": 7,
+                "mag": 0,
+                "skl": 4,
+                "spd": 8,
+                "lck": 6,
+                "def": 5,
+                "res": 7
+            }
+        },
+        "cap": {
+            "str": 1,
+            "mag": 0,
+            "skl": -1,
+            "spd": 1,
+            "lck": 0,
+            "def": -2,
+            "res": 2
+        },
+        "growth": {
+            "hp": 30,
+            "str": 50,
+            "mag": 5,
+            "skl": 30,
+            "spd": 50,
+            "lck": 35,
+            "def": 25,
+            "res": 45
+        },
+        "rank": {
+            "normal": {
+                "sword": 21,
+                "lance": 51
+            },
+            "hard": {
+                "sword": 21,
+                "lance": 51
+            },
+            "lunatic": {
+                "sword": 21,
+                "lance": 51
+            }
+        },
+        "pairup": {
+            "raw": {
+                "c": {
+                    "str": 1
+                },
+                "b": {
+                    "spd": 1
+                },
+                "a": {
+                    "res": 1
+                },
+                "s": {
+                    "str": 1,
+                    "spd": 1
+                }
+            },
+            "bonus": {
+                "c": {
+                    "str": 1
+                },
+                "b": {
+                    "str": 1,
+                    "spd": 1
+                },
+                "a": {
+                    "str": 1,
+                    "spd": 1,
+                    "res": 1
+                },
+                "s": {
+                    "str": 2,
+                    "spd": 2,
+                    "res": 1
+                }
+            }
+        }
+    },
+    "rallyman": {
+        "name": "Rallyman",
+        "job": "masterofarms",
+        "portrait": "masterofarms.png",
+        "lvl": 11,
+        "personal": false,
+        "father": false,
+        "mother": false,
+        "gender": "m",
+        "blood": false,
+        "cap": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "pairup": false,
+        "variable": false,
+        "set": [
+            "samurai"
+        ],
+        "base": {
+            "normal": {
+                "hp": 26,
+                "str": 18,
+                "mag": 0,
+                "skl": 16,
+                "spd": 13,
+                "lck": 6,
+                "def": 17,
+                "res": 10
+            },
+            "hard": {
+                "hp": 26,
+                "str": 18,
+                "mag": 0,
+                "skl": 16,
+                "spd": 13,
+                "lck": 6,
+                "def": 17,
+                "res": 10
+            },
+            "lunatic": {
+                "hp": 26,
+                "str": 18,
+                "mag": 0,
+                "skl": 16,
+                "spd": 13,
+                "lck": 6,
+                "def": 17,
+                "res": 10
+            }
+        },
+        "growth": {
+            "hp": 35,
+            "str": 40,
+            "mag": 0,
+            "skl": 40,
+            "spd": 35,
+            "lck": 10,
+            "def": 20,
+            "res": 5
+        },
+        "rank": {
+            "normal": {
+                "sword": 161,
+                "lance": 96,
+                "axe": 96
+            },
+            "hard": {
+                "sword": 161,
+                "lance": 96,
+                "axe": 96
+            },
+            "lunatic": {
+                "sword": 161,
+                "lance": 96,
+                "axe": 96
+            }
+        },
+        "skill": {
+            "normal": [
+                "rallystrength",
+                "rallyspeed",
+                "rallyresistance",
+                "rallydefense"
+            ],
+            "hard": [
+                "rallystrength",
+                "rallyspeed",
+                "rallyresistance",
+                "rallydefense"
+            ],
+            "lunatic": [
+                "rallystrength",
+                "rallyspeed",
+                "rallyresistance",
+                "rallydefense"
+            ]
+        }
+    },
+    "robin": {
+        "name": "Robin",
+        "job": "grandmaster",
+        "portrait": "robin.png",
+        "lvl": 15,
+        "personal": false,
+        "father": false,
+        "mother": false,
+        "gender": "m",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "tacticaladvice",
+                "solidarity"
+            ],
+            "hard": [
+                "tacticaladvice",
+                "solidarity"
+            ],
+            "lunatic": [
+                "tacticaladvice",
+                "solidarity"
+            ]
+        },
+        "pairup": false,
+        "variable": false,
+        "set": [
+            "grandmaster"
+        ],
+        "base": {
+            "normal": {
+                "hp": 7,
+                "str": 7,
+                "mag": 11,
+                "skl": 12,
+                "spd": 6,
+                "lck": 8,
+                "def": 7,
+                "res": 9
+            },
+            "hard": {
+                "hp": 7,
+                "str": 7,
+                "mag": 11,
+                "skl": 12,
+                "spd": 6,
+                "lck": 8,
+                "def": 7,
+                "res": 9
+            },
+            "lunatic": {
+                "hp": 7,
+                "str": 7,
+                "mag": 11,
+                "skl": 12,
+                "spd": 6,
+                "lck": 8,
+                "def": 7,
+                "res": 9
+            }
+        },
+        "cap": {
+            "str": 0,
+            "mag": 2,
+            "skl": 0,
+            "spd": 0,
+            "lck": -1,
+            "def": -1,
+            "res": 1
+        },
+        "growth": {
+            "hp": 35,
+            "str": 30,
+            "mag": 40,
+            "skl": 45,
+            "spd": 30,
+            "lck": 25,
+            "def": 25,
+            "res": 40
+        },
+        "rank": {
+            "normal": {
+                "sword": 21,
+                "tome": 51
+            },
+            "hard": {
+                "sword": 21,
+                "tome": 51
+            },
+            "lunatic": {
+                "sword": 21,
+                "tome": 51
+            }
+        }
+    },
+    "selena": {
+        "name": "Selena",
+        "job": "mercenary",
+        "portrait": "selena.png",
+        "lvl": 10,
+        "personal": "fiercerival",
+        "father": false,
+        "mother": false,
+        "gender": "f",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "goodfortune",
+                "strongriposte"
+            ],
+            "hard": [
+                "goodfortune",
+                "strongriposte"
+            ],
+            "lunatic": [
+                "goodfortune",
+                "strongriposte"
+            ]
+        },
+        "variable": false,
+        "set": [
+            "mercenary",
+            "skyknight"
+        ],
+        "base": {
+            "normal": {
+                "hp": 7,
+                "str": 7,
+                "mag": 3,
+                "skl": 5,
+                "spd": 9,
+                "lck": 7,
+                "def": 6,
+                "res": 6
+            },
+            "hard": {
+                "hp": 7,
+                "str": 7,
+                "mag": 3,
+                "skl": 5,
+                "spd": 9,
+                "lck": 7,
+                "def": 6,
+                "res": 6
+            },
+            "lunatic": {
+                "hp": 7,
+                "str": 7,
+                "mag": 3,
+                "skl": 5,
+                "spd": 9,
+                "lck": 7,
+                "def": 6,
+                "res": 6
+            }
+        },
+        "cap": {
+            "str": -1,
+            "mag": 0,
+            "skl": -1,
+            "spd": 2,
+            "lck": 0,
+            "def": 1,
+            "res": 0
+        },
+        "growth": {
+            "hp": 40,
+            "str": 30,
+            "mag": 5,
+            "skl": 25,
+            "spd": 45,
+            "lck": 30,
+            "def": 45,
+            "res": 30
+        },
+        "rank": {
+            "normal": {
+                "sword": 36
+            },
+            "hard": {
+                "sword": 36
+            },
+            "lunatic": {
+                "sword": 36
+            }
+        },
+        "pairup": {
+            "raw": {
+                "c": {
+                    "spd": 1
+                },
+                "b": {
+                    "def": 1
+                },
+                "a": {
+                    "skl": 1
+                },
+                "s": {
+                    "str": 1,
+                    "spd": 1
+                }
+            },
+            "bonus": {
+                "c": {
+                    "spd": 1
+                },
+                "b": {
+                    "spd": 1,
+                    "def": 1
+                },
+                "a": {
+                    "spd": 1,
+                    "def": 1,
+                    "skl": 1
+                },
+                "s": {
+                    "spd": 2,
+                    "def": 1,
+                    "skl": 1,
+                    "str": 1
+                }
+            }
+        }
+    },
+    "senno": {
+        "name": "Senno",
+        "job": "apothecary",
+        "portrait": "senno.png",
+        "lvl": 12,
+        "personal": false,
+        "father": false,
+        "mother": false,
+        "gender": "m",
+        "blood": false,
+        "pairup": false,
+        "variable": true,
+        "set": [
+            "apothecary"
+        ],
+        "base": {
+            "normal": {
+                "hp": 13,
+                "str": 3,
+                "mag": 0,
+                "skl": 7,
+                "spd": 6,
+                "lck": 10,
+                "def": 3,
+                "res": 6
+            },
+            "hard": {
+                "hp": 16,
+                "str": 5,
+                "mag": 0,
+                "skl": 8,
+                "spd": 8,
+                "lck": 10,
+                "def": 5,
+                "res": 7
+            },
+            "lunatic": {
+                "hp": 16,
+                "str": 5,
+                "mag": 0,
+                "skl": 8,
+                "spd": 8,
+                "lck": 10,
+                "def": 5,
+                "res": 7
+            }
+        },
+        "cap": {
+            "str": -2,
+            "mag": 2,
+            "skl": 0,
+            "spd": 1,
+            "lck": 1,
+            "def": -3,
+            "res": 1
+        },
+        "growth": {
+            "hp": 45,
+            "str": 40,
+            "mag": 20,
+            "skl": 50,
+            "spd": 30,
+            "lck": 25,
+            "def": 40,
+            "res": 25
+        },
+        "rank": {
+            "normal": {
+                "bow": 51
+            },
+            "hard": {
+                "bow": 51
+            },
+            "lunatic": {
+                "bow": 96
+            }
+        },
+        "skill": {
+            "normal": [
+                "potentpotion"
+            ],
+            "hard": [
+                "sealmagic",
+                "luckyseven",
+                "potentpotion"
+            ],
+            "lunatic": [
+                "sealmagic",
+                "luckyseven",
+                "potentpotion"
+            ]
+        }
+    },
+    "shigure": {
+        "name": "Shigure",
+        "job": "skyknight",
+        "portrait": "shigure.png",
+        "lvl": 10,
+        "personal": "perfectpitch",
+        "father": false,
+        "mother": "azura",
+        "gender": "m",
+        "blood": true,
+        "cap": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "skill": {
+            "normal": [
+                "dartingblow",
+                "camaraderie"
+            ],
+            "hard": [
+                "dartingblow",
+                "camaraderie"
+            ],
+            "lunatic": [
+                "dartingblow",
+                "camaraderie"
+            ]
+        },
+        "pairup": false,
+        "influence": "mother",
+        "variable": false,
+        "set": [
+            "skyknight"
+        ],
+        "base": {
+            "normal": {
+                "hp": 9,
+                "str": 6,
+                "mag": 1,
+                "skl": 7,
+                "spd": 7,
+                "lck": 5,
+                "def": 8,
+                "res": 7
+            },
+            "hard": {
+                "hp": 9,
+                "str": 6,
+                "mag": 1,
+                "skl": 7,
+                "spd": 7,
+                "lck": 5,
+                "def": 8,
+                "res": 7
+            },
+            "lunatic": {
+                "hp": 9,
+                "str": 6,
+                "mag": 1,
+                "skl": 7,
+                "spd": 7,
+                "lck": 5,
+                "def": 8,
+                "res": 7
+            }
+        },
+        "growth": {
+            "hp": 35,
+            "str": 45,
+            "mag": 5,
+            "skl": 45,
+            "spd": 35,
+            "lck": 25,
+            "def": 35,
+            "res": 25
+        },
+        "rank": {
+            "normal": {
+                "lance": 21
+            },
+            "hard": {
+                "lance": 21
+            },
+            "lunatic": {
+                "lance": 21
+            }
+        },
+        "autolevel": {
+            "type": "child",
+            "join": 10,
+            "default": 10
+        }
+    },
+    "shura": {
+        "name": "Shura",
+        "job": "adventurer",
+        "portrait": "shura.png",
+        "lvl": 2,
+        "personal": "highwayman",
+        "father": false,
+        "mother": false,
+        "gender": "m",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "locktouch",
+                "movement1"
+            ],
+            "hard": [
+                "locktouch",
+                "movement1"
+            ],
+            "lunatic": [
+                "locktouch",
+                "movement1"
+            ]
+        },
+        "variable": false,
+        "set": [
+            "outlaw",
+            "ninja",
+            "fighter"
+        ],
+        "base": {
+            "normal": {
+                "hp": 14,
+                "str": 14,
+                "mag": 4,
+                "skl": 15,
+                "spd": 14,
+                "lck": 11,
+                "def": 10,
+                "res": 13
+            },
+            "hard": {
+                "hp": 14,
+                "str": 14,
+                "mag": 4,
+                "skl": 15,
+                "spd": 14,
+                "lck": 11,
+                "def": 10,
+                "res": 13
+            },
+            "lunatic": {
+                "hp": 14,
+                "str": 14,
+                "mag": 4,
+                "skl": 15,
+                "spd": 14,
+                "lck": 11,
+                "def": 10,
+                "res": 13
+            }
+        },
+        "cap": {
+            "str": -1,
+            "mag": 0,
+            "skl": -1,
+            "spd": 3,
+            "lck": -1,
+            "def": -2,
+            "res": 2
+        },
+        "growth": {
+            "hp": 30,
+            "str": 25,
+            "mag": 10,
+            "skl": 20,
+            "spd": 35,
+            "lck": 30,
+            "def": 15,
+            "res": 35
+        },
+        "rank": {
+            "normal": {
+                "bow": 51,
+                "staff": 21
+            },
+            "hard": {
+                "bow": 51,
+                "staff": 21
+            },
+            "lunatic": {
+                "bow": 51,
+                "staff": 21
+            }
+        },
+        "pairup": {
+            "raw": {
+                "c": {
+                    "spd": 1
+                },
+                "b": {
+                    "res": 1
+                },
+                "a": {
+                    "res": 1
+                },
+                "s": {
+                    "spd": 1,
+                    "res": 1
+                }
+            },
+            "bonus": {
+                "c": {
+                    "spd": 1
+                },
+                "b": {
+                    "spd": 1,
+                    "res": 1
+                },
+                "a": {
+                    "spd": 1,
+                    "res": 2
+                },
+                "s": {
+                    "spd": 2,
+                    "res": 3
+                }
+            }
+        }
+    },
+    "siegbert": {
+        "name": "Siegbert",
+        "job": "cavalier",
+        "portrait": "siegbert.png",
+        "lvl": 10,
+        "personal": "gallant",
+        "father": "xander",
+        "mother": false,
+        "gender": "m",
+        "blood": true,
+        "cap": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "skill": {
+            "normal": [
+                "elbowroom",
+                "shelter"
+            ],
+            "hard": [
+                "elbowroom",
+                "shelter"
+            ],
+            "lunatic": [
+                "elbowroom",
+                "shelter"
+            ]
+        },
+        "pairup": false,
+        "influence": "father",
+        "variable": false,
+        "set": [
+            "cavalier"
+        ],
+        "base": {
+            "normal": {
+                "hp": 7,
+                "str": 5,
+                "mag": 2,
+                "skl": 7,
+                "spd": 6,
+                "lck": 7,
+                "def": 6,
+                "res": 3
+            },
+            "hard": {
+                "hp": 7,
+                "str": 5,
+                "mag": 2,
+                "skl": 7,
+                "spd": 6,
+                "lck": 7,
+                "def": 6,
+                "res": 3
+            },
+            "lunatic": {
+                "hp": 7,
+                "str": 5,
+                "mag": 2,
+                "skl": 7,
+                "spd": 6,
+                "lck": 7,
+                "def": 6,
+                "res": 3
+            }
+        },
+        "growth": {
+            "hp": 40,
+            "str": 45,
+            "mag": 5,
+            "skl": 45,
+            "spd": 45,
+            "lck": 45,
+            "def": 35,
+            "res": 20
+        },
+        "rank": {
+            "normal": {
+                "sword": 21,
+                "lance": 21
+            },
+            "hard": {
+                "sword": 21,
+                "lance": 21
+            },
+            "lunatic": {
+                "sword": 21,
+                "lance": 21
+            }
+        },
+        "autolevel": {
+            "type": "child",
+            "join": 17,
+            "default": 17
+        }
+    },
+    "silas": {
+        "name": "Silas",
+        "job": "cavalier",
+        "portrait": "silas.png",
+        "lvl": 6,
+        "personal": "vowoffriendship",
+        "father": false,
+        "mother": false,
+        "gender": "m",
+        "blood": false,
+        "skill": {
+            "normal": [
+                "elbowroom"
+            ],
+            "hard": [
+                "elbowroom"
+            ],
+            "lunatic": [
+                "elbowroom"
+            ]
+        },
+        "variable": false,
+        "set": [
+            "cavalier",
+            "mercenary"
+        ],
+        "base": {
+            "normal": {
+                "hp": 5,
+                "str": 5,
+                "mag": 0,
+                "skl": 4,
+                "spd": 3,
+                "lck": 4,
+                "def": 5,
+                "res": 2
+            },
+            "hard": {
+                "hp": 5,
+                "str": 5,
+                "mag": 0,
+                "skl": 4,
+                "spd": 3,
+                "lck": 4,
+                "def": 5,
+                "res": 2
+            },
+            "lunatic": {
+                "hp": 5,
+                "str": 5,
+                "mag": 0,
+                "skl": 4,
+                "spd": 3,
+                "lck": 4,
+                "def": 5,
+                "res": 2
+            }
+        },
+        "cap": {
+            "str": 1,
+            "mag": 0,
+            "skl": 2,
+            "spd": 0,
+            "lck": -1,
+            "def": 0,
+            "res": -1
+        },
+        "growth": {
+            "hp": 40,
+            "str": 45,
+            "mag": 5,
+            "skl": 50,
+            "spd": 40,
+            "lck": 40,
+            "def": 40,
+            "res": 25
+        },
+        "rank": {
+            "normal": {
+                "sword": 21,
+                "lance": 1
+            },
+            "hard": {
+                "sword": 21,
+                "lance": 1
+            },
+            "lunatic": {
+                "sword": 21,
+                "lance": 1
+            }
+        },
+        "pairup": {
+            "raw": {
+                "c": {
+                    "str": 1
+                },
+                "b": {
+                    "skl": 1
+                },
+                "a": {
+                    "spd": 1
+                },
+                "s": {
+                    "str": 1,
+                    "def": 1
+                }
+            },
+            "bonus": {
+                "c": {
+                    "str": 1
+                },
+                "b": {
+                    "str": 1,
+                    "skl": 1
+                },
+                "a": {
+                    "str": 1,
+                    "skl": 1,
+                    "spd": 1
+                },
+                "s": {
+                    "str": 2,
+                    "skl": 1,
+                    "spd": 1,
+                    "def": 1
+                }
+            }
+        }
+    },
+    "soleil": {
+        "name": "Soleil",
+        "job": "mercenary",
+        "portrait": "soleil.png",
+        "lvl": 10,
+        "personal": "sisterhood",
+        "father": "laslow",
+        "mother": false,
+        "gender": "f",
+        "blood": false,
+        "cap": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "skill": {
+            "normal": [
+                "goodfortune",
+                "strongriposte"
+            ],
+            "hard": [
+                "goodfortune",
+                "strongriposte"
+            ],
+            "lunatic": [
+                "goodfortune",
+                "strongriposte"
+            ]
+        },
+        "pairup": false,
+        "influence": "father",
+        "variable": false,
+        "set": [
+            "mercenary"
+        ],
+        "base": {
+            "normal": {
+                "hp": 6,
+                "str": 7,
+                "mag": 1,
+                "skl": 3,
+                "spd": 6,
+                "lck": 7,
+                "def": 5,
+                "res": 6
+            },
+            "hard": {
+                "hp": 6,
+                "str": 7,
+                "mag": 1,
+                "skl": 3,
+                "spd": 6,
+                "lck": 7,
+                "def": 5,
+                "res": 6
+            },
+            "lunatic": {
+                "hp": 6,
+                "str": 7,
+                "mag": 1,
+                "skl": 3,
+                "spd": 6,
+                "lck": 7,
+                "def": 5,
+                "res": 6
+            }
+        },
+        "growth": {
+            "hp": 25,
+            "str": 60,
+            "mag": 0,
+            "skl": 35,
+            "spd": 35,
+            "lck": 45,
+            "def": 35,
+            "res": 40
+        },
+        "rank": {
+            "normal": {
+                "sword": 21
+            },
+            "hard": {
+                "sword": 21
+            },
+            "lunatic": {
+                "sword": 21
+            }
+        },
+        "autolevel": {
+            "type": "child",
+            "join": 13,
+            "default": 13
+        }
+    },
+    "sophie": {
+        "name": "Sophie",
+        "job": "cavalier",
+        "portrait": "sophie.png",
+        "lvl": 10,
+        "personal": "mischievous",
+        "father": "silas",
+        "mother": false,
+        "gender": "f",
+        "blood": false,
+        "cap": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "skill": {
+            "normal": [
+                "elbowroom",
+                "shelter"
+            ],
+            "hard": [
+                "elbowroom",
+                "shelter"
+            ],
+            "lunatic": [
+                "elbowroom",
+                "shelter"
+            ]
+        },
+        "pairup": false,
+        "influence": "father",
+        "variable": false,
+        "set": [
+            "cavalier"
+        ],
+        "base": {
+            "normal": {
+                "hp": 8,
+                "str": 6,
+                "mag": 2,
+                "skl": 7,
+                "spd": 6,
+                "lck": 7,
+                "def": 4,
+                "res": 6
+            },
+            "hard": {
+                "hp": 8,
+                "str": 6,
+                "mag": 2,
+                "skl": 7,
+                "spd": 6,
+                "lck": 7,
+                "def": 4,
+                "res": 6
+            },
+            "lunatic": {
+                "hp": 8,
+                "str": 6,
+                "mag": 2,
+                "skl": 7,
+                "spd": 6,
+                "lck": 7,
+                "def": 4,
+                "res": 6
+            }
+        },
+        "growth": {
+            "hp": 35,
+            "str": 35,
+            "mag": 10,
+            "skl": 55,
+            "spd": 50,
+            "lck": 35,
+            "def": 25,
+            "res": 35
+        },
+        "rank": {
+            "normal": {
+                "sword": 21,
+                "lance": 21
+            },
+            "hard": {
+                "sword": 21,
+                "lance": 21
+            },
+            "lunatic": {
+                "sword": 21,
+                "lance": 21
+            }
+        },
+        "autolevel": {
+            "type": "child",
+            "join": 8,
+            "default": 8
+        }
+    },
+    "velouria": {
+        "name": "Velouria",
+        "job": "wolfskin",
+        "portrait": "velouria.png",
+        "lvl": 10,
+        "personal": "goodybasket",
+        "father": "keaton",
+        "mother": false,
+        "gender": "f",
+        "blood": false,
+        "cap": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "skill": {
+            "normal": [
+                "oddshaped",
+                "beastbane"
+            ],
+            "hard": [
+                "oddshaped",
+                "beastbane"
+            ],
+            "lunatic": [
+                "oddshaped",
+                "beastbane"
+            ]
+        },
+        "pairup": false,
+        "influence": "father",
+        "variable": false,
+        "set": [
+            "wolfskin"
+        ],
+        "base": {
+            "normal": {
+                "hp": 7,
+                "str": 6,
+                "mag": 0,
+                "skl": 6,
+                "spd": 6,
+                "lck": 11,
+                "def": 9,
+                "res": 8
+            },
+            "hard": {
+                "hp": 7,
+                "str": 6,
+                "mag": 0,
+                "skl": 6,
+                "spd": 6,
+                "lck": 11,
+                "def": 9,
+                "res": 8
+            },
+            "lunatic": {
+                "hp": 7,
+                "str": 6,
+                "mag": 0,
+                "skl": 6,
+                "spd": 6,
+                "lck": 11,
+                "def": 9,
+                "res": 8
+            }
+        },
+        "growth": {
+            "hp": 50,
+            "str": 50,
+            "mag": 0,
+            "skl": 40,
+            "spd": 40,
+            "lck": 35,
+            "def": 45,
+            "res": 30
+        },
+        "rank": {
+            "normal": {
+                "stone": 21
+            },
+            "hard": {
+                "stone": 21
+            },
+            "lunatic": {
+                "stone": 21
+            }
+        },
+        "autolevel": {
+            "type": "child",
+            "join": 15,
+            "default": 15
+        }
+    },
+    "xander": {
+        "name": "Xander",
+        "job": "paladin",
+        "portrait": "xander.png",
+        "lvl": 4,
+        "personal": "chivalry",
+        "father": false,
+        "mother": false,
+        "gender": "m",
+        "blood": true,
+        "skill": {
+            "normal": [
+                "elbowroom",
+                "shelter"
+            ],
+            "hard": [
+                "elbowroom",
+                "shelter"
+            ],
+            "lunatic": [
+                "elbowroom",
+                "shelter"
+            ]
+        },
+        "variable": false,
+        "set": [
+            "cavalier",
+            "wyvernrider"
+        ],
+        "base": {
+            "normal": {
+                "hp": 19,
+                "str": 15,
+                "mag": 3,
+                "skl": 11,
+                "spd": 8,
+                "lck": 16,
+                "def": 16,
+                "res": 5
+            },
+            "hard": {
+                "hp": 19,
+                "str": 15,
+                "mag": 3,
+                "skl": 11,
+                "spd": 8,
+                "lck": 16,
+                "def": 16,
+                "res": 5
+            },
+            "lunatic": {
+                "hp": 19,
+                "str": 15,
+                "mag": 3,
+                "skl": 11,
+                "spd": 8,
+                "lck": 16,
+                "def": 16,
+                "res": 5
+            }
+        },
+        "cap": {
+            "str": 2,
+            "mag": -1,
+            "skl": -1,
+            "spd": -1,
+            "lck": 2,
+            "def": 1,
+            "res": -2
+        },
+        "growth": {
+            "hp": 45,
+            "str": 50,
+            "mag": 5,
+            "skl": 40,
+            "spd": 35,
+            "lck": 60,
+            "def": 40,
+            "res": 15
+        },
+        "rank": {
+            "normal": {
+                "sword": 96,
+                "lance": 21
+            },
+            "hard": {
+                "sword": 96,
+                "lance": 21
+            },
+            "lunatic": {
+                "sword": 96,
+                "lance": 21
+            }
+        },
+        "pairup": {
+            "raw": {
+                "c": {
+                    "str": 1
+                },
+                "b": {
+                    "lck": 1
+                },
+                "a": {
+                    "def": 1
+                },
+                "s": {
+                    "str": 1,
+                    "lck": 1
+                }
+            },
+            "bonus": {
+                "c": {
+                    "str": 1
+                },
+                "b": {
+                    "str": 1,
+                    "lck": 1
+                },
+                "a": {
+                    "str": 1,
+                    "lck": 1,
+                    "def": 1
+                },
+                "s": {
+                    "str": 2,
+                    "lck": 2,
+                    "def": 1
+                }
+            }
+        }
+    },
+    "zhara": {
+        "name": "Zhara",
+        "job": "mercenary",
+        "portrait": "zhara.png",
+        "lvl": 12,
+        "personal": false,
+        "father": false,
+        "mother": false,
+        "gender": "m",
+        "blood": false,
+        "pairup": false,
+        "variable": true,
+        "set": [
+            "mercenary"
+        ],
+        "base": {
+            "normal": {
+                "hp": 13,
+                "str": 7,
+                "mag": 0,
+                "skl": 8,
+                "spd": 6,
+                "lck": 7,
+                "def": 6,
+                "res": 5
+            },
+            "hard": {
+                "hp": 16,
+                "str": 9,
+                "mag": 0,
+                "skl": 10,
+                "spd": 7,
+                "lck": 7,
+                "def": 7,
+                "res": 6
+            },
+            "lunatic": {
+                "hp": 16,
+                "str": 9,
+                "mag": 0,
+                "skl": 10,
+                "spd": 7,
+                "lck": 7,
+                "def": 7,
+                "res": 6
+            }
+        },
+        "cap": {
+            "str": -2,
+            "mag": 2,
+            "skl": -2,
+            "spd": 1,
+            "lck": 3,
+            "def": -3,
+            "res": 1
+        },
+        "growth": {
+            "hp": 40,
+            "str": 35,
+            "mag": 10,
+            "skl": 35,
+            "spd": 35,
+            "lck": 60,
+            "def": 35,
+            "res": 30
+        },
+        "rank": {
+            "normal": {
+                "sword": 51
+            },
+            "hard": {
+                "sword": 51
+            },
+            "lunatic": {
+                "sword": 96
+            }
+        },
+        "skill": {
+            "normal": [
+                "pass"
+            ],
+            "hard": [
+                "sol",
+                "countermagic",
+                "pass"
+            ],
+            "lunatic": [
+                "sol",
+                "countermagic",
+                "pass"
+            ]
+        }
+    }
+}

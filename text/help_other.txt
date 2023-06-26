@@ -1,0 +1,8 @@
+**Heroes**
+`@Oifey feh` - Heroes
+
+`@Oifey skill` - Shortcut for Heroes skills.
+`@Oifey art` - Shortcut for Heroes art.
+`@Oifey artist` - Shortcut for Heroes artist.
+`@Oifey va` - Shortcut for Heroes VA.
+`@Oifey quotes` - Shortcut for Heroes quotes.

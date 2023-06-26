@@ -1,0 +1,673 @@
+{
+    "anna": {
+        "name": "Anna",
+        "routes": [
+            "cq",
+            "br",
+            "rev"
+        ]
+    },
+    "arthur": {
+        "name": "Arthur",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "azura": {
+        "name": "Azura",
+        "routes": [
+            "cq",
+            "br",
+            "rev"
+        ]
+    },
+    "benny": {
+        "name": "Benny",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "beruka": {
+        "name": "Beruka",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "camilla": {
+        "name": "Camilla",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "candace": {
+        "name": "Candace",
+        "routes": [
+            "cq",
+            "br",
+            "rev"
+        ]
+    },
+    "charlotte": {
+        "name": "Charlotte",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "corrin": {
+        "name": "Corrin",
+        "routes": [
+            "cq",
+            "br",
+            "rev"
+        ]
+    },
+    "dwyer": {
+        "name": "Dwyer",
+        "routes": [
+            "cq",
+            "br",
+            "rev"
+        ]
+    },
+    "effie": {
+        "name": "Effie",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "elise": {
+        "name": "Elise",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "felicia": {
+        "name": "Felicia",
+        "routes": [
+            "cq",
+            "br",
+            "rev"
+        ]
+    },
+    "felicia16": {
+        "name": "Felicia (Chapter 16)",
+        "routes": [
+            "cq",
+            "br",
+            "rev"
+        ]
+    },
+    "flora": {
+        "name": "Flora",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "forrest": {
+        "name": "Forrest",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "gazak": {
+        "name": "Gazak",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "gunter": {
+        "name": "Gunter",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "haitaka": {
+        "name": "Haitaka",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "ignatius": {
+        "name": "Ignatius",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "ike": {
+        "name": "Ike",
+        "routes": [
+            "cq",
+            "br",
+            "rev"
+        ]
+    },
+    "izana": {
+        "name": "Izana",
+        "routes": [
+            "cq",
+            "br",
+            "rev"
+        ]
+    },
+    "jakob": {
+        "name": "Jakob",
+        "routes": [
+            "cq",
+            "br",
+            "rev"
+        ]
+    },
+    "jakob16": {
+        "name": "Jakob (Chapter 16)",
+        "routes": [
+            "cq",
+            "br",
+            "rev"
+        ]
+    },
+    "kana": {
+        "name": "Kana",
+        "routes": [
+            "cq",
+            "br",
+            "rev"
+        ]
+    },
+    "kaze": {
+        "name": "Kaze",
+        "routes": [
+            "cq",
+            "br",
+            "rev"
+        ]
+    },
+    "keaton": {
+        "name": "Keaton",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "kumagera": {
+        "name": "Kumagera",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "laslow": {
+        "name": "Laslow",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "leo": {
+        "name": "Leo",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "llewelyn": {
+        "name": "Llewelyn",
+        "routes": [
+            "cq",
+            "br",
+            "rev"
+        ]
+    },
+    "lloyd": {
+        "name": "Lloyd",
+        "routes": [
+            "cq",
+            "br",
+            "rev"
+        ]
+    },
+    "lucina": {
+        "name": "Lucina",
+        "routes": [
+            "cq",
+            "br",
+            "rev"
+        ]
+    },
+    "lucinacipher": {
+        "name": "Lucina (Cipher)",
+        "routes": [
+            "cq",
+            "br",
+            "rev"
+        ]
+    },
+    "marth": {
+        "name": "Marth",
+        "routes": [
+            "cq",
+            "br",
+            "rev"
+        ]
+    },
+    "marthcipher": {
+        "name": "Marth (Cipher)",
+        "routes": [
+            "cq",
+            "br",
+            "rev"
+        ]
+    },
+    "midori": {
+        "name": "Midori",
+        "routes": [
+            "cq",
+            "br",
+            "rev"
+        ]
+    },
+    "minerva": {
+        "name": "Minerva",
+        "routes": [
+            "cq",
+            "br",
+            "rev"
+        ]
+    },
+    "mozu": {
+        "name": "Mozu",
+        "routes": [
+            "cq",
+            "br",
+            "rev"
+        ]
+    },
+    "nichol": {
+        "name": "Nichol",
+        "routes": [
+            "cq",
+            "br",
+            "rev"
+        ]
+    },
+    "niles": {
+        "name": "Niles",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "nina": {
+        "name": "Nina",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "nyx": {
+        "name": "Nyx",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "odin": {
+        "name": "Odin",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "ophelia": {
+        "name": "Ophelia",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "percy": {
+        "name": "Percy",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "peri": {
+        "name": "Peri",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "rallyman": {
+        "name": "Rallyman",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "robin": {
+        "name": "Robin",
+        "routes": [
+            "cq",
+            "br",
+            "rev"
+        ]
+    },
+    "selena": {
+        "name": "Selena",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "senno": {
+        "name": "Senno",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "shigure": {
+        "name": "Shigure",
+        "routes": [
+            "cq",
+            "br",
+            "rev"
+        ]
+    },
+    "shura": {
+        "name": "Shura",
+        "routes": [
+            "cq",
+            "br",
+            "rev"
+        ]
+    },
+    "siegbert": {
+        "name": "Siegbert",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "silas": {
+        "name": "Silas",
+        "routes": [
+            "cq",
+            "br",
+            "rev"
+        ]
+    },
+    "soleil": {
+        "name": "Soleil",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "sophie": {
+        "name": "Sophie",
+        "routes": [
+            "cq",
+            "br",
+            "rev"
+        ]
+    },
+    "velouria": {
+        "name": "Velouria",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "xander": {
+        "name": "Xander",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "zhara": {
+        "name": "Zhara",
+        "routes": [
+            "cq",
+            "rev"
+        ]
+    },
+    "asugi": {
+        "name": "Asugi",
+        "routes": [
+            "br",
+            "rev"
+        ]
+    },
+    "azama": {
+        "name": "Azama",
+        "routes": [
+            "br",
+            "rev"
+        ]
+    },
+    "caeldori": {
+        "name": "Caeldori",
+        "routes": [
+            "br",
+            "rev"
+        ]
+    },
+    "daichi": {
+        "name": "Daichi",
+        "routes": [
+            "br",
+            "rev"
+        ]
+    },
+    "daniela": {
+        "name": "Daniela",
+        "routes": [
+            "br",
+            "rev"
+        ]
+    },
+    "funke": {
+        "name": "Funke",
+        "routes": [
+            "br",
+            "rev"
+        ]
+    },
+    "hana": {
+        "name": "Hana",
+        "routes": [
+            "br",
+            "rev"
+        ]
+    },
+    "hayato": {
+        "name": "Hayato",
+        "routes": [
+            "br",
+            "rev"
+        ]
+    },
+    "hinata": {
+        "name": "Hinata",
+        "routes": [
+            "br",
+            "rev"
+        ]
+    },
+    "hinoka": {
+        "name": "Hinoka",
+        "routes": [
+            "br",
+            "rev"
+        ]
+    },
+    "hisame": {
+        "name": "Hisame",
+        "routes": [
+            "br",
+            "rev"
+        ]
+    },
+    "kaden": {
+        "name": "Kaden",
+        "routes": [
+            "br",
+            "rev"
+        ]
+    },
+    "kagero": {
+        "name": "Kagero",
+        "routes": [
+            "br",
+            "rev"
+        ]
+    },
+    "kiragi": {
+        "name": "Kiragi",
+        "routes": [
+            "br",
+            "rev"
+        ]
+    },
+    "mitama": {
+        "name": "Mitama",
+        "routes": [
+            "br",
+            "rev"
+        ]
+    },
+    "oboro": {
+        "name": "Oboro",
+        "routes": [
+            "br",
+            "rev"
+        ]
+    },
+    "orochi": {
+        "name": "Orochi",
+        "routes": [
+            "br",
+            "rev"
+        ]
+    },
+    "reina": {
+        "name": "Reina",
+        "routes": [
+            "br",
+            "rev"
+        ]
+    },
+    "rhajat": {
+        "name": "Rhajat",
+        "routes": [
+            "br",
+            "rev"
+        ]
+    },
+    "rinkah": {
+        "name": "Rinkah",
+        "routes": [
+            "br",
+            "rev"
+        ]
+    },
+    "ryoma": {
+        "name": "Ryoma",
+        "routes": [
+            "br",
+            "rev"
+        ]
+    },
+    "saizo": {
+        "name": "Saizo",
+        "routes": [
+            "br",
+            "rev"
+        ]
+    },
+    "sakura": {
+        "name": "Sakura",
+        "routes": [
+            "br",
+            "rev"
+        ]
+    },
+    "scarlet": {
+        "name": "Scarlet",
+        "routes": [
+            "br",
+            "rev"
+        ]
+    },
+    "selkie": {
+        "name": "Selkie",
+        "routes": [
+            "br",
+            "rev"
+        ]
+    },
+    "setsuna": {
+        "name": "Setsuna",
+        "routes": [
+            "br",
+            "rev"
+        ]
+    },
+    "shiro": {
+        "name": "Shiro",
+        "routes": [
+            "br",
+            "rev"
+        ]
+    },
+    "subaki": {
+        "name": "Subaki",
+        "routes": [
+            "br",
+            "rev"
+        ]
+    },
+    "takumi": {
+        "name": "Takumi",
+        "routes": [
+            "br",
+            "rev"
+        ]
+    },
+    "tarba": {
+        "name": "Tarba",
+        "routes": [
+            "br",
+            "rev"
+        ]
+    },
+    "yukimura": {
+        "name": "Yukimura",
+        "routes": [
+            "br",
+            "rev"
+        ]
+    },
+    "fuga": {
+        "name": "Fuga",
+        "routes": [
+            "rev"
+        ]
+    }
+}

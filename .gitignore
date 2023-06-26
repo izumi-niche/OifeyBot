@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+.venv
+
+# Oifey
+.oifey
+token.txt
+foo.py
+emoji_dump.json
+
+*.bat
+*.sh

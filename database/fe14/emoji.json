@@ -1,0 +1,1097 @@
+{
+    "fe14_competitive": {
+        "name": "fe14_competitive",
+        "id": 673643695169339403,
+        "animated": false
+    },
+    "fe14_bowfaire": {
+        "name": "fe14_bowfaire",
+        "id": 673643695349825585,
+        "animated": false
+    },
+    "fe14_achingblood": {
+        "name": "fe14_achingblood",
+        "id": 673643695442231307,
+        "animated": false
+    },
+    "fe14_bowbreaker": {
+        "name": "fe14_bowbreaker",
+        "id": 673643695442231310,
+        "animated": false
+    },
+    "fe14_calm": {
+        "name": "fe14_calm",
+        "id": 673643695496626233,
+        "animated": false
+    },
+    "fe14_clarity": {
+        "name": "fe14_clarity",
+        "id": 673643695546826762,
+        "animated": false
+    },
+    "fe14_collector": {
+        "name": "fe14_collector",
+        "id": 673643695547088909,
+        "animated": false
+    },
+    "fe14_chivalry": {
+        "name": "fe14_chivalry",
+        "id": 673643695589031957,
+        "animated": false
+    },
+    "fe14_bushido": {
+        "name": "fe14_bushido",
+        "id": 673643695592964114,
+        "animated": false
+    },
+    "fe14_camaraderie": {
+        "name": "fe14_camaraderie",
+        "id": 673643695643295744,
+        "animated": false
+    },
+    "fe14_counter": {
+        "name": "fe14_counter",
+        "id": 673643695656009728,
+        "animated": false
+    },
+    "fe14_aptitude": {
+        "name": "fe14_aptitude",
+        "id": 673643695668723733,
+        "animated": false
+    },
+    "fe14_capture": {
+        "name": "fe14_capture",
+        "id": 673643695706341390,
+        "animated": false
+    },
+    "fe14_certainblow": {
+        "name": "fe14_certainblow",
+        "id": 673643695706472498,
+        "animated": false
+    },
+    "fe14_axefaire": {
+        "name": "fe14_axefaire",
+        "id": 673643695794290710,
+        "animated": false
+    },
+    "fe14_awakening": {
+        "name": "fe14_awakening",
+        "id": 673643695853010944,
+        "animated": false
+    },
+    "fe14_bloodthirst": {
+        "name": "fe14_bloodthirst",
+        "id": 673643695894953984,
+        "animated": false
+    },
+    "fe14_charm": {
+        "name": "fe14_charm",
+        "id": 673643695941353481,
+        "animated": false
+    },
+    "fe14_beastbane": {
+        "name": "fe14_beastbane",
+        "id": 673643695949611012,
+        "animated": false
+    },
+    "fe14_demoiselle": {
+        "name": "fe14_demoiselle",
+        "id": 673643695970713607,
+        "animated": false
+    },
+    "fe14_bornsteward": {
+        "name": "fe14_bornsteward",
+        "id": 673643696033628174,
+        "animated": false
+    },
+    "fe14_astra": {
+        "name": "fe14_astra",
+        "id": 673643696046080014,
+        "animated": false
+    },
+    "fe14_axebreaker": {
+        "name": "fe14_axebreaker",
+        "id": 673643696046211091,
+        "animated": false
+    },
+    "fe14_aegis": {
+        "name": "fe14_aegis",
+        "id": 673643696054468620,
+        "animated": false
+    },
+    "fe14_daydream": {
+        "name": "fe14_daydream",
+        "id": 673643696054599681,
+        "animated": false
+    },
+    "fe14_betterodds": {
+        "name": "fe14_betterodds",
+        "id": 673643696067051525,
+        "animated": false
+    },
+    "fe14_countermagic": {
+        "name": "fe14_countermagic",
+        "id": 673643696067051567,
+        "animated": false
+    },
+    "fe14_armoredblow": {
+        "name": "fe14_armoredblow",
+        "id": 673643696104931358,
+        "animated": false
+    },
+    "fe14_airsuperiority": {
+        "name": "fe14_airsuperiority",
+        "id": 673643696142548992,
+        "animated": false
+    },
+    "fe14_deathblow": {
+        "name": "fe14_deathblow",
+        "id": 673643696150937622,
+        "animated": false
+    },
+    "fe14_countercurse": {
+        "name": "fe14_countercurse",
+        "id": 673643696151068684,
+        "animated": false
+    },
+    "fe14_amaterasu": {
+        "name": "fe14_amaterasu",
+        "id": 673643696163520590,
+        "animated": false
+    },
+    "fe14_aether": {
+        "name": "fe14_aether",
+        "id": 673643696176103493,
+        "animated": false
+    },
+    "fe14_aggressor": {
+        "name": "fe14_aggressor",
+        "id": 673643696184623115,
+        "animated": false
+    },
+    "fe14_dragonfang": {
+        "name": "fe14_dragonfang",
+        "id": 673643696188555276,
+        "animated": false
+    },
+    "fe14_draconicheir": {
+        "name": "fe14_draconicheir",
+        "id": 673643696201400361,
+        "animated": false
+    },
+    "fe14_bibliophile": {
+        "name": "fe14_bibliophile",
+        "id": 673643696255926272,
+        "animated": false
+    },
+    "fe14_dartingblow": {
+        "name": "fe14_dartingblow",
+        "id": 673643696276897829,
+        "animated": false
+    },
+    "fe14_defenceplus2": {
+        "name": "fe14_defenceplus2",
+        "id": 673643696285286431,
+        "animated": false
+    },
+    "fe14_defender": {
+        "name": "fe14_defender",
+        "id": 673643696436150282,
+        "animated": false
+    },
+    "fe14_devotedpartner": {
+        "name": "fe14_devotedpartner",
+        "id": 673643696469835776,
+        "animated": false
+    },
+    "fe14_draconichex": {
+        "name": "fe14_draconichex",
+        "id": 673643696587145226,
+        "animated": false
+    },
+    "fe14_dancingblade": {
+        "name": "fe14_dancingblade",
+        "id": 673643696599597058,
+        "animated": false
+    },
+    "fe14_duelistsblow": {
+        "name": "fe14_duelistsblow",
+        "id": 673643696616374292,
+        "animated": false
+    },
+    "fe14_dualstriker": {
+        "name": "fe14_dualstriker",
+        "id": 673643696624762880,
+        "animated": false
+    },
+    "fe14_divineretribution": {
+        "name": "fe14_divineretribution",
+        "id": 673643696696328192,
+        "animated": false
+    },
+    "fe14_evasivepartner": {
+        "name": "fe14_evasivepartner",
+        "id": 673643696708648961,
+        "animated": false
+    },
+    "fe14_dualguarder": {
+        "name": "fe14_dualguarder",
+        "id": 673643696713105428,
+        "animated": false
+    },
+    "fe14_dragonward": {
+        "name": "fe14_dragonward",
+        "id": 673643696738009095,
+        "animated": false
+    },
+    "fe14_elbowroom": {
+        "name": "fe14_elbowroom",
+        "id": 673643697736515594,
+        "animated": false
+    },
+    "fe14_miraculoussave": {
+        "name": "fe14_miraculoussave",
+        "id": 673645553107730466,
+        "animated": false
+    },
+    "fe14_magicplus2": {
+        "name": "fe14_magicplus2",
+        "id": 673645553284022294,
+        "animated": false
+    },
+    "fe14_misfortunate": {
+        "name": "fe14_misfortunate",
+        "id": 673645553292148756,
+        "animated": false
+    },
+    "fe14_miracle": {
+        "name": "fe14_miracle",
+        "id": 673645553359257632,
+        "animated": false
+    },
+    "fe14_movementplus1": {
+        "name": "fe14_movementplus1",
+        "id": 673645553489412123,
+        "animated": false
+    },
+    "fe14_makeakilling": {
+        "name": "fe14_makeakilling",
+        "id": 673645553522966538,
+        "animated": false
+    },
+    "fe14_noblecause": {
+        "name": "fe14_noblecause",
+        "id": 673645553535680523,
+        "animated": false
+    },
+    "fe14_maleficaura": {
+        "name": "fe14_maleficaura",
+        "id": 673645553539612702,
+        "animated": false
+    },
+    "fe14_nohrenmity": {
+        "name": "fe14_nohrenmity",
+        "id": 673645553565040653,
+        "animated": false
+    },
+    "fe14_mischievous": {
+        "name": "fe14_mischievous",
+        "id": 673645553657315335,
+        "animated": false
+    },
+    "fe14_optimistic": {
+        "name": "fe14_optimistic",
+        "id": 673645553661247506,
+        "animated": false
+    },
+    "fe14_opportunityshot": {
+        "name": "fe14_opportunityshot",
+        "id": 673645553690607627,
+        "animated": false
+    },
+    "fe14_naturalcover": {
+        "name": "fe14_naturalcover",
+        "id": 673645553694933034,
+        "animated": false
+    },
+    "fe14_morbidcelebration": {
+        "name": "fe14_morbidcelebration",
+        "id": 673645553761910876,
+        "animated": false
+    },
+    "fe14_pass": {
+        "name": "fe14_pass",
+        "id": 673645553795465241,
+        "animated": false
+    },
+    "fe14_oddshaped": {
+        "name": "fe14_oddshaped",
+        "id": 673645553841733681,
+        "animated": false
+    },
+    "fe14_pragmatic": {
+        "name": "fe14_pragmatic",
+        "id": 673645553858510859,
+        "animated": false
+    },
+    "fe14_opportunist": {
+        "name": "fe14_opportunist",
+        "id": 673645553858510878,
+        "animated": false
+    },
+    "fe14_perfectionist": {
+        "name": "fe14_perfectionist",
+        "id": 673645553913167924,
+        "animated": false
+    },
+    "fe14_nohriantrust": {
+        "name": "fe14_nohriantrust",
+        "id": 673645553942528048,
+        "animated": false
+    },
+    "fe14_nobility": {
+        "name": "fe14_nobility",
+        "id": 673645553988534298,
+        "animated": false
+    },
+    "fe14_pavise": {
+        "name": "fe14_pavise",
+        "id": 673645554101911580,
+        "animated": false
+    },
+    "fe14_peacebringer": {
+        "name": "fe14_peacebringer",
+        "id": 673645554105843742,
+        "animated": false
+    },
+    "fe14_playthings": {
+        "name": "fe14_playthings",
+        "id": 673645554173083671,
+        "animated": false
+    },
+    "fe14_optimist": {
+        "name": "fe14_optimist",
+        "id": 673645554173214747,
+        "animated": false
+    },
+    "fe14_perspicacious": {
+        "name": "fe14_perspicacious",
+        "id": 673645554173214787,
+        "animated": false
+    },
+    "fe14_perfectpitch": {
+        "name": "fe14_perfectpitch",
+        "id": 673645554181603356,
+        "animated": false
+    },
+    "fe14_poisonstrike": {
+        "name": "fe14_poisonstrike",
+        "id": 673645554198380604,
+        "animated": false
+    },
+    "fe14_potentpotion": {
+        "name": "fe14_potentpotion",
+        "id": 673645554223415336,
+        "animated": false
+    },
+    "fe14_pride": {
+        "name": "fe14_pride",
+        "id": 673645554290393106,
+        "animated": false
+    },
+    "fe14_quietstrength": {
+        "name": "fe14_quietstrength",
+        "id": 673645554386862141,
+        "animated": false
+    },
+    "fe14_prodigy": {
+        "name": "fe14_prodigy",
+        "id": 673645554395512884,
+        "animated": false
+    },
+    "fe14_profiteer": {
+        "name": "fe14_profiteer",
+        "id": 673645554407833620,
+        "animated": false
+    },
+    "fe14_puissance": {
+        "name": "fe14_puissance",
+        "id": 673645554441650176,
+        "animated": false
+    },
+    "fe14_pyrotechnics": {
+        "name": "fe14_pyrotechnics",
+        "id": 673645554445713428,
+        "animated": false
+    },
+    "fe14_rallyspeed": {
+        "name": "fe14_rallyspeed",
+        "id": 673645554508496898,
+        "animated": false
+    },
+    "fe14_rallymovement": {
+        "name": "fe14_rallymovement",
+        "id": 673645554529468417,
+        "animated": false
+    },
+    "fe14_quickdraw": {
+        "name": "fe14_quickdraw",
+        "id": 673645554559090688,
+        "animated": false
+    },
+    "fe14_rallyspectrum": {
+        "name": "fe14_rallyspectrum",
+        "id": 673645554584256526,
+        "animated": false
+    },
+    "fe14_quicksalve": {
+        "name": "fe14_quicksalve",
+        "id": 673645554604965888,
+        "animated": false
+    },
+    "fe14_rallydefence": {
+        "name": "fe14_rallydefence",
+        "id": 673645554604965908,
+        "animated": false
+    },
+    "fe14_quixotic": {
+        "name": "fe14_quixotic",
+        "id": 673645554638782484,
+        "animated": false
+    },
+    "fe14_rallymagic": {
+        "name": "fe14_rallymagic",
+        "id": 673645554642714634,
+        "animated": false
+    },
+    "fe14_relief": {
+        "name": "fe14_relief",
+        "id": 673645554676400169,
+        "animated": false
+    },
+    "fe14_rallyluck": {
+        "name": "fe14_rallyluck",
+        "id": 673645554697240587,
+        "animated": false
+    },
+    "fe14_rallyresistance": {
+        "name": "fe14_rallyresistance",
+        "id": 673645554714017822,
+        "animated": false
+    },
+    "fe14_rallyskill": {
+        "name": "fe14_rallyskill",
+        "id": 673645554755960832,
+        "animated": false
+    },
+    "fe14_rallyingcry": {
+        "name": "fe14_rallyingcry",
+        "id": 673645554823069725,
+        "animated": false
+    },
+    "fe14_rallystrength": {
+        "name": "fe14_rallystrength",
+        "id": 673645554823331850,
+        "animated": false
+    },
+    "fe14_reciprocity": {
+        "name": "fe14_reciprocity",
+        "id": 673645554957418508,
+        "animated": false
+    },
+    "fe14_rosesthorn": {
+        "name": "fe14_rosesthorn",
+        "id": 673646079518048257,
+        "animated": false
+    },
+    "fe14_salvageblow": {
+        "name": "fe14_salvageblow",
+        "id": 673646079639552006,
+        "animated": false
+    },
+    "fe14_resistanceplus2": {
+        "name": "fe14_resistanceplus2",
+        "id": 673646079908249600,
+        "animated": false
+    },
+    "fe14_sealstrength": {
+        "name": "fe14_sealstrength",
+        "id": 673646079920701487,
+        "animated": false
+    },
+    "fe14_replicate": {
+        "name": "fe14_replicate",
+        "id": 673646079924895813,
+        "animated": false
+    },
+    "fe14_renewal": {
+        "name": "fe14_renewal",
+        "id": 673646079924895814,
+        "animated": false
+    },
+    "fe14_rifledbarrel": {
+        "name": "fe14_rifledbarrel",
+        "id": 673646079954124811,
+        "animated": false
+    },
+    "fe14_rendheaven": {
+        "name": "fe14_rendheaven",
+        "id": 673646079971033088,
+        "animated": false
+    },
+    "fe14_sealresistance": {
+        "name": "fe14_sealresistance",
+        "id": 673646079992004609,
+        "animated": false
+    },
+    "fe14_sealdefence": {
+        "name": "fe14_sealdefence",
+        "id": 673646080029884446,
+        "animated": false
+    },
+    "fe14_sealspeed": {
+        "name": "fe14_sealspeed",
+        "id": 673646080046399517,
+        "animated": false
+    },
+    "fe14_sealmagic": {
+        "name": "fe14_sealmagic",
+        "id": 673646080105250832,
+        "animated": false
+    },
+    "fe14_shurikenbreaker": {
+        "name": "fe14_shurikenbreaker",
+        "id": 673646080117964802,
+        "animated": false
+    },
+    "fe14_shove": {
+        "name": "fe14_shove",
+        "id": 673646080293994546,
+        "animated": false
+    },
+    "fe14_shelter": {
+        "name": "fe14_shelter",
+        "id": 673646080369360896,
+        "animated": false
+    },
+    "fe14_shadowgift": {
+        "name": "fe14_shadowgift",
+        "id": 673646080382074881,
+        "animated": false
+    },
+    "fe14_shurikenmastery": {
+        "name": "fe14_shurikenmastery",
+        "id": 673646080398852096,
+        "animated": false
+    },
+    "fe14_speedplus2": {
+        "name": "fe14_speedplus2",
+        "id": 673646080440926212,
+        "animated": false
+    },
+    "fe14_sisterhood": {
+        "name": "fe14_sisterhood",
+        "id": 673646080444989477,
+        "animated": false
+    },
+    "fe14_skillplus2": {
+        "name": "fe14_skillplus2",
+        "id": 673646080461766656,
+        "animated": false
+    },
+    "fe14_sol": {
+        "name": "fe14_sol",
+        "id": 673646080570949651,
+        "animated": false
+    },
+    "fe14_shurikenfaire": {
+        "name": "fe14_shurikenfaire",
+        "id": 673646080696647690,
+        "animated": false
+    },
+    "fe14_solidarity": {
+        "name": "fe14_solidarity",
+        "id": 673646080738721832,
+        "animated": false
+    },
+    "fe14_spendthrift": {
+        "name": "fe14_spendthrift",
+        "id": 673646080813957122,
+        "animated": false
+    },
+    "fe14_speedtaker": {
+        "name": "fe14_speedtaker",
+        "id": 673646080919076874,
+        "animated": false
+    },
+    "fe14_sweettooth": {
+        "name": "fe14_sweettooth",
+        "id": 673646080944111638,
+        "animated": false
+    },
+    "fe14_swordbreaker": {
+        "name": "fe14_swordbreaker",
+        "id": 673646081002831895,
+        "animated": false
+    },
+    "fe14_strengthplus2": {
+        "name": "fe14_strengthplus2",
+        "id": 673646081061421071,
+        "animated": false
+    },
+    "fe14_strengthtaker": {
+        "name": "fe14_strengthtaker",
+        "id": 673646081141243905,
+        "animated": false
+    },
+    "fe14_surefooted": {
+        "name": "fe14_surefooted",
+        "id": 673646081263009827,
+        "animated": false
+    },
+    "fe14_swap": {
+        "name": "fe14_swap",
+        "id": 673646081292238848,
+        "animated": false
+    },
+    "fe14_supportive": {
+        "name": "fe14_supportive",
+        "id": 673646081375993901,
+        "animated": false
+    },
+    "fe14_survey": {
+        "name": "fe14_survey",
+        "id": 673646081455816708,
+        "animated": false
+    },
+    "fe14_tomebreaker": {
+        "name": "fe14_tomebreaker",
+        "id": 673646081510342685,
+        "animated": false
+    },
+    "fe14_tacticaladvice": {
+        "name": "fe14_tacticaladvice",
+        "id": 673646081552416769,
+        "animated": false
+    },
+    "fe14_strongriposte": {
+        "name": "fe14_strongriposte",
+        "id": 673646081564737573,
+        "animated": false
+    },
+    "fe14_triplethreat": {
+        "name": "fe14_triplethreat",
+        "id": 673646081569062944,
+        "animated": false
+    },
+    "fe14_tomefaire": {
+        "name": "fe14_tomefaire",
+        "id": 673646081602617374,
+        "animated": false
+    },
+    "fe14_savageblow": {
+        "name": "fe14_savageblow",
+        "id": 673646081610874893,
+        "animated": false
+    },
+    "fe14_toxicbrew": {
+        "name": "fe14_toxicbrew",
+        "id": 673646081619525643,
+        "animated": false
+    },
+    "fe14_trample": {
+        "name": "fe14_trample",
+        "id": 673646081715863552,
+        "animated": false
+    },
+    "fe14_swordfaire": {
+        "name": "fe14_swordfaire",
+        "id": 673646081803943956,
+        "animated": false
+    },
+    "fe14_underdog": {
+        "name": "fe14_underdog",
+        "id": 673646082009333771,
+        "animated": false
+    },
+    "fe14_unmask": {
+        "name": "fe14_unmask",
+        "id": 673646082047082526,
+        "animated": false
+    },
+    "fe14_veteranintuition": {
+        "name": "fe14_veteranintuition",
+        "id": 673646082063990815,
+        "animated": false
+    },
+    "fe14_voiceofpeace": {
+        "name": "fe14_voiceofpeace",
+        "id": 673646082139488258,
+        "animated": false
+    },
+    "fe14_vantage": {
+        "name": "fe14_vantage",
+        "id": 673646082152202260,
+        "animated": false
+    },
+    "fe14_vengeance": {
+        "name": "fe14_vengeance",
+        "id": 673646082206597138,
+        "animated": false
+    },
+    "fe14_vendetta": {
+        "name": "fe14_vendetta",
+        "id": 673646082332557318,
+        "animated": false
+    },
+    "fe14_vowoffriendship": {
+        "name": "fe14_vowoffriendship",
+        "id": 673646082349072385,
+        "animated": false
+    },
+    "fe14_wardingblow": {
+        "name": "fe14_wardingblow",
+        "id": 673646719598067733,
+        "animated": false
+    },
+    "fe14_witchsbrew": {
+        "name": "fe14_witchsbrew",
+        "id": 673646719824560157,
+        "animated": false
+    },
+    "fe14_winddisciple": {
+        "name": "fe14_winddisciple",
+        "id": 673646719845531698,
+        "animated": false
+    },
+    "fe14_waryfighter": {
+        "name": "fe14_waryfighter",
+        "id": 673646719858114623,
+        "animated": false
+    },
+    "fe14_warp": {
+        "name": "fe14_warp",
+        "id": 673646719979880448,
+        "animated": false
+    },
+    "dragonstone": {
+        "name": "fe14_dragonstone",
+        "id": 674385073566646322,
+        "animated": false
+    },
+    "beaststone": {
+        "name": "fe14_beaststone",
+        "id": 674385073612783632,
+        "animated": false
+    },
+    "stone": {
+        "name": "fe14_beaststone",
+        "id": 674385073612783632,
+        "animated": false
+    },
+    "sword": {
+        "name": "fe14_sword",
+        "id": 674385073625366549,
+        "animated": false
+    },
+    "staff": {
+        "name": "fe14_staff",
+        "id": 674385073721704449,
+        "animated": false
+    },
+    "axe": {
+        "name": "fe14_axe",
+        "id": 674385073742676015,
+        "animated": false
+    },
+    "bow": {
+        "name": "fe14_bow",
+        "id": 674385073797070989,
+        "animated": false
+    },
+    "tome": {
+        "name": "fe14_tome",
+        "id": 674385073797333002,
+        "animated": false
+    },
+    "hidden": {
+        "name": "fe14_hidden",
+        "id": 674385073805590559,
+        "animated": false
+    },
+    "shuriken": {
+        "name": "fe14_hidden",
+        "id": 674385073805590559,
+        "animated": false
+    },
+    "lance": {
+        "name": "fe14_lance",
+        "id": 674385073809915913,
+        "animated": false
+    },
+    "fe14_dragonskin": {
+        "name": "fe14_dragonskin",
+        "id": 689265528577196076,
+        "animated": false
+    },
+    "fe14_boldstance": {
+        "name": "fe14_boldstance",
+        "id": 689265528728191020,
+        "animated": false
+    },
+    "fe14_foreignprincess": {
+        "name": "fe14_foreignprincess",
+        "id": 673644447392727043,
+        "animated": false
+    },
+    "fe14_gamble": {
+        "name": "fe14_gamble",
+        "id": 673644447489064977,
+        "animated": false
+    },
+    "fe14_evenkeel": {
+        "name": "fe14_evenkeel",
+        "id": 673644447489065053,
+        "animated": false
+    },
+    "fe14_fiercecounter": {
+        "name": "fe14_fiercecounter",
+        "id": 673644447501778949,
+        "animated": false
+    },
+    "fe14_fancyfootwork": {
+        "name": "fe14_fancyfootwork",
+        "id": 673644447501778960,
+        "animated": false
+    },
+    "fe14_evenbetter": {
+        "name": "fe14_evenbetter",
+        "id": 673644447506104321,
+        "animated": false
+    },
+    "fe14_fiercemien": {
+        "name": "fe14_fiercemien",
+        "id": 673644447510167552,
+        "animated": false
+    },
+    "fe14_fearsomeblow": {
+        "name": "fe14_fearsomeblow",
+        "id": 673644447510298624,
+        "animated": false
+    },
+    "fe14_fiercerival": {
+        "name": "fe14_fiercerival",
+        "id": 673644447522619395,
+        "animated": false
+    },
+    "fe14_fieryblood": {
+        "name": "fe14_fieryblood",
+        "id": 673644447656968200,
+        "animated": false
+    },
+    "fe14_evenhanded": {
+        "name": "fe14_evenhanded",
+        "id": 673644447665225769,
+        "animated": false
+    },
+    "fe14_forcefulpartner": {
+        "name": "fe14_forcefulpartner",
+        "id": 673644447682134059,
+        "animated": false
+    },
+    "fe14_forager": {
+        "name": "fe14_forager",
+        "id": 673644447694585926,
+        "animated": false
+    },
+    "fe14_fortunateson": {
+        "name": "fe14_fortunateson",
+        "id": 673644447715688449,
+        "animated": false
+    },
+    "fe14_goodfortune": {
+        "name": "fe14_goodfortune",
+        "id": 673644447728140352,
+        "animated": false
+    },
+    "fe14_gentilhomme": {
+        "name": "fe14_gentilhomme",
+        "id": 673644447774277644,
+        "animated": false
+    },
+    "fe14_healingdescant": {
+        "name": "fe14_healingdescant",
+        "id": 673644447808094210,
+        "animated": false
+    },
+    "fe14_heavyblade": {
+        "name": "fe14_heavyblade",
+        "id": 673644447808094240,
+        "animated": false
+    },
+    "fe14_gallant": {
+        "name": "fe14_gallant",
+        "id": 673644447816351778,
+        "animated": false
+    },
+    "fe14_galeforce": {
+        "name": "fe14_galeforce",
+        "id": 673644447841517578,
+        "animated": false
+    },
+    "fe14_golembane": {
+        "name": "fe14_golembane",
+        "id": 673644447896043536,
+        "animated": false
+    },
+    "fe14_futuresight": {
+        "name": "fe14_futuresight",
+        "id": 673644447917015072,
+        "animated": false
+    },
+    "fe14_goodybasket": {
+        "name": "fe14_goodybasket",
+        "id": 673644447933792257,
+        "animated": false
+    },
+    "fe14_grislywound": {
+        "name": "fe14_grislywound",
+        "id": 673644448001032215,
+        "animated": false
+    },
+    "fe14_guardedbravery": {
+        "name": "fe14_guardedbravery",
+        "id": 673644448063946752,
+        "animated": false
+    },
+    "fe14_heartseeker": {
+        "name": "fe14_heartseeker",
+        "id": 673644448093306947,
+        "animated": false
+    },
+    "fe14_haiku": {
+        "name": "fe14_haiku",
+        "id": 673644448151896074,
+        "animated": false
+    },
+    "fe14_highwayman": {
+        "name": "fe14_highwayman",
+        "id": 673644448185581569,
+        "animated": false
+    },
+    "fe14_icyblood": {
+        "name": "fe14_icyblood",
+        "id": 673644448189513748,
+        "animated": false
+    },
+    "fe14_lancebreaker": {
+        "name": "fe14_lancebreaker",
+        "id": 673644448210616321,
+        "animated": false
+    },
+    "fe14_hoshidanunity": {
+        "name": "fe14_hoshidanunity",
+        "id": 673644448214941697,
+        "animated": false
+    },
+    "fe14_inextremis": {
+        "name": "fe14_inextremis",
+        "id": 673644448244301888,
+        "animated": false
+    },
+    "fe14_hpplus5": {
+        "name": "fe14_hpplus5",
+        "id": 673644448248365059,
+        "animated": false
+    },
+    "fe14_lifetaker": {
+        "name": "fe14_lifetaker",
+        "id": 673644448265273346,
+        "animated": false
+    },
+    "fe14_ignis": {
+        "name": "fe14_ignis",
+        "id": 673644448277594154,
+        "animated": false
+    },
+    "fe14_lilyspoise": {
+        "name": "fe14_lilyspoise",
+        "id": 673644448332382229,
+        "animated": false
+    },
+    "fe14_inspiringsong": {
+        "name": "fe14_inspiringsong",
+        "id": 673644448357417022,
+        "animated": false
+    },
+    "fe14_ironwill": {
+        "name": "fe14_ironwill",
+        "id": 673644448361611368,
+        "animated": false
+    },
+    "fe14_lethality": {
+        "name": "fe14_lethality",
+        "id": 673644448458080286,
+        "animated": false
+    },
+    "fe14_kidnap": {
+        "name": "fe14_kidnap",
+        "id": 673644448474988544,
+        "animated": false
+    },
+    "fe14_lancefaire": {
+        "name": "fe14_lancefaire",
+        "id": 673644448487571477,
+        "animated": false
+    },
+    "fe14_lifeanddeath": {
+        "name": "fe14_lifeanddeath",
+        "id": 673644448521125888,
+        "animated": false
+    },
+    "fe14_luckycharm": {
+        "name": "fe14_luckycharm",
+        "id": 673644448542097439,
+        "animated": false
+    },
+    "fe14_locktouch": {
+        "name": "fe14_locktouch",
+        "id": 673644448659537931,
+        "animated": false
+    },
+    "fe14_luckplus4": {
+        "name": "fe14_luckplus4",
+        "id": 673644448730579005,
+        "animated": false
+    },
+    "fe14_livetoserve": {
+        "name": "fe14_livetoserve",
+        "id": 673644448751812608,
+        "animated": false
+    },
+    "fe14_luckyseven": {
+        "name": "fe14_luckyseven",
+        "id": 673644448856408107,
+        "animated": false
+    },
+    "fe14_luna": {
+        "name": "fe14_luna",
+        "id": 673644448999014448,
+        "animated": false
+    },
+    "fe14_lunge": {
+        "name": "fe14_lunge",
+        "id": 673644449112522787,
+        "animated": false
+    },
+    "fe14_inspiration": {
+        "name": "fe14_inspiration",
+        "id": 673644449707851836,
+        "animated": false
+    },
+    "blood": {
+        "name": "dragon_blood",
+        "id": 675072781959823370,
+        "animated": false
+    }
+}

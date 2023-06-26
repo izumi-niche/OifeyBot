@@ -1,0 +1,5160 @@
+{
+    "bronzesword": {
+        "name": "Bronze Sword",
+        "desc": "Inexpensive, but low in power.",
+        "weapon": true,
+        "price_use": 7,
+        "stats": {
+            "rank": "E",
+            "mt": 3,
+            "hit": 100,
+            "uses": 50,
+            "rng": 1,
+            "price": 350,
+            "price per use": 7,
+            "sell": 175
+        },
+        "shop": [
+            "southtown"
+        ],
+        "merchant": [],
+        "spotpass": [
+            "Mist",
+            "Edward"
+        ],
+        "type": "sword"
+    },
+    "ironsword": {
+        "name": "Iron Sword",
+        "desc": "Affordable and easy to wield.",
+        "weapon": true,
+        "price_use": 13,
+        "stats": {
+            "rank": "D",
+            "mt": 5,
+            "hit": 95,
+            "uses": 40,
+            "rng": 1,
+            "price": 520,
+            "price per use": 13,
+            "sell": 260
+        },
+        "shop": [
+            "borderpass",
+            "breakneckpass",
+            "borderwastes",
+            "thefarfort",
+            "sageshamlet"
+        ],
+        "merchant": [
+            "southtown",
+            "westofylisstol",
+            "thenorthroad",
+            "thelongfort"
+        ],
+        "spotpass": [
+            "Clair",
+            "Fee",
+            "Nanna",
+            "Shanna",
+            "Florina",
+            "Eirika",
+            "Soren",
+            "Mia",
+            "Zihark",
+            "Edward",
+            "Leonardo"
+        ],
+        "type": "sword"
+    },
+    "steelsword": {
+        "name": "Steel Sword",
+        "desc": "More powerful than its iron brother.",
+        "weapon": true,
+        "price_use": 24,
+        "stats": {
+            "rank": "C",
+            "mt": 8,
+            "hit": 90,
+            "uses": 35,
+            "rng": 1,
+            "price": 840,
+            "price per use": 24,
+            "sell": 420
+        },
+        "shop": [
+            "plegiacastlecourtyard",
+            "valmharbor",
+            "thetwinshideout",
+            "sageshamlet"
+        ],
+        "merchant": [
+            "arenaferox",
+            "borderpass",
+            "ylisstol",
+            "breakneckpass",
+            "bordersands",
+            "thefarfort",
+            "thetwinsturf",
+            "peacefulvillage"
+        ],
+        "spotpass": [
+            "Caeda",
+            "Linde",
+            "Boey",
+            "Catria",
+            "Athena",
+            "Ethlyn",
+            "Ulster",
+            "Larcei",
+            "Salem",
+            "Olwen",
+            "Lugh",
+            "Raigh",
+            "Serra",
+            "Matthew",
+            "Eirika",
+            "Marisa",
+            "Sanaki"
+        ],
+        "type": "sword"
+    },
+    "silversword": {
+        "name": "Silver Sword",
+        "desc": "Expensive, but extremely powerful.",
+        "weapon": true,
+        "price_use": 47,
+        "stats": {
+            "rank": "B",
+            "mt": 11,
+            "hit": 85,
+            "uses": 30,
+            "rng": 1,
+            "price": 1410,
+            "price per use": 47,
+            "sell": 705
+        },
+        "shop": [
+            "valmharbor",
+            "fortsteiger",
+            "valmcastleapproach",
+            "sageshamlet",
+            "warriorstomb"
+        ],
+        "merchant": [
+            "plegiacastlecourtyard",
+            "themidmire",
+            "borderwastes",
+            "portferox",
+            "carrionisle",
+            "thetwinshideout",
+            "verdantforest",
+            "wyvernvalley",
+            "kidnapperskeep"
+        ],
+        "spotpass": [
+            "Tiki",
+            "Ogma",
+            "Navarre",
+            "Prince Marth",
+            "Nomah",
+            "Deen",
+            "Athena",
+            "Horace",
+            "Katarina",
+            "King Marth",
+            "Quan",
+            "Lewyn",
+            "Arvis",
+            "Sigurd",
+            "Larcei",
+            "Julia",
+            "Salem",
+            "Olwen",
+            "Eyvel",
+            "Mareeta",
+            "Perceval",
+            "Nino",
+            "Karel",
+            "Jaffar",
+            "Lyn",
+            "Hector",
+            "Nergal",
+            "Marisa",
+            "L'Arachel",
+            "Geoffrey",
+            "Lucia",
+            "Sothe",
+            "Camus",
+            "Narcian",
+            "Lloyd",
+            "Linus",
+            "Ursula",
+            "Selena",
+            "Petrine"
+        ],
+        "type": "sword"
+    },
+    "bravesword": {
+        "name": "Brave Sword",
+        "desc": "Allows the wielder to strike twice.",
+        "weapon": true,
+        "price_use": 70,
+        "stats": {
+            "rank": "A",
+            "mt": 9,
+            "hit": 80,
+            "uses": 30,
+            "rng": 1,
+            "price": 2100,
+            "price per use": 70,
+            "sell": 1050
+        },
+        "shop": [
+            "originpeak",
+            "warriorstomb"
+        ],
+        "merchant": [
+            "thedemonsingle",
+            "valmcastleapproach",
+            "valmcastle",
+            "plegiacastle",
+            "tableapproach",
+            "thedragonstable",
+            "sageshamlet",
+            "verdantforest",
+            "wyvernvalley",
+            "kidnapperskeep",
+            "divinedragongrounds"
+        ],
+        "spotpass": [
+            "Deen",
+            "Ayra",
+            "Sigurd",
+            "Julius",
+            "Mareeta",
+            "Zephiel",
+            "Roy",
+            "Nergal",
+            "Eliwood",
+            "Black Knight",
+            "Micaiah",
+            "Camus",
+            "Lloyd",
+            "Linus"
+        ],
+        "type": "sword"
+    },
+    "armorslayer": {
+        "name": "Armorslayer",
+        "desc": "Effective against armored units.",
+        "weapon": true,
+        "price_use": 58,
+        "stats": {
+            "rank": "D",
+            "mt": 8,
+            "hit": 80,
+            "uses": 25,
+            "rng": 1,
+            "price": 1450,
+            "price per use": 58,
+            "sell": 725
+        },
+        "shop": [
+            "warriorstomb"
+        ],
+        "merchant": [
+            "breakneckpass",
+            "carrionisle",
+            "plegiacastle",
+            "milashrineruins",
+            "lawsend",
+            "manoroflostsouls"
+        ],
+        "spotpass": [
+            "Malice",
+            "Ethlyn",
+            "Matthew",
+            "Karel",
+            "Mia"
+        ],
+        "type": "sword",
+        "equip": {
+            "effective": true
+        }
+    },
+    "wyrmslayer": {
+        "name": "Wyrmslayer",
+        "desc": "Effective against dragons.",
+        "weapon": true,
+        "price_use": 60,
+        "stats": {
+            "rank": "D",
+            "mt": 8,
+            "hit": 80,
+            "uses": 25,
+            "rng": 1,
+            "price": 1500,
+            "price per use": 60,
+            "sell": 750
+        },
+        "shop": [
+            "warriorstomb"
+        ],
+        "merchant": [
+            "southtown",
+            "arenaferox",
+            "valmharbor",
+            "fortsteiger",
+            "thefarfort",
+            "duelinggrounds",
+            "mercenaryfortress",
+            "theruinsoftime",
+            "desertoasis"
+        ],
+        "spotpass": [
+            "Catria",
+            "Mareeta",
+            "Matthew"
+        ],
+        "type": "sword",
+        "equip": {
+            "effective": true
+        }
+    },
+    "killingedge": {
+        "name": "Killing Edge",
+        "desc": "Increases the likelihood of critical hits.",
+        "weapon": true,
+        "price_use": 49,
+        "stats": {
+            "rank": "C",
+            "mt": 9,
+            "hit": 90,
+            "crit": 30,
+            "uses": 30,
+            "rng": 1,
+            "price": 1470,
+            "price per use": 49,
+            "sell": 735
+        },
+        "shop": [
+            "valmcastleapproach",
+            "sageshamlet"
+        ],
+        "merchant": [
+            "portferox",
+            "thesearoad",
+            "valmharbor",
+            "themilatree",
+            "fortsteiger",
+            "tableapproach",
+            "greatgate",
+            "milashrineruins",
+            "duelinggrounds",
+            "mercenaryfortress",
+            "theruinsoftime",
+            "lawsend",
+            "desertoasis",
+            "manoroflostsouls"
+        ],
+        "spotpass": [
+            "Linde",
+            "Tiki",
+            "Ogma",
+            "Navarre",
+            "Boey",
+            "Norne",
+            "Malice",
+            "Katarina",
+            "Julia",
+            "Salem",
+            "Mareeta",
+            "Raigh",
+            "Nino",
+            "Jaffar",
+            "Eliwood",
+            "Marisa",
+            "Zihark",
+            "Ike",
+            "Lloyd"
+        ],
+        "type": "sword"
+    },
+    "levinsword": {
+        "name": "Levin Sword",
+        "desc": "Deals magical damage based on Mag.",
+        "weapon": true,
+        "price_use": 64,
+        "stats": {
+            "rank": "C",
+            "mt": 10,
+            "hit": 80,
+            "uses": 25,
+            "rng": "1-2",
+            "price": 1600,
+            "price per use": 64,
+            "sell": 800
+        },
+        "shop": [
+            "gardenofgiants"
+        ],
+        "merchant": [
+            "borderwastes",
+            "themilatree",
+            "valmcastle",
+            "greatgate",
+            "milashrineruins",
+            "mercenaryfortress",
+            "lawsend",
+            "manoroflostsouls"
+        ],
+        "spotpass": [
+            "Navarre",
+            "Malice",
+            "Katarina",
+            "Leif",
+            "Nino",
+            "Lyn",
+            "Hector",
+            "Eliwood",
+            "Sothe"
+        ],
+        "type": "sword",
+        "equip": {
+            "magical": true
+        },
+        "HARD_ALT_NAME": [
+            "Levin"
+        ]
+    },
+    "rapier": {
+        "name": "Rapier",
+        "desc": "Chrom/Lucina/Marth only. Slender and regal.",
+        "weapon": true,
+        "price_use": 42,
+        "stats": {
+            "rank": "E",
+            "mt": 5,
+            "hit": 90,
+            "crit": 10,
+            "uses": 35,
+            "rng": 1,
+            "price": 1470,
+            "price per use": 42,
+            "sell": 735
+        },
+        "shop": [],
+        "merchant": [
+            "ylisstol",
+            "borderwastes",
+            "thesearoad"
+        ],
+        "spotpass": [],
+        "type": "sword",
+        "equip": {
+            "effective": true
+        }
+    },
+    "noblerapier": {
+        "name": "Noble Rapier",
+        "desc": "Chrom/Lucina/Marth only. Sharp and commanding.",
+        "weapon": true,
+        "price_use": 84,
+        "stats": {
+            "rank": "C",
+            "mt": 8,
+            "hit": 85,
+            "crit": 10,
+            "uses": 25,
+            "rng": 1,
+            "price": 2100,
+            "price per use": 84,
+            "sell": 1050
+        },
+        "shop": [
+            "gardenofgiants"
+        ],
+        "merchant": [
+            "thedemonsingle",
+            "plegiacastle"
+        ],
+        "spotpass": [
+            "Prince Marth"
+        ],
+        "type": "sword",
+        "equip": {
+            "effective": true
+        }
+    },
+    "missiletainn": {
+        "name": "Missiletainn",
+        "desc": "Owain only. Skill +1. The apocryphal brand?",
+        "weapon": true,
+        "price_use": 30,
+        "stats": {
+            "rank": "C",
+            "mt": 8,
+            "hit": 85,
+            "crit": 10,
+            "uses": 35,
+            "rng": 1,
+            "price": 1050,
+            "price per use": 30,
+            "sell": 525
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "sword",
+        "equip": {
+            "stats": {"skl": 1}
+        }
+    },
+    "sol": {
+        "name": "Sol",
+        "desc": "May absorb HP equal to 1/2 damage dealt. Trigger % = (Skill stat)",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 12,
+            "hit": 85,
+            "crit": 5,
+            "uses": 30,
+            "rng": 1
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "sword"
+    },
+    "amatsu": {
+        "name": "Amatsu",
+        "desc": "Myrmidon/Swordmaster only. Yen'fay's blade.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 12,
+            "hit": 60,
+            "crit": 5,
+            "uses": 30,
+            "rng": "1-2"
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "sword"
+    },
+    "falchion": {
+        "name": "Falchion",
+        "desc": "Chrom only. Its power remains sealed.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 5,
+            "hit": 80,
+            "rng": 1
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "sword"
+    },
+    "exaltedfalchion": {
+        "name": "Exalted Falchion",
+        "desc": "Chrom only. Use this to restore 20 HP.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 15,
+            "hit": 80,
+            "crit": 10,
+            "rng": 1
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "sword"
+    },
+    "parallelfalchion": {
+        "name": "Parallel Falchion",
+        "desc": "Lucina only. Use this to restore 20 HP.",
+        "weapon": true,
+        "stats": {
+            "rank": "E",
+            "mt": 12,
+            "hit": 80,
+            "crit": 5,
+            "rng": 1
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "sword"
+    },
+    "mercurius": {
+        "name": "Mercurius",
+        "desc": "One of the Three Regalia. Devastatingly powerful.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 17,
+            "hit": 95,
+            "crit": 5,
+            "uses": 25,
+            "rng": 1
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "sword"
+    },
+    "tyrfing": {
+        "name": "Tyrfing",
+        "desc": "Res +5. A timeless weapon.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 15,
+            "hit": 85,
+            "crit": 10,
+            "uses": 25,
+            "rng": 1
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "sword",
+        "equip": {
+            "stats": {"res": 5}
+        }
+    },
+    "mystletainn": {
+        "name": "Mystletainn",
+        "desc": "Skill +5. A timeless weapon.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 14,
+            "hit": 85,
+            "crit": 15,
+            "uses": 25,
+            "rng": 1
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "sword",
+        "equip": {
+            "stats": {"skl": 5}
+        }
+    },
+    "balmung": {
+        "name": "Balmung",
+        "desc": "Spd +5. A timeless weapon.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 13,
+            "hit": 90,
+            "crit": 10,
+            "uses": 25,
+            "rng": 1
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "sword",
+        "equip": {
+            "stats": {"spd": 5}
+        }
+    },
+    "solkatti": {
+        "name": "Sol Katti",
+        "desc": "Myrmidon/Swordmaster only. Res +5. A plainsman's blade.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 8,
+            "hit": 100,
+            "crit": 50,
+            "uses": 25,
+            "rng": 1
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "sword",
+        "equip": {
+            "stats": {"res": 5}
+        }
+    },
+    "ragnell": {
+        "name": "Ragnell",
+        "desc": "Def +5. A timeless weapon.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 15,
+            "hit": 70,
+            "rng": "1-2"
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "sword",
+        "equip": {
+            "stats": {"def": 5}
+        }
+    },
+    "treebranch": {
+        "name": "Tree Branch",
+        "desc": "Weak and ill suited for battle.",
+        "weapon": true,
+        "price_use": 5,
+        "stats": {
+            "rank": "E",
+            "mt": 1,
+            "hit": 100,
+            "uses": 20,
+            "rng": 1,
+            "price": 100,
+            "price per use": 5,
+            "sell": 25
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "sword"
+    },
+    "soothingsword": {
+        "name": "Soothing Sword",
+        "desc": "Restores 10 HP every turn.",
+        "weapon": true,
+        "price_use": 92,
+        "stats": {
+            "rank": "D",
+            "mt": 8,
+            "hit": 85,
+            "uses": 10,
+            "rng": 1,
+            "price": 920,
+            "price per use": 92,
+            "sell": 230
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "sword"
+    },
+    "glasssword": {
+        "name": "Glass Sword",
+        "desc": "Powerful, but quick to break.",
+        "weapon": true,
+        "price_use": 200,
+        "stats": {
+            "rank": "E",
+            "mt": 11,
+            "hit": 85,
+            "uses": 3,
+            "rng": 1,
+            "price": 600,
+            "price per use": 200,
+            "sell": 150
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "sword"
+    },
+    "superioredge": {
+        "name": "Superior Edge",
+        "desc": "Hit/Avo +50 when the enemy has a sword equipped.",
+        "weapon": true,
+        "price_use": 195,
+        "stats": {
+            "rank": "B",
+            "mt": 11,
+            "hit": 80,
+            "uses": 10,
+            "rng": 1,
+            "price": 1950,
+            "price per use": 195,
+            "sell": 487
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "sword"
+    },
+    "eliwoodsblade": {
+        "name": "Eliwood's Blade",
+        "desc": "A heroic weapon.",
+        "weapon": true,
+        "price_use": 48,
+        "stats": {
+            "rank": "C",
+            "mt": 10,
+            "hit": 85,
+            "crit": 5,
+            "uses": 20,
+            "rng": 1,
+            "price": 960,
+            "price per use": 48,
+            "sell": 240
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [
+            "Eliwood"
+        ],
+        "type": "sword"
+    },
+    "roysblade": {
+        "name": "Roy's Blade",
+        "desc": "A heroic weapon.",
+        "weapon": true,
+        "price_use": 36,
+        "stats": {
+            "rank": "D",
+            "mt": 8,
+            "hit": 95,
+            "crit": 5,
+            "uses": 25,
+            "rng": 1,
+            "price": 900,
+            "price per use": 36,
+            "sell": 225
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [
+            "Roy"
+        ],
+        "type": "sword"
+    },
+    "almsblade": {
+        "name": "Alm's Blade",
+        "desc": "An ancient weapon.",
+        "weapon": true,
+        "price_use": 163,
+        "stats": {
+            "rank": "B",
+            "mt": 15,
+            "hit": 75,
+            "crit": 10,
+            "uses": 10,
+            "rng": 1,
+            "price": 1630,
+            "price per use": 163,
+            "sell": 407
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [
+            "Alm"
+        ],
+        "type": "sword"
+    },
+    "leifsblade": {
+        "name": "Leif's Blade",
+        "desc": "May yield a Bullion (S) if the wielder's target falls. Trigger % = (Lck stat)",
+        "weapon": true,
+        "price_use": 41,
+        "stats": {
+            "rank": "D",
+            "mt": 4,
+            "hit": 95,
+            "crit": 30,
+            "uses": 20,
+            "rng": 1,
+            "price": 820,
+            "price per use": 41,
+            "sell": 205
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [
+            "Leif"
+        ],
+        "type": "sword"
+    },
+    "eirikasblade": {
+        "name": "Eirika's Blade",
+        "desc": "Allows the wielder to strike twice. A heroic weapon.",
+        "weapon": true,
+        "price_use": 61,
+        "stats": {
+            "rank": "C",
+            "mt": 6,
+            "hit": 95,
+            "crit": 10,
+            "uses": 20,
+            "rng": 1,
+            "price": 1220,
+            "price per use": 61,
+            "sell": 305
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [
+            "Eirika"
+        ],
+        "type": "sword"
+    },
+    "seliphsblade": {
+        "name": "Seliph's Blade",
+        "desc": "Spd/Res +2. A fabled weapon.",
+        "weapon": true,
+        "price_use": 102,
+        "stats": {
+            "rank": "B",
+            "mt": 12,
+            "hit": 90,
+            "crit": 15,
+            "uses": 15,
+            "rng": 1,
+            "price": 1530,
+            "price per use": 102,
+            "sell": 382
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [
+            "Seliph"
+        ],
+        "type": "sword",
+        "equip": {
+            "stats": {"def": 2, "res": 2}
+        }
+    },
+    "bronzelance": {
+        "name": "Bronze Lance",
+        "desc": "Inexpensive, but low in power.",
+        "weapon": true,
+        "price_use": 7,
+        "stats": {
+            "rank": "E",
+            "mt": 3,
+            "hit": 90,
+            "uses": 50,
+            "rng": 1,
+            "price": 350,
+            "price per use": 7,
+            "sell": 175
+        },
+        "shop": [
+            "southtown"
+        ],
+        "merchant": [],
+        "spotpass": [
+            "Brom"
+        ],
+        "type": "lance"
+    },
+    "ironlance": {
+        "name": "Iron Lance",
+        "desc": "Affordable and easy to wield.",
+        "weapon": true,
+        "price_use": 14,
+        "stats": {
+            "rank": "D",
+            "mt": 6,
+            "hit": 85,
+            "uses": 40,
+            "rng": 1,
+            "price": 560,
+            "price per use": 14,
+            "sell": 280
+        },
+        "shop": [
+            "arenaferox",
+            "themidmire",
+            "thefarfort",
+            "verdantforest"
+        ],
+        "merchant": [
+            "southtown",
+            "westofylisstol",
+            "thenorthroad",
+            "thelongfort"
+        ],
+        "spotpass": [
+            "Clair",
+            "Norne",
+            "Fee",
+            "Arthur",
+            "Shanna",
+            "Eirika",
+            "Amelia",
+            "Mist",
+            "Zihark",
+            "Elincia",
+            "Brom",
+            "Nephenee"
+        ],
+        "type": "lance"
+    },
+    "steellance": {
+        "name": "Steel Lance",
+        "desc": "More powerful than its iron brother.",
+        "weapon": true,
+        "price_use": 26,
+        "stats": {
+            "rank": "C",
+            "mt": 9,
+            "hit": 80,
+            "uses": 35,
+            "rng": 1,
+            "price": 910,
+            "price per use": 26,
+            "sell": 455
+        },
+        "shop": [
+            "plegiacastlecourtyard",
+            "thesearoad",
+            "thetwinshideout",
+            "verdantforest"
+        ],
+        "merchant": [
+            "arenaferox",
+            "borderpass",
+            "ylisstol",
+            "breakneckpass",
+            "bordersands",
+            "thefarfort",
+            "thetwinsturf",
+            "peacefulvillage"
+        ],
+        "spotpass": [
+            "Caeda",
+            "Catria",
+            "Malice",
+            "Arden",
+            "Ethlyn",
+            "Ulster",
+            "Olwen",
+            "Lugh",
+            "Serra",
+            "Amelia",
+            "Moulder",
+            "Brom",
+            "Nephenee",
+            "Sanaki"
+        ],
+        "type": "lance"
+    },
+    "silverlance": {
+        "name": "Silver Lance",
+        "desc": "Expensive, but extremely powerful.",
+        "weapon": true,
+        "price_use": 52,
+        "stats": {
+            "rank": "B",
+            "mt": 13,
+            "hit": 75,
+            "uses": 30,
+            "rng": 1,
+            "price": 1560,
+            "price per use": 52,
+            "sell": 780
+        },
+        "shop": [
+            "thesearoad",
+            "fortsteiger",
+            "valmcastle",
+            "verdantforest",
+            "conquerorswhetstone"
+        ],
+        "merchant": [
+            "plegiacastlecourtyard",
+            "themidmire",
+            "borderwastes",
+            "portferox",
+            "carrionisle",
+            "thetwinshideout",
+            "sageshamlet",
+            "wyvernvalley",
+            "kidnapperskeep"
+        ],
+        "spotpass": [
+            "Nyna",
+            "Minerva",
+            "Prince Marth",
+            "Mycen",
+            "Valbar",
+            "Clive",
+            "Nomah",
+            "Alm",
+            "Celica",
+            "Horace",
+            "Etzel",
+            "Hardin",
+            "Laquesis",
+            "Quan",
+            "Ayra",
+            "Arvis",
+            "Sigurd",
+            "Altena",
+            "Ares",
+            "Seliph",
+            "Finn",
+            "Saias",
+            "Raydrik",
+            "Perceval",
+            "Roy",
+            "Lyn",
+            "Hector",
+            "Eliwood",
+            "Eirika",
+            "Innes",
+            "Seth",
+            "Elincia",
+            "Geoffrey",
+            "Ashnard",
+            "Sanaki",
+            "Sigrun",
+            "Travant",
+            "Lloyd",
+            "Linus",
+            "Selena",
+            "Petrine"
+        ],
+        "type": "lance"
+    },
+    "bravelance": {
+        "name": "Brave Lance",
+        "desc": "Allows the wielder to strike twice.",
+        "weapon": true,
+        "price_use": 74,
+        "stats": {
+            "rank": "A",
+            "mt": 10,
+            "hit": 70,
+            "uses": 30,
+            "rng": 1,
+            "price": 2220,
+            "price per use": 74,
+            "sell": 1110
+        },
+        "shop": [
+            "originpeak",
+            "conquerorswhetstone"
+        ],
+        "merchant": [
+            "thedemonsingle",
+            "valmcastleapproach",
+            "valmcastle",
+            "plegiacastle",
+            "tableapproach",
+            "thedragonstable",
+            "sageshamlet",
+            "verdantforest",
+            "wyvernvalley",
+            "kidnapperskeep",
+            "divinedragongrounds"
+        ],
+        "spotpass": [
+            "Hardin",
+            "Sigurd",
+            "Julius",
+            "Finn",
+            "Leif",
+            "Perceval",
+            "Roy",
+            "Nergal",
+            "Eliwood",
+            "Seth",
+            "Ephraim",
+            "Geoffrey",
+            "Ike",
+            "Black Knight",
+            "Micaiah",
+            "Camus",
+            "Travant",
+            "Ishtar",
+            "Narcian",
+            "Lloyd",
+            "Petrine"
+        ],
+        "type": "lance"
+    },
+    "javelin": {
+        "name": "Javelin",
+        "desc": "A weak throwing spear used for indirect attacks.",
+        "weapon": true,
+        "price_use": 28,
+        "stats": {
+            "rank": "D",
+            "mt": 2,
+            "hit": 80,
+            "uses": 25,
+            "rng": "1-2",
+            "price": 700,
+            "price per use": 28,
+            "sell": 350
+        },
+        "shop": [
+            "breakneckpass",
+            "themidmire",
+            "thesearoad",
+            "plegiacastle",
+            "thetwinsturf",
+            "verdantforest"
+        ],
+        "merchant": [],
+        "spotpass": [
+            "Nyna",
+            "Norne",
+            "Malice",
+            "Olwen",
+            "Florina",
+            "Eirika",
+            "Amelia",
+            "Brom",
+            "Nephenee"
+        ],
+        "type": "lance"
+    },
+    "shortspear": {
+        "name": "Short Spear",
+        "desc": "An average throwing spear used for indirect attacks.",
+        "weapon": true,
+        "price_use": 64,
+        "stats": {
+            "rank": "C",
+            "mt": 5,
+            "hit": 75,
+            "uses": 25,
+            "rng": "1-2",
+            "price": 1600,
+            "price per use": 64,
+            "sell": 800
+        },
+        "shop": [
+            "gardenofgiants"
+        ],
+        "merchant": [
+            "borderwastes",
+            "thesearoad",
+            "valmharbor",
+            "thetwinshideout"
+        ],
+        "spotpass": [
+            "Caeda",
+            "Mycen",
+            "Arden",
+            "Altena",
+            "Finn",
+            "Elincia",
+            "Sanaki",
+            "Sigrun"
+        ],
+        "type": "lance"
+    },
+    "spear": {
+        "name": "Spear",
+        "desc": "A powerful throwing spear used for indirect attacks.",
+        "weapon": true,
+        "price_use": 96,
+        "stats": {
+            "rank": "B",
+            "mt": 8,
+            "hit": 70,
+            "uses": 25,
+            "rng": "1-2",
+            "price": 2400,
+            "price per use": 96,
+            "sell": 1200
+        },
+        "shop": [],
+        "merchant": [
+            "valmcastleapproach",
+            "tableapproach"
+        ],
+        "spotpass": [
+            "Alm",
+            "Celica",
+            "Hardin",
+            "Zephiel",
+            "Ashnard",
+            "Camus",
+            "Travant",
+            "Ishtar",
+            "Selena",
+            "Petrine"
+        ],
+        "type": "lance"
+    },
+    "beastkiller": {
+        "name": "Beast Killer",
+        "desc": "Effective against beasts and riders.",
+        "weapon": true,
+        "price_use": 66,
+        "stats": {
+            "rank": "D",
+            "mt": 9,
+            "hit": 70,
+            "uses": 25,
+            "rng": 1,
+            "price": 1650,
+            "price per use": 66,
+            "sell": 825
+        },
+        "shop": [
+            "conquerorswhetstone"
+        ],
+        "merchant": [
+            "thenorthroad",
+            "plegiacastlecourtyard",
+            "themilatree",
+            "valmcastle",
+            "peacefulvillage",
+            "greatgate",
+            "duelinggrounds",
+            "mercenaryfortress",
+            "theruinsoftime",
+            "lawsend",
+            "desertoasis",
+            "manoroflostsouls"
+        ],
+        "spotpass": [
+            "Minerva",
+            "Prince Marth",
+            "Ayra",
+            "Innes",
+            "Ike",
+            "Sigrun"
+        ],
+        "type": "lance",
+        "equip": {
+            "effective": true
+        }
+    },
+    "blessedlance": {
+        "name": "Blessed Lance",
+        "desc": "Restores 10 HP every turn.",
+        "weapon": true,
+        "price_use": 44,
+        "stats": {
+            "rank": "C",
+            "mt": 11,
+            "hit": 70,
+            "uses": 35,
+            "rng": 1,
+            "price": 1540,
+            "price per use": 44,
+            "sell": 770
+        },
+        "shop": [
+            "conquerorswhetstone"
+        ],
+        "merchant": [
+            "arenaferox",
+            "themidmire",
+            "carrionisle",
+            "fortsteiger",
+            "greatgate",
+            "milashrineruins",
+            "duelinggrounds",
+            "mercenaryfortress",
+            "theruinsoftime",
+            "lawsend",
+            "desertoasis"
+        ],
+        "spotpass": [
+            "Finn",
+            "Innes"
+        ],
+        "type": "lance"
+    },
+    "killerlance": {
+        "name": "Killer Lance",
+        "desc": "Increases the likelihood of critical hits.",
+        "weapon": true,
+        "price_use": 56,
+        "stats": {
+            "rank": "C",
+            "mt": 10,
+            "hit": 80,
+            "crit": 30,
+            "uses": 30,
+            "rng": 1,
+            "price": 1680,
+            "price per use": 56,
+            "sell": 840
+        },
+        "shop": [
+            "valmcastle",
+            "verdantforest"
+        ],
+        "merchant": [
+            "portferox",
+            "thesearoad",
+            "valmharbor",
+            "themilatree",
+            "fortsteiger",
+            "thedemonsingle",
+            "thedragonstable",
+            "greatgate",
+            "milashrineruins",
+            "duelinggrounds",
+            "mercenaryfortress",
+            "theruinsoftime",
+            "lawsend",
+            "desertoasis",
+            "manoroflostsouls"
+        ],
+        "spotpass": [
+            "Caeda",
+            "Minerva",
+            "Norne",
+            "Ethlyn",
+            "Quan",
+            "Finn",
+            "Roy",
+            "Hector",
+            "Innes",
+            "Brom",
+            "Sigrun"
+        ],
+        "type": "lance"
+    },
+    "luna": {
+        "name": "Luna",
+        "desc": "May halve enemy Def/Res when attacking. Trigger % = (Skill stat)",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 14,
+            "hit": 80,
+            "crit": 5,
+            "uses": 30,
+            "rng": 1
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "lance"
+    },
+    "gradivus": {
+        "name": "Gradivus",
+        "desc": "One of the Three Regalia. Use it to fully restore HP.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 19,
+            "hit": 85,
+            "crit": 5,
+            "uses": 25,
+            "rng": "1-2"
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "lance"
+    },
+    "gungnir": {
+        "name": "Gungnir",
+        "desc": "Str +5. A timeless weapon.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 16,
+            "hit": 70,
+            "crit": 10,
+            "uses": 25,
+            "rng": 1
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "lance",
+        "equip": {
+            "stats": {"str": 5}
+        }
+    },
+    "gaebolg": {
+        "name": "G\u00e1e Bolg",
+        "desc": "Def +5. A timeless weapon.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 15,
+            "hit": 75,
+            "crit": 10,
+            "uses": 25,
+            "rng": 1
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "lance",
+        "equip": {
+            "stats": {"def": 5}
+        }
+    },
+    "log": {
+        "name": "Log",
+        "desc": "Weak and ill suited for battle.",
+        "weapon": true,
+        "price_use": 5,
+        "stats": {
+            "rank": "E",
+            "mt": 1,
+            "hit": 90,
+            "uses": 20,
+            "rng": 1,
+            "price": 100,
+            "price per use": 5,
+            "sell": 25
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "lance"
+    },
+    "miniaturelance": {
+        "name": "Miniature Lance",
+        "desc": "An absurdly short lance.",
+        "weapon": true,
+        "price_use": 65,
+        "stats": {
+            "rank": "D",
+            "mt": 1,
+            "hit": 55,
+            "crit": 35,
+            "uses": 10,
+            "rng": "1-2",
+            "price": 650,
+            "price per use": 65,
+            "sell": 162
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "lance"
+    },
+    "shockstick": {
+        "name": "Shockstick",
+        "desc": "Deals magical damage based on Mag.",
+        "weapon": true,
+        "price_use": 60,
+        "stats": {
+            "rank": "C",
+            "mt": 11,
+            "hit": 85,
+            "crit": 10,
+            "uses": 20,
+            "rng": 1,
+            "price": 1200,
+            "price per use": 60,
+            "sell": 300
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "lance",
+        "equip": {
+            "magical": true
+        }
+    },
+    "glasslance": {
+        "name": "Glass Lance",
+        "desc": "Powerful, but quick to break.",
+        "weapon": true,
+        "price_use": 200,
+        "stats": {
+            "rank": "E",
+            "mt": 13,
+            "hit": 75,
+            "uses": 3,
+            "rng": 1,
+            "price": 600,
+            "price per use": 200,
+            "sell": 150
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "lance"
+    },
+    "superiorlance": {
+        "name": "Superior Lance",
+        "desc": "Hit/Avo +50 when the enemy has a lance equipped.",
+        "weapon": true,
+        "price_use": 210,
+        "stats": {
+            "rank": "B",
+            "mt": 13,
+            "hit": 70,
+            "uses": 10,
+            "rng": 1,
+            "price": 2100,
+            "price per use": 210,
+            "sell": 525
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "lance"
+    },
+    "sigurdslance": {
+        "name": "Sigurd's Lance",
+        "desc": "A fabled weapon.",
+        "weapon": true,
+        "price_use": 128,
+        "stats": {
+            "rank": "B",
+            "mt": 14,
+            "hit": 85,
+            "crit": 15,
+            "uses": 15,
+            "rng": 1,
+            "price": 1920,
+            "price per use": 128,
+            "sell": 480
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [
+            "Sigurd"
+        ],
+        "type": "lance"
+    },
+    "ephraimslnce": {
+        "name": "Ephraim's Lnce",
+        "desc": "Str/Spd +2. A heroic weapon.",
+        "weapon": true,
+        "price_use": 61,
+        "stats": {
+            "rank": "C",
+            "mt": 11,
+            "hit": 80,
+            "crit": 10,
+            "uses": 20,
+            "rng": 1,
+            "price": 1220,
+            "price per use": 61,
+            "sell": 305
+        },
+        "ALT_NAME": [
+            "Ephraim's Lance",
+            "Ephraim Lance"
+        ],
+        "shop": [],
+        "merchant": [],
+        "spotpass": [
+            "Ephraim"
+        ],
+        "type": "lance",
+        "equip": {
+            "stats": {"str": 2, "spd": 2}
+        }
+    },
+    "finnslance": {
+        "name": "Finn's Lance",
+        "desc": "Lck/Def +2. A fabled weapon.",
+        "weapon": true,
+        "price_use": 38,
+        "stats": {
+            "rank": "D",
+            "mt": 8,
+            "hit": 85,
+            "crit": 10,
+            "uses": 25,
+            "rng": 1,
+            "price": 950,
+            "price per use": 38,
+            "sell": 237
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [
+            "Finn",
+            "Leif"
+        ],
+        "type": "lance",
+        "equip": {
+            "stats": {"lck": 2, "def": 2}
+        }
+    },
+    "bronzeaxe": {
+        "name": "Bronze Axe",
+        "desc": "Inexpensive, but low in power.",
+        "weapon": true,
+        "price_use": 8,
+        "stats": {
+            "rank": "E",
+            "mt": 4,
+            "hit": 80,
+            "uses": 50,
+            "rng": 1,
+            "price": 400,
+            "price per use": 8,
+            "sell": 200
+        },
+        "shop": [
+            "southtown"
+        ],
+        "merchant": [],
+        "spotpass": [
+            "Nephenee"
+        ],
+        "type": "axe"
+    },
+    "ironaxe": {
+        "name": "Iron Axe",
+        "desc": "Affordable and easy to wield.",
+        "weapon": true,
+        "price_use": 15,
+        "stats": {
+            "rank": "D",
+            "mt": 7,
+            "hit": 75,
+            "uses": 40,
+            "rng": 1,
+            "price": 600,
+            "price per use": 15,
+            "sell": 300
+        },
+        "shop": [
+            "borderpass",
+            "themidmire",
+            "thefarfort",
+            "wyvernvalley"
+        ],
+        "merchant": [
+            "southtown",
+            "westofylisstol",
+            "thenorthroad",
+            "thelongfort"
+        ],
+        "spotpass": [
+            "Clair",
+            "Luthier",
+            "Fee",
+            "Dagdar",
+            "Wolt",
+            "Lute",
+            "Mist",
+            "Mia",
+            "Zihark",
+            "Nephenee"
+        ],
+        "type": "axe"
+    },
+    "steelaxe": {
+        "name": "Steel Axe",
+        "desc": "More powerful than its iron brother.",
+        "weapon": true,
+        "price_use": 28,
+        "stats": {
+            "rank": "C",
+            "mt": 11,
+            "hit": 70,
+            "uses": 35,
+            "rng": 1,
+            "price": 980,
+            "price per use": 28,
+            "sell": 490
+        },
+        "shop": [
+            "plegiacastlecourtyard",
+            "valmharbor",
+            "thetwinshideout",
+            "wyvernvalley"
+        ],
+        "merchant": [
+            "arenaferox",
+            "borderpass",
+            "ylisstol",
+            "breakneckpass",
+            "bordersands",
+            "thefarfort",
+            "thetwinsturf",
+            "peacefulvillage"
+        ],
+        "spotpass": [
+            "Boey",
+            "Jamke",
+            "Ulster",
+            "Raigh",
+            "Sophia",
+            "Serra",
+            "Moulder",
+            "Titania"
+        ],
+        "type": "axe"
+    },
+    "silveraxe": {
+        "name": "Silver Axe",
+        "desc": "Expensive, but extremely powerful.",
+        "weapon": true,
+        "price_use": 58,
+        "stats": {
+            "rank": "B",
+            "mt": 15,
+            "hit": 65,
+            "uses": 30,
+            "rng": 1,
+            "price": 1740,
+            "price per use": 58,
+            "sell": 870
+        },
+        "shop": [
+            "valmharbor",
+            "fortsteiger",
+            "valmcastle",
+            "wyvernvalley",
+            "seakingsthrone"
+        ],
+        "merchant": [
+            "plegiacastlecourtyard",
+            "themidmire",
+            "borderwastes",
+            "portferox",
+            "carrionisle",
+            "thetwinshideout",
+            "sageshamlet",
+            "verdantforest",
+            "kidnapperskeep"
+        ],
+        "spotpass": [
+            "Tiki",
+            "Minerva",
+            "Ogma",
+            "Mycen",
+            "Deen",
+            "Alm",
+            "Celica",
+            "Horace",
+            "Etzel",
+            "Hardin",
+            "King Marth",
+            "Lewyn",
+            "Altena",
+            "Ced",
+            "Ares",
+            "Seliph",
+            "Eyvel",
+            "Saias",
+            "Mareeta",
+            "Raydrik",
+            "Leif",
+            "Lilina",
+            "Roy",
+            "Karel",
+            "Lyn",
+            "Hector",
+            "Eliwood",
+            "Seth",
+            "Titania",
+            "Geoffrey",
+            "Lucia",
+            "Ashnard",
+            "Ike",
+            "Black Knight",
+            "Travant",
+            "Narcian",
+            "Lloyd",
+            "Linus",
+            "Ursula",
+            "Selena",
+            "Petrine"
+        ],
+        "type": "axe"
+    },
+    "braveaxe": {
+        "name": "Brave Axe",
+        "desc": "Allows the wielder to strike twice.",
+        "weapon": true,
+        "price_use": 80,
+        "stats": {
+            "rank": "A",
+            "mt": 12,
+            "hit": 60,
+            "uses": 30,
+            "rng": 1,
+            "price": 2400,
+            "price per use": 80,
+            "sell": 1200
+        },
+        "shop": [
+            "originpeak",
+            "seakingsthrone"
+        ],
+        "merchant": [
+            "thedemonsingle",
+            "valmcastleapproach",
+            "valmcastle",
+            "plegiacastle",
+            "tableapproach",
+            "thedragonstable",
+            "sageshamlet",
+            "verdantforest",
+            "wyvernvalley",
+            "kidnapperskeep",
+            "divinedragongrounds"
+        ],
+        "spotpass": [
+            "Sigurd",
+            "Larcei",
+            "Leif",
+            "Zephiel",
+            "Nergal",
+            "Ephraim",
+            "Ashnard",
+            "Ike",
+            "Black Knight",
+            "Sephiran",
+            "Micaiah",
+            "Travant",
+            "Lloyd",
+            "Linus",
+            "Ursula",
+            "Petrine",
+            "Oliver"
+        ],
+        "type": "axe"
+    },
+    "handaxe": {
+        "name": "Hand Axe",
+        "desc": "A weak throwing axe used for indirect attacks.",
+        "weapon": true,
+        "price_use": 30,
+        "stats": {
+            "rank": "D",
+            "mt": 3,
+            "hit": 70,
+            "uses": 25,
+            "rng": "1-2",
+            "price": 750,
+            "price per use": 30,
+            "sell": 375
+        },
+        "shop": [
+            "breakneckpass",
+            "themidmire",
+            "valmharbor",
+            "plegiacastle",
+            "thetwinsturf",
+            "wyvernvalley"
+        ],
+        "merchant": [],
+        "spotpass": [
+            "Clair",
+            "Dagdar",
+            "Nino",
+            "Serra",
+            "Moulder",
+            "Mia",
+            "Nephenee"
+        ],
+        "type": "axe"
+    },
+    "shortaxe": {
+        "name": "Short Axe",
+        "desc": "An average throwing axe used for indirect attacks.",
+        "weapon": true,
+        "price_use": 70,
+        "stats": {
+            "rank": "C",
+            "mt": 7,
+            "hit": 65,
+            "uses": 25,
+            "rng": "1-2",
+            "price": 1750,
+            "price per use": 70,
+            "sell": 875
+        },
+        "shop": [
+            "gardenofgiants"
+        ],
+        "merchant": [
+            "carrionisle",
+            "thesearoad",
+            "themilatree",
+            "thetwinshideout"
+        ],
+        "spotpass": [
+            "Tiki",
+            "Altena",
+            "Ced",
+            "Raigh",
+            "Karel",
+            "Hector",
+            "Titania"
+        ],
+        "type": "axe"
+    },
+    "tomahawk": {
+        "name": "Tomahawk",
+        "desc": "A powerful throwing axe used for indirect attacks.",
+        "weapon": true,
+        "price_use": 102,
+        "stats": {
+            "rank": "B",
+            "mt": 10,
+            "hit": 60,
+            "uses": 25,
+            "rng": "1-2",
+            "price": 2550,
+            "price per use": 102,
+            "sell": 1275
+        },
+        "shop": [],
+        "merchant": [
+            "thedemonsingle",
+            "valmcastle"
+        ],
+        "spotpass": [
+            "Ogma",
+            "Deen",
+            "Saias",
+            "Leif",
+            "Eliwood",
+            "L'Arachel",
+            "Ashnard",
+            "Travant"
+        ],
+        "type": "axe"
+    },
+    "hammer": {
+        "name": "Hammer",
+        "desc": "Effective against armored units.",
+        "weapon": true,
+        "price_use": 74,
+        "stats": {
+            "rank": "D",
+            "mt": 10,
+            "hit": 60,
+            "uses": 25,
+            "rng": 1,
+            "price": 1850,
+            "price per use": 74,
+            "sell": 925
+        },
+        "shop": [
+            "seakingsthrone"
+        ],
+        "merchant": [
+            "southtown",
+            "ylisstol",
+            "bordersands",
+            "valmharbor",
+            "fortsteiger",
+            "tableapproach",
+            "thetwinsturf",
+            "greatgate",
+            "milashrineruins",
+            "duelinggrounds",
+            "mercenaryfortress",
+            "theruinsoftime",
+            "desertoasis",
+            "manoroflostsouls"
+        ],
+        "spotpass": [
+            "Ogma",
+            "Mycen",
+            "Jamke",
+            "Dagdar",
+            "Mareeta",
+            "Lute",
+            "Lucia",
+            "Sephiran",
+            "Micaiah"
+        ],
+        "type": "axe",
+        "equip": {
+            "effective": true
+        }
+    },
+    "boltaxe": {
+        "name": "Bolt Axe",
+        "desc": "Deals magical damage based on Mag.",
+        "weapon": true,
+        "price_use": 64,
+        "stats": {
+            "rank": "B",
+            "mt": 14,
+            "hit": 70,
+            "crit": 5,
+            "uses": 30,
+            "rng": "1-2",
+            "price": 1920,
+            "price per use": 64,
+            "sell": 960
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [
+            "L'Arachel"
+        ],
+        "type": "axe",
+        "equip": {
+            "magical": true
+        }
+    },
+    "killeraxe": {
+        "name": "Killer Axe",
+        "desc": "Increases the likelihood of critical hits.",
+        "weapon": true,
+        "price_use": 62,
+        "stats": {
+            "rank": "C",
+            "mt": 12,
+            "hit": 70,
+            "crit": 30,
+            "uses": 30,
+            "rng": 1,
+            "price": 1860,
+            "price per use": 62,
+            "sell": 930
+        },
+        "shop": [
+            "valmcastle",
+            "wyvernvalley"
+        ],
+        "merchant": [
+            "portferox",
+            "thesearoad",
+            "valmharbor",
+            "themilatree",
+            "fortsteiger",
+            "valmcastleapproach",
+            "thedragonstable",
+            "greatgate",
+            "milashrineruins",
+            "duelinggrounds",
+            "mercenaryfortress",
+            "theruinsoftime",
+            "lawsend",
+            "desertoasis",
+            "manoroflostsouls"
+        ],
+        "spotpass": [
+            "Ogma",
+            "Prince Marth",
+            "Luthier",
+            "Legion",
+            "Mareeta",
+            "Leif",
+            "Sophia",
+            "Zephiel",
+            "Karel",
+            "Moulder",
+            "Micaiah",
+            "Linus"
+        ],
+        "type": "axe"
+    },
+    "vengeance": {
+        "name": "Vengeance",
+        "desc": "May add half the wielder's accrued damage to attacks. Trigger % = (Skill stat \u00d7 2)",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 16,
+            "hit": 75,
+            "crit": 5,
+            "uses": 30,
+            "rng": 1
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "axe"
+    },
+    "wolfberg": {
+        "name": "Wolf Berg",
+        "desc": "Walhart only. The Conqueror's greataxe.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 18,
+            "hit": 75,
+            "crit": 5,
+            "uses": 35,
+            "rng": "1-2"
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "axe"
+    },
+    "hauteclere": {
+        "name": "Hauteclere",
+        "desc": "Use this to fully restore HP. A timeless weapon.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 21,
+            "hit": 70,
+            "crit": 5,
+            "uses": 25,
+            "rng": 1
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "axe"
+    },
+    "helswath": {
+        "name": "Helswath",
+        "desc": "Def +5. A timeless weapon.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 18,
+            "hit": 60,
+            "crit": 10,
+            "uses": 25,
+            "rng": "1-2"
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "axe",
+        "equip": {
+            "stats": {"def": 5}
+        }
+    },
+    "armads": {
+        "name": "Armads",
+        "desc": "Def +5. A timeless weapon.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 17,
+            "hit": 80,
+            "crit": 10,
+            "uses": 25,
+            "rng": 1
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "axe",
+        "equip": {
+            "stats": {"def": 5}
+        }
+    },
+    "ladle": {
+        "name": "Ladle",
+        "desc": "Weak and ill suited for battle.",
+        "weapon": true,
+        "price_use": 5,
+        "stats": {
+            "rank": "E",
+            "mt": 1,
+            "hit": 80,
+            "uses": 20,
+            "rng": 1,
+            "price": 100,
+            "price per use": 5,
+            "sell": 25
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "axe"
+    },
+    "imposingaxe": {
+        "name": "Imposing Axe",
+        "desc": "An absurdly broad axe.",
+        "weapon": true,
+        "price_use": 83,
+        "stats": {
+            "rank": "D",
+            "mt": 14,
+            "hit": 35,
+            "crit": 10,
+            "uses": 10,
+            "rng": 1,
+            "price": 830,
+            "price per use": 83,
+            "sell": 207
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [
+            "Malice"
+        ],
+        "type": "axe"
+    },
+    "volantaxe": {
+        "name": "Volant Axe",
+        "desc": "Designed to be thrown skyward. Effective against fliers.",
+        "weapon": true,
+        "price_use": 151,
+        "stats": {
+            "rank": "C",
+            "mt": 8,
+            "hit": 55,
+            "uses": 10,
+            "rng": "1-2",
+            "price": 1510,
+            "price per use": 151,
+            "sell": 377
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "axe",
+        "equip": {
+            "effective": true
+        }
+    },
+    "glassaxe": {
+        "name": "Glass Axe",
+        "desc": "Powerful, but quick to break.",
+        "weapon": true,
+        "price_use": 200,
+        "stats": {
+            "rank": "E",
+            "mt": 15,
+            "hit": 65,
+            "uses": 3,
+            "rng": 1,
+            "price": 600,
+            "price per use": 200,
+            "sell": 150
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "axe"
+    },
+    "superioraxe": {
+        "name": "Superior Axe",
+        "desc": "Hit/Avo +50 when the enemy has an axe equipped.",
+        "weapon": true,
+        "price_use": 215,
+        "stats": {
+            "rank": "B",
+            "mt": 15,
+            "hit": 60,
+            "uses": 10,
+            "rng": 1,
+            "price": 2150,
+            "price per use": 215,
+            "sell": 537
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "axe"
+    },
+    "titaniasaxe": {
+        "name": "Titania's Axe",
+        "desc": "Hit/Avo +10 when under attack. A radiant weapon.",
+        "weapon": true,
+        "price_use": 66,
+        "stats": {
+            "rank": "C",
+            "mt": 12,
+            "hit": 80,
+            "crit": 10,
+            "uses": 20,
+            "rng": 1,
+            "price": 1320,
+            "price per use": 66,
+            "sell": 330
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [
+            "Titania"
+        ],
+        "type": "axe"
+    },
+    "orsinshatchet": {
+        "name": "Orsin's Hatchet",
+        "desc": "A fabled throwing axe.",
+        "weapon": true,
+        "price_use": 48,
+        "stats": {
+            "rank": "D",
+            "mt": 4,
+            "hit": 85,
+            "crit": 5,
+            "uses": 20,
+            "rng": "1-2",
+            "price": 960,
+            "price per use": 48,
+            "sell": 240
+        },
+        "ALT_NAME": [
+            "Vouge",
+            "Vogue",
+            "Pugi",
+            "Bhuj",
+            "Osian's Hatchet",
+            "Othin's Hatchet",
+            "Osian Hatchet",
+            "Othin Hatchet"
+        ],
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "axe"
+    },
+    "hectorsaxe": {
+        "name": "Hector's Axe",
+        "desc": "Str/Def +2. A heroic weapon.",
+        "weapon": true,
+        "price_use": 134,
+        "stats": {
+            "rank": "B",
+            "mt": 15,
+            "hit": 75,
+            "crit": 15,
+            "uses": 15,
+            "rng": 1,
+            "price": 2010,
+            "price per use": 134,
+            "sell": 502
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [
+            "Hector",
+            "Eliwood"
+        ],
+        "type": "axe",
+        "equip": {
+            "stats": {"str": 2, "def": 2}
+        }
+    },
+    "bronzebow": {
+        "name": "Bronze Bow",
+        "desc": "Inexpensive, but low in power.",
+        "weapon": true,
+        "price_use": 7,
+        "stats": {
+            "rank": "E",
+            "mt": 3,
+            "hit": 90,
+            "uses": 50,
+            "rng": 2,
+            "price": 350,
+            "price per use": 7,
+            "sell": 175
+        },
+        "shop": [
+            "southtown"
+        ],
+        "merchant": [],
+        "spotpass": [
+            "Mist"
+        ],
+        "type": "bow",
+        "equip": {
+            "effective": true
+        }
+    },
+    "ironbow": {
+        "name": "Iron Bow",
+        "desc": "Affordable and easy to wield.",
+        "weapon": true,
+        "price_use": 14,
+        "stats": {
+            "rank": "D",
+            "mt": 6,
+            "hit": 85,
+            "uses": 40,
+            "rng": 2,
+            "price": 560,
+            "price per use": 14,
+            "sell": 280
+        },
+        "shop": [
+            "arenaferox",
+            "breakneckpass",
+            "borderwastes",
+            "thefarfort",
+            "kidnapperskeep"
+        ],
+        "merchant": [
+            "southtown",
+            "westofylisstol",
+            "thenorthroad",
+            "thelongfort"
+        ],
+        "spotpass": [
+            "Norne",
+            "Nanna",
+            "Florina",
+            "Lute",
+            "Leonardo",
+            "Nephenee"
+        ],
+        "type": "bow",
+        "equip": {
+            "effective": true
+        }
+    },
+    "steelbow": {
+        "name": "Steel Bow",
+        "desc": "More powerful than its iron brother.",
+        "weapon": true,
+        "price_use": 26,
+        "stats": {
+            "rank": "C",
+            "mt": 9,
+            "hit": 80,
+            "uses": 35,
+            "rng": 2,
+            "price": 910,
+            "price per use": 26,
+            "sell": 455
+        },
+        "shop": [
+            "plegiacastlecourtyard",
+            "thesearoad",
+            "thetwinshideout",
+            "kidnapperskeep"
+        ],
+        "merchant": [
+            "arenaferox",
+            "borderpass",
+            "ylisstol",
+            "breakneckpass",
+            "bordersands",
+            "thefarfort",
+            "thetwinsturf",
+            "peacefulvillage"
+        ],
+        "spotpass": [
+            "Linde",
+            "Catria",
+            "Jamke",
+            "Ulster",
+            "Nephenee"
+        ],
+        "type": "bow",
+        "equip": {
+            "effective": true
+        }
+    },
+    "silverbow": {
+        "name": "Silver Bow",
+        "desc": "Expensive, but extremely powerful.",
+        "weapon": true,
+        "price_use": 52,
+        "stats": {
+            "rank": "B",
+            "mt": 13,
+            "hit": 75,
+            "uses": 30,
+            "rng": 2,
+            "price": 1560,
+            "price per use": 52,
+            "sell": 780
+        },
+        "shop": [
+            "thesearoad",
+            "fortsteiger",
+            "valmcastleapproach",
+            "kidnapperskeep",
+            "mountainvillage"
+        ],
+        "merchant": [
+            "plegiacastlecourtyard",
+            "themidmire",
+            "borderwastes",
+            "portferox",
+            "carrionisle",
+            "thetwinshideout",
+            "sageshamlet",
+            "verdantforest",
+            "wyvernvalley"
+        ],
+        "spotpass": [
+            "Nyna",
+            "Navarre",
+            "Luthier",
+            "Clive",
+            "Alm",
+            "Athena",
+            "Quan",
+            "Sigurd",
+            "Seliph",
+            "Eyvel",
+            "Saias",
+            "Mareeta",
+            "Perceval",
+            "Roy",
+            "Lyn",
+            "Seth",
+            "Geoffrey",
+            "Lucia",
+            "Sothe",
+            "Black Knight",
+            "Camus",
+            "Ishtar",
+            "Narcian",
+            "Ursula"
+        ],
+        "type": "bow",
+        "equip": {
+            "effective": true
+        }
+    },
+    "bravebow": {
+        "name": "Brave Bow",
+        "desc": "Allows the wielder to strike twice.",
+        "weapon": true,
+        "price_use": 74,
+        "stats": {
+            "rank": "A",
+            "mt": 10,
+            "hit": 70,
+            "uses": 30,
+            "rng": 2,
+            "price": 2220,
+            "price per use": 74,
+            "sell": 1110
+        },
+        "shop": [
+            "originpeak",
+            "mountainvillage"
+        ],
+        "merchant": [
+            "thedemonsingle",
+            "valmcastleapproach",
+            "valmcastle",
+            "plegiacastle",
+            "tableapproach",
+            "thedragonstable",
+            "sageshamlet",
+            "verdantforest",
+            "wyvernvalley",
+            "kidnapperskeep",
+            "divinedragongrounds"
+        ],
+        "spotpass": [
+            "Hardin",
+            "Julius",
+            "Zephiel",
+            "Nergal",
+            "Ike",
+            "Camus",
+            "Ishtar"
+        ],
+        "type": "bow",
+        "equip": {
+            "effective": true
+        }
+    },
+    "blessedbow": {
+        "name": "Blessed Bow",
+        "desc": "Restores 10 HP every turn.",
+        "weapon": true,
+        "price_use": 44,
+        "stats": {
+            "rank": "C",
+            "mt": 11,
+            "hit": 70,
+            "uses": 35,
+            "rng": 2,
+            "price": 1540,
+            "price per use": 44,
+            "sell": 770
+        },
+        "shop": [
+            "mountainvillage"
+        ],
+        "merchant": [
+            "thenorthroad",
+            "plegiacastlecourtyard",
+            "thesearoad",
+            "themilatree",
+            "tableapproach",
+            "greatgate",
+            "milashrineruins",
+            "duelinggrounds",
+            "theruinsoftime",
+            "lawsend",
+            "desertoasis",
+            "manoroflostsouls"
+        ],
+        "spotpass": [
+            "Luthier",
+            "Jamke"
+        ],
+        "type": "bow",
+        "equip": {
+            "effective": true
+        }
+    },
+    "killerbow": {
+        "name": "Killer Bow",
+        "desc": "Increases the likelihood of critical hits.",
+        "weapon": true,
+        "price_use": 56,
+        "stats": {
+            "rank": "C",
+            "mt": 10,
+            "hit": 80,
+            "crit": 30,
+            "uses": 30,
+            "rng": 2,
+            "price": 1680,
+            "price per use": 56,
+            "sell": 840
+        },
+        "shop": [
+            "valmcastleapproach",
+            "kidnapperskeep"
+        ],
+        "merchant": [
+            "borderwastes",
+            "portferox",
+            "thesearoad",
+            "valmharbor",
+            "themilatree",
+            "fortsteiger",
+            "valmcastleapproach",
+            "valmcastle",
+            "greatgate",
+            "milashrineruins",
+            "duelinggrounds",
+            "mercenaryfortress",
+            "theruinsoftime",
+            "lawsend",
+            "desertoasis",
+            "manoroflostsouls"
+        ],
+        "spotpass": [
+            "Linde",
+            "Malice",
+            "Katarina",
+            "Jamke",
+            "Quan",
+            "Mareeta",
+            "Jaffar",
+            "Lyn",
+            "Lute",
+            "Lucia",
+            "Ike",
+            "Nephenee"
+        ],
+        "type": "bow",
+        "equip": {
+            "effective": true
+        }
+    },
+    "longbow": {
+        "name": "Longbow",
+        "desc": "Archer/Sniper only. Allows for long-range attacks.",
+        "weapon": true,
+        "price_use": 86,
+        "stats": {
+            "rank": "C",
+            "mt": 9,
+            "hit": 70,
+            "uses": 25,
+            "rng": "2-3",
+            "price": 2150,
+            "price per use": 86,
+            "sell": 1075
+        },
+        "shop": [
+            "gardenofgiants"
+        ],
+        "merchant": [
+            "plegiacastle",
+            "thedragonstable"
+        ],
+        "spotpass": [
+            "Prince Marth",
+            "Julia",
+            "Mareeta",
+            "Zephiel",
+            "Ike"
+        ],
+        "type": "bow",
+        "equip": {
+            "effective": true
+        }
+    },
+    "astra": {
+        "name": "Astra",
+        "desc": "May allow the wielder to strike five times at half damage. Trigger % = (Skill stat \u00f7 2)",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 14,
+            "hit": 75,
+            "crit": 5,
+            "uses": 30,
+            "rng": 2
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "bow",
+        "equip": {
+            "effective": true
+        }
+    },
+    "parthia": {
+        "name": "Parthia",
+        "desc": "One of the Three Regalia. Use it to boost Res by 5.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 19,
+            "hit": 95,
+            "crit": 5,
+            "uses": 25,
+            "rng": 2
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "bow",
+        "equip": {
+            "effective": true
+        }
+    },
+    "yewfelle": {
+        "name": "Yewfelle",
+        "desc": "Spd +5. A timeless weapon.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 15,
+            "hit": 85,
+            "crit": 10,
+            "uses": 25,
+            "rng": 2
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "bow",
+        "equip": {
+            "effective": true,
+            "stats": {"spd": 5}
+        }
+    },
+    "nidhogg": {
+        "name": "Nidhogg",
+        "desc": "Lck +10. Also known as the Serpent Bow.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 16,
+            "hit": 75,
+            "crit": 10,
+            "uses": 25,
+            "rng": 2
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "bow",
+        "equip": {
+            "effective": true,
+            "stats": {"spd": 10}
+        }
+    },
+    "doublebow": {
+        "name": "Double Bow",
+        "desc": "Archer/Sniper only. Str +5.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 13,
+            "hit": 70,
+            "crit": 10,
+            "uses": 25,
+            "rng": "2-3"
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "bow",
+        "equip": {
+            "effective": true,
+            "stats": {"str": 5}
+        }
+    },
+    "slackbow": {
+        "name": "Slack Bow",
+        "desc": "Weak and ill suited for battle.",
+        "weapon": true,
+        "price_use": 5,
+        "stats": {
+            "rank": "E",
+            "mt": 1,
+            "hit": 90,
+            "uses": 20,
+            "rng": 2,
+            "price": 100,
+            "price per use": 5,
+            "sell": 25
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "bow",
+        "equip": {
+            "effective": true
+        }
+    },
+    "toweringbow": {
+        "name": "Towering Bow",
+        "desc": "Archer/Sniper only. An absurdly tall bow.",
+        "weapon": true,
+        "price_use": 81,
+        "stats": {
+            "rank": "D",
+            "mt": 3,
+            "hit": 80,
+            "uses": 10,
+            "rng": "2-3",
+            "price": 810,
+            "price per use": 81,
+            "sell": 202
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "bow",
+        "equip": {
+            "effective": true
+        }
+    },
+    "underdogbow": {
+        "name": "Underdog Bow",
+        "desc": "Gains power when the enemy's level is higher.",
+        "weapon": true,
+        "price_use": 66,
+        "stats": {
+            "rank": "D",
+            "mt": 9,
+            "hit": 75,
+            "crit": 5,
+            "uses": 15,
+            "rng": 2,
+            "price": 990,
+            "price per use": 66,
+            "sell": 247
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "bow",
+        "equip": {
+            "effective": true
+        }
+    },
+    "glassbow": {
+        "name": "Glass Bow",
+        "desc": "Powerful, but quick to break.",
+        "weapon": true,
+        "price_use": 200,
+        "stats": {
+            "rank": "E",
+            "mt": 13,
+            "hit": 75,
+            "uses": 3,
+            "rng": 2,
+            "price": 600,
+            "price per use": 200,
+            "sell": 150
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "bow",
+        "equip": {
+            "effective": true
+        }
+    },
+    "superiorbow": {
+        "name": "Superior Bow",
+        "desc": "Hit/Avo +50 when the enemy has a bow equipped.",
+        "weapon": true,
+        "price_use": 216,
+        "stats": {
+            "rank": "B",
+            "mt": 13,
+            "hit": 70,
+            "uses": 10,
+            "rng": 2,
+            "price": 2160,
+            "price per use": 216,
+            "sell": 540
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "bow",
+        "equip": {
+            "effective": true
+        }
+    },
+    "woltsbow": {
+        "name": "Wolt's Bow",
+        "desc": "Use this to restore 20 HP.",
+        "weapon": true,
+        "price_use": 38,
+        "stats": {
+            "rank": "C",
+            "mt": 10,
+            "hit": 85,
+            "crit": 5,
+            "uses": 25,
+            "rng": 2,
+            "price": 950,
+            "price per use": 38,
+            "sell": 237
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [
+            "Wolt"
+        ],
+        "type": "bow",
+        "equip": {
+            "effective": true
+        }
+    },
+    "innesbow": {
+        "name": "Innes' Bow",
+        "desc": "A heroic weapon. Rarely misses.",
+        "weapon": true,
+        "price_use": 114,
+        "stats": {
+            "rank": "B",
+            "mt": 13,
+            "hit": 115,
+            "crit": 10,
+            "uses": 15,
+            "rng": 2,
+            "price": 1710,
+            "price per use": 114,
+            "sell": 427
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [
+            "Innes"
+        ],
+        "type": "bow",
+        "equip": {
+            "effective": true
+        }
+    },
+    "fire": {
+        "name": "Fire",
+        "desc": "Standard fire magic.",
+        "weapon": true,
+        "price_use": 12,
+        "stats": {
+            "rank": "E",
+            "mt": 2,
+            "hit": 90,
+            "uses": 45,
+            "rng": "1-2",
+            "price": 540,
+            "price per use": 12,
+            "sell": 270
+        },
+        "shop": [
+            "southtown",
+            "thenorthroad",
+            "breakneckpass",
+            "borderwastes",
+            "thetwinsturf"
+        ],
+        "merchant": [],
+        "spotpass": [
+            "Caeda",
+            "Norne",
+            "Deirdre",
+            "Arthur",
+            "Lugh",
+            "Soren"
+        ],
+        "type": "tome"
+    },
+    "elfire": {
+        "name": "Elfire",
+        "desc": "Powerful fire magic.",
+        "weapon": true,
+        "price_use": 28,
+        "stats": {
+            "rank": "D",
+            "mt": 5,
+            "hit": 85,
+            "uses": 35,
+            "rng": "1-2",
+            "price": 980,
+            "price per use": 28,
+            "sell": 490
+        },
+        "shop": [
+            "carrionisle",
+            "desertoasis"
+        ],
+        "merchant": [
+            "arenaferox",
+            "themidmire"
+        ],
+        "spotpass": [
+            "Caeda",
+            "Boey",
+            "Ulster",
+            "Lugh",
+            "Nino",
+            "Matthew"
+        ],
+        "type": "tome"
+    },
+    "arcfire": {
+        "name": "Arcfire",
+        "desc": "Extremely powerful fire magic.",
+        "weapon": true,
+        "price_use": 48,
+        "stats": {
+            "rank": "C",
+            "mt": 8,
+            "hit": 80,
+            "uses": 30,
+            "rng": "1-2",
+            "price": 1440,
+            "price per use": 48,
+            "sell": 720
+        },
+        "shop": [
+            "fortsteiger",
+            "plegiacastle",
+            "divinedragongrounds"
+        ],
+        "merchant": [
+            "portferox",
+            "sageshamlet"
+        ],
+        "spotpass": [
+            "Merric",
+            "Valbar",
+            "Horace",
+            "Etzel",
+            "Cecilia",
+            "Serra",
+            "Lute",
+            "Zihark",
+            "Sanaki"
+        ],
+        "type": "tome"
+    },
+    "bolganone": {
+        "name": "Bolganone",
+        "desc": "Devastating fire magic.",
+        "weapon": true,
+        "price_use": 80,
+        "stats": {
+            "rank": "B",
+            "mt": 12,
+            "hit": 75,
+            "uses": 25,
+            "rng": "1-2",
+            "price": 2000,
+            "price per use": 80,
+            "sell": 1000
+        },
+        "shop": [
+            "mountprism",
+            "warriorstomb"
+        ],
+        "merchant": [
+            "valmcastleapproach",
+            "tableapproach",
+            "verdantforest",
+            "wyvernvalley",
+            "divinedragongrounds"
+        ],
+        "spotpass": [
+            "Merric",
+            "Gharnef",
+            "Nomah",
+            "Arvis",
+            "Ares",
+            "Saias",
+            "Lilina",
+            "Jaffar",
+            "Lyon",
+            "Ephraim",
+            "Sigrun",
+            "Sephiran",
+            "Narcian",
+            "Ursula",
+            "Oliver"
+        ],
+        "type": "tome"
+    },
+    "valflame": {
+        "name": "Valflame",
+        "desc": "Mag +5. Timeless fire magic.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 16,
+            "hit": 80,
+            "crit": 10,
+            "uses": 25,
+            "rng": "1-2"
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "tome",
+        "equip": {
+            "stats": {"mag": 5}
+        }
+    },
+    "thunder": {
+        "name": "Thunder",
+        "desc": "Standard lightning magic.",
+        "weapon": true,
+        "price_use": 14,
+        "stats": {
+            "rank": "E",
+            "mt": 3,
+            "hit": 80,
+            "crit": 5,
+            "uses": 45,
+            "rng": "1-2",
+            "price": 630,
+            "price per use": 14,
+            "sell": 315
+        },
+        "shop": [
+            "thenorthroad",
+            "arenaferox",
+            "borderwastes",
+            "thetwinsturf"
+        ],
+        "merchant": [],
+        "spotpass": [
+            "Caeda",
+            "Norne",
+            "Deirdre",
+            "Arthur",
+            "Soren"
+        ],
+        "type": "tome"
+    },
+    "elthunder": {
+        "name": "Elthunder",
+        "desc": "Powerful lightning magic.",
+        "weapon": true,
+        "price_use": 30,
+        "stats": {
+            "rank": "D",
+            "mt": 6,
+            "hit": 75,
+            "crit": 5,
+            "uses": 35,
+            "rng": "1-2",
+            "price": 1050,
+            "price per use": 30,
+            "sell": 525
+        },
+        "shop": [
+            "carrionisle",
+            "desertoasis"
+        ],
+        "merchant": [
+            "borderpass",
+            "breakneckpass",
+            "thefarfort"
+        ],
+        "spotpass": [
+            "Nyna",
+            "Boey"
+        ],
+        "type": "tome"
+    },
+    "arcthunder": {
+        "name": "Arcthunder",
+        "desc": "Extremely powerful lightning magic.",
+        "weapon": true,
+        "price_use": 54,
+        "stats": {
+            "rank": "C",
+            "mt": 10,
+            "hit": 70,
+            "crit": 10,
+            "uses": 30,
+            "rng": "1-2",
+            "price": 1620,
+            "price per use": 54,
+            "sell": 810
+        },
+        "shop": [
+            "plegiacastle",
+            "divinedragongrounds"
+        ],
+        "merchant": [
+            "borderwastes",
+            "themilatree",
+            "thetwinshideout",
+            "verdantforest"
+        ],
+        "spotpass": [
+            "Linde",
+            "Merric",
+            "Minerva",
+            "Valbar",
+            "Nomah",
+            "Horace",
+            "Ethlyn",
+            "Olwen",
+            "Cecilia"
+        ],
+        "type": "tome"
+    },
+    "thoron": {
+        "name": "Thoron",
+        "desc": "Devastating lightning magic.",
+        "weapon": true,
+        "price_use": 88,
+        "stats": {
+            "rank": "B",
+            "mt": 14,
+            "hit": 65,
+            "crit": 10,
+            "uses": 25,
+            "rng": "1-2",
+            "price": 2200,
+            "price per use": 88,
+            "sell": 1100
+        },
+        "shop": [
+            "mountprism",
+            "conquerorswhetstone"
+        ],
+        "merchant": [
+            "thedemonsingle",
+            "plegiacastle",
+            "sageshamlet",
+            "divinedragongrounds"
+        ],
+        "spotpass": [
+            "Gharnef",
+            "Alm",
+            "Arvis",
+            "Sigurd",
+            "Seliph",
+            "Lilina",
+            "Nergal",
+            "Lyon",
+            "Ephraim",
+            "Elincia",
+            "Sigrun",
+            "Sephiran",
+            "Narcian",
+            "Selena",
+            "Oliver"
+        ],
+        "type": "tome"
+    },
+    "mjolnir": {
+        "name": "Mj\u00f6lnir",
+        "desc": "Skill +5. Timeless lightning magic.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 18,
+            "hit": 70,
+            "crit": 20,
+            "uses": 25,
+            "rng": "1-2"
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "tome",
+        "equip": {
+            "stats": {"skl": 5}
+        }
+    },
+    "wind": {
+        "name": "Wind",
+        "desc": "Standard wind magic.",
+        "weapon": true,
+        "price_use": 10,
+        "stats": {
+            "rank": "E",
+            "mt": 1,
+            "hit": 100,
+            "uses": 45,
+            "rng": "1-2",
+            "price": 450,
+            "price per use": 10,
+            "sell": 225
+        },
+        "shop": [
+            "thenorthroad",
+            "borderpass",
+            "borderwastes",
+            "thetwinsturf"
+        ],
+        "merchant": [],
+        "spotpass": [
+            "Arthur",
+            "Mist",
+            "Soren"
+        ],
+        "type": "tome",
+        "equip": {
+            "effective": true
+        }
+    },
+    "elwind": {
+        "name": "Elwind",
+        "desc": "Powerful wind magic.",
+        "weapon": true,
+        "price_use": 26,
+        "stats": {
+            "rank": "D",
+            "mt": 4,
+            "hit": 95,
+            "uses": 35,
+            "rng": "1-2",
+            "price": 910,
+            "price per use": 26,
+            "sell": 455
+        },
+        "shop": [
+            "carrionisle",
+            "desertoasis"
+        ],
+        "merchant": [
+            "ylisstol",
+            "bordersands",
+            "thetwinsturf"
+        ],
+        "spotpass": [
+            "Arthur",
+            "Matthew",
+            "Soren"
+        ],
+        "type": "tome",
+        "equip": {
+            "effective": true
+        }
+    },
+    "arcwind": {
+        "name": "Arcwind",
+        "desc": "Extremely powerful wind magic.",
+        "weapon": true,
+        "price_use": 44,
+        "stats": {
+            "rank": "C",
+            "mt": 6,
+            "hit": 90,
+            "uses": 30,
+            "rng": "1-2",
+            "price": 1320,
+            "price per use": 44,
+            "sell": 660
+        },
+        "shop": [
+            "plegiacastle",
+            "divinedragongrounds"
+        ],
+        "merchant": [
+            "carrionisle",
+            "valmharbor",
+            "kidnapperskeep"
+        ],
+        "spotpass": [
+            "Nomah",
+            "Etzel",
+            "Ced",
+            "Cecilia",
+            "Zihark"
+        ],
+        "type": "tome",
+        "equip": {
+            "effective": true
+        }
+    },
+    "rexcalibur": {
+        "name": "Rexcalibur",
+        "desc": "Devastating wind magic.",
+        "weapon": true,
+        "price_use": 76,
+        "stats": {
+            "rank": "B",
+            "mt": 10,
+            "hit": 85,
+            "uses": 25,
+            "rng": "1-2",
+            "price": 1900,
+            "price per use": 76,
+            "sell": 950
+        },
+        "shop": [
+            "mountprism",
+            "mountainvillage"
+        ],
+        "merchant": [
+            "fortsteiger",
+            "thedragonstable",
+            "kidnapperskeep",
+            "divinedragongrounds"
+        ],
+        "spotpass": [
+            "Gharnef",
+            "Luthier",
+            "Ayra",
+            "Lewyn",
+            "Sigurd",
+            "Julius",
+            "Raydrik",
+            "Cecilia",
+            "Lilina",
+            "Nergal",
+            "Lyon",
+            "Elincia",
+            "Geoffrey",
+            "Lucia",
+            "Ike",
+            "Sephiran",
+            "Ishtar"
+        ],
+        "type": "tome",
+        "equip": {
+            "effective": true
+        }
+    },
+    "forseti": {
+        "name": "Forseti",
+        "desc": "Spd +5. Timeless wind magic.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 14,
+            "hit": 90,
+            "crit": 10,
+            "uses": 25,
+            "rng": "1-2"
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "tome",
+        "equip": {
+            "stats": {"spd": 5},
+            "effective": true
+        }
+    },
+    "excalibur": {
+        "name": "Excalibur",
+        "desc": "Timeless wind magic.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 13,
+            "hit": 100,
+            "crit": 30,
+            "uses": 25,
+            "rng": "1-2"
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "tome",
+        "equip": {
+            "effective": true
+        }
+    },
+    "bookofnaga": {
+        "name": "Book of Naga",
+        "desc": "Def/Res +5. Timeless magic. Effective against dragons.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 15,
+            "hit": 80,
+            "crit": 15,
+            "uses": 25,
+            "rng": "1-2"
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "tome",
+        "equip": {
+            "effective": true,
+            "stats": {"def": 5, "res": 5}
+        }
+    },
+    "flux": {
+        "name": "Flux",
+        "desc": "Dark magic.",
+        "weapon": true,
+        "price_use": 12,
+        "stats": {
+            "rank": "E",
+            "mt": 5,
+            "hit": 70,
+            "uses": 45,
+            "rng": "1-2",
+            "price": 540,
+            "price per use": 12,
+            "sell": 270
+        },
+        "shop": [
+            "thenorthroad",
+            "plegiacastlecourtyard",
+            "desertoasis"
+        ],
+        "merchant": [],
+        "spotpass": [
+            "Deirdre",
+            "Wolt"
+        ],
+        "type": "tome"
+    },
+    "nosferatu": {
+        "name": "Nosferatu",
+        "desc": "Dark magic. Absorbs HP equal to half the damage dealt.",
+        "weapon": true,
+        "price_use": 49,
+        "stats": {
+            "rank": "D",
+            "mt": 7,
+            "hit": 65,
+            "uses": 20,
+            "rng": "1-2",
+            "price": 980,
+            "price per use": 49,
+            "sell": 490
+        },
+        "shop": [
+            "carrionisle",
+            "desertoasis",
+            "divinedragongrounds"
+        ],
+        "merchant": [
+            "plegiacastlecourtyard",
+            "peacefulvillage"
+        ],
+        "spotpass": [
+            "Merric",
+            "Deirdre",
+            "Salem",
+            "Raigh",
+            "Sophia"
+        ],
+        "type": "tome"
+    },
+    "ruin": {
+        "name": "Ruin",
+        "desc": "Dark magic. Increases the likelihood of critical hits.",
+        "weapon": true,
+        "price_use": 69,
+        "stats": {
+            "rank": "C",
+            "mt": 4,
+            "hit": 60,
+            "crit": 50,
+            "uses": 20,
+            "rng": "1-2",
+            "price": 1380,
+            "price per use": 69,
+            "sell": 690
+        },
+        "shop": [
+            "valmcastleapproach",
+            "divinedragongrounds"
+        ],
+        "merchant": [
+            "thesearoad",
+            "thetwinshideout",
+            "wyvernvalley"
+        ],
+        "spotpass": [
+            "Merric",
+            "Raydrik",
+            "Sophia"
+        ],
+        "type": "tome"
+    },
+    "waste": {
+        "name": "Waste",
+        "desc": "Dark magic. Allows the wielder to strike twice.",
+        "weapon": true,
+        "price_use": 72,
+        "stats": {
+            "rank": "B",
+            "mt": 10,
+            "hit": 45,
+            "uses": 30,
+            "rng": "1-2",
+            "price": 2160,
+            "price per use": 72,
+            "sell": 1080
+        },
+        "shop": [
+            "mountprism",
+            "mountainvillage"
+        ],
+        "merchant": [
+            "valmcastle",
+            "divinedragongrounds"
+        ],
+        "spotpass": [
+            "Gharnef",
+            "Etzel",
+            "Raydrik",
+            "Lyon",
+            "Oliver"
+        ],
+        "type": "tome"
+    },
+    "goetia": {
+        "name": "Goetia",
+        "desc": "Dark magic.",
+        "weapon": true,
+        "stats": {
+            "rank": "A",
+            "mt": 19,
+            "hit": 75,
+            "crit": 10,
+            "uses": 25,
+            "rng": "1-2"
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "tome"
+    },
+    "grimastruth": {
+        "name": "Grima's Truth",
+        "desc": "Dark magic. Channels Grima's power.",
+        "weapon": true,
+        "stats": {
+            "rank": "B",
+            "mt": 12,
+            "hit": 80,
+            "rng": "1-2"
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "tome"
+    },
+    "mire": {
+        "name": "Mire",
+        "desc": "Dark magic. Allows for long-range attacks.",
+        "weapon": true,
+        "price_use": 200,
+        "stats": {
+            "rank": "C",
+            "mt": 10,
+            "hit": 65,
+            "uses": 10,
+            "rng": "3-10",
+            "price": 2000,
+            "price per use": 200,
+            "sell": 1000
+        },
+        "shop": [],
+        "merchant": [
+            "plegiacastle"
+        ],
+        "spotpass": [
+            "Gharnef",
+            "Raydrik"
+        ],
+        "type": "tome"
+    },
+    "dyingblaze": {
+        "name": "Dying Blaze",
+        "desc": "Fire magic. Powerful, but quick to break.",
+        "weapon": true,
+        "price_use": 200,
+        "stats": {
+            "rank": "E",
+            "mt": 10,
+            "hit": 75,
+            "uses": 3,
+            "rng": "1-2",
+            "price": 600,
+            "price per use": 200,
+            "sell": 150
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "tome"
+    },
+    "micaiahspyre": {
+        "name": "Micaiah's Pyre",
+        "desc": "Def/Res +2. Radiant fire magic.",
+        "weapon": true,
+        "price_use": 142,
+        "stats": {
+            "rank": "B",
+            "mt": 13,
+            "hit": 85,
+            "crit": 5,
+            "uses": 15,
+            "rng": "1-2",
+            "price": 2130,
+            "price per use": 142,
+            "sell": 532
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [
+            "Micaiah"
+        ],
+        "type": "tome",
+        "equip": {
+            "stats": {"def": 2, "res": 2}
+        }
+    },
+    "superiorjolt": {
+        "name": "Superior Jolt",
+        "desc": "Hit/Avo +50 when the enemy has a tome equipped.",
+        "weapon": true,
+        "price_use": 232,
+        "stats": {
+            "rank": "B",
+            "mt": 14,
+            "hit": 60,
+            "crit": 15,
+            "uses": 10,
+            "rng": "1-2",
+            "price": 2320,
+            "price per use": 232,
+            "sell": 580
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "tome"
+    },
+    "katarinasbolt": {
+        "name": "Katarina's Bolt",
+        "desc": "Ancient lightning magic.",
+        "weapon": true,
+        "price_use": 96,
+        "stats": {
+            "rank": "C",
+            "mt": 11,
+            "hit": 75,
+            "crit": 30,
+            "uses": 20,
+            "rng": "1-2",
+            "price": 1920,
+            "price per use": 96,
+            "sell": 480
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [
+            "Katarina"
+        ],
+        "type": "tome"
+    },
+    "wilderwind": {
+        "name": "Wilderwind",
+        "desc": "Wind magic. Increases the likelihood of critical hits.",
+        "weapon": true,
+        "price_use": 152,
+        "stats": {
+            "rank": "D",
+            "mt": 2,
+            "hit": 70,
+            "crit": 35,
+            "uses": 5,
+            "rng": "1-2",
+            "price": 760,
+            "price per use": 152,
+            "sell": 190
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "tome"
+    },
+    "celicasgale": {
+        "name": "Celica's Gale",
+        "desc": "Ancient wind magic. Allows the wielder to strike twice.",
+        "weapon": true,
+        "price_use": 86,
+        "stats": {
+            "rank": "C",
+            "mt": 4,
+            "hit": 80,
+            "crit": 5,
+            "uses": 20,
+            "rng": "1-2",
+            "price": 1720,
+            "price per use": 86,
+            "sell": 430
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [
+            "Celica"
+        ],
+        "type": "tome"
+    },
+    "aversasnight": {
+        "name": "Aversa's Night",
+        "desc": "Dark magic. Absorbs HP equal to half the damage dealt.",
+        "weapon": true,
+        "price_use": 234,
+        "stats": {
+            "rank": "B",
+            "mt": 15,
+            "hit": 75,
+            "uses": 10,
+            "rng": "1-2",
+            "price": 2340,
+            "price per use": 234,
+            "sell": 585
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "tome"
+    },
+    "heal": {
+        "name": "Heal",
+        "desc": "Restores an adjacent ally's HP. (HP restored = [8 + (Mag / 2)]",
+        "weapon": false,
+        "price_use": 20,
+        "stats": {
+            "rank": "E",
+            "uses": 30,
+            "rng": 1,
+            "price": 600,
+            "price per use": 20,
+            "sell": 300
+        },
+        "shop": [
+            "westofylisstol",
+            "thelongfort",
+            "ylisstol",
+            "themilatree",
+            "tableapproach",
+            "peacefulvillage",
+            "greatgate",
+            "milashrineruins"
+        ],
+        "merchant": [],
+        "spotpass": [
+            "Nanna",
+            "Eirika",
+            "Mist"
+        ],
+        "type": "staff"
+    },
+    "mend": {
+        "name": "Mend",
+        "desc": "Greatly restores an adjacent ally's HP. (HP restored = [15 + (Mag / 2)]",
+        "weapon": false,
+        "price_use": 50,
+        "stats": {
+            "rank": "D",
+            "uses": 20,
+            "rng": 1,
+            "price": 1000,
+            "price per use": 50,
+            "sell": 500
+        },
+        "shop": [
+            "ylisstol",
+            "bordersands",
+            "portferox",
+            "tableapproach",
+            "peacefulvillage",
+            "milashrineruins",
+            "theruinsoftime"
+        ],
+        "merchant": [],
+        "spotpass": [
+            "Nyna",
+            "Sanaki"
+        ],
+        "type": "staff"
+    },
+    "physic": {
+        "name": "Physic",
+        "desc": "Restores a distant ally's HP. (HP restored = [8 + (Mag / 2)]",
+        "weapon": false,
+        "price_use": 180,
+        "stats": {
+            "rank": "C",
+            "uses": 10,
+            "rng": "1-(Magic / 2)",
+            "price": 1800,
+            "price per use": 180,
+            "sell": 900
+        },
+        "shop": [
+            "thedemonsingle",
+            "thedragonstable",
+            "milashrineruins",
+            "duelinggrounds",
+            "wellspringoftruth"
+        ],
+        "merchant": [
+            "westofylisstol",
+            "thetwinsturf"
+        ],
+        "spotpass": [
+            "Minerva",
+            "Prince Marth",
+            "Celica",
+            "Ethlyn",
+            "Saias",
+            "Serra",
+            "Lyn",
+            "Eliwood",
+            "Moulder",
+            "Black Knight",
+            "Micaiah",
+            "Oliver"
+        ],
+        "type": "staff"
+    },
+    "recover": {
+        "name": "Recover",
+        "desc": "Fully restores an adjacent ally's HP. (HP restored = [99 + (Mag / 2)]",
+        "weapon": false,
+        "price_use": 130,
+        "stats": {
+            "rank": "B",
+            "uses": 15,
+            "rng": 1,
+            "price": 1950,
+            "price per use": 130,
+            "sell": 975
+        },
+        "shop": [
+            "thedemonsingle",
+            "thedragonstable",
+            "mercenaryfortress",
+            "wellspringoftruth"
+        ],
+        "merchant": [],
+        "spotpass": [
+            "Nomah",
+            "Laquesis",
+            "Elincia",
+            "Oliver"
+        ],
+        "type": "staff"
+    },
+    "fortify": {
+        "name": "Fortify",
+        "desc": "Restores the HP of all allies in range. (HP restored = [8 + (Mag / 2)]",
+        "weapon": false,
+        "price_use": 500,
+        "stats": {
+            "rank": "A",
+            "uses": 5,
+            "rng": "1-(Magic / 2)",
+            "price": 2500,
+            "price per use": 500,
+            "sell": 1250
+        },
+        "shop": [],
+        "merchant": [
+            "valmcastleapproach",
+            "thedragonstable",
+            "divinedragongrounds"
+        ],
+        "spotpass": [
+            "L'Arachel",
+            "Ike"
+        ],
+        "type": "staff"
+    },
+    "goddessstaff": {
+        "name": "Goddess Staff",
+        "desc": "Fully restores the HP of all allies in range. (HP restored = [99 + (Mag / 2)]",
+        "weapon": false,
+        "stats": {
+            "rank": "A",
+            "uses": 1,
+            "rng": "1-(Magic / 2)"
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "staff"
+    },
+    "rescue": {
+        "name": "Rescue",
+        "desc": "Moves a distant ally to an adjacent space.",
+        "weapon": false,
+        "price_use": 256,
+        "stats": {
+            "rank": "E",
+            "uses": 5,
+            "rng": "1-(Magic / 2)",
+            "price": 1280,
+            "price per use": 256,
+            "sell": 640
+        },
+        "shop": [
+            "portferox",
+            "tableapproach",
+            "greatgate",
+            "milashrineruins",
+            "wellspringoftruth"
+        ],
+        "merchant": [
+            "westofylisstol",
+            "thelongfort",
+            "borderpass",
+            "breakneckpass",
+            "thefarfort"
+        ],
+        "spotpass": [],
+        "type": "staff"
+    },
+    "ward": {
+        "name": "Ward",
+        "desc": "Boosts an ally's Res by 5. Effect lessens each turn.",
+        "weapon": false,
+        "price_use": 420,
+        "stats": {
+            "rank": "C",
+            "uses": 5,
+            "rng": "1-(Magic / 2)",
+            "price": 2100,
+            "price per use": 420,
+            "sell": 1050
+        },
+        "shop": [
+            "themilatree",
+            "thedemonsingle",
+            "tableapproach",
+            "milashrineruins",
+            "theruinsoftime",
+            "wellspringoftruth"
+        ],
+        "merchant": [
+            "bordersands"
+        ],
+        "spotpass": [],
+        "type": "staff"
+    },
+    "hammerne": {
+        "name": "Hammerne",
+        "desc": "Repairs an adjacent ally's equipment.",
+        "weapon": false,
+        "stats": {
+            "rank": "B",
+            "uses": 1,
+            "rng": 1,
+            "price": 2000,
+            "sell": 1000
+        },
+        "shop": [],
+        "merchant": [
+            "mountprism",
+            "originpeak",
+            "seakingsthrone",
+            "conquerorswhetstone",
+            "mountainvillage",
+            "warriorstomb",
+            "wellspringoftruth",
+            "gardenofgiants"
+        ],
+        "spotpass": [],
+        "type": "staff"
+    },
+    "kneader": {
+        "name": "Kneader",
+        "desc": "Slightly restores an adjacent ally's HP. (HP restored = [1 + (Mag / 2)]",
+        "weapon": false,
+        "price_use": 5,
+        "stats": {
+            "rank": "E",
+            "uses": 20,
+            "rng": 1,
+            "price": 100,
+            "price per use": 5,
+            "sell": 25
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "staff"
+    },
+    "balmwoodstaff": {
+        "name": "Balmwood Staff",
+        "desc": "Restores an adjacent ally's HP. Use it to heal the wielder by 20 HP. (HP restored = [15 + (Mag / 2)]",
+        "weapon": false,
+        "price_use": 80,
+        "stats": {
+            "rank": "D",
+            "uses": 15,
+            "rng": 1,
+            "price": 1200,
+            "price per use": 80,
+            "sell": 300
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "staff"
+    },
+    "catharsis": {
+        "name": "Catharsis",
+        "desc": "Greatly restores a distant ally's HP. (HP restored = [15 + (Mag / 2)]",
+        "weapon": false,
+        "price_use": 420,
+        "stats": {
+            "rank": "B",
+            "uses": 5,
+            "rng": "1-(Magic / 2)",
+            "price": 2100,
+            "price per use": 420,
+            "sell": 525
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "staff"
+    },
+    "dragonstone": {
+        "name": "Dragonstone",
+        "desc": "Grants Str +8, Mag +5, Skl +3, Spd +2, Def +10, Res +7 when equipped. Allows a manakete to fight in dragon form.",
+        "weapon": true,
+        "price_use": 46,
+        "stats": {
+            "rank": "-",
+            "mt": 8,
+            "hit": 80,
+            "uses": 50,
+            "rng": "1-2",
+            "price": 2300,
+            "price per use": 46,
+            "sell": 1150
+        },
+        "shop": [
+            "portferox",
+            "thedemonsingle",
+            "manoroflostsouls"
+        ],
+        "merchant": [],
+        "spotpass": [],
+        "type": "dragonstone",
+        "equip": {
+            "stats": {
+                "str": 8,
+                "skl": 5,
+                "spd": 3,
+                "def": 10,
+                "res": 7
+            }
+        }
+    },
+    "dragonstone+": {
+        "name": "Dragonstone+",
+        "desc": "Grants Str +11, Mag +6, Skl +5, Spd +4, Def +13, Res +9 when equipped. Allows a manakete to assume a powerful form.",
+        "weapon": true,
+        "price_use": 108,
+        "stats": {
+            "rank": "-",
+            "mt": 12,
+            "hit": 70,
+            "uses": 35,
+            "rng": "1-2",
+            "price": 3780,
+            "price per use": 108,
+            "sell": 1890
+        },
+        "shop": [
+            "thedragonstable",
+            "seakingsthrone"
+        ],
+        "merchant": [
+            "fortsteiger"
+        ],
+        "spotpass": [
+            "Tiki"
+        ],
+        "type": "dragonstone",
+        "equip": {
+            "stats": {
+                "str": 11,
+                "mag": 6,
+                "skl": 5,
+                "spd": 4,
+                "def": 13,
+                "res": 9
+            }
+        }
+    },
+    "beaststone": {
+        "name": "Beaststone",
+        "desc": "Grants Str +3, Skl +5, Spd +5, Lck +4, Def +1 when equipped. Allows a taguel to fight in beast form.",
+        "weapon": true,
+        "price_use": 40,
+        "stats": {
+            "rank": "-",
+            "mt": 6,
+            "hit": 80,
+            "uses": 50,
+            "rng": 1,
+            "price": 2000,
+            "price per use": 40,
+            "sell": 1000
+        },
+        "shop": [
+            "portferox",
+            "thedemonsingle",
+            "lawsend"
+        ],
+        "merchant": [],
+        "spotpass": [],
+        "type": "beaststone",
+        "equip": {
+            "stats": {
+                "str": 3,
+                "skl": 5,
+                "spd": 5,
+                "lck": 4,
+                "def": 1
+            }
+        }
+    },
+    "beaststone+": {
+        "name": "Beaststone+",
+        "desc": "Grants Str +5, Skl +8, Spd +8, Lck +6, Def +4, Res +2 when equipped. Allows a taguel to assume a powerful form.",
+        "weapon": true,
+        "price_use": 92,
+        "stats": {
+            "rank": "-",
+            "mt": 10,
+            "hit": 70,
+            "uses": 35,
+            "rng": 1,
+            "price": 3220,
+            "price per use": 92,
+            "sell": 1610
+        },
+        "shop": [
+            "thedragonstable",
+            "seakingsthrone"
+        ],
+        "merchant": [
+            "thedemonsingle"
+        ],
+        "spotpass": [],
+        "type": "beaststone",
+        "equip": {
+            "stats": {
+                "str": 5,
+                "skl": 8,
+                "spd": 8,
+                "lck": 6,
+                "def": 4,
+                "res": 2
+            }
+        }
+    },
+    "blightedclaws": {
+        "name": "Blighted Claws",
+        "desc": "A monster's means of attack.",
+        "weapon": true,
+        "stats": {
+            "rank": "-",
+            "mt": 12,
+            "hit": 75,
+            "rng": 1
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "claw"
+    },
+    "blightedtalons": {
+        "name": "Blighted Talons",
+        "desc": "A monster's powerful means of attack.",
+        "weapon": true,
+        "stats": {
+            "rank": "-",
+            "mt": 16,
+            "hit": 65,
+            "rng": 1
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "claw"
+    },
+    "expiration": {
+        "name": "Expiration",
+        "desc": "Grima's shadowy breath.",
+        "weapon": true,
+        "stats": {
+            "rank": "-",
+            "mt": 20,
+            "hit": 80,
+            "rng": "1-5"
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "breath"
+    },
+    "vulnerary": {
+        "name": "Vulnerary",
+        "desc": "Restores 10 HP to the user.",
+        "weapon": false,
+        "price_use": 100,
+        "stats": {
+            "uses": 3,
+            "price": 300,
+            "price per use": 100,
+            "sell": 150
+        },
+        "shop": [
+            "westofylisstol",
+            "thelongfort",
+            "ylisstol",
+            "peacefulvillage"
+        ],
+        "merchant": [],
+        "spotpass": [],
+        "type": "item"
+    },
+    "concoction": {
+        "name": "Concoction",
+        "desc": "Restores 20 HP to the user.",
+        "weapon": false,
+        "price_use": 200,
+        "stats": {
+            "uses": 3,
+            "price": 600,
+            "price per use": 200,
+            "sell": 300
+        },
+        "shop": [
+            "bordersands",
+            "tableapproach",
+            "peacefulvillage",
+            "greatgate",
+            "theruinsoftime",
+            "lawsend",
+            "manoroflostsouls"
+        ],
+        "merchant": [
+            "southtown",
+            "westofylisstol",
+            "thenorthroad",
+            "thelongfort"
+        ],
+        "spotpass": [],
+        "type": "item"
+    },
+    "elixir": {
+        "name": "Elixir",
+        "desc": "Fully restores the user's HP.",
+        "weapon": false,
+        "price_use": 300,
+        "stats": {
+            "uses": 3,
+            "price": 900,
+            "price per use": 300,
+            "sell": 450
+        },
+        "shop": [
+            "thedragonstable",
+            "greatgate",
+            "duelinggrounds",
+            "mercenaryfortress",
+            "theruinsoftime",
+            "wellspringoftruth"
+        ],
+        "merchant": [
+            "borderpass",
+            "themidmire",
+            "carrionisle",
+            "valmharbor",
+            "peacefulvillage",
+            "thetwinshideout"
+        ],
+        "spotpass": [],
+        "type": "item"
+    },
+    "purewater": {
+        "name": "Pure Water",
+        "desc": "Grants Res +5. Effect lessens each turn.",
+        "weapon": false,
+        "price_use": 200,
+        "stats": {
+            "uses": 3,
+            "price": 600,
+            "price per use": 200,
+            "sell": 300
+        },
+        "shop": [
+            "themilatree"
+        ],
+        "merchant": [],
+        "spotpass": [],
+        "type": "item"
+    },
+    "hptonic": {
+        "name": "HP Tonic",
+        "desc": "Grants Max HP +5 for one battle.",
+        "weapon": false,
+        "stats": {
+            "uses": 1,
+            "price": 150,
+            "sell": 75
+        },
+        "shop": [
+            "themilatree",
+            "duelinggrounds"
+        ],
+        "merchant": [
+            "thelongfort"
+        ],
+        "spotpass": [],
+        "type": "item"
+    },
+    "strengthtonic": {
+        "name": "Strength Tonic",
+        "desc": "Grants Str +2 for one battle.",
+        "weapon": false,
+        "stats": {
+            "uses": 1,
+            "price": 150,
+            "sell": 75
+        },
+        "shop": [
+            "thelongfort",
+            "manoroflostsouls"
+        ],
+        "merchant": [],
+        "spotpass": [],
+        "type": "item"
+    },
+    "magictonic": {
+        "name": "Magic Tonic",
+        "desc": "Grants Mag +2 for one battle.",
+        "weapon": false,
+        "stats": {
+            "uses": 1,
+            "price": 150,
+            "sell": 75
+        },
+        "shop": [
+            "ylisstol",
+            "mercenaryfortress"
+        ],
+        "merchant": [],
+        "spotpass": [],
+        "type": "item"
+    },
+    "skilltonic": {
+        "name": "Skill Tonic",
+        "desc": "Grants Skill +2 for one battle.",
+        "weapon": false,
+        "stats": {
+            "uses": 1,
+            "price": 150,
+            "sell": 75
+        },
+        "shop": [
+            "bordersands",
+            "lawsend"
+        ],
+        "merchant": [],
+        "spotpass": [],
+        "type": "item"
+    },
+    "speedtonic": {
+        "name": "Speed Tonic",
+        "desc": "Grants Spd +2 for one battle.",
+        "weapon": false,
+        "stats": {
+            "uses": 1,
+            "price": 150,
+            "sell": 75
+        },
+        "shop": [
+            "bordersands",
+            "lawsend"
+        ],
+        "merchant": [],
+        "spotpass": [],
+        "type": "item"
+    },
+    "lucktonic": {
+        "name": "Luck Tonic",
+        "desc": "Grants Lck +2 for one battle.",
+        "weapon": false,
+        "stats": {
+            "uses": 1,
+            "price": 150,
+            "sell": 75
+        },
+        "shop": [
+            "bordersands",
+            "duelinggrounds"
+        ],
+        "merchant": [],
+        "spotpass": [],
+        "type": "item"
+    },
+    "defensetonic": {
+        "name": "Defense Tonic",
+        "desc": "Grants Def +2 for one battle.",
+        "weapon": false,
+        "stats": {
+            "uses": 1,
+            "price": 150,
+            "sell": 75
+        },
+        "shop": [
+            "thelongfort",
+            "manoroflostsouls"
+        ],
+        "merchant": [],
+        "spotpass": [],
+        "type": "item"
+    },
+    "resistancetonic": {
+        "name": "Resistance Tonic",
+        "desc": "Grants Res +2 for one battle.",
+        "weapon": false,
+        "stats": {
+            "uses": 1,
+            "price": 150,
+            "sell": 75
+        },
+        "shop": [
+            "ylisstol",
+            "mercenaryfortress"
+        ],
+        "merchant": [],
+        "spotpass": [],
+        "type": "item"
+    },
+    "doorkey": {
+        "name": "Door Key",
+        "desc": "Opens a door.",
+        "weapon": false,
+        "stats": {
+            "uses": 1,
+            "price": 300,
+            "sell": 150
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "item"
+    },
+    "chestkey": {
+        "name": "Chest Key",
+        "desc": "Opens a treasure chest.",
+        "weapon": false,
+        "stats": {
+            "uses": 1,
+            "price": 300,
+            "sell": 150
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "item"
+    },
+    "masterkey": {
+        "name": "Master Key",
+        "desc": "Can open either a door or a treasure chest.",
+        "weapon": false,
+        "stats": {
+            "uses": 1,
+            "price": 500,
+            "sell": 250
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "item"
+    },
+    "seraphrobe": {
+        "name": "Seraph Robe",
+        "desc": "Permanently increases Max HP by 5.",
+        "weapon": false,
+        "stats": {
+            "uses": 1,
+            "price": 2500,
+            "sell": 1250
+        },
+        "shop": [],
+        "merchant": [
+            "mountprism",
+            "originpeak",
+            "seakingsthrone",
+            "conquerorswhetstone",
+            "mountainvillage",
+            "warriorstomb",
+            "wellspringoftruth",
+            "gardenofgiants"
+        ],
+        "spotpass": [],
+        "type": "item"
+    },
+    "energydrop": {
+        "name": "Energy Drop",
+        "desc": "Permanently increases Str by 2.",
+        "weapon": false,
+        "stats": {
+            "uses": 1,
+            "price": 2500,
+            "sell": 1250
+        },
+        "shop": [],
+        "merchant": [
+            "mountprism",
+            "originpeak",
+            "seakingsthrone",
+            "conquerorswhetstone",
+            "mountainvillage",
+            "warriorstomb",
+            "wellspringoftruth",
+            "gardenofgiants"
+        ],
+        "spotpass": [],
+        "type": "item"
+    },
+    "spiritdust": {
+        "name": "Spirit Dust",
+        "desc": "Permanently increases Mag by 2.",
+        "weapon": false,
+        "stats": {
+            "uses": 1,
+            "price": 2500,
+            "sell": 1250
+        },
+        "shop": [],
+        "merchant": [
+            "mountprism",
+            "originpeak",
+            "seakingsthrone",
+            "conquerorswhetstone",
+            "mountainvillage",
+            "warriorstomb",
+            "wellspringoftruth",
+            "gardenofgiants"
+        ],
+        "spotpass": [],
+        "type": "item"
+    },
+    "secretbook": {
+        "name": "Secret Book",
+        "desc": "Permanently increases Skill by 2.",
+        "weapon": false,
+        "stats": {
+            "uses": 1,
+            "price": 2500,
+            "sell": 1250
+        },
+        "shop": [],
+        "merchant": [
+            "mountprism",
+            "originpeak",
+            "seakingsthrone",
+            "conquerorswhetstone",
+            "mountainvillage",
+            "warriorstomb",
+            "wellspringoftruth",
+            "gardenofgiants"
+        ],
+        "spotpass": [],
+        "type": "item"
+    },
+    "speedwing": {
+        "name": "Speedwing",
+        "desc": "Permanently increases Spd by 2.",
+        "weapon": false,
+        "stats": {
+            "uses": 1,
+            "price": 2500,
+            "sell": 1250
+        },
+        "shop": [],
+        "merchant": [
+            "mountprism",
+            "originpeak",
+            "seakingsthrone",
+            "conquerorswhetstone",
+            "mountainvillage",
+            "warriorstomb",
+            "wellspringoftruth",
+            "gardenofgiants"
+        ],
+        "spotpass": [],
+        "type": "item"
+    },
+    "goddessicon": {
+        "name": "Goddess Icon",
+        "desc": "Permanently increases Lck by 2.",
+        "weapon": false,
+        "stats": {
+            "uses": 1,
+            "price": 2500,
+            "sell": 1250
+        },
+        "shop": [],
+        "merchant": [
+            "mountprism",
+            "originpeak",
+            "seakingsthrone",
+            "conquerorswhetstone",
+            "mountainvillage",
+            "warriorstomb",
+            "wellspringoftruth",
+            "gardenofgiants"
+        ],
+        "spotpass": [],
+        "type": "item"
+    },
+    "dracoshield": {
+        "name": "Dracoshield",
+        "desc": "Permanently increases Def by 2.",
+        "weapon": false,
+        "stats": {
+            "uses": 1,
+            "price": 2500,
+            "sell": 1250
+        },
+        "shop": [],
+        "merchant": [
+            "mountprism",
+            "originpeak",
+            "seakingsthrone",
+            "conquerorswhetstone",
+            "mountainvillage",
+            "warriorstomb",
+            "wellspringoftruth",
+            "gardenofgiants"
+        ],
+        "spotpass": [],
+        "type": "item"
+    },
+    "talisman": {
+        "name": "Talisman",
+        "desc": "Permanently increases Res by 2.",
+        "weapon": false,
+        "stats": {
+            "uses": 1,
+            "price": 2500,
+            "sell": 1250
+        },
+        "shop": [],
+        "merchant": [
+            "mountprism",
+            "originpeak",
+            "seakingsthrone",
+            "conquerorswhetstone",
+            "mountainvillage",
+            "warriorstomb",
+            "wellspringoftruth",
+            "gardenofgiants"
+        ],
+        "spotpass": [],
+        "type": "item"
+    },
+    "nagastear": {
+        "name": "Naga's Tear",
+        "desc": "Permanently increases Max HP by 5 and all other stats by 2.",
+        "weapon": false,
+        "stats": {
+            "uses": 1,
+            "price": 5000,
+            "sell": 2500
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "item"
+    },
+    "boots": {
+        "name": "Boots",
+        "desc": "Permanently increases Mov by 2.",
+        "weapon": false,
+        "stats": {
+            "uses": 1,
+            "price": 2500,
+            "sell": 1250
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "item"
+    },
+    "armsscroll": {
+        "name": "Arms Scroll",
+        "desc": "Raises the weapon level of all equippable weapons and staves.",
+        "weapon": false,
+        "stats": {
+            "uses": 1,
+            "price": 2500,
+            "sell": 1250
+        },
+        "shop": [],
+        "merchant": [
+            "mountprism",
+            "originpeak",
+            "seakingsthrone",
+            "conquerorswhetstone",
+            "mountainvillage",
+            "warriorstomb",
+            "wellspringoftruth",
+            "gardenofgiants"
+        ],
+        "spotpass": [],
+        "type": "item"
+    },
+    "masterseal": {
+        "name": "Master Seal",
+        "desc": "Promotes a base class at LV 10 to an advanced class.",
+        "weapon": false,
+        "stats": {
+            "uses": 1,
+            "price": 2500,
+            "sell": 1250
+        },
+        "shop": [
+            "portferox",
+            "duelinggrounds",
+            "theruinsoftime",
+            "lawsend"
+        ],
+        "merchant": [
+            "southtown",
+            "westofylisstol",
+            "thenorthroad",
+            "thelongfort",
+            "arenaferox",
+            "borderpass",
+            "ylisstol",
+            "breakneckpass",
+            "bordersands",
+            "plegiacastlecourtyard",
+            "themidmire",
+            "thefarfort",
+            "thetwinsturf",
+            "peacefulvillage"
+        ],
+        "spotpass": [],
+        "type": "item"
+    },
+    "secondseal": {
+        "name": "Second Seal",
+        "desc": "Changes a base class at LV 10 (or any level advanced class) to a new class.",
+        "weapon": false,
+        "stats": {
+            "uses": 1,
+            "price": 2500,
+            "sell": 1250
+        },
+        "shop": [
+            "themilatree",
+            "greatgate",
+            "mercenaryfortress",
+            "manoroflostsouls"
+        ],
+        "merchant": [
+            "southtown",
+            "westofylisstol",
+            "thenorthroad",
+            "thelongfort",
+            "arenaferox",
+            "borderpass",
+            "ylisstol",
+            "breakneckpass",
+            "bordersands",
+            "plegiacastlecourtyard",
+            "themidmire",
+            "thefarfort",
+            "thetwinsturf",
+            "peacefulvillage"
+        ],
+        "spotpass": [],
+        "type": "item"
+    },
+    "bullions": {
+        "name": "Bullion (S)",
+        "desc": "Fetches 1,000 gold at market.",
+        "weapon": false,
+        "stats": {
+            "sell": 1000
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "item"
+    },
+    "bullionm": {
+        "name": "Bullion (M)",
+        "desc": "Fetches 5,000 gold at market.",
+        "weapon": false,
+        "stats": {
+            "sell": 5000
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "item"
+    },
+    "bullionl": {
+        "name": "Bullion (L)",
+        "desc": "Fetches 10,000 gold at market.",
+        "weapon": false,
+        "stats": {
+            "sell": 10000
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "item"
+    },
+    "sweettincture": {
+        "name": "Sweet Tincture",
+        "desc": "Restores the user's HP by 5. Not very effective.",
+        "weapon": false,
+        "price_use": 50,
+        "stats": {
+            "uses": 3,
+            "price": 150,
+            "price per use": 50,
+            "sell": 37
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "item"
+    },
+    "gaiussconfect": {
+        "name": "Gaius's Confect",
+        "desc": "Grants Str/Skill/Spd +2 for one battle.",
+        "weapon": false,
+        "price_use": 400,
+        "stats": {
+            "uses": 5,
+            "price": 2000,
+            "price per use": 400,
+            "sell": 500
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "item"
+    },
+    "krissconfect": {
+        "name": "Kris's Confect",
+        "desc": "Grants Max HP +5 and Def/Res +2 for one battle.",
+        "weapon": false,
+        "price_use": 200,
+        "stats": {
+            "uses": 5,
+            "price": 1000,
+            "price per use": 200,
+            "sell": 250
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "item"
+    },
+    "tikistear": {
+        "name": "Tiki's Tear",
+        "desc": "Grants Max HP +5 and all other stats +2 for one battle.",
+        "weapon": false,
+        "stats": {
+            "uses": 1,
+            "price": 1000,
+            "sell": 250
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "item"
+    },
+    "seedoftrust": {
+        "name": "Seed of Trust",
+        "desc": "Builds support between two paired units (when possible).",
+        "weapon": false,
+        "stats": {
+            "uses": 1,
+            "price": 1000,
+            "sell": 250
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "item"
+    },
+    "reekingbox": {
+        "name": "Reeking Box",
+        "desc": "Calls Risen to the World Map. Strength varies by location.\nPrice changes to 4800 in Hard/Lunatic/Lunatic+ difficulty.",
+        "weapon": false,
+        "stats": {
+            "uses": 1,
+            "price": 500,
+            "sell": 125
+        },
+        "shop": [
+            "thelongfort",
+            "carrionisle",
+            "originpeak"
+        ],
+        "merchant": [],
+        "spotpass": [],
+        "type": "item"
+    },
+    "riftdoor": {
+        "name": "Rift Door",
+        "desc": "Calls a merchant to the World Map. Wares vary by location.",
+        "weapon": false,
+        "stats": {
+            "uses": 1,
+            "price": 1000,
+            "sell": 250
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "item"
+    },
+    "supremeemblem": {
+        "name": "Supreme Emblem",
+        "desc": "The mark of a hero of the highest renown.",
+        "weapon": false,
+        "stats": {
+            "sell": 99999
+        },
+        "shop": [],
+        "merchant": [],
+        "spotpass": [],
+        "type": "item"
+    }
+}

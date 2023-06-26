@@ -1,0 +1,1663 @@
+{
+    "arcanist": {
+        "name": "Arcanist",
+        "weapon": [
+            "magic"
+        ],
+        "base": {
+            "hp": 28,
+            "atk": 8,
+            "skl": 3,
+            "spd": 4,
+            "lck": 0,
+            "def": 5,
+            "res": 8,
+            "mov": 4
+        },
+        "promo": false
+    },
+    "archer": {
+        "name": "Archer",
+        "promo": "sniper",
+        "weapon": [
+            "bow"
+        ],
+        "base": {
+            "hp": 24,
+            "atk": 9,
+            "skl": 1,
+            "spd": 2,
+            "lck": 0,
+            "def": 3,
+            "res": 0,
+            "mov": 4
+        },
+        "growth": {
+            "hp": -5,
+            "atk": 0,
+            "skl": 10,
+            "spd": -5,
+            "lck": 0,
+            "def": -5,
+            "res": 0
+        },
+        "lvl": 7
+    },
+    "balor": {
+        "name": "Balor",
+        "weapon": [
+            "terror"
+        ],
+        "base": {
+            "hp": 46,
+            "atk": 20,
+            "skl": 14,
+            "spd": 19,
+            "lck": 0,
+            "def": 13,
+            "res": 8,
+            "mov": 3
+        },
+        "promo": false
+    },
+    "baron": {
+        "name": "Baron",
+        "promo": "spartan",
+        "weapon": [
+            "lance"
+        ],
+        "base": {
+            "hp": 40,
+            "atk": 22,
+            "skl": 6,
+            "spd": 4,
+            "lck": 0,
+            "def": 18,
+            "res": 7,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 5,
+            "atk": 5,
+            "skl": 0,
+            "spd": -10,
+            "lck": -5,
+            "def": 5,
+            "res": 0
+        }
+    },
+    "bonewalker": {
+        "name": "Bonewalker",
+        "weapon": [
+            "sword",
+            "terror"
+        ],
+        "base": {
+            "hp": 30,
+            "atk": 10,
+            "skl": 1,
+            "spd": 2,
+            "lck": 0,
+            "def": 8,
+            "res": 3,
+            "mov": 5
+        },
+        "promo": false
+    },
+    "bowknight": {
+        "name": "Bow Knight",
+        "promo": "oliphantier",
+        "weapon": [
+            "bow"
+        ],
+        "base": {
+            "hp": 40,
+            "atk": 16,
+            "skl": 8,
+            "spd": 8,
+            "lck": 0,
+            "def": 10,
+            "res": 6,
+            "mov": 8
+        },
+        "growth": {
+            "hp": -5,
+            "atk": 0,
+            "skl": 10,
+            "spd": -5,
+            "lck": 0,
+            "def": -5,
+            "res": 0
+        }
+    },
+    "boy": {
+        "name": "Boy",
+        "weapon": [
+            "sword"
+        ],
+        "base": {
+            "hp": 26,
+            "atk": 7,
+            "skl": 1,
+            "spd": 2,
+            "lck": 0,
+            "def": 2,
+            "res": 0,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 0,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "promo": false
+    },
+    "brigand": {
+        "name": "Brigand",
+        "weapon": [
+            "axe"
+        ],
+        "base": {
+            "hp": 26,
+            "atk": 7,
+            "skl": 1,
+            "spd": 2,
+            "lck": 0,
+            "def": 2,
+            "res": 0,
+            "mov": 4
+        },
+        "promo": false
+    },
+    "cantor": {
+        "name": "Cantor",
+        "weapon": [
+            "magic"
+        ],
+        "base": {
+            "hp": 32,
+            "atk": 12,
+            "skl": 8,
+            "spd": 7,
+            "lck": 0,
+            "def": 6,
+            "res": 9,
+            "mov": 4
+        },
+        "promo": false
+    },
+    "cavalier": {
+        "name": "Cavalier",
+        "promo": "paladin",
+        "weapon": [
+            "lance"
+        ],
+        "base": {
+            "hp": 24,
+            "atk": 9,
+            "skl": 3,
+            "spd": 5,
+            "lck": 0,
+            "def": 5,
+            "res": 2,
+            "mov": 7
+        },
+        "growth": {
+            "hp": 0,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "lvl": 7
+    },
+    "cleric": {
+        "name": "Cleric",
+        "promo": "saint",
+        "weapon": [
+            "magic"
+        ],
+        "base": {
+            "hp": 18,
+            "atk": 7,
+            "skl": 2,
+            "spd": 4,
+            "lck": 4,
+            "def": 1,
+            "res": 10,
+            "mov": 4
+        },
+        "growth": {
+            "hp": -10,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 5,
+            "def": -10,
+            "res": 2
+        },
+        "lvl": 12
+    },
+    "conqueror": {
+        "name": "Conqueror",
+        "weapon": [
+            "sword",
+            "bow"
+        ],
+        "base": {
+            "hp": 42,
+            "atk": 20,
+            "skl": 17,
+            "spd": 16,
+            "lck": 10,
+            "def": 10,
+            "res": 6,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 5,
+            "atk": 5,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 5,
+            "res": 3
+        },
+        "promo": false
+    },
+    "dagon": {
+        "name": "Dagon",
+        "weapon": [
+            "terror"
+        ],
+        "base": {
+            "hp": 32,
+            "atk": 18,
+            "skl": 10,
+            "spd": 8,
+            "lck": 0,
+            "def": 23,
+            "res": 18,
+            "mov": 3
+        },
+        "promo": false
+    },
+    "deathgoyle": {
+        "name": "Deathgoyle",
+        "weapon": [
+            "terror"
+        ],
+        "base": {
+            "hp": 34,
+            "atk": 15,
+            "skl": 11,
+            "spd": 16,
+            "lck": 0,
+            "def": 10,
+            "res": 10,
+            "mov": 7
+        },
+        "promo": false
+    },
+    "deimos": {
+        "name": "Deimos",
+        "weapon": [
+            "terror"
+        ],
+        "base": {
+            "hp": 65,
+            "atk": 25,
+            "skl": 18,
+            "spd": 10,
+            "lck": 0,
+            "def": 25,
+            "res": 16,
+            "mov": 6
+        },
+        "promo": false
+    },
+    "dracul": {
+        "name": "Dracul",
+        "weapon": [
+            "terror"
+        ],
+        "base": {
+            "hp": 44,
+            "atk": 18,
+            "skl": 10,
+            "spd": 10,
+            "lck": 0,
+            "def": 2,
+            "res": 2,
+            "mov": 5
+        },
+        "promo": false
+    },
+    "dreadfighter": {
+        "name": "Dread Fighter",
+        "promo": "yasha",
+        "weapon": [
+            "sword"
+        ],
+        "base": {
+            "hp": 36,
+            "atk": 15,
+            "skl": 16,
+            "spd": 18,
+            "lck": 0,
+            "def": 11,
+            "res": 6,
+            "mov": 7
+        },
+        "growth": {
+            "hp": 0,
+            "atk": -5,
+            "skl": 5,
+            "spd": 5,
+            "lck": 0,
+            "def": -5,
+            "res": 0
+        }
+    },
+    "dumasapostle": {
+        "name": "Duma's Apostle",
+        "weapon": [
+            "terror"
+        ],
+        "base": {
+            "hp": 48,
+            "atk": 17,
+            "skl": 1,
+            "spd": 3,
+            "lck": 0,
+            "def": 14,
+            "res": 10,
+            "mov": 8
+        },
+        "promo": false
+    },
+    "enchantress": {
+        "name": "Enchantress",
+        "weapon": [
+            "sword",
+            "magic"
+        ],
+        "base": {
+            "hp": 36,
+            "atk": 14,
+            "skl": 10,
+            "spd": 11,
+            "lck": 0,
+            "def": 8,
+            "res": 8,
+            "mov": 4
+        },
+        "growth": {
+            "hp": -5,
+            "atk": 5,
+            "skl": -5,
+            "spd": 5,
+            "lck": 0,
+            "def": -5,
+            "res": 3
+        },
+        "promo": false
+    },
+    "entombed": {
+        "name": "Entombed",
+        "weapon": [
+            "sword"
+        ],
+        "base": {
+            "hp": 18,
+            "atk": 18,
+            "skl": 9,
+            "spd": 8,
+            "lck": 12,
+            "def": 3,
+            "res": 8,
+            "mov": 6
+        },
+        "promo": false
+    },
+    "exemplar": {
+        "name": "Exemplar",
+        "weapon": [
+            "magic"
+        ],
+        "base": {
+            "hp": 35,
+            "atk": 12,
+            "skl": 9,
+            "spd": 10,
+            "lck": 0,
+            "def": 6,
+            "res": 10,
+            "mov": 5
+        },
+        "growth": {
+            "hp": -5,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 5,
+            "def": -5,
+            "res": 3
+        },
+        "promo": false
+    },
+    "fafnir": {
+        "name": "Fafnir",
+        "weapon": [
+            "terror"
+        ],
+        "base": {
+            "hp": 46,
+            "atk": 26,
+            "skl": 10,
+            "spd": 12,
+            "lck": 0,
+            "def": 18,
+            "res": 14,
+            "mov": 9
+        },
+        "promo": false
+    },
+    "falconknight": {
+        "name": "Falcon Knight",
+        "promo": "harrier",
+        "weapon": [
+            "lance"
+        ],
+        "base": {
+            "hp": 34,
+            "atk": 10,
+            "skl": 7,
+            "spd": 12,
+            "lck": 0,
+            "def": 10,
+            "res": 12,
+            "mov": 8
+        },
+        "growth": {
+            "hp": -5,
+            "atk": -5,
+            "skl": 0,
+            "spd": 5,
+            "lck": 5,
+            "def": -5,
+            "res": 0
+        }
+    },
+    "felldragon": {
+        "name": "Fell Dragon",
+        "weapon": [
+            "terror"
+        ],
+        "base": {
+            "hp": 150,
+            "atk": 12,
+            "skl": 3,
+            "spd": 2,
+            "lck": 0,
+            "def": 11,
+            "res": 20,
+            "mov": 2
+        },
+        "promo": false
+    },
+    "fellgod": {
+        "name": "Fell God",
+        "weapon": [
+            "magic",
+            "terror"
+        ],
+        "base": {
+            "hp": 182,
+            "atk": 11,
+            "skl": 1,
+            "spd": 1,
+            "lck": 0,
+            "def": 11,
+            "res": 20,
+            "mov": 2
+        },
+        "promo": false
+    },
+    "fiend": {
+        "name": "Fiend",
+        "weapon": [
+            "lance"
+        ],
+        "base": {
+            "hp": 40,
+            "atk": 22,
+            "skl": 5,
+            "spd": 3,
+            "lck": 0,
+            "def": 19,
+            "res": 10,
+            "mov": 4
+        },
+        "promo": false
+    },
+    "fighter": {
+        "name": "Fighter",
+        "promo": "hero",
+        "weapon": [
+            "sword"
+        ],
+        "base": {
+            "hp": 28,
+            "atk": 10,
+            "skl": 7,
+            "spd": 6,
+            "lck": 7,
+            "def": 6,
+            "res": 4,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 0,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        }
+    },
+    "firedragon": {
+        "name": "Fire Dragon",
+        "weapon": [
+            "terror"
+        ],
+        "base": {
+            "hp": 50,
+            "atk": 20,
+            "skl": 17,
+            "spd": 11,
+            "lck": 0,
+            "def": 26,
+            "res": 18,
+            "mov": 4
+        },
+        "promo": false
+    },
+    "gargoyle": {
+        "name": "Gargoyle",
+        "weapon": [
+            "terror"
+        ],
+        "base": {
+            "hp": 26,
+            "atk": 8,
+            "skl": 3,
+            "spd": 9,
+            "lck": 0,
+            "def": 7,
+            "res": 7,
+            "mov": 7
+        },
+        "promo": false
+    },
+    "garuda": {
+        "name": "Garuda",
+        "weapon": [
+            "terror"
+        ],
+        "base": {
+            "hp": 38,
+            "atk": 16,
+            "skl": 12,
+            "spd": 17,
+            "lck": 0,
+            "def": 12,
+            "res": 8,
+            "mov": 8
+        },
+        "promo": false
+    },
+    "girl": {
+        "name": "Girl",
+        "weapon": [
+            "sword"
+        ],
+        "base": {
+            "hp": 26,
+            "atk": 7,
+            "skl": 1,
+            "spd": 2,
+            "lck": 0,
+            "def": 2,
+            "res": 0,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 0,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "promo": false
+    },
+    "goldknight": {
+        "name": "Gold Knight",
+        "promo": "skogul",
+        "weapon": [
+            "lance"
+        ],
+        "base": {
+            "hp": 40,
+            "atk": 18,
+            "skl": 7,
+            "spd": 12,
+            "lck": 0,
+            "def": 13,
+            "res": 6,
+            "mov": 9
+        },
+        "growth": {
+            "hp": 0,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "lvl": 10
+    },
+    "guardian": {
+        "name": "Guardian",
+        "weapon": [
+            "lance"
+        ],
+        "base": {
+            "hp": 40,
+            "atk": 24,
+            "skl": 5,
+            "spd": 3,
+            "lck": 0,
+            "def": 20,
+            "res": 7,
+            "mov": 5
+        },
+        "promo": false
+    },
+    "guru": {
+        "name": "Guru",
+        "weapon": [
+            "magic"
+        ],
+        "base": {
+            "hp": 37,
+            "atk": 15,
+            "skl": 11,
+            "spd": 10,
+            "lck": 0,
+            "def": 9,
+            "res": 12,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 0,
+            "atk": 10,
+            "skl": 5,
+            "spd": 0,
+            "lck": 5,
+            "def": -5,
+            "res": 0
+        },
+        "promo": false
+    },
+    "harrier": {
+        "name": "Harrier",
+        "weapon": [
+            "lance",
+            "magic"
+        ],
+        "base": {
+            "hp": 38,
+            "atk": 13,
+            "skl": 10,
+            "spd": 14,
+            "lck": 0,
+            "def": 12,
+            "res": 14,
+            "mov": 8
+        },
+        "growth": {
+            "hp": -5,
+            "atk": -5,
+            "skl": 5,
+            "spd": 5,
+            "lck": 5,
+            "def": 0,
+            "res": 1
+        },
+        "promo": false
+    },
+    "hero": {
+        "name": "Hero",
+        "promo": "conqueror",
+        "weapon": [
+            "sword",
+            "bow"
+        ],
+        "base": {
+            "hp": 36,
+            "atk": 16,
+            "skl": 14,
+            "spd": 14,
+            "lck": 10,
+            "def": 10,
+            "res": 4,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 0,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        }
+    },
+    "heroike": {
+        "name": "Hero (Ike)",
+        "weapon": [
+            "sword"
+        ],
+        "base": {
+            "hp": 36,
+            "atk": 17,
+            "skl": 11,
+            "spd": 9,
+            "lck": 7,
+            "def": 16,
+            "res": 2,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 0,
+            "atk": -5,
+            "skl": 5,
+            "spd": 5,
+            "lck": 0,
+            "def": -5,
+            "res": 0
+        },
+        "promo": false
+    },
+    "knight": {
+        "name": "Knight",
+        "promo": "baron",
+        "weapon": [
+            "lance"
+        ],
+        "base": {
+            "hp": 34,
+            "atk": 16,
+            "skl": 2,
+            "spd": 2,
+            "lck": 0,
+            "def": 12,
+            "res": 1,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 5,
+            "atk": 5,
+            "skl": 0,
+            "spd": -10,
+            "lck": -5,
+            "def": 5,
+            "res": 0
+        },
+        "lvl": 10
+    },
+    "lich": {
+        "name": "Lich",
+        "weapon": [
+            "sword",
+            "terror"
+        ],
+        "base": {
+            "hp": 38,
+            "atk": 18,
+            "skl": 5,
+            "spd": 3,
+            "lck": 0,
+            "def": 15,
+            "res": 6,
+            "mov": 5
+        },
+        "promo": false
+    },
+    "lordcorrinf": {
+        "name": "Lord (Corrin F)",
+        "weapon": [
+            "sword"
+        ],
+        "base": {
+            "hp": 30,
+            "atk": 15,
+            "skl": 13,
+            "spd": 14,
+            "lck": 8,
+            "def": 7,
+            "res": 5,
+            "mov": 5
+        },
+        "growth": {
+            "hp": -10,
+            "atk": 5,
+            "skl": -5,
+            "spd": 5,
+            "lck": 0,
+            "def": -5,
+            "res": 1
+        },
+        "promo": false
+    },
+    "lordcorrinm": {
+        "name": "Lord (Corrin M)",
+        "weapon": [
+            "sword"
+        ],
+        "base": {
+            "hp": 31,
+            "atk": 14,
+            "skl": 15,
+            "spd": 12,
+            "lck": 9,
+            "def": 8,
+            "res": 3,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 0,
+            "atk": -5,
+            "skl": 5,
+            "spd": 5,
+            "lck": 0,
+            "def": -5,
+            "res": 0
+        },
+        "promo": false
+    },
+    "lordlucina": {
+        "name": "Lord (Lucina)",
+        "weapon": [
+            "sword"
+        ],
+        "base": {
+            "hp": 28,
+            "atk": 12,
+            "skl": 15,
+            "spd": 17,
+            "lck": 11,
+            "def": 7,
+            "res": 10,
+            "mov": 5
+        },
+        "growth": {
+            "hp": -10,
+            "atk": 5,
+            "skl": -5,
+            "spd": 5,
+            "lck": 0,
+            "def": -5,
+            "res": 1
+        },
+        "promo": false
+    },
+    "lordmarth": {
+        "name": "Lord (Marth)",
+        "weapon": [
+            "sword"
+        ],
+        "base": {
+            "hp": 32,
+            "atk": 15,
+            "skl": 16,
+            "spd": 15,
+            "lck": 12,
+            "def": 10,
+            "res": 6,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 0,
+            "atk": -5,
+            "skl": 5,
+            "spd": 5,
+            "lck": 0,
+            "def": -5,
+            "res": 0
+        },
+        "promo": false
+    },
+    "lordroy": {
+        "name": "Lord (Roy)",
+        "weapon": [
+            "sword"
+        ],
+        "base": {
+            "hp": 34,
+            "atk": 16,
+            "skl": 12,
+            "spd": 11,
+            "lck": 6,
+            "def": 11,
+            "res": 4,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 0,
+            "atk": -5,
+            "skl": 5,
+            "spd": 5,
+            "lck": 0,
+            "def": -5,
+            "res": 0
+        },
+        "promo": false
+    },
+    "magef": {
+        "name": "Mage (F)",
+        "promo": "priestess",
+        "weapon": [
+            "magic"
+        ],
+        "base": {
+            "hp": 20,
+            "atk": 9,
+            "skl": 1,
+            "spd": 7,
+            "lck": 5,
+            "def": 2,
+            "res": 10,
+            "mov": 4
+        },
+        "growth": {
+            "hp": -10,
+            "atk": 5,
+            "skl": -5,
+            "spd": 5,
+            "lck": 0,
+            "def": -5,
+            "res": 1
+        },
+        "lvl": 14
+    },
+    "magem": {
+        "name": "Mage (M)",
+        "promo": "sage",
+        "weapon": [
+            "magic"
+        ],
+        "base": {
+            "hp": 28,
+            "atk": 8,
+            "skl": 3,
+            "spd": 4,
+            "lck": 0,
+            "def": 5,
+            "res": 8,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 0,
+            "atk": 5,
+            "skl": 5,
+            "spd": 0,
+            "lck": 0,
+            "def": -10,
+            "res": 0
+        },
+        "lvl": 12
+    },
+    "mercenary": {
+        "name": "Mercenary",
+        "promo": "myrmidon",
+        "weapon": [
+            "sword"
+        ],
+        "base": {
+            "hp": 24,
+            "atk": 8,
+            "skl": 8,
+            "spd": 10,
+            "lck": 0,
+            "def": 4,
+            "res": 1,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 0,
+            "atk": -5,
+            "skl": 5,
+            "spd": 5,
+            "lck": 0,
+            "def": -5,
+            "res": 0
+        },
+        "lvl": 7
+    },
+    "milasservant": {
+        "name": "Mila's Servant",
+        "weapon": [
+            "terror"
+        ],
+        "base": {
+            "hp": 44,
+            "atk": 14,
+            "skl": 3,
+            "spd": 6,
+            "lck": 0,
+            "def": 12,
+            "res": 14,
+            "mov": 8
+        },
+        "promo": false
+    },
+    "mogall": {
+        "name": "Mogall",
+        "weapon": [
+            "terror"
+        ],
+        "base": {
+            "hp": 32,
+            "atk": 15,
+            "skl": 10,
+            "spd": 18,
+            "lck": 0,
+            "def": 8,
+            "res": 4,
+            "mov": 3
+        },
+        "promo": false
+    },
+    "myrmidon": {
+        "name": "Myrmidon",
+        "promo": "dreadfighter",
+        "weapon": [
+            "sword"
+        ],
+        "base": {
+            "hp": 30,
+            "atk": 11,
+            "skl": 11,
+            "spd": 14,
+            "lck": 0,
+            "def": 7,
+            "res": 6,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 0,
+            "atk": -5,
+            "skl": 5,
+            "spd": 5,
+            "lck": 0,
+            "def": -5,
+            "res": 0
+        },
+        "lvl": 10
+    },
+    "necrodragon": {
+        "name": "Necrodragon",
+        "weapon": [
+            "terror"
+        ],
+        "base": {
+            "hp": 40,
+            "atk": 15,
+            "skl": 1,
+            "spd": 5,
+            "lck": 0,
+            "def": 12,
+            "res": 12,
+            "mov": 8
+        },
+        "promo": false
+    },
+    "oliphantier": {
+        "name": "Oliphantier",
+        "weapon": [
+            "bow"
+        ],
+        "base": {
+            "hp": 43,
+            "atk": 18,
+            "skl": 10,
+            "spd": 10,
+            "lck": 0,
+            "def": 12,
+            "res": 7,
+            "mov": 7
+        },
+        "growth": {
+            "hp": 0,
+            "atk": 5,
+            "skl": 10,
+            "spd": -5,
+            "lck": 0,
+            "def": -5,
+            "res": 0
+        },
+        "promo": false
+    },
+    "paladin": {
+        "name": "Paladin",
+        "promo": "goldknight",
+        "weapon": [
+            "lance"
+        ],
+        "base": {
+            "hp": 28,
+            "atk": 12,
+            "skl": 5,
+            "spd": 8,
+            "lck": 0,
+            "def": 8,
+            "res": 5,
+            "mov": 8
+        },
+        "growth": {
+            "hp": 0,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        }
+    },
+    "pegasusknight": {
+        "name": "Pegasus Knight",
+        "promo": "falconknight",
+        "weapon": [
+            "lance"
+        ],
+        "base": {
+            "hp": 20,
+            "atk": 8,
+            "skl": 4,
+            "spd": 7,
+            "lck": 6,
+            "def": 4,
+            "res": 6,
+            "mov": 7
+        },
+        "growth": {
+            "hp": -5,
+            "atk": -5,
+            "skl": 0,
+            "spd": 5,
+            "lck": 5,
+            "def": -5,
+            "res": 0
+        },
+        "lvl": 12
+    },
+    "priestess": {
+        "name": "Priestess",
+        "promo": "enchantress",
+        "weapon": [
+            "magic",
+            "sword"
+        ],
+        "base": {
+            "hp": 32,
+            "atk": 12,
+            "skl": 8,
+            "spd": 9,
+            "lck": 0,
+            "def": 6,
+            "res": 6,
+            "mov": 4
+        },
+        "growth": {
+            "hp": -10,
+            "atk": 5,
+            "skl": -5,
+            "spd": 5,
+            "lck": 0,
+            "def": -5,
+            "res": 1
+        }
+    },
+    "priestesscelica": {
+        "name": "Priestess (Celica)",
+        "promo": "princess",
+        "weapon": [
+            "magic",
+            "sword"
+        ],
+        "base": {
+            "hp": 24,
+            "atk": 5,
+            "skl": 1,
+            "spd": 1,
+            "lck": 0,
+            "def": 1,
+            "res": 0,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 0,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        }
+    },
+    "princess": {
+        "name": "Princess",
+        "promo": "rigain",
+        "weapon": [
+            "magic",
+            "sword"
+        ],
+        "base": {
+            "hp": 32,
+            "atk": 13,
+            "skl": 10,
+            "spd": 12,
+            "lck": 0,
+            "def": 6,
+            "res": 8,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 0,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        }
+    },
+    "revenant": {
+        "name": "Revenant",
+        "weapon": [
+            "terror"
+        ],
+        "base": {
+            "hp": 36,
+            "atk": 5,
+            "skl": 1,
+            "spd": 1,
+            "lck": 0,
+            "def": 1,
+            "res": 0,
+            "mov": 4
+        },
+        "promo": false
+    },
+    "rigain": {
+        "name": "Rigain",
+        "weapon": [
+            "magic",
+            "sword"
+        ],
+        "base": {
+            "hp": 38,
+            "atk": 16,
+            "skl": 12,
+            "spd": 16,
+            "lck": 0,
+            "def": 10,
+            "res": 12,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 0,
+            "atk": 0,
+            "skl": 5,
+            "spd": 5,
+            "lck": 5,
+            "def": 0,
+            "res": 3
+        },
+        "promo": false
+    },
+    "sage": {
+        "name": "Sage",
+        "promo": "guru",
+        "weapon": [
+            "magic"
+        ],
+        "base": {
+            "hp": 32,
+            "atk": 12,
+            "skl": 8,
+            "spd": 7,
+            "lck": 0,
+            "def": 6,
+            "res": 9,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 0,
+            "atk": 5,
+            "skl": 5,
+            "spd": 0,
+            "lck": 0,
+            "def": -10,
+            "res": 0
+        }
+    },
+    "saint": {
+        "name": "Saint",
+        "promo": "exemplar",
+        "weapon": [
+            "magic"
+        ],
+        "base": {
+            "hp": 30,
+            "atk": 10,
+            "skl": 7,
+            "spd": 8,
+            "lck": 0,
+            "def": 5,
+            "res": 8,
+            "mov": 5
+        },
+        "growth": {
+            "hp": -10,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 5,
+            "def": -10,
+            "res": 2
+        }
+    },
+    "skogul": {
+        "name": "Skogul",
+        "weapon": [
+            "lance"
+        ],
+        "base": {
+            "hp": 46,
+            "atk": 22,
+            "skl": 10,
+            "spd": 15,
+            "lck": 0,
+            "def": 16,
+            "res": 9,
+            "mov": 10
+        },
+        "growth": {
+            "hp": 0,
+            "atk": 5,
+            "skl": 5,
+            "spd": 5,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "promo": false
+    },
+    "sniper": {
+        "name": "Sniper",
+        "promo": "bowknight",
+        "weapon": [
+            "bow"
+        ],
+        "base": {
+            "hp": 30,
+            "atk": 12,
+            "skl": 6,
+            "spd": 6,
+            "lck": 0,
+            "def": 6,
+            "res": 2,
+            "mov": 5
+        },
+        "growth": {
+            "hp": -5,
+            "atk": 0,
+            "skl": 10,
+            "spd": -5,
+            "lck": 0,
+            "def": -5,
+            "res": 0
+        },
+        "lvl": 10
+    },
+    "soldier": {
+        "name": "Soldier",
+        "promo": "knight",
+        "weapon": [
+            "lance"
+        ],
+        "base": {
+            "hp": 26,
+            "atk": 10,
+            "skl": 1,
+            "spd": 3,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 5,
+            "atk": 5,
+            "skl": 0,
+            "spd": -10,
+            "lck": -5,
+            "def": 5,
+            "res": 0
+        },
+        "lvl": 7
+    },
+    "spartan": {
+        "name": "Spartan",
+        "weapon": [
+            "lance"
+        ],
+        "base": {
+            "hp": 46,
+            "atk": 26,
+            "skl": 8,
+            "spd": 6,
+            "lck": 0,
+            "def": 22,
+            "res": 8,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 10,
+            "atk": 5,
+            "skl": 0,
+            "spd": -5,
+            "lck": -5,
+            "def": 10,
+            "res": 0
+        },
+        "promo": false
+    },
+    "tactician": {
+        "name": "Tactician",
+        "weapon": [
+            "magic",
+            "sword"
+        ],
+        "base": {
+            "hp": 29,
+            "atk": 13,
+            "skl": 12,
+            "spd": 10,
+            "lck": 3,
+            "def": 8,
+            "res": 7,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 0,
+            "atk": 5,
+            "skl": 5,
+            "spd": 0,
+            "lck": 0,
+            "def": -10,
+            "res": 0
+        },
+        "promo": false
+    },
+    "titan": {
+        "name": "Titan",
+        "weapon": [
+            "axe"
+        ],
+        "base": {
+            "hp": 40,
+            "atk": 20,
+            "skl": 8,
+            "spd": 4,
+            "lck": 0,
+            "def": 16,
+            "res": 8,
+            "mov": 6
+        },
+        "promo": false
+    },
+    "tomblord": {
+        "name": "Tomblord",
+        "weapon": [
+            "terror"
+        ],
+        "base": {
+            "hp": 36,
+            "atk": 27,
+            "skl": 10,
+            "spd": 12,
+            "lck": 7,
+            "def": 15,
+            "res": 12,
+            "mov": 5
+        },
+        "promo": false
+    },
+    "vestal": {
+        "name": "Vestal",
+        "weapon": [
+            "magic"
+        ],
+        "base": {
+            "hp": 34,
+            "atk": 16,
+            "skl": 13,
+            "spd": 12,
+            "lck": 0,
+            "def": 9,
+            "res": 16,
+            "mov": 5
+        },
+        "promo": false
+    },
+    "villager": {
+        "name": "Villager",
+        "weapon": [
+            "sword"
+        ],
+        "base": {
+            "hp": 26,
+            "atk": 7,
+            "skl": 1,
+            "spd": 2,
+            "lck": 0,
+            "def": 2,
+            "res": 0,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 0,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "promo": false
+    },
+    "whitedragon": {
+        "name": "White Dragon",
+        "weapon": [
+            "terror"
+        ],
+        "base": {
+            "hp": 40,
+            "atk": 24,
+            "skl": 8,
+            "spd": 12,
+            "lck": 0,
+            "def": 20,
+            "res": 17,
+            "mov": 8
+        },
+        "promo": false
+    },
+    "witch": {
+        "name": "Witch",
+        "weapon": [
+            "magic"
+        ],
+        "base": {
+            "hp": 22,
+            "atk": 10,
+            "skl": 12,
+            "spd": 8,
+            "lck": 0,
+            "def": 4,
+            "res": 14,
+            "mov": 4
+        },
+        "promo": false
+    },
+    "yasha": {
+        "name": "Yasha",
+        "weapon": [
+            "sword"
+        ],
+        "base": {
+            "hp": 40,
+            "atk": 18,
+            "skl": 20,
+            "spd": 22,
+            "lck": 0,
+            "def": 14,
+            "res": 9,
+            "mov": 7
+        },
+        "growth": {
+            "hp": 0,
+            "atk": 5,
+            "skl": 5,
+            "spd": 5,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "promo": false
+    }
+}

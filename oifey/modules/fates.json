@@ -1,0 +1,891 @@
+{
+    "cq": {
+        "name": "Fates - Conquest",
+        "default": "unit",
+        "alias": [
+            "conquest",
+            "dark"
+        ],
+        "random": {
+            "pool": "database/fe14/cq.json",
+            "add": [
+                "fates"
+            ]
+        },
+        "color": "0x745196",
+        "data": {
+            "unit": {
+                "main": "database/fe14/cq.json",
+                "add": [
+                    "class",
+                    "weapon"
+                ],
+                "exclamation": "mother",
+                "level": {
+                    "lvl": 99,
+                    "size": 20
+                },
+                "multiple": {
+                    "class": 20
+                },
+                "bool": {
+                    "personal": [],
+                    "aptitude": []
+                },
+                "par": {
+                    "offspring": [
+                        "offspringseal"
+                    ],
+                    "wyvernrider": [
+                        "dragon"
+                    ],
+                    "spearfighter": [
+                        "lancer"
+                    ],
+                    "shrinemaiden": [
+                        "priestess"
+                    ],
+                    "darkmage": [
+                        "mage"
+                    ]
+                },
+                "entry": {
+                    "class": "database/fe14/job.json",
+                    "father": "database/fe14/cq.json",
+                    "mother": "database/fe14/cq.json",
+                    "offspring": "database/fe14/job.json",
+                    "thirdgen": "database/fe14/cq.json",
+                    "weapon": "database/fe14/item.json"
+                },
+                "int": {
+                    "chapter": [
+                        8,
+                        27
+                    ],
+                    "forge": [
+                        1,
+                        7
+                    ],
+                    "parent": [
+                        1,
+                        50
+                    ]
+                },
+                "choice": {
+                    "difficulty": {
+                        "Lunatic": "lunatic",
+                        "Hard": "hard",
+                        "Normal": "normal"
+                    },
+                    "boon": {
+                        "Robust (HP)": "hp",
+                        "Strong (Strength)": "str",
+                        "Clever (Magic)": "mag",
+                        "Deft (Skill)": "skl",
+                        "Quick (Speed)": "spd",
+                        "Lucky (Luck)": "lck",
+                        "Sturdy (Defense)": "def",
+                        "Calm (Resistance)": "res"
+                    },
+                    "bane": {
+                        "Sickly (HP)": "hp",
+                        "Weak (Strength)": "str",
+                        "Dull (Magic)": "mag",
+                        "Clumsy (Skill)": "skl",
+                        "Slow (Speed)": "spd",
+                        "Unlucky (Luck)": "lck",
+                        "Fragile (Defense)": "def",
+                        "Excitable (Resistance)": "res"
+                    },
+                    "rank": {
+                        "None": "none",
+                        "C Rank": "C",
+                        "B Rank": "B",
+                        "A Rank": "A"
+                    }
+                },
+                "prefix": {
+                    "boon": "+",
+                    "bane": "-",
+                    "chapter": "-",
+                    "forge": "+",
+                    "modifiers": "$"
+                },
+                "required": [
+                    "route"
+                ],
+                "custom_help": {
+                    "Averages": "text/game/averages/fe14.txt"
+                },
+                "classic_hidden": [
+                    "level",
+                    "route"
+                ],
+                "lua": [
+                    "fe14",
+                    "Conquest"
+                ],
+                "comma": {
+                    "name": "compare",
+                    "size": 4
+                },
+                "stats": {
+                    "modifiers": [
+                        "hp",
+                        "str",
+                        "mag",
+                        "skl",
+                        "spd",
+                        "lck",
+                        "def",
+                        "res",
+                        "atk",
+                        "hit",
+                        "crit",
+                        "as"
+                    ]
+                }
+            },
+            "class": {
+                "main": "database/fe14/job.json",
+                "lua": [
+                    "fe14",
+                    "Job"
+                ]
+            },
+            "skill": {
+                "main": "database/fe14/skill.json",
+                "lua": [
+                    "fe14",
+                    "Skill"
+                ]
+            },
+            "item": {
+                "main": "database/fe14/item.json",
+                "lua": [
+                    "fe14",
+                    "Item"
+                ],
+                "int": {
+                    "forge": [
+                        1,
+                        7
+                    ]
+                },
+                "prefix": {
+                    "forge": "+"
+                }
+            }
+        }
+    },
+    "rev": {
+        "name": "Fates - Revelation",
+        "default": "unit",
+        "alias": [
+            "revelation",
+            "revelations"
+        ],
+        "random": {
+            "pool": "database/fe14/rev.json",
+            "add": [
+                "fates"
+            ]
+        },
+        "color": "0x2f7575",
+        "data": {
+            "unit": {
+                "main": "database/fe14/rev.json",
+                "add": [
+                    "class",
+                    "weapon"
+                ],
+                "exclamation": "mother",
+                "level": {
+                    "lvl": 99,
+                    "size": 20
+                },
+                "multiple": {
+                    "class": 20
+                },
+                "bool": {
+                    "personal": [],
+                    "aptitude": []
+                },
+                "par": {
+                    "offspring": [
+                        "offspringseal"
+                    ],
+                    "wyvernrider": [
+                        "dragon"
+                    ],
+                    "spearfighter": [
+                        "lancer"
+                    ],
+                    "shrinemaiden": [
+                        "priestess"
+                    ],
+                    "darkmage": [
+                        "mage"
+                    ]
+                },
+                "entry": {
+                    "class": "database/fe14/job.json",
+                    "father": "database/fe14/rev.json",
+                    "mother": "database/fe14/rev.json",
+                    "offspring": "database/fe14/job.json",
+                    "thirdgen": "database/fe14/rev.json",
+                    "weapon": "database/fe14/item.json"
+                },
+                "int": {
+                    "chapter": [
+                        8,
+                        27
+                    ],
+                    "forge": [
+                        1,
+                        7
+                    ],
+                    "parent": [
+                        1,
+                        50
+                    ]
+                },
+                "choice": {
+                    "difficulty": {
+                        "Lunatic": "lunatic",
+                        "Hard": "hard",
+                        "Normal": "normal"
+                    },
+                    "boon": {
+                        "Robust (HP)": "hp",
+                        "Strong (Strength)": "str",
+                        "Clever (Magic)": "mag",
+                        "Deft (Skill)": "skl",
+                        "Quick (Speed)": "spd",
+                        "Lucky (Luck)": "lck",
+                        "Sturdy (Defense)": "def",
+                        "Calm (Resistance)": "res"
+                    },
+                    "bane": {
+                        "Sickly (HP)": "hp",
+                        "Weak (Strength)": "str",
+                        "Dull (Magic)": "mag",
+                        "Clumsy (Skill)": "skl",
+                        "Slow (Speed)": "spd",
+                        "Unlucky (Luck)": "lck",
+                        "Fragile (Defense)": "def",
+                        "Excitable (Resistance)": "res"
+                    },
+                    "rank": {
+                        "None": "none",
+                        "C Rank": "C",
+                        "B Rank": "B",
+                        "A Rank": "A"
+                    }
+                },
+                "prefix": {
+                    "boon": "+",
+                    "bane": "-",
+                    "chapter": "-",
+                    "forge": "+",
+                    "modifiers": "$"
+                },
+                "required": [
+                    "route"
+                ],
+                "custom_help": {
+                    "Averages": "text/game/averages/fe14.txt"
+                },
+                "classic_hidden": [
+                    "level",
+                    "route"
+                ],
+                "lua": [
+                    "fe14",
+                    "Revelation"
+                ],
+                "comma": {
+                    "name": "compare",
+                    "size": 4
+                },
+                "stats": {
+                    "modifiers": [
+                        "hp",
+                        "str",
+                        "mag",
+                        "skl",
+                        "spd",
+                        "lck",
+                        "def",
+                        "res",
+                        "atk",
+                        "hit",
+                        "crit",
+                        "as"
+                    ]
+                }
+            },
+            "class": {
+                "main": "database/fe14/job.json",
+                "lua": [
+                    "fe14",
+                    "Job"
+                ]
+            },
+            "skill": {
+                "main": "database/fe14/skill.json",
+                "lua": [
+                    "fe14",
+                    "Skill"
+                ]
+            },
+            "item": {
+                "main": "database/fe14/item.json",
+                "lua": [
+                    "fe14",
+                    "Item"
+                ],
+                "int": {
+                    "forge": [
+                        1,
+                        7
+                    ]
+                },
+                "prefix": {
+                    "forge": "+"
+                }
+            }
+        }
+    },
+    "br": {
+        "name": "Fates - Birthright",
+        "default": "unit",
+        "alias": [
+            "birthright",
+            "white"
+        ],
+        "random": {
+            "pool": "database/fe14/br.json",
+            "add": [
+                "fates"
+            ]
+        },
+        "color": "0x963e3e",
+        "data": {
+            "unit": {
+                "main": "database/fe14/br.json",
+                "add": [
+                    "class",
+                    "weapon"
+                ],
+                "exclamation": "mother",
+                "level": {
+                    "lvl": 99,
+                    "size": 20
+                },
+                "multiple": {
+                    "class": 20
+                },
+                "bool": {
+                    "personal": [],
+                    "aptitude": []
+                },
+                "par": {
+                    "offspring": [
+                        "offspringseal"
+                    ],
+                    "wyvernrider": [
+                        "dragon"
+                    ],
+                    "spearfighter": [
+                        "lancer"
+                    ],
+                    "shrinemaiden": [
+                        "priestess"
+                    ],
+                    "darkmage": [
+                        "mage"
+                    ]
+                },
+                "entry": {
+                    "class": "database/fe14/job.json",
+                    "father": "database/fe14/br.json",
+                    "mother": "database/fe14/br.json",
+                    "offspring": "database/fe14/job.json",
+                    "thirdgen": "database/fe14/br.json",
+                    "weapon": "database/fe14/item.json"
+                },
+                "int": {
+                    "chapter": [
+                        8,
+                        27
+                    ],
+                    "forge": [
+                        1,
+                        7
+                    ],
+                    "parent": [
+                        1,
+                        50
+                    ]
+                },
+                "choice": {
+                    "difficulty": {
+                        "Lunatic": "lunatic",
+                        "Hard": "hard",
+                        "Normal": "normal"
+                    },
+                    "boon": {
+                        "Robust (HP)": "hp",
+                        "Strong (Strength)": "str",
+                        "Clever (Magic)": "mag",
+                        "Deft (Skill)": "skl",
+                        "Quick (Speed)": "spd",
+                        "Lucky (Luck)": "lck",
+                        "Sturdy (Defense)": "def",
+                        "Calm (Resistance)": "res"
+                    },
+                    "bane": {
+                        "Sickly (HP)": "hp",
+                        "Weak (Strength)": "str",
+                        "Dull (Magic)": "mag",
+                        "Clumsy (Skill)": "skl",
+                        "Slow (Speed)": "spd",
+                        "Unlucky (Luck)": "lck",
+                        "Fragile (Defense)": "def",
+                        "Excitable (Resistance)": "res"
+                    },
+                    "rank": {
+                        "None": "none",
+                        "C Rank": "C",
+                        "B Rank": "B",
+                        "A Rank": "A"
+                    }
+                },
+                "prefix": {
+                    "boon": "+",
+                    "bane": "-",
+                    "chapter": "-",
+                    "forge": "+",
+                    "modifiers": "$"
+                },
+                "required": [
+                    "route"
+                ],
+                "custom_help": {
+                    "Averages": "text/game/averages/fe14.txt"
+                },
+                "classic_hidden": [
+                    "level",
+                    "route"
+                ],
+                "lua": [
+                    "fe14",
+                    "Birthright"
+                ],
+                "comma": {
+                    "name": "compare",
+                    "size": 4
+                },
+                "stats": {
+                    "modifiers": [
+                        "hp",
+                        "str",
+                        "mag",
+                        "skl",
+                        "spd",
+                        "lck",
+                        "def",
+                        "res",
+                        "atk",
+                        "hit",
+                        "crit",
+                        "as"
+                    ]
+                }
+            },
+            "class": {
+                "main": "database/fe14/job.json",
+                "lua": [
+                    "fe14",
+                    "Job"
+                ]
+            },
+            "skill": {
+                "main": "database/fe14/skill.json",
+                "lua": [
+                    "fe14",
+                    "Skill"
+                ]
+            },
+            "item": {
+                "main": "database/fe14/item.json",
+                "lua": [
+                    "fe14",
+                    "Item"
+                ],
+                "int": {
+                    "forge": [
+                        1,
+                        7
+                    ]
+                },
+                "prefix": {
+                    "forge": "+"
+                }
+            }
+        }
+    },
+    "fe13": {
+        "name": "Awakening",
+        "default": "unit",
+        "alias": [
+            "awakening",
+            "aw",
+            "a",
+            "awa"
+        ],
+        "random": {
+            "pool": "database/fe13/char.json",
+            "add": [
+                "ylisse"
+            ]
+        },
+        "color": "0x80b1ed",
+        "data": {
+            "unit": {
+                "main": "database/fe13/char.json",
+                "add": [
+                    "class",
+                    "weapon"
+                ],
+                "exclamation": "father",
+                "level": {
+                    "lvl": 30,
+                    "size": 20
+                },
+                "multiple": {
+                    "class": 20
+                },
+                "bool": {
+                    "personal": [],
+                    "aptitude": []
+                },
+                "entry": {
+                    "class": "database/fe13/job.json",
+                    "father": "database/fe13/char.json",
+                    "mother": "database/fe13/char.json",
+                    "weapon": "database/fe13/item.json",
+                    "thirdgen": "database/fe13/char.json"
+                },
+                "choice": {
+                    "difficulty": {
+                        "Lunatic": "lunatic",
+                        "Hard": "hard",
+                        "Normal": "normal"
+                    },
+                    "boon": {
+                        "HP": "hp",
+                        "Strength": "str",
+                        "Magic": "mag",
+                        "Skill": "skl",
+                        "Speed": "spd",
+                        "Luck": "lck",
+                        "Defense": "def",
+                        "Resistance": "res"
+                    },
+                    "bane": {
+                        "HP": "hp",
+                        "Strength": "str",
+                        "Magic": "mag",
+                        "Skill": "skl",
+                        "Speed": "spd",
+                        "Luck": "lck",
+                        "Defense": "def",
+                        "Resistance": "res"
+                    },
+                    "rank": {
+                        "None": "none",
+                        "C Rank": "C",
+                        "B Rank": "B",
+                        "A Rank": "A"
+                    }
+                },
+                "prefix": {
+                    "boon": "+",
+                    "bane": "-",
+                    "modifiers": "+",
+                    "mt": "+",
+                    "hit": "-",
+                    "crit": "?"
+                },
+                "int": {
+                    "mt": [
+                        1,
+                        5
+                    ],
+                    "hit": [
+                        1,
+                        5
+                    ],
+                    "crit": [
+                        1,
+                        5
+                    ],
+                    "parent": [
+                        1,
+                        50
+                    ]
+                },
+                "custom_help": {
+                    "Averages": "text/game/averages/fe13.txt"
+                },
+                "classic_hidden": [
+                    "level"
+                ],
+                "lua": [
+                    "fe13",
+                    "Character"
+                ],
+                "comma": {
+                    "name": "compare",
+                    "size": 4
+                },
+                "stats": {
+                    "modifiers": [
+                        "hp",
+                        "str",
+                        "mag",
+                        "skl",
+                        "spd",
+                        "lck",
+                        "def",
+                        "res",
+                        "atk",
+                        "hit",
+                        "crit",
+                        "as"
+                    ]
+                }
+            },
+            "class": {
+                "main": "database/fe13/job.json",
+                "lua": [
+                    "fe13",
+                    "Job"
+                ]
+            },
+            "item": {
+                "main": "database/fe13/item.json",
+                "lua": [
+                    "fe13",
+                    "Item"
+                ],
+                "int": {
+                    "mt": [
+                        1,
+                        5
+                    ],
+                    "hit": [
+                        1,
+                        5
+                    ],
+                    "crit": [
+                        1,
+                        5
+                    ]
+                },
+                "prefix": {
+                    "mt": "+",
+                    "hit": "-",
+                    "crit": "?"
+                }
+            },
+            "skill": {
+                "main": "database/fe13/skill.json",
+                "lua": [
+                    "fe13",
+                    "Skill"
+                ]
+            }
+        }
+    },
+    "fe14": {
+        "name": "Fates",
+        "default": "unit",
+        "alias": [
+            "fates",
+            "if"
+        ],
+        "color": "0xbfb6c2",
+        "data": {
+            "unit": {
+                "main": "database/fe14/redirect.json",
+                "add": [
+                    "class",
+                    "weapon"
+                ],
+                "exclamation": "mother",
+                "level": {
+                    "lvl": 99,
+                    "size": 20
+                },
+                "multiple": {
+                    "class": 20
+                },
+                "bool": {
+                    "personal": [],
+                    "aptitude": []
+                },
+                "par": {
+                    "offspring": [
+                        "offspringseal"
+                    ],
+                    "wyvernrider": [
+                        "dragon"
+                    ],
+                    "spearfighter": [
+                        "lancer"
+                    ],
+                    "shrinemaiden": [
+                        "priestess"
+                    ],
+                    "darkmage": [
+                        "mage"
+                    ]
+                },
+                "entry": {
+                    "class": "database/fe14/job.json",
+                    "father": "database/fe14/char.json",
+                    "mother": "database/fe14/char.json",
+                    "offspring": "database/fe14/job.json",
+                    "thirdgen": "database/fe14/char.json",
+                    "weapon": "database/fe14/item.json"
+                },
+                "int": {
+                    "chapter": [
+                        8,
+                        27
+                    ],
+                    "forge": [
+                        1,
+                        7
+                    ],
+                    "parent": [
+                        1,
+                        50
+                    ]
+                },
+                "choice": {
+                    "difficulty": {
+                        "Lunatic": "lunatic",
+                        "Hard": "hard",
+                        "Normal": "normal"
+                    },
+                    "boon": {
+                        "Robust (HP)": "hp",
+                        "Strong (Strength)": "str",
+                        "Clever (Magic)": "mag",
+                        "Deft (Skill)": "skl",
+                        "Quick (Speed)": "spd",
+                        "Lucky (Luck)": "lck",
+                        "Sturdy (Defense)": "def",
+                        "Calm (Resistance)": "res"
+                    },
+                    "bane": {
+                        "Sickly (HP)": "hp",
+                        "Weak (Strength)": "str",
+                        "Dull (Magic)": "mag",
+                        "Clumsy (Skill)": "skl",
+                        "Slow (Speed)": "spd",
+                        "Unlucky (Luck)": "lck",
+                        "Fragile (Defense)": "def",
+                        "Excitable (Resistance)": "res"
+                    },
+                    "route": {
+                        "Conquest": "cq",
+                        "Revelation": "rev",
+                        "Birthright": "br"
+                    },
+                    "rank": {
+                        "None": "none",
+                        "C Rank": "C",
+                        "B Rank": "B",
+                        "A Rank": "A"
+                    }
+                },
+                "prefix": {
+                    "boon": "+",
+                    "bane": "-",
+                    "chapter": "-",
+                    "forge": "+",
+                    "modifiers": "$"
+                },
+                "required": [
+                    "route"
+                ],
+                "custom_help": {
+                    "Averages": "text/game/averages/fe14.txt"
+                },
+                "classic_hidden": [
+                    "level",
+                    "route"
+                ],
+                "lua": [
+                    "fe14",
+                    "Redirect"
+                ],
+                "comma": {
+                    "name": "compare",
+                    "size": 4
+                },
+                "stats": {
+                    "modifiers": [
+                        "hp",
+                        "str",
+                        "mag",
+                        "skl",
+                        "spd",
+                        "lck",
+                        "def",
+                        "res",
+                        "atk",
+                        "hit",
+                        "crit",
+                        "as"
+                    ]
+                }
+            },
+            "class": {
+                "main": "database/fe14/job.json",
+                "lua": [
+                    "fe14",
+                    "Job"
+                ]
+            },
+            "skill": {
+                "main": "database/fe14/skill.json",
+                "lua": [
+                    "fe14",
+                    "Skill"
+                ]
+            },
+            "item": {
+                "main": "database/fe14/item.json",
+                "lua": [
+                    "fe14",
+                    "Item"
+                ],
+                "int": {
+                    "forge": [
+                        1,
+                        7
+                    ]
+                },
+                "prefix": {
+                    "forge": "+"
+                }
+            }
+        }
+    }
+}

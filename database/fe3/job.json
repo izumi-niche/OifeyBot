@@ -1,0 +1,876 @@
+{
+    "archer": {
+        "name": "Archer",
+        "dismount": false,
+        "exp": 32,
+        "weapon": [
+            "bow"
+        ],
+        "base": {
+            "hp": 16,
+            "atk": 5,
+            "skl": 3,
+            "spd": 4,
+            "wlv": 7,
+            "def": 6,
+            "res": 0,
+            "mov": 5
+        }
+    },
+    "ballistician": {
+        "name": "Ballistician",
+        "dismount": false,
+        "exp": 32,
+        "weapon": [
+            "ballista"
+        ],
+        "base": {
+            "hp": 18,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "wlv": 12,
+            "def": 0,
+            "res": 0,
+            "mov": 0
+        }
+    },
+    "barbarian": {
+        "name": "Barbarian",
+        "dismount": false,
+        "exp": 40,
+        "weapon": [
+            "axe"
+        ],
+        "base": {
+            "hp": 30,
+            "atk": 8,
+            "skl": 0,
+            "spd": 4,
+            "wlv": 5,
+            "def": 8,
+            "res": 0,
+            "mov": 6
+        }
+    },
+    "berserker": {
+        "name": "Berserker",
+        "dismount": false,
+        "exp": 50,
+        "weapon": [
+            "sword"
+        ],
+        "base": {
+            "hp": 26,
+            "atk": 8,
+            "skl": 8,
+            "spd": 12,
+            "wlv": 5,
+            "def": 8,
+            "res": 0,
+            "mov": 7
+        }
+    },
+    "bishopf": {
+        "name": "Bishop (F)",
+        "dismount": false,
+        "exp": 22,
+        "weapon": [
+            "magic",
+            "staff"
+        ],
+        "promo": {
+            "atk": 2,
+            "skl": 2,
+            "spd": 2,
+            "def": 1,
+            "res": 2
+        },
+        "base": {
+            "hp": 18,
+            "atk": 3,
+            "skl": 3,
+            "spd": 5,
+            "wlv": 12,
+            "def": 2,
+            "res": 7,
+            "mov": 6
+        }
+    },
+    "bishopm": {
+        "name": "Bishop (M)",
+        "dismount": false,
+        "exp": 40,
+        "weapon": [
+            "magic",
+            "staff"
+        ],
+        "promo": {
+            "atk": 2,
+            "skl": 1,
+            "spd": 1,
+            "def": 0,
+            "res": 3
+        },
+        "base": {
+            "hp": 22,
+            "atk": 3,
+            "skl": 2,
+            "spd": 4,
+            "wlv": 2,
+            "def": 2,
+            "res": 6,
+            "mov": 6
+        }
+    },
+    "bishopmerric": {
+        "name": "Bishop (Merric)",
+        "dismount": false,
+        "exp": 22,
+        "weapon": [
+            "magic",
+            "staff"
+        ],
+        "promo": {
+            "atk": 3,
+            "skl": 3,
+            "spd": 2,
+            "def": 1,
+            "res": 4
+        },
+        "base": {
+            "hp": 22,
+            "atk": 4,
+            "skl": 4,
+            "spd": 5,
+            "wlv": 5,
+            "def": 3,
+            "res": 7,
+            "mov": 6
+        }
+    },
+    "brigand": {
+        "name": "Brigand",
+        "dismount": false,
+        "exp": 32,
+        "weapon": [
+            "axe"
+        ],
+        "base": {
+            "hp": 24,
+            "atk": 5,
+            "skl": 0,
+            "spd": 3,
+            "wlv": 10,
+            "def": 3,
+            "res": 0,
+            "mov": 6
+        }
+    },
+    "cavalier": {
+        "name": "Cavalier",
+        "dismount": "dismountedknightm",
+        "exp": 32,
+        "weapon": [
+            "lance"
+        ],
+        "base": {
+            "hp": 18,
+            "atk": 5,
+            "skl": 2,
+            "spd": 4,
+            "wlv": 8,
+            "def": 6,
+            "res": 0,
+            "mov": 9
+        }
+    },
+    "cleric": {
+        "name": "Cleric",
+        "dismount": false,
+        "exp": 10,
+        "weapon": [
+            "staff"
+        ],
+        "base": {
+            "hp": 16,
+            "atk": 1,
+            "skl": 1,
+            "spd": 3,
+            "wlv": 7,
+            "def": 1,
+            "res": 5,
+            "mov": 5
+        }
+    },
+    "dancer": {
+        "name": "Dancer",
+        "dismount": false,
+        "exp": 22,
+        "weapon": [
+            "sword"
+        ],
+        "base": {
+            "hp": 16,
+            "atk": 1,
+            "skl": 2,
+            "spd": 7,
+            "wlv": 12,
+            "def": 1,
+            "res": 0,
+            "mov": 6
+        }
+    },
+    "darkknight": {
+        "name": "Dark Knight",
+        "dismount": false,
+        "exp": 40,
+        "weapon": [
+            "lance"
+        ],
+        "base": {
+            "hp": 22,
+            "atk": 9,
+            "skl": 5,
+            "spd": 6,
+            "wlv": 8,
+            "def": 9,
+            "res": 5,
+            "mov": 9
+        }
+    },
+    "darkmage": {
+        "name": "Dark Mage",
+        "dismount": false,
+        "exp": 40,
+        "weapon": [
+            "magic"
+        ],
+        "base": {
+            "hp": 26,
+            "atk": 5,
+            "skl": 1,
+            "spd": 3,
+            "wlv": 8,
+            "def": 8,
+            "res": 8,
+            "mov": 6
+        }
+    },
+    "demondragon": {
+        "name": "Demon Dragon",
+        "dismount": false,
+        "exp": 50,
+        "weapon": [
+            "breath"
+        ],
+        "base": {
+            "hp": 40,
+            "atk": 6,
+            "skl": 0,
+            "spd": 0,
+            "wlv": 16,
+            "def": 15,
+            "res": 20,
+            "mov": 6
+        }
+    },
+    "dismountedknightf": {
+        "name": "Dismounted Knight (F)",
+        "dismount": false,
+        "exp": 32,
+        "weapon": [
+            "sword"
+        ],
+        "base": {
+            "hp": 18,
+            "atk": 5,
+            "skl": 2,
+            "spd": 4,
+            "wlv": 13,
+            "def": 6,
+            "res": 0,
+            "mov": 6
+        }
+    },
+    "dismountedknightm": {
+        "name": "Dismounted Knight (M)",
+        "dismount": false,
+        "exp": 32,
+        "weapon": [
+            "sword"
+        ],
+        "base": {
+            "hp": 18,
+            "atk": 5,
+            "skl": 2,
+            "spd": 4,
+            "wlv": 7,
+            "def": 6,
+            "res": 0,
+            "mov": 6
+        }
+    },
+    "divinedragon": {
+        "name": "Divine Dragon",
+        "dismount": false,
+        "exp": 0,
+        "weapon": [
+            "breath"
+        ],
+        "base": {
+            "hp": 32,
+            "atk": 10,
+            "skl": 10,
+            "spd": 0,
+            "wlv": 16,
+            "def": 10,
+            "res": 10,
+            "mov": 7
+        }
+    },
+    "dracoknight": {
+        "name": "Dracoknight",
+        "dismount": "dismountedknightf",
+        "exp": 45,
+        "weapon": [
+            "lance"
+        ],
+        "promo": {
+            "atk": 3,
+            "skl": 0,
+            "spd": 0,
+            "def": 4,
+            "res": -6
+        },
+        "base": {
+            "hp": 20,
+            "atk": 8,
+            "skl": 5,
+            "spd": 7,
+            "wlv": 9,
+            "def": 10,
+            "res": 0,
+            "mov": 10
+        }
+    },
+    "earthdragon": {
+        "name": "Earth Dragon",
+        "dismount": false,
+        "exp": 50,
+        "weapon": [
+            "breath"
+        ],
+        "base": {
+            "hp": 52,
+            "atk": 10,
+            "skl": 0,
+            "spd": 0,
+            "wlv": 7,
+            "def": 15,
+            "res": 15,
+            "mov": 5
+        }
+    },
+    "emperor": {
+        "name": "Emperor",
+        "dismount": false,
+        "exp": 60,
+        "weapon": [
+            "lance"
+        ],
+        "base": {
+            "hp": 50,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "wlv": 8,
+            "def": 20,
+            "res": 20,
+            "mov": 5
+        }
+    },
+    "fighter": {
+        "name": "Fighter",
+        "dismount": false,
+        "exp": 32,
+        "weapon": [
+            "axe"
+        ],
+        "base": {
+            "hp": 20,
+            "atk": 5,
+            "skl": 0,
+            "spd": 1,
+            "wlv": 10,
+            "def": 3,
+            "res": 0,
+            "mov": 6
+        }
+    },
+    "firedragon": {
+        "name": "Fire Dragon",
+        "dismount": false,
+        "exp": 50,
+        "weapon": [
+            "breath"
+        ],
+        "base": {
+            "hp": 48,
+            "atk": 8,
+            "skl": 0,
+            "spd": 0,
+            "wlv": 0,
+            "def": 12,
+            "res": 5,
+            "mov": 7
+        }
+    },
+    "flyingdragon": {
+        "name": "Flying Dragon",
+        "dismount": false,
+        "exp": 50,
+        "weapon": [
+            "breath"
+        ],
+        "base": {
+            "hp": 40,
+            "atk": 4,
+            "skl": 0,
+            "spd": 0,
+            "wlv": 7,
+            "def": 10,
+            "res": 5,
+            "mov": 12
+        }
+    },
+    "freelancer": {
+        "name": "Freelancer",
+        "dismount": false,
+        "exp": 22,
+        "weapon": [
+            "sword"
+        ],
+        "base": {
+            "hp": 16,
+            "atk": 1,
+            "skl": 1,
+            "spd": 6,
+            "wlv": 7,
+            "def": 4,
+            "res": 10,
+            "mov": 6
+        }
+    },
+    "general": {
+        "name": "General",
+        "dismount": false,
+        "exp": 45,
+        "weapon": [
+            "lance"
+        ],
+        "promo": {
+            "atk": 2,
+            "skl": 1,
+            "spd": 3,
+            "def": 4,
+            "res": 3
+        },
+        "base": {
+            "hp": 28,
+            "atk": 8,
+            "skl": 3,
+            "spd": 3,
+            "wlv": 10,
+            "def": 15,
+            "res": 3,
+            "mov": 5
+        }
+    },
+    "guardian": {
+        "name": "Guardian",
+        "dismount": false,
+        "exp": 0,
+        "weapon": [],
+        "base": {
+            "hp": 32,
+            "atk": 10,
+            "skl": 0,
+            "spd": 0,
+            "wlv": 16,
+            "def": 14,
+            "res": 20,
+            "mov": 5
+        }
+    },
+    "hero": {
+        "name": "Hero",
+        "dismount": false,
+        "exp": 45,
+        "weapon": [
+            "sword"
+        ],
+        "promo": {
+            "atk": 2,
+            "skl": 2,
+            "spd": 2,
+            "def": 2,
+            "res": 3
+        },
+        "base": {
+            "hp": 22,
+            "atk": 6,
+            "skl": 10,
+            "spd": 12,
+            "wlv": 2,
+            "def": 7,
+            "res": 3,
+            "mov": 7
+        }
+    },
+    "horseman": {
+        "name": "Horseman",
+        "dismount": "hunter",
+        "exp": 40,
+        "weapon": [
+            "bow"
+        ],
+        "promo": {
+            "atk": 0,
+            "skl": 2,
+            "spd": 0,
+            "def": 2,
+            "res": 0
+        },
+        "base": {
+            "hp": 20,
+            "atk": 6,
+            "skl": 6,
+            "spd": 6,
+            "wlv": 6,
+            "def": 6,
+            "res": 0,
+            "mov": 9
+        }
+    },
+    "hunter": {
+        "name": "Hunter",
+        "dismount": false,
+        "exp": 32,
+        "weapon": [
+            "bow"
+        ],
+        "base": {
+            "hp": 18,
+            "atk": 6,
+            "skl": 4,
+            "spd": 6,
+            "wlv": 10,
+            "def": 4,
+            "res": 0,
+            "mov": 6
+        }
+    },
+    "icedragon": {
+        "name": "Ice Dragon",
+        "dismount": false,
+        "exp": 50,
+        "weapon": [
+            "breath"
+        ],
+        "base": {
+            "hp": 30,
+            "atk": 10,
+            "skl": 0,
+            "spd": 0,
+            "wlv": 6,
+            "def": 15,
+            "res": 10,
+            "mov": 6
+        }
+    },
+    "knight": {
+        "name": "Knight",
+        "dismount": false,
+        "exp": 32,
+        "weapon": [
+            "lance"
+        ],
+        "base": {
+            "hp": 18,
+            "atk": 6,
+            "skl": 2,
+            "spd": 0,
+            "wlv": 9,
+            "def": 11,
+            "res": 0,
+            "mov": 5
+        }
+    },
+    "lord": {
+        "name": "Lord",
+        "dismount": false,
+        "exp": 0,
+        "weapon": [
+            "sword"
+        ],
+        "base": {
+            "hp": 18,
+            "atk": 3,
+            "skl": 3,
+            "spd": 4,
+            "wlv": 8,
+            "def": 6,
+            "res": 0,
+            "mov": 7
+        }
+    },
+    "magef": {
+        "name": "Mage (F)",
+        "dismount": false,
+        "exp": 22,
+        "weapon": [
+            "magic"
+        ],
+        "base": {
+            "hp": 16,
+            "atk": 1,
+            "skl": 2,
+            "spd": 3,
+            "wlv": 10,
+            "def": 1,
+            "res": 4,
+            "mov": 6
+        }
+    },
+    "magem": {
+        "name": "Mage (M)",
+        "dismount": false,
+        "exp": 32,
+        "weapon": [
+            "magic"
+        ],
+        "base": {
+            "hp": 16,
+            "atk": 1,
+            "skl": 1,
+            "spd": 3,
+            "wlv": 7,
+            "def": 2,
+            "res": 3,
+            "mov": 6
+        }
+    },
+    "manaketef": {
+        "name": "Manakete (F)",
+        "dismount": false,
+        "exp": 10,
+        "weapon": [
+            "stone"
+        ],
+        "base": {
+            "hp": 16,
+            "atk": 0,
+            "skl": 0,
+            "spd": 3,
+            "wlv": 10,
+            "def": 1,
+            "res": 10,
+            "mov": 5
+        }
+    },
+    "manaketem": {
+        "name": "Manakete (M)",
+        "dismount": false,
+        "exp": 10,
+        "weapon": [
+            "stone"
+        ],
+        "base": {
+            "hp": 16,
+            "atk": 0,
+            "skl": 0,
+            "spd": 2,
+            "wlv": 8,
+            "def": 1,
+            "res": 1,
+            "mov": 5
+        }
+    },
+    "mercenary": {
+        "name": "Mercenary",
+        "dismount": false,
+        "exp": 32,
+        "weapon": [
+            "sword"
+        ],
+        "base": {
+            "hp": 16,
+            "atk": 4,
+            "skl": 8,
+            "spd": 10,
+            "wlv": 2,
+            "def": 5,
+            "res": 0,
+            "mov": 7
+        }
+    },
+    "paladin": {
+        "name": "Paladin",
+        "dismount": "dismountedknightm",
+        "exp": 45,
+        "weapon": [
+            "lance"
+        ],
+        "promo": {
+            "atk": 2,
+            "skl": 3,
+            "spd": 3,
+            "def": 2,
+            "res": 6
+        },
+        "base": {
+            "hp": 22,
+            "atk": 7,
+            "skl": 5,
+            "spd": 7,
+            "wlv": 8,
+            "def": 8,
+            "res": 6,
+            "mov": 10
+        }
+    },
+    "pegasusknight": {
+        "name": "Pegasus Knight",
+        "dismount": "dismountedknightf",
+        "exp": 32,
+        "weapon": [
+            "lance"
+        ],
+        "base": {
+            "hp": 16,
+            "atk": 5,
+            "skl": 5,
+            "spd": 7,
+            "wlv": 12,
+            "def": 6,
+            "res": 6,
+            "mov": 8
+        }
+    },
+    "pirate": {
+        "name": "Pirate",
+        "dismount": false,
+        "exp": 32,
+        "weapon": [
+            "axe"
+        ],
+        "base": {
+            "hp": 22,
+            "atk": 4,
+            "skl": 0,
+            "spd": 2,
+            "wlv": 4,
+            "def": 3,
+            "res": 0,
+            "mov": 5
+        }
+    },
+    "seadragon": {
+        "name": "Sea Dragon",
+        "dismount": false,
+        "exp": 50,
+        "weapon": [
+            "breath"
+        ],
+        "base": {
+            "hp": 26,
+            "atk": 6,
+            "skl": 0,
+            "spd": 0,
+            "wlv": 16,
+            "def": 15,
+            "res": 20,
+            "mov": 6
+        }
+    },
+    "shadowdragon": {
+        "name": "Shadow Dragon",
+        "dismount": false,
+        "exp": 0,
+        "weapon": [
+            "breath"
+        ],
+        "base": {
+            "hp": 52,
+            "atk": 20,
+            "skl": 0,
+            "spd": 0,
+            "wlv": 16,
+            "def": 15,
+            "res": 15,
+            "mov": 5
+        }
+    },
+    "sniper": {
+        "name": "Sniper",
+        "dismount": false,
+        "exp": 45,
+        "weapon": [
+            "bow"
+        ],
+        "promo": {
+            "atk": 2,
+            "skl": 5,
+            "spd": 5,
+            "def": 1,
+            "res": 3
+        },
+        "base": {
+            "hp": 24,
+            "atk": 7,
+            "skl": 8,
+            "spd": 9,
+            "wlv": 10,
+            "def": 7,
+            "res": 3,
+            "mov": 7
+        }
+    },
+    "soldier": {
+        "name": "Soldier",
+        "dismount": false,
+        "exp": 32,
+        "weapon": [
+            "lance"
+        ],
+        "base": {
+            "hp": 18,
+            "atk": 5,
+            "skl": 1,
+            "spd": 3,
+            "wlv": 12,
+            "def": 3,
+            "res": 0,
+            "mov": 6
+        }
+    },
+    "thief": {
+        "name": "Thief",
+        "dismount": false,
+        "exp": 40,
+        "weapon": [
+            "sword"
+        ],
+        "base": {
+            "hp": 16,
+            "atk": 2,
+            "skl": 1,
+            "spd": 7,
+            "wlv": 7,
+            "def": 1,
+            "res": 0,
+            "mov": 7
+        }
+    }
+}

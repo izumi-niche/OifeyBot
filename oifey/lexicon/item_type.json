@@ -1,0 +1,23 @@
+{
+    "Master Bow": ["Meisterbogen"],
+    "Master Sword": ["Meisterschwert"],
+    "Master Lance": ["Meisterlanze"],
+    "Brave Sword": ["Hero Sword"],
+    "Brave Lance": ["Hero Lance"],
+    "Brave Axe": ["Hero Axe"],
+    "Brave Bow": ["Hero Bow"],
+    "Blessed Sword": ["Holy Sword"],
+    "Blessed Lance": ["Holy Lance"],
+    "Blessed Bow": ["Holy Bow"],
+    "Toxin Sword": ["Venin Sword", "Poison Sword"],
+    "Venin Sword": ["Toxin Sword", "Poison Sword"],
+    "Poison Sword": ["Toxin Sword", "Venin Sword"],
+    "Toxin Lance": ["Venin Lance", "Poison Lance"],
+    "Venin Lance": ["Toxin Lance", "Poison Lance"],
+    "Poison Lance": ["Toxin Lance", "Venin Lance"],
+    "Toxin Axe": ["Venin Axe", "Poison Axe"],
+    "Venin Axe": ["Toxin Axe", "Poison Axe"],
+    "Poison Axe": ["Toxin Axe", "Venin Axe"],
+    "Shadow Sword": ["Devil Sword", "Darkness Sword"],
+    "Shadow Lance": ["Devil Lance", "Darkness Lance"]
+}

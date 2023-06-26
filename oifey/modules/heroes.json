@@ -1,0 +1,172 @@
+{
+    "feh": {
+        "name": "Heroes",
+        "default": "unit",
+        "random": {
+            "pool": "database/feh/char.json",
+            "add": [
+                "askr"
+            ]
+        },
+        "color": "0xe6e47a",
+        "data": {
+            "unit": {
+                "main": "database/feh/char.json",
+                "lua": [
+                    "feh",
+                    "Character"
+                ],
+                "add": "wpn",
+                "pass_context": true,
+                "entry": {
+                    "wpn": "database/feh/equip.json"
+                },
+                "int": {
+                    "flower": [
+                        0,
+                        99
+                    ],
+                    "merge": [
+                        0,
+                        20
+                    ],
+                    "rarity": [
+                        1,
+                        5
+                    ]
+                },
+                "choice": {
+                    "support": {
+                        "Summoner Support S": "s",
+                        "Summoner Support A": "a",
+                        "Summoner Support B": "b",
+                        "Summoner Support C": "c"
+                    },
+                    "boon": {
+                        "HP": "hp",
+                        "Attack": "atk",
+                        "Speed": "spd",
+                        "Defense": "def",
+                        "Resistance": "res"
+                    },
+                    "bane": {
+                        "HP": "hp",
+                        "Attack": "atk",
+                        "Speed": "spd",
+                        "Defense": "def",
+                        "Resistance": "res"
+                    },
+                    "ascended": {
+                        "HP": "hp",
+                        "Attack": "atk",
+                        "Speed": "spd",
+                        "Defense": "def",
+                        "Resistance": "res"
+                    }
+                },
+                "bool": {
+                    "resplendent": [
+                        "outfit",
+                        "rp",
+                        "skin",
+                        "resp",
+                        "resplendant"
+                    ],
+                    "bonus": [],
+                    "secret": [],
+                    "max": []
+                },
+                "par": {
+                    "support": [
+                        "summon",
+                        "summoner",
+                        "sup"
+                    ],
+                    "flower": [
+                        "df",
+                        "dragonflower",
+                        "flowers",
+                        "dragon"
+                    ],
+                    "wpn": [
+                        "equip"
+                    ],
+                    "ascended": [
+                        "ascension"
+                    ]
+                },
+                "prefix": {
+                    "boon": "+",
+                    "ascended": "+",
+                    "bane": "-",
+                    "merge": "+",
+                    "flower": "-",
+                    "modifiers": "$"
+                },
+                "custom_help": {
+                    "Compare": "text/feh_compare_classic_help.txt"
+                },
+                "comma": {
+                    "name": "compare",
+                    "size": 4
+                },
+                "stats": {
+                    "modifiers": [
+                        "hp",
+                        "atk",
+                        "spd",
+                        "def",
+                        "res"
+                    ]
+                }
+            },
+            "skill": {
+                "main": "database/feh/skill.json",
+                "lua": [
+                    "feh",
+                    "Skill"
+                ],
+                "alias": [
+                    "weapon",
+                    "assist",
+                    "special",
+                    "passive"
+                ]
+            },
+            "art": {
+                "main": "database/feh/char.json",
+                "lua": [
+                    "feh",
+                    "Display"
+                ]
+            },
+            "quotes": {
+                "main": "database/feh/char.json",
+                "lua": [
+                    "feh",
+                    "Quotes"
+                ],
+                "pass_context": true
+            },
+            "artist": {
+                "main": "database/feh/artist.json",
+                "lua": [
+                    "feh",
+                    "Artist"
+                ]
+            },
+            "va": {
+                "main": "database/feh/va.json",
+                "lua": [
+                    "feh",
+                    "Voice"
+                ],
+                "alias": [
+                    "actor",
+                    "voice",
+                    "voiceactor"
+                ]
+            }
+        }
+    }
+}

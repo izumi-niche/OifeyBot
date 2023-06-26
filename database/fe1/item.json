@@ -1,0 +1,1114 @@
+{
+    "ironsword": {
+        "name": "Iron Sword",
+        "type": "sword",
+        "desc": false,
+        "stats": {
+            "wlv": 2,
+            "mt": 5,
+            "hit": 100,
+            "wt": 2,
+            "crit": 0,
+            "rng": 1,
+            "uses": 42,
+            "price": 320
+        },
+        "info": {},
+        "weapon": true
+    },
+    "steelsword": {
+        "name": "Steel Sword",
+        "type": "sword",
+        "desc": false,
+        "stats": {
+            "wlv": 2,
+            "mt": 8,
+            "hit": 80,
+            "wt": 4,
+            "crit": 0,
+            "rng": 1,
+            "uses": 38,
+            "price": 500
+        },
+        "info": {},
+        "weapon": true
+    },
+    "silversword": {
+        "name": "Silver Sword",
+        "type": "sword",
+        "desc": false,
+        "stats": {
+            "wlv": 9,
+            "mt": 12,
+            "hit": 100,
+            "wt": 3,
+            "crit": 0,
+            "rng": 1,
+            "uses": 17,
+            "price": 2000
+        },
+        "info": {},
+        "weapon": true
+    },
+    "killingedge": {
+        "name": "Killing Edge",
+        "type": "sword",
+        "desc": false,
+        "stats": {
+            "wlv": 7,
+            "mt": 8,
+            "hit": 100,
+            "wt": 2,
+            "crit": 20,
+            "rng": 1,
+            "uses": 22,
+            "price": 1250
+        },
+        "info": {},
+        "weapon": true
+    },
+    "levinsword": {
+        "name": "Levin Sword",
+        "type": "sword",
+        "desc": "Cannot be used by Generals.",
+        "stats": {
+            "wlv": 8,
+            "mt": 7,
+            "hit": 90,
+            "wt": 2,
+            "crit": 0,
+            "rng": "1-2",
+            "uses": 20,
+            "price": 1600
+        },
+        "info": {},
+        "weapon": true
+    },
+    "devilsword": {
+        "name": "Devil Sword",
+        "type": "sword",
+        "desc": "(21 - Luck)% chance to backfire.",
+        "stats": {
+            "wlv": 1,
+            "mt": 17,
+            "hit": 100,
+            "wt": 5,
+            "crit": 0,
+            "rng": 1,
+            "uses": 19
+        },
+        "info": {},
+        "weapon": true
+    },
+    "wyrmslayer": {
+        "name": "Wyrmslayer",
+        "type": "sword",
+        "desc": "Effective against Wyvern Knights and transformed Manaketes (except earth dragons).",
+        "stats": {
+            "wlv": 7,
+            "mt": 6,
+            "hit": 80,
+            "wt": 2,
+            "crit": 0,
+            "rng": 1,
+            "uses": 16
+        },
+        "info": {},
+        "weapon": true
+    },
+    "armorslayer": {
+        "name": "Armorslayer",
+        "type": "sword",
+        "desc": "Effective against Knights and Generals.",
+        "stats": {
+            "wlv": 3,
+            "mt": 5,
+            "hit": 80,
+            "wt": 2,
+            "crit": 0,
+            "rng": 1,
+            "uses": 22,
+            "price": 760
+        },
+        "info": {},
+        "weapon": true
+    },
+    "rapier": {
+        "name": "Rapier",
+        "type": "sword",
+        "desc": "Marth only. Effective against Cavaliers, Knights, Paladins and Generals.",
+        "stats": {
+            "mt": 5,
+            "hit": 100,
+            "wt": 1,
+            "crit": 10,
+            "rng": 1,
+            "uses": 28,
+            "price": 900
+        },
+        "info": {},
+        "weapon": true
+    },
+    "mercurius": {
+        "name": "Mercurius",
+        "type": "sword",
+        "desc": "Marth only. Has a 25% chance to gain 2 points when a stat increases during a level-up.",
+        "stats": {
+            "mt": 18,
+            "hit": 100,
+            "wt": 1,
+            "crit": 10,
+            "rng": 1,
+            "uses": 24
+        },
+        "info": {},
+        "weapon": true
+    },
+    "falchion": {
+        "name": "Falchion",
+        "type": "sword",
+        "desc": "Marth only. Effective against Medeus, negates non-manakete direct attacks and can be used to recover HP.",
+        "stats": {
+            "mt": 10,
+            "hit": 100,
+            "wt": 3,
+            "crit": 0,
+            "rng": 1
+        },
+        "info": {},
+        "weapon": true
+    },
+    "lance": {
+        "name": "Lance",
+        "type": "lance",
+        "desc": false,
+        "stats": {
+            "wlv": 1,
+            "mt": 8,
+            "hit": 80,
+            "wt": 6,
+            "crit": 0,
+            "rng": 1,
+            "uses": 38,
+            "price": 450
+        },
+        "info": {},
+        "weapon": true
+    },
+    "silverlance": {
+        "name": "Silver Lance",
+        "type": "lance",
+        "desc": false,
+        "stats": {
+            "wlv": 7,
+            "mt": 12,
+            "hit": 80,
+            "wt": 7,
+            "crit": 0,
+            "rng": 1,
+            "uses": 20,
+            "price": 1880
+        },
+        "info": {},
+        "weapon": true
+    },
+    "ridersbane": {
+        "name": "Ridersbane",
+        "type": "lance",
+        "desc": "Effective against cavaliers.",
+        "stats": {
+            "wlv": 4,
+            "mt": 5,
+            "hit": 90,
+            "wt": 5,
+            "crit": 0,
+            "rng": 1,
+            "uses": 14,
+            "price": 820
+        },
+        "info": {},
+        "weapon": true
+    },
+    "javelin": {
+        "name": "Javelin",
+        "type": "lance",
+        "desc": false,
+        "stats": {
+            "wlv": 3,
+            "mt": 7,
+            "hit": 70,
+            "wt": 6,
+            "crit": 0,
+            "rng": "1-2",
+            "uses": 22,
+            "price": 600
+        },
+        "info": {},
+        "weapon": true
+    },
+    "gradivus": {
+        "name": "Gradivus",
+        "type": "lance",
+        "desc": "Can be used to recover HP.",
+        "stats": {
+            "wlv": 14,
+            "mt": 20,
+            "hit": 100,
+            "wt": 4,
+            "crit": 0,
+            "rng": "1-2",
+            "uses": 17
+        },
+        "info": {},
+        "weapon": true
+    },
+    "axe": {
+        "name": "Axe",
+        "type": "axe",
+        "desc": false,
+        "stats": {
+            "wlv": 1,
+            "mt": 7,
+            "hit": 80,
+            "wt": 7,
+            "crit": 0,
+            "rng": 1,
+            "uses": 43,
+            "price": 360
+        },
+        "info": {},
+        "weapon": true
+    },
+    "steelaxe": {
+        "name": "Steel Axe",
+        "type": "axe",
+        "desc": false,
+        "stats": {
+            "wlv": 2,
+            "mt": 9,
+            "hit": 70,
+            "wt": 9,
+            "crit": 0,
+            "rng": 1,
+            "uses": 31,
+            "price": 550
+        },
+        "info": {},
+        "weapon": true
+    },
+    "hammer": {
+        "name": "Hammer",
+        "type": "axe",
+        "desc": "Effective against Knights and Generals.",
+        "stats": {
+            "wlv": 2,
+            "mt": 6,
+            "hit": 70,
+            "wt": 6,
+            "crit": 0,
+            "rng": 1,
+            "uses": 40,
+            "price": 300
+        },
+        "info": {},
+        "weapon": true
+    },
+    "devilaxe": {
+        "name": "Devil Axe",
+        "type": "axe",
+        "desc": "May damage user.",
+        "stats": {
+            "wlv": 4,
+            "mt": 20,
+            "hit": 70,
+            "wt": 14,
+            "crit": 0,
+            "rng": 1,
+            "uses": 9
+        },
+        "info": {},
+        "weapon": true
+    },
+    "handaxe": {
+        "name": "Hand Axe",
+        "type": "axe",
+        "desc": false,
+        "stats": {
+            "wlv": 3,
+            "mt": 5,
+            "hit": 60,
+            "wt": 9,
+            "crit": 0,
+            "rng": "1-2",
+            "uses": 13,
+            "price": 450
+        },
+        "info": {},
+        "weapon": true
+    },
+    "bow": {
+        "name": "Bow",
+        "type": "bow",
+        "desc": false,
+        "stats": {
+            "wlv": 1,
+            "mt": 4,
+            "hit": 90,
+            "wt": 1,
+            "crit": 0,
+            "rng": 2,
+            "uses": 33,
+            "price": 400
+        },
+        "info": {},
+        "weapon": true
+    },
+    "steelbow": {
+        "name": "Steel Bow",
+        "type": "bow",
+        "desc": false,
+        "stats": {
+            "wlv": 3,
+            "mt": 7,
+            "hit": 80,
+            "wt": 3,
+            "crit": 0,
+            "rng": 2,
+            "uses": 28,
+            "price": 560
+        },
+        "info": {},
+        "weapon": true
+    },
+    "bowgun": {
+        "name": "Bowgun",
+        "type": "bow",
+        "desc": false,
+        "stats": {
+            "wlv": 2,
+            "mt": 5,
+            "hit": 100,
+            "wt": 2,
+            "crit": 20,
+            "rng": 2,
+            "uses": 37,
+            "price": 950
+        },
+        "info": {},
+        "weapon": true
+    },
+    "silverbow": {
+        "name": "Silver Bow",
+        "type": "bow",
+        "desc": false,
+        "stats": {
+            "wlv": 7,
+            "mt": 11,
+            "hit": 80,
+            "wt": 6,
+            "crit": 0,
+            "rng": 2,
+            "uses": 24,
+            "price": 2200
+        },
+        "info": {},
+        "weapon": true
+    },
+    "parthia": {
+        "name": "Parthia",
+        "type": "bow",
+        "desc": "Can be used to increase resistance by 7 (effect lowers each turn).",
+        "stats": {
+            "wlv": 13,
+            "mt": 17,
+            "hit": 100,
+            "wt": 3,
+            "crit": 0,
+            "rng": 2,
+            "uses": 17
+        },
+        "info": {},
+        "weapon": true
+    },
+    "fire": {
+        "name": "Fire",
+        "type": "magic",
+        "desc": false,
+        "stats": {
+            "wlv": 1,
+            "mt": 5,
+            "hit": 100,
+            "wt": 0,
+            "crit": 0,
+            "rng": "1-2",
+            "uses": 25,
+            "price": 300
+        },
+        "info": {},
+        "weapon": true
+    },
+    "thunder": {
+        "name": "Thunder",
+        "type": "magic",
+        "desc": false,
+        "stats": {
+            "wlv": 2,
+            "mt": 6,
+            "hit": 90,
+            "wt": 1,
+            "crit": 0,
+            "rng": "1-2",
+            "uses": 21,
+            "price": 460
+        },
+        "info": {},
+        "weapon": true
+    },
+    "blizzard": {
+        "name": "Blizzard",
+        "type": "magic",
+        "desc": false,
+        "stats": {
+            "wlv": 3,
+            "mt": 7,
+            "hit": 80,
+            "wt": 2,
+            "crit": 5,
+            "rng": "1-2",
+            "uses": 23,
+            "price": 700
+        },
+        "info": {},
+        "weapon": true
+    },
+    "elfire": {
+        "name": "Elfire",
+        "type": "magic",
+        "desc": false,
+        "stats": {
+            "wlv": 4,
+            "mt": 9,
+            "hit": 80,
+            "wt": 5,
+            "crit": 0,
+            "rng": "1-2",
+            "uses": 18,
+            "price": 1250
+        },
+        "info": {},
+        "weapon": true
+    },
+    "bolganone": {
+        "name": "Bolganone",
+        "type": "magic",
+        "desc": false,
+        "stats": {
+            "wlv": 5,
+            "mt": 12,
+            "hit": 70,
+            "wt": 6,
+            "crit": 0,
+            "rng": "1-2",
+            "uses": 13,
+            "price": 1600
+        },
+        "info": {},
+        "weapon": true
+    },
+    "thoron": {
+        "name": "Thoron",
+        "type": "magic",
+        "desc": false,
+        "stats": {
+            "wlv": 6,
+            "mt": 13,
+            "hit": 100,
+            "wt": 3,
+            "crit": 10,
+            "rng": "1-2",
+            "uses": 21,
+            "price": 1950
+        },
+        "info": {},
+        "weapon": true
+    },
+    "swarm": {
+        "name": "Swarm",
+        "type": "magic",
+        "desc": false,
+        "stats": {
+            "wlv": 7,
+            "mt": 16,
+            "hit": 70,
+            "wt": 9,
+            "crit": 0,
+            "rng": "1-2",
+            "uses": 25,
+            "price": 2280
+        },
+        "info": {},
+        "weapon": true
+    },
+    "aura": {
+        "name": "Aura",
+        "type": "magic",
+        "desc": "Linde only.",
+        "stats": {
+            "mt": 20,
+            "hit": 90,
+            "wt": 7,
+            "crit": 0,
+            "rng": "1-2",
+            "uses": 25
+        },
+        "info": {},
+        "weapon": true
+    },
+    "excalibur": {
+        "name": "Excalibur",
+        "type": "magic",
+        "desc": "Merric only.",
+        "stats": {
+            "mt": 13,
+            "hit": 100,
+            "wt": 3,
+            "crit": 20,
+            "rng": "1-2",
+            "uses": 33
+        },
+        "info": {},
+        "weapon": true
+    },
+    "imhullu": {
+        "name": "Imhullu",
+        "type": "magic",
+        "desc": "Gharnef only, negates foe's attacks.",
+        "stats": {
+            "mt": 14,
+            "hit": 70,
+            "wt": 9,
+            "crit": 0,
+            "rng": "1-2",
+            "uses": 18
+        },
+        "info": {},
+        "weapon": true
+    },
+    "starlight": {
+        "name": "Starlight",
+        "type": "magic",
+        "desc": "Negates imhullu's special effect.",
+        "stats": {
+            "wlv": 9,
+            "mt": 13,
+            "hit": 100,
+            "wt": 5,
+            "crit": 0,
+            "rng": "1-2",
+            "uses": 12
+        },
+        "info": {},
+        "weapon": true
+    },
+    "arrowspate": {
+        "name": "Arrowspate",
+        "type": "ballista",
+        "desc": "Effective against Pegasus Knights and Wyvern Knights.",
+        "stats": {
+            "wlv": 1,
+            "mt": 12,
+            "hit": 90,
+            "wt": 7,
+            "crit": 0,
+            "rng": 2,
+            "uses": 27,
+            "price": 1000
+        },
+        "info": {},
+        "weapon": true
+    },
+    "stonehoist": {
+        "name": "Stonehoist",
+        "type": "ballista",
+        "desc": false,
+        "stats": {
+            "wlv": 2,
+            "mt": 15,
+            "hit": 50,
+            "wt": 13,
+            "crit": 0,
+            "rng": 2,
+            "uses": 43,
+            "price": 1280
+        },
+        "info": {},
+        "weapon": true
+    },
+    "hoistflamme": {
+        "name": "Hoistflamme",
+        "type": "ballista",
+        "desc": false,
+        "stats": {
+            "wlv": 5,
+            "mt": 12,
+            "hit": 100,
+            "wt": 10,
+            "crit": 0,
+            "rng": 2,
+            "uses": 23,
+            "price": 1400
+        },
+        "info": {},
+        "weapon": true
+    },
+    "thunderbolt": {
+        "name": "Thunderbolt",
+        "type": "ballista",
+        "desc": "Effective against ballisticians.",
+        "stats": {
+            "wlv": 6,
+            "mt": 10,
+            "hit": 90,
+            "wt": 11,
+            "crit": 0,
+            "rng": 2,
+            "uses": 23
+        },
+        "info": {},
+        "weapon": true
+    },
+    "pachyderm": {
+        "name": "Pachyderm",
+        "type": "ballista",
+        "desc": false,
+        "stats": {
+            "wlv": 1,
+            "mt": 18,
+            "hit": 90,
+            "wt": 12,
+            "crit": 0,
+            "rng": 2,
+            "uses": 19
+        },
+        "info": {},
+        "weapon": true
+    },
+    "firestone": {
+        "name": "Firestone",
+        "type": "stone",
+        "desc": "Bantu only. Grants Defense +12.",
+        "stats": {
+            "mt": 16,
+            "hit": 80,
+            "wt": 3,
+            "crit": 0,
+            "rng": 1
+        },
+        "info": {},
+        "weapon": true
+    },
+    "divinestone": {
+        "name": "Divinestone",
+        "type": "stone",
+        "desc": "Tiki only. Effective against Manaketes (except earth dragons), grants Defense +15.",
+        "stats": {
+            "mt": 12,
+            "hit": 100,
+            "wt": 1,
+            "crit": 0,
+            "rng": 1
+        },
+        "info": {},
+        "weapon": true
+    },
+    "magestone": {
+        "name": "Magestone",
+        "type": "stone",
+        "desc": "Negates magic, defense +16.",
+        "stats": {
+            "mt": 18,
+            "hit": 90,
+            "wt": 6,
+            "crit": 0,
+            "rng": 1
+        },
+        "info": {},
+        "weapon": true
+    },
+    "earthstone": {
+        "name": "Earthstone",
+        "type": "stone",
+        "desc": "Negates ranged attacks, defense +23.",
+        "stats": {
+            "mt": 20,
+            "hit": 70,
+            "wt": 10,
+            "crit": 0,
+            "rng": 1
+        },
+        "info": {},
+        "weapon": true
+    },
+    "heal": {
+        "name": "Heal",
+        "type": "staff",
+        "desc": "Restores 10 HP to an ally.",
+        "stats": {
+            "wlv": 1,
+            "rng": 1,
+            "uses": 20,
+            "price": 780
+        },
+        "info": {},
+        "weapon": false
+    },
+    "mend": {
+        "name": "Mend",
+        "type": "staff",
+        "desc": "Restores 20 HP to an ally.",
+        "stats": {
+            "wlv": 2,
+            "rng": 1,
+            "uses": 16,
+            "price": 1200
+        },
+        "info": {},
+        "weapon": false
+    },
+    "recover": {
+        "name": "Recover",
+        "type": "staff",
+        "desc": "Restores all HP to an ally.",
+        "stats": {
+            "wlv": 3,
+            "rng": 1,
+            "uses": 13,
+            "price": 1550
+        },
+        "info": {},
+        "weapon": false
+    },
+    "physic": {
+        "name": "Physic",
+        "type": "staff",
+        "desc": "Restores 10 HP to an ally.",
+        "stats": {
+            "wlv": 7,
+            "rng": "All",
+            "uses": 10,
+            "price": 2450
+        },
+        "info": {},
+        "weapon": false
+    },
+    "fortify": {
+        "name": "Fortify",
+        "type": "staff",
+        "desc": "Restores 10 HP to all allies.",
+        "stats": {
+            "wlv": 8,
+            "rng": "All",
+            "uses": 12
+        },
+        "info": {},
+        "weapon": false
+    },
+    "warp": {
+        "name": "Warp",
+        "type": "staff",
+        "desc": "Teleports an ally.",
+        "stats": {
+            "wlv": 6,
+            "rng": 1,
+            "uses": 7
+        },
+        "info": {},
+        "weapon": false
+    },
+    "barrier": {
+        "name": "Barrier",
+        "type": "staff",
+        "desc": "Increases ally's resistance by 7 (effect lowers each turn).",
+        "stats": {
+            "wlv": 8,
+            "rng": 1,
+            "uses": 18,
+            "price": 2500
+        },
+        "info": {},
+        "weapon": false
+    },
+    "hammerne": {
+        "name": "Hammerne",
+        "type": "staff",
+        "desc": "Lena only. Repairs an ally's weapon to full uses.",
+        "stats": {
+            "wlv": 6,
+            "rng": 1,
+            "uses": 12
+        },
+        "info": {},
+        "weapon": false
+    },
+    "aum": {
+        "name": "Aum",
+        "type": "staff",
+        "desc": "Elice only. Revives a fallen ally (chapter 24 only).",
+        "stats": {
+            "wlv": 1,
+            "uses": 1
+        },
+        "info": {},
+        "weapon": false
+    },
+    "doorkey": {
+        "name": "Door Key",
+        "type": "item",
+        "desc": "Opens a door.",
+        "stats": {
+            "uses": 1,
+            "price": 500
+        },
+        "info": {},
+        "weapon": false
+    },
+    "bridgekey": {
+        "name": "Bridge Key",
+        "type": "item",
+        "desc": "Opens a drawbridge.",
+        "stats": {
+            "uses": 1,
+            "price": 900
+        },
+        "info": {},
+        "weapon": false
+    },
+    "masterkey": {
+        "name": "Master Key",
+        "type": "item",
+        "desc": "Thieves only. Opens a door or drawbridge.",
+        "stats": {
+            "uses": 16,
+            "price": 2550
+        },
+        "info": {},
+        "weapon": false
+    },
+    "vulnerary": {
+        "name": "Vulnerary",
+        "type": "item",
+        "desc": "Restores 10 HP.",
+        "stats": {
+            "uses": 5,
+            "price": 600
+        },
+        "info": {},
+        "weapon": false
+    },
+    "purewater": {
+        "name": "Pure Water",
+        "type": "item",
+        "desc": "Increases resistance by 7 (effect lowers each turn).",
+        "stats": {
+            "uses": 5,
+            "price": 1450
+        },
+        "info": {},
+        "weapon": false
+    },
+    "powerring": {
+        "name": "Power Ring",
+        "type": "item",
+        "desc": "Permanently increases strength by 4.",
+        "stats": {
+            "uses": 1,
+            "price": 2250
+        },
+        "info": {},
+        "weapon": false
+    },
+    "secretbook": {
+        "name": "Secret Book",
+        "type": "item",
+        "desc": "Permanently increases skill by 5.",
+        "stats": {
+            "uses": 1,
+            "price": 2250
+        },
+        "info": {},
+        "weapon": false
+    },
+    "speedring": {
+        "name": "Speed Ring",
+        "type": "item",
+        "desc": "Permanently increases speed by 6.",
+        "stats": {
+            "uses": 1,
+            "price": 2250
+        },
+        "info": {},
+        "weapon": false
+    },
+    "goddessicon": {
+        "name": "Goddess Icon",
+        "type": "item",
+        "desc": "Permanently increases luck by 7.",
+        "stats": {
+            "uses": 1,
+            "price": 2250
+        },
+        "info": {},
+        "weapon": false
+    },
+    "dracoshield": {
+        "name": "Dracoshield",
+        "type": "item",
+        "desc": "Permanently increases defense by 3.",
+        "stats": {
+            "uses": 1,
+            "price": 2250
+        },
+        "info": {},
+        "weapon": false
+    },
+    "talisman": {
+        "name": "Talisman",
+        "type": "item",
+        "desc": "Permanently increases resistance by 7.",
+        "stats": {
+            "uses": 1,
+            "price": 2550
+        },
+        "info": {},
+        "weapon": false
+    },
+    "seraphrobe": {
+        "name": "Seraph Robe",
+        "type": "item",
+        "desc": "Permanently increases max HP by 9.",
+        "stats": {
+            "uses": 1,
+            "price": 2250
+        },
+        "info": {},
+        "weapon": false
+    },
+    "manual": {
+        "name": "Manual",
+        "type": "item",
+        "desc": "Permanently increases weapon level by 5.",
+        "stats": {
+            "uses": 1
+        },
+        "info": {},
+        "weapon": false
+    },
+    "boots": {
+        "name": "Boots",
+        "type": "item",
+        "desc": "Permanently increases movement by 4.",
+        "stats": {
+            "uses": 1,
+            "price": 2250
+        },
+        "info": {},
+        "weapon": false
+    },
+    "paladinshonor": {
+        "name": "Paladin's Honor",
+        "type": "item",
+        "desc": "Promotes level 10 or higher cavaliers.",
+        "stats": {
+            "uses": 1,
+            "price": 2000
+        },
+        "info": {},
+        "weapon": false
+    },
+    "herocrest": {
+        "name": "Hero Crest",
+        "type": "item",
+        "desc": "Promotes level 10 or higher mercenaries.",
+        "stats": {
+            "uses": 1,
+            "price": 2000
+        },
+        "info": {},
+        "weapon": false
+    },
+    "bishopsring": {
+        "name": "Bishop's Ring",
+        "type": "item",
+        "desc": "Promotes level 10 or higher mages and curates.",
+        "stats": {
+            "uses": 1,
+            "price": 2000
+        },
+        "info": {},
+        "weapon": false
+    },
+    "orionsbolt": {
+        "name": "Orion's Bolt",
+        "type": "item",
+        "desc": "Promotes level 10 or higher archers.",
+        "stats": {
+            "uses": 1,
+            "price": 2000
+        },
+        "info": {},
+        "weapon": false
+    },
+    "skydrakewhip": {
+        "name": "Skydrake Whip",
+        "type": "item",
+        "desc": "Promotes level 10 or higher Pegasus Knights.",
+        "stats": {
+            "uses": 1,
+            "price": 2000
+        },
+        "info": {},
+        "weapon": false
+    },
+    "silvercard": {
+        "name": "Silver Card",
+        "type": "item",
+        "desc": "User can buy items for half price.",
+        "stats": {},
+        "info": {},
+        "weapon": false
+    },
+    "vipcard": {
+        "name": "VIP Card",
+        "type": "item",
+        "desc": "Allows user access to secret shops.",
+        "stats": {},
+        "info": {},
+        "weapon": false
+    },
+    "geosphere": {
+        "name": "Geosphere",
+        "type": "item",
+        "desc": "Deals damage to all units (both allies and enemies) in the map when used.",
+        "stats": {
+            "uses": 3
+        },
+        "info": {},
+        "weapon": false
+    },
+    "starsphere": {
+        "name": "Starsphere",
+        "type": "item",
+        "desc": "Stops weapon uses from decreasing.",
+        "stats": {},
+        "info": {},
+        "weapon": false
+    },
+    "lightsphere": {
+        "name": "Lightsphere",
+        "type": "item",
+        "desc": "Negates enemy's terrain bonus.",
+        "stats": {},
+        "info": {},
+        "weapon": false
+    }
+}

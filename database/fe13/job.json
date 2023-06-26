@@ -1,0 +1,2968 @@
+{
+    "archer": {
+        "name": "Archer",
+        "promo": [
+            "sniper",
+            "bowknight"
+        ],
+        "base": {
+            "hp": 16,
+            "str": 5,
+            "mag": 0,
+            "skl": 8,
+            "spd": 6,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "str": 26,
+            "mag": 20,
+            "skl": 29,
+            "spd": 25,
+            "lck": 30,
+            "def": 25,
+            "res": 21
+        },
+        "growth": {
+            "hp": 45,
+            "str": 15,
+            "mag": 0,
+            "skl": 30,
+            "spd": 15,
+            "lck": 0,
+            "def": 10,
+            "res": 5
+        },
+        "pairup": {
+            "str": 2,
+            "mag": 0,
+            "skl": 2,
+            "spd": 0,
+            "lck": 0,
+            "def": 2,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "bow": 181
+        },
+        "skill": {
+            "skill2": 1,
+            "prescience": 10
+        }
+    },
+    "assassin": {
+        "name": "Assassin",
+        "promo": [],
+        "base": {
+            "hp": 21,
+            "str": 8,
+            "mag": 0,
+            "skl": 13,
+            "spd": 12,
+            "lck": 0,
+            "def": 5,
+            "res": 1,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 80,
+            "str": 40,
+            "mag": 30,
+            "skl": 48,
+            "spd": 46,
+            "lck": 45,
+            "def": 31,
+            "res": 30
+        },
+        "growth": {
+            "hp": 40,
+            "str": 20,
+            "mag": 0,
+            "skl": 30,
+            "spd": 25,
+            "lck": 0,
+            "def": 5,
+            "res": 5
+        },
+        "pairup": {
+            "str": 2,
+            "mag": 0,
+            "skl": 2,
+            "spd": 4,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "sword": 181,
+            "bow": 181
+        },
+        "skill": {
+            "lethality": 5,
+            "pass": 15
+        }
+    },
+    "barbarian": {
+        "name": "Barbarian",
+        "promo": [
+            "berserker",
+            "warrior"
+        ],
+        "base": {
+            "hp": 22,
+            "str": 8,
+            "mag": 0,
+            "skl": 3,
+            "spd": 8,
+            "lck": 0,
+            "def": 3,
+            "res": 0,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "str": 30,
+            "mag": 20,
+            "skl": 23,
+            "spd": 27,
+            "lck": 30,
+            "def": 22,
+            "res": 20
+        },
+        "growth": {
+            "hp": 50,
+            "str": 25,
+            "mag": 0,
+            "skl": 15,
+            "spd": 20,
+            "lck": 0,
+            "def": 5,
+            "res": 5
+        },
+        "pairup": {
+            "str": 4,
+            "mag": 0,
+            "skl": 0,
+            "spd": 2,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "axe": 181
+        },
+        "skill": {
+            "despoil": 1,
+            "gamble": 10
+        }
+    },
+    "berserker": {
+        "name": "Berserker",
+        "promo": [],
+        "base": {
+            "hp": 30,
+            "str": 13,
+            "mag": 0,
+            "skl": 5,
+            "spd": 11,
+            "lck": 0,
+            "def": 5,
+            "res": 1,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 80,
+            "str": 50,
+            "mag": 30,
+            "skl": 35,
+            "spd": 44,
+            "lck": 45,
+            "def": 34,
+            "res": 30
+        },
+        "growth": {
+            "hp": 50,
+            "str": 25,
+            "mag": 0,
+            "skl": 15,
+            "spd": 20,
+            "lck": 0,
+            "def": 5,
+            "res": 5
+        },
+        "pairup": {
+            "str": 5,
+            "mag": 0,
+            "skl": 0,
+            "spd": 3,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "axe": 181
+        },
+        "skill": {
+            "wrath": 5,
+            "axefaire": 15
+        }
+    },
+    "bowknight": {
+        "name": "Bow Knight",
+        "promo": [],
+        "base": {
+            "hp": 24,
+            "str": 8,
+            "mag": 0,
+            "skl": 10,
+            "spd": 10,
+            "lck": 0,
+            "def": 6,
+            "res": 2,
+            "mov": 8
+        },
+        "cap": {
+            "hp": 80,
+            "str": 40,
+            "mag": 30,
+            "skl": 43,
+            "spd": 41,
+            "lck": 45,
+            "def": 35,
+            "res": 30
+        },
+        "growth": {
+            "hp": 50,
+            "str": 20,
+            "mag": 0,
+            "skl": 25,
+            "spd": 20,
+            "lck": 0,
+            "def": 5,
+            "res": 5
+        },
+        "pairup": {
+            "str": 0,
+            "mag": 0,
+            "skl": 3,
+            "spd": 3,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "mov": 1
+        },
+        "rank": {
+            "sword": 181,
+            "bow": 181
+        },
+        "skill": {
+            "rallyskill": 5,
+            "bowbreaker": 15
+        }
+    },
+    "bride": {
+        "name": "Bride",
+        "promo": [],
+        "base": {
+            "hp": 21,
+            "str": 7,
+            "mag": 6,
+            "skl": 11,
+            "spd": 10,
+            "lck": 0,
+            "def": 7,
+            "res": 6,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 80,
+            "str": 40,
+            "mag": 39,
+            "skl": 42,
+            "spd": 42,
+            "lck": 45,
+            "def": 41,
+            "res": 40
+        },
+        "growth": {
+            "hp": 40,
+            "str": 20,
+            "mag": 10,
+            "skl": 20,
+            "spd": 20,
+            "lck": 0,
+            "def": 10,
+            "res": 10
+        },
+        "pairup": {
+            "str": 0,
+            "mag": 2,
+            "skl": 0,
+            "spd": 2,
+            "lck": 2,
+            "def": 0,
+            "res": 2,
+            "mov": 0
+        },
+        "rank": {
+            "lance": 181,
+            "bow": 181,
+            "staff": 181
+        },
+        "skill": {
+            "rallyheart": 1,
+            "bond": 15
+        }
+    },
+    "cavalier": {
+        "name": "Cavalier",
+        "promo": [
+            "paladin",
+            "greatknight"
+        ],
+        "base": {
+            "hp": 18,
+            "str": 6,
+            "mag": 0,
+            "skl": 5,
+            "spd": 6,
+            "lck": 0,
+            "def": 7,
+            "res": 0,
+            "mov": 7
+        },
+        "cap": {
+            "hp": 60,
+            "str": 26,
+            "mag": 20,
+            "skl": 25,
+            "spd": 25,
+            "lck": 30,
+            "def": 26,
+            "res": 26
+        },
+        "growth": {
+            "hp": 45,
+            "str": 20,
+            "mag": 0,
+            "skl": 20,
+            "spd": 20,
+            "lck": 0,
+            "def": 10,
+            "res": 5
+        },
+        "pairup": {
+            "str": 2,
+            "mag": 0,
+            "skl": 1,
+            "spd": 1,
+            "lck": 0,
+            "def": 2,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "sword": 181,
+            "lance": 181
+        },
+        "skill": {
+            "discipline": 1,
+            "outdoorfighter": 10
+        }
+    },
+    "cleric": {
+        "name": "Cleric",
+        "promo": [
+            "sage",
+            "warcleric"
+        ],
+        "base": {
+            "hp": 16,
+            "str": 0,
+            "mag": 3,
+            "skl": 2,
+            "spd": 4,
+            "lck": 0,
+            "def": 1,
+            "res": 6,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "str": 22,
+            "mag": 25,
+            "skl": 24,
+            "spd": 25,
+            "lck": 30,
+            "def": 22,
+            "res": 27
+        },
+        "growth": {
+            "hp": 35,
+            "str": 5,
+            "mag": 15,
+            "skl": 15,
+            "spd": 15,
+            "lck": 0,
+            "def": 5,
+            "res": 15
+        },
+        "pairup": {
+            "str": 0,
+            "mag": 2,
+            "skl": 0,
+            "spd": 0,
+            "lck": 2,
+            "def": 0,
+            "res": 2,
+            "mov": 0
+        },
+        "rank": {
+            "staff": 181
+        },
+        "skill": {
+            "miracle": 1,
+            "healtouch": 10
+        }
+    },
+    "conqueror": {
+        "name": "Conqueror",
+        "promo": [],
+        "base": {
+            "hp": 24,
+            "str": 10,
+            "mag": 3,
+            "skl": 9,
+            "spd": 8,
+            "lck": 0,
+            "def": 12,
+            "res": 5,
+            "mov": 8
+        },
+        "cap": {
+            "hp": 80,
+            "str": 45,
+            "mag": 25,
+            "skl": 40,
+            "spd": 40,
+            "lck": 45,
+            "def": 45,
+            "res": 35
+        },
+        "growth": {
+            "hp": 50,
+            "str": 20,
+            "mag": 5,
+            "skl": 15,
+            "spd": 15,
+            "lck": 0,
+            "def": 10,
+            "res": 10
+        },
+        "pairup": {
+            "str": 2,
+            "mag": 0,
+            "skl": 0,
+            "spd": 2,
+            "lck": 0,
+            "def": 2,
+            "res": 0,
+            "mov": 1
+        },
+        "rank": {
+            "sword": 181,
+            "lance": 181,
+            "axe": 181
+        },
+        "skill": {}
+    },
+    "dancer": {
+        "name": "Dancer",
+        "promo": [],
+        "base": {
+            "hp": 16,
+            "str": 1,
+            "mag": 1,
+            "skl": 5,
+            "spd": 8,
+            "lck": 0,
+            "def": 3,
+            "res": 1,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 80,
+            "str": 30,
+            "mag": 30,
+            "skl": 40,
+            "spd": 40,
+            "lck": 45,
+            "def": 30,
+            "res": 30
+        },
+        "growth": {
+            "hp": 35,
+            "str": 5,
+            "mag": 0,
+            "skl": 25,
+            "spd": 25,
+            "lck": 0,
+            "def": 5,
+            "res": 5
+        },
+        "pairup": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 3,
+            "lck": 3,
+            "def": 0,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "sword": 181
+        },
+        "skill": {
+            "luck4": 1,
+            "specialdance": 15
+        }
+    },
+    "darkflier": {
+        "name": "Dark Flier",
+        "promo": [],
+        "base": {
+            "hp": 19,
+            "str": 5,
+            "mag": 6,
+            "skl": 8,
+            "spd": 10,
+            "lck": 0,
+            "def": 5,
+            "res": 9,
+            "mov": 8
+        },
+        "cap": {
+            "hp": 80,
+            "str": 36,
+            "mag": 42,
+            "skl": 41,
+            "spd": 42,
+            "lck": 45,
+            "def": 32,
+            "res": 41
+        },
+        "growth": {
+            "hp": 40,
+            "str": 10,
+            "mag": 15,
+            "skl": 20,
+            "spd": 20,
+            "lck": 0,
+            "def": 5,
+            "res": 10
+        },
+        "pairup": {
+            "str": 0,
+            "mag": 3,
+            "skl": 0,
+            "spd": 3,
+            "lck": 0,
+            "def": 0,
+            "res": 2,
+            "mov": 0
+        },
+        "rank": {
+            "lance": 181,
+            "tome": 181
+        },
+        "skill": {
+            "rallymovement": 5,
+            "galeforce": 15
+        }
+    },
+    "darkknight": {
+        "name": "Dark Knight",
+        "promo": [],
+        "base": {
+            "hp": 25,
+            "str": 4,
+            "mag": 5,
+            "skl": 6,
+            "spd": 5,
+            "lck": 0,
+            "def": 9,
+            "res": 5,
+            "mov": 8
+        },
+        "cap": {
+            "hp": 80,
+            "str": 38,
+            "mag": 41,
+            "skl": 40,
+            "spd": 40,
+            "lck": 45,
+            "def": 42,
+            "res": 38
+        },
+        "growth": {
+            "hp": 50,
+            "str": 15,
+            "mag": 15,
+            "skl": 15,
+            "spd": 15,
+            "lck": 0,
+            "def": 10,
+            "res": 5
+        },
+        "pairup": {
+            "str": 0,
+            "mag": 2,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 3,
+            "res": 1,
+            "mov": 1
+        },
+        "rank": {
+            "sword": 181,
+            "tome": 181
+        },
+        "skill": {
+            "slowburn": 5,
+            "lifetaker": 15
+        }
+    },
+    "darkmage": {
+        "name": "Dark Mage",
+        "promo": [
+            "darkknight",
+            "sorcerer"
+        ],
+        "base": {
+            "hp": 18,
+            "str": 1,
+            "mag": 3,
+            "skl": 2,
+            "spd": 3,
+            "lck": 0,
+            "def": 4,
+            "res": 4,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "str": 20,
+            "mag": 27,
+            "skl": 25,
+            "spd": 25,
+            "lck": 30,
+            "def": 25,
+            "res": 27
+        },
+        "growth": {
+            "hp": 50,
+            "str": 5,
+            "mag": 15,
+            "skl": 15,
+            "spd": 15,
+            "lck": 0,
+            "def": 10,
+            "res": 10
+        },
+        "pairup": {
+            "str": 0,
+            "mag": 3,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 3,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "tome": 181
+        },
+        "skill": {
+            "hex": 1,
+            "anathema": 10
+        }
+    },
+    "dreadfighter": {
+        "name": "Dread Fighter",
+        "promo": [],
+        "base": {
+            "hp": 22,
+            "str": 8,
+            "mag": 4,
+            "skl": 7,
+            "spd": 9,
+            "lck": 0,
+            "def": 7,
+            "res": 10,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 80,
+            "str": 42,
+            "mag": 38,
+            "skl": 40,
+            "spd": 41,
+            "lck": 45,
+            "def": 39,
+            "res": 43
+        },
+        "growth": {
+            "hp": 40,
+            "str": 20,
+            "mag": 10,
+            "skl": 20,
+            "spd": 20,
+            "lck": 0,
+            "def": 10,
+            "res": 10
+        },
+        "pairup": {
+            "str": 3,
+            "mag": 1,
+            "skl": 0,
+            "spd": 1,
+            "lck": 0,
+            "def": 0,
+            "res": 3,
+            "mov": 0
+        },
+        "rank": {
+            "sword": 181,
+            "axe": 181,
+            "tome": 181
+        },
+        "skill": {
+            "resistance10": 1,
+            "aggressor": 15
+        }
+    },
+    "entombed": {
+        "name": "Entombed",
+        "promo": [],
+        "base": {
+            "hp": 20,
+            "str": 3,
+            "mag": 1,
+            "skl": 2,
+            "spd": 2,
+            "lck": 0,
+            "def": 2,
+            "res": 1,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 80,
+            "str": 40,
+            "mag": 30,
+            "skl": 35,
+            "spd": 35,
+            "lck": 45,
+            "def": 35,
+            "res": 30
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0
+        },
+        "pairup": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "claw": 181
+        },
+        "skill": {}
+    },
+    "falconknight": {
+        "name": "Falcon Knight",
+        "promo": [],
+        "base": {
+            "hp": 20,
+            "str": 6,
+            "mag": 3,
+            "skl": 10,
+            "spd": 11,
+            "lck": 0,
+            "def": 6,
+            "res": 9,
+            "mov": 8
+        },
+        "cap": {
+            "hp": 80,
+            "str": 38,
+            "mag": 35,
+            "skl": 45,
+            "spd": 44,
+            "lck": 45,
+            "def": 33,
+            "res": 40
+        },
+        "growth": {
+            "hp": 40,
+            "str": 15,
+            "mag": 10,
+            "skl": 25,
+            "spd": 25,
+            "lck": 0,
+            "def": 5,
+            "res": 10
+        },
+        "pairup": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 4,
+            "lck": 0,
+            "def": 0,
+            "res": 4,
+            "mov": 0
+        },
+        "rank": {
+            "lance": 181,
+            "staff": 181
+        },
+        "skill": {
+            "rallyspeed": 5,
+            "lancefaire": 15
+        }
+    },
+    "fighter": {
+        "name": "Fighter",
+        "promo": [
+            "warrior",
+            "hero"
+        ],
+        "base": {
+            "hp": 20,
+            "str": 8,
+            "mag": 0,
+            "skl": 5,
+            "spd": 5,
+            "lck": 0,
+            "def": 4,
+            "res": 0,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "str": 29,
+            "mag": 20,
+            "skl": 26,
+            "spd": 25,
+            "lck": 30,
+            "def": 25,
+            "res": 23
+        },
+        "growth": {
+            "hp": 45,
+            "str": 25,
+            "mag": 0,
+            "skl": 20,
+            "spd": 15,
+            "lck": 0,
+            "def": 10,
+            "res": 5
+        },
+        "pairup": {
+            "str": 4,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 2,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "axe": 181
+        },
+        "skill": {
+            "hp5": 1,
+            "zeal": 10
+        }
+    },
+    "general": {
+        "name": "General",
+        "promo": [],
+        "base": {
+            "hp": 28,
+            "str": 12,
+            "mag": 0,
+            "skl": 7,
+            "spd": 4,
+            "lck": 0,
+            "def": 15,
+            "res": 3,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 80,
+            "str": 50,
+            "mag": 30,
+            "skl": 41,
+            "spd": 35,
+            "lck": 45,
+            "def": 50,
+            "res": 35
+        },
+        "growth": {
+            "hp": 50,
+            "str": 25,
+            "mag": 0,
+            "skl": 15,
+            "spd": 10,
+            "lck": 0,
+            "def": 15,
+            "res": 10
+        },
+        "pairup": {
+            "str": 3,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "lance": 181,
+            "axe": 181
+        },
+        "skill": {
+            "rallydefense": 5,
+            "pavise": 15
+        }
+    },
+    "grandmaster": {
+        "name": "Grandmaster",
+        "promo": [],
+        "base": {
+            "hp": 20,
+            "str": 7,
+            "mag": 6,
+            "skl": 7,
+            "spd": 7,
+            "lck": 0,
+            "def": 7,
+            "res": 5,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 80,
+            "str": 40,
+            "mag": 40,
+            "skl": 40,
+            "spd": 40,
+            "lck": 45,
+            "def": 40,
+            "res": 40
+        },
+        "growth": {
+            "hp": 40,
+            "str": 15,
+            "mag": 15,
+            "skl": 15,
+            "spd": 15,
+            "lck": 0,
+            "def": 10,
+            "res": 10
+        },
+        "pairup": {
+            "str": 2,
+            "mag": 2,
+            "skl": 2,
+            "spd": 2,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "sword": 181,
+            "tome": 181
+        },
+        "skill": {
+            "ignis": 5,
+            "rallyspectrum": 15
+        }
+    },
+    "greatknight": {
+        "name": "Great Knight",
+        "promo": [],
+        "base": {
+            "hp": 26,
+            "str": 11,
+            "mag": 0,
+            "skl": 6,
+            "spd": 5,
+            "lck": 0,
+            "def": 14,
+            "res": 1,
+            "mov": 7
+        },
+        "cap": {
+            "hp": 80,
+            "str": 48,
+            "mag": 20,
+            "skl": 34,
+            "spd": 37,
+            "lck": 45,
+            "def": 48,
+            "res": 30
+        },
+        "growth": {
+            "hp": 50,
+            "str": 25,
+            "mag": 0,
+            "skl": 15,
+            "spd": 15,
+            "lck": 0,
+            "def": 15,
+            "res": 5
+        },
+        "pairup": {
+            "str": 3,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 3,
+            "res": 0,
+            "mov": 1
+        },
+        "rank": {
+            "sword": 181,
+            "lance": 181,
+            "axe": 181
+        },
+        "skill": {
+            "luna": 5,
+            "dualguard+": 15
+        }
+    },
+    "greatlordf": {
+        "name": "Great Lord (F)",
+        "promo": [],
+        "base": {
+            "hp": 20,
+            "str": 8,
+            "mag": 1,
+            "skl": 9,
+            "spd": 11,
+            "lck": 0,
+            "def": 8,
+            "res": 4,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 80,
+            "str": 40,
+            "mag": 30,
+            "skl": 42,
+            "spd": 44,
+            "lck": 45,
+            "def": 40,
+            "res": 40
+        },
+        "growth": {
+            "hp": 40,
+            "str": 20,
+            "mag": 0,
+            "skl": 20,
+            "spd": 20,
+            "lck": 0,
+            "def": 10,
+            "res": 5
+        },
+        "pairup": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 4,
+            "lck": 4,
+            "def": 0,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "sword": 181,
+            "lance": 181
+        },
+        "skill": {
+            "aether": 5,
+            "rightfulking": 15
+        }
+    },
+    "greatlordm": {
+        "name": "Great Lord (M)",
+        "promo": [],
+        "base": {
+            "hp": 23,
+            "str": 10,
+            "mag": 0,
+            "skl": 7,
+            "spd": 9,
+            "lck": 0,
+            "def": 10,
+            "res": 3,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 80,
+            "str": 43,
+            "mag": 30,
+            "skl": 40,
+            "spd": 41,
+            "lck": 45,
+            "def": 42,
+            "res": 40
+        },
+        "growth": {
+            "hp": 40,
+            "str": 20,
+            "mag": 0,
+            "skl": 20,
+            "spd": 20,
+            "lck": 0,
+            "def": 10,
+            "res": 5
+        },
+        "pairup": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 4,
+            "lck": 4,
+            "def": 0,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "sword": 181,
+            "lance": 181
+        },
+        "skill": {
+            "aether": 5,
+            "rightfulking": 15
+        }
+    },
+    "griffonrider": {
+        "name": "Griffon Rider",
+        "promo": [],
+        "base": {
+            "hp": 22,
+            "str": 9,
+            "mag": 0,
+            "skl": 10,
+            "spd": 9,
+            "lck": 0,
+            "def": 8,
+            "res": 3,
+            "mov": 8
+        },
+        "cap": {
+            "hp": 80,
+            "str": 40,
+            "mag": 30,
+            "skl": 43,
+            "spd": 41,
+            "lck": 45,
+            "def": 40,
+            "res": 30
+        },
+        "growth": {
+            "hp": 45,
+            "str": 25,
+            "mag": 0,
+            "skl": 20,
+            "spd": 20,
+            "lck": 0,
+            "def": 5,
+            "res": 5
+        },
+        "pairup": {
+            "str": 3,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 1,
+            "def": 2,
+            "res": 0,
+            "mov": 1
+        },
+        "rank": {
+            "axe": 181
+        },
+        "skill": {
+            "deliverer": 5,
+            "lancebreaker": 15
+        }
+    },
+    "grima": {
+        "name": "Grima",
+        "promo": [],
+        "base": {
+            "hp": 30,
+            "str": 15,
+            "mag": 15,
+            "skl": 15,
+            "spd": 15,
+            "lck": 0,
+            "def": 15,
+            "res": 10,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 99,
+            "str": 50,
+            "mag": 40,
+            "skl": 50,
+            "spd": 45,
+            "lck": 45,
+            "def": 50,
+            "res": 50
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0
+        },
+        "pairup": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "breath": 181
+        },
+        "skill": {}
+    },
+    "hero": {
+        "name": "Hero",
+        "promo": [],
+        "base": {
+            "hp": 22,
+            "str": 8,
+            "mag": 1,
+            "skl": 11,
+            "spd": 10,
+            "lck": 0,
+            "def": 8,
+            "res": 3,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 80,
+            "str": 42,
+            "mag": 30,
+            "skl": 46,
+            "spd": 42,
+            "lck": 45,
+            "def": 40,
+            "res": 36
+        },
+        "growth": {
+            "hp": 45,
+            "str": 20,
+            "mag": 0,
+            "skl": 25,
+            "spd": 20,
+            "lck": 0,
+            "def": 10,
+            "res": 5
+        },
+        "pairup": {
+            "str": 0,
+            "mag": 0,
+            "skl": 3,
+            "spd": 3,
+            "lck": 0,
+            "def": 2,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "sword": 181,
+            "axe": 181
+        },
+        "skill": {
+            "sol": 5,
+            "axebreaker": 15
+        }
+    },
+    "knight": {
+        "name": "Knight",
+        "promo": [
+            "general",
+            "greatknight"
+        ],
+        "base": {
+            "hp": 18,
+            "str": 8,
+            "mag": 0,
+            "skl": 4,
+            "spd": 2,
+            "lck": 0,
+            "def": 11,
+            "res": 0,
+            "mov": 4
+        },
+        "cap": {
+            "hp": 60,
+            "str": 30,
+            "mag": 20,
+            "skl": 26,
+            "spd": 23,
+            "lck": 30,
+            "def": 30,
+            "res": 22
+        },
+        "growth": {
+            "hp": 50,
+            "str": 25,
+            "mag": 0,
+            "skl": 15,
+            "spd": 10,
+            "lck": 0,
+            "def": 15,
+            "res": 5
+        },
+        "pairup": {
+            "str": 2,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 4,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "lance": 181
+        },
+        "skill": {
+            "defense2": 1,
+            "indoorfighter": 10
+        }
+    },
+    "lodestar": {
+        "name": "Lodestar",
+        "promo": [],
+        "base": {
+            "hp": 21,
+            "str": 9,
+            "mag": 1,
+            "skl": 10,
+            "spd": 10,
+            "lck": 0,
+            "def": 8,
+            "res": 4,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 80,
+            "str": 41,
+            "mag": 30,
+            "skl": 43,
+            "spd": 43,
+            "lck": 45,
+            "def": 41,
+            "res": 40
+        },
+        "growth": {
+            "hp": 40,
+            "str": 20,
+            "mag": 0,
+            "skl": 20,
+            "spd": 20,
+            "lck": 0,
+            "def": 10,
+            "res": 5
+        },
+        "pairup": {
+            "str": 2,
+            "mag": 0,
+            "skl": 0,
+            "spd": 3,
+            "lck": 3,
+            "def": 0,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "sword": 181
+        },
+        "skill": {}
+    },
+    "lordf": {
+        "name": "Lord (F)",
+        "promo": [
+            "greatlordf"
+        ],
+        "base": {
+            "hp": 16,
+            "str": 5,
+            "mag": 1,
+            "skl": 6,
+            "spd": 8,
+            "lck": 0,
+            "def": 6,
+            "res": 1,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "str": 25,
+            "mag": 20,
+            "skl": 26,
+            "spd": 28,
+            "lck": 30,
+            "def": 25,
+            "res": 25
+        },
+        "growth": {
+            "hp": 40,
+            "str": 20,
+            "mag": 0,
+            "skl": 20,
+            "spd": 20,
+            "lck": 0,
+            "def": 10,
+            "res": 5
+        },
+        "pairup": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 3,
+            "lck": 3,
+            "def": 0,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "sword": 181
+        },
+        "skill": {
+            "dualstrike+": 1,
+            "charm": 10
+        }
+    },
+    "lordm": {
+        "name": "Lord (M)",
+        "promo": [
+            "greatlordm"
+        ],
+        "base": {
+            "hp": 18,
+            "str": 6,
+            "mag": 0,
+            "skl": 5,
+            "spd": 7,
+            "lck": 0,
+            "def": 7,
+            "res": 0,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "str": 25,
+            "mag": 20,
+            "skl": 26,
+            "spd": 28,
+            "lck": 30,
+            "def": 25,
+            "res": 25
+        },
+        "growth": {
+            "hp": 40,
+            "str": 20,
+            "mag": 0,
+            "skl": 20,
+            "spd": 20,
+            "lck": 0,
+            "def": 10,
+            "res": 5
+        },
+        "pairup": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 3,
+            "lck": 3,
+            "def": 0,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "sword": 181
+        },
+        "skill": {
+            "dualstrike+": 1,
+            "charm": 10
+        }
+    },
+    "mage": {
+        "name": "Mage",
+        "promo": [
+            "sage",
+            "darkknight"
+        ],
+        "base": {
+            "hp": 16,
+            "str": 0,
+            "mag": 4,
+            "skl": 3,
+            "spd": 4,
+            "lck": 0,
+            "def": 2,
+            "res": 3,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "str": 20,
+            "mag": 28,
+            "skl": 27,
+            "spd": 26,
+            "lck": 30,
+            "def": 21,
+            "res": 25
+        },
+        "growth": {
+            "hp": 35,
+            "str": 0,
+            "mag": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 0,
+            "def": 5,
+            "res": 10
+        },
+        "pairup": {
+            "str": 0,
+            "mag": 4,
+            "skl": 2,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "tome": 181
+        },
+        "skill": {
+            "magic2": 1,
+            "focus": 10
+        }
+    },
+    "manakete": {
+        "name": "Manakete",
+        "promo": [],
+        "base": {
+            "hp": 18,
+            "str": 2,
+            "mag": 0,
+            "skl": 1,
+            "spd": 1,
+            "lck": 0,
+            "def": 2,
+            "res": 2,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 80,
+            "str": 40,
+            "mag": 35,
+            "skl": 35,
+            "spd": 35,
+            "lck": 45,
+            "def": 40,
+            "res": 40
+        },
+        "growth": {
+            "hp": 50,
+            "str": 20,
+            "mag": 5,
+            "skl": 20,
+            "spd": 20,
+            "lck": 0,
+            "def": 15,
+            "res": 15
+        },
+        "pairup": {
+            "str": 2,
+            "mag": 2,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 2,
+            "res": 2,
+            "mov": 0
+        },
+        "rank": {
+            "stone": "-"
+        },
+        "skill": {
+            "oddrhythm": 1,
+            "wyrmsbane": 15
+        }
+    },
+    "mercenary": {
+        "name": "Mercenary",
+        "promo": [
+            "hero",
+            "bowknight"
+        ],
+        "base": {
+            "hp": 18,
+            "str": 5,
+            "mag": 0,
+            "skl": 8,
+            "spd": 7,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "str": 26,
+            "mag": 20,
+            "skl": 28,
+            "spd": 26,
+            "lck": 30,
+            "def": 25,
+            "res": 23
+        },
+        "growth": {
+            "hp": 45,
+            "str": 20,
+            "mag": 0,
+            "skl": 25,
+            "spd": 20,
+            "lck": 0,
+            "def": 10,
+            "res": 5
+        },
+        "pairup": {
+            "str": 0,
+            "mag": 0,
+            "skl": 2,
+            "spd": 3,
+            "lck": 0,
+            "def": 1,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "sword": 181
+        },
+        "skill": {
+            "armsthrift": 1,
+            "patience": 10
+        }
+    },
+    "merchant": {
+        "name": "Merchant",
+        "promo": [],
+        "base": {
+            "hp": 18,
+            "str": 3,
+            "mag": 0,
+            "skl": 2,
+            "spd": 2,
+            "lck": 0,
+            "def": 4,
+            "res": 1,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "str": 20,
+            "mag": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0
+        },
+        "pairup": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "lance": 181
+        },
+        "skill": {}
+    },
+    "myrmidon": {
+        "name": "Myrmidon",
+        "promo": [
+            "swordmaster",
+            "assassin"
+        ],
+        "base": {
+            "hp": 16,
+            "str": 4,
+            "mag": 1,
+            "skl": 9,
+            "spd": 10,
+            "lck": 0,
+            "def": 4,
+            "res": 1,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "str": 24,
+            "mag": 22,
+            "skl": 27,
+            "spd": 28,
+            "lck": 30,
+            "def": 22,
+            "res": 24
+        },
+        "growth": {
+            "hp": 40,
+            "str": 20,
+            "mag": 0,
+            "skl": 25,
+            "spd": 25,
+            "lck": 0,
+            "def": 5,
+            "res": 5
+        },
+        "pairup": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 4,
+            "lck": 2,
+            "def": 0,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "sword": 181
+        },
+        "skill": {
+            "avoid10": 1,
+            "vantage": 10
+        }
+    },
+    "paladin": {
+        "name": "Paladin",
+        "promo": [],
+        "base": {
+            "hp": 25,
+            "str": 9,
+            "mag": 1,
+            "skl": 7,
+            "spd": 8,
+            "lck": 0,
+            "def": 10,
+            "res": 6,
+            "mov": 8
+        },
+        "cap": {
+            "hp": 80,
+            "str": 42,
+            "mag": 30,
+            "skl": 40,
+            "spd": 40,
+            "lck": 45,
+            "def": 42,
+            "res": 42
+        },
+        "growth": {
+            "hp": 45,
+            "str": 20,
+            "mag": 0,
+            "skl": 20,
+            "spd": 20,
+            "lck": 0,
+            "def": 10,
+            "res": 10
+        },
+        "pairup": {
+            "str": 2,
+            "mag": 0,
+            "skl": 2,
+            "spd": 2,
+            "lck": 0,
+            "def": 2,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "sword": 181,
+            "lance": 181
+        },
+        "skill": {
+            "defender": 5,
+            "aegis": 15
+        }
+    },
+    "pegasusknight": {
+        "name": "Pegasus Knight",
+        "promo": [
+            "falconknight",
+            "darkflier"
+        ],
+        "base": {
+            "hp": 16,
+            "str": 4,
+            "mag": 2,
+            "skl": 7,
+            "spd": 8,
+            "lck": 0,
+            "def": 4,
+            "res": 6,
+            "mov": 7
+        },
+        "cap": {
+            "hp": 60,
+            "str": 24,
+            "mag": 23,
+            "skl": 28,
+            "spd": 27,
+            "lck": 30,
+            "def": 22,
+            "res": 25
+        },
+        "growth": {
+            "hp": 40,
+            "str": 15,
+            "mag": 5,
+            "skl": 25,
+            "spd": 25,
+            "lck": 0,
+            "def": 5,
+            "res": 10
+        },
+        "pairup": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 3,
+            "lck": 0,
+            "def": 0,
+            "res": 3,
+            "mov": 0
+        },
+        "rank": {
+            "lance": 181
+        },
+        "skill": {
+            "speed2": 1,
+            "relief": 10
+        }
+    },
+    "priest": {
+        "name": "Priest",
+        "promo": [
+            "sage",
+            "warmonk"
+        ],
+        "base": {
+            "hp": 16,
+            "str": 0,
+            "mag": 3,
+            "skl": 2,
+            "spd": 4,
+            "lck": 0,
+            "def": 1,
+            "res": 6,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "str": 22,
+            "mag": 25,
+            "skl": 24,
+            "spd": 25,
+            "lck": 30,
+            "def": 22,
+            "res": 27
+        },
+        "growth": {
+            "hp": 35,
+            "str": 5,
+            "mag": 15,
+            "skl": 15,
+            "spd": 15,
+            "lck": 0,
+            "def": 5,
+            "res": 15
+        },
+        "pairup": {
+            "str": 0,
+            "mag": 2,
+            "skl": 0,
+            "spd": 0,
+            "lck": 2,
+            "def": 0,
+            "res": 2,
+            "mov": 0
+        },
+        "rank": {
+            "staff": 181
+        },
+        "skill": {
+            "miracle": 1,
+            "healtouch": 10
+        }
+    },
+    "revenant": {
+        "name": "Revenant",
+        "promo": [],
+        "base": {
+            "hp": 18,
+            "str": 3,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 80,
+            "str": 30,
+            "mag": 20,
+            "skl": 25,
+            "spd": 25,
+            "lck": 30,
+            "def": 30,
+            "res": 30
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0
+        },
+        "pairup": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "claw": 181
+        },
+        "skill": {}
+    },
+    "sage": {
+        "name": "Sage",
+        "promo": [],
+        "base": {
+            "hp": 20,
+            "str": 1,
+            "mag": 7,
+            "skl": 5,
+            "spd": 7,
+            "lck": 0,
+            "def": 4,
+            "res": 5,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 80,
+            "str": 30,
+            "mag": 46,
+            "skl": 43,
+            "spd": 42,
+            "lck": 45,
+            "def": 31,
+            "res": 40
+        },
+        "growth": {
+            "hp": 35,
+            "str": 0,
+            "mag": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 0,
+            "def": 5,
+            "res": 10
+        },
+        "pairup": {
+            "str": 0,
+            "mag": 4,
+            "skl": 2,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 2,
+            "mov": 0
+        },
+        "rank": {
+            "tome": 181,
+            "staff": 181
+        },
+        "skill": {
+            "rallymagic": 5,
+            "tomefaire": 15
+        }
+    },
+    "sniper": {
+        "name": "Sniper",
+        "promo": [],
+        "base": {
+            "hp": 20,
+            "str": 7,
+            "mag": 1,
+            "skl": 12,
+            "spd": 9,
+            "lck": 0,
+            "def": 10,
+            "res": 3,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 80,
+            "str": 41,
+            "mag": 30,
+            "skl": 48,
+            "spd": 40,
+            "lck": 45,
+            "def": 40,
+            "res": 31
+        },
+        "growth": {
+            "hp": 45,
+            "str": 15,
+            "mag": 0,
+            "skl": 30,
+            "spd": 15,
+            "lck": 0,
+            "def": 15,
+            "res": 5
+        },
+        "pairup": {
+            "str": 3,
+            "mag": 0,
+            "skl": 3,
+            "spd": 0,
+            "lck": 0,
+            "def": 2,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "bow": 181
+        },
+        "skill": {
+            "hitrate20": 5,
+            "bowfaire": 15
+        }
+    },
+    "soldier": {
+        "name": "Soldier",
+        "promo": [],
+        "base": {
+            "hp": 16,
+            "str": 3,
+            "mag": 0,
+            "skl": 3,
+            "spd": 3,
+            "lck": 0,
+            "def": 3,
+            "res": 0,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 80,
+            "str": 30,
+            "mag": 30,
+            "skl": 30,
+            "spd": 30,
+            "lck": 45,
+            "def": 30,
+            "res": 30
+        },
+        "growth": {
+            "hp": 40,
+            "str": 10,
+            "mag": 0,
+            "skl": 10,
+            "spd": 10,
+            "lck": 0,
+            "def": 5,
+            "res": 5
+        },
+        "pairup": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "lance": 181
+        },
+        "skill": {}
+    },
+    "sorcerer": {
+        "name": "Sorcerer",
+        "promo": [],
+        "base": {
+            "hp": 23,
+            "str": 2,
+            "mag": 6,
+            "skl": 4,
+            "spd": 4,
+            "lck": 0,
+            "def": 7,
+            "res": 7,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 80,
+            "str": 30,
+            "mag": 44,
+            "skl": 38,
+            "spd": 40,
+            "lck": 45,
+            "def": 41,
+            "res": 44
+        },
+        "growth": {
+            "hp": 45,
+            "str": 0,
+            "mag": 20,
+            "skl": 15,
+            "spd": 15,
+            "lck": 0,
+            "def": 10,
+            "res": 10
+        },
+        "pairup": {
+            "str": 0,
+            "mag": 3,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 2,
+            "res": 3,
+            "mov": 0
+        },
+        "rank": {
+            "tome": 181
+        },
+        "skill": {
+            "vengeance": 5,
+            "tomebreaker": 15
+        }
+    },
+    "swordmaster": {
+        "name": "Swordmaster",
+        "promo": [],
+        "base": {
+            "hp": 20,
+            "str": 7,
+            "mag": 2,
+            "skl": 11,
+            "spd": 13,
+            "lck": 0,
+            "def": 6,
+            "res": 4,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 80,
+            "str": 38,
+            "mag": 34,
+            "skl": 44,
+            "spd": 46,
+            "lck": 45,
+            "def": 33,
+            "res": 38
+        },
+        "growth": {
+            "hp": 40,
+            "str": 20,
+            "mag": 0,
+            "skl": 25,
+            "spd": 25,
+            "lck": 0,
+            "def": 5,
+            "res": 10
+        },
+        "pairup": {
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 5,
+            "lck": 3,
+            "def": 0,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "sword": 181
+        },
+        "skill": {
+            "astra": 5,
+            "swordfaire": 15
+        }
+    },
+    "tactician": {
+        "name": "Tactician",
+        "promo": [
+            "grandmaster"
+        ],
+        "base": {
+            "hp": 16,
+            "str": 4,
+            "mag": 3,
+            "skl": 5,
+            "spd": 5,
+            "lck": 0,
+            "def": 5,
+            "res": 3,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "str": 25,
+            "mag": 25,
+            "skl": 25,
+            "spd": 25,
+            "lck": 30,
+            "def": 25,
+            "res": 25
+        },
+        "growth": {
+            "hp": 40,
+            "str": 15,
+            "mag": 15,
+            "skl": 15,
+            "spd": 15,
+            "lck": 0,
+            "def": 10,
+            "res": 10
+        },
+        "pairup": {
+            "str": 1,
+            "mag": 1,
+            "skl": 2,
+            "spd": 2,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "sword": 181,
+            "tome": 181
+        },
+        "skill": {
+            "veteran": 1,
+            "solidarity": 10
+        }
+    },
+    "taguelf": {
+        "name": "Taguel (F)",
+        "promo": [],
+        "base": {
+            "hp": 18,
+            "str": 2,
+            "mag": 0,
+            "skl": 4,
+            "spd": 5,
+            "lck": 0,
+            "def": 3,
+            "res": 2,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 80,
+            "str": 35,
+            "mag": 30,
+            "skl": 40,
+            "spd": 40,
+            "lck": 45,
+            "def": 35,
+            "res": 30
+        },
+        "growth": {
+            "hp": 40,
+            "str": 15,
+            "mag": 0,
+            "skl": 20,
+            "spd": 20,
+            "lck": 0,
+            "def": 10,
+            "res": 5
+        },
+        "pairup": {
+            "str": 3,
+            "mag": 0,
+            "skl": 2,
+            "spd": 3,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "stone": "-"
+        },
+        "skill": {
+            "evenrhythm": 1,
+            "beastbane": 15
+        }
+    },
+    "taguelm": {
+        "name": "Taguel (M)",
+        "promo": [],
+        "base": {
+            "hp": 18,
+            "str": 2,
+            "mag": 0,
+            "skl": 4,
+            "spd": 5,
+            "lck": 0,
+            "def": 3,
+            "res": 2,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 80,
+            "str": 35,
+            "mag": 30,
+            "skl": 40,
+            "spd": 40,
+            "lck": 45,
+            "def": 35,
+            "res": 30
+        },
+        "growth": {
+            "hp": 45,
+            "str": 20,
+            "mag": 0,
+            "skl": 15,
+            "spd": 15,
+            "lck": 0,
+            "def": 15,
+            "res": 5
+        },
+        "pairup": {
+            "str": 3,
+            "mag": 0,
+            "skl": 2,
+            "spd": 3,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "stone": "-"
+        },
+        "skill": {
+            "evenrhythm": 1,
+            "beastbane": 15
+        }
+    },
+    "thief": {
+        "name": "Thief",
+        "promo": [
+            "trickster",
+            "assassin"
+        ],
+        "base": {
+            "hp": 16,
+            "str": 3,
+            "mag": 0,
+            "skl": 6,
+            "spd": 8,
+            "lck": 0,
+            "def": 2,
+            "res": 0,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "str": 22,
+            "mag": 20,
+            "skl": 30,
+            "spd": 28,
+            "lck": 30,
+            "def": 21,
+            "res": 20
+        },
+        "growth": {
+            "hp": 35,
+            "str": 15,
+            "mag": 5,
+            "skl": 25,
+            "spd": 25,
+            "lck": 0,
+            "def": 5,
+            "res": 5
+        },
+        "pairup": {
+            "str": 0,
+            "mag": 0,
+            "skl": 2,
+            "spd": 2,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "mov": 1
+        },
+        "rank": {
+            "sword": 181
+        },
+        "skill": {
+            "locktouch": 1,
+            "movement1": 10
+        }
+    },
+    "trickster": {
+        "name": "Trickster",
+        "promo": [],
+        "base": {
+            "hp": 19,
+            "str": 4,
+            "mag": 4,
+            "skl": 10,
+            "spd": 11,
+            "lck": 0,
+            "def": 3,
+            "res": 5,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 80,
+            "str": 35,
+            "mag": 38,
+            "skl": 45,
+            "spd": 43,
+            "lck": 45,
+            "def": 30,
+            "res": 40
+        },
+        "growth": {
+            "hp": 35,
+            "str": 10,
+            "mag": 15,
+            "skl": 25,
+            "spd": 20,
+            "lck": 0,
+            "def": 5,
+            "res": 10
+        },
+        "pairup": {
+            "str": 0,
+            "mag": 2,
+            "skl": 1,
+            "spd": 3,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "mov": 1
+        },
+        "rank": {
+            "sword": 181,
+            "staff": 181
+        },
+        "skill": {
+            "luckyseven": 5,
+            "acrobat": 15
+        }
+    },
+    "troubadour": {
+        "name": "Troubadour",
+        "promo": [
+            "valkyrie",
+            "warcleric"
+        ],
+        "base": {
+            "hp": 16,
+            "str": 0,
+            "mag": 3,
+            "skl": 2,
+            "spd": 5,
+            "lck": 0,
+            "def": 1,
+            "res": 5,
+            "mov": 7
+        },
+        "cap": {
+            "hp": 60,
+            "str": 20,
+            "mag": 26,
+            "skl": 24,
+            "spd": 26,
+            "lck": 30,
+            "def": 20,
+            "res": 28
+        },
+        "growth": {
+            "hp": 35,
+            "str": 0,
+            "mag": 20,
+            "skl": 10,
+            "spd": 20,
+            "lck": 0,
+            "def": 5,
+            "res": 15
+        },
+        "pairup": {
+            "str": 0,
+            "mag": 2,
+            "skl": 0,
+            "spd": 1,
+            "lck": 0,
+            "def": 0,
+            "res": 3,
+            "mov": 0
+        },
+        "rank": {
+            "staff": 181
+        },
+        "skill": {
+            "resistance2": 1,
+            "demoiselle": 10
+        }
+    },
+    "valkyrie": {
+        "name": "Valkyrie",
+        "promo": [],
+        "base": {
+            "hp": 19,
+            "str": 0,
+            "mag": 5,
+            "skl": 4,
+            "spd": 8,
+            "lck": 0,
+            "def": 3,
+            "res": 8,
+            "mov": 8
+        },
+        "cap": {
+            "hp": 80,
+            "str": 30,
+            "mag": 42,
+            "skl": 38,
+            "spd": 43,
+            "lck": 45,
+            "def": 30,
+            "res": 45
+        },
+        "growth": {
+            "hp": 35,
+            "str": 0,
+            "mag": 20,
+            "skl": 10,
+            "spd": 20,
+            "lck": 0,
+            "def": 5,
+            "res": 15
+        },
+        "pairup": {
+            "str": 0,
+            "mag": 3,
+            "skl": 0,
+            "spd": 2,
+            "lck": 0,
+            "def": 0,
+            "res": 3,
+            "mov": 0
+        },
+        "rank": {
+            "tome": 181,
+            "staff": 181
+        },
+        "skill": {
+            "rallyresistance": 5,
+            "dualsupport+": 15
+        }
+    },
+    "villager": {
+        "name": "Villager",
+        "promo": [],
+        "base": {
+            "hp": 16,
+            "str": 1,
+            "mag": 0,
+            "skl": 1,
+            "spd": 1,
+            "lck": 0,
+            "def": 1,
+            "res": 0,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "str": 20,
+            "mag": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20
+        },
+        "growth": {
+            "hp": 35,
+            "str": 10,
+            "mag": 0,
+            "skl": 5,
+            "spd": 5,
+            "lck": 0,
+            "def": 10,
+            "res": 5
+        },
+        "pairup": {
+            "str": 0,
+            "mag": 0,
+            "skl": 3,
+            "spd": 0,
+            "lck": 3,
+            "def": 0,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "lance": 181
+        },
+        "skill": {
+            "aptitude": 1,
+            "underdog": 15
+        }
+    },
+    "warcleric": {
+        "name": "War Cleric",
+        "promo": [],
+        "base": {
+            "hp": 24,
+            "str": 5,
+            "mag": 5,
+            "skl": 4,
+            "spd": 6,
+            "lck": 0,
+            "def": 6,
+            "res": 6,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 80,
+            "str": 40,
+            "mag": 40,
+            "skl": 38,
+            "spd": 41,
+            "lck": 45,
+            "def": 38,
+            "res": 43
+        },
+        "growth": {
+            "hp": 45,
+            "str": 15,
+            "mag": 15,
+            "skl": 10,
+            "spd": 15,
+            "lck": 0,
+            "def": 10,
+            "res": 10
+        },
+        "pairup": {
+            "str": 2,
+            "mag": 2,
+            "skl": 0,
+            "spd": 0,
+            "lck": 2,
+            "def": 0,
+            "res": 2,
+            "mov": 0
+        },
+        "rank": {
+            "axe": 181,
+            "staff": 181
+        },
+        "skill": {
+            "rallyluck": 5,
+            "renewal": 15
+        }
+    },
+    "warmonk": {
+        "name": "War Monk",
+        "promo": [],
+        "base": {
+            "hp": 24,
+            "str": 5,
+            "mag": 5,
+            "skl": 4,
+            "spd": 6,
+            "lck": 0,
+            "def": 6,
+            "res": 6,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 80,
+            "str": 40,
+            "mag": 40,
+            "skl": 38,
+            "spd": 41,
+            "lck": 45,
+            "def": 38,
+            "res": 43
+        },
+        "growth": {
+            "hp": 45,
+            "str": 15,
+            "mag": 15,
+            "skl": 10,
+            "spd": 15,
+            "lck": 0,
+            "def": 10,
+            "res": 10
+        },
+        "pairup": {
+            "str": 2,
+            "mag": 2,
+            "skl": 0,
+            "spd": 0,
+            "lck": 2,
+            "def": 0,
+            "res": 2,
+            "mov": 0
+        },
+        "rank": {
+            "axe": 181,
+            "staff": 181
+        },
+        "skill": {
+            "rallyluck": 5,
+            "renewal": 15
+        }
+    },
+    "warrior": {
+        "name": "Warrior",
+        "promo": [],
+        "base": {
+            "hp": 28,
+            "str": 12,
+            "mag": 0,
+            "skl": 8,
+            "spd": 7,
+            "lck": 0,
+            "def": 7,
+            "res": 3,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 80,
+            "str": 48,
+            "mag": 30,
+            "skl": 42,
+            "spd": 40,
+            "lck": 45,
+            "def": 40,
+            "res": 35
+        },
+        "growth": {
+            "hp": 45,
+            "str": 25,
+            "mag": 0,
+            "skl": 20,
+            "spd": 15,
+            "lck": 0,
+            "def": 10,
+            "res": 5
+        },
+        "pairup": {
+            "str": 5,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 3,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "axe": 181,
+            "bow": 181
+        },
+        "skill": {
+            "rallystrength": 5,
+            "counter": 15
+        }
+    },
+    "wyvernlord": {
+        "name": "Wyvern Lord",
+        "promo": [],
+        "base": {
+            "hp": 24,
+            "str": 11,
+            "mag": 0,
+            "skl": 8,
+            "spd": 7,
+            "lck": 0,
+            "def": 11,
+            "res": 3,
+            "mov": 8
+        },
+        "cap": {
+            "hp": 80,
+            "str": 46,
+            "mag": 30,
+            "skl": 38,
+            "spd": 38,
+            "lck": 45,
+            "def": 46,
+            "res": 30
+        },
+        "growth": {
+            "hp": 45,
+            "str": 30,
+            "mag": 0,
+            "skl": 15,
+            "spd": 15,
+            "lck": 0,
+            "def": 10,
+            "res": 5
+        },
+        "pairup": {
+            "str": 4,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 4,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "lance": 181,
+            "axe": 181
+        },
+        "skill": {
+            "quickburn": 5,
+            "swordbreaker": 15
+        }
+    },
+    "wyvernrider": {
+        "name": "Wyvern Rider",
+        "promo": [
+            "wyvernlord",
+            "griffonrider"
+        ],
+        "base": {
+            "hp": 19,
+            "str": 7,
+            "mag": 0,
+            "skl": 6,
+            "spd": 5,
+            "lck": 0,
+            "def": 8,
+            "res": 0,
+            "mov": 7
+        },
+        "cap": {
+            "hp": 60,
+            "str": 28,
+            "mag": 20,
+            "skl": 24,
+            "spd": 24,
+            "lck": 30,
+            "def": 28,
+            "res": 20
+        },
+        "growth": {
+            "hp": 45,
+            "str": 30,
+            "mag": 0,
+            "skl": 15,
+            "spd": 15,
+            "lck": 0,
+            "def": 10,
+            "res": 5
+        },
+        "pairup": {
+            "str": 3,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 3,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "axe": 181
+        },
+        "skill": {
+            "strength2": 1,
+            "tantivy": 10
+        }
+    }
+}

@@ -1,0 +1,314 @@
+{
+    "fe17": {
+        "name": "Engage",
+        "default": "unit",
+        "alias": [
+            "engage",
+            "eng",
+            "e"
+        ],
+        "random": {
+            "pool": "database/fe17/char.json",
+            "add": [
+                "elyos"
+            ]
+        },
+        "color": "0xa5d3d9",
+        "data": {
+            "unit": {
+                "main": "database/fe17/char.json",
+                "add": [
+                    "class",
+                    "weapon"
+                ],
+                "exclamation": "ring",
+                "multiple": {
+                    "class": 20
+                },
+                "level": {
+                    "lvl": 40,
+                    "size": 20
+                },
+                "int": {
+                    "forge": [
+                        1,
+                        6
+                    ]
+                },
+                "entry": {
+                    "class": "database/fe17/job.json",
+                    "ring": "database/fe17/equip_ring.json",
+                    "weapon": "database/fe17/item.json"
+                },
+                "bool": {
+                    "personal": [],
+                    "starsphere": [],
+                    "fixed": []
+                },
+                "custom_help": {
+                    "Averages": "text/game/averages/fe17.txt"
+                },
+                "classic_hidden": [
+                    "level"
+                ],
+                "lua": [
+                    "fe17",
+                    "Character"
+                ],
+                "comma": {
+                    "name": "compare",
+                    "size": 4
+                },
+                "stats": {
+                    "modifiers": [
+                        "hp",
+                        "str",
+                        "mag",
+                        "dex",
+                        "spd",
+                        "lck",
+                        "def",
+                        "res",
+                        "atk",
+                        "hit",
+                        "crit",
+                        "as",
+                        "con"
+                    ]
+                },
+                "prefix": {
+                    "modifiers": "$",
+                    "forge": "+"
+                },
+                "choice": {
+                    "engrave": {
+                        "Beginnings": "beginnings",
+                        "Holy": "holy",
+                        "Echoes": "echoes",
+                        "Dawn": "dawn",
+                        "Binding": "binding",
+                        "Genealogy": "genealogy",
+                        "Awakening": "awakening",
+                        "Blazing": "blazing",
+                        "Radiance": "radiance",
+                        "Academy": "academy",
+                        "Fates": "fates",
+                        "Sacred": "sacred",
+                        "Fire": "fire",
+                        "Rivals": "rivals",
+                        "Dragons": "dragons",
+                        "Acumen": "acumen",
+                        "Revelation": "revelation",
+                        "Strength": "strength",
+                        "Bonds": "bonds",
+                        "Heroes": "heroes"
+                    }
+                },
+                "par": {
+                    "beginnings": [
+                        "marth"
+                    ],
+                    "holy": [
+                        "sigurd"
+                    ],
+                    "echoes": [
+                        "celica"
+                    ],
+                    "dawn": [
+                        "micaiah"
+                    ],
+                    "binding": [
+                        "roy"
+                    ],
+                    "genealogy": [
+                        "leif"
+                    ],
+                    "awakening": [
+                        "lucina"
+                    ],
+                    "blazing": [
+                        "lyn"
+                    ],
+                    "radiance": [
+                        "ike"
+                    ],
+                    "academy": [
+                        "byleth"
+                    ],
+                    "fates": [
+                        "corrin"
+                    ],
+                    "sacred": [
+                        "eirika",
+                        "ephraim"
+                    ],
+                    "fire": [
+                        "alear"
+                    ],
+                    "rivals": [
+                        "edelgard",
+                        "claude",
+                        "dimitri",
+                        "rival"
+                    ],
+                    "dragons": [
+                        "tiki",
+                        "dragon"
+                    ],
+                    "acumen": [
+                        "soren"
+                    ],
+                    "revelation": [
+                        "camilla",
+                        "revelations"
+                    ],
+                    "strength": [
+                        "hector"
+                    ],
+                    "bonds": [
+                        "chrom",
+                        "bond",
+                        "robin"
+                    ],
+                    "heroes": [
+                        "veronica"
+                    ]
+                }
+            },
+            "class": {
+                "main": "database/fe17/job.json",
+                "lua": [
+                    "fe17",
+                    "Job"
+                ]
+            },
+            "skill": {
+                "main": "database/fe17/skill.json",
+                "lua": [
+                    "fe17",
+                    "Skill"
+                ]
+            },
+            "ring": {
+                "main": "database/fe17/ring.json",
+                "alias": [
+                    "emblem"
+                ],
+                "lua": [
+                    "fe17",
+                    "Ring"
+                ]
+            },
+            "item": {
+                "main": "database/fe17/item.json",
+                "int": {
+                    "forge": [
+                        1,
+                        5
+                    ]
+                },
+                "prefix": {
+                    "forge": "+"
+                },
+                "choice": {
+                    "engrave": {
+                        "Beginnings": "beginnings",
+                        "Holy": "holy",
+                        "Echoes": "echoes",
+                        "Dawn": "dawn",
+                        "Binding": "binding",
+                        "Genealogy": "genealogy",
+                        "Awakening": "awakening",
+                        "Blazing": "blazing",
+                        "Radiance": "radiance",
+                        "Academy": "academy",
+                        "Fates": "fates",
+                        "Sacred": "sacred",
+                        "Fire": "fire",
+                        "Rivals": "rivals",
+                        "Dragons": "dragons",
+                        "Acumen": "acumen",
+                        "Revelation": "revelation",
+                        "Strength": "strength",
+                        "Bonds": "bonds",
+                        "Heroes": "heroes"
+                    }
+                },
+                "par": {
+                    "beginnings": [
+                        "marth"
+                    ],
+                    "holy": [
+                        "sigurd"
+                    ],
+                    "echoes": [
+                        "celica"
+                    ],
+                    "dawn": [
+                        "micaiah"
+                    ],
+                    "binding": [
+                        "roy"
+                    ],
+                    "genealogy": [
+                        "leif"
+                    ],
+                    "awakening": [
+                        "lucina"
+                    ],
+                    "blazing": [
+                        "lyn"
+                    ],
+                    "radiance": [
+                        "ike"
+                    ],
+                    "academy": [
+                        "byleth"
+                    ],
+                    "fates": [
+                        "corrin"
+                    ],
+                    "sacred": [
+                        "eirika",
+                        "ephraim"
+                    ],
+                    "fire": [
+                        "alear"
+                    ],
+                    "rivals": [
+                        "edelgard",
+                        "claude",
+                        "dimitri",
+                        "rival"
+                    ],
+                    "dragons": [
+                        "tiki",
+                        "dragon"
+                    ],
+                    "acumen": [
+                        "soren"
+                    ],
+                    "revelation": [
+                        "camilla",
+                        "revelations"
+                    ],
+                    "strength": [
+                        "hector"
+                    ],
+                    "bonds": [
+                        "chrom",
+                        "bond",
+                        "robin"
+                    ],
+                    "heroes": [
+                        "veronica"
+                    ]
+                },
+                "lua": [
+                    "fe17",
+                    "Item"
+                ]
+            }
+        }
+    }
+}

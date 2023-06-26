@@ -1,0 +1,1676 @@
+{
+    "archer": {
+        "name": "Archer",
+        "note": false,
+        "promo": "sniper",
+        "ally": "archer.gif",
+        "enemy": false,
+        "base": {
+            "hp": 16,
+            "str": 5,
+            "mag": 0,
+            "skl": 3,
+            "spd": 4,
+            "lck": 0,
+            "def": 6,
+            "res": 0,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "str": 20,
+            "mag": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 20,
+            "def": 20,
+            "res": 20
+        },
+        "growth": {
+            "hp": 40,
+            "str": 10,
+            "mag": -10,
+            "skl": 20,
+            "spd": 30,
+            "lck": 0,
+            "def": 10,
+            "res": -10
+        },
+        "rank": {
+            "bow": 1
+        }
+    },
+    "ballistician": {
+        "name": "Ballistician",
+        "note": false,
+        "promo": false,
+        "ally": "ballistician.gif",
+        "enemy": false,
+        "base": {
+            "hp": 20,
+            "str": 5,
+            "mag": 0,
+            "skl": 1,
+            "spd": 3,
+            "lck": 0,
+            "def": 14,
+            "res": 0,
+            "mov": 4
+        },
+        "cap": {
+            "hp": 60,
+            "str": 25,
+            "mag": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 25,
+            "res": 20
+        },
+        "growth": {
+            "hp": 40,
+            "str": 20,
+            "mag": -10,
+            "skl": 10,
+            "spd": 20,
+            "lck": 0,
+            "def": 20,
+            "res": -15
+        },
+        "rank": {}
+    },
+    "barbarian": {
+        "name": "Barbarian",
+        "note": false,
+        "promo": false,
+        "ally": "barbarian.gif",
+        "enemy": false,
+        "base": {
+            "hp": 18,
+            "str": 7,
+            "mag": 0,
+            "skl": 1,
+            "spd": 8,
+            "lck": 0,
+            "def": 4,
+            "res": 0,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "str": 30,
+            "mag": 30,
+            "skl": 30,
+            "spd": 30,
+            "lck": 30,
+            "def": 30,
+            "res": 30
+        },
+        "growth": {
+            "hp": 70,
+            "str": 40,
+            "mag": -20,
+            "skl": 15,
+            "spd": 20,
+            "lck": 0,
+            "def": 0,
+            "res": -15
+        },
+        "rank": {
+            "axe": 1
+        }
+    },
+    "berserker": {
+        "name": "Berserker",
+        "note": false,
+        "promo": false,
+        "ally": "berserker.gif",
+        "enemy": "berserker_enemy.gif",
+        "base": {
+            "hp": 24,
+            "str": 9,
+            "mag": 0,
+            "skl": 2,
+            "spd": 9,
+            "lck": 0,
+            "def": 6,
+            "res": 0,
+            "mov": 7
+        },
+        "cap": {
+            "hp": 60,
+            "str": 30,
+            "mag": 20,
+            "skl": 24,
+            "spd": 28,
+            "lck": 22,
+            "def": 24,
+            "res": 20
+        },
+        "growth": {
+            "hp": 70,
+            "str": 30,
+            "mag": -20,
+            "skl": 15,
+            "spd": 30,
+            "lck": 0,
+            "def": 0,
+            "res": -15
+        },
+        "rank": {
+            "axe": 31
+        }
+    },
+    "bishop": {
+        "name": "Bishop",
+        "note": false,
+        "promo": false,
+        "ally": "bishop.gif",
+        "enemy": "bishop_enemy.gif",
+        "base": {
+            "hp": 22,
+            "str": 1,
+            "mag": 3,
+            "skl": 2,
+            "spd": 4,
+            "lck": 0,
+            "def": 3,
+            "res": 9,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "str": 20,
+            "mag": 25,
+            "skl": 26,
+            "spd": 25,
+            "lck": 30,
+            "def": 22,
+            "res": 30
+        },
+        "growth": {
+            "hp": 20,
+            "str": -15,
+            "mag": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 0,
+            "def": -15,
+            "res": 20
+        },
+        "rank": {
+            "tome": 1,
+            "staff": 31
+        }
+    },
+    "cavalier": {
+        "name": "Cavalier",
+        "note": false,
+        "promo": "paladin",
+        "ally": "cavalier.gif",
+        "enemy": "cavalier_enemy.gif",
+        "base": {
+            "hp": 18,
+            "str": 5,
+            "mag": 0,
+            "skl": 2,
+            "spd": 6,
+            "lck": 0,
+            "def": 7,
+            "res": 0,
+            "mov": 9
+        },
+        "cap": {
+            "hp": 60,
+            "str": 20,
+            "mag": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 20,
+            "def": 20,
+            "res": 20
+        },
+        "growth": {
+            "hp": 40,
+            "str": 15,
+            "mag": -10,
+            "skl": 25,
+            "spd": 10,
+            "lck": 0,
+            "def": 15,
+            "res": -5
+        },
+        "rank": {
+            "sword": 1,
+            "lance": 1
+        }
+    },
+    "cleric": {
+        "name": "Cleric",
+        "note": false,
+        "promo": "bishop",
+        "ally": "cleric.gif",
+        "enemy": false,
+        "base": {
+            "hp": 16,
+            "str": 0,
+            "mag": 1,
+            "skl": 1,
+            "spd": 3,
+            "lck": 0,
+            "def": 1,
+            "res": 8,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "str": 20,
+            "mag": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 20,
+            "def": 20,
+            "res": 20
+        },
+        "growth": {
+            "hp": 20,
+            "str": -15,
+            "mag": 10,
+            "skl": 15,
+            "spd": 20,
+            "lck": 0,
+            "def": -10,
+            "res": 30
+        },
+        "rank": {
+            "staff": 1
+        }
+    },
+    "curate": {
+        "name": "Curate",
+        "note": false,
+        "promo": "bishop",
+        "ally": "curate.gif",
+        "enemy": false,
+        "base": {
+            "hp": 16,
+            "str": 0,
+            "mag": 1,
+            "skl": 1,
+            "spd": 4,
+            "lck": 0,
+            "def": 3,
+            "res": 6,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "str": 20,
+            "mag": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 20,
+            "def": 20,
+            "res": 20
+        },
+        "growth": {
+            "hp": 20,
+            "str": -15,
+            "mag": 10,
+            "skl": 15,
+            "spd": 20,
+            "lck": 0,
+            "def": -10,
+            "res": 30
+        },
+        "rank": {
+            "staff": 1
+        }
+    },
+    "dancer": {
+        "name": "Dancer",
+        "note": false,
+        "promo": false,
+        "ally": "dancer.gif",
+        "enemy": false,
+        "base": {
+            "hp": 16,
+            "str": 1,
+            "mag": 0,
+            "skl": 1,
+            "spd": 8,
+            "lck": 0,
+            "def": 3,
+            "res": 0,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "str": 20,
+            "mag": 20,
+            "skl": 25,
+            "spd": 25,
+            "lck": 30,
+            "def": 20,
+            "res": 20
+        },
+        "growth": {
+            "hp": 30,
+            "str": 10,
+            "mag": -20,
+            "skl": 30,
+            "spd": 40,
+            "lck": 0,
+            "def": 5,
+            "res": -10
+        },
+        "rank": {
+            "sword": 1
+        }
+    },
+    "darkmage": {
+        "name": "Dark Mage",
+        "note": false,
+        "promo": "sorcerer",
+        "ally": "darkmage.gif",
+        "enemy": false,
+        "base": {
+            "hp": 16,
+            "str": 0,
+            "mag": 2,
+            "skl": 1,
+            "spd": 3,
+            "lck": 0,
+            "def": 4,
+            "res": 3,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "str": 20,
+            "mag": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 20,
+            "def": 20,
+            "res": 20
+        },
+        "growth": {
+            "hp": 20,
+            "str": -15,
+            "mag": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 0,
+            "def": -15,
+            "res": 20
+        },
+        "rank": {
+            "tome": 1
+        }
+    },
+    "dracoknight": {
+        "name": "Dracoknight",
+        "note": false,
+        "promo": false,
+        "ally": "dracoknight.gif",
+        "enemy": "dracoknight_enemy.gif",
+        "base": {
+            "hp": 20,
+            "str": 8,
+            "mag": 1,
+            "skl": 5,
+            "spd": 7,
+            "lck": 0,
+            "def": 10,
+            "res": 3,
+            "mov": 10
+        },
+        "cap": {
+            "hp": 60,
+            "str": 26,
+            "mag": 20,
+            "skl": 26,
+            "spd": 23,
+            "lck": 30,
+            "def": 30,
+            "res": 21
+        },
+        "growth": {
+            "hp": 30,
+            "str": 10,
+            "mag": -15,
+            "skl": 20,
+            "spd": 25,
+            "lck": 0,
+            "def": 10,
+            "res": 0
+        },
+        "rank": {
+            "lance": 31,
+            "axe": 1
+        }
+    },
+    "earthdragon": {
+        "name": "Earth Dragon",
+        "note": false,
+        "promo": false,
+        "ally": "earthdragon.gif",
+        "enemy": false,
+        "base": {
+            "hp": 18,
+            "str": 14,
+            "mag": 0,
+            "skl": 10,
+            "spd": 8,
+            "lck": 0,
+            "def": 14,
+            "res": 19,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "str": 30,
+            "mag": 30,
+            "skl": 30,
+            "spd": 30,
+            "lck": 30,
+            "def": 30,
+            "res": 30
+        },
+        "growth": {
+            "hp": 50,
+            "str": 20,
+            "mag": 10,
+            "skl": 30,
+            "spd": 20,
+            "lck": 0,
+            "def": 20,
+            "res": -10
+        },
+        "rank": {}
+    },
+    "emperor": {
+        "name": "Emperor",
+        "note": false,
+        "promo": false,
+        "ally": "emperor.gif",
+        "enemy": false,
+        "base": {
+            "hp": 16,
+            "str": 3,
+            "mag": 0,
+            "skl": 3,
+            "spd": 3,
+            "lck": 0,
+            "def": 3,
+            "res": 0,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 80,
+            "str": 30,
+            "mag": 30,
+            "skl": 30,
+            "spd": 30,
+            "lck": 30,
+            "def": 30,
+            "res": 30
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "rank": {
+            "lance": 1
+        }
+    },
+    "falconknight": {
+        "name": "Falcon Knight",
+        "note": false,
+        "promo": false,
+        "ally": "falconknight.gif",
+        "enemy": false,
+        "base": {
+            "hp": 20,
+            "str": 6,
+            "mag": 3,
+            "skl": 7,
+            "spd": 9,
+            "lck": 0,
+            "def": 7,
+            "res": 9,
+            "mov": 10
+        },
+        "cap": {
+            "hp": 60,
+            "str": 24,
+            "mag": 20,
+            "skl": 26,
+            "spd": 26,
+            "lck": 30,
+            "def": 24,
+            "res": 26
+        },
+        "growth": {
+            "hp": 30,
+            "str": 10,
+            "mag": -15,
+            "skl": 20,
+            "spd": 25,
+            "lck": 0,
+            "def": 10,
+            "res": 0
+        },
+        "rank": {
+            "sword": 1,
+            "lance": 31
+        }
+    },
+    "fighter": {
+        "name": "Fighter",
+        "note": false,
+        "promo": "warrior",
+        "ally": "fighter.gif",
+        "enemy": false,
+        "base": {
+            "hp": 22,
+            "str": 7,
+            "mag": 0,
+            "skl": 3,
+            "spd": 6,
+            "lck": 0,
+            "def": 3,
+            "res": 0,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "str": 20,
+            "mag": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 20,
+            "def": 20,
+            "res": 20
+        },
+        "growth": {
+            "hp": 70,
+            "str": 40,
+            "mag": -20,
+            "skl": 25,
+            "spd": 10,
+            "lck": 0,
+            "def": 5,
+            "res": -15
+        },
+        "rank": {
+            "axe": 1
+        }
+    },
+    "firedragon": {
+        "name": "Fire Dragon",
+        "note": false,
+        "promo": false,
+        "ally": "firedragon.gif",
+        "enemy": false,
+        "base": {
+            "hp": 18,
+            "str": 8,
+            "mag": 0,
+            "skl": 5,
+            "spd": 5,
+            "lck": 0,
+            "def": 10,
+            "res": 5,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "str": 30,
+            "mag": 30,
+            "skl": 30,
+            "spd": 30,
+            "lck": 30,
+            "def": 30,
+            "res": 30
+        },
+        "growth": {
+            "hp": 50,
+            "str": 20,
+            "mag": 10,
+            "skl": 30,
+            "spd": 20,
+            "lck": 0,
+            "def": 20,
+            "res": -10
+        },
+        "rank": {}
+    },
+    "freelancer": {
+        "name": "Freelancer",
+        "note": false,
+        "promo": false,
+        "ally": "freelancer.gif",
+        "enemy": false,
+        "base": {
+            "hp": 16,
+            "str": 1,
+            "mag": 0,
+            "skl": 1,
+            "spd": 6,
+            "lck": 0,
+            "def": 4,
+            "res": 10,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "str": 20,
+            "mag": 20,
+            "skl": 25,
+            "spd": 25,
+            "lck": 30,
+            "def": 20,
+            "res": 20
+        },
+        "growth": {
+            "hp": 40,
+            "str": 30,
+            "mag": -20,
+            "skl": 30,
+            "spd": 30,
+            "lck": 0,
+            "def": 15,
+            "res": -15
+        },
+        "rank": {}
+    },
+    "general": {
+        "name": "General",
+        "note": false,
+        "promo": false,
+        "ally": "general.gif",
+        "enemy": "general_enemy.gif",
+        "base": {
+            "hp": 28,
+            "str": 8,
+            "mag": 1,
+            "skl": 3,
+            "spd": 4,
+            "lck": 0,
+            "def": 15,
+            "res": 3,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "str": 27,
+            "mag": 20,
+            "skl": 25,
+            "spd": 21,
+            "lck": 30,
+            "def": 30,
+            "res": 20
+        },
+        "growth": {
+            "hp": 60,
+            "str": 15,
+            "mag": -15,
+            "skl": 20,
+            "spd": 0,
+            "lck": 0,
+            "def": 30,
+            "res": -10
+        },
+        "rank": {
+            "lance": 31,
+            "bow": 1
+        }
+    },
+    "hero": {
+        "name": "Hero",
+        "note": false,
+        "promo": false,
+        "ally": "hero.gif",
+        "enemy": false,
+        "base": {
+            "hp": 24,
+            "str": 6,
+            "mag": 1,
+            "skl": 10,
+            "spd": 11,
+            "lck": 0,
+            "def": 7,
+            "res": 3,
+            "mov": 8
+        },
+        "cap": {
+            "hp": 60,
+            "str": 25,
+            "mag": 20,
+            "skl": 30,
+            "spd": 26,
+            "lck": 30,
+            "def": 25,
+            "res": 22
+        },
+        "growth": {
+            "hp": 50,
+            "str": 20,
+            "mag": -20,
+            "skl": 25,
+            "spd": 20,
+            "lck": 0,
+            "def": 10,
+            "res": -10
+        },
+        "rank": {
+            "sword": 31,
+            "axe": 1
+        }
+    },
+    "horseman": {
+        "name": "Horseman",
+        "note": false,
+        "promo": false,
+        "ally": "horseman.gif",
+        "enemy": false,
+        "base": {
+            "hp": 20,
+            "str": 6,
+            "mag": 1,
+            "skl": 6,
+            "spd": 8,
+            "lck": 0,
+            "def": 6,
+            "res": 3,
+            "mov": 9
+        },
+        "cap": {
+            "hp": 60,
+            "str": 24,
+            "mag": 20,
+            "skl": 28,
+            "spd": 30,
+            "lck": 30,
+            "def": 23,
+            "res": 23
+        },
+        "growth": {
+            "hp": 40,
+            "str": 20,
+            "mag": -15,
+            "skl": 15,
+            "spd": 25,
+            "lck": 0,
+            "def": 5,
+            "res": -15
+        },
+        "rank": {
+            "sword": 1,
+            "bow": 31
+        }
+    },
+    "hunter": {
+        "name": "Hunter",
+        "note": false,
+        "promo": "horseman",
+        "ally": "hunter.gif",
+        "enemy": false,
+        "base": {
+            "hp": 18,
+            "str": 6,
+            "mag": 0,
+            "skl": 4,
+            "spd": 6,
+            "lck": 0,
+            "def": 3,
+            "res": 0,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "str": 20,
+            "mag": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 20,
+            "def": 20,
+            "res": 20
+        },
+        "growth": {
+            "hp": 40,
+            "str": 20,
+            "mag": -15,
+            "skl": 15,
+            "spd": 25,
+            "lck": 0,
+            "def": 5,
+            "res": -15
+        },
+        "rank": {
+            "bow": 1
+        }
+    },
+    "icedragon": {
+        "name": "Ice Dragon",
+        "note": false,
+        "promo": false,
+        "ally": "icedragon.gif",
+        "enemy": false,
+        "base": {
+            "hp": 18,
+            "str": 5,
+            "mag": 0,
+            "skl": 8,
+            "spd": 5,
+            "lck": 0,
+            "def": 14,
+            "res": 9,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "str": 30,
+            "mag": 30,
+            "skl": 30,
+            "spd": 30,
+            "lck": 30,
+            "def": 30,
+            "res": 30
+        },
+        "growth": {
+            "hp": 50,
+            "str": 20,
+            "mag": 10,
+            "skl": 30,
+            "spd": 20,
+            "lck": 0,
+            "def": 20,
+            "res": -10
+        },
+        "rank": {}
+    },
+    "knight": {
+        "name": "Knight",
+        "note": false,
+        "promo": "general",
+        "ally": "knight.gif",
+        "enemy": "knight_enemy.gif",
+        "base": {
+            "hp": 18,
+            "str": 6,
+            "mag": 0,
+            "skl": 2,
+            "spd": 0,
+            "lck": 0,
+            "def": 11,
+            "res": 0,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "str": 20,
+            "mag": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 20,
+            "def": 20,
+            "res": 20
+        },
+        "growth": {
+            "hp": 60,
+            "str": 15,
+            "mag": -15,
+            "skl": 20,
+            "spd": 0,
+            "lck": 0,
+            "def": 30,
+            "res": -10
+        },
+        "rank": {
+            "lance": 1
+        }
+    },
+    "lord": {
+        "name": "Lord",
+        "note": false,
+        "promo": false,
+        "ally": "lord.gif",
+        "enemy": false,
+        "base": {
+            "hp": 18,
+            "str": 5,
+            "mag": 0,
+            "skl": 3,
+            "spd": 7,
+            "lck": 0,
+            "def": 7,
+            "res": 0,
+            "mov": 7
+        },
+        "cap": {
+            "hp": 60,
+            "str": 25,
+            "mag": 20,
+            "skl": 25,
+            "spd": 25,
+            "lck": 30,
+            "def": 25,
+            "res": 25
+        },
+        "growth": {
+            "hp": 40,
+            "str": 15,
+            "mag": -10,
+            "skl": 20,
+            "spd": 20,
+            "lck": 0,
+            "def": 5,
+            "res": -5
+        },
+        "rank": {
+            "sword": 1
+        }
+    },
+    "mage": {
+        "name": "Mage",
+        "note": false,
+        "promo": "sage",
+        "ally": "mage.gif",
+        "enemy": "mage_enemy.gif",
+        "base": {
+            "hp": 16,
+            "str": 0,
+            "mag": 3,
+            "skl": 1,
+            "spd": 3,
+            "lck": 0,
+            "def": 2,
+            "res": 3,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "str": 20,
+            "mag": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 20,
+            "def": 20,
+            "res": 20
+        },
+        "growth": {
+            "hp": 20,
+            "str": -10,
+            "mag": 30,
+            "skl": 20,
+            "spd": 15,
+            "lck": 0,
+            "def": -15,
+            "res": 10
+        },
+        "rank": {
+            "tome": 1
+        }
+    },
+    "magedragon": {
+        "name": "Mage Dragon",
+        "note": false,
+        "promo": false,
+        "ally": "magedragon.gif",
+        "enemy": false,
+        "base": {
+            "hp": 18,
+            "str": 0,
+            "mag": 7,
+            "skl": 2,
+            "spd": 0,
+            "lck": 0,
+            "def": 12,
+            "res": 11,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "str": 30,
+            "mag": 30,
+            "skl": 30,
+            "spd": 30,
+            "lck": 30,
+            "def": 30,
+            "res": 30
+        },
+        "growth": {
+            "hp": 50,
+            "str": 20,
+            "mag": 10,
+            "skl": 30,
+            "spd": 20,
+            "lck": 0,
+            "def": 20,
+            "res": -10
+        },
+        "rank": {}
+    },
+    "manakete": {
+        "name": "Manakete",
+        "note": false,
+        "promo": false,
+        "ally": "manakete.gif",
+        "enemy": false,
+        "base": {
+            "hp": 18,
+            "str": 0,
+            "mag": 0,
+            "skl": 1,
+            "spd": 1,
+            "lck": 0,
+            "def": 1,
+            "res": 1,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "str": 20,
+            "mag": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20
+        },
+        "growth": {
+            "hp": 50,
+            "str": 20,
+            "mag": 10,
+            "skl": 30,
+            "spd": 20,
+            "lck": 0,
+            "def": 10,
+            "res": -10
+        },
+        "rank": {}
+    },
+    "mercenary": {
+        "name": "Mercenary",
+        "note": false,
+        "promo": "hero",
+        "ally": "mercenary.gif",
+        "enemy": "mercenary_enemy.gif",
+        "base": {
+            "hp": 18,
+            "str": 4,
+            "mag": 0,
+            "skl": 8,
+            "spd": 9,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "mov": 7
+        },
+        "cap": {
+            "hp": 60,
+            "str": 20,
+            "mag": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 20,
+            "def": 20,
+            "res": 20
+        },
+        "growth": {
+            "hp": 50,
+            "str": 20,
+            "mag": -20,
+            "skl": 25,
+            "spd": 20,
+            "lck": 0,
+            "def": 10,
+            "res": -10
+        },
+        "rank": {
+            "sword": 1
+        }
+    },
+    "myrmidon": {
+        "name": "Myrmidon",
+        "note": false,
+        "promo": "swordmaster",
+        "ally": "myrmidon.gif",
+        "enemy": "myrmidon_enemy.gif",
+        "base": {
+            "hp": 16,
+            "str": 3,
+            "mag": 0,
+            "skl": 9,
+            "spd": 11,
+            "lck": 0,
+            "def": 4,
+            "res": 0,
+            "mov": 7
+        },
+        "cap": {
+            "hp": 60,
+            "str": 20,
+            "mag": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 20,
+            "def": 20,
+            "res": 20
+        },
+        "growth": {
+            "hp": 40,
+            "str": 10,
+            "mag": -10,
+            "skl": 20,
+            "spd": 30,
+            "lck": 0,
+            "def": 5,
+            "res": -5
+        },
+        "rank": {
+            "sword": 1
+        }
+    },
+    "paladin": {
+        "name": "Paladin",
+        "note": false,
+        "promo": false,
+        "ally": "paladin.gif",
+        "enemy": "paladin_enemy.gif",
+        "base": {
+            "hp": 22,
+            "str": 7,
+            "mag": 1,
+            "skl": 5,
+            "spd": 7,
+            "lck": 0,
+            "def": 8,
+            "res": 6,
+            "mov": 10
+        },
+        "cap": {
+            "hp": 60,
+            "str": 25,
+            "mag": 21,
+            "skl": 28,
+            "spd": 25,
+            "lck": 25,
+            "def": 30,
+            "res": 25
+        },
+        "growth": {
+            "hp": 40,
+            "str": 15,
+            "mag": -10,
+            "skl": 25,
+            "spd": 10,
+            "lck": 0,
+            "def": 15,
+            "res": -5
+        },
+        "rank": {
+            "sword": 1,
+            "lance": 31
+        }
+    },
+    "pegasusknight": {
+        "name": "Pegasus Knight",
+        "note": false,
+        "promo": "dracoknight",
+        "ally": "pegasusknight.gif",
+        "enemy": "pegasusknight_enemy.gif",
+        "base": {
+            "hp": 16,
+            "str": 4,
+            "mag": 2,
+            "skl": 5,
+            "spd": 7,
+            "lck": 0,
+            "def": 5,
+            "res": 6,
+            "mov": 8
+        },
+        "cap": {
+            "hp": 60,
+            "str": 20,
+            "mag": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 20,
+            "def": 20,
+            "res": 20
+        },
+        "growth": {
+            "hp": 30,
+            "str": 10,
+            "mag": -15,
+            "skl": 20,
+            "spd": 25,
+            "lck": 0,
+            "def": 10,
+            "res": 0
+        },
+        "rank": {
+            "lance": 1
+        }
+    },
+    "pirate": {
+        "name": "Pirate",
+        "note": false,
+        "promo": "berserker",
+        "ally": "pirate.gif",
+        "enemy": "pirate_enemy.gif",
+        "base": {
+            "hp": 18,
+            "str": 7,
+            "mag": 0,
+            "skl": 1,
+            "spd": 8,
+            "lck": 0,
+            "def": 4,
+            "res": 0,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "str": 20,
+            "mag": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 20,
+            "def": 20,
+            "res": 20
+        },
+        "growth": {
+            "hp": 70,
+            "str": 30,
+            "mag": -20,
+            "skl": 15,
+            "spd": 30,
+            "lck": 0,
+            "def": 0,
+            "res": -15
+        },
+        "rank": {
+            "axe": 1
+        }
+    },
+    "sage": {
+        "name": "Sage",
+        "note": false,
+        "promo": false,
+        "ally": "sage.gif",
+        "enemy": false,
+        "base": {
+            "hp": 22,
+            "str": 3,
+            "mag": 5,
+            "skl": 2,
+            "spd": 4,
+            "lck": 0,
+            "def": 3,
+            "res": 5,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "str": 20,
+            "mag": 30,
+            "skl": 28,
+            "spd": 25,
+            "lck": 30,
+            "def": 20,
+            "res": 25
+        },
+        "growth": {
+            "hp": 20,
+            "str": -15,
+            "mag": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 0,
+            "def": -15,
+            "res": 20
+        },
+        "rank": {
+            "tome": 31,
+            "staff": 1
+        }
+    },
+    "shadowdragon": {
+        "name": "Shadow Dragon",
+        "note": false,
+        "promo": false,
+        "ally": "shadowdragon.gif",
+        "enemy": false,
+        "base": {
+            "hp": 18,
+            "str": 10,
+            "mag": 0,
+            "skl": 8,
+            "spd": 5,
+            "lck": 0,
+            "def": 16,
+            "res": 12,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 99,
+            "str": 40,
+            "mag": 30,
+            "skl": 40,
+            "spd": 30,
+            "lck": 30,
+            "def": 40,
+            "res": 30
+        },
+        "growth": {
+            "hp": 50,
+            "str": 20,
+            "mag": 10,
+            "skl": 30,
+            "spd": 20,
+            "lck": 0,
+            "def": 20,
+            "res": -10
+        },
+        "rank": {}
+    },
+    "sniper": {
+        "name": "Sniper",
+        "note": false,
+        "promo": false,
+        "ally": "sniper.gif",
+        "enemy": "sniper_enemy.gif",
+        "base": {
+            "hp": 24,
+            "str": 7,
+            "mag": 1,
+            "skl": 8,
+            "spd": 9,
+            "lck": 0,
+            "def": 7,
+            "res": 3,
+            "mov": 7
+        },
+        "cap": {
+            "hp": 60,
+            "str": 24,
+            "mag": 20,
+            "skl": 30,
+            "spd": 29,
+            "lck": 30,
+            "def": 23,
+            "res": 20
+        },
+        "growth": {
+            "hp": 40,
+            "str": 10,
+            "mag": -15,
+            "skl": 20,
+            "spd": 30,
+            "lck": 0,
+            "def": 10,
+            "res": -10
+        },
+        "rank": {
+            "bow": 76
+        }
+    },
+    "soldier": {
+        "name": "Soldier",
+        "note": false,
+        "promo": false,
+        "ally": "soldier.gif",
+        "enemy": false,
+        "base": {
+            "hp": 16,
+            "str": 3,
+            "mag": 0,
+            "skl": 3,
+            "spd": 3,
+            "lck": 0,
+            "def": 3,
+            "res": 0,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "str": 20,
+            "mag": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 20,
+            "def": 20,
+            "res": 20
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "rank": {
+            "lance": 1
+        }
+    },
+    "sorcerer": {
+        "name": "Sorcerer",
+        "note": false,
+        "promo": false,
+        "ally": "sorcerer.gif",
+        "enemy": "sorcerer_enemy.gif",
+        "base": {
+            "hp": 22,
+            "str": 2,
+            "mag": 4,
+            "skl": 2,
+            "spd": 4,
+            "lck": 0,
+            "def": 4,
+            "res": 6,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "str": 20,
+            "mag": 30,
+            "skl": 28,
+            "spd": 25,
+            "lck": 30,
+            "def": 20,
+            "res": 25
+        },
+        "growth": {
+            "hp": 20,
+            "str": -15,
+            "mag": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 0,
+            "def": -15,
+            "res": 20
+        },
+        "rank": {
+            "tome": 31,
+            "staff": 1
+        }
+    },
+    "swordmaster": {
+        "name": "Swordmaster",
+        "note": false,
+        "promo": false,
+        "ally": "swordmaster.gif",
+        "enemy": false,
+        "base": {
+            "hp": 22,
+            "str": 5,
+            "mag": 1,
+            "skl": 11,
+            "spd": 13,
+            "lck": 0,
+            "def": 6,
+            "res": 3,
+            "mov": 8
+        },
+        "cap": {
+            "hp": 60,
+            "str": 24,
+            "mag": 20,
+            "skl": 29,
+            "spd": 30,
+            "lck": 30,
+            "def": 22,
+            "res": 23
+        },
+        "growth": {
+            "hp": 40,
+            "str": 10,
+            "mag": -10,
+            "skl": 20,
+            "spd": 30,
+            "lck": 0,
+            "def": 5,
+            "res": -5
+        },
+        "rank": {
+            "sword": 76
+        }
+    },
+    "thief": {
+        "name": "Thief",
+        "note": false,
+        "promo": false,
+        "ally": "thief.gif",
+        "enemy": "thief_enemy.gif",
+        "base": {
+            "hp": 16,
+            "str": 2,
+            "mag": 0,
+            "skl": 1,
+            "spd": 7,
+            "lck": 0,
+            "def": 1,
+            "res": 0,
+            "mov": 7
+        },
+        "cap": {
+            "hp": 60,
+            "str": 20,
+            "mag": 20,
+            "skl": 25,
+            "spd": 30,
+            "lck": 30,
+            "def": 25,
+            "res": 20
+        },
+        "growth": {
+            "hp": 30,
+            "str": 10,
+            "mag": -20,
+            "skl": 30,
+            "spd": 40,
+            "lck": 0,
+            "def": 5,
+            "res": -10
+        },
+        "rank": {
+            "sword": 1
+        }
+    },
+    "warrior": {
+        "name": "Warrior",
+        "note": false,
+        "promo": false,
+        "ally": "warrior.gif",
+        "enemy": false,
+        "base": {
+            "hp": 28,
+            "str": 9,
+            "mag": 0,
+            "skl": 4,
+            "spd": 7,
+            "lck": 0,
+            "def": 5,
+            "res": 1,
+            "mov": 7
+        },
+        "cap": {
+            "hp": 60,
+            "str": 30,
+            "mag": 20,
+            "skl": 26,
+            "spd": 24,
+            "lck": 30,
+            "def": 28,
+            "res": 20
+        },
+        "growth": {
+            "hp": 70,
+            "str": 40,
+            "mag": -20,
+            "skl": 25,
+            "spd": 10,
+            "lck": 0,
+            "def": 5,
+            "res": -15
+        },
+        "rank": {
+            "axe": 31,
+            "bow": 1
+        }
+    },
+    "wyvern": {
+        "name": "Wyvern",
+        "note": false,
+        "promo": false,
+        "ally": "wyvern.gif",
+        "enemy": false,
+        "base": {
+            "hp": 18,
+            "str": 5,
+            "mag": 0,
+            "skl": 5,
+            "spd": 8,
+            "lck": 0,
+            "def": 9,
+            "res": 4,
+            "mov": 12
+        },
+        "cap": {
+            "hp": 60,
+            "str": 30,
+            "mag": 30,
+            "skl": 30,
+            "spd": 30,
+            "lck": 30,
+            "def": 30,
+            "res": 30
+        },
+        "growth": {
+            "hp": 50,
+            "str": 20,
+            "mag": 10,
+            "skl": 30,
+            "spd": 20,
+            "lck": 0,
+            "def": 20,
+            "res": -10
+        },
+        "rank": {}
+    }
+}

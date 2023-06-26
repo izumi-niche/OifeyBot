@@ -1,0 +1,332 @@
+{
+    "jugdral_wrath": {
+        "name": "jugdral_wrath",
+        "id": 667781266497732616,
+        "animated": false
+    },
+    "jugdral_charm": {
+        "name": "jugdral_charm",
+        "id": 667782733422133278,
+        "animated": false
+    },
+    "jugdral_adept": {
+        "name": "jugdral_adept",
+        "id": 667782733493305369,
+        "animated": false
+    },
+    "jugdral_accost": {
+        "name": "jugdral_accost",
+        "id": 667782733594099753,
+        "animated": false
+    },
+    "jugdral_renewal": {
+        "name": "jugdral_renewal",
+        "id": 667782733619134523,
+        "animated": false
+    },
+    "jugdral_paragon": {
+        "name": "jugdral_paragon",
+        "id": 667782733686112294,
+        "animated": false
+    },
+    "jugdral_sol": {
+        "name": "jugdral_sol",
+        "id": 667782733744963607,
+        "animated": false
+    },
+    "jugdral_dance": {
+        "name": "jugdral_dance",
+        "id": 667782733753352212,
+        "animated": false
+    },
+    "jugdral_bargain": {
+        "name": "jugdral_bargain",
+        "id": 667782733782843393,
+        "animated": false
+    },
+    "jugdral_nihil": {
+        "name": "jugdral_nihil",
+        "id": 667782733812203520,
+        "animated": false
+    },
+    "jugdral_astra": {
+        "name": "jugdral_astra",
+        "id": 667782733853884416,
+        "animated": false
+    },
+    "jugdral_luna": {
+        "name": "jugdral_luna",
+        "id": 667782733854015508,
+        "animated": false
+    },
+    "jugdral_steal": {
+        "name": "jugdral_steal",
+        "id": 667782733946421248,
+        "animated": false
+    },
+    "jugdral_pavise": {
+        "name": "jugdral_pavise",
+        "id": 667782733992558592,
+        "animated": false
+    },
+    "jugdral_vantage": {
+        "name": "jugdral_vantage",
+        "id": 667782734013530112,
+        "animated": false
+    },
+    "jugdral_miracle": {
+        "name": "jugdral_miracle",
+        "id": 667782735175221248,
+        "animated": false
+    },
+    "jugdral_pursuit": {
+        "name": "jugdral_pursuit",
+        "id": 690881354749050921,
+        "animated": false
+    },
+    "jugdral_critical": {
+        "name": "jugdral_critical",
+        "id": 690881355223138385,
+        "animated": false
+    },
+    "major_dain": {
+        "name": "major_dain",
+        "id": 690900958670225449,
+        "animated": true
+    },
+    "major_fjalar": {
+        "name": "major_fjalar",
+        "id": 690900958837735445,
+        "animated": true
+    },
+    "major_od": {
+        "name": "major_od",
+        "id": 690900958900781117,
+        "animated": true
+    },
+    "major_baldr": {
+        "name": "major_baldr",
+        "id": 690900958988992632,
+        "animated": true
+    },
+    "major_hezul": {
+        "name": "major_hezul",
+        "id": 690900959072878613,
+        "animated": true
+    },
+    "major_loptous": {
+        "name": "major_loptous",
+        "id": 690900959089393675,
+        "animated": true
+    },
+    "major_forseti": {
+        "name": "major_forseti",
+        "id": 690900959119016036,
+        "animated": true
+    },
+    "major_bragi": {
+        "name": "major_bragi",
+        "id": 690900959127273492,
+        "animated": true
+    },
+    "major_naga": {
+        "name": "major_naga",
+        "id": 690900959202770954,
+        "animated": true
+    },
+    "major_neir": {
+        "name": "major_neir",
+        "id": 690900959211159562,
+        "animated": true
+    },
+    "major_njorun": {
+        "name": "major_njorun",
+        "id": 690900959282462774,
+        "animated": true
+    },
+    "major_ulir": {
+        "name": "major_ulir",
+        "id": 690900959282462776,
+        "animated": true
+    },
+    "major_thrud": {
+        "name": "major_thrud",
+        "id": 690900959311953920,
+        "animated": true
+    },
+    "minor_bragi": {
+        "name": "minor_bragi",
+        "id": 690950300323938336,
+        "animated": false
+    },
+    "minor_naga": {
+        "name": "minor_naga",
+        "id": 690950300449636403,
+        "animated": false
+    },
+    "minor_fjalar": {
+        "name": "minor_fjalar",
+        "id": 690950300470870067,
+        "animated": false
+    },
+    "minor_baldr": {
+        "name": "minor_baldr",
+        "id": 690950300487647282,
+        "animated": false
+    },
+    "minor_neir": {
+        "name": "minor_neir",
+        "id": 690950300516876359,
+        "animated": false
+    },
+    "minor_hezul": {
+        "name": "minor_hezul",
+        "id": 690950300575596544,
+        "animated": false
+    },
+    "minor_forseti": {
+        "name": "minor_forseti",
+        "id": 690950300588310588,
+        "animated": false
+    },
+    "minor_loptous": {
+        "name": "minor_loptous",
+        "id": 690950300592504982,
+        "animated": false
+    },
+    "minor_dain": {
+        "name": "minor_dain",
+        "id": 690950300659482674,
+        "animated": false
+    },
+    "minor_od": {
+        "name": "minor_od",
+        "id": 690950300676128769,
+        "animated": false
+    },
+    "minor_thrud": {
+        "name": "minor_thrud",
+        "id": 690950300793569331,
+        "animated": false
+    },
+    "minor_njorun": {
+        "name": "minor_njorun",
+        "id": 690950300835512341,
+        "animated": false
+    },
+    "minor_ulir": {
+        "name": "minor_ulir",
+        "id": 690950301011804210,
+        "animated": false
+    },
+    "bow": {
+        "name": "jugdral_bow",
+        "id": 690990367079661579,
+        "animated": false
+    },
+    "light": {
+        "name": "jugdral_light",
+        "id": 690990367079923843,
+        "animated": false
+    },
+    "axe": {
+        "name": "jugdral_axe",
+        "id": 690990367318868059,
+        "animated": false
+    },
+    "thunder": {
+        "name": "jugdral_thunder",
+        "id": 690990367465799739,
+        "animated": false
+    },
+    "dark": {
+        "name": "jugdral_dark",
+        "id": 690990367478382643,
+        "animated": false
+    },
+    "lance": {
+        "name": "jugdral_lance",
+        "id": 690990367541035048,
+        "animated": false
+    },
+    "fire": {
+        "name": "jugdral_fire",
+        "id": 690990367612469338,
+        "animated": false
+    },
+    "staff": {
+        "name": "jugdral_staff",
+        "id": 690990367625052211,
+        "animated": false
+    },
+    "sword": {
+        "name": "jugdral_sword",
+        "id": 690990367629377577,
+        "animated": false
+    },
+    "wind": {
+        "name": "jugdral_wind",
+        "id": 690990367763464252,
+        "animated": false
+    },
+    "scroll_baldr": {
+        "name": "scroll_baldr",
+        "id": 695055243859460208,
+        "animated": false
+    },
+    "scroll_ced": {
+        "name": "scroll_ced",
+        "id": 695055243943215205,
+        "animated": false
+    },
+    "scroll_dainn": {
+        "name": "scroll_dainn",
+        "id": 695055244148867082,
+        "animated": false
+    },
+    "scroll_od": {
+        "name": "scroll_od",
+        "id": 695055244303925309,
+        "animated": false
+    },
+    "scroll_nal": {
+        "name": "scroll_neir",
+        "id": 695055244312444988,
+        "animated": false
+    },
+    "scroll_fjalar": {
+        "name": "scroll_fjalar",
+        "id": 695055244366970971,
+        "animated": false
+    },
+    "scroll_heim": {
+        "name": "scroll_heim",
+        "id": 695055244517703720,
+        "animated": false
+    },
+    "scroll_bragi": {
+        "name": "scroll_bragi",
+        "id": 695055246610661396,
+        "animated": false
+    },
+    "scroll_njorun": {
+        "name": "scroll_njorun",
+        "id": 705270171035500575,
+        "animated": false
+    },
+    "scroll_hodr": {
+        "name": "scroll_hezul",
+        "id": 695830244950540300,
+        "animated": false
+    },
+    "scroll_thrud": {
+        "name": "scroll_thrud",
+        "id": 695830245160517702,
+        "animated": false
+    },
+    "scroll_ullr": {
+        "name": "scroll_ulir",
+        "id": 695830245248466985,
+        "animated": false
+    }
+}

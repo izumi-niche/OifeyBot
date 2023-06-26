@@ -1,0 +1,1406 @@
+{
+    "abel": {
+        "name": "Abel",
+        "lvl": 1,
+        "job": "cavalier",
+        "portrait": "abel.png",
+        "base": {
+            "hp": 18,
+            "str": 6,
+            "skl": 7,
+            "wlv": 6,
+            "spd": 7,
+            "lck": 2,
+            "def": 7,
+            "res": 0,
+            "mov": 9
+        },
+        "growth": {
+            "hp": 70,
+            "str": 40,
+            "skl": 50,
+            "wlv": 70,
+            "spd": 50,
+            "lck": 40,
+            "def": 20,
+            "res": 0
+        }
+    },
+    "arran": {
+        "name": "Arran",
+        "lvl": 1,
+        "job": "paladin",
+        "portrait": "arran.png",
+        "base": {
+            "hp": 24,
+            "str": 8,
+            "skl": 8,
+            "wlv": 10,
+            "spd": 11,
+            "lck": 4,
+            "def": 10,
+            "res": 0,
+            "mov": 10
+        },
+        "growth": {
+            "hp": 50,
+            "str": 50,
+            "skl": 30,
+            "wlv": 50,
+            "spd": 40,
+            "lck": 40,
+            "def": 10,
+            "res": 0
+        }
+    },
+    "astram": {
+        "name": "Astram",
+        "lvl": 1,
+        "job": "hero",
+        "portrait": "astram.png",
+        "base": {
+            "hp": 24,
+            "str": 8,
+            "skl": 14,
+            "wlv": 10,
+            "spd": 14,
+            "lck": "0-7",
+            "def": 8,
+            "res": 0,
+            "mov": 7
+        },
+        "growth": {
+            "hp": 90,
+            "str": 50,
+            "skl": 40,
+            "wlv": 40,
+            "spd": 20,
+            "lck": 50,
+            "def": 10,
+            "res": 0
+        }
+    },
+    "bantu": {
+        "name": "Bantu",
+        "lvl": 1,
+        "job": "manakete",
+        "portrait": "bantu.png",
+        "base": {
+            "hp": 18,
+            "str": 2,
+            "skl": 3,
+            "wlv": 2,
+            "spd": 4,
+            "lck": 1,
+            "def": 3,
+            "res": 0,
+            "mov": 6
+        },
+        "growth": {
+            "hp": 10,
+            "str": 0,
+            "skl": 10,
+            "wlv": 0,
+            "spd": 0,
+            "lck": 10,
+            "def": 0,
+            "res": 0
+        }
+    },
+    "barst": {
+        "name": "Barst",
+        "lvl": 5,
+        "job": "fighter",
+        "portrait": "barst.png",
+        "base": {
+            "hp": 24,
+            "str": 10,
+            "skl": 6,
+            "wlv": 6,
+            "spd": 9,
+            "lck": 5,
+            "def": 6,
+            "res": 0,
+            "mov": 6
+        },
+        "growth": {
+            "hp": 60,
+            "str": 50,
+            "skl": 50,
+            "wlv": 30,
+            "spd": 50,
+            "lck": 70,
+            "def": 50,
+            "res": 0
+        }
+    },
+    "beck": {
+        "name": "Beck",
+        "lvl": 1,
+        "job": "ballistician",
+        "portrait": "beck.png",
+        "base": {
+            "hp": 20,
+            "str": 6,
+            "skl": 4,
+            "wlv": 8,
+            "spd": 3,
+            "lck": 5,
+            "def": 14,
+            "res": 0,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 10,
+            "str": 20,
+            "skl": 40,
+            "wlv": 70,
+            "spd": 50,
+            "lck": 30,
+            "def": 0,
+            "res": 0
+        }
+    },
+    "boah": {
+        "name": "Boah",
+        "lvl": 1,
+        "job": "bishop",
+        "portrait": "boah.png",
+        "base": {
+            "hp": 22,
+            "str": 4,
+            "skl": 7,
+            "wlv": 10,
+            "spd": 15,
+            "lck": 4,
+            "def": 6,
+            "res": 0,
+            "mov": 6
+        },
+        "growth": {
+            "hp": 10,
+            "str": 0,
+            "skl": 10,
+            "wlv": 0,
+            "spd": 20,
+            "lck": 10,
+            "def": 10,
+            "res": 0
+        }
+    },
+    "bord": {
+        "name": "Bord",
+        "lvl": 3,
+        "job": "fighter",
+        "portrait": "bord.png",
+        "base": {
+            "hp": 20,
+            "str": 8,
+            "skl": 4,
+            "wlv": 5,
+            "spd": 7,
+            "lck": 1,
+            "def": 5,
+            "res": 0,
+            "mov": 6
+        },
+        "growth": {
+            "hp": 90,
+            "str": 50,
+            "skl": 50,
+            "wlv": 20,
+            "spd": 10,
+            "lck": 30,
+            "def": 50,
+            "res": 0
+        }
+    },
+    "caeda": {
+        "name": "Caeda",
+        "lvl": 1,
+        "job": "pegasusknight",
+        "portrait": "caeda.png",
+        "base": {
+            "hp": 16,
+            "str": 3,
+            "skl": 6,
+            "wlv": 7,
+            "spd": 12,
+            "lck": 9,
+            "def": 7,
+            "res": 0,
+            "mov": 8
+        },
+        "growth": {
+            "hp": 50,
+            "str": 20,
+            "skl": 70,
+            "wlv": 80,
+            "spd": 90,
+            "lck": 70,
+            "def": 20,
+            "res": 0
+        }
+    },
+    "caesar": {
+        "name": "Caesar",
+        "lvl": 3,
+        "job": "mercenary",
+        "portrait": "caesar.png",
+        "base": {
+            "hp": 17,
+            "str": 5,
+            "skl": 8,
+            "wlv": 6,
+            "spd": 12,
+            "lck": 6,
+            "def": 7,
+            "res": 0,
+            "mov": 7
+        },
+        "growth": {
+            "hp": 80,
+            "str": 30,
+            "skl": 30,
+            "wlv": 30,
+            "spd": 20,
+            "lck": 10,
+            "def": 20,
+            "res": 0
+        }
+    },
+    "cain": {
+        "name": "Cain",
+        "lvl": 1,
+        "job": "cavalier",
+        "portrait": "cain.png",
+        "base": {
+            "hp": 18,
+            "str": 7,
+            "skl": 5,
+            "wlv": 5,
+            "spd": 6,
+            "lck": 3,
+            "def": 7,
+            "res": 0,
+            "mov": 9
+        },
+        "growth": {
+            "hp": 90,
+            "str": 30,
+            "skl": 60,
+            "wlv": 60,
+            "spd": 60,
+            "lck": 50,
+            "def": 20,
+            "res": 0
+        }
+    },
+    "castor": {
+        "name": "Castor",
+        "lvl": 3,
+        "job": "hunter",
+        "portrait": "castor.png",
+        "base": {
+            "hp": 21,
+            "str": 7,
+            "skl": 2,
+            "wlv": 6,
+            "spd": 6,
+            "lck": "0-7",
+            "def": 4,
+            "res": 0,
+            "mov": 6
+        },
+        "growth": {
+            "hp": 70,
+            "str": 60,
+            "skl": 40,
+            "wlv": 20,
+            "spd": 40,
+            "lck": 20,
+            "def": 20,
+            "res": 0
+        }
+    },
+    "catria": {
+        "name": "Catria",
+        "lvl": 3,
+        "job": "pegasusknight",
+        "portrait": "catria.png",
+        "base": {
+            "hp": 19,
+            "str": 5,
+            "skl": 6,
+            "wlv": 10,
+            "spd": 12,
+            "lck": "0-7",
+            "def": 7,
+            "res": 0,
+            "mov": 8
+        },
+        "growth": {
+            "hp": 70,
+            "str": 40,
+            "skl": 80,
+            "wlv": 70,
+            "spd": 80,
+            "lck": 40,
+            "def": 30,
+            "res": 0
+        }
+    },
+    "cord": {
+        "name": "Cord",
+        "lvl": 3,
+        "job": "fighter",
+        "portrait": "cord.png",
+        "base": {
+            "hp": 20,
+            "str": 7,
+            "skl": 5,
+            "wlv": 3,
+            "spd": 9,
+            "lck": 5,
+            "def": 5,
+            "res": 0,
+            "mov": 6
+        },
+        "growth": {
+            "hp": 100,
+            "str": 30,
+            "skl": 20,
+            "wlv": 50,
+            "spd": 40,
+            "lck": 40,
+            "def": 40,
+            "res": 0
+        }
+    },
+    "darros": {
+        "name": "Darros",
+        "lvl": 3,
+        "job": "pirate",
+        "portrait": "darros.png",
+        "base": {
+            "hp": 21,
+            "str": 6,
+            "skl": 2,
+            "wlv": 6,
+            "spd": 7,
+            "lck": "0-7",
+            "def": 5,
+            "res": 0,
+            "mov": 6
+        },
+        "growth": {
+            "hp": 90,
+            "str": 50,
+            "skl": 0,
+            "wlv": 20,
+            "spd": 10,
+            "lck": 10,
+            "def": 40,
+            "res": 0
+        }
+    },
+    "dolph": {
+        "name": "Dolph",
+        "lvl": 4,
+        "job": "knight",
+        "portrait": "dolph.png",
+        "base": {
+            "hp": 20,
+            "str": 8,
+            "skl": 6,
+            "wlv": 7,
+            "spd": 5,
+            "lck": 3,
+            "def": 12,
+            "res": 0,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 70,
+            "str": 30,
+            "skl": 40,
+            "wlv": 70,
+            "spd": 30,
+            "lck": 10,
+            "def": 20,
+            "res": 0
+        }
+    },
+    "draug": {
+        "name": "Draug",
+        "lvl": 1,
+        "job": "knight",
+        "portrait": "draug.png",
+        "base": {
+            "hp": 18,
+            "str": 7,
+            "skl": 3,
+            "wlv": 4,
+            "spd": 3,
+            "lck": 1,
+            "def": 11,
+            "res": 0,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 60,
+            "str": 20,
+            "skl": 40,
+            "wlv": 20,
+            "spd": 40,
+            "lck": 20,
+            "def": 10,
+            "res": 0
+        }
+    },
+    "elice": {
+        "name": "Elice",
+        "lvl": 4,
+        "job": "priest",
+        "portrait": "elice.png",
+        "base": {
+            "hp": 16,
+            "str": 1,
+            "skl": 5,
+            "wlv": 7,
+            "spd": 7,
+            "lck": 1,
+            "def": 3,
+            "res": 0,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 80,
+            "str": 0,
+            "skl": 50,
+            "wlv": 90,
+            "spd": 60,
+            "lck": 80,
+            "def": 30,
+            "res": 0
+        }
+    },
+    "est": {
+        "name": "Est",
+        "lvl": 5,
+        "job": "pegasusknight",
+        "portrait": "est.png",
+        "base": {
+            "hp": 22,
+            "str": 6,
+            "skl": 7,
+            "wlv": 11,
+            "spd": 13,
+            "lck": "0-7",
+            "def": 8,
+            "res": 0,
+            "mov": 8
+        },
+        "growth": {
+            "hp": 50,
+            "str": 70,
+            "skl": 70,
+            "wlv": 70,
+            "spd": 70,
+            "lck": 60,
+            "def": 20,
+            "res": 0
+        }
+    },
+    "gordin": {
+        "name": "Gordin",
+        "lvl": 1,
+        "job": "archer",
+        "portrait": "gordin.png",
+        "base": {
+            "hp": 16,
+            "str": 5,
+            "skl": 1,
+            "wlv": 5,
+            "spd": 4,
+            "lck": 4,
+            "def": 6,
+            "res": 0,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 40,
+            "str": 30,
+            "skl": 30,
+            "wlv": 50,
+            "spd": 30,
+            "lck": 40,
+            "def": 10,
+            "res": 0
+        }
+    },
+    "gotoh": {
+        "name": "Gotoh",
+        "lvl": 18,
+        "job": "bishop",
+        "portrait": "gotoh.png",
+        "base": {
+            "hp": 38,
+            "str": 10,
+            "skl": 20,
+            "wlv": 20,
+            "spd": 20,
+            "lck": 16,
+            "def": 15,
+            "res": 7,
+            "mov": 6
+        },
+        "growth": {
+            "hp": 80,
+            "str": 0,
+            "skl": 50,
+            "wlv": 90,
+            "spd": 60,
+            "lck": 80,
+            "def": 30,
+            "res": 0
+        }
+    },
+    "hardin": {
+        "name": "Hardin",
+        "lvl": 6,
+        "job": "cavalier",
+        "portrait": "hardin.png",
+        "base": {
+            "hp": 20,
+            "str": 9,
+            "skl": 7,
+            "wlv": 9,
+            "spd": 8,
+            "lck": 3,
+            "def": 8,
+            "res": 0,
+            "mov": 9
+        },
+        "growth": {
+            "hp": 50,
+            "str": 30,
+            "skl": 50,
+            "wlv": 70,
+            "spd": 60,
+            "lck": 30,
+            "def": 20,
+            "res": 0
+        }
+    },
+    "jagen": {
+        "name": "Jagen",
+        "lvl": 1,
+        "job": "paladin",
+        "portrait": "jagen.png",
+        "base": {
+            "hp": 20,
+            "str": 7,
+            "skl": 10,
+            "wlv": 10,
+            "spd": 8,
+            "lck": 1,
+            "def": 9,
+            "res": 0,
+            "mov": 10
+        },
+        "growth": {
+            "hp": 10,
+            "str": 10,
+            "skl": 10,
+            "wlv": 0,
+            "spd": 10,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        }
+    },
+    "jake": {
+        "name": "Jake",
+        "lvl": 1,
+        "job": "ballistician",
+        "portrait": "jake.png",
+        "base": {
+            "hp": 20,
+            "str": 5,
+            "skl": 1,
+            "wlv": 8,
+            "spd": 3,
+            "lck": "0-7",
+            "def": 14,
+            "res": 0,
+            "mov": 4
+        },
+        "growth": {
+            "hp": 50,
+            "str": 30,
+            "skl": 50,
+            "wlv": 50,
+            "spd": 20,
+            "lck": 50,
+            "def": 10,
+            "res": 0
+        }
+    },
+    "jeorge": {
+        "name": "Jeorge",
+        "lvl": 1,
+        "job": "sniper",
+        "portrait": "jeorge.png",
+        "base": {
+            "hp": 24,
+            "str": 7,
+            "skl": 10,
+            "wlv": 10,
+            "spd": 12,
+            "lck": 4,
+            "def": 8,
+            "res": 0,
+            "mov": 7
+        },
+        "growth": {
+            "hp": 60,
+            "str": 20,
+            "skl": 10,
+            "wlv": 50,
+            "spd": 20,
+            "lck": 10,
+            "def": 10,
+            "res": 0
+        }
+    },
+    "julian": {
+        "name": "Julian",
+        "lvl": 3,
+        "job": "thief",
+        "portrait": "julian.png",
+        "base": {
+            "hp": 17,
+            "str": 4,
+            "skl": 6,
+            "wlv": 2,
+            "spd": 12,
+            "lck": 7,
+            "def": 4,
+            "res": 0,
+            "mov": 7
+        },
+        "growth": {
+            "hp": 80,
+            "str": 70,
+            "skl": 50,
+            "wlv": 0,
+            "spd": 50,
+            "lck": 80,
+            "def": 30,
+            "res": 0
+        }
+    },
+    "lena": {
+        "name": "Lena",
+        "lvl": 3,
+        "job": "priest",
+        "portrait": "lena.png",
+        "base": {
+            "hp": 16,
+            "str": 1,
+            "skl": 7,
+            "wlv": 7,
+            "spd": 8,
+            "lck": 8,
+            "def": 3,
+            "res": 0,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "skl": 0,
+            "wlv": 30,
+            "spd": 20,
+            "lck": 40,
+            "def": 0,
+            "res": 0
+        }
+    },
+    "linde": {
+        "name": "Linde",
+        "lvl": 1,
+        "job": "mage",
+        "portrait": "linde.png",
+        "base": {
+            "hp": 20,
+            "str": 1,
+            "skl": 4,
+            "wlv": 7,
+            "spd": 7,
+            "lck": 7,
+            "def": 3,
+            "res": 0,
+            "mov": 6
+        },
+        "growth": {
+            "hp": 70,
+            "str": 0,
+            "skl": 70,
+            "wlv": 70,
+            "spd": 60,
+            "lck": 80,
+            "def": 20,
+            "res": 0
+        }
+    },
+    "lorenz": {
+        "name": "Lorenz",
+        "lvl": 5,
+        "job": "general",
+        "portrait": "lorenz.png",
+        "base": {
+            "hp": 34,
+            "str": 11,
+            "skl": 3,
+            "wlv": 15,
+            "spd": 6,
+            "lck": "0-7",
+            "def": 16,
+            "res": 0,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 70,
+            "str": 50,
+            "skl": 70,
+            "wlv": 50,
+            "spd": 20,
+            "lck": 50,
+            "def": 20,
+            "res": 0
+        }
+    },
+    "macellan": {
+        "name": "Macellan",
+        "lvl": 3,
+        "job": "knight",
+        "portrait": "macellan.png",
+        "base": {
+            "hp": 18,
+            "str": 8,
+            "skl": 5,
+            "wlv": 5,
+            "spd": 3,
+            "lck": 4,
+            "def": 11,
+            "res": 0,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 50,
+            "str": 30,
+            "skl": 10,
+            "wlv": 40,
+            "spd": 20,
+            "lck": 10,
+            "def": 10,
+            "res": 0
+        }
+    },
+    "maria": {
+        "name": "Maria",
+        "lvl": 3,
+        "job": "priest",
+        "portrait": "maria.png",
+        "base": {
+            "hp": 19,
+            "str": 2,
+            "skl": 2,
+            "wlv": 8,
+            "spd": 2,
+            "lck": "0-7",
+            "def": 4,
+            "res": 0,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "skl": 0,
+            "wlv": 70,
+            "spd": 20,
+            "lck": 30,
+            "def": 0,
+            "res": 0
+        }
+    },
+    "marth": {
+        "name": "Marth",
+        "lvl": 1,
+        "job": "lord",
+        "portrait": "marth.png",
+        "base": {
+            "hp": 18,
+            "str": 5,
+            "skl": 3,
+            "wlv": 5,
+            "spd": 7,
+            "lck": 7,
+            "def": 7,
+            "res": 0,
+            "mov": 7
+        },
+        "growth": {
+            "hp": 90,
+            "str": 50,
+            "skl": 40,
+            "wlv": 30,
+            "spd": 50,
+            "lck": 70,
+            "def": 20,
+            "res": 0
+        }
+    },
+    "matthis": {
+        "name": "Matthis",
+        "lvl": 2,
+        "job": "cavalier",
+        "portrait": "matthis.png",
+        "base": {
+            "hp": 16,
+            "str": 5,
+            "skl": 2,
+            "wlv": 8,
+            "spd": 6,
+            "lck": "0-7",
+            "def": 7,
+            "res": 0,
+            "mov": 9
+        },
+        "growth": {
+            "hp": 50,
+            "str": 40,
+            "skl": 30,
+            "wlv": 70,
+            "spd": 20,
+            "lck": 20,
+            "def": 20,
+            "res": 0
+        }
+    },
+    "merric": {
+        "name": "Merric",
+        "lvl": 1,
+        "job": "mage",
+        "portrait": "merric.png",
+        "base": {
+            "hp": 20,
+            "str": 1,
+            "skl": 3,
+            "wlv": 5,
+            "spd": 6,
+            "lck": 3,
+            "def": 4,
+            "res": 0,
+            "mov": 6
+        },
+        "growth": {
+            "hp": 80,
+            "str": 0,
+            "skl": 30,
+            "wlv": 80,
+            "spd": 50,
+            "lck": 50,
+            "def": 20,
+            "res": 0
+        }
+    },
+    "midia": {
+        "name": "Midia",
+        "lvl": 1,
+        "job": "paladin",
+        "portrait": "midia.png",
+        "base": {
+            "hp": 20,
+            "str": 7,
+            "skl": 11,
+            "wlv": 10,
+            "spd": 9,
+            "lck": 7,
+            "def": 9,
+            "res": 0,
+            "mov": 10
+        },
+        "growth": {
+            "hp": 80,
+            "str": 30,
+            "skl": 50,
+            "wlv": 50,
+            "spd": 50,
+            "lck": 10,
+            "def": 20,
+            "res": 0
+        }
+    },
+    "minerva": {
+        "name": "Minerva",
+        "lvl": 1,
+        "job": "dracoknight",
+        "portrait": "minerva.png",
+        "base": {
+            "hp": 22,
+            "str": 9,
+            "skl": 3,
+            "wlv": 10,
+            "spd": 6,
+            "lck": "0-7",
+            "def": 14,
+            "res": 0,
+            "mov": 10
+        },
+        "growth": {
+            "hp": 40,
+            "str": 30,
+            "skl": 50,
+            "wlv": 70,
+            "spd": 40,
+            "lck": 40,
+            "def": 20,
+            "res": 0
+        }
+    },
+    "navarre": {
+        "name": "Navarre",
+        "lvl": 3,
+        "job": "mercenary",
+        "portrait": "navarre.png",
+        "base": {
+            "hp": 19,
+            "str": 5,
+            "skl": 9,
+            "wlv": 9,
+            "spd": 11,
+            "lck": "0-7",
+            "def": 6,
+            "res": 0,
+            "mov": 7
+        },
+        "growth": {
+            "hp": 90,
+            "str": 50,
+            "skl": 40,
+            "wlv": 30,
+            "spd": 50,
+            "lck": 40,
+            "def": 10,
+            "res": 0
+        }
+    },
+    "ogma": {
+        "name": "Ogma",
+        "lvl": 2,
+        "job": "mercenary",
+        "portrait": "ogma.png",
+        "base": {
+            "hp": 20,
+            "str": 6,
+            "skl": 11,
+            "wlv": 6,
+            "spd": 12,
+            "lck": 3,
+            "def": 6,
+            "res": 0,
+            "mov": 7
+        },
+        "growth": {
+            "hp": 80,
+            "str": 40,
+            "skl": 20,
+            "wlv": 70,
+            "spd": 30,
+            "lck": 40,
+            "def": 20,
+            "res": 0
+        }
+    },
+    "palla": {
+        "name": "Palla",
+        "lvl": 8,
+        "job": "pegasusknight",
+        "portrait": "palla.png",
+        "base": {
+            "hp": 25,
+            "str": 7,
+            "skl": 8,
+            "wlv": 12,
+            "spd": 14,
+            "lck": "0-7",
+            "def": 9,
+            "res": 0,
+            "mov": 8
+        },
+        "growth": {
+            "hp": 70,
+            "str": 50,
+            "skl": 80,
+            "wlv": 30,
+            "spd": 20,
+            "lck": 10,
+            "def": 30,
+            "res": 0
+        }
+    },
+    "radd": {
+        "name": "Radd",
+        "lvl": 1,
+        "job": "mercenary",
+        "portrait": "radd.png",
+        "base": {
+            "hp": 16,
+            "str": 4,
+            "skl": 8,
+            "wlv": 6,
+            "spd": 10,
+            "lck": 1,
+            "def": 6,
+            "res": 0,
+            "mov": 7
+        },
+        "growth": {
+            "hp": 90,
+            "str": 50,
+            "skl": 40,
+            "wlv": 50,
+            "spd": 70,
+            "lck": 40,
+            "def": 10,
+            "res": 0
+        }
+    },
+    "rickard": {
+        "name": "Rickard",
+        "lvl": 1,
+        "job": "thief",
+        "portrait": "rickard.png",
+        "base": {
+            "hp": 16,
+            "str": 3,
+            "skl": 1,
+            "wlv": 2,
+            "spd": 9,
+            "lck": "0-7",
+            "def": 2,
+            "res": 0,
+            "mov": 7
+        },
+        "growth": {
+            "hp": 50,
+            "str": 50,
+            "skl": 20,
+            "wlv": 0,
+            "spd": 60,
+            "lck": 40,
+            "def": 20,
+            "res": 0
+        }
+    },
+    "roger": {
+        "name": "Roger",
+        "lvl": 5,
+        "job": "knight",
+        "portrait": "roger.png",
+        "base": {
+            "hp": 22,
+            "str": 7,
+            "skl": 3,
+            "wlv": 9,
+            "spd": 5,
+            "lck": "0-7",
+            "def": 13,
+            "res": 0,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 70,
+            "str": 50,
+            "skl": 10,
+            "wlv": 40,
+            "spd": 20,
+            "lck": 80,
+            "def": 10,
+            "res": 0
+        }
+    },
+    "roshea": {
+        "name": "Roshea",
+        "lvl": 3,
+        "job": "cavalier",
+        "portrait": "roshea.png",
+        "base": {
+            "hp": 18,
+            "str": 6,
+            "skl": 5,
+            "wlv": 7,
+            "spd": 7,
+            "lck": 4,
+            "def": 7,
+            "res": 0,
+            "mov": 9
+        },
+        "growth": {
+            "hp": 80,
+            "str": 40,
+            "skl": 50,
+            "wlv": 30,
+            "spd": 10,
+            "lck": 10,
+            "def": 10,
+            "res": 0
+        }
+    },
+    "samson": {
+        "name": "Samson",
+        "lvl": 1,
+        "job": "hero",
+        "portrait": "samson.png",
+        "base": {
+            "hp": 24,
+            "str": 10,
+            "skl": 14,
+            "wlv": 10,
+            "spd": 15,
+            "lck": 7,
+            "def": 9,
+            "res": 0,
+            "mov": 7
+        },
+        "growth": {
+            "hp": 70,
+            "str": 30,
+            "skl": 10,
+            "wlv": 70,
+            "spd": 20,
+            "lck": 50,
+            "def": 20,
+            "res": 0
+        }
+    },
+    "sedgar": {
+        "name": "Sedgar",
+        "lvl": 1,
+        "job": "horseman",
+        "portrait": "sedgar.png",
+        "base": {
+            "hp": 16,
+            "str": 4,
+            "skl": 3,
+            "wlv": 3,
+            "spd": 7,
+            "lck": 2,
+            "def": 4,
+            "res": 0,
+            "mov": 9
+        },
+        "growth": {
+            "hp": 90,
+            "str": 30,
+            "skl": 20,
+            "wlv": 30,
+            "spd": 10,
+            "lck": 10,
+            "def": 20,
+            "res": 0
+        }
+    },
+    "tiki": {
+        "name": "Tiki",
+        "lvl": 5,
+        "job": "manakete",
+        "portrait": "tiki.png",
+        "base": {
+            "hp": 24,
+            "str": 3,
+            "skl": 3,
+            "wlv": 9,
+            "spd": 3,
+            "lck": "0-7",
+            "def": 5,
+            "res": 0,
+            "mov": 6
+        },
+        "growth": {
+            "hp": 80,
+            "str": 50,
+            "skl": 90,
+            "wlv": 70,
+            "spd": 90,
+            "lck": 90,
+            "def": 0,
+            "res": 0
+        }
+    },
+    "tomas": {
+        "name": "Tomas",
+        "lvl": 8,
+        "job": "archer",
+        "portrait": "tomas.png",
+        "base": {
+            "hp": 20,
+            "str": 7,
+            "skl": 6,
+            "wlv": 9,
+            "spd": 5,
+            "lck": 4,
+            "def": 6,
+            "res": 0,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 50,
+            "str": 20,
+            "skl": 20,
+            "wlv": 50,
+            "spd": 30,
+            "lck": 10,
+            "def": 10,
+            "res": 0
+        }
+    },
+    "vyland": {
+        "name": "Vyland",
+        "lvl": 1,
+        "job": "cavalier",
+        "portrait": "vyland.png",
+        "base": {
+            "hp": 16,
+            "str": 5,
+            "skl": 3,
+            "wlv": 4,
+            "spd": 6,
+            "lck": 2,
+            "def": 7,
+            "res": 0,
+            "mov": 9
+        },
+        "growth": {
+            "hp": 50,
+            "str": 30,
+            "skl": 10,
+            "wlv": 70,
+            "spd": 20,
+            "lck": 10,
+            "def": 10,
+            "res": 0
+        }
+    },
+    "wendell": {
+        "name": "Wendell",
+        "lvl": 1,
+        "job": "bishop",
+        "portrait": "wendell.png",
+        "base": {
+            "hp": 22,
+            "str": 3,
+            "skl": 1,
+            "wlv": 10,
+            "spd": 14,
+            "lck": "0-7",
+            "def": 8,
+            "res": 0,
+            "mov": 6
+        },
+        "growth": {
+            "hp": 60,
+            "str": 10,
+            "skl": 30,
+            "wlv": 70,
+            "spd": 20,
+            "lck": 40,
+            "def": 10,
+            "res": 0
+        }
+    },
+    "wolf": {
+        "name": "Wolf",
+        "lvl": 3,
+        "job": "horseman",
+        "portrait": "wolf.png",
+        "base": {
+            "hp": 18,
+            "str": 5,
+            "skl": 5,
+            "wlv": 6,
+            "spd": 9,
+            "lck": 5,
+            "def": 4,
+            "res": 0,
+            "mov": 9
+        },
+        "growth": {
+            "hp": 70,
+            "str": 50,
+            "skl": 10,
+            "wlv": 60,
+            "spd": 20,
+            "lck": 70,
+            "def": 20,
+            "res": 0
+        }
+    },
+    "wrys": {
+        "name": "Wrys",
+        "lvl": 1,
+        "job": "priest",
+        "portrait": "wrys.png",
+        "base": {
+            "hp": 16,
+            "str": 1,
+            "skl": 5,
+            "wlv": 3,
+            "spd": 7,
+            "lck": 1,
+            "def": 3,
+            "res": 0,
+            "mov": 5
+        },
+        "growth": {
+            "hp": 20,
+            "str": 0,
+            "skl": 0,
+            "wlv": 20,
+            "spd": 10,
+            "lck": 10,
+            "def": 0,
+            "res": 0
+        }
+    },
+    "xane": {
+        "name": "Xane",
+        "lvl": 1,
+        "job": "freelancer",
+        "portrait": "xane.png",
+        "base": {
+            "hp": 16,
+            "str": 1,
+            "skl": 1,
+            "wlv": 2,
+            "spd": 10,
+            "lck": "0-7",
+            "def": 4,
+            "res": 0,
+            "mov": 6
+        },
+        "growth": {
+            "hp": 50,
+            "str": 30,
+            "skl": 10,
+            "wlv": 0,
+            "spd": 20,
+            "lck": 20,
+            "def": 20,
+            "res": 0
+        }
+    }
+}

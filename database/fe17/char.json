@@ -1,0 +1,2309 @@
+{
+    "alear": {
+        "name": "Alear",
+        "lvl": 1,
+        "internal": 0,
+        "sp": 300,
+        "job": "dragonchild",
+        "personal": "divinelyinspiring",
+        "portrait": "alear.png",
+        "aptitude": [
+            "sword",
+            "art"
+        ],
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "dex": 3,
+            "spd": 0,
+            "lck": 3,
+            "def": 0,
+            "mag": 0,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 60,
+            "str": 35,
+            "dex": 45,
+            "spd": 50,
+            "lck": 25,
+            "def": 40,
+            "mag": 20,
+            "res": 25,
+            "bld": 5,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": 1,
+            "dex": 1,
+            "spd": 1,
+            "lck": 0,
+            "def": 0,
+            "mag": 0,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "Successor to the Divine Dragon, awoken from a long sleep. Summons Emblems to lead the world to peace.",
+            "age": 17,
+            "birth_month": "0",
+            "birth_day": "0"
+        }
+    },
+    "vander": {
+        "name": "Vander",
+        "lvl": 1,
+        "internal": 15,
+        "sp": 500,
+        "job": "paladin",
+        "personal": "alabasterduty",
+        "portrait": "vander.png",
+        "aptitude": [
+            "axe"
+        ],
+        "base": {
+            "hp": 4,
+            "str": -2,
+            "dex": -5,
+            "spd": -7,
+            "lck": 1,
+            "def": -3,
+            "mag": 1,
+            "res": 1,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 60,
+            "str": 25,
+            "dex": 25,
+            "spd": 35,
+            "lck": 10,
+            "def": 35,
+            "mag": 10,
+            "res": 20,
+            "bld": 5,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": 1,
+            "dex": 1,
+            "spd": -2,
+            "lck": 0,
+            "def": 3,
+            "mag": -1,
+            "res": -2,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "A Steward of the Dragon, long in the service of the Divine Dragon. He is a straight-laced, rigid gentleman.",
+            "age": 45,
+            "birth_month": "11",
+            "birth_day": "26"
+        }
+    },
+    "clanne": {
+        "name": "Clanne",
+        "lvl": 1,
+        "internal": 0,
+        "sp": 300,
+        "job": "mage",
+        "personal": "verdantfaith",
+        "portrait": "clanne.png",
+        "aptitude": [
+            "tome",
+            "sword"
+        ],
+        "base": {
+            "hp": 1,
+            "str": 0,
+            "dex": 5,
+            "spd": 3,
+            "lck": 2,
+            "def": 3,
+            "mag": 1,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 40,
+            "str": 35,
+            "dex": 40,
+            "spd": 50,
+            "lck": 20,
+            "def": 30,
+            "mag": 10,
+            "res": 25,
+            "bld": 5,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": 1,
+            "dex": 2,
+            "spd": 2,
+            "lck": 0,
+            "def": -2,
+            "mag": -1,
+            "res": -1,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "An apprentice Steward of the Dragon and the gentle twin brother of Framme.",
+            "age": 16,
+            "birth_month": "3",
+            "birth_day": "10"
+        }
+    },
+    "framme": {
+        "name": "Framme",
+        "lvl": 1,
+        "internal": 0,
+        "sp": 300,
+        "job": "martialmonk",
+        "personal": "crimsoncheer",
+        "portrait": "framme.png",
+        "aptitude": [
+            "art",
+            "staff"
+        ],
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "dex": 2,
+            "spd": 2,
+            "lck": 2,
+            "def": 1,
+            "mag": 0,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 55,
+            "str": 30,
+            "dex": 35,
+            "spd": 55,
+            "lck": 25,
+            "def": 25,
+            "mag": 25,
+            "res": 30,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": 0,
+            "dex": -1,
+            "spd": 2,
+            "lck": 1,
+            "def": -1,
+            "mag": 1,
+            "res": -1,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "An apprentice Steward of the Dragon and the determined, buoyant twin sister of Clanne.",
+            "age": 16,
+            "birth_month": "3",
+            "birth_day": "10"
+        }
+    },
+    "alfred": {
+        "name": "Alfred",
+        "lvl": 5,
+        "internal": 0,
+        "sp": 300,
+        "job": "noblealfred",
+        "personal": "selfimprover",
+        "portrait": "alfred.png",
+        "aptitude": [
+            "lance",
+            "sword"
+        ],
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "dex": 3,
+            "spd": -1,
+            "lck": 2,
+            "def": 0,
+            "mag": 0,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 65,
+            "str": 40,
+            "dex": 35,
+            "spd": 40,
+            "lck": 40,
+            "def": 40,
+            "mag": 5,
+            "res": 20,
+            "bld": 10,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": 2,
+            "dex": 1,
+            "spd": 0,
+            "lck": -1,
+            "def": 2,
+            "mag": -1,
+            "res": -2,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "The staunch and loyal crown prince of Firene. He trains constantly to strengthen his constitution.",
+            "age": 21,
+            "birth_month": "8",
+            "birth_day": "8"
+        }
+    },
+    "etie": {
+        "name": "Etie",
+        "lvl": 4,
+        "internal": 0,
+        "sp": 300,
+        "job": "archer",
+        "personal": "energized",
+        "portrait": "etie.png",
+        "aptitude": [
+            "bow"
+        ],
+        "base": {
+            "hp": 1,
+            "str": 3,
+            "dex": 1,
+            "spd": 0,
+            "lck": 5,
+            "def": 0,
+            "mag": 0,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 45,
+            "str": 40,
+            "dex": 25,
+            "spd": 35,
+            "lck": 25,
+            "def": 25,
+            "mag": 0,
+            "res": 30,
+            "bld": 5,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": 2,
+            "dex": 2,
+            "spd": 0,
+            "lck": -1,
+            "def": 0,
+            "mag": -2,
+            "res": -1,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "Prince Alfred's retainer. A haughty woman with a love for building muscle.",
+            "age": 17,
+            "birth_month": "10",
+            "birth_day": "1"
+        }
+    },
+    "boucheron": {
+        "name": "Boucheron",
+        "lvl": 4,
+        "internal": 0,
+        "sp": 300,
+        "job": "axefighter",
+        "personal": "movedtotears",
+        "portrait": "boucheron.png",
+        "aptitude": [
+            "axe"
+        ],
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "dex": 1,
+            "spd": 1,
+            "lck": 4,
+            "def": 2,
+            "mag": 0,
+            "res": 1,
+            "bld": 1,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 85,
+            "str": 20,
+            "dex": 50,
+            "spd": 45,
+            "lck": 15,
+            "def": 35,
+            "mag": 0,
+            "res": 20,
+            "bld": 20,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": 1,
+            "dex": 2,
+            "spd": 2,
+            "lck": -2,
+            "def": -2,
+            "mag": 0,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "Prince Alfred's retainer. A tender- hearted man whose powerful build comes naturally.",
+            "age": 23,
+            "birth_month": "5",
+            "birth_day": "11"
+        }
+    },
+    "celine": {
+        "name": "C\u00e9line",
+        "lvl": 5,
+        "internal": 0,
+        "sp": 300,
+        "job": "nobleceline",
+        "personal": "gentleflower",
+        "portrait": "celine.png",
+        "aptitude": [
+            "tome",
+            "sword",
+            "staff"
+        ],
+        "base": {
+            "hp": 0,
+            "str": 1,
+            "dex": 3,
+            "spd": 0,
+            "lck": 5,
+            "def": 1,
+            "mag": 0,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 50,
+            "str": 35,
+            "dex": 30,
+            "spd": 45,
+            "lck": 50,
+            "def": 30,
+            "mag": 25,
+            "res": 40,
+            "bld": 5,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": -2,
+            "dex": -2,
+            "spd": 1,
+            "lck": 3,
+            "def": -3,
+            "mag": 2,
+            "res": 1,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "The princess of Firene. Despite her gentle demeanor, she has an iron will when her people must be protected.",
+            "age": 17,
+            "birth_month": "12",
+            "birth_day": "18"
+        }
+    },
+    "chloe": {
+        "name": "Chlo\u00e9",
+        "lvl": 6,
+        "internal": 0,
+        "sp": 300,
+        "job": "lanceflier",
+        "personal": "fairytalefolk",
+        "portrait": "chloe.png",
+        "aptitude": [
+            "lance",
+            "staff"
+        ],
+        "base": {
+            "hp": 1,
+            "str": 2,
+            "dex": 4,
+            "spd": 1,
+            "lck": 6,
+            "def": 0,
+            "mag": 0,
+            "res": 1,
+            "bld": 1,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 75,
+            "str": 25,
+            "dex": 40,
+            "spd": 55,
+            "lck": 25,
+            "def": 30,
+            "mag": 35,
+            "res": 25,
+            "bld": 5,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": -2,
+            "dex": 0,
+            "spd": 3,
+            "lck": 0,
+            "def": -1,
+            "mag": 1,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "Princess C\u00e9line's retainer. A woman of noble birth who loves fairy tales and sampling folk food.",
+            "age": 18,
+            "birth_month": "4",
+            "birth_day": "27"
+        }
+    },
+    "louis": {
+        "name": "Louis",
+        "lvl": 6,
+        "internal": 0,
+        "sp": 300,
+        "job": "lancearmor",
+        "personal": "admiration",
+        "portrait": "louis.png",
+        "aptitude": [
+            "lance"
+        ],
+        "base": {
+            "hp": 1,
+            "str": 3,
+            "dex": 4,
+            "spd": 1,
+            "lck": 1,
+            "def": 1,
+            "mag": 0,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 75,
+            "str": 40,
+            "dex": 25,
+            "spd": 25,
+            "lck": 25,
+            "def": 50,
+            "mag": 0,
+            "res": 20,
+            "bld": 15,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": 1,
+            "dex": -1,
+            "spd": -2,
+            "lck": 1,
+            "def": 3,
+            "mag": 0,
+            "res": -2,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "Princess C\u00e9line's retainer. A smiling, refined gentleman who loves tea.",
+            "age": 22,
+            "birth_month": "11",
+            "birth_day": "4"
+        }
+    },
+    "yunaka": {
+        "name": "Yunaka",
+        "lvl": 6,
+        "internal": 0,
+        "sp": 500,
+        "job": "thief",
+        "personal": "trainedtokill",
+        "portrait": "yunaka.png",
+        "aptitude": [
+            "knife"
+        ],
+        "base": {
+            "hp": 0,
+            "str": 1,
+            "dex": 2,
+            "spd": 0,
+            "lck": 5,
+            "def": 2,
+            "mag": 4,
+            "res": 3,
+            "bld": 1,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 50,
+            "str": 35,
+            "dex": 40,
+            "spd": 45,
+            "lck": 25,
+            "def": 15,
+            "mag": 25,
+            "res": 45,
+            "bld": 5,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": -1,
+            "dex": 1,
+            "spd": 2,
+            "lck": -1,
+            "def": -2,
+            "mag": 0,
+            "res": 2,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "A thief encountered in a mountain settlement. She keeps a tight lid on the details of her past.",
+            "age": 22,
+            "birth_month": "7",
+            "birth_day": "28"
+        }
+    },
+    "alcryst": {
+        "name": "Alcryst",
+        "lvl": 10,
+        "internal": 0,
+        "sp": 500,
+        "job": "lordalcryst",
+        "personal": "getbehindme",
+        "portrait": "alcryst.png",
+        "aptitude": [
+            "bow"
+        ],
+        "base": {
+            "hp": 1,
+            "str": 1,
+            "dex": 3,
+            "spd": 1,
+            "lck": 5,
+            "def": 1,
+            "mag": 0,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 65,
+            "str": 30,
+            "dex": 40,
+            "spd": 45,
+            "lck": 15,
+            "def": 30,
+            "mag": 10,
+            "res": 20,
+            "bld": 10,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": 1,
+            "dex": 3,
+            "spd": 0,
+            "lck": -1,
+            "def": 1,
+            "mag": -1,
+            "res": -2,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "The self-torturing, wildly imaginative prince of Brodia. Has hidden talents even he isn't aware of.",
+            "age": 17,
+            "birth_month": "10",
+            "birth_day": "15"
+        }
+    },
+    "citrinne": {
+        "name": "Citrinne",
+        "lvl": 10,
+        "internal": 0,
+        "sp": 500,
+        "job": "mage",
+        "personal": "generosity",
+        "portrait": "citrinne.png",
+        "aptitude": [
+            "tome",
+            "staff"
+        ],
+        "base": {
+            "hp": 2,
+            "str": 0,
+            "dex": 5,
+            "spd": 1,
+            "lck": 6,
+            "def": 0,
+            "mag": 4,
+            "res": 1,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 45,
+            "str": 10,
+            "dex": 25,
+            "spd": 30,
+            "lck": 25,
+            "def": 20,
+            "mag": 40,
+            "res": 40,
+            "bld": 5,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": -1,
+            "dex": 0,
+            "spd": -1,
+            "lck": 0,
+            "def": -2,
+            "mag": 3,
+            "res": 2,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "Prince Alcryst's retainer. Despite her fierce demeanor, she's a noble who cares deeply for her friends.",
+            "age": 17,
+            "birth_month": "11",
+            "birth_day": "9"
+        }
+    },
+    "lapis": {
+        "name": "Lapis",
+        "lvl": 10,
+        "internal": 0,
+        "sp": 500,
+        "job": "swordfighter",
+        "personal": "sharespoils",
+        "portrait": "lapis.png",
+        "aptitude": [
+            "sword"
+        ],
+        "base": {
+            "hp": 1,
+            "str": 4,
+            "dex": 2,
+            "spd": 1,
+            "lck": 3,
+            "def": 1,
+            "mag": 0,
+            "res": 1,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 55,
+            "str": 25,
+            "dex": 35,
+            "spd": 55,
+            "lck": 25,
+            "def": 35,
+            "mag": 20,
+            "res": 30,
+            "bld": 5,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": -2,
+            "dex": 2,
+            "spd": 3,
+            "lck": 0,
+            "def": 0,
+            "mag": -2,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "Prince Alcryst's retainer. Her quiet modesty belies her superhuman strength.",
+            "age": 18,
+            "birth_month": "5",
+            "birth_day": "25"
+        }
+    },
+    "diamant": {
+        "name": "Diamant",
+        "lvl": 11,
+        "internal": 0,
+        "sp": 800,
+        "job": "lorddiamant",
+        "personal": "fairfight",
+        "portrait": "diamant.png",
+        "aptitude": [
+            "sword",
+            "axe"
+        ],
+        "base": {
+            "hp": 1,
+            "str": 2,
+            "dex": 4,
+            "spd": 1,
+            "lck": 5,
+            "def": 1,
+            "mag": 0,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 75,
+            "str": 30,
+            "dex": 20,
+            "spd": 40,
+            "lck": 20,
+            "def": 40,
+            "mag": 15,
+            "res": 25,
+            "bld": 15,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": 2,
+            "dex": -1,
+            "spd": 0,
+            "lck": 0,
+            "def": 2,
+            "mag": -1,
+            "res": -1,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "The majestic crown prince of Brodia. His people trust him greatly for his strong, genuine demeanor.",
+            "age": 25,
+            "birth_month": "4",
+            "birth_day": "6"
+        }
+    },
+    "amber": {
+        "name": "Amber",
+        "lvl": 11,
+        "internal": 0,
+        "sp": 800,
+        "job": "lancecavalier",
+        "personal": "aspiringhero",
+        "portrait": "amber.png",
+        "aptitude": [
+            "lance"
+        ],
+        "base": {
+            "hp": 1,
+            "str": 4,
+            "dex": 2,
+            "spd": 1,
+            "lck": 3,
+            "def": 1,
+            "mag": 1,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 65,
+            "str": 45,
+            "dex": 25,
+            "spd": 30,
+            "lck": 35,
+            "def": 35,
+            "mag": 0,
+            "res": 5,
+            "bld": 15,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": 2,
+            "dex": -1,
+            "spd": -1,
+            "lck": 1,
+            "def": 1,
+            "mag": -1,
+            "res": -1,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "Prince Diamant's retainer. Has a boundless enthusiasm for legends and adventure.",
+            "age": 24,
+            "birth_month": "2",
+            "birth_day": "3"
+        }
+    },
+    "jade": {
+        "name": "Jade",
+        "lvl": 12,
+        "internal": 0,
+        "sp": 800,
+        "job": "axearmor",
+        "personal": "meditation",
+        "portrait": "jade.png",
+        "aptitude": [
+            "axe"
+        ],
+        "base": {
+            "hp": 2,
+            "str": 2,
+            "dex": 4,
+            "spd": 1,
+            "lck": 1,
+            "def": 2,
+            "mag": 1,
+            "res": 3,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 55,
+            "str": 35,
+            "dex": 35,
+            "spd": 30,
+            "lck": 20,
+            "def": 40,
+            "mag": 25,
+            "res": 30,
+            "bld": 10,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": 1,
+            "dex": 0,
+            "spd": 0,
+            "lck": -1,
+            "def": 2,
+            "mag": -1,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "Prince Diamant's retainer. A warrior of few words who always keeps her wits about her.",
+            "age": 22,
+            "birth_month": "12",
+            "birth_day": "7"
+        }
+    },
+    "ivy": {
+        "name": "Ivy",
+        "lvl": 17,
+        "internal": 0,
+        "sp": 1000,
+        "job": "wingtamerivy",
+        "personal": "singleminded",
+        "portrait": "ivy.png",
+        "aptitude": [
+            "tome",
+            "staff"
+        ],
+        "base": {
+            "hp": 3,
+            "str": 2,
+            "dex": 7,
+            "spd": 3,
+            "lck": 1,
+            "def": 1,
+            "mag": 4,
+            "res": 1,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 55,
+            "str": 25,
+            "dex": 25,
+            "spd": 40,
+            "lck": 15,
+            "def": 30,
+            "mag": 30,
+            "res": 35,
+            "bld": 10,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": 0,
+            "dex": -2,
+            "spd": 0,
+            "lck": -3,
+            "def": 2,
+            "mag": 2,
+            "res": 2,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "The mysterious, melancholy crown princess of Elusia. She never relaxes her icy royal decorum.",
+            "age": 20,
+            "birth_month": "11",
+            "birth_day": "17"
+        }
+    },
+    "kagetsu": {
+        "name": "Kagetsu",
+        "lvl": 1,
+        "internal": 15,
+        "sp": 1000,
+        "job": "swordmaster",
+        "personal": "blindingflash",
+        "portrait": "kagetsu.png",
+        "aptitude": [
+            "sword"
+        ],
+        "base": {
+            "hp": 3,
+            "str": 5,
+            "dex": 3,
+            "spd": 1,
+            "lck": 5,
+            "def": 2,
+            "mag": 1,
+            "res": 2,
+            "bld": 1,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 60,
+            "str": 30,
+            "dex": 50,
+            "spd": 50,
+            "lck": 40,
+            "def": 40,
+            "mag": 15,
+            "res": 25,
+            "bld": 10,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": -1,
+            "dex": 2,
+            "spd": 2,
+            "lck": 1,
+            "def": 0,
+            "mag": -1,
+            "res": -2,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "Princess Ivy's retainer. A handsome young man from outside Elusia who speaks freely and without inhibition.",
+            "age": 26,
+            "birth_month": "12",
+            "birth_day": "22"
+        }
+    },
+    "zelkov": {
+        "name": "Zelkov",
+        "lvl": 17,
+        "internal": 0,
+        "sp": 1000,
+        "job": "thief",
+        "personal": "notquite",
+        "portrait": "zelkov.png",
+        "aptitude": [
+            "knife"
+        ],
+        "base": {
+            "hp": 3,
+            "str": 4,
+            "dex": 3,
+            "spd": 3,
+            "lck": 1,
+            "def": 2,
+            "mag": 1,
+            "res": 1,
+            "bld": 3,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 65,
+            "str": 35,
+            "dex": 40,
+            "spd": 35,
+            "lck": 25,
+            "def": 35,
+            "mag": 15,
+            "res": 15,
+            "bld": 10,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": 0,
+            "dex": 2,
+            "spd": 0,
+            "lck": 1,
+            "def": 0,
+            "mag": -1,
+            "res": -1,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "Princess Ivy's retainer. An enigmatic man who's always absorbed in intrigues of his own making.",
+            "age": 28,
+            "birth_month": "8",
+            "birth_day": "2"
+        }
+    },
+    "fogado": {
+        "name": "Fogado",
+        "lvl": 17,
+        "internal": 0,
+        "sp": 1200,
+        "job": "sentinelfogado",
+        "personal": "charmer",
+        "portrait": "fogado.png",
+        "aptitude": [
+            "bow",
+            "sword"
+        ],
+        "base": {
+            "hp": 2,
+            "str": 2,
+            "dex": 3,
+            "spd": 2,
+            "lck": 2,
+            "def": 1,
+            "mag": 2,
+            "res": 2,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 60,
+            "str": 30,
+            "dex": 30,
+            "spd": 55,
+            "lck": 25,
+            "def": 30,
+            "mag": 25,
+            "res": 35,
+            "bld": 10,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": -1,
+            "dex": 0,
+            "spd": 3,
+            "lck": 0,
+            "def": -1,
+            "mag": -1,
+            "res": 1,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "A freewheeling, optimistic young Sentinel. He's easygoing, but there's something mysterious about him.",
+            "age": 17,
+            "birth_month": "2",
+            "birth_day": "14"
+        }
+    },
+    "pandreo": {
+        "name": "Pandreo",
+        "lvl": 1,
+        "internal": 15,
+        "sp": 1200,
+        "job": "highpriest",
+        "personal": "partyanimal",
+        "portrait": "pandreo.png",
+        "aptitude": [
+            "staff",
+            "tome",
+            "art"
+        ],
+        "base": {
+            "hp": 3,
+            "str": 3,
+            "dex": 1,
+            "spd": 2,
+            "lck": 3,
+            "def": 2,
+            "mag": 2,
+            "res": 2,
+            "bld": 1,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 60,
+            "str": 5,
+            "dex": 45,
+            "spd": 45,
+            "lck": 30,
+            "def": 15,
+            "mag": 30,
+            "res": 55,
+            "bld": 15,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": -3,
+            "dex": 0,
+            "spd": -1,
+            "lck": 2,
+            "def": -2,
+            "mag": 2,
+            "res": 3,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "A member of the Sentinels. Though deeply religious, he loves to party more than just about anyone.",
+            "age": 20,
+            "birth_month": "1",
+            "birth_day": "6"
+        }
+    },
+    "bunet": {
+        "name": "Bunet",
+        "lvl": 1,
+        "internal": 15,
+        "sp": 1200,
+        "job": "greatknight",
+        "personal": "seconds",
+        "portrait": "bunet.png",
+        "aptitude": [
+            "sword",
+            "axe"
+        ],
+        "base": {
+            "hp": 3,
+            "str": 0,
+            "dex": -1,
+            "spd": -3,
+            "lck": 2,
+            "def": -2,
+            "mag": 1,
+            "res": 1,
+            "bld": 1,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 65,
+            "str": 30,
+            "dex": 40,
+            "spd": 35,
+            "lck": 40,
+            "def": 45,
+            "mag": 10,
+            "res": 25,
+            "bld": 10,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": 1,
+            "dex": 1,
+            "spd": 0,
+            "lck": 1,
+            "def": 2,
+            "mag": -3,
+            "res": -1,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "A member of the Sentinels, and a chef with incredibly refined senses of taste and smell.",
+            "age": 23,
+            "birth_month": "5",
+            "birth_day": "30"
+        }
+    },
+    "timerra": {
+        "name": "Timerra",
+        "lvl": 18,
+        "internal": 0,
+        "sp": 1500,
+        "job": "sentineltimerra",
+        "personal": "racketofsolm",
+        "portrait": "timerra.png",
+        "aptitude": [
+            "lance"
+        ],
+        "base": {
+            "hp": 2,
+            "str": 2,
+            "dex": 4,
+            "spd": 3,
+            "lck": 2,
+            "def": 3,
+            "mag": 1,
+            "res": 2,
+            "bld": -1,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 55,
+            "str": 25,
+            "dex": 45,
+            "spd": 45,
+            "lck": 30,
+            "def": 30,
+            "mag": 25,
+            "res": 30,
+            "bld": 10,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": -1,
+            "dex": 3,
+            "spd": 0,
+            "lck": 1,
+            "def": 2,
+            "mag": -1,
+            "res": -3,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "The bubbly and outgoing crown princess of Solm. Known for being accessible and approachable by all.",
+            "age": 18,
+            "birth_month": "8",
+            "birth_day": "29"
+        }
+    },
+    "panette": {
+        "name": "Panette",
+        "lvl": 1,
+        "internal": 15,
+        "sp": 1500,
+        "job": "berserker",
+        "personal": "bloodfury",
+        "portrait": "panette.png",
+        "aptitude": [
+            "knife",
+            "axe"
+        ],
+        "base": {
+            "hp": 3,
+            "str": 3,
+            "dex": 5,
+            "spd": 2,
+            "lck": 5,
+            "def": 2,
+            "mag": 1,
+            "res": 2,
+            "bld": -1,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 75,
+            "str": 45,
+            "dex": 40,
+            "spd": 25,
+            "lck": 20,
+            "def": 30,
+            "mag": 10,
+            "res": 15,
+            "bld": 15,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": 3,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "mag": -1,
+            "res": -1,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "Princess Timerra's retainer. She has a tendency to speak in erratic and somewhat stilted tones.",
+            "age": 18,
+            "birth_month": "10",
+            "birth_day": "23"
+        }
+    },
+    "merrin": {
+        "name": "Merrin",
+        "lvl": 1,
+        "internal": 15,
+        "sp": 1500,
+        "job": "wolfknight",
+        "personal": "knightlyescort",
+        "portrait": "merrin.png",
+        "aptitude": [
+            "knife",
+            "sword"
+        ],
+        "base": {
+            "hp": 3,
+            "str": 4,
+            "dex": 4,
+            "spd": 1,
+            "lck": 5,
+            "def": 2,
+            "mag": 2,
+            "res": 2,
+            "bld": 1,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 55,
+            "str": 25,
+            "dex": 40,
+            "spd": 50,
+            "lck": 25,
+            "def": 30,
+            "mag": 25,
+            "res": 30,
+            "bld": 10,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": -1,
+            "dex": 1,
+            "spd": 2,
+            "lck": 1,
+            "def": -1,
+            "mag": -1,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "Princess Timerra's retainer. She's a dashing woman with a fondness for animals.",
+            "age": 19,
+            "birth_month": "9",
+            "birth_day": "24"
+        }
+    },
+    "hortensia": {
+        "name": "Hortensia",
+        "lvl": 19,
+        "internal": 0,
+        "sp": 1500,
+        "job": "wingtamerhortensia",
+        "personal": "bigpersonality",
+        "portrait": "hortensia.png",
+        "aptitude": [
+            "staff",
+            "tome"
+        ],
+        "base": {
+            "hp": 2,
+            "str": 1,
+            "dex": 6,
+            "spd": 2,
+            "lck": 2,
+            "def": 0,
+            "mag": 3,
+            "res": 2,
+            "bld": 1,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 40,
+            "str": 20,
+            "dex": 35,
+            "spd": 50,
+            "lck": 50,
+            "def": 25,
+            "mag": 20,
+            "res": 55,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": -2,
+            "dex": 0,
+            "spd": 1,
+            "lck": 2,
+            "def": -3,
+            "mag": 0,
+            "res": 3,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "A mischievous, spoiled princess of Elusia. She is nonetheless devoted to her family and friends.",
+            "age": 14,
+            "birth_month": "6",
+            "birth_day": "3"
+        }
+    },
+    "seadall": {
+        "name": "Seadall",
+        "lvl": 15,
+        "internal": 0,
+        "sp": 1500,
+        "job": "dancer",
+        "personal": "curiousdance",
+        "portrait": "seadall.png",
+        "aptitude": [
+            "art"
+        ],
+        "base": {
+            "hp": 4,
+            "str": 3,
+            "dex": 3,
+            "spd": 1,
+            "lck": 1,
+            "def": 4,
+            "mag": 1,
+            "res": 1,
+            "bld": 2,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 55,
+            "str": 25,
+            "dex": 25,
+            "spd": 50,
+            "lck": 35,
+            "def": 25,
+            "mag": 15,
+            "res": 25,
+            "bld": 10,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": 0,
+            "dex": -1,
+            "spd": 2,
+            "lck": 2,
+            "def": 0,
+            "mag": -2,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "A famous dancer of Solm. He is also a skilled fortune-teller and cultivates an aura of mystery.",
+            "age": 23,
+            "birth_month": "4",
+            "birth_day": "21"
+        }
+    },
+    "rosado": {
+        "name": "Rosado",
+        "lvl": 3,
+        "internal": 17,
+        "sp": 1800,
+        "job": "wyvernknight",
+        "personal": "stunningsmile",
+        "portrait": "rosado.png",
+        "aptitude": [
+            "axe",
+            "lance"
+        ],
+        "base": {
+            "hp": 3,
+            "str": -2,
+            "dex": 3,
+            "spd": 3,
+            "lck": 1,
+            "def": 3,
+            "mag": 1,
+            "res": 0,
+            "bld": 1,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 75,
+            "str": 45,
+            "dex": 40,
+            "spd": 45,
+            "lck": 20,
+            "def": 30,
+            "mag": 25,
+            "res": 30,
+            "bld": 5,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": 3,
+            "dex": 1,
+            "spd": 0,
+            "lck": 0,
+            "def": 1,
+            "mag": -2,
+            "res": -2,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "Princess Hortensia's retainer. He loves cute things and always maintains a bright, positive attitude.",
+            "age": 17,
+            "birth_month": "1",
+            "birth_day": "19"
+        }
+    },
+    "goldmary": {
+        "name": "Goldmary",
+        "lvl": 3,
+        "internal": 17,
+        "sp": 1800,
+        "job": "hero",
+        "personal": "disarmingsigh",
+        "portrait": "goldmary.png",
+        "aptitude": [
+            "lance",
+            "sword"
+        ],
+        "base": {
+            "hp": 3,
+            "str": 3,
+            "dex": 5,
+            "spd": 6,
+            "lck": 5,
+            "def": 3,
+            "mag": 1,
+            "res": 5,
+            "bld": 1,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 65,
+            "str": 30,
+            "dex": 25,
+            "spd": 25,
+            "lck": 25,
+            "def": 55,
+            "mag": 5,
+            "res": 25,
+            "bld": 5,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": 1,
+            "dex": 0,
+            "spd": 0,
+            "lck": 2,
+            "def": 2,
+            "mag": -3,
+            "res": -1,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "Princess Hortensia's retainer. She seems demure on the surface, but is conceited to the core.",
+            "age": 19,
+            "birth_month": "7",
+            "birth_day": "18"
+        }
+    },
+    "lindon": {
+        "name": "Lindon",
+        "lvl": 5,
+        "internal": 18,
+        "sp": 2000,
+        "job": "sage",
+        "personal": "weaponinsight",
+        "portrait": "lindon.png",
+        "aptitude": [
+            "staff",
+            "tome"
+        ],
+        "base": {
+            "hp": 3,
+            "str": 1,
+            "dex": 7,
+            "spd": 3,
+            "lck": 2,
+            "def": 3,
+            "mag": 4,
+            "res": 3,
+            "bld": 3,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 65,
+            "str": 25,
+            "dex": 25,
+            "spd": 40,
+            "lck": 15,
+            "def": 25,
+            "mag": 25,
+            "res": 40,
+            "bld": 10,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": 0,
+            "dex": -1,
+            "spd": 0,
+            "lck": 0,
+            "def": -2,
+            "mag": 2,
+            "res": 2,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "A scholar from Elusia. Has a great hunger for knowledge, which he feeds with studies and experiments.",
+            "age": 60,
+            "birth_month": "6",
+            "birth_day": "29"
+        }
+    },
+    "saphir": {
+        "name": "Saphir",
+        "lvl": 7,
+        "internal": 19,
+        "sp": 2000,
+        "job": "warrior",
+        "personal": "willtowin",
+        "portrait": "saphir.png",
+        "aptitude": [
+            "axe",
+            "bow"
+        ],
+        "base": {
+            "hp": 4,
+            "str": 3,
+            "dex": 10,
+            "spd": 4,
+            "lck": 8,
+            "def": 7,
+            "mag": 1,
+            "res": 5,
+            "bld": 4,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 80,
+            "str": 35,
+            "dex": 25,
+            "spd": 30,
+            "lck": 20,
+            "def": 30,
+            "mag": 0,
+            "res": 5,
+            "bld": 10,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": 2,
+            "dex": 0,
+            "spd": 1,
+            "lck": 0,
+            "def": 1,
+            "mag": -2,
+            "res": -2,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "A warrior from Brodia. She is a dauntless and determined seeker of truth.",
+            "age": 35,
+            "birth_month": "1",
+            "birth_day": "17"
+        }
+    },
+    "veyle": {
+        "name": "Veyle",
+        "lvl": 35,
+        "internal": 0,
+        "sp": 2500,
+        "job": "fellchildveyle",
+        "personal": "fellprotection",
+        "portrait": "veyle.png",
+        "aptitude": [
+            "tome",
+            "knife"
+        ],
+        "base": {
+            "hp": 1,
+            "str": 8,
+            "dex": 8,
+            "spd": 8,
+            "lck": 8,
+            "def": 6,
+            "mag": 4,
+            "res": 10,
+            "bld": 3,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 40,
+            "str": 25,
+            "dex": 35,
+            "spd": 30,
+            "lck": 20,
+            "def": 25,
+            "mag": 45,
+            "res": 35,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": 0,
+            "dex": 0,
+            "spd": -1,
+            "lck": -2,
+            "def": 0,
+            "mag": 3,
+            "res": 3,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "The younger sister of Alear. Her darkness conquered, she fights for peace.",
+            "age": 16,
+            "birth_month": "9",
+            "birth_day": "12"
+        }
+    },
+    "mauvier": {
+        "name": "Mauvier",
+        "lvl": 12,
+        "internal": 20,
+        "sp": 2500,
+        "job": "royalknight",
+        "personal": "contemplative",
+        "portrait": "mauvier.png",
+        "aptitude": [
+            "staff",
+            "lance"
+        ],
+        "base": {
+            "hp": 7,
+            "str": 3,
+            "dex": 4,
+            "spd": 3,
+            "lck": 6,
+            "def": 6,
+            "mag": 6,
+            "res": 6,
+            "bld": 1,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 70,
+            "str": 35,
+            "dex": 40,
+            "spd": 35,
+            "lck": 15,
+            "def": 50,
+            "mag": 40,
+            "res": 45,
+            "bld": 15,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": 1,
+            "dex": 1,
+            "spd": -2,
+            "lck": -2,
+            "def": 1,
+            "mag": 2,
+            "res": 1,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "Formerly one of the Four Hounds. He is Veyle's knight, and has sworn to fight alongside Alear.",
+            "age": 31,
+            "birth_month": "9",
+            "birth_day": "13"
+        }
+    },
+    "anna": {
+        "name": "Anna",
+        "lvl": 5,
+        "internal": 0,
+        "sp": 300,
+        "job": "axefighter",
+        "personal": "makeakilling",
+        "portrait": "anna.png",
+        "aptitude": [
+            "bow",
+            "axe"
+        ],
+        "base": {
+            "hp": 1,
+            "str": 0,
+            "dex": 2,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "mag": 0,
+            "res": 3,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 55,
+            "str": 15,
+            "dex": 50,
+            "spd": 50,
+            "lck": 45,
+            "def": 20,
+            "mag": 50,
+            "res": 35,
+            "bld": 5,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": 0,
+            "dex": 1,
+            "spd": 1,
+            "lck": 1,
+            "def": -2,
+            "mag": 1,
+            "res": -1,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "A traveling merchant from a wintry part of Elusia. She is a cheerful and cunning cheapskate.",
+            "age": 11,
+            "birth_month": "6",
+            "birth_day": "8"
+        }
+    },
+    "jean": {
+        "name": "Jean",
+        "lvl": 1,
+        "internal": 0,
+        "sp": 300,
+        "job": "martialmonk",
+        "personal": "expertise",
+        "portrait": "jean.png",
+        "aptitude": [
+            "art",
+            "tome",
+            "staff"
+        ],
+        "base": {
+            "hp": 1,
+            "str": 1,
+            "dex": 4,
+            "spd": 2,
+            "lck": 0,
+            "def": 1,
+            "mag": 0,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 50,
+            "str": 20,
+            "dex": 35,
+            "spd": 40,
+            "lck": 25,
+            "def": 25,
+            "mag": 20,
+            "res": 20,
+            "bld": 5,
+            "sight": 0,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 0,
+            "str": 0,
+            "dex": -1,
+            "spd": -1,
+            "lck": 1,
+            "def": 0,
+            "mag": 2,
+            "res": 0,
+            "bld": 0,
+            "sight": 0,
+            "mov": 0
+        },
+        "bio": {
+            "desc": "A doctor's son from Firene who works his hardest to save all the lives he can.",
+            "age": 10,
+            "birth_month": "3",
+            "birth_day": "31"
+        }
+    },
+    "nel": {
+        "name": "Nel",
+        "lvl": 20,
+        "internal": 0,
+        "sp": 2000,
+        "job": "fellchildnel",
+        "personal": "protective",
+        "portrait": "nel.png",
+        "aptitude": [
+            "lance",
+            "special"
+        ],
+        "base": {
+            "hp": 15,
+            "str": 9,
+            "mag": 7,
+            "dex": 12,
+            "spd": 14,
+            "def": 9,
+            "res": 10,
+            "lck": 11,
+            "bld": 3,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 55,
+            "str": 30,
+            "mag": 25,
+            "dex": 40,
+            "spd": 45,
+            "def": 30,
+            "res": 35,
+            "lck": 30,
+            "bld": 10
+        },
+        "cap": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "def": 0,
+            "res": 0,
+            "lck": 0
+        }
+    },
+    "rafal": {
+        "name": "Rafal",
+        "lvl": 20,
+        "internal": 0,
+        "sp": 2000,
+        "job": "fellchildrafal",
+        "personal": "rivalry",
+        "portrait": "rafal.png",
+        "aptitude": [
+            "axe",
+            "special"
+        ],
+        "base": {
+            "hp": 19,
+            "str": 14,
+            "mag": 2,
+            "dex": 12,
+            "spd": 11,
+            "def": 15,
+            "res": 6,
+            "lck": 7,
+            "bld": 4,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 70,
+            "str": 40,
+            "mag": 10,
+            "dex": 40,
+            "spd": 35,
+            "def": 45,
+            "res": 20,
+            "lck": 10,
+            "bld": 10
+        },
+        "cap": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "def": 0,
+            "res": 0,
+            "lck": 0
+        }
+    },
+    "zelestia": {
+        "name": "Zelestia",
+        "lvl": 20,
+        "internal": 0,
+        "sp": 2000,
+        "job": "melusine",
+        "personal": "friendlyboost",
+        "portrait": "zelestia.png",
+        "aptitude": [
+            "sword",
+            "tome"
+        ],
+        "base": {
+            "hp": 16,
+            "str": 10,
+            "mag": 10,
+            "dex": 10,
+            "spd": 12,
+            "def": 9,
+            "res": 10,
+            "lck": 5,
+            "bld": 3,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 60,
+            "str": 35,
+            "mag": 35,
+            "dex": 35,
+            "spd": 50,
+            "def": 30,
+            "res": 35,
+            "lck": 20,
+            "bld": 5
+        },
+        "cap": {
+            "hp": 0,
+            "str": 0,
+            "mag": 1,
+            "dex": 0,
+            "spd": 2,
+            "def": 1,
+            "res": 1,
+            "lck": -3
+        }
+    },
+    "gregory": {
+        "name": "Gregory",
+        "lvl": 1,
+        "internal": 20,
+        "sp": 2000,
+        "job": "sage",
+        "personal": "survivalplan",
+        "portrait": "gregory.png",
+        "aptitude": [
+            "staff",
+            "tome"
+        ],
+        "base": {
+            "hp": 15,
+            "str": 9,
+            "mag": 16,
+            "dex": 5,
+            "spd": 6,
+            "def": 10,
+            "res": 16,
+            "lck": 6,
+            "bld": 3,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 55,
+            "str": 30,
+            "mag": 50,
+            "dex": 20,
+            "spd": 25,
+            "def": 35,
+            "res": 50,
+            "lck": 25,
+            "bld": 5
+        },
+        "cap": {
+            "hp": 0,
+            "str": -2,
+            "mag": 3,
+            "dex": -2,
+            "spd": -2,
+            "def": 0,
+            "res": 3,
+            "lck": 2
+        }
+    },
+    "madeline": {
+        "name": "Madeline",
+        "lvl": 1,
+        "internal": 20,
+        "sp": 2000,
+        "job": "general",
+        "personal": "knightlycode",
+        "portrait": "madeline.png",
+        "aptitude": [
+            "axe"
+        ],
+        "base": {
+            "hp": 18,
+            "str": 13,
+            "mag": 5,
+            "dex": 5,
+            "spd": 5,
+            "def": 13,
+            "res": 8,
+            "lck": 6,
+            "bld": 3,
+            "mov": 0
+        },
+        "growth": {
+            "hp": 75,
+            "str": 50,
+            "mag": 20,
+            "dex": 15,
+            "spd": 15,
+            "def": 55,
+            "res": 25,
+            "lck": 25,
+            "bld": 10
+        },
+        "cap": {
+            "hp": 0,
+            "str": 3,
+            "mag": 0,
+            "dex": -2,
+            "spd": -2,
+            "def": 3,
+            "res": -1,
+            "lck": 0
+        }
+    }
+}

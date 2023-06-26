@@ -1,0 +1,293 @@
+{
+    "fe15": {
+        "name": "Shadows of Valentia",
+        "default": "unit",
+        "alias": [
+            "sov"
+        ],
+        "random": {
+            "pool": "database/fe15/char.json",
+            "add": [
+                "valentia"
+            ]
+        },
+        "color": "0x6ac93e",
+        "data": {
+            "unit": {
+                "main": "database/fe15/char.json",
+                "lua": [
+                    "fe15",
+                    "Character"
+                ],
+                "add": [
+                    "class",
+                    "weapon"
+                ],
+                "exclamation": "class",
+                "multiple": {
+                    "class": 20
+                },
+                "int": {
+                    "forge": [
+                        1,
+                        6
+                    ]
+                },
+                "level": {
+                    "lvl": 40,
+                    "size": 20
+                },
+                "bool": {
+                    "personal": [],
+                    "secret": []
+                },
+                "entry": {
+                    "class": "database/fe15/job.json",
+                    "weapon": "database/fe15/item.json"
+                },
+                "list": {
+                    "shard": [
+                        "aries",
+                        "taurus",
+                        "gemini",
+                        "cancer",
+                        "leo",
+                        "virgo",
+                        "libra",
+                        "scorpio",
+                        "sagittarius",
+                        "capricorn",
+                        "aquarius",
+                        "pisces"
+                    ]
+                },
+                "stats": {
+                    "modifiers": [
+                        "hp",
+                        "atk",
+                        "skl",
+                        "spd",
+                        "lck",
+                        "def",
+                        "res",
+                        "hit",
+                        "crit",
+                        "as"
+                    ]
+                },
+                "custom_help": {
+                    "Averages": "text/game/averages/fe15.txt"
+                },
+                "classic_hidden": [
+                    "level"
+                ],
+                "comma": {
+                    "name": "compare",
+                    "size": 4
+                },
+                "prefix": {
+                    "modifiers": "$",
+                    "forge": "+"
+                }
+            },
+            "class": {
+                "main": "database/fe15/job.json",
+                "lua": [
+                    "fe15",
+                    "Job"
+                ]
+            },
+            "item": {
+                "main": "database/fe15/item.json",
+                "lua": [
+                    "fe15",
+                    "Item"
+                ],
+                "int": {
+                    "forge": [
+                        1,
+                        6
+                    ]
+                },
+                "prefix": {
+                    "forge": "+"
+                }
+            },
+            "skill": {
+                "main": "database/fe15/skill.json",
+                "lua": [
+                    "fe15",
+                    "Skill"
+                ],
+                "alias": [
+                    "art",
+                    "passive",
+                    "ability"
+                ]
+            }
+        }
+    },
+    "fe1": {
+        "name": "Shadow Dragon and the Blade of Light",
+        "default": "unit",
+        "random": {
+            "pool": "database/fe1/char.json",
+            "add": [
+                "archanea"
+            ]
+        },
+        "data": {
+            "unit": {
+                "main": "database/fe1/char.json",
+                "add": [
+                    "class",
+                    "weapon"
+                ],
+                "exclamation": "class",
+                "lua": [
+                    "fe1",
+                    "Character"
+                ],
+                "int": {
+                    "luck": [
+                        0,
+                        7
+                    ]
+                },
+                "level": {
+                    "lvl": 40,
+                    "size": 20
+                },
+                "entry": {
+                    "class": "database/fe1/job.json",
+                    "weapon": "database/fe1/item.json"
+                },
+                "multiple": {
+                    "class": 20
+                },
+                "custom_help": {
+                    "Averages": "text/game/averages/fe1.txt"
+                },
+                "classic_hidden": [
+                    "level"
+                ],
+                "comma": {
+                    "name": "compare",
+                    "size": 4
+                },
+                "prefix": {
+                    "modifiers": "$",
+                    "luck": "="
+                },
+                "stats": {
+                    "modifiers": [
+                        "hp",
+                        "atk",
+                        "skl",
+                        "spd",
+                        "lck",
+                        "def",
+                        "res",
+                        "hit",
+                        "crit",
+                        "as"
+                    ]
+                }
+            },
+            "class": {
+                "main": "database/fe1/job.json",
+                "lua": [
+                    "fe1",
+                    "Job"
+                ]
+            },
+            "item": {
+                "main": "database/fe1/item.json",
+                "lua": [
+                    "fe1",
+                    "Item"
+                ]
+            }
+        }
+    },
+    "fe2": {
+        "name": "Gaiden",
+        "default": "unit",
+        "alias": [
+            "gaiden"
+        ],
+        "random": {
+            "pool": "database/fe2/char.json",
+            "add": [
+                "valentia"
+            ]
+        },
+        "color": "0xa6c875",
+        "data": {
+            "unit": {
+                "main": "database/fe2/char.json",
+                "add": [
+                    "class",
+                    "weapon"
+                ],
+                "exclamation": "class",
+                "lua": [
+                    "fe2",
+                    "Character"
+                ],
+                "level": {
+                    "lvl": 40,
+                    "size": 20
+                },
+                "entry": {
+                    "class": "database/fe2/job.json",
+                    "weapon": "database/fe2/item.json"
+                },
+                "multiple": {
+                    "class": 20
+                },
+                "custom_help": {
+                    "Averages": "text/game/averages/fe2.txt"
+                },
+                "classic_hidden": [
+                    "level"
+                ],
+                "comma": {
+                    "name": "compare",
+                    "size": 4
+                },
+                "prefix": {
+                    "modifiers": "$"
+                },
+                "stats": {
+                    "modifiers": [
+                        "hp",
+                        "atk",
+                        "skl",
+                        "spd",
+                        "lck",
+                        "def",
+                        "res",
+                        "hit",
+                        "crit",
+                        "as"
+                    ]
+                }
+            },
+            "class": {
+                "main": "database/fe2/job.json",
+                "lua": [
+                    "fe2",
+                    "Job"
+                ]
+            },
+            "item": {
+                "main": "database/fe2/item.json",
+                "lua": [
+                    "fe2",
+                    "Item"
+                ]
+            }
+        }
+    }
+}

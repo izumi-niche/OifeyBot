@@ -1,0 +1,5004 @@
+{
+    "agastya": {
+        "name": "Agastya",
+        "ability": null,
+        "art": null,
+        "skill": [
+            "sealstrength",
+            "sealmagic"
+        ],
+        "growth": {
+            "hp": 30,
+            "str": 0,
+            "mag": 10,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 10,
+            "cha": 10
+        },
+        "rank": {
+            "reason": 3,
+            "authority": 3
+        },
+        "base": {
+            "hp": 32,
+            "str": 8,
+            "mag": 17,
+            "dex": 14,
+            "spd": 16,
+            "lck": 12,
+            "def": 13,
+            "res": 16,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {
+            "hp": 1,
+            "mag": 5,
+            "def": 2,
+            "res": 5,
+            "cha": 2
+        },
+        "mount": {},
+        "enemy": {
+            "hp": 30,
+            "str": 10,
+            "mag": 10,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 10,
+            "cha": 10
+        }
+    },
+    "altereddemonicbeast": {
+        "name": "Altered Demonic Beast",
+        "ability": null,
+        "art": null,
+        "skill": [
+            "renewal",
+            "heartseeker",
+            "sealstrength"
+        ],
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        },
+        "rank": {},
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {},
+        "mount": {},
+        "enemy": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        }
+    },
+    "alteredgolem": {
+        "name": "Altered Golem",
+        "ability": null,
+        "art": null,
+        "skill": [
+            "terrainresistance",
+            "lanceprowesslv2"
+        ],
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        },
+        "rank": {},
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {},
+        "mount": {},
+        "enemy": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        }
+    },
+    "archbishop": {
+        "name": "Archbishop",
+        "ability": null,
+        "art": null,
+        "skill": [
+            "charm",
+            "commander",
+            "terrainresistance"
+        ],
+        "growth": {
+            "hp": 40,
+            "str": 10,
+            "mag": 10,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 10,
+            "cha": 10
+        },
+        "rank": {
+            "sword": 3,
+            "faith": 3,
+            "authority": 3
+        },
+        "base": {
+            "hp": 35,
+            "str": 17,
+            "mag": 8,
+            "dex": 12,
+            "spd": 14,
+            "lck": 10,
+            "def": 14,
+            "res": 10,
+            "cha": 0,
+            "mov": 5
+        },
+        "mod": {
+            "hp": 1,
+            "str": 2,
+            "mag": 2,
+            "dex": 2,
+            "lck": 2,
+            "def": 2,
+            "res": 2,
+            "cha": 2,
+            "mov": 1
+        },
+        "mount": {},
+        "enemy": {
+            "hp": 40,
+            "str": 10,
+            "mag": 10,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 10,
+            "cha": 10
+        }
+    },
+    "archer": {
+        "name": "Archer",
+        "ability": "hit20",
+        "art": null,
+        "skill": [
+            "bowrange1"
+        ],
+        "growth": {
+            "hp": 5,
+            "str": 0,
+            "mag": 0,
+            "dex": 10,
+            "spd": 0,
+            "lck": 5,
+            "def": 0,
+            "res": 0,
+            "cha": 5
+        },
+        "rank": {
+            "sword": 1,
+            "bow": 2
+        },
+        "base": {
+            "hp": 25,
+            "str": 8,
+            "mag": 6,
+            "dex": 8,
+            "spd": 7,
+            "lck": 8,
+            "def": 5,
+            "res": 2,
+            "cha": 0,
+            "mov": 5
+        },
+        "mod": {
+            "dex": 2,
+            "lck": 2,
+            "mov": 1
+        },
+        "exam": {
+            "bow": 300
+        },
+        "mount": {},
+        "min_rank": {
+            "bow": 300
+        },
+        "enemy": {
+            "hp": 10,
+            "str": 15,
+            "mag": 0,
+            "dex": 10,
+            "spd": 0,
+            "lck": 10,
+            "def": 0,
+            "res": 0,
+            "cha": 5
+        }
+    },
+    "armoredknight": {
+        "name": "Armored Knight",
+        "ability": "armoredblow",
+        "art": null,
+        "skill": [],
+        "growth": {
+            "hp": 20,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": -10,
+            "lck": 0,
+            "def": 10,
+            "res": -5,
+            "cha": 5
+        },
+        "rank": {
+            "lance": 1,
+            "axe": 2,
+            "armor": 2
+        },
+        "base": {
+            "hp": 30,
+            "str": 9,
+            "mag": 6,
+            "dex": 7,
+            "spd": 4,
+            "lck": 8,
+            "def": 12,
+            "res": 1,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {
+            "hp": 3,
+            "spd": -2,
+            "def": 4,
+            "res": -1
+        },
+        "exam": {
+            "axe": 300,
+            "armor": 100
+        },
+        "mount": {},
+        "min_rank": {
+            "axe": 300,
+            "armor": 100
+        },
+        "enemy": {
+            "hp": 20,
+            "str": 15,
+            "mag": 0,
+            "dex": 0,
+            "spd": -30,
+            "lck": 0,
+            "def": 40,
+            "res": -20,
+            "cha": 5
+        }
+    },
+    "armoredlord": {
+        "name": "Armored Lord",
+        "ability": "pompcircumstance",
+        "art": null,
+        "skill": [
+            "charm",
+            "axefaire"
+        ],
+        "growth": {
+            "hp": 20,
+            "str": 5,
+            "mag": 5,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 5,
+            "res": 5,
+            "cha": 10
+        },
+        "rank": {
+            "axe": 3,
+            "authority": 3,
+            "armor": 3
+        },
+        "base": {
+            "hp": 38,
+            "str": 17,
+            "mag": 8,
+            "dex": 12,
+            "spd": 6,
+            "lck": 10,
+            "def": 17,
+            "res": 8,
+            "cha": 0,
+            "mov": 5
+        },
+        "mod": {
+            "hp": 5,
+            "spd": -3,
+            "def": 5,
+            "cha": 2,
+            "mov": 1
+        },
+        "mount": {},
+        "min_rank": {},
+        "enemy": {
+            "hp": 20,
+            "str": 5,
+            "mag": 5,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 5,
+            "res": 5,
+            "cha": 10
+        }
+    },
+    "assassin": {
+        "name": "Assassin",
+        "ability": "lethality",
+        "art": "assassinate",
+        "skill": [
+            "swordfaire",
+            "locktouch",
+            "stealth"
+        ],
+        "growth": {
+            "hp": 20,
+            "str": 0,
+            "mag": 0,
+            "dex": 20,
+            "spd": 20,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        },
+        "rank": {
+            "sword": 3,
+            "bow": 2
+        },
+        "base": {
+            "hp": 30,
+            "str": 17,
+            "mag": 8,
+            "dex": 12,
+            "spd": 14,
+            "lck": 10,
+            "def": 12,
+            "res": 8,
+            "cha": 0,
+            "mov": 6
+        },
+        "mod": {
+            "dex": 3,
+            "spd": 5,
+            "lck": 1,
+            "mov": 2
+        },
+        "exam": {
+            "sword": 680,
+            "bow": 300
+        },
+        "mount": {},
+        "min_rank": {
+            "sword": 680,
+            "bow": 300
+        },
+        "enemy": {
+            "hp": 30,
+            "str": 18,
+            "mag": 0,
+            "dex": 20,
+            "spd": 30,
+            "lck": 0,
+            "def": 25,
+            "res": 0,
+            "cha": 0
+        }
+    },
+    "barbarossa": {
+        "name": "Barbarossa",
+        "ability": null,
+        "art": "windgod",
+        "skill": [
+            "charm",
+            "bowfaire",
+            "canto"
+        ],
+        "growth": {
+            "hp": 30,
+            "str": 15,
+            "mag": 0,
+            "dex": 0,
+            "spd": 10,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "cha": 10
+        },
+        "rank": {
+            "bow": 3,
+            "authority": 3,
+            "flying": 3
+        },
+        "base": {
+            "hp": 35,
+            "str": 18,
+            "mag": 10,
+            "dex": 14,
+            "spd": 20,
+            "lck": 12,
+            "def": 15,
+            "res": 12,
+            "cha": 0,
+            "mov": 8
+        },
+        "mod": {
+            "hp": 3,
+            "str": 3,
+            "dex": 5,
+            "spd": 0,
+            "def": 2,
+            "cha": 2,
+            "mov": 2
+        },
+        "mount": {
+            "spd": 2,
+            "mov": 2
+        },
+        "min_rank": {},
+        "enemy": {
+            "hp": 30,
+            "str": 15,
+            "mag": 0,
+            "dex": 0,
+            "spd": 20,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "cha": 10
+        }
+    },
+    "bishop": {
+        "name": "Bishop",
+        "ability": "renewal",
+        "art": null,
+        "skill": [
+            "whitemagicusesx2",
+            "whitemagicheal10",
+            "terrainresistance"
+        ],
+        "growth": {
+            "hp": 10,
+            "str": 0,
+            "mag": 10,
+            "dex": 0,
+            "spd": 0,
+            "lck": 10,
+            "def": -5,
+            "res": 5,
+            "cha": 10
+        },
+        "rank": {
+            "reason": 2,
+            "faith": 3
+        },
+        "base": {
+            "hp": 30,
+            "str": 8,
+            "mag": 15,
+            "dex": 12,
+            "spd": 14,
+            "lck": 10,
+            "def": 12,
+            "res": 15,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {
+            "hp": 1,
+            "mag": 2,
+            "dex": 1,
+            "res": 5
+        },
+        "exam": {
+            "faith": 1320
+        },
+        "mount": {},
+        "min_rank": {
+            "faith": 1320
+        },
+        "enemy": {
+            "hp": 30,
+            "str": 0,
+            "mag": 10,
+            "dex": 0,
+            "spd": 0,
+            "lck": 10,
+            "def": -5,
+            "res": 50,
+            "cha": 10
+        }
+    },
+    "blackbeast": {
+        "name": "Black Beast",
+        "ability": null,
+        "art": null,
+        "skill": [],
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        },
+        "rank": {},
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {},
+        "mount": {},
+        "enemy": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        }
+    },
+    "bowknight": {
+        "name": "Bow Knight",
+        "ability": "defiantspd",
+        "art": null,
+        "skill": [
+            "canto",
+            "bowfaire",
+            "bowrange2"
+        ],
+        "growth": {
+            "hp": 10,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": -5,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 5
+        },
+        "rank": {
+            "lance": 3,
+            "bow": 3,
+            "riding": 3
+        },
+        "base": {
+            "hp": 32,
+            "str": 17,
+            "mag": 10,
+            "dex": 14,
+            "spd": 16,
+            "lck": 12,
+            "def": 14,
+            "res": 10,
+            "cha": 0,
+            "mov": 8
+        },
+        "mod": {
+            "hp": 2,
+            "str": 1,
+            "dex": 3,
+            "spd": 3,
+            "lck": 1,
+            "def": 1,
+            "mov": 2
+        },
+        "exam": {
+            "lance": 300,
+            "bow": 1320,
+            "riding": 1320
+        },
+        "mount": {
+            "spd": -2,
+            "mov": 2
+        },
+        "min_rank": {
+            "lance": 300,
+            "bow": 1320,
+            "riding": 1320
+        },
+        "enemy": {
+            "hp": 40,
+            "str": 15,
+            "mag": 0,
+            "dex": 10,
+            "spd": -5,
+            "lck": 0,
+            "def": 25,
+            "res": 5,
+            "cha": 5
+        }
+    },
+    "brawler": {
+        "name": "Brawler",
+        "ability": "unarmedcombat",
+        "art": null,
+        "skill": [
+            "unarmedcombat"
+        ],
+        "growth": {
+            "hp": 30,
+            "str": 0,
+            "mag": -10,
+            "dex": 10,
+            "spd": 10,
+            "lck": 0,
+            "def": 0,
+            "res": -10,
+            "cha": 5
+        },
+        "rank": {
+            "axe": 1,
+            "brawling": 2
+        },
+        "base": {
+            "hp": 28,
+            "str": 9,
+            "mag": 6,
+            "dex": 7,
+            "spd": 8,
+            "lck": 8,
+            "def": 6,
+            "res": 1,
+            "cha": 0,
+            "mov": 5
+        },
+        "mod": {
+            "hp": 1,
+            "dex": 2,
+            "spd": 2,
+            "res": -1,
+            "mov": 1
+        },
+        "exam": {
+            "brawling": 300
+        },
+        "mount": {},
+        "min_rank": {
+            "brawling": 300
+        },
+        "enemy": {
+            "hp": 30,
+            "str": 15,
+            "mag": -10,
+            "dex": 10,
+            "spd": 20,
+            "lck": 0,
+            "def": 10,
+            "res": -10,
+            "cha": 5
+        }
+    },
+    "brigand": {
+        "name": "Brigand",
+        "ability": "deathblow",
+        "art": null,
+        "skill": [],
+        "growth": {
+            "hp": 30,
+            "str": 10,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": -5,
+            "cha": 5
+        },
+        "rank": {
+            "axe": 2,
+            "brawling": 1
+        },
+        "base": {
+            "hp": 28,
+            "str": 10,
+            "mag": 6,
+            "dex": 7,
+            "spd": 7,
+            "lck": 8,
+            "def": 6,
+            "res": 2,
+            "cha": 0,
+            "mov": 5
+        },
+        "mod": {
+            "hp": 2,
+            "str": 2,
+            "mov": 1
+        },
+        "exam": {
+            "axe": 300
+        },
+        "mount": {},
+        "min_rank": {
+            "axe": 300
+        },
+        "enemy": {
+            "hp": 30,
+            "str": 25,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 10,
+            "res": -10,
+            "cha": 5
+        }
+    },
+    "cavalier": {
+        "name": "Cavalier",
+        "ability": "desperation",
+        "art": null,
+        "skill": [
+            "canto"
+        ],
+        "growth": {
+            "hp": 20,
+            "str": 5,
+            "mag": 0,
+            "dex": 5,
+            "spd": -10,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "cha": 5
+        },
+        "rank": {
+            "sword": 1,
+            "lance": 2,
+            "riding": 2
+        },
+        "base": {
+            "hp": 25,
+            "str": 9,
+            "mag": 6,
+            "dex": 7,
+            "spd": 6,
+            "lck": 8,
+            "def": 6,
+            "res": 2,
+            "cha": 0,
+            "mov": 7
+        },
+        "mod": {
+            "hp": 1,
+            "str": 1,
+            "dex": 2,
+            "spd": 1,
+            "def": 1,
+            "mov": 0
+        },
+        "exam": {
+            "lance": 300,
+            "riding": 100
+        },
+        "mount": {
+            "spd": -2,
+            "mov": 3
+        },
+        "min_rank": {
+            "lance": 300,
+            "riding": 100
+        },
+        "enemy": {
+            "hp": 20,
+            "str": 20,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 15,
+            "res": 0,
+            "cha": 5
+        }
+    },
+    "commoner": {
+        "name": "Commoner",
+        "ability": "hp5",
+        "art": null,
+        "skill": [],
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        },
+        "rank": {},
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {},
+        "mount": {},
+        "min_rank": {},
+        "enemy": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        }
+    },
+    "dancer": {
+        "name": "Dancer",
+        "ability": "specialdance",
+        "art": null,
+        "skill": [
+            "dance"
+        ],
+        "growth": {
+            "hp": 20,
+            "str": -5,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": -5,
+            "res": -5,
+            "cha": 10
+        },
+        "rank": {
+            "sword": 2,
+            "authority": 2
+        },
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0,
+            "mov": 6
+        },
+        "mod": {
+            "str": 1,
+            "dex": 3,
+            "spd": 3,
+            "def": 2,
+            "res": 1,
+            "cha": 2,
+            "mov": 2
+        },
+        "mount": {},
+        "min_rank": {},
+        "enemy": {
+            "hp": 20,
+            "str": -5,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": -5,
+            "res": -5,
+            "cha": 10
+        }
+    },
+    "darkbishop": {
+        "name": "Dark Bishop",
+        "ability": "lifetaker",
+        "art": null,
+        "skill": [
+            "miasmadelta",
+            "fiendishblow",
+            "heartseeker"
+        ],
+        "growth": {
+            "hp": 10,
+            "str": 0,
+            "mag": 10,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": -5,
+            "res": 5,
+            "cha": 0
+        },
+        "rank": {
+            "reason": 3,
+            "faith": 2
+        },
+        "base": {
+            "hp": 30,
+            "str": 8,
+            "mag": 17,
+            "dex": 12,
+            "spd": 14,
+            "lck": 10,
+            "def": 12,
+            "res": 15,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {
+            "mag": 4,
+            "dex": 2,
+            "res": 3
+        },
+        "exam": {
+            "reason": 1320
+        },
+        "mount": {},
+        "min_rank": {
+            "reason": 1320
+        },
+        "enemy": {
+            "hp": 30,
+            "str": 0,
+            "mag": 10,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": -5,
+            "res": 50,
+            "cha": 0
+        }
+    },
+    "darkflier": {
+        "name": "Dark Flier",
+        "ability": "transmute",
+        "art": null,
+        "skill": [
+            "canto",
+            "blacktomefaire",
+            "transmute"
+        ],
+        "growth": {
+            "hp": 20,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 10,
+            "lck": 0,
+            "def": 0,
+            "res": 10,
+            "cha": 10
+        },
+        "rank": {
+            "sword": 2,
+            "reason": 3,
+            "flying": 3
+        },
+        "base": {
+            "hp": 25,
+            "str": 8,
+            "mag": 6,
+            "dex": 7,
+            "spd": 8,
+            "lck": 8,
+            "def": 5,
+            "res": 4,
+            "cha": 0,
+            "mov": 7
+        },
+        "mod": {
+            "dex": 3,
+            "spd": 2,
+            "res": 3,
+            "mov": 1
+        },
+        "exam": {
+            "reason": 980,
+            "flying": 300
+        },
+        "mount": {
+            "spd": 2,
+            "mov": 2
+        },
+        "enemy": {
+            "hp": 30,
+            "str": 15,
+            "mag": 0,
+            "dex": 0,
+            "spd": 10,
+            "lck": 0,
+            "def": 25,
+            "res": 25,
+            "cha": 10
+        }
+    },
+    "darkknight": {
+        "name": "Dark Knight",
+        "ability": "sealresistance",
+        "art": null,
+        "skill": [
+            "canto",
+            "blacktomefaire",
+            "darktomefaire"
+        ],
+        "growth": {
+            "hp": 10,
+            "str": 5,
+            "mag": 10,
+            "dex": 0,
+            "spd": -5,
+            "lck": 0,
+            "def": 5,
+            "res": 10,
+            "cha": 5
+        },
+        "rank": {
+            "lance": 3,
+            "reason": 3,
+            "riding": 3
+        },
+        "base": {
+            "hp": 32,
+            "str": 10,
+            "mag": 17,
+            "dex": 14,
+            "spd": 16,
+            "lck": 12,
+            "def": 13,
+            "res": 15,
+            "cha": 0,
+            "mov": 7
+        },
+        "mod": {
+            "hp": 1,
+            "str": 1,
+            "mag": 2,
+            "dex": 2,
+            "spd": 1,
+            "def": 1,
+            "res": 3,
+            "mov": 2
+        },
+        "exam": {
+            "lance": 300,
+            "reason": 980,
+            "riding": 1320
+        },
+        "mount": {
+            "spd": -2,
+            "def": 1,
+            "mov": 1
+        },
+        "min_rank": {
+            "lance": 300,
+            "reason": 960,
+            "riding": 1320
+        },
+        "enemy": {
+            "hp": 40,
+            "str": 15,
+            "mag": 10,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 20,
+            "res": 45,
+            "cha": 5
+        }
+    },
+    "darkmage": {
+        "name": "Dark Mage",
+        "ability": "poisonstrike",
+        "art": null,
+        "skill": [
+            "miasmadelta",
+            "heartseeker"
+        ],
+        "growth": {
+            "hp": 5,
+            "str": -5,
+            "mag": 10,
+            "dex": 5,
+            "spd": 0,
+            "lck": 0,
+            "def": -5,
+            "res": 5,
+            "cha": 0
+        },
+        "rank": {
+            "reason": 2,
+            "faith": 1
+        },
+        "base": {
+            "hp": 25,
+            "str": 4,
+            "mag": 10,
+            "dex": 7,
+            "spd": 6,
+            "lck": 8,
+            "def": 3,
+            "res": 5,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {
+            "mag": 2,
+            "dex": 1,
+            "res": 1
+        },
+        "exam": {
+            "reason": 300
+        },
+        "mount": {},
+        "min_rank": {
+            "reason": 300
+        },
+        "enemy": {
+            "hp": 10,
+            "str": -5,
+            "mag": 10,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": -10,
+            "res": 35,
+            "cha": 0
+        }
+    },
+    "deathknight": {
+        "name": "Death Knight",
+        "ability": "counterattack",
+        "art": null,
+        "skill": [
+            "canto",
+            "lancefaire"
+        ],
+        "growth": {
+            "hp": 30,
+            "str": 10,
+            "mag": 10,
+            "dex": 0,
+            "spd": -5,
+            "lck": 0,
+            "def": 5,
+            "res": 5,
+            "cha": 0
+        },
+        "rank": {
+            "lance": 3,
+            "reason": 3,
+            "riding": 3
+        },
+        "base": {
+            "hp": 32,
+            "str": 10,
+            "mag": 17,
+            "dex": 14,
+            "spd": 16,
+            "lck": 12,
+            "def": 13,
+            "res": 15,
+            "cha": 0,
+            "mov": 7
+        },
+        "mod": {
+            "hp": 5,
+            "str": 3,
+            "spd": 3,
+            "def": 2,
+            "res": 3,
+            "mov": 1
+        },
+        "mount": {
+            "str": 1,
+            "spd": -2,
+            "def": 1,
+            "mov": 2
+        },
+        "min_rank": {
+            "sword": 680,
+            "lance": 1320,
+            "axe": 460,
+            "bow": 100,
+            "brawling": 460,
+            "reason": 100,
+            "authority": 300,
+            "riding": 1320
+        },
+        "enemy": {
+            "hp": 20,
+            "str": 25,
+            "mag": 10,
+            "dex": 0,
+            "spd": 10,
+            "lck": 0,
+            "def": 15,
+            "res": 5,
+            "cha": 0
+        }
+    },
+    "deathknightenemy": {
+        "name": "Death Knight (Enemy)",
+        "ability": "heartseeker",
+        "art": null,
+        "skill": [
+            "canto",
+            "lancefaire"
+        ],
+        "growth": {
+            "hp": 20,
+            "str": 0,
+            "mag": 10,
+            "dex": 0,
+            "spd": -5,
+            "lck": 0,
+            "def": 0,
+            "res": 5,
+            "cha": 0
+        },
+        "rank": {},
+        "base": {
+            "hp": 32,
+            "str": 10,
+            "mag": 17,
+            "dex": 14,
+            "spd": 16,
+            "lck": 12,
+            "def": 13,
+            "res": 15,
+            "cha": 0,
+            "mov": 7
+        },
+        "mod": {
+            "hp": 5,
+            "str": 2,
+            "spd": 3,
+            "def": 2,
+            "res": 3,
+            "mov": 0
+        },
+        "mount": {
+            "str": 1,
+            "spd": -2,
+            "def": 1,
+            "mov": 3
+        },
+        "enemy": {
+            "hp": 20,
+            "str": 25,
+            "mag": 10,
+            "dex": 0,
+            "spd": 10,
+            "lck": 0,
+            "def": 15,
+            "res": 5,
+            "cha": 0
+        }
+    },
+    "demonicbeast": {
+        "name": "Demonic Beast",
+        "ability": null,
+        "art": null,
+        "skill": [
+            "renewal",
+            "sealstrength"
+        ],
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        },
+        "rank": {},
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {},
+        "mount": {},
+        "enemy": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        }
+    },
+    "emperor": {
+        "name": "Emperor",
+        "ability": null,
+        "art": "flickeringflower",
+        "skill": [
+            "charm",
+            "axefaire"
+        ],
+        "growth": {
+            "hp": 30,
+            "str": 10,
+            "mag": 10,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 5,
+            "res": 5,
+            "cha": 10
+        },
+        "rank": {
+            "axe": 3,
+            "authority": 3,
+            "armor": 3
+        },
+        "base": {
+            "hp": 38,
+            "str": 17,
+            "mag": 8,
+            "dex": 12,
+            "spd": 6,
+            "lck": 10,
+            "def": 17,
+            "res": 8,
+            "cha": 0,
+            "mov": 5
+        },
+        "mod": {
+            "hp": 8,
+            "spd": -4,
+            "lck": 1,
+            "def": 8,
+            "cha": 2,
+            "mov": 1
+        },
+        "mount": {},
+        "min_rank": {},
+        "enemy": {
+            "hp": 30,
+            "str": 10,
+            "mag": 10,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 5,
+            "res": 5,
+            "cha": 10
+        }
+    },
+    "enlightenedone": {
+        "name": "Enlightened One",
+        "ability": "sacredpower",
+        "art": null,
+        "skill": [
+            "swordfaire",
+            "terrainresistance"
+        ],
+        "growth": {
+            "hp": 20,
+            "str": 10,
+            "mag": 10,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "cha": 5
+        },
+        "rank": {
+            "sword": 3,
+            "brawling": 2,
+            "faith": 3,
+            "authority": 3
+        },
+        "base": {
+            "hp": 28,
+            "str": 17,
+            "mag": 8,
+            "dex": 12,
+            "spd": 14,
+            "lck": 10,
+            "def": 12,
+            "res": 10,
+            "cha": 0,
+            "mov": 6
+        },
+        "mod": {
+            "hp": 1,
+            "str": 2,
+            "mag": 3,
+            "dex": 1,
+            "spd": 1,
+            "lck": 1,
+            "def": 2,
+            "res": 2,
+            "cha": 1,
+            "mov": 2
+        },
+        "mount": {},
+        "min_rank": {},
+        "enemy": {
+            "hp": 20,
+            "str": 10,
+            "mag": 10,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 10,
+            "res": 0,
+            "cha": 5
+        }
+    },
+    "expdemonicbeast": {
+        "name": "Exp. Demonic Beast",
+        "ability": null,
+        "art": null,
+        "skill": [
+            "sealstrength"
+        ],
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        },
+        "rank": {},
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {},
+        "mount": {},
+        "enemy": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        }
+    },
+    "falconknight": {
+        "name": "Falcon Knight",
+        "ability": "defiantavo",
+        "art": null,
+        "skill": [
+            "canto",
+            "lancefaire",
+            "avo10"
+        ],
+        "growth": {
+            "hp": 30,
+            "str": 10,
+            "mag": 0,
+            "dex": 0,
+            "spd": 20,
+            "lck": 0,
+            "def": 0,
+            "res": 5,
+            "cha": 10
+        },
+        "rank": {
+            "sword": 3,
+            "lance": 3,
+            "flying": 3
+        },
+        "base": {
+            "hp": 32,
+            "str": 18,
+            "mag": 10,
+            "dex": 14,
+            "spd": 20,
+            "lck": 12,
+            "def": 13,
+            "res": 14,
+            "cha": 0,
+            "mov": 8
+        },
+        "mod": {
+            "str": 0,
+            "dex": 4,
+            "spd": 3,
+            "res": 4,
+            "mov": 2
+        },
+        "exam": {
+            "sword": 300,
+            "lance": 1320,
+            "flying": 980
+        },
+        "mount": {
+            "str": 1,
+            "spd": 2,
+            "mov": 2
+        },
+        "min_rank": {
+            "sword": 300,
+            "lance": 1320,
+            "flying": 960
+        },
+        "enemy": {
+            "hp": 40,
+            "str": 23,
+            "mag": 0,
+            "dex": 0,
+            "spd": 20,
+            "lck": 0,
+            "def": 35,
+            "res": 35,
+            "cha": 10
+        }
+    },
+    "fighter": {
+        "name": "Fighter",
+        "ability": "strength2",
+        "art": "shove",
+        "skill": [],
+        "growth": {
+            "hp": 10,
+            "str": 5,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": -5,
+            "cha": 5
+        },
+        "rank": {
+            "axe": 1,
+            "bow": 1,
+            "brawling": 1
+        },
+        "base": {
+            "hp": 20,
+            "str": 8,
+            "mag": 3,
+            "dex": 6,
+            "spd": 6,
+            "lck": 4,
+            "def": 5,
+            "res": 2,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {
+            "str": 1
+        },
+        "exam": {
+            "axe": 100,
+            "bow": 100,
+            "brawling": 100
+        },
+        "mount": {},
+        "min_rank": {
+            "axe": 100,
+            "bow": 100,
+            "brawling": 100
+        },
+        "enemy": {
+            "hp": 10,
+            "str": 10,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": -10,
+            "cha": 5
+        }
+    },
+    "flameemperor": {
+        "name": "Flame Emperor",
+        "ability": null,
+        "art": null,
+        "skill": [
+            "charm",
+            "axefaire"
+        ],
+        "growth": {
+            "hp": 30,
+            "str": 10,
+            "mag": 10,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 5,
+            "res": 5,
+            "cha": 10
+        },
+        "rank": {
+            "axe": 3,
+            "authority": 3,
+            "armor": 3
+        },
+        "base": {
+            "hp": 38,
+            "str": 17,
+            "mag": 8,
+            "dex": 12,
+            "spd": 6,
+            "lck": 10,
+            "def": 17,
+            "res": 8,
+            "cha": 0,
+            "mov": 5
+        },
+        "mod": {
+            "hp": 5,
+            "spd": -3,
+            "def": 5,
+            "cha": 2,
+            "mov": 1
+        },
+        "mount": {},
+        "enemy": {
+            "hp": 30,
+            "str": 10,
+            "mag": 10,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 5,
+            "res": 5,
+            "cha": 10
+        }
+    },
+    "flyingdemonicbeast": {
+        "name": "Flying Demonic Beast",
+        "ability": null,
+        "art": null,
+        "skill": [
+            "renewal"
+        ],
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        },
+        "rank": {},
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0,
+            "mov": 5
+        },
+        "mod": {
+            "mov": 1
+        },
+        "mount": {},
+        "enemy": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        }
+    },
+    "fortressknight": {
+        "name": "Fortress Knight",
+        "ability": "pavise",
+        "art": null,
+        "skill": [
+            "axefaire",
+            "weight5"
+        ],
+        "growth": {
+            "hp": 30,
+            "str": 10,
+            "mag": 0,
+            "dex": 0,
+            "spd": -10,
+            "lck": 0,
+            "def": 15,
+            "res": 0,
+            "cha": 5
+        },
+        "rank": {
+            "lance": 2,
+            "axe": 3,
+            "armor": 3
+        },
+        "base": {
+            "hp": 35,
+            "str": 17,
+            "mag": 8,
+            "dex": 12,
+            "spd": 8,
+            "lck": 10,
+            "def": 17,
+            "res": 7,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {
+            "hp": 5,
+            "spd": -6,
+            "def": 10
+        },
+        "exam": {
+            "axe": 680,
+            "armor": 680
+        },
+        "mount": {},
+        "min_rank": {
+            "axe": 680,
+            "armor": 680
+        },
+        "enemy": {
+            "hp": 50,
+            "str": 20,
+            "mag": 0,
+            "dex": 0,
+            "spd": -30,
+            "lck": 0,
+            "def": 60,
+            "res": -20,
+            "cha": 5
+        }
+    },
+    "fortressknightgilbert": {
+        "name": "Fortress Knight (Gilbert)",
+        "skill": [],
+        "growth": {
+            "hp": 30,
+            "str": 10,
+            "mag": 0,
+            "dex": 0,
+            "spd": -10,
+            "lck": 0,
+            "def": 15,
+            "res": 0,
+            "cha": 5
+        },
+        "rank": {},
+        "base": {
+            "hp": 35,
+            "str": 14,
+            "mag": 8,
+            "dex": 12,
+            "spd": 8,
+            "lck": 10,
+            "def": 13,
+            "res": 7,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {
+            "hp": 5,
+            "spd": -6,
+            "def": 2
+        },
+        "mount": {},
+        "enemy": {
+            "hp": 30,
+            "str": 20,
+            "mag": 0,
+            "dex": 0,
+            "spd": -30,
+            "lck": 0,
+            "def": 50,
+            "res": -20,
+            "cha": 0
+        }
+    },
+    "giantbird": {
+        "name": "Giant Bird",
+        "ability": null,
+        "art": null,
+        "skill": [
+            "avo10",
+            "defiantspd"
+        ],
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        },
+        "rank": {},
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0,
+            "mov": 6
+        },
+        "mod": {
+            "mov": 2
+        },
+        "mount": {},
+        "enemy": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        }
+    },
+    "giantcrawler": {
+        "name": "Giant Crawler",
+        "ability": null,
+        "art": null,
+        "skill": [
+            "sealspeed",
+            "sealdefense"
+        ],
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        },
+        "rank": {},
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0,
+            "mov": 6
+        },
+        "mod": {
+            "mov": 2
+        },
+        "mount": {},
+        "enemy": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        }
+    },
+    "giantdemonicbeast": {
+        "name": "Giant Demonic Beast",
+        "ability": null,
+        "art": null,
+        "skill": [
+            "defiantstr",
+            "defiantdef",
+            "renewal"
+        ],
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        },
+        "rank": {},
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {},
+        "mount": {},
+        "enemy": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        }
+    },
+    "giantwolf": {
+        "name": "Giant Wolf",
+        "ability": null,
+        "art": null,
+        "skill": [
+            "pass",
+            "defiantcrit"
+        ],
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        },
+        "rank": {},
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0,
+            "mov": 6
+        },
+        "mod": {
+            "mov": 2
+        },
+        "mount": {},
+        "enemy": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        }
+    },
+    "golem": {
+        "name": "Golem",
+        "ability": null,
+        "art": null,
+        "skill": [
+            "terrainresistance",
+            "lanceprowesslv2"
+        ],
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        },
+        "rank": {},
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {},
+        "mount": {},
+        "enemy": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        }
+    },
+    "grappler": {
+        "name": "Grappler",
+        "ability": "tomebreaker",
+        "art": "fierceironfist",
+        "skill": [
+            "fistfaire",
+            "unarmedcombat"
+        ],
+        "growth": {
+            "hp": 40,
+            "str": 10,
+            "mag": 0,
+            "dex": 10,
+            "spd": 10,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 5
+        },
+        "rank": {
+            "brawling": 3
+        },
+        "base": {
+            "hp": 32,
+            "str": 17,
+            "mag": 8,
+            "dex": 12,
+            "spd": 14,
+            "lck": 10,
+            "def": 14,
+            "res": 7,
+            "cha": 0,
+            "mov": 6
+        },
+        "mod": {
+            "hp": 2,
+            "str": 1,
+            "dex": 3,
+            "spd": 3,
+            "def": 1,
+            "res": -1,
+            "mov": 2
+        },
+        "exam": {
+            "brawling": 1320
+        },
+        "mount": {},
+        "min_rank": {
+            "brawling": 1320
+        },
+        "enemy": {
+            "hp": 50,
+            "str": 18,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 25,
+            "res": 0,
+            "cha": 5
+        }
+    },
+    "greatknight": {
+        "name": "Great Knight",
+        "ability": "defiantdef",
+        "art": null,
+        "skill": [
+            "canto",
+            "lancefaire",
+            "axefaire"
+        ],
+        "growth": {
+            "hp": 30,
+            "str": 10,
+            "mag": 0,
+            "dex": 0,
+            "spd": -10,
+            "lck": 0,
+            "def": 5,
+            "res": -5,
+            "cha": 5
+        },
+        "rank": {
+            "lance": 3,
+            "axe": 3,
+            "armor": 3
+        },
+        "base": {
+            "hp": 34,
+            "str": 18,
+            "mag": 10,
+            "dex": 14,
+            "spd": 10,
+            "lck": 12,
+            "def": 17,
+            "res": 10,
+            "cha": 0,
+            "mov": 7
+        },
+        "mod": {
+            "hp": 5,
+            "str": 1,
+            "spd": -2,
+            "def": 6,
+            "mov": 0
+        },
+        "exam": {
+            "axe": 980,
+            "armor": 1320,
+            "riding": 980
+        },
+        "mount": {
+            "spd": -2,
+            "def": 2,
+            "mov": 3
+        },
+        "min_rank": {
+            "axe": 960,
+            "armor": 1320,
+            "riding": 960
+        },
+        "enemy": {
+            "hp": 50,
+            "str": 22,
+            "mag": 0,
+            "dex": 0,
+            "spd": -20,
+            "lck": 0,
+            "def": 55,
+            "res": -10,
+            "cha": 5
+        }
+    },
+    "greatlord": {
+        "name": "Great Lord",
+        "ability": null,
+        "art": "paraselene",
+        "skill": [
+            "charm",
+            "lancefaire"
+        ],
+        "growth": {
+            "hp": 30,
+            "str": 10,
+            "mag": 0,
+            "dex": 10,
+            "spd": 0,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "cha": 10
+        },
+        "rank": {
+            "sword": 3,
+            "lance": 3,
+            "authority": 3
+        },
+        "base": {
+            "hp": 35,
+            "str": 17,
+            "mag": 8,
+            "dex": 12,
+            "spd": 14,
+            "lck": 10,
+            "def": 14,
+            "res": 10,
+            "cha": 0,
+            "mov": 6
+        },
+        "mod": {
+            "hp": 5,
+            "str": 2,
+            "spd": 4,
+            "lck": 1,
+            "def": 1,
+            "cha": 2,
+            "mov": 2
+        },
+        "mount": {},
+        "min_rank": {},
+        "enemy": {
+            "hp": 30,
+            "str": 10,
+            "mag": 0,
+            "dex": 10,
+            "spd": 0,
+            "lck": 0,
+            "def": 10,
+            "res": 0,
+            "cha": 10
+        }
+    },
+    "gremory": {
+        "name": "Gremory",
+        "ability": "defiantmag",
+        "art": null,
+        "skill": [
+            "blackmagicusesx2",
+            "darkmagicusesx2",
+            "whitemagicusesx2"
+        ],
+        "growth": {
+            "hp": 10,
+            "str": 0,
+            "mag": 10,
+            "dex": 10,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 5,
+            "cha": 10
+        },
+        "rank": {
+            "reason": 3,
+            "faith": 3
+        },
+        "base": {
+            "hp": 32,
+            "str": 8,
+            "mag": 17,
+            "dex": 14,
+            "spd": 16,
+            "lck": 12,
+            "def": 13,
+            "res": 16,
+            "cha": 0,
+            "mov": 5
+        },
+        "mod": {
+            "mag": 5,
+            "dex": 2,
+            "spd": 1,
+            "res": 4,
+            "cha": 2,
+            "mov": 1
+        },
+        "exam": {
+            "reason": 1320,
+            "faith": 1320
+        },
+        "mount": {},
+        "min_rank": {
+            "reason": 1320,
+            "faith": 1320
+        },
+        "enemy": {
+            "hp": 30,
+            "str": 0,
+            "mag": 35,
+            "dex": 20,
+            "spd": 0,
+            "lck": 0,
+            "def": 5,
+            "res": 55,
+            "cha": 10
+        }
+    },
+    "guardiangolem": {
+        "name": "Guardian Golem",
+        "ability": null,
+        "art": null,
+        "skill": [
+            "commander",
+            "lanceprowesslv5",
+            "renewal"
+        ],
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        },
+        "rank": {},
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {},
+        "mount": {},
+        "enemy": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        }
+    },
+    "hegemonhusk": {
+        "name": "Hegemon Husk",
+        "ability": null,
+        "art": null,
+        "skill": [
+            "twincrests",
+            "commander",
+            "monstereffectnull"
+        ],
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        },
+        "rank": {},
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {},
+        "mount": {},
+        "enemy": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        }
+    },
+    "hero": {
+        "name": "Hero",
+        "ability": "defiantstr",
+        "art": null,
+        "skill": [
+            "swordfaire",
+            "vantage"
+        ],
+        "growth": {
+            "hp": 30,
+            "str": 10,
+            "mag": 0,
+            "dex": 0,
+            "spd": 10,
+            "lck": 0,
+            "def": 0,
+            "res": -5,
+            "cha": 5
+        },
+        "rank": {
+            "sword": 3,
+            "axe": 2
+        },
+        "base": {
+            "hp": 30,
+            "str": 17,
+            "mag": 8,
+            "dex": 12,
+            "spd": 14,
+            "lck": 10,
+            "def": 12,
+            "res": 8,
+            "cha": 0,
+            "mov": 5
+        },
+        "mod": {
+            "hp": 3,
+            "str": 2,
+            "spd": 2,
+            "lck": 1,
+            "def": 1,
+            "mov": 1
+        },
+        "exam": {
+            "sword": 680,
+            "axe": 300
+        },
+        "mount": {},
+        "min_rank": {
+            "sword": 680,
+            "axe": 300
+        },
+        "enemy": {
+            "hp": 50,
+            "str": 22,
+            "mag": 0,
+            "dex": 5,
+            "spd": 15,
+            "lck": 0,
+            "def": 30,
+            "res": -5,
+            "cha": 5
+        }
+    },
+    "highlord": {
+        "name": "High Lord",
+        "ability": "pompcircumstance",
+        "art": null,
+        "skill": [
+            "charm",
+            "lancefaire"
+        ],
+        "growth": {
+            "hp": 20,
+            "str": 5,
+            "mag": 0,
+            "dex": 5,
+            "spd": 0,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "cha": 10
+        },
+        "rank": {
+            "sword": 3,
+            "lance": 3,
+            "authority": 3
+        },
+        "base": {
+            "hp": 30,
+            "str": 16,
+            "mag": 7,
+            "dex": 11,
+            "spd": 13,
+            "lck": 9,
+            "def": 13,
+            "res": 9,
+            "cha": 0,
+            "mov": 5
+        },
+        "mod": {
+            "hp": 3,
+            "str": 1,
+            "spd": 3,
+            "def": 1,
+            "cha": 2,
+            "mov": 1
+        },
+        "mount": {},
+        "min_rank": {},
+        "enemy": {
+            "hp": 20,
+            "str": 5,
+            "mag": 0,
+            "dex": 5,
+            "spd": 0,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "cha": 10
+        }
+    },
+    "holyknight": {
+        "name": "Holy Knight",
+        "ability": "defiantres",
+        "art": null,
+        "skill": [
+            "canto",
+            "whitetomefaire",
+            "terrainresistance"
+        ],
+        "growth": {
+            "hp": 10,
+            "str": 0,
+            "mag": 10,
+            "dex": 0,
+            "spd": -5,
+            "lck": 10,
+            "def": 5,
+            "res": 10,
+            "cha": 10
+        },
+        "rank": {
+            "lance": 3,
+            "faith": 3,
+            "riding": 3
+        },
+        "base": {
+            "hp": 32,
+            "str": 8,
+            "mag": 15,
+            "dex": 14,
+            "spd": 16,
+            "lck": 12,
+            "def": 13,
+            "res": 16,
+            "cha": 0,
+            "mov": 7
+        },
+        "mod": {
+            "hp": 2,
+            "str": 1,
+            "mag": 1,
+            "dex": 2,
+            "spd": 1,
+            "def": 0,
+            "res": 4,
+            "mov": 2
+        },
+        "exam": {
+            "lance": 300,
+            "faith": 980,
+            "riding": 1320
+        },
+        "mount": {
+            "spd": -2,
+            "def": 1,
+            "mov": 1
+        },
+        "min_rank": {
+            "lance": 300,
+            "faith": 960,
+            "riding": 1320
+        },
+        "enemy": {
+            "hp": 35,
+            "str": 0,
+            "mag": 20,
+            "dex": 0,
+            "spd": 0,
+            "lck": 10,
+            "def": 5,
+            "res": 50,
+            "cha": 10
+        }
+    },
+    "kingofbeasts": {
+        "name": "King of Beasts",
+        "ability": null,
+        "art": null,
+        "skill": [],
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        },
+        "rank": {},
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {},
+        "mount": {},
+        "enemy": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        }
+    },
+    "kingoffangs": {
+        "name": "King of Fangs",
+        "ability": null,
+        "art": null,
+        "skill": [],
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        },
+        "rank": {},
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0,
+            "mov": 6
+        },
+        "mod": {
+            "mov": 2
+        },
+        "mount": {},
+        "enemy": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        }
+    },
+    "kingofliberation": {
+        "name": "King of Liberation",
+        "ability": null,
+        "art": null,
+        "skill": [
+            "commander",
+            "swordfaire",
+            "heartseeker"
+        ],
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        },
+        "rank": {
+            "sword": 3,
+            "brawling": 3,
+            "authority": 3
+        },
+        "base": {
+            "hp": 35,
+            "str": 17,
+            "mag": 8,
+            "dex": 12,
+            "spd": 14,
+            "lck": 10,
+            "def": 14,
+            "res": 10,
+            "cha": 0,
+            "mov": 5
+        },
+        "mod": {
+            "hp": 8,
+            "str": 3,
+            "dex": 2,
+            "spd": 3,
+            "def": 6,
+            "res": 4,
+            "cha": 2,
+            "mov": 1
+        },
+        "mount": {},
+        "enemy": {
+            "hp": 60,
+            "str": 10,
+            "mag": 0,
+            "dex": 10,
+            "spd": 10,
+            "lck": 0,
+            "def": 30,
+            "res": 30,
+            "cha": 10
+        }
+    },
+    "kingofwings": {
+        "name": "King of Wings",
+        "ability": null,
+        "art": null,
+        "skill": [],
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        },
+        "rank": {},
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0,
+            "mov": 6
+        },
+        "mod": {
+            "mov": 2
+        },
+        "mount": {},
+        "enemy": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        }
+    },
+    "lord": {
+        "name": "Lord",
+        "ability": "resistance2",
+        "art": "subdue",
+        "skill": [
+            "charm"
+        ],
+        "growth": {
+            "hp": 20,
+            "str": 0,
+            "mag": 0,
+            "dex": 10,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 10
+        },
+        "rank": {
+            "sword": 2,
+            "lance": 1,
+            "authority": 2
+        },
+        "base": {
+            "hp": 25,
+            "str": 9,
+            "mag": 6,
+            "dex": 10,
+            "spd": 10,
+            "lck": 8,
+            "def": 6,
+            "res": 3,
+            "cha": 0,
+            "mov": 5
+        },
+        "mod": {
+            "hp": 1,
+            "spd": 1,
+            "lck": 1,
+            "cha": 2,
+            "mov": 1
+        },
+        "exam": {
+            "sword": 100,
+            "authority": 300
+        },
+        "mount": {},
+        "min_rank": {
+            "sword": 180,
+            "authority": 300
+        },
+        "enemy": {
+            "hp": 20,
+            "str": 15,
+            "mag": 0,
+            "dex": 10,
+            "spd": 0,
+            "lck": 0,
+            "def": 10,
+            "res": 0,
+            "cha": 10
+        }
+    },
+    "lordjudith": {
+        "name": "Lord (Judith)",
+        "skill": [],
+        "growth": {
+            "hp": 20,
+            "str": 0,
+            "mag": 0,
+            "dex": 10,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 10
+        },
+        "rank": {},
+        "base": {
+            "hp": 35,
+            "str": 17,
+            "mag": 8,
+            "dex": 12,
+            "spd": 14,
+            "lck": 10,
+            "def": 14,
+            "res": 10,
+            "cha": 0,
+            "mov": 6
+        },
+        "mod": {
+            "hp": 5,
+            "str": 2,
+            "spd": 4,
+            "lck": 1,
+            "def": 1,
+            "cha": 2,
+            "mov": 2
+        },
+        "mount": {},
+        "enemy": {
+            "hp": 30,
+            "str": 10,
+            "mag": 0,
+            "dex": 10,
+            "spd": 10,
+            "lck": 0,
+            "def": 20,
+            "res": 0,
+            "cha": 10
+        }
+    },
+    "lordofthedesert": {
+        "name": "Lord of the Desert",
+        "ability": null,
+        "art": null,
+        "skill": [
+            "ancientdragonskin",
+            "avo10",
+            "counterattack"
+        ],
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        },
+        "rank": {},
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {},
+        "mount": {},
+        "enemy": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        }
+    },
+    "lordofthelake": {
+        "name": "Lord of the Lake",
+        "ability": null,
+        "art": null,
+        "skill": [
+            "ancientdragonskin",
+            "armoredblow",
+            "counterattack"
+        ],
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        },
+        "rank": {},
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {},
+        "mount": {},
+        "enemy": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        }
+    },
+    "mage": {
+        "name": "Mage",
+        "ability": "fiendishblow",
+        "art": null,
+        "skill": [
+            "fire"
+        ],
+        "growth": {
+            "hp": 5,
+            "str": -5,
+            "mag": 10,
+            "dex": 5,
+            "spd": 0,
+            "lck": 0,
+            "def": -5,
+            "res": 5,
+            "cha": 5
+        },
+        "rank": {
+            "reason": 2,
+            "faith": 1
+        },
+        "base": {
+            "hp": 25,
+            "str": 4,
+            "mag": 10,
+            "dex": 7,
+            "spd": 6,
+            "lck": 8,
+            "def": 3,
+            "res": 5,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {
+            "mag": 1,
+            "dex": 1,
+            "res": 2
+        },
+        "exam": {
+            "reason": 300
+        },
+        "mount": {},
+        "min_rank": {
+            "reason": 300
+        },
+        "enemy": {
+            "hp": 10,
+            "str": -5,
+            "mag": 10,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": -10,
+            "res": 35,
+            "cha": 5
+        }
+    },
+    "mercenary": {
+        "name": "Mercenary",
+        "ability": "vantage",
+        "art": null,
+        "skill": [],
+        "growth": {
+            "hp": 20,
+            "str": 5,
+            "mag": 0,
+            "dex": 0,
+            "spd": 5,
+            "lck": 0,
+            "def": 0,
+            "res": -5,
+            "cha": 5
+        },
+        "rank": {
+            "sword": 2,
+            "axe": 1
+        },
+        "base": {
+            "hp": 25,
+            "str": 9,
+            "mag": 6,
+            "dex": 10,
+            "spd": 10,
+            "lck": 8,
+            "def": 6,
+            "res": 2,
+            "cha": 0,
+            "mov": 5
+        },
+        "mod": {
+            "hp": 1,
+            "str": 1,
+            "spd": 1,
+            "mov": 1
+        },
+        "exam": {
+            "sword": 300
+        },
+        "mount": {},
+        "min_rank": {
+            "sword": 300
+        },
+        "enemy": {
+            "hp": 20,
+            "str": 15,
+            "mag": 0,
+            "dex": 0,
+            "spd": 10,
+            "lck": 0,
+            "def": 10,
+            "res": -10,
+            "cha": 5
+        }
+    },
+    "monk": {
+        "name": "Monk",
+        "ability": "magic2",
+        "art": "drawback",
+        "skill": [],
+        "growth": {
+            "hp": 5,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 5,
+            "cha": 5
+        },
+        "rank": {
+            "reason": 1,
+            "faith": 1
+        },
+        "base": {
+            "hp": 20,
+            "str": 4,
+            "mag": 8,
+            "dex": 6,
+            "spd": 6,
+            "lck": 4,
+            "def": 3,
+            "res": 4,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {
+            "res": 1
+        },
+        "exam": {
+            "reason": 100,
+            "faith": 100
+        },
+        "mount": {},
+        "min_rank": {
+            "reason": 100,
+            "faith": 100
+        },
+        "enemy": {
+            "hp": 10,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 20,
+            "cha": 5
+        }
+    },
+    "mortalsavant": {
+        "name": "Mortal Savant",
+        "ability": "wardingblow",
+        "art": null,
+        "skill": [
+            "swordfaire",
+            "blacktomefaire"
+        ],
+        "growth": {
+            "hp": 20,
+            "str": 10,
+            "mag": 10,
+            "dex": 0,
+            "spd": -10,
+            "lck": 10,
+            "def": 0,
+            "res": 0,
+            "cha": 5
+        },
+        "rank": {
+            "sword": 3,
+            "reason": 3
+        },
+        "base": {
+            "hp": 32,
+            "str": 17,
+            "mag": 17,
+            "dex": 14,
+            "spd": 16,
+            "lck": 12,
+            "def": 14,
+            "res": 12,
+            "cha": 0,
+            "mov": 6
+        },
+        "mod": {
+            "hp": 1,
+            "str": 1,
+            "mag": 2,
+            "dex": 1,
+            "spd": 1,
+            "def": 2,
+            "res": 2,
+            "mov": 2
+        },
+        "exam": {
+            "sword": 1320,
+            "reason": 980
+        },
+        "mount": {},
+        "min_rank": {
+            "sword": 1320,
+            "reason": 960
+        },
+        "enemy": {
+            "hp": 40,
+            "str": 20,
+            "mag": 10,
+            "dex": 0,
+            "spd": -10,
+            "lck": 20,
+            "def": 20,
+            "res": 35,
+            "cha": 5
+        }
+    },
+    "myrmidon": {
+        "name": "Myrmidon",
+        "ability": "speed2",
+        "art": "swap",
+        "skill": [],
+        "growth": {
+            "hp": 10,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 5,
+            "lck": 0,
+            "def": 0,
+            "res": -5,
+            "cha": 5
+        },
+        "rank": {
+            "sword": 1
+        },
+        "base": {
+            "hp": 20,
+            "str": 7,
+            "mag": 3,
+            "dex": 6,
+            "spd": 6,
+            "lck": 4,
+            "def": 5,
+            "res": 2,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {
+            "spd": 1
+        },
+        "exam": {
+            "sword": 100
+        },
+        "mount": {},
+        "min_rank": {
+            "sword": 100
+        },
+        "enemy": {
+            "hp": 10,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 10,
+            "lck": 0,
+            "def": 0,
+            "res": -10,
+            "cha": 5
+        }
+    },
+    "noble": {
+        "name": "Noble",
+        "ability": "hp5",
+        "art": null,
+        "skill": [],
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 5
+        },
+        "rank": {},
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {},
+        "mount": {},
+        "min_rank": {},
+        "enemy": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 5
+        }
+    },
+    "paladin": {
+        "name": "Paladin",
+        "ability": "aegis",
+        "art": null,
+        "skill": [
+            "canto",
+            "lancefaire",
+            "terrainresistance"
+        ],
+        "growth": {
+            "hp": 30,
+            "str": 10,
+            "mag": 0,
+            "dex": 5,
+            "spd": -10,
+            "lck": 5,
+            "def": 5,
+            "res": 5,
+            "cha": 5
+        },
+        "rank": {
+            "sword": 2,
+            "lance": 3,
+            "riding": 3
+        },
+        "base": {
+            "hp": 32,
+            "str": 17,
+            "mag": 8,
+            "dex": 12,
+            "spd": 14,
+            "lck": 10,
+            "def": 12,
+            "res": 8,
+            "cha": 0,
+            "mov": 8
+        },
+        "mod": {
+            "hp": 2,
+            "str": 2,
+            "dex": 2,
+            "spd": 1,
+            "def": 2,
+            "res": 2,
+            "mov": 2
+        },
+        "exam": {
+            "lance": 680,
+            "riding": 680
+        },
+        "mount": {
+            "spd": -2,
+            "mov": 2
+        },
+        "min_rank": {
+            "lance": 680,
+            "riding": 680
+        },
+        "enemy": {
+            "hp": 40,
+            "str": 15,
+            "mag": 0,
+            "dex": 5,
+            "spd": 0,
+            "lck": 5,
+            "def": 40,
+            "res": 10,
+            "cha": 5
+        }
+    },
+    "paladinjeralt": {
+        "name": "Paladin (Jeralt)",
+        "skill": [],
+        "growth": {
+            "hp": 30,
+            "str": 10,
+            "mag": 0,
+            "dex": 5,
+            "spd": -10,
+            "lck": 5,
+            "def": 5,
+            "res": 5,
+            "cha": 5
+        },
+        "rank": {},
+        "base": {
+            "hp": 32,
+            "str": 13,
+            "mag": 8,
+            "dex": 12,
+            "spd": 8,
+            "lck": 10,
+            "def": 12,
+            "res": 8,
+            "cha": 0,
+            "mov": 8
+        },
+        "mod": {
+            "hp": 3,
+            "str": 0,
+            "dex": 1,
+            "spd": 1,
+            "def": 2,
+            "res": 2,
+            "mov": 2
+        },
+        "mount": {
+            "str": 2,
+            "spd": -2,
+            "mov": 2
+        },
+        "enemy": {
+            "hp": 30,
+            "str": 5,
+            "mag": 0,
+            "dex": 5,
+            "spd": 5,
+            "lck": 5,
+            "def": 10,
+            "res": 10,
+            "cha": 0
+        }
+    },
+    "pegasusknight": {
+        "name": "Pegasus Knight",
+        "ability": "dartingblow",
+        "art": "triangleattack",
+        "skill": [
+            "canto",
+            "avo10"
+        ],
+        "growth": {
+            "hp": 15,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 10,
+            "lck": 0,
+            "def": 0,
+            "res": 5,
+            "cha": 10
+        },
+        "rank": {
+            "sword": 1,
+            "lance": 2,
+            "flying": 2
+        },
+        "base": {
+            "hp": 25,
+            "str": 8,
+            "mag": 6,
+            "dex": 7,
+            "spd": 8,
+            "lck": 8,
+            "def": 5,
+            "res": 4,
+            "cha": 0,
+            "mov": 6
+        },
+        "mod": {
+            "dex": 2,
+            "spd": 1,
+            "res": 2,
+            "mov": 0
+        },
+        "exam": {
+            "lance": 300,
+            "flying": 100
+        },
+        "mount": {
+            "spd": 2,
+            "mov": 2
+        },
+        "min_rank": {
+            "lance": 300,
+            "flying": 100
+        },
+        "enemy": {
+            "hp": 30,
+            "str": 15,
+            "mag": 0,
+            "dex": 0,
+            "spd": 10,
+            "lck": 0,
+            "def": 25,
+            "res": 25,
+            "cha": 10
+        }
+    },
+    "pegasusknightenemy": {
+        "name": "Pegasus Knight (Enemy)",
+        "ability": "dartingblow",
+        "art": "triangleattack",
+        "skill": [
+            "canto",
+            "lancefaire",
+            "avo10"
+        ],
+        "growth": {
+            "hp": 15,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 10,
+            "lck": 0,
+            "def": 0,
+            "res": 5,
+            "cha": 10
+        },
+        "rank": {
+            "sword": 2,
+            "lance": 3,
+            "flying": 3
+        },
+        "base": {
+            "hp": 30,
+            "str": 17,
+            "mag": 8,
+            "dex": 12,
+            "spd": 14,
+            "lck": 10,
+            "def": 12,
+            "res": 10,
+            "cha": 0,
+            "mov": 7
+        },
+        "mod": {
+            "dex": 3,
+            "spd": 2,
+            "res": 3,
+            "mov": 1
+        },
+        "mount": {
+            "spd": 2,
+            "mov": 2
+        },
+        "enemy": {
+            "hp": 30,
+            "str": 15,
+            "mag": 0,
+            "dex": 0,
+            "spd": 10,
+            "lck": 0,
+            "def": 25,
+            "res": 25,
+            "cha": 10
+        }
+    },
+    "priest": {
+        "name": "Priest",
+        "ability": "miracle",
+        "art": null,
+        "skill": [
+            "heal",
+            "whitemagicheal5"
+        ],
+        "growth": {
+            "hp": 5,
+            "str": -5,
+            "mag": 5,
+            "dex": 5,
+            "spd": 0,
+            "lck": 0,
+            "def": -5,
+            "res": 10,
+            "cha": 10
+        },
+        "rank": {
+            "reason": 1,
+            "faith": 2
+        },
+        "base": {
+            "hp": 25,
+            "str": 4,
+            "mag": 9,
+            "dex": 7,
+            "spd": 6,
+            "lck": 8,
+            "def": 3,
+            "res": 5,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {
+            "dex": 1,
+            "res": 3
+        },
+        "exam": {
+            "faith": 300
+        },
+        "mount": {},
+        "min_rank": {
+            "faith": 300
+        },
+        "enemy": {
+            "hp": 10,
+            "str": -5,
+            "mag": 5,
+            "dex": 0,
+            "spd": 0,
+            "lck": 10,
+            "def": -10,
+            "res": 35,
+            "cha": 10
+        }
+    },
+    "saint": {
+        "name": "Saint",
+        "ability": null,
+        "art": null,
+        "skill": [
+            "charm",
+            "commander",
+            "terrainresistance"
+        ],
+        "growth": {
+            "hp": 40,
+            "str": 10,
+            "mag": 10,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 10,
+            "cha": 10
+        },
+        "rank": {
+            "sword": 3,
+            "faith": 3,
+            "authority": 3
+        },
+        "base": {
+            "hp": 35,
+            "str": 17,
+            "mag": 8,
+            "dex": 12,
+            "spd": 14,
+            "lck": 10,
+            "def": 14,
+            "res": 10,
+            "cha": 0,
+            "mov": 5
+        },
+        "mod": {
+            "hp": 1,
+            "str": 5,
+            "mag": 2,
+            "dex": 2,
+            "lck": 2,
+            "def": 5,
+            "res": 2,
+            "cha": 2,
+            "mov": 1
+        },
+        "mount": {},
+        "enemy": {
+            "hp": 40,
+            "str": 20,
+            "mag": 10,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 20,
+            "res": 10,
+            "cha": 10
+        }
+    },
+    "sniper": {
+        "name": "Sniper",
+        "ability": null,
+        "art": "huntersvolley",
+        "skill": [
+            "bowfaire",
+            "bowrange1"
+        ],
+        "growth": {
+            "hp": 10,
+            "str": 5,
+            "mag": 0,
+            "dex": 20,
+            "spd": 0,
+            "lck": 10,
+            "def": 0,
+            "res": 0,
+            "cha": 5
+        },
+        "rank": {
+            "bow": 3
+        },
+        "base": {
+            "hp": 30,
+            "str": 17,
+            "mag": 8,
+            "dex": 12,
+            "spd": 14,
+            "lck": 10,
+            "def": 12,
+            "res": 8,
+            "cha": 0,
+            "mov": 5
+        },
+        "mod": {
+            "str": 1,
+            "dex": 5,
+            "lck": 3,
+            "mov": 1
+        },
+        "exam": {
+            "bow": 1320
+        },
+        "mount": {},
+        "min_rank": {
+            "bow": 1320
+        },
+        "enemy": {
+            "hp": 30,
+            "str": 15,
+            "mag": 0,
+            "dex": 30,
+            "spd": 0,
+            "lck": 0,
+            "def": 20,
+            "res": 0,
+            "cha": 5
+        }
+    },
+    "soldier": {
+        "name": "Soldier",
+        "ability": "defense2",
+        "art": "reposition",
+        "skill": [],
+        "growth": {
+            "hp": 10,
+            "str": 0,
+            "mag": 0,
+            "dex": 5,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": -5,
+            "cha": 5
+        },
+        "rank": {
+            "lance": 1
+        },
+        "base": {
+            "hp": 20,
+            "str": 8,
+            "mag": 3,
+            "dex": 6,
+            "spd": 6,
+            "lck": 4,
+            "def": 5,
+            "res": 2,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {
+            "dex": 1
+        },
+        "exam": {
+            "lance": 100
+        },
+        "mount": {},
+        "min_rank": {
+            "lance": 100
+        },
+        "enemy": {
+            "hp": 10,
+            "str": 0,
+            "mag": 0,
+            "dex": 10,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": -10,
+            "cha": 5
+        }
+    },
+    "swordmaster": {
+        "name": "Swordmaster",
+        "ability": null,
+        "art": "astra",
+        "skill": [
+            "swordfaire",
+            "swordcrit10"
+        ],
+        "growth": {
+            "hp": 25,
+            "str": 10,
+            "mag": 0,
+            "dex": 0,
+            "spd": 20,
+            "lck": 0,
+            "def": 0,
+            "res": -5,
+            "cha": 5
+        },
+        "rank": {
+            "sword": 3
+        },
+        "base": {
+            "hp": 30,
+            "str": 17,
+            "mag": 8,
+            "dex": 12,
+            "spd": 14,
+            "lck": 10,
+            "def": 12,
+            "res": 8,
+            "cha": 0,
+            "mov": 5
+        },
+        "mod": {
+            "hp": 1,
+            "str": 2,
+            "dex": 1,
+            "spd": 4,
+            "def": 1,
+            "mov": 1
+        },
+        "exam": {
+            "sword": 1320
+        },
+        "mount": {},
+        "min_rank": {
+            "sword": 1320
+        },
+        "enemy": {
+            "hp": 40,
+            "str": 20,
+            "mag": 0,
+            "dex": 10,
+            "spd": 30,
+            "lck": 0,
+            "def": 25,
+            "res": -5,
+            "cha": 5
+        }
+    },
+    "theimmaculateone": {
+        "name": "The Immaculate One",
+        "ability": null,
+        "art": null,
+        "skill": [
+            "surginglight",
+            "ancientdragonskin",
+            "counterattack"
+        ],
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        },
+        "rank": {},
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {},
+        "mount": {},
+        "enemy": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        }
+    },
+    "thief": {
+        "name": "Thief",
+        "ability": "steal",
+        "art": null,
+        "skill": [
+            "steal",
+            "locktouch"
+        ],
+        "growth": {
+            "hp": 20,
+            "str": 0,
+            "mag": 0,
+            "dex": 10,
+            "spd": 10,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 5
+        },
+        "rank": {
+            "sword": 2,
+            "bow": 1
+        },
+        "base": {
+            "hp": 25,
+            "str": 9,
+            "mag": 6,
+            "dex": 11,
+            "spd": 11,
+            "lck": 8,
+            "def": 6,
+            "res": 2,
+            "cha": 0,
+            "mov": 5
+        },
+        "mod": {
+            "dex": 2,
+            "spd": 2,
+            "mov": 1
+        },
+        "exam": {
+            "sword": 300
+        },
+        "mount": {},
+        "min_rank": {
+            "sword": 300
+        },
+        "enemy": {
+            "hp": 20,
+            "str": 15,
+            "mag": 0,
+            "dex": 10,
+            "spd": 15,
+            "lck": 0,
+            "def": 10,
+            "res": 0,
+            "cha": 5
+        }
+    },
+    "titanus": {
+        "name": "Titanus",
+        "ability": null,
+        "art": null,
+        "skill": [
+            "swordprowesslv3"
+        ],
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        },
+        "rank": {},
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {},
+        "mount": {},
+        "enemy": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        }
+    },
+    "trickster": {
+        "name": "Trickster",
+        "ability": "duelistsblow",
+        "art": "foulplay",
+        "skill": [
+            "locktouch",
+            "stealth",
+            "luckyseven"
+        ],
+        "growth": {
+            "hp": 20,
+            "str": 0,
+            "mag": 0,
+            "dex": 15,
+            "spd": 20,
+            "lck": 10,
+            "def": 0,
+            "res": 5,
+            "cha": 0
+        },
+        "rank": {
+            "sword": 3,
+            "reason": 1,
+            "faith": 2
+        },
+        "base": {
+            "hp": 28,
+            "str": 14,
+            "mag": 12,
+            "dex": 10,
+            "spd": 14,
+            "lck": 12,
+            "def": 10,
+            "res": 10,
+            "cha": 0,
+            "mov": 5
+        },
+        "mod": {
+            "dex": 3,
+            "spd": 4,
+            "lck": 3,
+            "res": 1,
+            "mov": 1
+        },
+        "exam": {
+            "sword": 680,
+            "faith": 680
+        },
+        "mount": {},
+        "enemy": {
+            "hp": 30,
+            "str": 18,
+            "mag": 0,
+            "dex": 15,
+            "spd": 28,
+            "lck": 10,
+            "def": 25,
+            "res": 10,
+            "cha": 0
+        }
+    },
+    "umbralbeast": {
+        "name": "Umbral Beast",
+        "ability": null,
+        "art": null,
+        "skill": [
+            "manifestphantom",
+            "enhancedfortitude",
+            "counterattack"
+        ],
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        },
+        "rank": {},
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {},
+        "mount": {},
+        "enemy": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        }
+    },
+    "valkyrie": {
+        "name": "Valkyrie",
+        "ability": "uncannyblow",
+        "art": null,
+        "skill": [
+            "canto",
+            "blackmagicrange1",
+            "darkmagicrange1"
+        ],
+        "growth": {
+            "hp": 5,
+            "str": 0,
+            "mag": 5,
+            "dex": 0,
+            "spd": -5,
+            "lck": 5,
+            "def": 5,
+            "res": 10,
+            "cha": 10
+        },
+        "rank": {
+            "reason": 3,
+            "faith": 1,
+            "riding": 3
+        },
+        "base": {
+            "hp": 20,
+            "str": 5,
+            "mag": 10,
+            "dex": 10,
+            "spd": 9,
+            "lck": 9,
+            "def": 9,
+            "res": 13,
+            "cha": 0,
+            "mov": 6
+        },
+        "mod": {
+            "hp": 1,
+            "mag": 4,
+            "spd": 0,
+            "res": 1,
+            "cha": 2,
+            "mov": 0
+        },
+        "exam": {
+            "reason": 680,
+            "riding": 680
+        },
+        "mount": {
+            "spd": -2,
+            "res": 1,
+            "mov": 2
+        },
+        "enemy": {
+            "hp": 20,
+            "str": 0,
+            "mag": 15,
+            "dex": 0,
+            "spd": 0,
+            "lck": 10,
+            "def": 5,
+            "res": 55,
+            "cha": 15
+        }
+    },
+    "verrat": {
+        "name": "Verrat",
+        "ability": null,
+        "art": null,
+        "skill": [
+            "blacktomefaire",
+            "blackmagicusesx2",
+            "fiendishblow"
+        ],
+        "growth": {
+            "hp": 10,
+            "str": 0,
+            "mag": 10,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": -5,
+            "res": 5,
+            "cha": 5
+        },
+        "rank": {
+            "reason": 3,
+            "faith": 2
+        },
+        "base": {
+            "hp": 30,
+            "str": 8,
+            "mag": 17,
+            "dex": 12,
+            "spd": 14,
+            "lck": 10,
+            "def": 12,
+            "res": 15,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {
+            "mag": 3,
+            "dex": 1,
+            "spd": 1,
+            "def": 1,
+            "res": 4
+        },
+        "mount": {},
+        "enemy": {
+            "hp": 50,
+            "str": 0,
+            "mag": 10,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 50,
+            "res": 50,
+            "cha": 5
+        }
+    },
+    "wanderingbeast": {
+        "name": "Wandering Beast",
+        "ability": null,
+        "art": null,
+        "skill": [
+            "renewal",
+            "heartseeker",
+            "magicbind"
+        ],
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        },
+        "rank": {},
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {},
+        "mount": {},
+        "enemy": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        }
+    },
+    "warcleric": {
+        "name": "War Cleric",
+        "ability": "brawlavo20",
+        "art": "pneumagale",
+        "skill": [
+            "fistfaire",
+            "unarmedcombat",
+            "heal"
+        ],
+        "growth": {
+            "hp": 40,
+            "str": 10,
+            "mag": 5,
+            "dex": 10,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 5,
+            "cha": 5
+        },
+        "rank": {
+            "axe": 1,
+            "brawling": 3,
+            "faith": 1
+        },
+        "base": {
+            "hp": 32,
+            "str": 17,
+            "mag": 10,
+            "dex": 10,
+            "spd": 10,
+            "lck": 10,
+            "def": 14,
+            "res": 11,
+            "cha": 0,
+            "mov": 6
+        },
+        "mod": {
+            "hp": 3,
+            "str": 2,
+            "dex": 1,
+            "def": 1,
+            "res": 1,
+            "mov": 2
+        },
+        "exam": {
+            "brawling": 980,
+            "faith": 460
+        },
+        "mount": {},
+        "enemy": {
+            "hp": 50,
+            "str": 18,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 25,
+            "res": 15,
+            "cha": 5
+        }
+    },
+    "warlock": {
+        "name": "Warlock",
+        "ability": "bowbreaker",
+        "art": null,
+        "skill": [
+            "blacktomefaire",
+            "blackmagicusesx2"
+        ],
+        "growth": {
+            "hp": 10,
+            "str": 0,
+            "mag": 10,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": -5,
+            "res": 5,
+            "cha": 5
+        },
+        "rank": {
+            "reason": 3,
+            "faith": 2
+        },
+        "base": {
+            "hp": 30,
+            "str": 8,
+            "mag": 17,
+            "dex": 12,
+            "spd": 14,
+            "lck": 10,
+            "def": 12,
+            "res": 15,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {
+            "mag": 3,
+            "dex": 1,
+            "spd": 1,
+            "res": 4
+        },
+        "exam": {
+            "reason": 1320
+        },
+        "mount": {},
+        "min_rank": {
+            "reason": 1320
+        },
+        "enemy": {
+            "hp": 30,
+            "str": 0,
+            "mag": 10,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": -5,
+            "res": 50,
+            "cha": 5
+        }
+    },
+    "warmaster": {
+        "name": "War Master",
+        "ability": "quickriposte",
+        "art": "warmastersstrike",
+        "skill": [
+            "fistfaire",
+            "axefaire",
+            "crit20"
+        ],
+        "growth": {
+            "hp": 40,
+            "str": 15,
+            "mag": 0,
+            "dex": 0,
+            "spd": 10,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 5
+        },
+        "rank": {
+            "axe": 3,
+            "brawling": 3
+        },
+        "base": {
+            "hp": 33,
+            "str": 20,
+            "mag": 10,
+            "dex": 14,
+            "spd": 16,
+            "lck": 12,
+            "def": 15,
+            "res": 10,
+            "cha": 0,
+            "mov": 6
+        },
+        "mod": {
+            "hp": 3,
+            "str": 5,
+            "spd": 2,
+            "lck": 1,
+            "def": 1,
+            "mov": 2
+        },
+        "exam": {
+            "axe": 1320,
+            "brawling": 1320
+        },
+        "mount": {},
+        "min_rank": {
+            "axe": 1320,
+            "brawling": 1320
+        },
+        "enemy": {
+            "hp": 60,
+            "str": 32,
+            "mag": 0,
+            "dex": 0,
+            "spd": 20,
+            "lck": 0,
+            "def": 35,
+            "res": 0,
+            "cha": 5
+        }
+    },
+    "warmonk": {
+        "name": "War Monk",
+        "ability": "brawlavo20",
+        "art": "pneumagale",
+        "skill": [
+            "fistfaire",
+            "unarmedcombat",
+            "heal"
+        ],
+        "growth": {
+            "hp": 40,
+            "str": 10,
+            "mag": 5,
+            "dex": 10,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 5,
+            "cha": 5
+        },
+        "rank": {
+            "axe": 1,
+            "brawling": 3,
+            "faith": 1
+        },
+        "base": {
+            "hp": 32,
+            "str": 17,
+            "mag": 10,
+            "dex": 10,
+            "spd": 10,
+            "lck": 10,
+            "def": 14,
+            "res": 11,
+            "cha": 0,
+            "mov": 6
+        },
+        "mod": {
+            "hp": 3,
+            "str": 2,
+            "dex": 1,
+            "def": 1,
+            "res": 1,
+            "mov": 2
+        },
+        "exam": {
+            "brawling": 980,
+            "faith": 460
+        },
+        "mount": {},
+        "enemy": {
+            "hp": 50,
+            "str": 18,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 25,
+            "res": 15,
+            "cha": 5
+        }
+    },
+    "warrior": {
+        "name": "Warrior",
+        "ability": "wrath",
+        "art": null,
+        "skill": [
+            "axefaire",
+            "axecrit10"
+        ],
+        "growth": {
+            "hp": 40,
+            "str": 15,
+            "mag": -5,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 5
+        },
+        "rank": {
+            "axe": 3
+        },
+        "base": {
+            "hp": 32,
+            "str": 19,
+            "mag": 8,
+            "dex": 12,
+            "spd": 14,
+            "lck": 10,
+            "def": 13,
+            "res": 8,
+            "cha": 0,
+            "mov": 5
+        },
+        "mod": {
+            "hp": 3,
+            "str": 3,
+            "spd": 1,
+            "lck": 1,
+            "def": 1,
+            "mov": 1
+        },
+        "exam": {
+            "axe": 1320
+        },
+        "mount": {},
+        "min_rank": {
+            "axe": 1320
+        },
+        "enemy": {
+            "hp": 50,
+            "str": 30,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 25,
+            "res": 0,
+            "cha": 5
+        }
+    },
+    "whitebeast": {
+        "name": "White Beast",
+        "ability": null,
+        "art": null,
+        "skill": [
+            "sealstrength",
+            "sealmagic"
+        ],
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        },
+        "rank": {},
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0,
+            "mov": 5
+        },
+        "mod": {
+            "mov": 1
+        },
+        "mount": {},
+        "enemy": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        }
+    },
+    "wilddemonicbeast": {
+        "name": "Wild Demonic Beast",
+        "ability": null,
+        "art": null,
+        "skill": [
+            "poison",
+            "poisonstrike"
+        ],
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        },
+        "rank": {},
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0,
+            "mov": 4
+        },
+        "mod": {},
+        "mount": {},
+        "enemy": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "cha": 0
+        }
+    },
+    "wyvernlord": {
+        "name": "Wyvern Lord",
+        "ability": "defiantcrit",
+        "art": null,
+        "skill": [
+            "canto",
+            "axefaire",
+            "avo10"
+        ],
+        "growth": {
+            "hp": 30,
+            "str": 15,
+            "mag": -5,
+            "dex": 0,
+            "spd": 10,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "cha": 5
+        },
+        "rank": {
+            "lance": 3,
+            "axe": 3,
+            "flying": 3
+        },
+        "base": {
+            "hp": 32,
+            "str": 18,
+            "mag": 10,
+            "dex": 14,
+            "spd": 20,
+            "lck": 12,
+            "def": 15,
+            "res": 12,
+            "cha": 0,
+            "mov": 8
+        },
+        "mod": {
+            "hp": 2,
+            "str": 2,
+            "dex": 1,
+            "spd": 2,
+            "def": 3,
+            "mov": 2
+        },
+        "exam": {
+            "lance": 300,
+            "axe": 1320,
+            "flying": 1320
+        },
+        "mount": {
+            "str": 2,
+            "spd": 2,
+            "mov": 2
+        },
+        "min_rank": {
+            "lance": 300,
+            "axe": 1320,
+            "flying": 1320
+        },
+        "enemy": {
+            "hp": 40,
+            "str": 28,
+            "mag": -5,
+            "dex": 0,
+            "spd": 10,
+            "lck": 0,
+            "def": 50,
+            "res": 0,
+            "cha": 5
+        }
+    },
+    "wyvernmaster": {
+        "name": "Wyvern Master",
+        "ability": "pompcircumstance",
+        "art": null,
+        "skill": [
+            "charm",
+            "bowfaire",
+            "canto"
+        ],
+        "growth": {
+            "hp": 20,
+            "str": 10,
+            "mag": 0,
+            "dex": 0,
+            "spd": 5,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "cha": 10
+        },
+        "rank": {
+            "bow": 3,
+            "authority": 3,
+            "flying": 3
+        },
+        "base": {
+            "hp": 30,
+            "str": 17,
+            "mag": 9,
+            "dex": 13,
+            "spd": 19,
+            "lck": 11,
+            "def": 14,
+            "res": 11,
+            "cha": 0,
+            "mov": 7
+        },
+        "mod": {
+            "hp": 2,
+            "str": 1,
+            "dex": 3,
+            "spd": 0,
+            "def": 1,
+            "cha": 2,
+            "mov": 0
+        },
+        "mount": {
+            "str": 1,
+            "spd": 1,
+            "mov": 3
+        },
+        "min_rank": {},
+        "enemy": {
+            "hp": 20,
+            "str": 10,
+            "mag": 0,
+            "dex": 0,
+            "spd": 10,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "cha": 10
+        }
+    },
+    "wyvernrider": {
+        "name": "Wyvern Rider",
+        "ability": "sealdefense",
+        "art": null,
+        "skill": [
+            "canto",
+            "axefaire"
+        ],
+        "growth": {
+            "hp": 30,
+            "str": 10,
+            "mag": -5,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 5,
+            "res": -5,
+            "cha": 5
+        },
+        "rank": {
+            "lance": 2,
+            "axe": 3,
+            "flying": 3
+        },
+        "base": {
+            "hp": 30,
+            "str": 18,
+            "mag": 8,
+            "dex": 12,
+            "spd": 14,
+            "lck": 10,
+            "def": 12,
+            "res": 8,
+            "cha": 0,
+            "mov": 7
+        },
+        "mod": {
+            "hp": 1,
+            "str": 2,
+            "dex": 1,
+            "spd": 1,
+            "def": 2,
+            "mov": 1
+        },
+        "exam": {
+            "axe": 680,
+            "flying": 300
+        },
+        "mount": {
+            "str": 1,
+            "spd": 2,
+            "mov": 2
+        },
+        "min_rank": {
+            "axe": 680,
+            "flying": 300
+        },
+        "enemy": {
+            "hp": 40,
+            "str": 25,
+            "mag": -5,
+            "dex": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 35,
+            "res": -10,
+            "cha": 5
+        }
+    }
+}

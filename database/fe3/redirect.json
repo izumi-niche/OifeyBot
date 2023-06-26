@@ -1,0 +1,394 @@
+{
+    "abel": {
+        "name": "Abel",
+        "book": [
+            "b2",
+            "b1"
+        ]
+    },
+    "arlen": {
+        "name": "Arlen",
+        "book": [
+            "b2"
+        ]
+    },
+    "arran": {
+        "name": "Arran",
+        "book": [
+            "b2",
+            "b1"
+        ]
+    },
+    "astram": {
+        "name": "Astram",
+        "book": [
+            "b2",
+            "b1"
+        ]
+    },
+    "bantu": {
+        "name": "Bantu",
+        "book": [
+            "b2",
+            "b1"
+        ]
+    },
+    "caeda": {
+        "name": "Caeda",
+        "book": [
+            "b2",
+            "b1"
+        ]
+    },
+    "cain": {
+        "name": "Cain",
+        "book": [
+            "b2",
+            "b1"
+        ]
+    },
+    "castor": {
+        "name": "Castor",
+        "book": [
+            "b2",
+            "b1"
+        ]
+    },
+    "catria": {
+        "name": "Catria",
+        "book": [
+            "b2",
+            "b1"
+        ]
+    },
+    "cecil": {
+        "name": "Cecil",
+        "book": [
+            "b2"
+        ]
+    },
+    "draug": {
+        "name": "Draug",
+        "book": [
+            "b2",
+            "b1"
+        ]
+    },
+    "elice": {
+        "name": "Elice",
+        "book": [
+            "b2",
+            "b1"
+        ]
+    },
+    "est": {
+        "name": "Est",
+        "book": [
+            "b2",
+            "b1"
+        ]
+    },
+    "gordin": {
+        "name": "Gordin",
+        "book": [
+            "b2",
+            "b1"
+        ]
+    },
+    "jeorge": {
+        "name": "Jeorge",
+        "book": [
+            "b2",
+            "b1"
+        ]
+    },
+    "julian": {
+        "name": "Julian",
+        "book": [
+            "b2",
+            "b1"
+        ]
+    },
+    "lena": {
+        "name": "Lena",
+        "book": [
+            "b2",
+            "b1"
+        ]
+    },
+    "linde": {
+        "name": "Linde",
+        "book": [
+            "b2",
+            "b1"
+        ]
+    },
+    "luke": {
+        "name": "Luke",
+        "book": [
+            "b2"
+        ]
+    },
+    "malicia": {
+        "name": "Malicia",
+        "book": [
+            "b2"
+        ]
+    },
+    "maria": {
+        "name": "Maria",
+        "book": [
+            "b2",
+            "b1"
+        ]
+    },
+    "marth": {
+        "name": "Marth",
+        "book": [
+            "b2",
+            "b1"
+        ]
+    },
+    "matthis": {
+        "name": "Matthis",
+        "book": [
+            "b2",
+            "b1"
+        ]
+    },
+    "merric": {
+        "name": "Merric",
+        "book": [
+            "b2",
+            "b1"
+        ]
+    },
+    "midia": {
+        "name": "Midia",
+        "book": [
+            "b2",
+            "b1"
+        ]
+    },
+    "minerva": {
+        "name": "Minerva",
+        "book": [
+            "b2",
+            "b1"
+        ]
+    },
+    "navarre": {
+        "name": "Navarre",
+        "book": [
+            "b2",
+            "b1"
+        ]
+    },
+    "nyna": {
+        "name": "Nyna",
+        "book": [
+            "b2"
+        ]
+    },
+    "ogma": {
+        "name": "Ogma",
+        "book": [
+            "b2",
+            "b1"
+        ]
+    },
+    "palla": {
+        "name": "Palla",
+        "book": [
+            "b2",
+            "b1"
+        ]
+    },
+    "phina": {
+        "name": "Phina",
+        "book": [
+            "b2"
+        ]
+    },
+    "rickard": {
+        "name": "Rickard",
+        "book": [
+            "b2",
+            "b1"
+        ]
+    },
+    "roderick": {
+        "name": "Roderick",
+        "book": [
+            "b2"
+        ]
+    },
+    "roshea": {
+        "name": "Roshea",
+        "book": [
+            "b2",
+            "b1"
+        ]
+    },
+    "ryan": {
+        "name": "Ryan",
+        "book": [
+            "b2"
+        ]
+    },
+    "samson": {
+        "name": "Samson",
+        "book": [
+            "b2",
+            "b1"
+        ]
+    },
+    "samto": {
+        "name": "Samto",
+        "book": [
+            "b2"
+        ]
+    },
+    "sheena": {
+        "name": "Sheena",
+        "book": [
+            "b2"
+        ]
+    },
+    "sirius": {
+        "name": "Sirius",
+        "book": [
+            "b2"
+        ]
+    },
+    "tiki": {
+        "name": "Tiki",
+        "book": [
+            "b2",
+            "b1"
+        ]
+    },
+    "warren": {
+        "name": "Warren",
+        "book": [
+            "b2"
+        ]
+    },
+    "wendell": {
+        "name": "Wendell",
+        "book": [
+            "b2",
+            "b1"
+        ]
+    },
+    "xane": {
+        "name": "Xane",
+        "book": [
+            "b2",
+            "b1"
+        ]
+    },
+    "yubello": {
+        "name": "Yubello",
+        "book": [
+            "b2"
+        ]
+    },
+    "yumina": {
+        "name": "Yumina",
+        "book": [
+            "b2"
+        ]
+    },
+    "barst": {
+        "name": "Barst",
+        "book": [
+            "b1"
+        ]
+    },
+    "boah": {
+        "name": "Boah",
+        "book": [
+            "b1"
+        ]
+    },
+    "bord": {
+        "name": "Bord",
+        "book": [
+            "b1"
+        ]
+    },
+    "caesar": {
+        "name": "Caesar",
+        "book": [
+            "b1"
+        ]
+    },
+    "cord": {
+        "name": "Cord",
+        "book": [
+            "b1"
+        ]
+    },
+    "dolph": {
+        "name": "Dolph",
+        "book": [
+            "b1"
+        ]
+    },
+    "hardin": {
+        "name": "Hardin",
+        "book": [
+            "b1"
+        ]
+    },
+    "jagen": {
+        "name": "Jagen",
+        "book": [
+            "b1"
+        ]
+    },
+    "lorenz": {
+        "name": "Lorenz",
+        "book": [
+            "b1",
+            "b2"
+        ]
+    },
+    "macellan": {
+        "name": "Macellan",
+        "book": [
+            "b1"
+        ]
+    },
+    "radd": {
+        "name": "Radd",
+        "book": [
+            "b1"
+        ]
+    },
+    "sedgar": {
+        "name": "Sedgar",
+        "book": [
+            "b1"
+        ]
+    },
+    "tomas": {
+        "name": "Tomas",
+        "book": [
+            "b1"
+        ]
+    },
+    "vyland": {
+        "name": "Vyland",
+        "book": [
+            "b1"
+        ]
+    },
+    "wolf": {
+        "name": "Wolf",
+        "book": [
+            "b1"
+        ]
+    }
+}

@@ -1,0 +1,4614 @@
+{
+    "archerf": {
+        "name": "Archer (F)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 17,
+            "atk": 3,
+            "skl": 3,
+            "spd": 4,
+            "lck": 0,
+            "def": 3,
+            "res": 0,
+            "con": 5,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 70,
+            "atk": 35,
+            "skl": 40,
+            "spd": 32,
+            "lck": 35,
+            "def": 15,
+            "res": 20
+        },
+        "rank": {
+            "bow": 31
+        }
+    },
+    "archerm": {
+        "name": "Archer (M)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 18,
+            "atk": 4,
+            "skl": 3,
+            "spd": 3,
+            "lck": 0,
+            "def": 3,
+            "res": 0,
+            "con": 7,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 70,
+            "atk": 35,
+            "skl": 40,
+            "spd": 32,
+            "lck": 35,
+            "def": 15,
+            "res": 15
+        },
+        "rank": {
+            "bow": 31
+        }
+    },
+    "archmogall": {
+        "name": "Arch Mogall",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 17,
+            "atk": 6,
+            "skl": 3,
+            "spd": 3,
+            "lck": 0,
+            "def": 3,
+            "res": 7,
+            "con": 5,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 29,
+            "skl": 26,
+            "spd": 26,
+            "lck": 30,
+            "def": 20,
+            "res": 29,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 45,
+            "atk": 55,
+            "skl": 30,
+            "spd": 25,
+            "lck": 20,
+            "def": 10,
+            "res": 28
+        },
+        "rank": {
+            "dark": 181
+        }
+    },
+    "assassinf": {
+        "name": "Assassin (F)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 16,
+            "atk": 3,
+            "skl": 1,
+            "spd": 9,
+            "lck": 0,
+            "def": 2,
+            "res": 0,
+            "con": 6,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 30,
+            "spd": 30,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 50,
+            "atk": 5,
+            "skl": 45,
+            "spd": 40,
+            "lck": 40,
+            "def": 5,
+            "res": 20
+        },
+        "promo_bonus": {
+            "hp": 2,
+            "atk": 1,
+            "skl": 1,
+            "spd": 1,
+            "def": 2,
+            "res": 1
+        },
+        "rank": {
+            "sword": 31
+        }
+    },
+    "assassinm": {
+        "name": "Assassin (M)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 16,
+            "atk": 3,
+            "skl": 1,
+            "spd": 9,
+            "lck": 0,
+            "def": 2,
+            "res": 0,
+            "con": 8,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 30,
+            "spd": 30,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 50,
+            "atk": 5,
+            "skl": 45,
+            "spd": 40,
+            "lck": 40,
+            "def": 5,
+            "res": 20
+        },
+        "promo_bonus": {
+            "hp": 3,
+            "atk": 1,
+            "skl": 0,
+            "spd": 0,
+            "def": 2,
+            "res": 2
+        },
+        "rank": {
+            "sword": 31
+        }
+    },
+    "bael": {
+        "name": "Bael",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 25,
+            "atk": 6,
+            "skl": 3,
+            "spd": 3,
+            "lck": 0,
+            "def": 6,
+            "res": 1,
+            "con": 12,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 30,
+            "skl": 28,
+            "spd": 26,
+            "lck": 30,
+            "def": 26,
+            "res": 22,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 82,
+            "atk": 50,
+            "skl": 30,
+            "spd": 20,
+            "lck": 15,
+            "def": 18,
+            "res": 13
+        },
+        "rank": {}
+    },
+    "berserker": {
+        "name": "Berserker",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 24,
+            "atk": 7,
+            "skl": 6,
+            "spd": 7,
+            "lck": 0,
+            "def": 6,
+            "res": 0,
+            "con": 13,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 30,
+            "skl": 29,
+            "spd": 28,
+            "lck": 30,
+            "def": 23,
+            "res": 21,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 75,
+            "atk": 50,
+            "skl": 35,
+            "spd": 25,
+            "lck": 15,
+            "def": 10,
+            "res": 13
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "atk": 1,
+            "skl": 1,
+            "spd": 1,
+            "def": 2,
+            "res": 2
+        },
+        "rank": {
+            "axe": 71
+        }
+    },
+    "bishopf": {
+        "name": "Bishop (F)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 19,
+            "atk": 4,
+            "skl": 5,
+            "spd": 4,
+            "lck": 0,
+            "def": 2,
+            "res": 9,
+            "con": 5,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 25,
+            "skl": 25,
+            "spd": 26,
+            "lck": 30,
+            "def": 21,
+            "res": 30,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 45,
+            "atk": 35,
+            "skl": 25,
+            "spd": 22,
+            "lck": 40,
+            "def": 8,
+            "res": 50
+        },
+        "promo_bonus": {
+            "hp": 3,
+            "atk": 1,
+            "skl": 2,
+            "spd": 1,
+            "def": 2,
+            "res": 2
+        },
+        "rank": {
+            "light": 31,
+            "staff": 71
+        }
+    },
+    "bishopm": {
+        "name": "Bishop (M)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 21,
+            "atk": 4,
+            "skl": 4,
+            "spd": 4,
+            "lck": 0,
+            "def": 3,
+            "res": 8,
+            "con": 7,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 25,
+            "skl": 26,
+            "spd": 24,
+            "lck": 30,
+            "def": 22,
+            "res": 30,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 45,
+            "atk": 35,
+            "skl": 25,
+            "spd": 22,
+            "lck": 40,
+            "def": 8,
+            "res": 40
+        },
+        "promo_bonus": {
+            "hp": 3,
+            "atk": 2,
+            "skl": 1,
+            "spd": 0,
+            "def": 3,
+            "res": 2
+        },
+        "rank": {
+            "light": 31,
+            "staff": 71
+        }
+    },
+    "bonewalker": {
+        "name": "Bonewalker",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 20,
+            "atk": 4,
+            "skl": 2,
+            "spd": 3,
+            "lck": 0,
+            "def": 3,
+            "res": 0,
+            "con": 7,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 80,
+            "atk": 50,
+            "skl": 30,
+            "spd": 20,
+            "lck": 10,
+            "def": 12,
+            "res": 15
+        },
+        "rank": {
+            "sword": 71,
+            "lance": 71
+        }
+    },
+    "bonewalkerbow": {
+        "name": "Bonewalker (Bow)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 18,
+            "atk": 4,
+            "skl": 3,
+            "spd": 2,
+            "lck": 0,
+            "def": 3,
+            "res": 0,
+            "con": 6,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 70,
+            "atk": 35,
+            "skl": 40,
+            "spd": 32,
+            "lck": 10,
+            "def": 15,
+            "res": 15
+        },
+        "rank": {
+            "bow": 71
+        }
+    },
+    "brigand": {
+        "name": "Brigand",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 20,
+            "atk": 5,
+            "skl": 1,
+            "spd": 5,
+            "lck": 0,
+            "def": 3,
+            "res": 0,
+            "con": 12,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 82,
+            "atk": 50,
+            "skl": 30,
+            "spd": 20,
+            "lck": 15,
+            "def": 10,
+            "res": 13
+        },
+        "rank": {
+            "axe": 31
+        }
+    },
+    "cavalierf": {
+        "name": "Cavalier (F)",
+        "mov": "mount",
+        "note": null,
+        "base": {
+            "hp": 18,
+            "atk": 5,
+            "skl": 3,
+            "spd": 3,
+            "lck": 0,
+            "def": 6,
+            "res": 0,
+            "con": 9,
+            "mov": 7
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 75,
+            "atk": 35,
+            "skl": 40,
+            "spd": 28,
+            "lck": 30,
+            "def": 15,
+            "res": 15
+        },
+        "promo_bonus": {
+            "hp": 1,
+            "atk": 0,
+            "skl": 2,
+            "spd": 2,
+            "def": 0,
+            "res": 2
+        },
+        "rank": {
+            "sword": 1,
+            "lance": 31
+        }
+    },
+    "cavalierm": {
+        "name": "Cavalier (M)",
+        "mov": "mount",
+        "note": null,
+        "base": {
+            "hp": 20,
+            "atk": 5,
+            "skl": 2,
+            "spd": 5,
+            "lck": 0,
+            "def": 6,
+            "res": 0,
+            "con": 9,
+            "mov": 7
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 75,
+            "atk": 35,
+            "skl": 40,
+            "spd": 28,
+            "lck": 30,
+            "def": 15,
+            "res": 15
+        },
+        "rank": {
+            "sword": 1,
+            "lance": 31
+        }
+    },
+    "civilianfemale1": {
+        "name": "Civilian (Female 1)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 9,
+            "atk": 0,
+            "skl": 1,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 1,
+            "con": 4,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 10,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 10
+        },
+        "rank": {}
+    },
+    "civilianfemale2": {
+        "name": "Civilian (Female 2)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 10,
+            "atk": 0,
+            "skl": 1,
+            "spd": 0,
+            "lck": 0,
+            "def": 1,
+            "res": 1,
+            "con": 5,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 10,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 10
+        },
+        "rank": {}
+    },
+    "civilianmale1": {
+        "name": "Civilian (Male 1)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 10,
+            "atk": 0,
+            "skl": 1,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 2,
+            "con": 6,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 10,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 10
+        },
+        "rank": {}
+    },
+    "civilianmale2": {
+        "name": "Civilian (Male 2)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 12,
+            "atk": 3,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 2,
+            "res": 0,
+            "con": 7,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 10,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 10
+        },
+        "rank": {}
+    },
+    "civilianyoungboy": {
+        "name": "Civilian (Young boy)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 8,
+            "atk": 1,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "con": 4,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 10,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 10
+        },
+        "rank": {}
+    },
+    "civilianyounggirl": {
+        "name": "Civilian (Young girl)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 7,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 1,
+            "con": 3,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 10,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 10
+        },
+        "rank": {}
+    },
+    "cleric": {
+        "name": "Cleric",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 16,
+            "atk": 1,
+            "skl": 2,
+            "spd": 2,
+            "lck": 0,
+            "def": 0,
+            "res": 6,
+            "con": 4,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 50,
+            "atk": 30,
+            "skl": 35,
+            "spd": 32,
+            "lck": 45,
+            "def": 8,
+            "res": 50
+        },
+        "rank": {
+            "staff": 31
+        }
+    },
+    "cyclops": {
+        "name": "Cyclops",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 40,
+            "atk": 8,
+            "skl": 5,
+            "spd": 6,
+            "lck": 0,
+            "def": 13,
+            "res": 0,
+            "con": 16,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 29,
+            "skl": 29,
+            "spd": 28,
+            "lck": 30,
+            "def": 30,
+            "res": 25,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 95,
+            "atk": 30,
+            "skl": 35,
+            "spd": 25,
+            "lck": 10,
+            "def": 24,
+            "res": 25
+        },
+        "rank": {
+            "axe": 251
+        }
+    },
+    "dancer": {
+        "name": "Dancer",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 14,
+            "atk": 1,
+            "skl": 2,
+            "spd": 7,
+            "lck": 0,
+            "def": 0,
+            "res": 1,
+            "con": 4,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 10,
+            "skl": 10,
+            "spd": 30,
+            "lck": 30,
+            "def": 24,
+            "res": 26,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 45,
+            "atk": 45,
+            "skl": 30,
+            "spd": 60,
+            "lck": 70,
+            "def": 0,
+            "res": 13
+        },
+        "rank": {}
+    },
+    "deathgoyle": {
+        "name": "Deathgoyle",
+        "mov": "fly",
+        "note": null,
+        "base": {
+            "hp": 23,
+            "atk": 8,
+            "skl": 5,
+            "spd": 8,
+            "lck": 0,
+            "def": 9,
+            "res": 1,
+            "con": 11,
+            "mov": 7
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 27,
+            "skl": 25,
+            "spd": 23,
+            "lck": 30,
+            "def": 28,
+            "res": 22,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 75,
+            "atk": 40,
+            "skl": 30,
+            "spd": 25,
+            "lck": 10,
+            "def": 20,
+            "res": 17
+        },
+        "rank": {
+            "lance": 181
+        }
+    },
+    "demonking": {
+        "name": "Demon King",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 60,
+            "atk": 23,
+            "skl": 20,
+            "spd": 18,
+            "lck": 0,
+            "def": 25,
+            "res": 25,
+            "con": 25,
+            "mov": 2
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 50,
+            "skl": 50,
+            "spd": 50,
+            "lck": 30,
+            "def": 50,
+            "res": 50,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 95,
+            "atk": 40,
+            "skl": 30,
+            "spd": 20,
+            "lck": 25,
+            "def": 20,
+            "res": 20
+        },
+        "rank": {}
+    },
+    "dracozombie": {
+        "name": "Draco Zombie",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 53,
+            "atk": 1,
+            "skl": 0,
+            "spd": 1,
+            "lck": 0,
+            "def": 0,
+            "res": 3,
+            "con": 25,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 50,
+            "skl": 50,
+            "spd": 50,
+            "lck": 30,
+            "def": 50,
+            "res": 50,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 85,
+            "atk": 35,
+            "skl": 20,
+            "spd": 20,
+            "lck": 25,
+            "def": 30,
+            "res": 10
+        },
+        "rank": {}
+    },
+    "druidf": {
+        "name": "Druid (F)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 17,
+            "atk": 7,
+            "skl": 3,
+            "spd": 4,
+            "lck": 0,
+            "def": 3,
+            "res": 7,
+            "con": 4,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 29,
+            "skl": 26,
+            "spd": 26,
+            "lck": 30,
+            "def": 20,
+            "res": 29,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 45,
+            "atk": 55,
+            "skl": 30,
+            "spd": 25,
+            "lck": 20,
+            "def": 10,
+            "res": 35
+        },
+        "rank": {
+            "anima": 31,
+            "dark": 71,
+            "staff": 1
+        }
+    },
+    "druidm": {
+        "name": "Druid (M)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 19,
+            "atk": 6,
+            "skl": 3,
+            "spd": 4,
+            "lck": 0,
+            "def": 4,
+            "res": 6,
+            "con": 8,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 29,
+            "skl": 26,
+            "spd": 26,
+            "lck": 30,
+            "def": 21,
+            "res": 28,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 45,
+            "atk": 55,
+            "skl": 30,
+            "spd": 25,
+            "lck": 20,
+            "def": 10,
+            "res": 35
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "atk": 0,
+            "skl": 0,
+            "spd": 3,
+            "def": 2,
+            "res": 2
+        },
+        "rank": {
+            "anima": 31,
+            "dark": 71,
+            "staff": 1
+        }
+    },
+    "elderbael": {
+        "name": "Elder Bael",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 36,
+            "atk": 8,
+            "skl": 5,
+            "spd": 5,
+            "lck": 0,
+            "def": 9,
+            "res": 4,
+            "con": 15,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 30,
+            "skl": 28,
+            "spd": 26,
+            "lck": 30,
+            "def": 26,
+            "res": 22,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 85,
+            "atk": 45,
+            "skl": 25,
+            "spd": 20,
+            "lck": 10,
+            "def": 21,
+            "res": 17
+        },
+        "rank": {}
+    },
+    "entombed": {
+        "name": "Entombed",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 35,
+            "atk": 3,
+            "skl": 0,
+            "spd": 1,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "con": 6,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 25,
+            "skl": 22,
+            "spd": 21,
+            "lck": 30,
+            "def": 24,
+            "res": 22,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 85,
+            "atk": 40,
+            "skl": 25,
+            "spd": 17,
+            "lck": 50,
+            "def": 10,
+            "res": 13
+        },
+        "rank": {}
+    },
+    "falcoknight": {
+        "name": "Falcoknight",
+        "mov": "fly",
+        "note": null,
+        "base": {
+            "hp": 20,
+            "atk": 6,
+            "skl": 7,
+            "spd": 7,
+            "lck": 0,
+            "def": 5,
+            "res": 4,
+            "con": 6,
+            "mov": 8
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 23,
+            "skl": 25,
+            "spd": 28,
+            "lck": 30,
+            "def": 23,
+            "res": 26,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 60,
+            "atk": 30,
+            "skl": 30,
+            "spd": 30,
+            "lck": 30,
+            "def": 12,
+            "res": 30
+        },
+        "promo_bonus": {
+            "hp": 5,
+            "atk": 2,
+            "skl": 0,
+            "spd": 2,
+            "def": 2,
+            "res": 2
+        },
+        "rank": {
+            "sword": 1,
+            "lance": 71
+        }
+    },
+    "fighter": {
+        "name": "Fighter",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 20,
+            "atk": 5,
+            "skl": 2,
+            "spd": 4,
+            "lck": 0,
+            "def": 2,
+            "res": 0,
+            "con": 11,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 85,
+            "atk": 55,
+            "skl": 35,
+            "spd": 30,
+            "lck": 15,
+            "def": 15,
+            "res": 15
+        },
+        "promo_bonus": {
+            "hp": 2,
+            "atk": 2,
+            "skl": 1,
+            "spd": 0,
+            "def": 0,
+            "res": 1
+        },
+        "rank": {
+            "axe": 31
+        }
+    },
+    "fleet": {
+        "name": "Fleet",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 19,
+            "atk": 1,
+            "skl": 1,
+            "spd": 2,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "con": 25,
+            "mov": 3
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 30,
+            "res": 20,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 75,
+            "atk": 35,
+            "skl": 40,
+            "spd": 32,
+            "lck": 15,
+            "def": 15,
+            "res": 15
+        },
+        "rank": {
+            "bow": 71
+        }
+    },
+    "gargoyle": {
+        "name": "Gargoyle",
+        "mov": "fly",
+        "note": null,
+        "base": {
+            "hp": 19,
+            "atk": 6,
+            "skl": 3,
+            "spd": 6,
+            "lck": 0,
+            "def": 6,
+            "res": 0,
+            "con": 8,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 80,
+            "atk": 45,
+            "skl": 35,
+            "spd": 35,
+            "lck": 10,
+            "def": 25,
+            "res": 15
+        },
+        "rank": {
+            "lance": 71
+        }
+    },
+    "generalf": {
+        "name": "General (F)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 20,
+            "atk": 8,
+            "skl": 5,
+            "spd": 5,
+            "lck": 0,
+            "def": 11,
+            "res": 4,
+            "con": 11,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 27,
+            "skl": 28,
+            "spd": 25,
+            "lck": 30,
+            "def": 29,
+            "res": 26,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 75,
+            "atk": 30,
+            "skl": 25,
+            "spd": 10,
+            "lck": 20,
+            "def": 23,
+            "res": 25
+        },
+        "promo_bonus": {
+            "hp": 3,
+            "atk": 2,
+            "skl": 3,
+            "spd": 2,
+            "def": 3,
+            "res": 3
+        },
+        "rank": {
+            "sword": 1,
+            "lance": 71,
+            "axe": 1
+        }
+    },
+    "generalm": {
+        "name": "General (M)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 21,
+            "atk": 8,
+            "skl": 4,
+            "spd": 3,
+            "lck": 0,
+            "def": 13,
+            "res": 3,
+            "con": 15,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 29,
+            "skl": 27,
+            "spd": 24,
+            "lck": 30,
+            "def": 30,
+            "res": 25,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 75,
+            "atk": 30,
+            "skl": 20,
+            "spd": 10,
+            "lck": 20,
+            "def": 23,
+            "res": 25
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "atk": 2,
+            "skl": 2,
+            "spd": 3,
+            "def": 2,
+            "res": 3
+        },
+        "rank": {
+            "sword": 1,
+            "lance": 71,
+            "axe": 1
+        }
+    },
+    "gorgon": {
+        "name": "Gorgon",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 19,
+            "atk": 8,
+            "skl": 3,
+            "spd": 4,
+            "lck": 0,
+            "def": 5,
+            "res": 7,
+            "con": 11,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 29,
+            "skl": 26,
+            "spd": 26,
+            "lck": 30,
+            "def": 21,
+            "res": 28,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 45,
+            "atk": 60,
+            "skl": 30,
+            "spd": 25,
+            "lck": 30,
+            "def": 10,
+            "res": 40
+        },
+        "rank": {
+            "dark": 181
+        }
+    },
+    "gorgonegg": {
+        "name": "Gorgon Egg",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 50,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 10,
+            "res": 10,
+            "con": 6,
+            "mov": 0
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 30,
+            "skl": 30,
+            "spd": 30,
+            "lck": 30,
+            "def": 30,
+            "res": 30,
+            "con": 30,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 100,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "rank": {}
+    },
+    "greatknightf": {
+        "name": "Great Knight (F)",
+        "mov": "mount",
+        "note": null,
+        "base": {
+            "hp": 20,
+            "atk": 6,
+            "skl": 6,
+            "spd": 7,
+            "lck": 0,
+            "def": 9,
+            "res": 3,
+            "con": 10,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 26,
+            "skl": 26,
+            "spd": 25,
+            "lck": 30,
+            "def": 28,
+            "res": 26,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 70,
+            "atk": 30,
+            "skl": 25,
+            "spd": 20,
+            "lck": 20,
+            "def": 21,
+            "res": 22
+        },
+        "promo_bonus": {
+            "hp": 3,
+            "atk": 1,
+            "skl": 1,
+            "spd": 2,
+            "def": 2,
+            "res": 2
+        },
+        "rank": {
+            "sword": 1,
+            "lance": 31,
+            "axe": 31
+        }
+    },
+    "greatknightm": {
+        "name": "Great Knight (M)",
+        "mov": "mount",
+        "note": null,
+        "base": {
+            "hp": 21,
+            "atk": 8,
+            "skl": 4,
+            "spd": 6,
+            "lck": 0,
+            "def": 11,
+            "res": 3,
+            "con": 13,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 28,
+            "skl": 24,
+            "spd": 24,
+            "lck": 30,
+            "def": 29,
+            "res": 25,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 70,
+            "atk": 30,
+            "skl": 20,
+            "spd": 15,
+            "lck": 20,
+            "def": 21,
+            "res": 20
+        },
+        "promo_bonus": {
+            "hp": 3,
+            "atk": 2,
+            "skl": 1,
+            "spd": 2,
+            "def": 2,
+            "res": 1
+        },
+        "rank": {
+            "sword": 1,
+            "lance": 31,
+            "axe": 31
+        }
+    },
+    "greatlordf": {
+        "name": "Great Lord (F)",
+        "mov": "mount",
+        "note": null,
+        "base": {
+            "hp": 18,
+            "atk": 3,
+            "skl": 3,
+            "spd": 4,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "con": 7,
+            "mov": 7
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 24,
+            "skl": 29,
+            "spd": 30,
+            "lck": 30,
+            "def": 22,
+            "res": 25,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 90,
+            "atk": 45,
+            "skl": 40,
+            "spd": 45,
+            "lck": 40,
+            "def": 15,
+            "res": 20
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "atk": 2,
+            "skl": 2,
+            "spd": 1,
+            "def": 3,
+            "res": 5
+        },
+        "rank": {
+            "sword": 71
+        }
+    },
+    "greatlordm": {
+        "name": "Great Lord (M)",
+        "mov": "mount",
+        "note": null,
+        "base": {
+            "hp": 18,
+            "atk": 3,
+            "skl": 3,
+            "spd": 4,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "con": 10,
+            "mov": 7
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 27,
+            "skl": 26,
+            "spd": 24,
+            "lck": 30,
+            "def": 23,
+            "res": 23,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 90,
+            "atk": 45,
+            "skl": 40,
+            "spd": 45,
+            "lck": 40,
+            "def": 15,
+            "res": 15
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "atk": 2,
+            "skl": 3,
+            "spd": 2,
+            "def": 2,
+            "res": 5
+        },
+        "rank": {
+            "lance": 71
+        }
+    },
+    "gwyllgi": {
+        "name": "Gwyllgi",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 21,
+            "atk": 6,
+            "skl": 12,
+            "spd": 12,
+            "lck": 0,
+            "def": 5,
+            "res": 2,
+            "con": 8,
+            "mov": 8
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 24,
+            "skl": 29,
+            "spd": 30,
+            "lck": 30,
+            "def": 22,
+            "res": 23,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 65,
+            "atk": 28,
+            "skl": 35,
+            "spd": 35,
+            "lck": 25,
+            "def": 16,
+            "res": 22
+        },
+        "rank": {}
+    },
+    "herof": {
+        "name": "Hero (F)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 22,
+            "atk": 6,
+            "skl": 10,
+            "spd": 11,
+            "lck": 0,
+            "def": 6,
+            "res": 3,
+            "con": 9,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 24,
+            "skl": 30,
+            "spd": 26,
+            "lck": 30,
+            "def": 24,
+            "res": 24,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 75,
+            "atk": 30,
+            "skl": 30,
+            "spd": 20,
+            "lck": 25,
+            "def": 20,
+            "res": 20
+        },
+        "rank": {
+            "sword": 71,
+            "axe": 31
+        }
+    },
+    "herom": {
+        "name": "Hero (M)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 22,
+            "atk": 6,
+            "skl": 9,
+            "spd": 10,
+            "lck": 0,
+            "def": 8,
+            "res": 2,
+            "con": 11,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 25,
+            "skl": 30,
+            "spd": 26,
+            "lck": 30,
+            "def": 25,
+            "res": 22,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 75,
+            "atk": 30,
+            "skl": 30,
+            "spd": 20,
+            "lck": 25,
+            "def": 20,
+            "res": 20
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "atk": 1,
+            "skl": 2,
+            "spd": 2,
+            "def": 2,
+            "res": 2
+        },
+        "rank": {
+            "sword": 71,
+            "axe": 31
+        }
+    },
+    "journeyman1": {
+        "name": "Journeyman",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 14,
+            "atk": 3,
+            "skl": 0,
+            "spd": 1,
+            "lck": 0,
+            "def": 1,
+            "res": 0,
+            "con": 8,
+            "mov": 4
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 85,
+            "atk": 55,
+            "skl": 40,
+            "spd": 32,
+            "lck": 40,
+            "def": 18,
+            "res": 20
+        },
+        "rank": {
+            "axe": 1
+        }
+    },
+    "journeyman2": {
+        "name": "Super Journeyman",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 20,
+            "atk": 5,
+            "skl": 3,
+            "spd": 4,
+            "lck": 0,
+            "def": 2,
+            "res": 1,
+            "con": 8,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 85,
+            "atk": 55,
+            "skl": 40,
+            "spd": 32,
+            "lck": 40,
+            "def": 18,
+            "res": 20
+        },
+        "promo_bonus": {
+            "hp": 2,
+            "atk": 0,
+            "skl": 2,
+            "spd": 0,
+            "def": 2,
+            "res": 2
+        },
+        "rank": {
+            "axe": 31
+        }
+    },
+    "journeyman3": {
+        "name": "Hyper Journeyman",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 28,
+            "atk": 8,
+            "skl": 5,
+            "spd": 6,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "con": 8,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 26,
+            "skl": 29,
+            "spd": 28,
+            "lck": 30,
+            "def": 23,
+            "res": 23,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 85,
+            "atk": 55,
+            "skl": 40,
+            "spd": 32,
+            "lck": 40,
+            "def": 18,
+            "res": 20
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "atk": 1,
+            "skl": 2,
+            "spd": 2,
+            "def": 2,
+            "res": 2
+        },
+        "rank": {
+            "axe": 71
+        }
+    },
+    "knightf": {
+        "name": "Knight (F)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 16,
+            "atk": 4,
+            "skl": 3,
+            "spd": 1,
+            "lck": 0,
+            "def": 8,
+            "res": 1,
+            "con": 10,
+            "mov": 4
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 80,
+            "atk": 40,
+            "skl": 30,
+            "spd": 15,
+            "lck": 25,
+            "def": 28,
+            "res": 20
+        },
+        "promo_bonus": {
+            "hp": 2,
+            "atk": 1,
+            "skl": 1,
+            "spd": 1,
+            "def": 2,
+            "res": 0
+        },
+        "rank": {
+            "lance": 31
+        }
+    },
+    "knightm": {
+        "name": "Knight (M)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 17,
+            "atk": 5,
+            "skl": 2,
+            "spd": 0,
+            "lck": 0,
+            "def": 9,
+            "res": 0,
+            "con": 13,
+            "mov": 4
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 80,
+            "atk": 40,
+            "skl": 30,
+            "spd": 15,
+            "lck": 25,
+            "def": 28,
+            "res": 20
+        },
+        "rank": {
+            "lance": 31
+        }
+    },
+    "lordf": {
+        "name": "Lord (F)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 16,
+            "atk": 4,
+            "skl": 8,
+            "spd": 9,
+            "lck": 0,
+            "def": 3,
+            "res": 1,
+            "con": 5,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 90,
+            "atk": 45,
+            "skl": 40,
+            "spd": 45,
+            "lck": 40,
+            "def": 15,
+            "res": 20
+        },
+        "rank": {
+            "sword": 1
+        }
+    },
+    "lordm": {
+        "name": "Lord (M)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 18,
+            "atk": 6,
+            "skl": 6,
+            "spd": 7,
+            "lck": 0,
+            "def": 6,
+            "res": 0,
+            "con": 8,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 90,
+            "atk": 45,
+            "skl": 40,
+            "spd": 45,
+            "lck": 40,
+            "def": 15,
+            "res": 15
+        },
+        "rank": {
+            "lance": 31
+        }
+    },
+    "maelduin": {
+        "name": "Maelduin",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 25,
+            "atk": 8,
+            "skl": 4,
+            "spd": 7,
+            "lck": 0,
+            "def": 9,
+            "res": 3,
+            "con": 12,
+            "mov": 8
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 25,
+            "skl": 26,
+            "spd": 24,
+            "lck": 30,
+            "def": 25,
+            "res": 25,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 75,
+            "atk": 30,
+            "skl": 30,
+            "spd": 18,
+            "lck": 10,
+            "def": 13,
+            "res": 20
+        },
+        "rank": {
+            "axe": 181,
+            "bow": 181
+        }
+    },
+    "magef": {
+        "name": "Mage (F)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 16,
+            "atk": 1,
+            "skl": 3,
+            "spd": 2,
+            "lck": 0,
+            "def": 2,
+            "res": 4,
+            "con": 3,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 55,
+            "atk": 55,
+            "skl": 40,
+            "spd": 35,
+            "lck": 20,
+            "def": 5,
+            "res": 40
+        },
+        "rank": {
+            "anima": 31
+        }
+    },
+    "mageknightf": {
+        "name": "Mage Knight (F)",
+        "mov": "mount",
+        "note": null,
+        "base": {
+            "hp": 19,
+            "atk": 3,
+            "skl": 5,
+            "spd": 6,
+            "lck": 0,
+            "def": 3,
+            "res": 6,
+            "con": 6,
+            "mov": 7
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 25,
+            "skl": 24,
+            "spd": 25,
+            "lck": 30,
+            "def": 24,
+            "res": 28,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 45,
+            "atk": 40,
+            "skl": 30,
+            "spd": 40,
+            "lck": 40,
+            "def": 10,
+            "res": 40
+        },
+        "promo_bonus": {
+            "hp": 3,
+            "atk": 2,
+            "skl": 1,
+            "spd": 0,
+            "def": 2,
+            "res": 2
+        },
+        "rank": {
+            "anima": 71,
+            "staff": 31
+        }
+    },
+    "mageknightm": {
+        "name": "Mage Knight (M)",
+        "mov": "mount",
+        "note": null,
+        "base": {
+            "hp": 20,
+            "atk": 4,
+            "skl": 3,
+            "spd": 5,
+            "lck": 0,
+            "def": 5,
+            "res": 5,
+            "con": 8,
+            "mov": 7
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 24,
+            "skl": 26,
+            "spd": 25,
+            "lck": 30,
+            "def": 24,
+            "res": 25,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 45,
+            "atk": 40,
+            "skl": 30,
+            "spd": 40,
+            "lck": 30,
+            "def": 10,
+            "res": 40
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "atk": 2,
+            "skl": 0,
+            "spd": 0,
+            "def": 2,
+            "res": 2
+        },
+        "rank": {
+            "anima": 71,
+            "staff": 31
+        }
+    },
+    "magem": {
+        "name": "Mage (M)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 16,
+            "atk": 1,
+            "skl": 2,
+            "spd": 3,
+            "lck": 0,
+            "def": 3,
+            "res": 3,
+            "con": 5,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 55,
+            "atk": 55,
+            "skl": 40,
+            "spd": 35,
+            "lck": 20,
+            "def": 5,
+            "res": 30
+        },
+        "promo_bonus": {
+            "hp": 1,
+            "atk": 0,
+            "skl": 1,
+            "spd": 2,
+            "def": 1,
+            "res": 2
+        },
+        "rank": {
+            "anima": 31
+        }
+    },
+    "manaketef": {
+        "name": "Manakete (F)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 12,
+            "atk": 0,
+            "skl": 0,
+            "spd": 2,
+            "lck": 0,
+            "def": 2,
+            "res": 2,
+            "con": 5,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 95,
+            "atk": 40,
+            "skl": 30,
+            "spd": 20,
+            "lck": 25,
+            "def": 0,
+            "res": 10
+        },
+        "rank": {}
+    },
+    "manaketem": {
+        "name": "Manakete (M)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 20,
+            "atk": 0,
+            "skl": 0,
+            "spd": 2,
+            "lck": 0,
+            "def": 1,
+            "res": 1,
+            "con": 25,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 95,
+            "atk": 40,
+            "skl": 30,
+            "spd": 20,
+            "lck": 25,
+            "def": 0,
+            "res": 10
+        },
+        "rank": {}
+    },
+    "mauthedoog": {
+        "name": "Mauthe Doog",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 16,
+            "atk": 4,
+            "skl": 10,
+            "spd": 10,
+            "lck": 0,
+            "def": 2,
+            "res": 0,
+            "con": 6,
+            "mov": 7
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 70,
+            "atk": 35,
+            "skl": 45,
+            "spd": 45,
+            "lck": 30,
+            "def": 15,
+            "res": 20
+        },
+        "rank": {}
+    },
+    "mercenaryf": {
+        "name": "Mercenary (F)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 16,
+            "atk": 3,
+            "skl": 5,
+            "spd": 6,
+            "lck": 0,
+            "def": 2,
+            "res": 0,
+            "con": 8,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 80,
+            "atk": 40,
+            "skl": 40,
+            "spd": 32,
+            "lck": 30,
+            "def": 18,
+            "res": 30
+        },
+        "rank": {
+            "sword": 31
+        }
+    },
+    "mercenarym": {
+        "name": "Mercenary (M)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 18,
+            "atk": 4,
+            "skl": 8,
+            "spd": 8,
+            "lck": 0,
+            "def": 4,
+            "res": 0,
+            "con": 9,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 80,
+            "atk": 40,
+            "skl": 40,
+            "spd": 32,
+            "lck": 30,
+            "def": 18,
+            "res": 20
+        },
+        "rank": {
+            "sword": 31
+        }
+    },
+    "mogall": {
+        "name": "Mogall",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 15,
+            "atk": 2,
+            "skl": 1,
+            "spd": 2,
+            "lck": 0,
+            "def": 2,
+            "res": 4,
+            "con": 4,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 50,
+            "atk": 45,
+            "skl": 32,
+            "spd": 30,
+            "lck": 30,
+            "def": 10,
+            "res": 28
+        },
+        "rank": {
+            "dark": 71
+        }
+    },
+    "monk": {
+        "name": "Monk",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 18,
+            "atk": 1,
+            "skl": 1,
+            "spd": 2,
+            "lck": 0,
+            "def": 1,
+            "res": 5,
+            "con": 6,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 50,
+            "atk": 30,
+            "skl": 35,
+            "spd": 32,
+            "lck": 45,
+            "def": 8,
+            "res": 40
+        },
+        "rank": {
+            "light": 1
+        }
+    },
+    "myrmidonf": {
+        "name": "Myrmidon (F)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 15,
+            "atk": 3,
+            "skl": 9,
+            "spd": 10,
+            "lck": 0,
+            "def": 1,
+            "res": 1,
+            "con": 5,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 70,
+            "atk": 35,
+            "skl": 40,
+            "spd": 40,
+            "lck": 30,
+            "def": 15,
+            "res": 20
+        },
+        "rank": {
+            "sword": 31
+        }
+    },
+    "myrmidonm": {
+        "name": "Myrmidon (M)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 16,
+            "atk": 4,
+            "skl": 9,
+            "spd": 9,
+            "lck": 0,
+            "def": 2,
+            "res": 0,
+            "con": 8,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 70,
+            "atk": 35,
+            "skl": 40,
+            "spd": 40,
+            "lck": 30,
+            "def": 15,
+            "res": 20
+        },
+        "rank": {
+            "sword": 31
+        }
+    },
+    "necromancer": {
+        "name": "Necromancer",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 18,
+            "atk": 9,
+            "skl": 4,
+            "spd": 5,
+            "lck": 0,
+            "def": 3,
+            "res": 8,
+            "con": 7,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 30,
+            "skl": 25,
+            "spd": 25,
+            "lck": 30,
+            "def": 30,
+            "res": 30,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 45,
+            "atk": 55,
+            "skl": 30,
+            "spd": 25,
+            "lck": 20,
+            "def": 10,
+            "res": 35
+        },
+        "rank": {
+            "dark": 251,
+            "staff": 251
+        }
+    },
+    "paladinf": {
+        "name": "Paladin (F)",
+        "mov": "mount",
+        "note": null,
+        "base": {
+            "hp": 23,
+            "atk": 6,
+            "skl": 6,
+            "spd": 11,
+            "lck": 0,
+            "def": 7,
+            "res": 6,
+            "con": 9,
+            "mov": 8
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 23,
+            "skl": 27,
+            "spd": 25,
+            "lck": 30,
+            "def": 24,
+            "res": 26,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 70,
+            "atk": 25,
+            "skl": 35,
+            "spd": 25,
+            "lck": 25,
+            "def": 12,
+            "res": 25
+        },
+        "promo_bonus": {
+            "hp": 1,
+            "atk": 1,
+            "skl": 1,
+            "spd": 2,
+            "def": 1,
+            "res": 2
+        },
+        "rank": {
+            "sword": 31,
+            "lance": 31
+        }
+    },
+    "paladinm": {
+        "name": "Paladin (M)",
+        "mov": "mount",
+        "note": null,
+        "base": {
+            "hp": 23,
+            "atk": 7,
+            "skl": 4,
+            "spd": 7,
+            "lck": 0,
+            "def": 8,
+            "res": 3,
+            "con": 11,
+            "mov": 8
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 25,
+            "skl": 26,
+            "spd": 24,
+            "lck": 30,
+            "def": 25,
+            "res": 25,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 70,
+            "atk": 25,
+            "skl": 30,
+            "spd": 18,
+            "lck": 25,
+            "def": 12,
+            "res": 20
+        },
+        "promo_bonus": {
+            "hp": 2,
+            "atk": 1,
+            "skl": 1,
+            "spd": 1,
+            "def": 2,
+            "res": 1
+        },
+        "rank": {
+            "sword": 31,
+            "lance": 31
+        }
+    },
+    "pegasusknight": {
+        "name": "Pegasus Knight",
+        "mov": "fly",
+        "note": null,
+        "base": {
+            "hp": 14,
+            "atk": 4,
+            "skl": 5,
+            "spd": 5,
+            "lck": 0,
+            "def": 3,
+            "res": 2,
+            "con": 5,
+            "mov": 7
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 65,
+            "atk": 35,
+            "skl": 40,
+            "spd": 40,
+            "lck": 35,
+            "def": 12,
+            "res": 35
+        },
+        "rank": {
+            "lance": 31
+        }
+    },
+    "phantom": {
+        "name": "Phantom",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 1,
+            "atk": 5,
+            "skl": 2,
+            "spd": 4,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "con": 11,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 0,
+            "res": 0,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 0,
+            "atk": 55,
+            "skl": 35,
+            "spd": 45,
+            "lck": 50,
+            "def": 15,
+            "res": 15
+        },
+        "rank": {
+            "axe": 71
+        }
+    },
+    "pirate": {
+        "name": "Pirate",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 19,
+            "atk": 4,
+            "skl": 2,
+            "spd": 6,
+            "lck": 0,
+            "def": 3,
+            "res": 0,
+            "con": 10,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 75,
+            "atk": 50,
+            "skl": 35,
+            "spd": 25,
+            "lck": 15,
+            "def": 10,
+            "res": 13
+        },
+        "promo_bonus": {
+            "hp": 2,
+            "atk": 2,
+            "skl": 0,
+            "spd": 1,
+            "def": 1,
+            "res": 0
+        },
+        "rank": {
+            "axe": 31
+        }
+    },
+    "pontifex": {
+        "name": "Pontifex",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 10,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "con": 8,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 10,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 10
+        },
+        "rank": {}
+    },
+    "priest": {
+        "name": "Priest",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 18,
+            "atk": 1,
+            "skl": 1,
+            "spd": 2,
+            "lck": 0,
+            "def": 1,
+            "res": 5,
+            "con": 5,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 50,
+            "atk": 30,
+            "skl": 35,
+            "spd": 32,
+            "lck": 45,
+            "def": 8,
+            "res": 50
+        },
+        "rank": {
+            "staff": 31
+        }
+    },
+    "pupil1": {
+        "name": "Pupil",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 13,
+            "atk": 1,
+            "skl": 0,
+            "spd": 1,
+            "lck": 0,
+            "def": 0,
+            "res": 3,
+            "con": 5,
+            "mov": 4
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 55,
+            "atk": 55,
+            "skl": 40,
+            "spd": 35,
+            "lck": 40,
+            "def": 10,
+            "res": 30
+        },
+        "rank": {
+            "anima": 1
+        }
+    },
+    "pupil2": {
+        "name": "Super Pupil",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 17,
+            "atk": 2,
+            "skl": 3,
+            "spd": 3,
+            "lck": 0,
+            "def": 3,
+            "res": 3,
+            "con": 5,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 55,
+            "atk": 55,
+            "skl": 40,
+            "spd": 35,
+            "lck": 40,
+            "def": 10,
+            "res": 30
+        },
+        "promo_bonus": {
+            "hp": 2,
+            "atk": 1,
+            "skl": 1,
+            "spd": 0,
+            "def": 2,
+            "res": 2
+        },
+        "rank": {
+            "anima": 31
+        }
+    },
+    "pupil3": {
+        "name": "Hyper Pupil",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 20,
+            "atk": 5,
+            "skl": 4,
+            "spd": 4,
+            "lck": 0,
+            "def": 5,
+            "res": 5,
+            "con": 5,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 29,
+            "skl": 28,
+            "spd": 27,
+            "lck": 30,
+            "def": 21,
+            "res": 26,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 55,
+            "atk": 55,
+            "skl": 40,
+            "spd": 35,
+            "lck": 40,
+            "def": 10,
+            "res": 30
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "atk": 2,
+            "skl": 0,
+            "spd": 1,
+            "def": 3,
+            "res": 3
+        },
+        "rank": {
+            "anima": 71,
+            "dark": 31,
+            "light": 1
+        }
+    },
+    "queen": {
+        "name": "Queen",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 10,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "con": 5,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 10,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 10
+        },
+        "rank": {}
+    },
+    "rangerf": {
+        "name": "Ranger (F)",
+        "mov": "mount",
+        "note": null,
+        "base": {
+            "hp": 21,
+            "atk": 6,
+            "skl": 6,
+            "spd": 7,
+            "lck": 0,
+            "def": 5,
+            "res": 4,
+            "con": 8,
+            "mov": 7
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 23,
+            "skl": 28,
+            "spd": 30,
+            "lck": 30,
+            "def": 22,
+            "res": 25,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 60,
+            "atk": 25,
+            "skl": 30,
+            "spd": 35,
+            "lck": 25,
+            "def": 15,
+            "res": 20
+        },
+        "promo_bonus": {
+            "hp": 2,
+            "atk": 2,
+            "skl": 2,
+            "spd": 1,
+            "def": 3,
+            "res": 3
+        },
+        "rank": {
+            "sword": 31,
+            "bow": 31
+        }
+    },
+    "rangerm": {
+        "name": "Ranger (M)",
+        "mov": "mount",
+        "note": null,
+        "base": {
+            "hp": 21,
+            "atk": 7,
+            "skl": 6,
+            "spd": 7,
+            "lck": 0,
+            "def": 6,
+            "res": 3,
+            "con": 9,
+            "mov": 7
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 25,
+            "skl": 28,
+            "spd": 30,
+            "lck": 30,
+            "def": 24,
+            "res": 23,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 60,
+            "atk": 25,
+            "skl": 30,
+            "spd": 35,
+            "lck": 25,
+            "def": 15,
+            "res": 15
+        },
+        "promo_bonus": {
+            "hp": 3,
+            "atk": 2,
+            "skl": 1,
+            "spd": 1,
+            "def": 3,
+            "res": 3
+        },
+        "rank": {
+            "sword": 31,
+            "bow": 31
+        }
+    },
+    "recruit1": {
+        "name": "Recruit",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 13,
+            "atk": 3,
+            "skl": 0,
+            "spd": 1,
+            "lck": 0,
+            "def": 0,
+            "res": 1,
+            "con": 6,
+            "mov": 4
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 75,
+            "atk": 45,
+            "skl": 40,
+            "spd": 40,
+            "lck": 40,
+            "def": 25,
+            "res": 35
+        },
+        "rank": {
+            "lance": 1
+        }
+    },
+    "recruit2": {
+        "name": "Super Recruit",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 18,
+            "atk": 5,
+            "skl": 3,
+            "spd": 3,
+            "lck": 0,
+            "def": 6,
+            "res": 0,
+            "con": 6,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 75,
+            "atk": 45,
+            "skl": 40,
+            "spd": 40,
+            "lck": 40,
+            "def": 25,
+            "res": 35
+        },
+        "promo_bonus": {
+            "hp": 2,
+            "atk": 1,
+            "skl": 1,
+            "spd": 1,
+            "def": 2,
+            "res": 1
+        },
+        "rank": {
+            "lance": 31
+        }
+    },
+    "recruit3": {
+        "name": "Hyper Recruit",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 23,
+            "atk": 6,
+            "skl": 6,
+            "spd": 11,
+            "lck": 0,
+            "def": 7,
+            "res": 6,
+            "con": 6,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 23,
+            "skl": 30,
+            "spd": 29,
+            "lck": 30,
+            "def": 22,
+            "res": 26,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 75,
+            "atk": 45,
+            "skl": 40,
+            "spd": 40,
+            "lck": 40,
+            "def": 25,
+            "res": 35
+        },
+        "promo_bonus": {
+            "hp": 2,
+            "atk": 2,
+            "skl": 1,
+            "spd": 1,
+            "def": 2,
+            "res": 1
+        },
+        "rank": {
+            "lance": 71
+        }
+    },
+    "revenant": {
+        "name": "Revenant",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 25,
+            "atk": 2,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "con": 6,
+            "mov": 4
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 95,
+            "atk": 50,
+            "skl": 30,
+            "spd": 20,
+            "lck": 10,
+            "def": 10,
+            "res": 13
+        },
+        "rank": {}
+    },
+    "rogue": {
+        "name": "Rogue",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 16,
+            "atk": 3,
+            "skl": 1,
+            "spd": 9,
+            "lck": 0,
+            "def": 2,
+            "res": 0,
+            "con": 7,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 30,
+            "spd": 30,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 50,
+            "atk": 10,
+            "skl": 45,
+            "spd": 35,
+            "lck": 40,
+            "def": 5,
+            "res": 20
+        },
+        "promo_bonus": {
+            "hp": 2,
+            "atk": 1,
+            "skl": 1,
+            "spd": 0,
+            "def": 2,
+            "res": 2
+        },
+        "rank": {
+            "sword": 1
+        }
+    },
+    "sagef": {
+        "name": "Sage (F)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 19,
+            "atk": 4,
+            "skl": 6,
+            "spd": 5,
+            "lck": 0,
+            "def": 3,
+            "res": 6,
+            "con": 4,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 30,
+            "skl": 28,
+            "spd": 26,
+            "lck": 30,
+            "def": 21,
+            "res": 25,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 45,
+            "atk": 45,
+            "skl": 30,
+            "spd": 25,
+            "lck": 15,
+            "def": 10,
+            "res": 40
+        },
+        "promo_bonus": {
+            "hp": 3,
+            "atk": 1,
+            "skl": 1,
+            "spd": 0,
+            "def": 3,
+            "res": 3
+        },
+        "rank": {
+            "anima": 71,
+            "light": 31,
+            "staff": 31
+        }
+    },
+    "sagem": {
+        "name": "Sage (M)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 20,
+            "atk": 5,
+            "skl": 4,
+            "spd": 4,
+            "lck": 0,
+            "def": 5,
+            "res": 5,
+            "con": 7,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 28,
+            "skl": 30,
+            "spd": 26,
+            "lck": 30,
+            "def": 21,
+            "res": 25,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 45,
+            "atk": 45,
+            "skl": 30,
+            "spd": 25,
+            "lck": 15,
+            "def": 10,
+            "res": 40
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "atk": 1,
+            "skl": 0,
+            "spd": 0,
+            "def": 3,
+            "res": 3
+        },
+        "rank": {
+            "anima": 71,
+            "light": 31,
+            "staff": 31
+        }
+    },
+    "shamanf": {
+        "name": "Shaman (F)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 15,
+            "atk": 3,
+            "skl": 1,
+            "spd": 1,
+            "lck": 0,
+            "def": 1,
+            "res": 5,
+            "con": 3,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 50,
+            "atk": 45,
+            "skl": 32,
+            "spd": 30,
+            "lck": 20,
+            "def": 10,
+            "res": 40
+        },
+        "rank": {
+            "dark": 31
+        }
+    },
+    "shamanm": {
+        "name": "Shaman (M)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 16,
+            "atk": 2,
+            "skl": 1,
+            "spd": 2,
+            "lck": 0,
+            "def": 2,
+            "res": 4,
+            "con": 7,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 50,
+            "atk": 50,
+            "skl": 32,
+            "spd": 30,
+            "lck": 20,
+            "def": 10,
+            "res": 30
+        },
+        "promo_bonus": {
+            "hp": 1,
+            "atk": 2,
+            "skl": 0,
+            "spd": 1,
+            "def": 1,
+            "res": 2
+        },
+        "rank": {
+            "dark": 31
+        }
+    },
+    "sniperf": {
+        "name": "Sniper (F)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 19,
+            "atk": 6,
+            "skl": 6,
+            "spd": 7,
+            "lck": 0,
+            "def": 5,
+            "res": 3,
+            "con": 6,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 24,
+            "skl": 30,
+            "spd": 29,
+            "lck": 30,
+            "def": 24,
+            "res": 24,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 65,
+            "atk": 30,
+            "skl": 30,
+            "spd": 20,
+            "lck": 30,
+            "def": 15,
+            "res": 25
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "atk": 3,
+            "skl": 1,
+            "spd": 1,
+            "def": 2,
+            "res": 2
+        },
+        "rank": {
+            "bow": 71
+        }
+    },
+    "sniperm": {
+        "name": "Sniper (M)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 21,
+            "atk": 7,
+            "skl": 6,
+            "spd": 5,
+            "lck": 0,
+            "def": 5,
+            "res": 2,
+            "con": 8,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 25,
+            "skl": 30,
+            "spd": 28,
+            "lck": 30,
+            "def": 25,
+            "res": 23,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 65,
+            "atk": 30,
+            "skl": 30,
+            "spd": 20,
+            "lck": 30,
+            "def": 15,
+            "res": 20
+        },
+        "promo_bonus": {
+            "hp": 3,
+            "atk": 1,
+            "skl": 2,
+            "spd": 2,
+            "def": 2,
+            "res": 3
+        },
+        "rank": {
+            "bow": 71
+        }
+    },
+    "soldier": {
+        "name": "Soldier",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 20,
+            "atk": 3,
+            "skl": 0,
+            "spd": 1,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "con": 6,
+            "mov": 5
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 80,
+            "atk": 50,
+            "skl": 30,
+            "spd": 20,
+            "lck": 25,
+            "def": 12,
+            "res": 15
+        },
+        "rank": {
+            "lance": 1
+        }
+    },
+    "summonerf": {
+        "name": "Summoner (F)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 18,
+            "atk": 5,
+            "skl": 3,
+            "spd": 4,
+            "lck": 0,
+            "def": 3,
+            "res": 5,
+            "con": 4,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 27,
+            "skl": 27,
+            "spd": 26,
+            "lck": 30,
+            "def": 20,
+            "res": 28,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 45,
+            "atk": 50,
+            "skl": 30,
+            "spd": 25,
+            "lck": 20,
+            "def": 8,
+            "res": 35
+        },
+        "rank": {
+            "dark": 71,
+            "staff": 1
+        }
+    },
+    "summonerm": {
+        "name": "Summoner (M)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 18,
+            "atk": 5,
+            "skl": 3,
+            "spd": 4,
+            "lck": 0,
+            "def": 3,
+            "res": 5,
+            "con": 8,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 27,
+            "skl": 27,
+            "spd": 26,
+            "lck": 30,
+            "def": 20,
+            "res": 28,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 45,
+            "atk": 50,
+            "skl": 30,
+            "spd": 25,
+            "lck": 20,
+            "def": 8,
+            "res": 35
+        },
+        "promo_bonus": {
+            "hp": 3,
+            "atk": 0,
+            "skl": 1,
+            "spd": 3,
+            "def": 1,
+            "res": 3
+        },
+        "rank": {
+            "dark": 71,
+            "staff": 1
+        }
+    },
+    "swordmasterf": {
+        "name": "Swordmaster (F)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 19,
+            "atk": 6,
+            "skl": 11,
+            "spd": 12,
+            "lck": 0,
+            "def": 4,
+            "res": 3,
+            "con": 7,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 22,
+            "skl": 29,
+            "spd": 30,
+            "lck": 30,
+            "def": 22,
+            "res": 25,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 65,
+            "atk": 25,
+            "skl": 30,
+            "spd": 30,
+            "lck": 25,
+            "def": 15,
+            "res": 22
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "atk": 2,
+            "skl": 1,
+            "spd": 0,
+            "def": 2,
+            "res": 1
+        },
+        "rank": {
+            "sword": 71
+        }
+    },
+    "swordmasterm": {
+        "name": "Swordmaster (M)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 21,
+            "atk": 6,
+            "skl": 11,
+            "spd": 10,
+            "lck": 0,
+            "def": 5,
+            "res": 2,
+            "con": 9,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 24,
+            "skl": 29,
+            "spd": 30,
+            "lck": 30,
+            "def": 22,
+            "res": 23,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 65,
+            "atk": 25,
+            "skl": 30,
+            "spd": 30,
+            "lck": 25,
+            "def": 15,
+            "res": 22
+        },
+        "promo_bonus": {
+            "hp": 5,
+            "atk": 2,
+            "skl": 0,
+            "spd": 0,
+            "def": 2,
+            "res": 1
+        },
+        "rank": {
+            "sword": 71
+        }
+    },
+    "tarvos": {
+        "name": "Tarvos",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 21,
+            "atk": 6,
+            "skl": 2,
+            "spd": 5,
+            "lck": 0,
+            "def": 7,
+            "res": 0,
+            "con": 10,
+            "mov": 7
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 80,
+            "atk": 35,
+            "skl": 40,
+            "spd": 28,
+            "lck": 10,
+            "def": 15,
+            "res": 15
+        },
+        "rank": {
+            "axe": 71
+        }
+    },
+    "thief": {
+        "name": "Thief",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 16,
+            "atk": 3,
+            "skl": 1,
+            "spd": 9,
+            "lck": 0,
+            "def": 2,
+            "res": 0,
+            "con": 6,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 50,
+            "atk": 5,
+            "skl": 45,
+            "spd": 40,
+            "lck": 40,
+            "def": 5,
+            "res": 20
+        },
+        "rank": {
+            "sword": 1
+        }
+    },
+    "troubadour": {
+        "name": "Troubadour",
+        "mov": "mount",
+        "note": null,
+        "base": {
+            "hp": 15,
+            "atk": 1,
+            "skl": 1,
+            "spd": 3,
+            "lck": 0,
+            "def": 2,
+            "res": 5,
+            "con": 5,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 50,
+            "atk": 25,
+            "skl": 35,
+            "spd": 55,
+            "lck": 45,
+            "def": 12,
+            "res": 40
+        },
+        "rank": {
+            "staff": 31
+        }
+    },
+    "valkyrie": {
+        "name": "Valkyrie",
+        "mov": "mount",
+        "note": null,
+        "base": {
+            "hp": 19,
+            "atk": 4,
+            "skl": 3,
+            "spd": 5,
+            "lck": 0,
+            "def": 4,
+            "res": 8,
+            "con": 6,
+            "mov": 7
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 25,
+            "skl": 24,
+            "spd": 25,
+            "lck": 30,
+            "def": 24,
+            "res": 28,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 45,
+            "atk": 35,
+            "skl": 25,
+            "spd": 45,
+            "lck": 40,
+            "def": 10,
+            "res": 40
+        },
+        "promo_bonus": {
+            "hp": 3,
+            "atk": 2,
+            "skl": 1,
+            "spd": 0,
+            "def": 2,
+            "res": 3
+        },
+        "rank": {
+            "light": 31,
+            "staff": 31
+        }
+    },
+    "warrior": {
+        "name": "Warrior",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 28,
+            "atk": 8,
+            "skl": 5,
+            "spd": 6,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "con": 13,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 30,
+            "skl": 28,
+            "spd": 26,
+            "lck": 30,
+            "def": 26,
+            "res": 22,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 80,
+            "atk": 45,
+            "skl": 25,
+            "spd": 20,
+            "lck": 15,
+            "def": 16,
+            "res": 17
+        },
+        "promo_bonus": {
+            "hp": 3,
+            "atk": 1,
+            "skl": 2,
+            "spd": 0,
+            "def": 3,
+            "res": 3
+        },
+        "rank": {
+            "axe": 71,
+            "bow": 1
+        }
+    },
+    "wight": {
+        "name": "Wight",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 21,
+            "atk": 7,
+            "skl": 5,
+            "spd": 6,
+            "lck": 0,
+            "def": 5,
+            "res": 2,
+            "con": 9,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 24,
+            "skl": 28,
+            "spd": 26,
+            "lck": 30,
+            "def": 22,
+            "res": 23,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 65,
+            "atk": 25,
+            "skl": 25,
+            "spd": 20,
+            "lck": 10,
+            "def": 15,
+            "res": 22
+        },
+        "rank": {
+            "sword": 181,
+            "lance": 181
+        }
+    },
+    "wightbow": {
+        "name": "Wight (Bow)",
+        "mov": null,
+        "note": null,
+        "base": {
+            "hp": 21,
+            "atk": 6,
+            "skl": 6,
+            "spd": 5,
+            "lck": 0,
+            "def": 5,
+            "res": 2,
+            "con": 8,
+            "mov": 6
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 25,
+            "skl": 30,
+            "spd": 28,
+            "lck": 30,
+            "def": 25,
+            "res": 23,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 65,
+            "atk": 30,
+            "skl": 30,
+            "spd": 20,
+            "lck": 10,
+            "def": 15,
+            "res": 20
+        },
+        "rank": {
+            "bow": 181
+        }
+    },
+    "wyvernknightf": {
+        "name": "Wyvern Knight (F)",
+        "mov": "fly",
+        "note": null,
+        "base": {
+            "hp": 19,
+            "atk": 6,
+            "skl": 8,
+            "spd": 9,
+            "lck": 0,
+            "def": 6,
+            "res": 2,
+            "con": 9,
+            "mov": 8
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 24,
+            "skl": 27,
+            "spd": 29,
+            "lck": 30,
+            "def": 23,
+            "res": 23,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 65,
+            "atk": 35,
+            "skl": 30,
+            "spd": 30,
+            "lck": 25,
+            "def": 15,
+            "res": 20
+        },
+        "promo_bonus": {
+            "hp": 3,
+            "atk": 2,
+            "skl": 1,
+            "spd": 2,
+            "def": 1,
+            "res": 1
+        },
+        "rank": {
+            "lance": 71
+        }
+    },
+    "wyvernknightm": {
+        "name": "Wyvern Knight (M)",
+        "mov": "fly",
+        "note": null,
+        "base": {
+            "hp": 20,
+            "atk": 7,
+            "skl": 7,
+            "spd": 8,
+            "lck": 0,
+            "def": 7,
+            "res": 1,
+            "con": 10,
+            "mov": 8
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 25,
+            "skl": 26,
+            "spd": 28,
+            "lck": 30,
+            "def": 24,
+            "res": 22,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 65,
+            "atk": 35,
+            "skl": 30,
+            "spd": 30,
+            "lck": 25,
+            "def": 15,
+            "res": 17
+        },
+        "promo_bonus": {
+            "hp": 3,
+            "atk": 1,
+            "skl": 2,
+            "spd": 3,
+            "def": 0,
+            "res": 1
+        },
+        "rank": {
+            "lance": 71
+        }
+    },
+    "wyvernlordf": {
+        "name": "Wyvern Lord (F)",
+        "mov": "fly",
+        "note": null,
+        "base": {
+            "hp": 24,
+            "atk": 8,
+            "skl": 7,
+            "spd": 7,
+            "lck": 0,
+            "def": 9,
+            "res": 2,
+            "con": 10,
+            "mov": 8
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 25,
+            "skl": 26,
+            "spd": 24,
+            "lck": 30,
+            "def": 27,
+            "res": 23,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 75,
+            "atk": 40,
+            "skl": 30,
+            "spd": 20,
+            "lck": 20,
+            "def": 20,
+            "res": 17
+        },
+        "rank": {
+            "sword": 31,
+            "lance": 71
+        }
+    },
+    "wyvernlordm": {
+        "name": "Wyvern Lord (M)",
+        "mov": "fly",
+        "note": null,
+        "base": {
+            "hp": 25,
+            "atk": 9,
+            "skl": 5,
+            "spd": 7,
+            "lck": 0,
+            "def": 10,
+            "res": 1,
+            "con": 11,
+            "mov": 8
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 27,
+            "skl": 25,
+            "spd": 23,
+            "lck": 30,
+            "def": 28,
+            "res": 22,
+            "con": 25,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 75,
+            "atk": 40,
+            "skl": 30,
+            "spd": 20,
+            "lck": 20,
+            "def": 20,
+            "res": 17
+        },
+        "promo_bonus": {
+            "hp": 4,
+            "atk": 2,
+            "skl": 2,
+            "spd": 0,
+            "def": 2,
+            "res": 0
+        },
+        "rank": {
+            "sword": 31,
+            "lance": 71
+        }
+    },
+    "wyvernriderf": {
+        "name": "Wyvern Rider (F)",
+        "mov": "fly",
+        "note": null,
+        "base": {
+            "hp": 19,
+            "atk": 6,
+            "skl": 5,
+            "spd": 5,
+            "lck": 0,
+            "def": 7,
+            "res": 0,
+            "con": 9,
+            "mov": 7
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 80,
+            "atk": 45,
+            "skl": 35,
+            "spd": 30,
+            "lck": 25,
+            "def": 25,
+            "res": 17
+        },
+        "rank": {
+            "lance": 31
+        }
+    },
+    "wyvernriderm": {
+        "name": "Wyvern Rider (M)",
+        "mov": "fly",
+        "note": null,
+        "base": {
+            "hp": 20,
+            "atk": 7,
+            "skl": 3,
+            "spd": 5,
+            "lck": 0,
+            "def": 8,
+            "res": 0,
+            "con": 10,
+            "mov": 7
+        },
+        "cap": {
+            "hp": 60,
+            "atk": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 30,
+            "def": 20,
+            "res": 20,
+            "con": 20,
+            "mov": 15
+        },
+        "growth": {
+            "hp": 80,
+            "atk": 45,
+            "skl": 35,
+            "spd": 30,
+            "lck": 25,
+            "def": 25,
+            "res": 15
+        },
+        "rank": {
+            "lance": 31
+        }
+    }
+}

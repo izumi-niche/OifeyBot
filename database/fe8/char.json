@@ -1,0 +1,2608 @@
+{
+    "amelia": {
+        "name": "Amelia",
+        "portrait": "amelia.png",
+        "job": "recruit1",
+        "lvl": 1,
+        "gender": "female",
+        "affinity": "thunder",
+        "note": false,
+        "promo": [
+            "cavalierf",
+            "knightf",
+            "recruit2"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 60,
+            "atk": 35,
+            "skl": 40,
+            "spd": 40,
+            "lck": 50,
+            "def": 30,
+            "res": 15
+        },
+        "rank": {
+            "lance": 1
+        },
+        "base": {
+            "hp": 3,
+            "atk": 1,
+            "skl": 3,
+            "spd": 3,
+            "lck": 6,
+            "def": 2,
+            "res": 2,
+            "con": 0
+        },
+        "support": {
+            "Neimi": {
+                "base": "15",
+                "growth": "+3",
+                "affinity": "fire"
+            },
+            "Duessel": {
+                "base": "10",
+                "growth": "+3",
+                "affinity": "anima"
+            },
+            "Ewan": {
+                "base": "5",
+                "growth": "+3",
+                "affinity": "light"
+            },
+            "Ross": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "fire"
+            },
+            "Franz": {
+                "base": "5",
+                "growth": "+3",
+                "affinity": "light"
+            }
+        }
+    },
+    "artur": {
+        "name": "Artur",
+        "portrait": "artur.png",
+        "job": "monk",
+        "lvl": 2,
+        "gender": "male",
+        "affinity": "ice",
+        "note": false,
+        "promo": [
+            "bishopm",
+            "sagem"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 55,
+            "atk": 50,
+            "skl": 50,
+            "spd": 40,
+            "lck": 25,
+            "def": 15,
+            "res": 55
+        },
+        "rank": {
+            "light": 1
+        },
+        "base": {
+            "hp": 1,
+            "atk": 5,
+            "skl": 5,
+            "spd": 6,
+            "lck": 2,
+            "def": 1,
+            "res": 1,
+            "con": 0
+        },
+        "support": {
+            "Lute": {
+                "base": "15",
+                "growth": "+3",
+                "affinity": "anima"
+            },
+            "Tethys": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "fire"
+            },
+            "Cormag": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "fire"
+            },
+            "Neimi": {
+                "base": "5",
+                "growth": "+3",
+                "affinity": "fire"
+            },
+            "Joshua": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "wind"
+            }
+        }
+    },
+    "caellachcc": {
+        "name": "Caellach (Creature Campaign)",
+        "portrait": "caellach.png",
+        "job": "herom",
+        "lvl": 12,
+        "gender": "male",
+        "affinity": "thunder",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 85,
+            "atk": 50,
+            "skl": 45,
+            "spd": 45,
+            "lck": 20,
+            "def": 30,
+            "res": 20
+        },
+        "rank": {
+            "sword": 181,
+            "axe": 181
+        },
+        "base": {
+            "hp": 25,
+            "atk": 13,
+            "skl": 5,
+            "spd": 3,
+            "lck": 14,
+            "def": 7,
+            "res": 11,
+            "con": 2
+        },
+        "support": {}
+    },
+    "colm": {
+        "name": "Colm",
+        "portrait": "colm.png",
+        "job": "thief",
+        "lvl": 2,
+        "gender": "male",
+        "affinity": "light",
+        "note": false,
+        "promo": [
+            "rogue",
+            "assassinm"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 75,
+            "atk": 40,
+            "skl": 40,
+            "spd": 65,
+            "lck": 45,
+            "def": 25,
+            "res": 20
+        },
+        "rank": {
+            "sword": 1
+        },
+        "base": {
+            "hp": 2,
+            "atk": 1,
+            "skl": 3,
+            "spd": 1,
+            "lck": 8,
+            "def": 1,
+            "res": 1,
+            "con": 0
+        },
+        "support": {
+            "Neimi": {
+                "base": "80",
+                "growth": "+3",
+                "affinity": "fire"
+            },
+            "Marisa": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "ice"
+            },
+            "Rennac": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "dark"
+            },
+            "Moulder": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "anima"
+            },
+            "Kyle": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "ice"
+            }
+        }
+    },
+    "cormag": {
+        "name": "Cormag (Eirika Route)",
+        "portrait": "cormag.png",
+        "job": "wyvernriderm",
+        "lvl": 11,
+        "gender": "male",
+        "affinity": "fire",
+        "note": false,
+        "promo": [
+            "wyvernlordm",
+            "wyvernknightm"
+        ],
+        "alt": [
+            "cormage"
+        ],
+        "growth": {
+            "hp": 85,
+            "atk": 55,
+            "skl": 40,
+            "spd": 45,
+            "lck": 35,
+            "def": 25,
+            "res": 15
+        },
+        "rank": {
+            "lance": 71
+        },
+        "base": {
+            "hp": 12,
+            "atk": 8,
+            "skl": 7,
+            "spd": 6,
+            "lck": 5,
+            "def": 5,
+            "res": 3,
+            "con": 1
+        },
+        "support": {
+            "Duessel": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "anima"
+            },
+            "Tana": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "wind"
+            },
+            "Natasha": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "ice"
+            },
+            "Artur": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "ice"
+            },
+            "Seth": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "anima"
+            }
+        }
+    },
+    "cormage": {
+        "name": "Cormag (Ephraim Route)",
+        "portrait": "cormag.png",
+        "job": "wyvernriderm",
+        "lvl": 9,
+        "gender": "male",
+        "affinity": "fire",
+        "note": false,
+        "promo": [
+            "wyvernlordm",
+            "wyvernknightm"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 85,
+            "atk": 55,
+            "skl": 40,
+            "spd": 45,
+            "lck": 35,
+            "def": 25,
+            "res": 15
+        },
+        "rank": {
+            "lance": 71
+        },
+        "base": {
+            "hp": 10,
+            "atk": 7,
+            "skl": 6,
+            "spd": 5,
+            "lck": 4,
+            "def": 4,
+            "res": 2,
+            "con": 1
+        },
+        "IGNORE": true,
+        "RANDOM_IGNORE": true,
+        "support": {}
+    },
+    "dozla": {
+        "name": "Dozla",
+        "portrait": "dozla.png",
+        "job": "berserker",
+        "lvl": 1,
+        "gender": "male",
+        "affinity": "thunder",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 85,
+            "atk": 50,
+            "skl": 35,
+            "spd": 40,
+            "lck": 30,
+            "def": 30,
+            "res": 25
+        },
+        "rank": {
+            "axe": 121
+        },
+        "base": {
+            "hp": 19,
+            "atk": 9,
+            "skl": 5,
+            "spd": 2,
+            "lck": 4,
+            "def": 5,
+            "res": 6,
+            "con": 3
+        },
+        "support": {
+            "L'Arachel": {
+                "base": "25",
+                "growth": "+3",
+                "affinity": "light"
+            },
+            "Myrrh": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "wind"
+            },
+            "Rennac": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "dark"
+            },
+            "Ewan": {
+                "base": "0",
+                "growth": "+3",
+                "affinity": "light"
+            },
+            "Garcia": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "fire"
+            }
+        }
+    },
+    "duessel": {
+        "name": "Duessel (Eirika Route)",
+        "portrait": "duessel.png",
+        "job": "greatknightm",
+        "lvl": 10,
+        "gender": "male",
+        "affinity": "anima",
+        "note": false,
+        "promo": [],
+        "alt": [
+            "duessele"
+        ],
+        "growth": {
+            "hp": 85,
+            "atk": 55,
+            "skl": 40,
+            "spd": 30,
+            "lck": 20,
+            "def": 45,
+            "res": 30
+        },
+        "rank": {
+            "sword": 181,
+            "lance": 181,
+            "axe": 181
+        },
+        "base": {
+            "hp": 22,
+            "atk": 10,
+            "skl": 9,
+            "spd": 7,
+            "lck": 8,
+            "def": 7,
+            "res": 7,
+            "con": 2
+        },
+        "support": {
+            "Cormag": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "fire"
+            },
+            "Amelia": {
+                "base": "10",
+                "growth": "+3",
+                "affinity": "thunder"
+            },
+            "Knoll": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "dark"
+            },
+            "Ephraim": {
+                "base": "30",
+                "growth": "+3",
+                "affinity": "fire"
+            }
+        }
+    },
+    "duessele": {
+        "name": "Duessel (Ephraim Route)",
+        "portrait": "duessel.png",
+        "job": "greatknightm",
+        "lvl": 8,
+        "gender": "male",
+        "affinity": "anima",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 85,
+            "atk": 55,
+            "skl": 40,
+            "spd": 30,
+            "lck": 20,
+            "def": 45,
+            "res": 30
+        },
+        "rank": {
+            "sword": 181,
+            "lance": 181,
+            "axe": 181
+        },
+        "base": {
+            "hp": 20,
+            "atk": 9,
+            "skl": 8,
+            "spd": 6,
+            "lck": 8,
+            "def": 6,
+            "res": 6,
+            "con": 2
+        },
+        "IGNORE": true,
+        "RANDOM_IGNORE": true,
+        "support": {}
+    },
+    "eirika": {
+        "name": "Eirika",
+        "portrait": "eirika.png",
+        "job": "lordf",
+        "lvl": 1,
+        "gender": "female",
+        "affinity": "light",
+        "note": false,
+        "promo": [
+            "greatlordf"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 70,
+            "atk": 40,
+            "skl": 60,
+            "spd": 60,
+            "lck": 60,
+            "def": 30,
+            "res": 30
+        },
+        "rank": {
+            "sword": 1
+        },
+        "base": {
+            "hp": 0,
+            "atk": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 5,
+            "def": 0,
+            "res": 0,
+            "con": 0
+        },
+        "support": {
+            "Ephraim": {
+                "base": "30",
+                "growth": "+4",
+                "affinity": "fire"
+            },
+            "Seth": {
+                "base": "25",
+                "growth": "+3",
+                "affinity": "anima"
+            },
+            "Saleh": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "wind"
+            },
+            "L'Arachel": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "light"
+            },
+            "Tana": {
+                "base": "20",
+                "growth": "+2",
+                "affinity": "wind"
+            },
+            "Innes": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "ice"
+            },
+            "Forde": {
+                "base": "20",
+                "growth": "+2",
+                "affinity": "wind"
+            }
+        }
+    },
+    "ephraim": {
+        "name": "Ephraim",
+        "portrait": "ephraim.png",
+        "job": "lordm",
+        "lvl": 4,
+        "gender": "male",
+        "affinity": "fire",
+        "note": false,
+        "promo": [
+            "greatlordm"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 80,
+            "atk": 55,
+            "skl": 55,
+            "spd": 45,
+            "lck": 50,
+            "def": 35,
+            "res": 25
+        },
+        "rank": {
+            "lance": 31
+        },
+        "base": {
+            "hp": 5,
+            "atk": 2,
+            "skl": 3,
+            "spd": 4,
+            "lck": 8,
+            "def": 1,
+            "res": 2,
+            "con": 0
+        },
+        "support": {
+            "Eirika": {
+                "base": "30",
+                "growth": "+4",
+                "affinity": "light"
+            },
+            "Kyle": {
+                "base": "20",
+                "growth": "+3",
+                "affinity": "ice"
+            },
+            "Forde": {
+                "base": "20",
+                "growth": "+3",
+                "affinity": "wind"
+            },
+            "Myrrh": {
+                "base": "10",
+                "growth": "+4",
+                "affinity": "wind"
+            },
+            "L'Arachel": {
+                "base": "5",
+                "growth": "+3",
+                "affinity": "light"
+            },
+            "Duessel": {
+                "base": "30",
+                "growth": "+3",
+                "affinity": "anima"
+            },
+            "Tana": {
+                "base": "25",
+                "growth": "+3",
+                "affinity": "wind"
+            }
+        }
+    },
+    "ewan": {
+        "name": "Ewan",
+        "portrait": "ewan.png",
+        "job": "pupil1",
+        "lvl": 1,
+        "gender": "male",
+        "affinity": "light",
+        "note": false,
+        "promo": [
+            "magem",
+            "shamanm",
+            "pupil2"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 50,
+            "atk": 45,
+            "skl": 40,
+            "spd": 35,
+            "lck": 50,
+            "def": 15,
+            "res": 40
+        },
+        "rank": {
+            "anima": 1
+        },
+        "base": {
+            "hp": 2,
+            "atk": 2,
+            "skl": 2,
+            "spd": 4,
+            "lck": 5,
+            "def": 0,
+            "res": 0,
+            "con": 0
+        },
+        "support": {
+            "Tethys": {
+                "base": "25",
+                "growth": "+3",
+                "affinity": "fire"
+            },
+            "Saleh": {
+                "base": "15",
+                "growth": "+3",
+                "affinity": "wind"
+            },
+            "Dozla": {
+                "base": "0",
+                "growth": "+3",
+                "affinity": "thunder"
+            },
+            "Amelia": {
+                "base": "5",
+                "growth": "+3",
+                "affinity": "thunder"
+            },
+            "Ross": {
+                "base": "5",
+                "growth": "+3",
+                "affinity": "fire"
+            }
+        }
+    },
+    "fado": {
+        "name": "Fado",
+        "portrait": "fado.png",
+        "job": "generalm",
+        "lvl": 11,
+        "gender": "male",
+        "affinity": "fire",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 85,
+            "atk": 55,
+            "skl": 40,
+            "spd": 30,
+            "lck": 25,
+            "def": 45,
+            "res": 25
+        },
+        "rank": {
+            "sword": 181,
+            "lance": 181,
+            "axe": 181
+        },
+        "base": {
+            "hp": 25,
+            "atk": 12,
+            "skl": 10,
+            "spd": 9,
+            "lck": 5,
+            "def": 5,
+            "res": 8,
+            "con": 3
+        },
+        "support": {}
+    },
+    "forde": {
+        "name": "Forde",
+        "portrait": "forde.png",
+        "job": "cavalierm",
+        "lvl": 6,
+        "gender": "male",
+        "affinity": "wind",
+        "note": false,
+        "promo": [
+            "paladinm",
+            "greatknightm"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 85,
+            "atk": 40,
+            "skl": 50,
+            "spd": 45,
+            "lck": 35,
+            "def": 20,
+            "res": 25
+        },
+        "rank": {
+            "sword": 31,
+            "lance": 71
+        },
+        "base": {
+            "hp": 4,
+            "atk": 2,
+            "skl": 6,
+            "spd": 3,
+            "lck": 7,
+            "def": 2,
+            "res": 2,
+            "con": 0
+        },
+        "support": {
+            "Kyle": {
+                "base": "30",
+                "growth": "+3",
+                "affinity": "ice"
+            },
+            "Vanessa": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "anima"
+            },
+            "Ephraim": {
+                "base": "20",
+                "growth": "+3",
+                "affinity": "fire"
+            },
+            "Franz": {
+                "base": "25",
+                "growth": "+3",
+                "affinity": "light"
+            },
+            "Eirika": {
+                "base": "20",
+                "growth": "+2",
+                "affinity": "light"
+            }
+        }
+    },
+    "franz": {
+        "name": "Franz",
+        "portrait": "franz.png",
+        "job": "cavalierm",
+        "lvl": 1,
+        "gender": "male",
+        "affinity": "light",
+        "note": false,
+        "promo": [
+            "paladinm",
+            "greatknightm"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 80,
+            "atk": 40,
+            "skl": 40,
+            "spd": 50,
+            "lck": 40,
+            "def": 25,
+            "res": 20
+        },
+        "rank": {
+            "sword": 1,
+            "lance": 31
+        },
+        "base": {
+            "hp": 0,
+            "atk": 2,
+            "skl": 3,
+            "spd": 2,
+            "lck": 2,
+            "def": 0,
+            "res": 1,
+            "con": 0
+        },
+        "support": {
+            "Seth": {
+                "base": "15",
+                "growth": "+2",
+                "affinity": "anima"
+            },
+            "Gilliam": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "thunder"
+            },
+            "Forde": {
+                "base": "25",
+                "growth": "+3",
+                "affinity": "wind"
+            },
+            "Amelia": {
+                "base": "5",
+                "growth": "+3",
+                "affinity": "thunder"
+            },
+            "Natasha": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "ice"
+            }
+        }
+    },
+    "garcia": {
+        "name": "Garcia",
+        "portrait": "garcia.png",
+        "job": "fighter",
+        "lvl": 4,
+        "gender": "male",
+        "affinity": "fire",
+        "note": false,
+        "promo": [
+            "herom",
+            "warrior"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 80,
+            "atk": 65,
+            "skl": 40,
+            "spd": 20,
+            "lck": 40,
+            "def": 25,
+            "res": 15
+        },
+        "rank": {
+            "axe": 71
+        },
+        "base": {
+            "hp": 8,
+            "atk": 3,
+            "skl": 5,
+            "spd": 3,
+            "lck": 3,
+            "def": 3,
+            "res": 1,
+            "con": 3
+        },
+        "support": {
+            "Ross": {
+                "base": "35",
+                "growth": "+4",
+                "affinity": "fire"
+            },
+            "Dozla": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "thunder"
+            },
+            "Seth": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "anima"
+            },
+            "Neimi": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "fire"
+            },
+            "Gilliam": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "thunder"
+            }
+        }
+    },
+    "gerik": {
+        "name": "Gerik",
+        "portrait": "gerik.png",
+        "job": "mercenarym",
+        "lvl": 10,
+        "gender": "male",
+        "affinity": "thunder",
+        "note": false,
+        "promo": [
+            "herom",
+            "rangerm"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 90,
+            "atk": 45,
+            "skl": 40,
+            "spd": 30,
+            "lck": 30,
+            "def": 35,
+            "res": 25
+        },
+        "rank": {
+            "sword": 71
+        },
+        "base": {
+            "hp": 14,
+            "atk": 10,
+            "skl": 5,
+            "spd": 5,
+            "lck": 8,
+            "def": 6,
+            "res": 4,
+            "con": 4
+        },
+        "support": {
+            "Innes": {
+                "base": "15",
+                "growth": "+3",
+                "affinity": "ice"
+            },
+            "Tethys": {
+                "base": "30",
+                "growth": "+4",
+                "affinity": "fire"
+            },
+            "Marisa": {
+                "base": "20",
+                "growth": "+3",
+                "affinity": "ice"
+            },
+            "Saleh": {
+                "base": "25",
+                "growth": "+3",
+                "affinity": "wind"
+            },
+            "Joshua": {
+                "base": "15",
+                "growth": "+3",
+                "affinity": "wind"
+            },
+            "Ross": {
+                "base": "0",
+                "growth": "+3",
+                "affinity": "fire"
+            }
+        }
+    },
+    "gilliam": {
+        "name": "Gilliam",
+        "portrait": "gilliam.png",
+        "job": "knightm",
+        "lvl": 4,
+        "gender": "male",
+        "affinity": "thunder",
+        "note": false,
+        "promo": [
+            "generalm",
+            "greatknightm"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 90,
+            "atk": 45,
+            "skl": 35,
+            "spd": 30,
+            "lck": 30,
+            "def": 55,
+            "res": 20
+        },
+        "rank": {
+            "lance": 71
+        },
+        "base": {
+            "hp": 8,
+            "atk": 4,
+            "skl": 4,
+            "spd": 3,
+            "lck": 3,
+            "def": 0,
+            "res": 3,
+            "con": 1
+        },
+        "support": {
+            "Garcia": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "fire"
+            },
+            "Franz": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "light"
+            },
+            "Syrene": {
+                "base": "20",
+                "growth": "+3",
+                "affinity": "thunder"
+            },
+            "Moulder": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "anima"
+            },
+            "Neimi": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "fire"
+            }
+        }
+    },
+    "glen": {
+        "name": "Glen",
+        "portrait": "glen.png",
+        "job": "wyvernlordm",
+        "lvl": 12,
+        "gender": "male",
+        "affinity": "wind",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 85,
+            "atk": 45,
+            "skl": 50,
+            "spd": 45,
+            "lck": 20,
+            "def": 35,
+            "res": 40
+        },
+        "rank": {
+            "sword": 181,
+            "lance": 181
+        },
+        "base": {
+            "hp": 21,
+            "atk": 11,
+            "skl": 12,
+            "spd": 6,
+            "lck": 7,
+            "def": 8,
+            "res": 4,
+            "con": 1
+        },
+        "support": {}
+    },
+    "hayden": {
+        "name": "Hayden",
+        "portrait": "hayden.png",
+        "job": "rangerm",
+        "lvl": 10,
+        "gender": "male",
+        "affinity": "anima",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 70,
+            "atk": 40,
+            "skl": 45,
+            "spd": 45,
+            "lck": 40,
+            "def": 25,
+            "res": 25
+        },
+        "rank": {
+            "sword": 181,
+            "bow": 181
+        },
+        "base": {
+            "hp": 16,
+            "atk": 10,
+            "skl": 8,
+            "spd": 8,
+            "lck": 17,
+            "def": 6,
+            "res": 9,
+            "con": 1
+        },
+        "support": {}
+    },
+    "innes": {
+        "name": "Innes (Eirika Route)",
+        "portrait": "innes.png",
+        "job": "sniperm",
+        "lvl": 1,
+        "gender": "male",
+        "affinity": "ice",
+        "note": false,
+        "promo": [],
+        "alt": [
+            "innesephraim"
+        ],
+        "growth": {
+            "hp": 75,
+            "atk": 40,
+            "skl": 40,
+            "spd": 45,
+            "lck": 45,
+            "def": 20,
+            "res": 25
+        },
+        "rank": {
+            "bow": 181
+        },
+        "base": {
+            "hp": 10,
+            "atk": 7,
+            "skl": 7,
+            "spd": 10,
+            "lck": 11,
+            "def": 5,
+            "res": 7,
+            "con": 1
+        },
+        "support": {
+            "Gerik": {
+                "base": "15",
+                "growth": "+3",
+                "affinity": "thunder"
+            },
+            "Vanessa": {
+                "base": "10",
+                "growth": "+3",
+                "affinity": "anima"
+            },
+            "Tana": {
+                "base": "25",
+                "growth": "+3",
+                "affinity": "wind"
+            },
+            "Joshua": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "wind"
+            },
+            "L'Arachel": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "light"
+            },
+            "Eirika": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "light"
+            }
+        }
+    },
+    "innesephraim": {
+        "name": "Innes (Ephraim Route)",
+        "portrait": "innes.png",
+        "job": "sniperm",
+        "lvl": 3,
+        "gender": "male",
+        "affinity": "ice",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 75,
+            "atk": 40,
+            "skl": 40,
+            "spd": 45,
+            "lck": 45,
+            "def": 20,
+            "res": 25
+        },
+        "rank": {
+            "bow": 181
+        },
+        "base": {
+            "hp": 12,
+            "atk": 8,
+            "skl": 8,
+            "spd": 11,
+            "lck": 12,
+            "def": 5,
+            "res": 8,
+            "con": 1
+        },
+        "IGNORE": true,
+        "RANDOM_IGNORE": true,
+        "support": {}
+    },
+    "ismaire": {
+        "name": "Ismaire",
+        "portrait": "ismaire.png",
+        "job": "swordmasterf",
+        "lvl": 9,
+        "gender": "female",
+        "affinity": "wind",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 75,
+            "atk": 30,
+            "skl": 60,
+            "spd": 55,
+            "lck": 30,
+            "def": 20,
+            "res": 25
+        },
+        "rank": {
+            "sword": 181
+        },
+        "base": {
+            "hp": 14,
+            "atk": 10,
+            "skl": 9,
+            "spd": 11,
+            "lck": 12,
+            "def": 4,
+            "res": 12,
+            "con": 0
+        },
+        "support": {}
+    },
+    "joshua": {
+        "name": "Joshua",
+        "portrait": "joshua.png",
+        "job": "myrmidonm",
+        "lvl": 5,
+        "gender": "male",
+        "affinity": "wind",
+        "note": false,
+        "promo": [
+            "swordmasterm",
+            "assassinm"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 80,
+            "atk": 35,
+            "skl": 55,
+            "spd": 55,
+            "lck": 30,
+            "def": 20,
+            "res": 20
+        },
+        "rank": {
+            "sword": 71
+        },
+        "base": {
+            "hp": 8,
+            "atk": 4,
+            "skl": 4,
+            "spd": 5,
+            "lck": 7,
+            "def": 3,
+            "res": 2,
+            "con": 0
+        },
+        "support": {
+            "Natasha": {
+                "base": "20",
+                "growth": "+3",
+                "affinity": "ice"
+            },
+            "Innes": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "ice"
+            },
+            "Artur": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "ice"
+            },
+            "L'Arachel": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "light"
+            },
+            "Marisa": {
+                "base": "10",
+                "growth": "+3",
+                "affinity": "ice"
+            },
+            "Gerik": {
+                "base": "15",
+                "growth": "+3",
+                "affinity": "thunder"
+            }
+        }
+    },
+    "knoll": {
+        "name": "Knoll",
+        "portrait": "knoll.png",
+        "job": "shamanm",
+        "lvl": 10,
+        "gender": "male",
+        "affinity": "dark",
+        "note": false,
+        "promo": [
+            "druidm",
+            "summonerm"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 70,
+            "atk": 50,
+            "skl": 40,
+            "spd": 35,
+            "lck": 20,
+            "def": 10,
+            "res": 45
+        },
+        "rank": {
+            "dark": 71
+        },
+        "base": {
+            "hp": 6,
+            "atk": 11,
+            "skl": 8,
+            "spd": 6,
+            "lck": 0,
+            "def": 0,
+            "res": 6,
+            "con": 0
+        },
+        "support": {
+            "Natasha": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "ice"
+            },
+            "Duessel": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "anima"
+            },
+            "Lute": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "anima"
+            }
+        }
+    },
+    "kyle": {
+        "name": "Kyle",
+        "portrait": "kyle.png",
+        "job": "cavalierm",
+        "lvl": 5,
+        "gender": "male",
+        "affinity": "ice",
+        "note": false,
+        "promo": [
+            "paladinm",
+            "greatknightm"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 90,
+            "atk": 50,
+            "skl": 40,
+            "spd": 40,
+            "lck": 20,
+            "def": 25,
+            "res": 20
+        },
+        "rank": {
+            "sword": 31,
+            "lance": 71
+        },
+        "base": {
+            "hp": 5,
+            "atk": 4,
+            "skl": 4,
+            "spd": 2,
+            "lck": 6,
+            "def": 3,
+            "res": 1,
+            "con": 1
+        },
+        "support": {
+            "Forde": {
+                "base": "30",
+                "growth": "+3",
+                "affinity": "wind"
+            },
+            "Ephraim": {
+                "base": "20",
+                "growth": "+3",
+                "affinity": "fire"
+            },
+            "Syrene": {
+                "base": "5",
+                "growth": "+3",
+                "affinity": "thunder"
+            },
+            "Colm": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "light"
+            },
+            "Lute": {
+                "base": "5",
+                "growth": "+3",
+                "affinity": "anima"
+            }
+        }
+    },
+    "larachel": {
+        "name": "L'Arachel",
+        "portrait": "larachel.png",
+        "job": "troubadour",
+        "lvl": 3,
+        "gender": "female",
+        "affinity": "light",
+        "note": false,
+        "promo": [
+            "mageknightf",
+            "valkyrie"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 45,
+            "atk": 50,
+            "skl": 45,
+            "spd": 45,
+            "lck": 65,
+            "def": 15,
+            "res": 50
+        },
+        "rank": {
+            "staff": 31
+        },
+        "base": {
+            "hp": 3,
+            "atk": 5,
+            "skl": 5,
+            "spd": 7,
+            "lck": 12,
+            "def": 3,
+            "res": 3,
+            "con": 0
+        },
+        "support": {
+            "Dozla": {
+                "base": "25",
+                "growth": "+3",
+                "affinity": "thunder"
+            },
+            "Rennac": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "dark"
+            },
+            "Joshua": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "wind"
+            },
+            "Eirika": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "light"
+            },
+            "Ephraim": {
+                "base": "5",
+                "growth": "+3",
+                "affinity": "fire"
+            },
+            "Innes": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "ice"
+            }
+        }
+    },
+    "lute": {
+        "name": "Lute",
+        "portrait": "lute.png",
+        "job": "magef",
+        "lvl": 1,
+        "gender": "female",
+        "affinity": "anima",
+        "note": false,
+        "promo": [
+            "mageknightf",
+            "sagef"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 45,
+            "atk": 65,
+            "skl": 30,
+            "spd": 45,
+            "lck": 45,
+            "def": 15,
+            "res": 40
+        },
+        "rank": {
+            "anima": 71
+        },
+        "base": {
+            "hp": 1,
+            "atk": 5,
+            "skl": 3,
+            "spd": 5,
+            "lck": 8,
+            "def": 1,
+            "res": 1,
+            "con": 0
+        },
+        "support": {
+            "Artur": {
+                "base": "15",
+                "growth": "+3",
+                "affinity": "ice"
+            },
+            "Ross": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "fire"
+            },
+            "Knoll": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "dark"
+            },
+            "Kyle": {
+                "base": "5",
+                "growth": "+3",
+                "affinity": "ice"
+            },
+            "Vanessa": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "anima"
+            }
+        }
+    },
+    "lyoncc": {
+        "name": "Lyon (Creature Campaign)",
+        "portrait": "lyon.png",
+        "job": "necromancer",
+        "lvl": 14,
+        "gender": "male",
+        "affinity": "ice",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 85,
+            "atk": 50,
+            "skl": 55,
+            "spd": 55,
+            "lck": 30,
+            "def": 45,
+            "res": 55
+        },
+        "rank": {
+            "dark": 251,
+            "staff": 181
+        },
+        "base": {
+            "hp": 26,
+            "atk": 13,
+            "skl": 9,
+            "spd": 6,
+            "lck": 4,
+            "def": 14,
+            "res": 11,
+            "con": 0
+        },
+        "support": {}
+    },
+    "marisa": {
+        "name": "Marisa",
+        "portrait": "marisa.png",
+        "job": "myrmidonf",
+        "lvl": 5,
+        "gender": "female",
+        "affinity": "ice",
+        "note": false,
+        "promo": [
+            "swordmasterf",
+            "assassinf"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 75,
+            "atk": 30,
+            "skl": 55,
+            "spd": 60,
+            "lck": 50,
+            "def": 15,
+            "res": 25
+        },
+        "rank": {
+            "sword": 31
+        },
+        "base": {
+            "hp": 8,
+            "atk": 4,
+            "skl": 3,
+            "spd": 3,
+            "lck": 9,
+            "def": 3,
+            "res": 2,
+            "con": 0
+        },
+        "support": {
+            "Tana": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "wind"
+            },
+            "Tethys": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "fire"
+            },
+            "Gerik": {
+                "base": "20",
+                "growth": "+3",
+                "affinity": "thunder"
+            },
+            "Joshua": {
+                "base": "10",
+                "growth": "+3",
+                "affinity": "wind"
+            },
+            "Colm": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "light"
+            }
+        }
+    },
+    "moulder": {
+        "name": "Moulder",
+        "portrait": "moulder.png",
+        "job": "priest",
+        "lvl": 3,
+        "gender": "male",
+        "affinity": "anima",
+        "note": false,
+        "promo": [
+            "bishopm",
+            "sagem"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 70,
+            "atk": 40,
+            "skl": 50,
+            "spd": 40,
+            "lck": 20,
+            "def": 25,
+            "res": 25
+        },
+        "rank": {
+            "staff": 71
+        },
+        "base": {
+            "hp": 2,
+            "atk": 3,
+            "skl": 5,
+            "spd": 7,
+            "lck": 1,
+            "def": 1,
+            "res": 0,
+            "con": 4
+        },
+        "support": {
+            "Vanessa": {
+                "base": "15",
+                "growth": "+2",
+                "affinity": "anima"
+            },
+            "Colm": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "light"
+            },
+            "Gilliam": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "thunder"
+            },
+            "Syrene": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "thunder"
+            }
+        }
+    },
+    "myrrh": {
+        "name": "Myrrh",
+        "portrait": "myrrh.png",
+        "job": "manaketef",
+        "lvl": 1,
+        "gender": "female",
+        "affinity": "wind",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 130,
+            "atk": 90,
+            "skl": 85,
+            "spd": 65,
+            "lck": 30,
+            "def": 150,
+            "res": 30
+        },
+        "rank": {},
+        "base": {
+            "hp": 3,
+            "atk": 3,
+            "skl": 1,
+            "spd": 3,
+            "lck": 3,
+            "def": 0,
+            "res": 5,
+            "con": 0
+        },
+        "support": {
+            "Saleh": {
+                "base": "30",
+                "growth": "+3",
+                "affinity": "wind"
+            },
+            "Dozla": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "thunder"
+            },
+            "Ephraim": {
+                "base": "10",
+                "growth": "+4",
+                "affinity": "fire"
+            }
+        }
+    },
+    "natasha": {
+        "name": "Natasha",
+        "portrait": "natasha.png",
+        "job": "cleric",
+        "lvl": 1,
+        "gender": "female",
+        "affinity": "ice",
+        "note": false,
+        "promo": [
+            "bishopf",
+            "valkyrie"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 50,
+            "atk": 60,
+            "skl": 25,
+            "spd": 40,
+            "lck": 60,
+            "def": 15,
+            "res": 55
+        },
+        "rank": {
+            "staff": 31
+        },
+        "base": {
+            "hp": 2,
+            "atk": 1,
+            "skl": 2,
+            "spd": 6,
+            "lck": 6,
+            "def": 2,
+            "res": 0,
+            "con": 0
+        },
+        "support": {
+            "Joshua": {
+                "base": "20",
+                "growth": "+3",
+                "affinity": "wind"
+            },
+            "Knoll": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "dark"
+            },
+            "Cormag": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "fire"
+            },
+            "Seth": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "anima"
+            },
+            "Franz": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "light"
+            }
+        }
+    },
+    "neimi": {
+        "name": "Neimi",
+        "portrait": "neimi.png",
+        "job": "archerf",
+        "lvl": 1,
+        "gender": "female",
+        "affinity": "fire",
+        "note": false,
+        "promo": [
+            "sniperf",
+            "rangerf"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 55,
+            "atk": 45,
+            "skl": 50,
+            "spd": 60,
+            "lck": 50,
+            "def": 15,
+            "res": 35
+        },
+        "rank": {
+            "bow": 31
+        },
+        "base": {
+            "hp": 0,
+            "atk": 1,
+            "skl": 2,
+            "spd": 2,
+            "lck": 4,
+            "def": 0,
+            "res": 2,
+            "con": 0
+        },
+        "support": {
+            "Colm": {
+                "base": "80",
+                "growth": "+3",
+                "affinity": "light"
+            },
+            "Garcia": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "fire"
+            },
+            "Amelia": {
+                "base": "15",
+                "growth": "+3",
+                "affinity": "thunder"
+            },
+            "Artur": {
+                "base": "5",
+                "growth": "+3",
+                "affinity": "ice"
+            },
+            "Gilliam": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "thunder"
+            }
+        }
+    },
+    "orson": {
+        "name": "Orson",
+        "portrait": "orson.png",
+        "job": "paladinm",
+        "lvl": 3,
+        "gender": "male",
+        "affinity": "dark",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 80,
+            "atk": 55,
+            "skl": 45,
+            "spd": 40,
+            "lck": 25,
+            "def": 45,
+            "res": 30
+        },
+        "rank": {
+            "sword": 181,
+            "lance": 181
+        },
+        "base": {
+            "hp": 11,
+            "atk": 8,
+            "skl": 9,
+            "spd": 4,
+            "lck": 4,
+            "def": 5,
+            "res": 4,
+            "con": 1
+        },
+        "support": {}
+    },
+    "orsoncc": {
+        "name": "Orson (Creature Campaign)",
+        "portrait": "orson.png",
+        "job": "paladinm",
+        "lvl": 13,
+        "gender": "male",
+        "affinity": "dark",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 80,
+            "atk": 55,
+            "skl": 45,
+            "spd": 40,
+            "lck": 25,
+            "def": 45,
+            "res": 30
+        },
+        "rank": {
+            "sword": 181,
+            "lance": 181
+        },
+        "base": {
+            "hp": 25,
+            "atk": 11,
+            "skl": 11,
+            "spd": 7,
+            "lck": 6,
+            "def": 6,
+            "res": 8,
+            "con": 1
+        },
+        "support": {}
+    },
+    "rennac": {
+        "name": "Rennac",
+        "portrait": "rennac.png",
+        "job": "rogue",
+        "lvl": 1,
+        "gender": "male",
+        "affinity": "dark",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 65,
+            "atk": 25,
+            "skl": 45,
+            "spd": 60,
+            "lck": 25,
+            "def": 25,
+            "res": 30
+        },
+        "rank": {
+            "sword": 121
+        },
+        "base": {
+            "hp": 12,
+            "atk": 7,
+            "skl": 15,
+            "spd": 8,
+            "lck": 5,
+            "def": 7,
+            "res": 11,
+            "con": 0
+        },
+        "support": {
+            "Tethys": {
+                "base": "5",
+                "growth": "+1",
+                "affinity": "fire"
+            },
+            "L'Arachel": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "light"
+            },
+            "Dozla": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "thunder"
+            },
+            "Colm": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "light"
+            }
+        }
+    },
+    "rievcc": {
+        "name": "Riev (Creature Campaign)",
+        "portrait": "riev.png",
+        "job": "bishopm",
+        "lvl": 16,
+        "gender": "male",
+        "affinity": "dark",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 75,
+            "atk": 45,
+            "skl": 50,
+            "spd": 40,
+            "lck": 15,
+            "def": 20,
+            "res": 45
+        },
+        "rank": {
+            "light": 251,
+            "staff": 181
+        },
+        "base": {
+            "hp": 28,
+            "atk": 10,
+            "skl": 17,
+            "spd": 15,
+            "lck": 9,
+            "def": 13,
+            "res": 10,
+            "con": 0
+        },
+        "support": {}
+    },
+    "ross": {
+        "name": "Ross",
+        "portrait": "ross.png",
+        "job": "journeyman1",
+        "lvl": 1,
+        "gender": "male",
+        "affinity": "fire",
+        "note": false,
+        "promo": [
+            "fighter",
+            "pirate",
+            "journeyman2"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 70,
+            "atk": 50,
+            "skl": 35,
+            "spd": 30,
+            "lck": 40,
+            "def": 25,
+            "res": 20
+        },
+        "rank": {
+            "axe": 1
+        },
+        "base": {
+            "hp": 1,
+            "atk": 2,
+            "skl": 2,
+            "spd": 2,
+            "lck": 8,
+            "def": 2,
+            "res": 0,
+            "con": 0
+        },
+        "support": {
+            "Garcia": {
+                "base": "35",
+                "growth": "+4",
+                "affinity": "fire"
+            },
+            "Lute": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "anima"
+            },
+            "Amelia": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "thunder"
+            },
+            "Ewan": {
+                "base": "5",
+                "growth": "+3",
+                "affinity": "light"
+            },
+            "Gerik": {
+                "base": "0",
+                "growth": "+3",
+                "affinity": "thunder"
+            }
+        }
+    },
+    "saleh": {
+        "name": "Saleh (Eirika Route)",
+        "portrait": "saleh.png",
+        "job": "sagem",
+        "lvl": 1,
+        "gender": "male",
+        "affinity": "wind",
+        "note": false,
+        "promo": [],
+        "alt": [
+            "salehephraim"
+        ],
+        "growth": {
+            "hp": 50,
+            "atk": 30,
+            "skl": 25,
+            "spd": 40,
+            "lck": 40,
+            "def": 30,
+            "res": 35
+        },
+        "rank": {
+            "anima": 181,
+            "light": 121,
+            "staff": 71
+        },
+        "base": {
+            "hp": 10,
+            "atk": 11,
+            "skl": 14,
+            "spd": 10,
+            "lck": 11,
+            "def": 3,
+            "res": 8,
+            "con": 1
+        },
+        "support": {
+            "Myrrh": {
+                "base": "30",
+                "growth": "+3",
+                "affinity": "wind"
+            },
+            "Ewan": {
+                "base": "15",
+                "growth": "+3",
+                "affinity": "light"
+            },
+            "Gerik": {
+                "base": "25",
+                "growth": "+3",
+                "affinity": "thunder"
+            },
+            "Eirika": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "light"
+            }
+        }
+    },
+    "salehephraim": {
+        "name": "Saleh (Ephraim Route)",
+        "portrait": "saleh.png",
+        "job": "sagem",
+        "lvl": 4,
+        "gender": "male",
+        "affinity": "wind",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 50,
+            "atk": 30,
+            "skl": 25,
+            "spd": 40,
+            "lck": 40,
+            "def": 30,
+            "res": 35
+        },
+        "rank": {
+            "anima": 181,
+            "light": 121,
+            "staff": 71
+        },
+        "base": {
+            "hp": 12,
+            "atk": 12,
+            "skl": 15,
+            "spd": 11,
+            "lck": 12,
+            "def": 4,
+            "res": 9,
+            "con": 1
+        },
+        "IGNORE": true,
+        "RANDOM_IGNORE": true,
+        "support": {}
+    },
+    "selenacc": {
+        "name": "Selena (Creature Campaign)",
+        "portrait": "selena.png",
+        "job": "mageknightf",
+        "lvl": 11,
+        "gender": "female",
+        "affinity": "thunder",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 85,
+            "atk": 40,
+            "skl": 55,
+            "spd": 40,
+            "lck": 25,
+            "def": 20,
+            "res": 30
+        },
+        "rank": {
+            "anima": 181,
+            "staff": 121
+        },
+        "base": {
+            "hp": 19,
+            "atk": 10,
+            "skl": 8,
+            "spd": 10,
+            "lck": 10,
+            "def": 8,
+            "res": 11,
+            "con": 0
+        },
+        "support": {}
+    },
+    "seth": {
+        "name": "Seth",
+        "portrait": "seth.png",
+        "job": "paladinm",
+        "lvl": 1,
+        "gender": "male",
+        "affinity": "anima",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 90,
+            "atk": 50,
+            "skl": 45,
+            "spd": 45,
+            "lck": 25,
+            "def": 40,
+            "res": 30
+        },
+        "rank": {
+            "sword": 181,
+            "lance": 181
+        },
+        "base": {
+            "hp": 7,
+            "atk": 7,
+            "skl": 9,
+            "spd": 5,
+            "lck": 13,
+            "def": 3,
+            "res": 5,
+            "con": 0
+        },
+        "support": {
+            "Franz": {
+                "base": "15",
+                "growth": "+2",
+                "affinity": "light"
+            },
+            "Eirika": {
+                "base": "25",
+                "growth": "+3",
+                "affinity": "light"
+            },
+            "Garcia": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "fire"
+            },
+            "Natasha": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "ice"
+            },
+            "Cormag": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "fire"
+            }
+        }
+    },
+    "syrene": {
+        "name": "Syrene",
+        "portrait": "syrene.png",
+        "job": "falcoknight",
+        "lvl": 1,
+        "gender": "female",
+        "affinity": "thunder",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 70,
+            "atk": 40,
+            "skl": 50,
+            "spd": 60,
+            "lck": 30,
+            "def": 20,
+            "res": 50
+        },
+        "rank": {
+            "sword": 71,
+            "lance": 181
+        },
+        "base": {
+            "hp": 7,
+            "atk": 6,
+            "skl": 6,
+            "spd": 8,
+            "lck": 12,
+            "def": 5,
+            "res": 8,
+            "con": 1
+        },
+        "support": {
+            "Kyle": {
+                "base": "5",
+                "growth": "+3",
+                "affinity": "ice"
+            },
+            "Vanessa": {
+                "base": "20",
+                "growth": "+3",
+                "affinity": "anima"
+            },
+            "Moulder": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "anima"
+            },
+            "Gilliam": {
+                "base": "20",
+                "growth": "+3",
+                "affinity": "thunder"
+            },
+            "Tana": {
+                "base": "20",
+                "growth": "+3",
+                "affinity": "wind"
+            }
+        }
+    },
+    "tana": {
+        "name": "Tana",
+        "portrait": "tana.png",
+        "job": "pegasusknight",
+        "lvl": 4,
+        "gender": "female",
+        "affinity": "wind",
+        "note": false,
+        "promo": [
+            "falcoknight",
+            "wyvernknightf"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 65,
+            "atk": 45,
+            "skl": 40,
+            "spd": 65,
+            "lck": 60,
+            "def": 20,
+            "res": 25
+        },
+        "rank": {
+            "lance": 31
+        },
+        "base": {
+            "hp": 6,
+            "atk": 3,
+            "skl": 4,
+            "spd": 8,
+            "lck": 8,
+            "def": 3,
+            "res": 5,
+            "con": 0
+        },
+        "support": {
+            "Ephraim": {
+                "base": "25",
+                "growth": "+3",
+                "affinity": "fire"
+            },
+            "Syrene": {
+                "base": "20",
+                "growth": "+3",
+                "affinity": "thunder"
+            },
+            "Cormag": {
+                "base": "0",
+                "growth": "+2",
+                "affinity": "fire"
+            },
+            "Innes": {
+                "base": "25",
+                "growth": "+3",
+                "affinity": "ice"
+            },
+            "Eirika": {
+                "base": "20",
+                "growth": "+2",
+                "affinity": "light"
+            },
+            "Marisa": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "ice"
+            }
+        }
+    },
+    "tethys": {
+        "name": "Tethys",
+        "portrait": "tethys.png",
+        "job": "dancer",
+        "lvl": 1,
+        "gender": "female",
+        "affinity": "fire",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 85,
+            "atk": 5,
+            "skl": 10,
+            "spd": 70,
+            "lck": 80,
+            "def": 30,
+            "res": 75
+        },
+        "rank": {},
+        "base": {
+            "hp": 4,
+            "atk": 0,
+            "skl": 0,
+            "spd": 5,
+            "lck": 10,
+            "def": 5,
+            "res": 3,
+            "con": 1
+        },
+        "support": {
+            "Ewan": {
+                "base": "25",
+                "growth": "+3",
+                "affinity": "light"
+            },
+            "Gerik": {
+                "base": "30",
+                "growth": "+4",
+                "affinity": "thunder"
+            },
+            "Marisa": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "ice"
+            },
+            "Rennac": {
+                "base": "5",
+                "growth": "+1",
+                "affinity": "dark"
+            },
+            "Artur": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "ice"
+            }
+        }
+    },
+    "valtercc": {
+        "name": "Valter (Creature Campaign)",
+        "portrait": "valter.png",
+        "job": "wyvernknightm",
+        "lvl": 13,
+        "gender": "male",
+        "affinity": "ice",
+        "note": false,
+        "promo": [],
+        "alt": [],
+        "growth": {
+            "hp": 80,
+            "atk": 40,
+            "skl": 55,
+            "spd": 50,
+            "lck": 15,
+            "def": 20,
+            "res": 20
+        },
+        "rank": {
+            "lance": 251
+        },
+        "base": {
+            "hp": 25,
+            "atk": 12,
+            "skl": 10,
+            "spd": 9,
+            "lck": 3,
+            "def": 6,
+            "res": 11,
+            "con": 1
+        },
+        "support": {}
+    },
+    "vanessa": {
+        "name": "Vanessa",
+        "portrait": "vanessa.png",
+        "job": "pegasusknight",
+        "lvl": 1,
+        "gender": "female",
+        "affinity": "anima",
+        "note": false,
+        "promo": [
+            "falcoknight",
+            "wyvernknightf"
+        ],
+        "alt": [],
+        "growth": {
+            "hp": 50,
+            "atk": 35,
+            "skl": 55,
+            "spd": 60,
+            "lck": 50,
+            "def": 20,
+            "res": 30
+        },
+        "rank": {
+            "lance": 31
+        },
+        "base": {
+            "hp": 3,
+            "atk": 1,
+            "skl": 2,
+            "spd": 6,
+            "lck": 4,
+            "def": 3,
+            "res": 3,
+            "con": 0
+        },
+        "support": {
+            "Moulder": {
+                "base": "15",
+                "growth": "+2",
+                "affinity": "anima"
+            },
+            "Syrene": {
+                "base": "20",
+                "growth": "+3",
+                "affinity": "thunder"
+            },
+            "Lute": {
+                "base": "10",
+                "growth": "+2",
+                "affinity": "anima"
+            },
+            "Forde": {
+                "base": "5",
+                "growth": "+2",
+                "affinity": "wind"
+            },
+            "Innes": {
+                "base": "10",
+                "growth": "+3",
+                "affinity": "ice"
+            }
+        }
+    }
+}

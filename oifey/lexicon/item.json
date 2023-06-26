@@ -1,0 +1,93 @@
+{
+    "Eckesachs": [
+        "Exaccus"
+    ],
+    "Mulagir": [
+        "Murgleis"
+    ],
+    "Vouge": [
+        "Vogue",
+        "Bhuj",
+        "Pugi"
+    ],
+    "Loptous": [
+        "Loptr",
+        "Lopytr"
+    ],
+    "Iron Blade": [
+        "Big Iron"
+    ],
+    "Levin Sword": [
+        "Thunder Sword",
+        "Bolt Sword"
+    ],
+    "Thunder Sword": [
+        "Levin Sword",
+        "Bolt Sword"
+    ],
+    "Bolt Sword": [
+        "Levin Sword",
+        "Thunder Sword"
+    ],
+    "Meisterbogen": ["Master Bow"],
+    "Meisterschwert": ["Master Sword"],
+    "Meisteraxt": ["Master Axe"],
+    "Meisterlanze": ["Master Lance"],
+    "Paragon Sword": ["Elite Sword"],
+    "Kingmaker": ["King Sword"],
+    "Killing Edge": ["Kill Sword"],
+    "Armorslayer": ["Armor Killer", "Armourslayer"],
+    "Loptrian Fang": ["Loptrian Sword", "Loptr Fang", "Loptr Sword", "Loptyr Sword", "Loputo Sword", "Lopto Sword"],
+    "Light Brand": ["Light Sword"],
+    "Beo Blade": ["Beo Sword"],
+    "Sleep Edge": ["Sleep Sword"],
+    "Berserk Edge": ["Berserk Sword"],
+    "Poleax": ["Poleaxe", "Halberd"],
+    "Halberd": ["Poleax", "Poleaxe"],
+    "Imhullu": ["Mafu"],
+    "Mercurius": ["Mercury"],
+    "Hauteclere": ["Halteclere"],
+    "Gradivus": ["Gradius"],
+    "Wing Spear": ["Winged Spear", "Win Spear"],
+    "Ridersbane": ["Horseslayer", "Beast Slayer"],
+    "Horseslayer": ["Ridersbane", "Beast Slayer"],
+    "Beast Slayer": ["Ridersbane", "Horseslayer"],
+    "Valflame": ["Falaflame"],
+    "Bolting": ["Thunderstorm"],
+    "Forseti": ["Forsetti", "Holsety"],
+    "Dire Thunder": ["Dime Thunder"],
+    "Nosferatu": ["Resire"],
+    "Jormungandr": ["Yotsmungand", "Jormungand", "Flux"],
+    "Petrify": ["Stone"],
+    "Seraphim": ["Angel"],
+    "Sagittae": ["Holy Arrow", "Arrow"],
+    "Ragnarok": ["Rainarok"],
+    "Miasma": ["Dora"],
+    "Mire": ["Slime"],
+    "Ocular Beam": ["Eyebeam"],
+    "Oculus": ["Eyeball"],
+    "Heal": ["Live", "Heal Staff"],
+    "Mend": ["Relive", "Mend Staff"],
+    "Physic": ["Reblow", "Physic Staff"],
+    "Ensorcel": ["Barrier", "M Up", "Magic Up", "Barrier Staff", "Ensorcel Staff"],
+    "Barrier": ["Ensorcel", "Ensorcel Staff", "Barrier Staff"],
+    "Fortify": ["Reserve", "Fortify Staff"],
+    "Restore": ["Rest", "Restore Staff"],
+    "Hammerne": ["Repair", "Hammerne Staff"],
+    "Expel": ["Dear"],
+    "Pure Water": ["Holy Water"],
+    "Blessed Ring": ["Holy Ring"],
+    "Hexlock Shield": ["Magic Shield"],
+    "Dracoshield": ["Dragonshield"],
+    "Blessed Shield": ["Holy Shield"],
+    "Rainbow Potion": ["RP"],
+    "Paladin's Honor": ["Knight's Crest", "Knight Crest"],
+    "Knight Crest": ["Paladin's Honor", "Paladin Honor"],
+    "Skydrake Whip": ["Elysian Whip"],
+    "Elysian Whip": ["Skydrake Whip"],
+    "Ephraim's Lnce": ["Ephraim's Pike", "Ephraim Pike"],
+    "Pachyderm": ["Elephant"],
+    "Blagi's Blade": ["Blagi's Sword", "Blagi Sword"],
+    "Rienfleche": ["Reinfleche"],
+    "Dark Creator S": ["Dark Creator Sword"]
+}

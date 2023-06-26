@@ -1,0 +1,4568 @@
+{
+    "hp5": {
+        "name": "HP +5",
+        "desc": "Grants max HP+5.",
+        "cost": 300,
+        "reference": {
+            "Emblem Ring": "Corrin (Lv. 1 Inheritance)"
+        },
+        "icon": "0"
+    },
+    "hp7": {
+        "name": "HP +7",
+        "desc": "Grants max HP+7.",
+        "cost": 500,
+        "reference": {
+            "Emblem Ring": "Corrin (Lv. 2 Inheritance)"
+        },
+        "icon": "1"
+    },
+    "hp10": {
+        "name": "HP +10",
+        "desc": "Grants max HP+10.",
+        "cost": 1000,
+        "reference": {
+            "Emblem Ring": "Corrin (Lv. 9 Inheritance)"
+        },
+        "icon": "2"
+    },
+    "hp12": {
+        "name": "HP +12",
+        "desc": "Grants max HP+12.",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Corrin (Lv. 16 Inheritance)"
+        },
+        "icon": "3"
+    },
+    "hp15": {
+        "name": "HP +15",
+        "desc": "Grants max HP+15.",
+        "cost": 3000,
+        "reference": {
+            "Emblem Ring": "Corrin (Lv. 19 Inheritance)"
+        },
+        "icon": "4"
+    },
+    "strength1": {
+        "name": "Strength +1",
+        "desc": "Grants Str+1.",
+        "cost": 500,
+        "reference": {
+            "Emblem Ring": "Roy (Lv. 1 Inheritance)"
+        },
+        "icon": "5"
+    },
+    "strength2": {
+        "name": "Strength +2",
+        "desc": "Grants Str+2.",
+        "cost": 1000,
+        "reference": {
+            "Emblem Ring": "Roy (Lv. 2 Inheritance)"
+        },
+        "icon": "6"
+    },
+    "strength3": {
+        "name": "Strength +3",
+        "desc": "Grants Str+3.",
+        "cost": 3000,
+        "reference": {
+            "Emblem Ring": "Roy (Lv. 9 Inheritance)"
+        },
+        "icon": "7"
+    },
+    "strength4": {
+        "name": "Strength +4",
+        "desc": "Grants Str+4.",
+        "cost": 4000,
+        "reference": {
+            "Emblem Ring": "Roy (Lv. 14 Inheritance)"
+        },
+        "icon": "8"
+    },
+    "strength5": {
+        "name": "Strength +5",
+        "desc": "Grants Str+5.",
+        "cost": 5000,
+        "reference": {
+            "Emblem Ring": "Roy (Lv. 17 Inheritance)"
+        },
+        "icon": "9"
+    },
+    "strength6": {
+        "name": "Strength +6",
+        "desc": "Grants Str+6.",
+        "cost": 6000,
+        "reference": {
+            "Emblem Ring": "Roy (Lv. 19 Inheritance)"
+        },
+        "icon": "10"
+    },
+    "dexterity1": {
+        "name": "Dexterity +1",
+        "desc": "Grants Dex+1.",
+        "cost": 100,
+        "reference": {
+            "Emblem Ring": "Lucina (Lv. 1 Inheritance)"
+        },
+        "icon": "11"
+    },
+    "dexterity2": {
+        "name": "Dexterity +2",
+        "desc": "Grants Dex+2.",
+        "cost": 300,
+        "reference": {
+            "Emblem Ring": "Lucina (Lv. 2 Inheritance)"
+        },
+        "icon": "12"
+    },
+    "dexterity3": {
+        "name": "Dexterity +3",
+        "desc": "Grants Dex+3.",
+        "cost": 500,
+        "reference": {
+            "Emblem Ring": "Lucina (Lv. 9 Inheritance)"
+        },
+        "icon": "13"
+    },
+    "dexterity4": {
+        "name": "Dexterity +4",
+        "desc": "Grants Dex+4.",
+        "cost": 1000,
+        "reference": {
+            "Emblem Ring": "Lucina (Lv. 16 Inheritance)"
+        },
+        "icon": "14"
+    },
+    "dexterity5": {
+        "name": "Dexterity +5",
+        "desc": "Grants Dex+5.",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Lucina (Lv. 19 Inheritance)"
+        },
+        "icon": "15"
+    },
+    "speed1": {
+        "name": "Speed +1",
+        "desc": "Grants Spd+1.",
+        "cost": 100,
+        "reference": {
+            "Emblem Ring": "Lyn (Lv. 1 Inheritance)"
+        },
+        "icon": "16"
+    },
+    "speed2": {
+        "name": "Speed +2",
+        "desc": "Grants Spd+2.",
+        "cost": 300,
+        "reference": {
+            "Emblem Ring": "Lyn (Lv. 2 Inheritance)"
+        },
+        "icon": "17"
+    },
+    "speed3": {
+        "name": "Speed +3",
+        "desc": "Grants Spd+3.",
+        "cost": 500,
+        "reference": {
+            "Emblem Ring": "Lyn (Lv. 9 Inheritance)"
+        },
+        "icon": "18"
+    },
+    "speed4": {
+        "name": "Speed +4",
+        "desc": "Grants Spd+4.",
+        "cost": 1000,
+        "reference": {
+            "Emblem Ring": "Lyn (Lv. 16 Inheritance)"
+        },
+        "icon": "19"
+    },
+    "speed5": {
+        "name": "Speed +5",
+        "desc": "Grants Spd+5.",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Lyn (Lv. 19 Inheritance)"
+        },
+        "icon": "20"
+    },
+    "luck2": {
+        "name": "Luck +2",
+        "desc": "Grants Lck+2.",
+        "cost": 100,
+        "reference": {
+            "Emblem Ring": "Byleth (Lv. 1 Inheritance)"
+        },
+        "icon": "21"
+    },
+    "luck4": {
+        "name": "Luck +4",
+        "desc": "Grants Lck+4.",
+        "cost": 300,
+        "reference": {
+            "Emblem Ring": "Byleth (Lv. 2 Inheritance)"
+        },
+        "icon": "22"
+    },
+    "luck6": {
+        "name": "Luck +6",
+        "desc": "Grants Lck+6.",
+        "cost": 500,
+        "reference": {
+            "Emblem Ring": "Byleth (Lv. 8 Inheritance)"
+        },
+        "icon": "23"
+    },
+    "luck8": {
+        "name": "Luck +8",
+        "desc": "Grants Lck+8.",
+        "cost": 1000,
+        "reference": {
+            "Emblem Ring": "Byleth (Lv. 16 Inheritance)"
+        },
+        "icon": "24"
+    },
+    "luck10": {
+        "name": "Luck +10",
+        "desc": "Grants Lck+10.",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Byleth (Lv. 17 Inheritance)"
+        },
+        "icon": "25"
+    },
+    "luck12": {
+        "name": "Luck +12",
+        "desc": "Grants Lck+12.",
+        "cost": 3000,
+        "reference": {
+            "Emblem Ring": "Byleth (Lv. 19 Inheritance)"
+        },
+        "icon": "26"
+    },
+    "defense1": {
+        "name": "Defense +1",
+        "desc": "Grants Def+1.",
+        "cost": 100,
+        "reference": {
+            "Emblem Ring": "Ike (Lv. 1 Inheritance)"
+        },
+        "icon": "27"
+    },
+    "defense2": {
+        "name": "Defense +2",
+        "desc": "Grants Def+2.",
+        "cost": 300,
+        "reference": {
+            "Emblem Ring": "Ike (Lv. 2 Inheritance)"
+        },
+        "icon": "28"
+    },
+    "defense3": {
+        "name": "Defense +3",
+        "desc": "Grants Def+3.",
+        "cost": 500,
+        "reference": {
+            "Emblem Ring": "Ike (Lv. 8 Inheritance)"
+        },
+        "icon": "29"
+    },
+    "defense4": {
+        "name": "Defense +4",
+        "desc": "Grants Def+4.",
+        "cost": 1000,
+        "reference": {
+            "Emblem Ring": "Ike (Lv. 16 Inheritance)"
+        },
+        "icon": "30"
+    },
+    "defense5": {
+        "name": "Defense +5",
+        "desc": "Grants Def+5.",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Ike (Lv. 19 Inheritance)"
+        },
+        "icon": "31"
+    },
+    "magic2": {
+        "name": "Magic +2",
+        "desc": "Grants Mag+2.",
+        "cost": 1000,
+        "reference": {
+            "Emblem Ring": "Celica (Lv. 1 Inheritance)"
+        },
+        "icon": "32"
+    },
+    "magic3": {
+        "name": "Magic +3",
+        "desc": "Grants Mag+3.",
+        "cost": 3000,
+        "reference": {
+            "Emblem Ring": "Celica (Lv. 2 Inheritance)"
+        },
+        "icon": "33"
+    },
+    "magic4": {
+        "name": "Magic +4",
+        "desc": "Grants Mag+4.",
+        "cost": 4000,
+        "reference": {
+            "Emblem Ring": "Celica (Lv. 13 Inheritance)"
+        },
+        "icon": "34"
+    },
+    "magic5": {
+        "name": "Magic +5",
+        "desc": "Grants Mag+5.",
+        "cost": 5000,
+        "reference": {
+            "Emblem Ring": "Celica (Lv. 19 Inheritance)"
+        },
+        "icon": "35"
+    },
+    "resistance2": {
+        "name": "Resistance +2",
+        "desc": "Grants Res+2.",
+        "cost": 300,
+        "reference": {
+            "Emblem Ring": "Micaiah (Lv. 1 Inheritance)"
+        },
+        "icon": "36"
+    },
+    "resistance3": {
+        "name": "Resistance +3",
+        "desc": "Grants Res+3.",
+        "cost": 500,
+        "reference": {
+            "Emblem Ring": "Micaiah (Lv. 4 Inheritance)"
+        },
+        "icon": "37"
+    },
+    "resistance4": {
+        "name": "Resistance +4",
+        "desc": "Grants Res+4.",
+        "cost": 1000,
+        "reference": {
+            "Emblem Ring": "Micaiah (Lv. 14 Inheritance)"
+        },
+        "icon": "38"
+    },
+    "resistance5": {
+        "name": "Resistance +5",
+        "desc": "Grants Res+5.",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Micaiah (Lv. 19 Inheritance)"
+        },
+        "icon": "39"
+    },
+    "build3": {
+        "name": "Build +3",
+        "desc": "Grants Bld+3.",
+        "cost": 500,
+        "reference": {
+            "Emblem Ring": "Leif (Lv. 1 Inheritance)"
+        },
+        "icon": "40"
+    },
+    "build4": {
+        "name": "Build +4",
+        "desc": "Grants Bld+4.",
+        "cost": 1000,
+        "reference": {
+            "Emblem Ring": "Leif (Lv. 6 Inheritance)"
+        },
+        "icon": "41"
+    },
+    "build5": {
+        "name": "Build +5",
+        "desc": "Grants Bld+5.",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Leif (Lv. 14 Inheritance)"
+        },
+        "icon": "42"
+    },
+    "movement1": {
+        "name": "Movement +1",
+        "desc": "Grants Mov+1.",
+        "cost": 0,
+        "reference": {},
+        "icon": "43"
+    },
+    "poisonstrike": {
+        "name": "Poison Strike",
+        "desc": "If unit initiates combat, deals damage to foe equal to 20% of their max HP after combat.",
+        "cost": 0,
+        "reference": {},
+        "icon": "44"
+    },
+    "savageblow": {
+        "name": "Savage Blow",
+        "desc": "If unit initiates combat, deals damage to foes within 2 spaces equal to 20% of their max HP after combat.",
+        "cost": 0,
+        "reference": {},
+        "icon": "45"
+    },
+    "swordbreaker": {
+        "name": "Swordbreaker",
+        "desc": "If unit's HP is 50% or higher at start of combat and foe has a sword equipped, unit can follow up and foe cannot follow up.",
+        "cost": 0,
+        "reference": {},
+        "icon": "46"
+    },
+    "lancebreaker": {
+        "name": "Lancebreaker",
+        "desc": "If unit's HP is 50% or higher at start of combat and foe has a lance equipped, unit can follow up and foe cannot follow up.",
+        "cost": 0,
+        "reference": {},
+        "icon": "47"
+    },
+    "axebreaker": {
+        "name": "Axebreaker",
+        "desc": "If unit's HP is 50% or higher at start of combat and foe has an axe equipped, unit can follow up and foe cannot follow up.",
+        "cost": 0,
+        "reference": {},
+        "icon": "48"
+    },
+    "tomebreaker": {
+        "name": "Tomebreaker",
+        "desc": "If unit's HP is 50% or higher at start of combat and foe has a tome equipped, unit can follow up and foe cannot follow up.",
+        "cost": 0,
+        "reference": {},
+        "icon": "49"
+    },
+    "bowbreaker": {
+        "name": "Bowbreaker",
+        "desc": "If unit's HP is 50% or higher at start of combat and foe has a bow equipped, unit can follow up and foe cannot follow up.",
+        "cost": 0,
+        "reference": {},
+        "icon": "50"
+    },
+    "knifebreaker": {
+        "name": "Knifebreaker",
+        "desc": "If unit's HP is 50% or higher at start of combat and foe has a knife equipped, unit can follow up and foe cannot follow up.",
+        "cost": 0,
+        "reference": {},
+        "icon": "51"
+    },
+    "artbreaker": {
+        "name": "Artbreaker",
+        "desc": "If unit's HP is 50% or higher at start of combat and foe has an art equipped, unit can follow up and foe cannot follow up.",
+        "cost": 0,
+        "reference": {},
+        "icon": "52"
+    },
+    "sealstrength": {
+        "name": "Seal Strength",
+        "desc": "If unit initiates combat, inflicts Str-6 on foe after combat. (Penalty shrinks by 1 each turn.)",
+        "cost": 0,
+        "reference": {},
+        "icon": "53"
+    },
+    "sealmagic": {
+        "name": "Seal Magic",
+        "desc": "If unit initiates combat, inflicts Mag-6 on foe after combat. (Penalty shrinks by 1 each turn.)",
+        "cost": 0,
+        "reference": {},
+        "icon": "54"
+    },
+    "sealdefense": {
+        "name": "Seal Defense",
+        "desc": "If unit initiates combat, inflicts Def-6 on foe after combat. (Penalty shrinks by 1 each turn.)",
+        "cost": 0,
+        "reference": {},
+        "icon": "55"
+    },
+    "sealspeed": {
+        "name": "Seal Speed",
+        "desc": "If unit initiates combat, inflicts Spd-6 on foe after combat. (Penalty shrinks by 1 each turn.)",
+        "cost": 0,
+        "reference": {},
+        "icon": "56"
+    },
+    "sealresistance": {
+        "name": "Seal Resistance",
+        "desc": "If unit initiates combat, inflicts Res-6 on foe after combat. (Penalty shrinks by 1 each turn.)",
+        "cost": 0,
+        "reference": {},
+        "icon": "57"
+    },
+    "fiercestance": {
+        "name": "Fierce Stance",
+        "desc": "If foe initiates combat, grants Str+6 during combat.",
+        "cost": 0,
+        "reference": {},
+        "icon": "58"
+    },
+    "steadystance": {
+        "name": "Steady Stance",
+        "desc": "If foe initiates combat, grants Def+6 during combat.",
+        "cost": 0,
+        "reference": {},
+        "icon": "59"
+    },
+    "dartingstance": {
+        "name": "Darting Stance",
+        "desc": "If foe initiates combat, grants Spd+6 during combat.",
+        "cost": 0,
+        "reference": {},
+        "icon": "60"
+    },
+    "wardingstance": {
+        "name": "Warding Stance",
+        "desc": "If foe initiates combat, grants Res+6 during combat.",
+        "cost": 0,
+        "reference": {},
+        "icon": "61"
+    },
+    "lifeanddeath": {
+        "name": "Life and Death",
+        "desc": "Unit deals +10 damage and takes +10 damage during combat.",
+        "cost": 0,
+        "reference": {},
+        "icon": "62"
+    },
+    "triangleadept": {
+        "name": "Triangle Adept",
+        "desc": "When unit has weapon advantage, always follows up. When unit has disadvantage, foe always follows up.",
+        "cost": 0,
+        "reference": {},
+        "icon": "63"
+    },
+    "corneredbeast": {
+        "name": "Cornered Beast",
+        "desc": "If unit's HP is 50% or less at start of combat, grants Crit+30 during combat.",
+        "cost": 0,
+        "reference": {},
+        "icon": "64"
+    },
+    "selfdestruct": {
+        "name": "Self-Destruct",
+        "desc": "If unit's HP is 50% or less at the start of player phase, unit dies and deals 50% of its max HP to foes within 2 spaces.",
+        "cost": 0,
+        "reference": {},
+        "icon": "65"
+    },
+    "duelistsblow": {
+        "name": "Duelist's Blow",
+        "desc": "When unit initiates combat, grants Avo+30 during combat.",
+        "cost": 0,
+        "reference": {},
+        "icon": "66"
+    },
+    "dartingblow": {
+        "name": "Darting Blow",
+        "desc": "When unit initiates combat, grants Spd+5 during combat.",
+        "cost": 0,
+        "reference": {},
+        "icon": "67"
+    },
+    "deathblow": {
+        "name": "Death Blow",
+        "desc": "When unit initiates combat, grants Crit+20 during combat.",
+        "cost": 0,
+        "reference": {},
+        "icon": "68"
+    },
+    "certainblow": {
+        "name": "Certain Blow",
+        "desc": "When unit initiates combat, grants Hit+40 during combat.",
+        "cost": 0,
+        "reference": {},
+        "icon": "69"
+    },
+    "armoredblow": {
+        "name": "Armored Blow",
+        "desc": "When unit initiates combat, unit takes 10 less physical damage during combat.",
+        "cost": 0,
+        "reference": {},
+        "icon": "70"
+    },
+    "wardingblow": {
+        "name": "Warding Blow",
+        "desc": "When unit initiates combat, unit takes 20 less magical damage during combat.",
+        "cost": 0,
+        "reference": {},
+        "icon": "71"
+    },
+    "spiritstrike": {
+        "name": "Spirit Strike",
+        "desc": "When unit hits with an attack, inflicts -5 to foe's engage meter.",
+        "cost": 0,
+        "reference": {},
+        "icon": "72"
+    },
+    "unbreakable": {
+        "name": "Unbreakable",
+        "desc": "Prevents unit from being broken.",
+        "cost": 0,
+        "reference": {},
+        "icon": "73"
+    },
+    "stalwart": {
+        "name": "Stalwart",
+        "desc": "Reduces damage from effectiveness.",
+        "cost": 0,
+        "reference": {},
+        "icon": "74"
+    },
+    "unwavering": {
+        "name": "Unwavering",
+        "desc": "Negates damage from effectiveness.",
+        "cost": 0,
+        "reference": {},
+        "icon": "75"
+    },
+    "anchor": {
+        "name": "Anchor",
+        "desc": "Unit cannot be moved by skills, smash weapons, etc.",
+        "cost": 0,
+        "reference": {},
+        "icon": "76"
+    },
+    "veteran": {
+        "name": "Veteran",
+        "desc": "Prevents unit from being broken. Reduces damage from effectiveness.",
+        "cost": 0,
+        "reference": {},
+        "icon": "77"
+    },
+    "veteran+": {
+        "name": "Veteran+",
+        "desc": "Prevents unit from being broken. Negates damage from effectiveness.",
+        "cost": 0,
+        "reference": {},
+        "icon": "78"
+    },
+    "voidcurse": {
+        "name": "Void Curse",
+        "desc": "Foes do not earn EXP fighting this unit.",
+        "cost": 0,
+        "reference": {},
+        "icon": "79"
+    },
+    "fellbarrier": {
+        "name": "Fell Barrier",
+        "desc": "A barrier created by Dark Emblems. Nullifies Effective: Fell Dragon and prevents 50% of damage to unit.",
+        "cost": 0,
+        "reference": {},
+        "icon": "80"
+    },
+    "fellbarrier+": {
+        "name": "Fell Barrier+",
+        "desc": "A barrier created by Dark Emblems. Nullifies Effective: Fell Dragon and prevents 70% of damage to unit.",
+        "cost": 0,
+        "reference": {},
+        "icon": "81"
+    },
+    "fellbarrier++": {
+        "name": "Fell Barrier++",
+        "desc": "A barrier created by Dark Emblems. Nullifies Effective: Fell Dragon and prevents 85% of damage to unit.",
+        "cost": 0,
+        "reference": {},
+        "icon": "82"
+    },
+    "fellbarrier+++": {
+        "name": "Fell Barrier+++",
+        "desc": "A barrier created by Dark Emblems. Nullifies Effective: Fell Dragon and prevents all damage to unit.",
+        "cost": 0,
+        "reference": {},
+        "icon": "83"
+    },
+    "darkbarrier": {
+        "name": "Dark Barrier",
+        "desc": "A barrier created by Dark Emblems. Prevents 20% of damage to unit.",
+        "cost": 0,
+        "reference": {},
+        "icon": "84"
+    },
+    "darkbarrier+": {
+        "name": "Dark Barrier+",
+        "desc": "A barrier created by Dark Emblems. Prevents 40% of damage to unit.",
+        "cost": 0,
+        "reference": {},
+        "icon": "85"
+    },
+    "darkbarrier++": {
+        "name": "Dark Barrier++",
+        "desc": "A barrier created by Dark Emblems. Prevents 60% of damage to unit.",
+        "cost": 0,
+        "reference": {},
+        "icon": "86"
+    },
+    "darkbarrier+++": {
+        "name": "Dark Barrier+++",
+        "desc": "A barrier created by Dark Emblems. Prevents 80% of damage to unit.",
+        "cost": 0,
+        "reference": {},
+        "icon": "87"
+    },
+    "bondbreaker": {
+        "name": "Bond Breaker",
+        "desc": "Makes enemy chain attack accuracy always 30%. Reduces damage taken.",
+        "cost": 0,
+        "reference": {},
+        "icon": "88"
+    },
+    "avoid10": {
+        "name": "Avoid +10",
+        "desc": "Grants Avo+10.",
+        "cost": 500,
+        "reference": {
+            "Emblem Ring": "Marth (Lv. 1 Inheritance)"
+        },
+        "icon": "89"
+    },
+    "avoid15": {
+        "name": "Avoid +15",
+        "desc": "Grants Avo+15.",
+        "cost": 1500,
+        "reference": {
+            "Emblem Ring": "Marth (Lv. 4 Inheritance)"
+        },
+        "icon": "90"
+    },
+    "avoid20": {
+        "name": "Avoid +20",
+        "desc": "Grants Avo+20.",
+        "cost": 2500,
+        "reference": {
+            "Emblem Ring": "Marth (Lv. 9 Inheritance)"
+        },
+        "icon": "91"
+    },
+    "avoid25": {
+        "name": "Avoid +25",
+        "desc": "Grants Avo+25.",
+        "cost": 3500,
+        "reference": {
+            "Emblem Ring": "Marth (Lv. 14 Inheritance)"
+        },
+        "icon": "92"
+    },
+    "avoid30": {
+        "name": "Avoid +30",
+        "desc": "Grants Avo+30.",
+        "cost": 4500,
+        "reference": {
+            "Emblem Ring": "Marth (Lv. 19 Inheritance)"
+        },
+        "icon": "93"
+    },
+    "hit10": {
+        "name": "Hit +10",
+        "desc": "Grants Hit+10.",
+        "cost": 500,
+        "reference": {
+            "Emblem Ring": "Sigurd (Lv. 1 Inheritance)"
+        },
+        "icon": "94"
+    },
+    "hit15": {
+        "name": "Hit +15",
+        "desc": "Grants Hit+15.",
+        "cost": 1000,
+        "reference": {
+            "Emblem Ring": "Sigurd (Lv. 4 Inheritance)"
+        },
+        "icon": "95"
+    },
+    "hit20": {
+        "name": "Hit +20",
+        "desc": "Grants Hit+20.",
+        "cost": 1500,
+        "reference": {
+            "Emblem Ring": "Sigurd (Lv. 12 Inheritance)"
+        },
+        "icon": "96"
+    },
+    "hit25": {
+        "name": "Hit +25",
+        "desc": "Grants Hit+25.",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Sigurd (Lv. 16 Inheritance)"
+        },
+        "icon": "97"
+    },
+    "hit30": {
+        "name": "Hit +30",
+        "desc": "Grants Hit+30.",
+        "cost": 2500,
+        "reference": {
+            "Emblem Ring": "Sigurd (Lv. 19 Inheritance)"
+        },
+        "icon": "98"
+    },
+    "dodge10": {
+        "name": "Dodge +10",
+        "desc": "Grants Ddg+10.",
+        "cost": 500,
+        "reference": {
+            "Emblem Ring": "Eirika (Lv. 1 Inheritance)\nEphraim (Lv. 1 Inheritance)"
+        },
+        "icon": "99"
+    },
+    "dodge15": {
+        "name": "Dodge +15",
+        "desc": "Grants Ddg+15.",
+        "cost": 1000,
+        "reference": {
+            "Emblem Ring": "Eirika (Lv. 4 Inheritance)\nEphraim (Lv. 4 Inheritance)"
+        },
+        "icon": "100"
+    },
+    "dodge20": {
+        "name": "Dodge +20",
+        "desc": "Grants Ddg+20.",
+        "cost": 1500,
+        "reference": {
+            "Emblem Ring": "Eirika (Lv. 8 Inheritance)\nEphraim (Lv. 8 Inheritance)"
+        },
+        "icon": "101"
+    },
+    "dodge25": {
+        "name": "Dodge +25",
+        "desc": "Grants Ddg+25.",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Eirika (Lv. 14 Inheritance)\nEphraim (Lv. 14 Inheritance)"
+        },
+        "icon": "102"
+    },
+    "dodge30": {
+        "name": "Dodge +30",
+        "desc": "Grants Ddg+30.",
+        "cost": 2500,
+        "reference": {
+            "Emblem Ring": "Eirika (Lv. 19 Inheritance)\nEphraim (Lv. 19 Inheritance)"
+        },
+        "icon": "103"
+    },
+    "swordagility1": {
+        "name": "Sword Agility 1",
+        "desc": "Grants Avo+10 at a cost of Crit-10 when using a sword.",
+        "cost": 500,
+        "reference": {
+            "Emblem Ring": "Marth (Lv. 2 Inheritance)"
+        },
+        "icon": "104"
+    },
+    "swordagility2": {
+        "name": "Sword Agility 2",
+        "desc": "Grants Avo+15 at a cost of Crit-10 when using a sword.",
+        "cost": 1000,
+        "reference": {
+            "Emblem Ring": "Marth (Lv. 6 Inheritance)"
+        },
+        "icon": "105"
+    },
+    "swordagility3": {
+        "name": "Sword Agility 3",
+        "desc": "Grants Avo+20 at a cost of Crit-10 when using a sword.",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Marth (Lv. 8 Inheritance)"
+        },
+        "icon": "106"
+    },
+    "swordagility4": {
+        "name": "Sword Agility 4",
+        "desc": "Grants Avo+25 at a cost of Crit-10 when using a sword.",
+        "cost": 3000,
+        "reference": {
+            "Emblem Ring": "Marth (Lv. 13 Inheritance)"
+        },
+        "icon": "107"
+    },
+    "swordagility5": {
+        "name": "Sword Agility 5",
+        "desc": "Grants Avo+30 at a cost of Crit-10 when using a sword.",
+        "cost": 4000,
+        "reference": {
+            "Emblem Ring": "Marth (Lv. 17 Inheritance)"
+        },
+        "icon": "108"
+    },
+    "swordpower1": {
+        "name": "Sword Power 1",
+        "desc": "Grants Atk+2 at a cost of Avo-10 when using a sword.",
+        "cost": 1000,
+        "reference": {
+            "Emblem Ring": "Roy (Lv. 4 Inheritance)"
+        },
+        "icon": "109"
+    },
+    "swordpower2": {
+        "name": "Sword Power 2",
+        "desc": "Grants Atk+4 at a cost of Avo-10 when using a sword.",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Roy (Lv. 7 Inheritance)"
+        },
+        "icon": "110"
+    },
+    "swordpower3": {
+        "name": "Sword Power 3",
+        "desc": "Grants Atk+6 at a cost of Avo-10 when using a sword.",
+        "cost": 3000,
+        "reference": {
+            "Emblem Ring": "Roy (Lv. 9 Inheritance)"
+        },
+        "icon": "111"
+    },
+    "swordpower4": {
+        "name": "Sword Power 4",
+        "desc": "Grants Atk+8 at a cost of Avo-10 when using a sword.",
+        "cost": 4000,
+        "reference": {
+            "Emblem Ring": "Roy (Lv. 12 Inheritance)"
+        },
+        "icon": "112"
+    },
+    "swordpower5": {
+        "name": "Sword Power 5",
+        "desc": "Grants Atk+10 at a cost of Avo-10 when using a sword.",
+        "cost": 5000,
+        "reference": {
+            "Emblem Ring": "Roy (Lv. 16 Inheritance)"
+        },
+        "icon": "113"
+    },
+    "swordfocus1": {
+        "name": "Sword Focus 1",
+        "desc": "Grants Hit+10 at a cost of Ddg-10 when using a sword.",
+        "cost": 100,
+        "reference": {
+            "Emblem Ring": "Corrin (Lv. 4 Inheritance)"
+        },
+        "icon": "114"
+    },
+    "swordfocus2": {
+        "name": "Sword Focus 2",
+        "desc": "Grants Hit+15 at a cost of Ddg-10 when using a sword.",
+        "cost": 300,
+        "reference": {
+            "Emblem Ring": "Corrin (Lv. 7 Inheritance)"
+        },
+        "icon": "115"
+    },
+    "swordfocus3": {
+        "name": "Sword Focus 3",
+        "desc": "Grants Hit+20 at a cost of Ddg-10 when using a sword.",
+        "cost": 500,
+        "reference": {
+            "Emblem Ring": "Corrin (Lv. 12 Inheritance)"
+        },
+        "icon": "116"
+    },
+    "swordfocus4": {
+        "name": "Sword Focus 4",
+        "desc": "Grants Hit+25 at a cost of Ddg-10 when using a sword.",
+        "cost": 700,
+        "reference": {
+            "Emblem Ring": "Corrin (Lv. 14 Inheritance)"
+        },
+        "icon": "117"
+    },
+    "swordfocus5": {
+        "name": "Sword Focus 5",
+        "desc": "Grants Hit+30 at a cost of Ddg-10 when using a sword.",
+        "cost": 1000,
+        "reference": {
+            "Emblem Ring": "Corrin (Lv. 17 Inheritance)"
+        },
+        "icon": "118"
+    },
+    "lanceagility1": {
+        "name": "Lance Agility 1",
+        "desc": "Grants Avo+10 at a cost of Crit-10 when using a lance.",
+        "cost": 500,
+        "reference": {
+            "Emblem Ring": "Eirika (Lv. 2 Inheritance)\nEphraim (Lv. 2 Inheritance)"
+        },
+        "icon": "119"
+    },
+    "lanceagility2": {
+        "name": "Lance Agility 2",
+        "desc": "Grants Avo+15 at a cost of Crit-10 when using a lance.",
+        "cost": 1000,
+        "reference": {
+            "Emblem Ring": "Eirika (Lv. 7 Inheritance)\nEphraim (Lv. 7 Inheritance)"
+        },
+        "icon": "120"
+    },
+    "lanceagility3": {
+        "name": "Lance Agility 3",
+        "desc": "Grants Avo+20 at a cost of Crit-10 when using a lance.",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Eirika (Lv. 12 Inheritance)\nEphraim (Lv. 12 Inheritance)"
+        },
+        "icon": "121"
+    },
+    "lanceagility4": {
+        "name": "Lance Agility 4",
+        "desc": "Grants Avo+25 at a cost of Crit-10 when using a lance.",
+        "cost": 3000,
+        "reference": {
+            "Emblem Ring": "Eirika (Lv. 16 Inheritance)\nEphraim (Lv. 16 Inheritance)"
+        },
+        "icon": "122"
+    },
+    "lanceagility5": {
+        "name": "Lance Agility 5",
+        "desc": "Grants Avo+30 at a cost of Crit-10 when using a lance.",
+        "cost": 4000,
+        "reference": {
+            "Emblem Ring": "Eirika (Lv. 17 Inheritance)\nEphraim (Lv. 17 Inheritance)"
+        },
+        "icon": "123"
+    },
+    "lancepower1": {
+        "name": "Lance Power 1",
+        "desc": "Grants Atk+2 at a cost of Avo-10 when using a lance.",
+        "cost": 1000,
+        "reference": {
+            "Emblem Ring": "Sigurd (Lv. 2 Inheritance)"
+        },
+        "icon": "124"
+    },
+    "lancepower2": {
+        "name": "Lance Power 2",
+        "desc": "Grants Atk+4 at a cost of Avo-10 when using a lance.",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Sigurd (Lv. 6 Inheritance)"
+        },
+        "icon": "125"
+    },
+    "lancepower3": {
+        "name": "Lance Power 3",
+        "desc": "Grants Atk+6 at a cost of Avo-10 when using a lance.",
+        "cost": 3000,
+        "reference": {
+            "Emblem Ring": "Sigurd (Lv. 8 Inheritance)"
+        },
+        "icon": "126"
+    },
+    "lancepower4": {
+        "name": "Lance Power 4",
+        "desc": "Grants Atk+8 at a cost of Avo-10 when using a lance.",
+        "cost": 4000,
+        "reference": {
+            "Emblem Ring": "Sigurd (Lv. 14 Inheritance)"
+        },
+        "icon": "127"
+    },
+    "lancepower5": {
+        "name": "Lance Power 5",
+        "desc": "Grants Atk+10 at a cost of Avo-10 when using a lance.",
+        "cost": 5000,
+        "reference": {
+            "Emblem Ring": "Sigurd (Lv. 18 Inheritance)"
+        },
+        "icon": "128"
+    },
+    "axepower1": {
+        "name": "Axe Power 1",
+        "desc": "Grants Atk+2 at a cost of Avo-10 when using an axe.",
+        "cost": 1000,
+        "reference": {
+            "Emblem Ring": "Ike (Lv. 4 Inheritance)"
+        },
+        "icon": "129"
+    },
+    "axepower2": {
+        "name": "Axe Power 2",
+        "desc": "Grants Atk+4 at a cost of Avo-10 when using an axe.",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Ike (Lv. 7 Inheritance)"
+        },
+        "icon": "130"
+    },
+    "axepower3": {
+        "name": "Axe Power 3",
+        "desc": "Grants Atk+6 at a cost of Avo-10 when using an axe.",
+        "cost": 3000,
+        "reference": {
+            "Emblem Ring": "Ike (Lv. 12 Inheritance)"
+        },
+        "icon": "131"
+    },
+    "axepower4": {
+        "name": "Axe Power 4",
+        "desc": "Grants Atk+8 at a cost of Avo-10 when using an axe.",
+        "cost": 4000,
+        "reference": {
+            "Emblem Ring": "Ike (Lv. 14 Inheritance)"
+        },
+        "icon": "132"
+    },
+    "axepower5": {
+        "name": "Axe Power 5",
+        "desc": "Grants Atk+10 at a cost of Avo-10 when using an axe.",
+        "cost": 5000,
+        "reference": {
+            "Emblem Ring": "Ike (Lv. 17 Inheritance)"
+        },
+        "icon": "133"
+    },
+    "bowagility1": {
+        "name": "Bow Agility 1",
+        "desc": "Grants Avo+10 at a cost of Crit-10 when using a bow.",
+        "cost": 500,
+        "reference": {
+            "Emblem Ring": "Lucina (Lv. 4 Inheritance)"
+        },
+        "icon": "134"
+    },
+    "bowagility2": {
+        "name": "Bow Agility 2",
+        "desc": "Grants Avo+15 at a cost of Crit-10 when using a bow.",
+        "cost": 1000,
+        "reference": {
+            "Emblem Ring": "Lucina (Lv. 7 Inheritance)"
+        },
+        "icon": "135"
+    },
+    "bowagility3": {
+        "name": "Bow Agility 3",
+        "desc": "Grants Avo+20 at a cost of Crit-10 when using a bow.",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Lucina (Lv. 12 Inheritance)"
+        },
+        "icon": "136"
+    },
+    "bowagility4": {
+        "name": "Bow Agility 4",
+        "desc": "Grants Avo+25 at a cost of Crit-10 when using a bow.",
+        "cost": 3000,
+        "reference": {
+            "Emblem Ring": "Lucina (Lv. 14 Inheritance)"
+        },
+        "icon": "137"
+    },
+    "bowagility5": {
+        "name": "Bow Agility 5",
+        "desc": "Grants Avo+30 at a cost of Crit-10 when using a bow.",
+        "cost": 4000,
+        "reference": {
+            "Emblem Ring": "Lucina (Lv. 17 Inheritance)"
+        },
+        "icon": "138"
+    },
+    "bowfocus1": {
+        "name": "Bow Focus 1",
+        "desc": "Grants Hit+10 at a cost of Ddg-10 when using a bow.",
+        "cost": 100,
+        "reference": {
+            "Emblem Ring": "Lyn (Lv. 4 Inheritance)"
+        },
+        "icon": "139"
+    },
+    "bowfocus2": {
+        "name": "Bow Focus 2",
+        "desc": "Grants Hit+15 at a cost of Ddg-10 when using a bow.",
+        "cost": 300,
+        "reference": {
+            "Emblem Ring": "Lyn (Lv. 7 Inheritance)"
+        },
+        "icon": "140"
+    },
+    "bowfocus3": {
+        "name": "Bow Focus 3",
+        "desc": "Grants Hit+20 at a cost of Ddg-10 when using a bow.",
+        "cost": 500,
+        "reference": {
+            "Emblem Ring": "Lyn (Lv. 12 Inheritance)"
+        },
+        "icon": "141"
+    },
+    "bowfocus4": {
+        "name": "Bow Focus 4",
+        "desc": "Grants Hit+25 at a cost of Ddg-10 when using a bow.",
+        "cost": 700,
+        "reference": {
+            "Emblem Ring": "Lyn (Lv. 14 Inheritance)"
+        },
+        "icon": "142"
+    },
+    "bowfocus5": {
+        "name": "Bow Focus 5",
+        "desc": "Grants Hit+30 at a cost of Ddg-10 when using a bow.",
+        "cost": 1000,
+        "reference": {
+            "Emblem Ring": "Lyn (Lv. 17 Inheritance)"
+        },
+        "icon": "143"
+    },
+    "artfocus1": {
+        "name": "Art Focus 1",
+        "desc": "Grants Hit+10 at a cost of Ddg-10 when using an art.",
+        "cost": 100,
+        "reference": {
+            "Emblem Ring": "Byleth (Lv. 4 Inheritance)"
+        },
+        "icon": "144"
+    },
+    "artfocus2": {
+        "name": "Art Focus 2",
+        "desc": "Grants Hit+15 at a cost of Ddg-10 when using an art.",
+        "cost": 300,
+        "reference": {
+            "Emblem Ring": "Byleth (Lv. 6 Inheritance)"
+        },
+        "icon": "145"
+    },
+    "artfocus3": {
+        "name": "Art Focus 3",
+        "desc": "Grants Hit+20 at a cost of Ddg-10 when using an art.",
+        "cost": 500,
+        "reference": {
+            "Emblem Ring": "Byleth (Lv. 7 Inheritance)"
+        },
+        "icon": "146"
+    },
+    "artfocus4": {
+        "name": "Art Focus 4",
+        "desc": "Grants Hit+25 at a cost of Ddg-10 when using an art.",
+        "cost": 700,
+        "reference": {
+            "Emblem Ring": "Byleth (Lv. 12 Inheritance)"
+        },
+        "icon": "147"
+    },
+    "artfocus5": {
+        "name": "Art Focus 5",
+        "desc": "Grants Hit+30 at a cost of Ddg-10 when using an art.",
+        "cost": 1000,
+        "reference": {
+            "Emblem Ring": "Byleth (Lv. 14 Inheritance)"
+        },
+        "icon": "148"
+    },
+    "knifeprecision1": {
+        "name": "Knife Precision 1",
+        "desc": "Grants Hit/Avo+3 when using a knife.",
+        "cost": 100,
+        "reference": {
+            "Emblem Ring": "Leif (Lv. 4 Inheritance)"
+        },
+        "icon": "149"
+    },
+    "knifeprecision2": {
+        "name": "Knife Precision 2",
+        "desc": "Grants Hit/Avo+5 when using a knife.",
+        "cost": 300,
+        "reference": {
+            "Emblem Ring": "Leif (Lv. 9 Inheritance)"
+        },
+        "icon": "150"
+    },
+    "knifeprecision3": {
+        "name": "Knife Precision 3",
+        "desc": "Grants Hit/Avo+7 when using a knife.",
+        "cost": 700,
+        "reference": {
+            "Emblem Ring": "Leif (Lv. 13 Inheritance)"
+        },
+        "icon": "151"
+    },
+    "knifeprecision4": {
+        "name": "Knife Precision 4",
+        "desc": "Grants Hit/Avo+10 when using a knife.",
+        "cost": 1000,
+        "reference": {
+            "Emblem Ring": "Leif (Lv. 17 Inheritance)"
+        },
+        "icon": "152"
+    },
+    "knifeprecision5": {
+        "name": "Knife Precision 5",
+        "desc": "Grants Hit/Avo+15 when using a knife.",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Leif (Lv. 19 Inheritance)"
+        },
+        "icon": "153"
+    },
+    "tomeprecision1": {
+        "name": "Tome Precision 1",
+        "desc": "Grants Hit/Avo+3 when using a tome.",
+        "cost": 100,
+        "reference": {
+            "Emblem Ring": "Celica (Lv. 4 Inheritance)"
+        },
+        "icon": "154"
+    },
+    "tomeprecision2": {
+        "name": "Tome Precision 2",
+        "desc": "Grants Hit/Avo+5 when using a tome.",
+        "cost": 300,
+        "reference": {
+            "Emblem Ring": "Celica (Lv. 7 Inheritance)"
+        },
+        "icon": "155"
+    },
+    "tomeprecision3": {
+        "name": "Tome Precision 3",
+        "desc": "Grants Hit/Avo+7 when using a tome.",
+        "cost": 700,
+        "reference": {
+            "Emblem Ring": "Celica (Lv. 9 Inheritance)"
+        },
+        "icon": "156"
+    },
+    "tomeprecision4": {
+        "name": "Tome Precision 4",
+        "desc": "Grants Hit/Avo+10 when using a tome.",
+        "cost": 1000,
+        "reference": {
+            "Emblem Ring": "Celica (Lv. 14 Inheritance)"
+        },
+        "icon": "157"
+    },
+    "tomeprecision5": {
+        "name": "Tome Precision 5",
+        "desc": "Grants Hit/Avo+15 when using a tome.",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Celica (Lv. 17 Inheritance)"
+        },
+        "icon": "158"
+    },
+    "staffmastery1": {
+        "name": "Staff Mastery 1",
+        "desc": "Grants Hit+10 when using a staff. Staves also heal an additional 3 HP.",
+        "cost": 100,
+        "reference": {
+            "Emblem Ring": "Micaiah (Lv. 2 Inheritance)"
+        },
+        "icon": "159"
+    },
+    "staffmastery2": {
+        "name": "Staff Mastery 2",
+        "desc": "Grants Hit+15 when using a staff. Staves also heal an additional 5 HP.",
+        "cost": 300,
+        "reference": {
+            "Emblem Ring": "Micaiah (Lv. 8 Inheritance)"
+        },
+        "icon": "160"
+    },
+    "staffmastery3": {
+        "name": "Staff Mastery 3",
+        "desc": "Grants Hit+20 when using a staff. Staves also heal an additional 7 HP.",
+        "cost": 500,
+        "reference": {
+            "Emblem Ring": "Micaiah (Lv. 12 Inheritance)"
+        },
+        "icon": "161"
+    },
+    "staffmastery4": {
+        "name": "Staff Mastery 4",
+        "desc": "Grants Hit+25 when using a staff. Staves also heal an additional 10 HP.",
+        "cost": 700,
+        "reference": {
+            "Emblem Ring": "Micaiah (Lv. 16 Inheritance)"
+        },
+        "icon": "162"
+    },
+    "staffmastery5": {
+        "name": "Staff Mastery 5",
+        "desc": "Grants Hit+30 when using a staff. Staves also heal an additional 15 HP.",
+        "cost": 1000,
+        "reference": {
+            "Emblem Ring": "Micaiah (Lv. 17 Inheritance)"
+        },
+        "icon": "163"
+    },
+    "perceptive": {
+        "name": "Perceptive",
+        "desc": "If the unit initiates combat, grants Avo+15 during combat. Avo increases with high Spd.",
+        "cost": 250,
+        "reference": {
+            "Emblem Ring": "Marth (Lv. 1 Sync)\nMarth (Lv. 1 Inheritance)"
+        },
+        "icon": "164"
+    },
+    "perceptive+": {
+        "name": "Perceptive+",
+        "desc": "If the unit initiates combat, grants Avo+30 during combat. Avo increases with high Spd.",
+        "cost": 500,
+        "reference": {
+            "Emblem Ring": "Marth (Lv. 16 Sync)\nMarth (Lv. 16 Inheritance)"
+        },
+        "icon": "165"
+    },
+    "breakdefenses": {
+        "name": "Break Defenses",
+        "desc": "If unit's attack breaks foe, unit makes an extra attack at 50% damage.",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Marth (Lv. 3 Sync)\nMarth (Lv. 3 Inheritance)"
+        },
+        "icon": "166"
+    },
+    "unyielding": {
+        "name": "Unyielding",
+        "desc": "At start of player phase, if HP is 20% or less, restores 20% of unit's max HP.",
+        "cost": 100,
+        "reference": {
+            "Emblem Ring": "Marth (Lv. 7 Sync)\nMarth (Lv. 7 Inheritance)"
+        },
+        "icon": "167"
+    },
+    "unyielding+": {
+        "name": "Unyielding+",
+        "desc": "At start of player phase, if HP is 30% or less, restores 30% of unit's max HP.",
+        "cost": 200,
+        "reference": {
+            "Emblem Ring": "Marth (Lv. 12 Sync)\nMarth (Lv. 12 Inheritance)"
+        },
+        "icon": "168"
+    },
+    "unyielding++": {
+        "name": "Unyielding++",
+        "desc": "At start of player phase, if HP is 40% or less, restores 40% of unit's max HP.",
+        "cost": 300,
+        "reference": {
+            "Emblem Ring": "Marth (Lv. 18 Sync)\nMarth (Lv. 18 Inheritance)"
+        },
+        "icon": "169"
+    },
+    "divinespeed": {
+        "name": "Divine Speed",
+        "desc": "Unit performs an extra attack at 50% damage in combat.\n[Covert] If extra attack hits, poisons foe.\n[Dragon] Unit recovers HP equal to damage dealt by extra attack.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Marth (Engage)"
+        },
+        "icon": "170"
+    },
+    "lodestarrush": {
+        "name": "Lodestar Rush",
+        "desc": "Use to launch 7 consecutive sword attacks at 30% damage. Adjacent foe only.\n[Dragon] +2 attacks.\n[Backup] +1 attack.\n[Mystical] Damage based on Mag.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Marth (Engage)"
+        },
+        "icon": "171"
+    },
+    "canter": {
+        "name": "Canter",
+        "desc": "Unit can move 2 spaces after acting.",
+        "cost": 1000,
+        "reference": {
+            "Emblem Ring": "Sigurd (Lv. 1 Sync)\nSigurd (Lv. 1 Inheritance)"
+        },
+        "icon": "172"
+    },
+    "canter+": {
+        "name": "Canter+",
+        "desc": "Unit can move 3 spaces after acting.",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Sigurd (Lv. 13 Sync)\nSigurd (Lv. 13 Inheritance)"
+        },
+        "icon": "173"
+    },
+    "momentum": {
+        "name": "Momentum",
+        "desc": "Grants Atk+1 to first attack during combat for each space unit moved before attacking. (Max +10)",
+        "cost": 1000,
+        "reference": {
+            "Emblem Ring": "Sigurd (Lv. 3 Sync)\nSigurd (Lv. 3 Inheritance)"
+        },
+        "icon": "174"
+    },
+    "momentum+": {
+        "name": "Momentum+",
+        "desc": "Grants Atk+1 to first attack during combat for each space unit moved before attacking.",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Sigurd (Lv. 17 Sync)\nSigurd (Lv. 17 Inheritance)"
+        },
+        "icon": "175"
+    },
+    "headlongrush": {
+        "name": "Headlong Rush",
+        "desc": "Grants immunity to freeze.",
+        "cost": 200,
+        "reference": {
+            "Emblem Ring": "Sigurd (Lv. 7 Sync)\nSigurd (Lv. 7 Inheritance)"
+        },
+        "icon": "176"
+    },
+    "gallop": {
+        "name": "Gallop",
+        "desc": "Grants Mov+5.\n[Dragon] Grants another Mov+1.\n[Cavalry] Grants another Mov+2.\n[Covert] Unit does not pay extra movement cost on any terrain.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Sigurd (Engage)"
+        },
+        "icon": "177"
+    },
+    "darkgallop": {
+        "name": "Dark Gallop",
+        "desc": "Grants Mov+3.",
+        "cost": 0,
+        "reference": {},
+        "icon": "177"
+    },
+    "override": {
+        "name": "Override",
+        "desc": "Use to attack and move through a line of adjacent foes. Sword/lance only.\n[Dragon] +20% damage.\n[Armored] 10% chance of breaking target.\n[Mystical] Deals extra damage=25% of Mag.\n[Qi Adept] 20% chance of breaking target.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Sigurd (Engage)"
+        },
+        "icon": "178"
+    },
+    "holystance": {
+        "name": "Holy Stance",
+        "desc": "If a Corrupted attacks unit, deals 10% of damage taken back to foe.",
+        "cost": 100,
+        "reference": {
+            "Emblem Ring": "Celica (Lv. 1 Sync)\nCelica (Lv. 1 Inheritance)"
+        },
+        "icon": "179"
+    },
+    "holystance+": {
+        "name": "Holy Stance+",
+        "desc": "If a Corrupted attacks unit, deals 30% of damage taken back to foe.",
+        "cost": 500,
+        "reference": {
+            "Emblem Ring": "Celica (Lv. 12 Sync)\nCelica (Lv. 12 Inheritance)"
+        },
+        "icon": "180"
+    },
+    "holystance++": {
+        "name": "Holy Stance++",
+        "desc": "If a Corrupted attacks unit, deals 50% of damage taken back to foe.",
+        "cost": 1000,
+        "reference": {
+            "Emblem Ring": "Celica (Lv. 18 Sync)\nCelica (Lv. 18 Inheritance)"
+        },
+        "icon": "181"
+    },
+    "unholystance": {
+        "name": "Unholy Stance",
+        "desc": "If a non-Corrupted foe attacks unit, deals 50% of damage taken back to foe.",
+        "cost": 0,
+        "reference": {},
+        "icon": "179"
+    },
+    "resonance": {
+        "name": "Resonance",
+        "desc": "When equipped with a tome, if unit's HP is 2 or more, unit loses 1 HP at start of combat and deals +2 damage during combat.",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Celica (Lv. 3 Sync)\nCelica (Lv. 3 Inheritance)"
+        },
+        "icon": "182"
+    },
+    "resonance+": {
+        "name": "Resonance+",
+        "desc": "When equipped with a tome, if unit's HP is 2 or more, unit loses 1 HP at start of combat and deals +3 damage during combat.",
+        "cost": 3000,
+        "reference": {
+            "Emblem Ring": "Celica (Lv. 16 Sync)\nCelica (Lv. 16 Inheritance)"
+        },
+        "icon": "183"
+    },
+    "favoritefood": {
+        "name": "Favorite Food",
+        "desc": "When unit eats a packed lunch, its engage meter is maxed out.",
+        "cost": 200,
+        "reference": {
+            "Emblem Ring": "Celica (Lv. 8 Sync)\nCelica (Lv. 8 Inheritance)"
+        },
+        "icon": "184"
+    },
+    "echo": {
+        "name": "Echo",
+        "desc": "Use to attack with magic at 50% damage. Use a second time to launch another 50% attack.\n[Dragon] Range +1.\n[Mystical] +10% damage.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Celica (Engage)"
+        },
+        "icon": "185"
+    },
+    "warpragnarok": {
+        "name": "Warp Ragnarok",
+        "desc": "Use to warp up to 10 spaces and make a powerful magic attack.\n[Dragon] Attack range +1.\n[Cavalry] Warp distance +2.\n[Flying] Warp distance +5.\n[Mystical] +20% damage.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Celica (Engage)"
+        },
+        "icon": "186"
+    },
+    "darkwarp": {
+        "name": "Dark Warp",
+        "desc": "Use to warp up to 5 spaces and make a powerful magic attack.",
+        "cost": 0,
+        "reference": {},
+        "icon": "186"
+    },
+    "ragnarokwarp": {
+        "name": "Ragnarok Warp",
+        "desc": "Use to make a powerful magic attack, then warp somewhere else on the map.",
+        "cost": 0,
+        "reference": {},
+        "icon": "186"
+    },
+    "cleric": {
+        "name": "Cleric",
+        "desc": "Unit can equip staves up to level C.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Micaiah (Lv. 1 Sync)"
+        },
+        "icon": "187"
+    },
+    "cleric+": {
+        "name": "Cleric+",
+        "desc": "Unit can equip staves up to level B.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Micaiah (Lv. 13 Sync)"
+        },
+        "icon": "188"
+    },
+    "cleric++": {
+        "name": "Cleric++",
+        "desc": "Unit can equip staves up to level A.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Micaiah (Lv. 18 Sync)"
+        },
+        "icon": "189"
+    },
+    "silenceward": {
+        "name": "Silence Ward",
+        "desc": "Grants immunity to silence.",
+        "cost": 200,
+        "reference": {
+            "Emblem Ring": "Micaiah (Lv. 7 Sync)\nMicaiah (Lv. 7 Inheritance)"
+        },
+        "icon": "190"
+    },
+    "healinglight": {
+        "name": "Healing Light",
+        "desc": "When unit heals an ally with a staff, unit also recovers HP=50% of the amount healed.",
+        "cost": 200,
+        "reference": {
+            "Emblem Ring": "Micaiah (Lv. 3 Sync)\nMicaiah (Lv. 3 Inheritance)"
+        },
+        "icon": "191"
+    },
+    "augment": {
+        "name": "Augment",
+        "desc": "Grants staff range +5 and area of effect +1.\n[Dragon] Additional staff range +1.\n[Qi Adept] +20% to HP healed by staves.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Micaiah (Engage)"
+        },
+        "icon": "192"
+    },
+    "darkaugment": {
+        "name": "Dark Augment",
+        "desc": "Grants staff range +3 and area of effect +1.",
+        "cost": 0,
+        "reference": {},
+        "icon": "192"
+    },
+    "greatsacrifice": {
+        "name": "Great Sacrifice",
+        "desc": "Use to restore full HP to all allies, even those not under the player's control. After use, unit's HP=1.\n[Dragon] Unit's HP=30% current.\n[Armored] Grants Def+1 to all healed during their next combat.\n[Qi Adept] Also cures status.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Micaiah (Engage)"
+        },
+        "icon": "193"
+    },
+    "holdout": {
+        "name": "Hold Out",
+        "desc": "If unit had 30% HP or more at start of combat, unit always survives combat with at least 1 HP.",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Roy (Lv. 1 Sync)\nRoy (Lv. 1 Inheritance)"
+        },
+        "icon": "194"
+    },
+    "holdout+": {
+        "name": "Hold Out+",
+        "desc": "If unit had 20% HP or more at start of combat, unit always survives combat with at least 1 HP.",
+        "cost": 3000,
+        "reference": {
+            "Emblem Ring": "Roy (Lv. 8 Sync)\nRoy (Lv. 8 Inheritance)"
+        },
+        "icon": "195"
+    },
+    "holdout++": {
+        "name": "Hold Out++",
+        "desc": "If unit had 10% HP or more at start of combat, unit always survives combat with at least 1 HP.",
+        "cost": 4000,
+        "reference": {
+            "Emblem Ring": "Roy (Lv. 13 Sync)\nRoy (Lv. 13 Inheritance)"
+        },
+        "icon": "196"
+    },
+    "holdout+++": {
+        "name": "Hold Out+++",
+        "desc": "If unit had 2 HP or more at start of combat, unit always survives combat with at least 1 HP.",
+        "cost": 5000,
+        "reference": {
+            "Emblem Ring": "Roy (Lv. 18 Sync)\nRoy (Lv. 18 Inheritance)"
+        },
+        "icon": "197"
+    },
+    "advance": {
+        "name": "Advance",
+        "desc": "Use to move 1 space toward a foe that is 2 spaces away and attack.",
+        "cost": 500,
+        "reference": {
+            "Emblem Ring": "Roy (Lv. 3 Sync)\nRoy (Lv. 3 Inheritance)"
+        },
+        "icon": "198"
+    },
+    "riseabove": {
+        "name": "Rise Above",
+        "desc": "Grants Lvl+5.\n[Dragon] Additional Lvl+1.\n[Cavalry] Mov+1.\n[Armored] Max HP+5.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Roy (Engage)"
+        },
+        "icon": "199"
+    },
+    "sinkbelow": {
+        "name": "Sink Below",
+        "desc": "Grants Lvl+3.",
+        "cost": 0,
+        "reference": {},
+        "icon": "199"
+    },
+    "blazinglion": {
+        "name": "Blazing Lion",
+        "desc": "Use to attack adjacent foe and an area 3 spaces wide. Target area and the 2 rows beyond it are set on fire. Sword only.\n[Dragon] Expands attack area.\n[Mystical] Expands flame area.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Roy (Engage)"
+        },
+        "icon": "200"
+    },
+    "armsshield": {
+        "name": "Arms Shield",
+        "desc": "When unit has weapon advantage, unit takes 3 less damage.",
+        "cost": 200,
+        "reference": {
+            "Emblem Ring": "Leif (Lv. 1 Sync)\nLeif (Lv. 1 Inheritance)"
+        },
+        "icon": "201"
+    },
+    "armsshield+": {
+        "name": "Arms Shield+",
+        "desc": "When unit has weapon advantage, unit takes 5 less damage.",
+        "cost": 400,
+        "reference": {
+            "Emblem Ring": "Leif (Lv. 7 Sync)\nLeif (Lv. 7 Inheritance)"
+        },
+        "icon": "202"
+    },
+    "armsshield++": {
+        "name": "Arms Shield++",
+        "desc": "When unit has weapon advantage, unit takes 7 less damage.",
+        "cost": 600,
+        "reference": {
+            "Emblem Ring": "Leif (Lv. 16 Sync)\nLeif (Lv. 16 Inheritance)"
+        },
+        "icon": "203"
+    },
+    "vantage": {
+        "name": "Vantage",
+        "desc": "If unit's HP is 25% or less and foe initiates combat, unit can counter before foe's first attack.",
+        "cost": 500,
+        "reference": {
+            "Emblem Ring": "Leif (Lv. 3 Sync)\nLeif (Lv. 3 Inheritance)"
+        },
+        "icon": "204"
+    },
+    "vantage+": {
+        "name": "Vantage+",
+        "desc": "If unit's HP is 50% or less and foe initiates combat, unit can counter before foe's first attack.",
+        "cost": 1000,
+        "reference": {
+            "Emblem Ring": "Leif (Lv. 12 Sync)\nLeif (Lv. 12 Inheritance)"
+        },
+        "icon": "205"
+    },
+    "vantage++": {
+        "name": "Vantage++",
+        "desc": "If unit's HP is 75% or less and foe initiates combat, unit can counter before foe's first attack.",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Leif (Lv. 18 Sync)\nLeif (Lv. 18 Inheritance)"
+        },
+        "icon": "206"
+    },
+    "adaptable": {
+        "name": "Adaptable",
+        "desc": "If foe initiates combat, unit counters with the best weapon available (in terms of range, weapon advantage, effective bonus, etc.).\n[Dragon] Hit+30 during combat.\n[Backup] Crit+10 during combat.\n[Covert] Avo+20 during combat.\n[Armored] Def+5 during combat.\n[Flying] Res+5 during combat.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Leif (Engage)"
+        },
+        "icon": "207"
+    },
+    "quadruplehit": {
+        "name": "Quadruple Hit",
+        "desc": "Use to attack once each with sword, lance, axe, and bow.\n[Dragon] +20% damage.\n[Covert] Foes may drop 1,000G. Trigger %=Lck.\n[Qi Adept] Breaks foe.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Leif (Engage)"
+        },
+        "icon": "208"
+    },
+    "dualstrike": {
+        "name": "Dual Strike",
+        "desc": "Unit participates in chain attacks as if it were a backup unit.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Lucina (Lv. 1 Sync)"
+        },
+        "icon": "209"
+    },
+    "dualassist": {
+        "name": "Dual Assist",
+        "desc": "If unit is able to chain attack, unit will do so when allies attack foes unit could reach by moving. Trigger %=35.",
+        "cost": 1000,
+        "reference": {
+            "Emblem Ring": "Lucina (Lv. 3 Sync)\nLucina (Lv. 3 Inheritance)"
+        },
+        "icon": "210"
+    },
+    "dualassist+": {
+        "name": "Dual Assist+",
+        "desc": "If unit is able to chain attack, unit will do so when allies attack foes unit could reach by moving. Trigger %=70.",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Lucina (Lv. 18 Sync)\nLucina (Lv. 18 Inheritance)"
+        },
+        "icon": "211"
+    },
+    "dualsupport": {
+        "name": "Dual Support",
+        "desc": "Grants a bonus to Avo that increases with unit's support level with adjacent allies. (Max +90)",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Lucina (Lv. 13 Sync)\nLucina (Lv. 13 Inheritance)"
+        },
+        "icon": "212"
+    },
+    "bondedshield": {
+        "name": "Bonded Shield",
+        "desc": "Use to prevent first attacks on adjacent allies until your next turn. Trigger %=80.\n[Dragon] +10% to trigger rate.\n[Cavalry] Trigger %=100 for cavalry allies.\n[Armored] Trigger %=100 for armored allies.\n[Flying] Trigger %=100 for flying allies.\n[Qi Adept] Trigger %=100.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Lucina (Engage)"
+        },
+        "icon": "213"
+    },
+    "allforone": {
+        "name": "All for One",
+        "desc": "Use to make a sword attack against an adjacent foe. All allies within 2 spaces chain attack.\n[Dragon] Ally chain attacks are guaranteed to hit.\n[Backup] Range +1.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Lucina (Engage)"
+        },
+        "icon": "214"
+    },
+    "alacrity": {
+        "name": "Alacrity",
+        "desc": "If unit initiates combat with a Spd advantage of 9 or more, unit's follow-up (if possible) occurs before foe can counterattack.",
+        "cost": 1000,
+        "reference": {
+            "Emblem Ring": "Lyn (Lv. 1 Sync)\nLyn (Lv. 1 Inheritance)"
+        },
+        "icon": "215"
+    },
+    "alacrity+": {
+        "name": "Alacrity+",
+        "desc": "If unit initiates combat with a Spd advantage of 7 or more, unit's follow-up (if possible) occurs before foe can counterattack.",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Lyn (Lv. 13 Sync)\nLyn (Lv. 13 Inheritance)"
+        },
+        "icon": "216"
+    },
+    "alacrity++": {
+        "name": "Alacrity++",
+        "desc": "If unit initiates combat with a Spd advantage of 5 or more, unit's follow-up (if possible) occurs before foe can counterattack.",
+        "cost": 3000,
+        "reference": {
+            "Emblem Ring": "Lyn (Lv. 18 Sync)\nLyn (Lv. 18 Inheritance)"
+        },
+        "icon": "217"
+    },
+    "speedtaker": {
+        "name": "Speedtaker",
+        "desc": "Grants a stacking Spd+2 each time unit initiates combat and defeats a foe. Bonus lasts for the rest of the battle. (Max +10)",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Lyn (Lv. 3 Sync)\nLyn (Lv. 3 Inheritance)"
+        },
+        "icon": "218"
+    },
+    "calldoubles": {
+        "name": "Call Doubles",
+        "desc": "Creates four illusory doubles that can make chain attacks with unit.\n[Dragon] +1 double created.\n[Flying] Doubles have +10 Avo",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Lyn (Engage)"
+        },
+        "icon": "219"
+    },
+    "astrastorm": {
+        "name": "Astra Storm",
+        "desc": "Use to launch 5 bow attacks at 30% damage, up to range 10.\n[Dragon] Range +5.\n[Covert] Range +10.\n[Qi Adept] Breaks the target.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Lyn (Engage)"
+        },
+        "icon": "220"
+    },
+    "demolish": {
+        "name": "Demolish",
+        "desc": "Break destructible terrain in a single blow when using Destroy.",
+        "cost": 200,
+        "reference": {
+            "Emblem Ring": "Ike (Lv. 1 Sync)\nIke (Lv. 1 Inheritance)"
+        },
+        "icon": "221"
+    },
+    "reposition": {
+        "name": "Reposition",
+        "desc": "Use to move an adjacent ally to the opposite side of unit.",
+        "cost": 200,
+        "reference": {
+            "Emblem Ring": "Ike (Lv. 3 Sync)\nIke (Lv. 3 Inheritance)"
+        },
+        "icon": "222"
+    },
+    "wrath": {
+        "name": "Wrath",
+        "desc": "At start of combat, for each HP the unit has lost, grants Crit+1 during combat. (Max +30)",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Ike (Lv. 13 Sync)\nIke (Lv. 13 Inheritance)"
+        },
+        "icon": "223"
+    },
+    "resolve": {
+        "name": "Resolve",
+        "desc": "If unit's HP is 75% or less after combat, grants Def/Res+5 as long as unit's HP stays below 75%.",
+        "cost": 1000,
+        "reference": {
+            "Emblem Ring": "Ike (Lv. 1 Sync)\nIke (Lv. 1 Inheritance)"
+        },
+        "icon": "224"
+    },
+    "resolve+": {
+        "name": "Resolve+",
+        "desc": "If unit's HP is 75% or less after combat, grants Def/Res+7 as long as unit's HP stays below 75%.",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Ike (Lv. 18 Sync)\nIke (Lv. 18 Inheritance)"
+        },
+        "icon": "225"
+    },
+    "laguzfriend": {
+        "name": "Laguz Friend",
+        "desc": "Unit takes 50% less damage, but sets unit's Avo to 0.\n[Dragon] Extra -10% to damage.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Ike (Engage)"
+        },
+        "icon": "226"
+    },
+    "greataether": {
+        "name": "Great Aether",
+        "desc": "Use to grant Def/Res+5, but unit can't counter for 1 turn. Next turn, attack a 2-space area, heal HP=30% of damage dealt. Sword/axe only.\n[Dragon] +1 damage per hit taken.\n[Armored] Grants an extra Def+5.\n[Flying] Grants an extra Res+5.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Ike (Engage)"
+        },
+        "icon": "227"
+    },
+    "divinepulse": {
+        "name": "Divine Pulse",
+        "desc": "May turn a missed attack into a hit. Trigger %=30. Chance increases with high Lck.",
+        "cost": 250,
+        "reference": {
+            "Emblem Ring": "Byleth (Lv. 1 Sync)\nByleth (Lv. 1 Inheritance)"
+        },
+        "icon": "228"
+    },
+    "divinepulse+": {
+        "name": "Divine Pulse+",
+        "desc": "May turn a missed attack into a hit. Trigger %=50. Chance increases with high Lck.",
+        "cost": 500,
+        "reference": {
+            "Emblem Ring": "Byleth (Lv. 18 Sync)\nByleth (Lv. 18 Inheritance)"
+        },
+        "icon": "229"
+    },
+    "mentorship": {
+        "name": "Mentorship",
+        "desc": "Grants 1.2\u00d7 EXP modifier to unit and adjacent allies.",
+        "cost": 250,
+        "reference": {
+            "Emblem Ring": "Byleth (Lv. 3 Sync)\nByleth (Lv. 3 Inheritance)"
+        },
+        "icon": "230"
+    },
+    "lostfound": {
+        "name": "Lost & Found",
+        "desc": "If unit finishes an action or waits next to an ally, may find an item and increase support with that ally. Trigger %=Lck.",
+        "cost": 250,
+        "reference": {
+            "Emblem Ring": "Byleth (Lv. 13 Sync)\nByleth (Lv. 13 Inheritance)"
+        },
+        "icon": "231"
+    },
+    "instruct": {
+        "name": "Instruct",
+        "desc": "Use to grant allies within 2 spaces a stat bonus based on user's type. Bonus lasts for 1 turn.\n[Dragon] All seven basic stats +3.\n[Backup] Str+4.\n[Cavalry] Dex+10.\n[Covert] Spd+5.\n[Armored] Def+5.\n[Flying] Res+5.\n[Mystical] Mag+4.\n[Qi Adept] Lck+10.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Byleth (Engage)"
+        },
+        "icon": "232"
+    },
+    "goddessdance": {
+        "name": "Goddess Dance",
+        "desc": "Use to grant another action to all adjacent allies.\n[Dragon] Grants +3 to all targets' basic stats for 1 turn.\n[Backup] Grants Str+4 to targets for 1 turn.\n[Cavalry] Grants Dex+10 to targets for 1 turn.\n[Covert] Grants Spd+5 to targets for 1 turn.\n[Armored] Grants Def+5 to targets for 1 turn.\n[Flying] Grants Res+5 to targets for 1 turn.\n[Mystical] Grants Mag+4 to targets for 1 turn.\n[Qi Adept] Grants Lck+10 to targets for 1 turn.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Byleth (Engage)"
+        },
+        "icon": "233"
+    },
+    "diabolicaldance": {
+        "name": "Diabolical Dance",
+        "desc": "Use to grant another action to allies within 2 spaces.\n[Flying] Grants Res+5 to targets for 1 turn.",
+        "cost": 0,
+        "reference": {},
+        "icon": "233"
+    },
+    "dragonvein": {
+        "name": "Dragon Vein",
+        "desc": "Use to add a special effect to certain spaces.\n[Dragon] Choose any Vein effect.\n[Backup] Creates stone pillars that increase Def/Res.\n[Cavalry] Creates water that decreases Avo.\n[Covert] Creates fog that increases Avo.\n[Armored] Creates vines that grant immunity to break.\n[Flying] Creates healing glow that restores HP.\n[Mystical] Creates flames that inflict damage.\n[Qi Adept] Creates ice pillars that hinder movement.\n[Covert] Creates smoke that decreases Def/Avo.\n[Qi Adept] Creates ice floor that increases movement.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Corrin (Lv. 1 Sync)\nCamilla (Lv. 1 Sync)"
+        },
+        "icon": "234"
+    },
+    "draconichex": {
+        "name": "Draconic Hex",
+        "desc": "If unit initiates combat, inflicts -4 to all of foe's basic stats after combat. (Penalties shrink by 1 each turn.)",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Corrin (Lv. 8 Sync)\nCorrin (Lv. 8 Inheritance)"
+        },
+        "icon": "235"
+    },
+    "pairup": {
+        "name": "Pair Up",
+        "desc": "Prevents damage from foes' chain attacks against unit.",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Corrin (Lv. 13 Sync)\nCorrin (Lv. 13 Inheritance)"
+        },
+        "icon": "236"
+    },
+    "qualitytime": {
+        "name": "Quality Time",
+        "desc": "After unit acts or waits, restores 5 HP to adjacent allies and slightly increases support with them.",
+        "cost": 250,
+        "reference": {
+            "Emblem Ring": "Corrin (Lv. 3 Sync)\nCorrin (Lv. 3 Inheritance)"
+        },
+        "icon": "237"
+    },
+    "qualitytime+": {
+        "name": "Quality Time+",
+        "desc": "After unit acts or waits, restores 10 HP to adjacent allies and slightly increases support with them.",
+        "cost": 500,
+        "reference": {
+            "Emblem Ring": "Corrin (Lv. 18 Sync)\nCorrin (Lv. 18 Inheritance)"
+        },
+        "icon": "238"
+    },
+    "dreadfulaura": {
+        "name": "Dreadful Aura",
+        "desc": "If unit initiates combat, target foe and all foes within 1 space of it cannot move for 1 turn after combat.\n[Covert] Also Avo-20 on target.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Corrin (Engage)"
+        },
+        "icon": "239"
+    },
+    "torrentialroar": {
+        "name": "Torrential Roar",
+        "desc": "Use to attack 3 spaces in a line, turning those spaces into water terrain.\n[Dragon] Range +1.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Corrin (Engage)"
+        },
+        "icon": "240"
+    },
+    "sacredtwins": {
+        "name": "Sacred Twins",
+        "desc": "While engaged with Eirika, changes Lunar Brace to Eclipse Brace and Gentility to Blue Skies for all allies.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Eirika (Engage)\nEphraim (Engage)"
+        },
+        "icon": "241"
+    },
+    "nightandday": {
+        "name": "Night and Day",
+        "desc": "Use to switch Emblems and swap between Lunar Brace/Gentility and Solar Brace/Bravery for all allies.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Eirika (Lv. 1 Sync)\nEphraim (Lv. 1 Sync)"
+        },
+        "icon": "242"
+    },
+    "lunarbrace": {
+        "name": "Lunar Brace",
+        "desc": "If unit initiates combat with a physical attack, deals extra damage=20% of foe's Def.",
+        "cost": 3000,
+        "reference": {
+            "Emblem Ring": "Eirika (Lv. 1 Sync)\nEirika (Lv. 1 Inheritance)"
+        },
+        "icon": "243"
+    },
+    "solarbrace": {
+        "name": "Solar Brace",
+        "desc": "If unit initiates combat, unit recovers HP=30% of damage dealt.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Ephraim (Lv. 1 Sync)\nEphraim (Lv. 1 Inheritance)"
+        },
+        "icon": "244"
+    },
+    "eclipsebrace": {
+        "name": "Eclipse Brace",
+        "desc": "If unit initiates combat, unit deals extra damage=20% of foe's Def with physical attacks and recovers HP=30% of damage dealt.",
+        "cost": 0,
+        "reference": {},
+        "icon": "245"
+    },
+    "lunarbrace+": {
+        "name": "Lunar Brace+",
+        "desc": "If unit initiates combat with a physical attack, deals extra damage=30% of foe's Def.",
+        "cost": 5000,
+        "reference": {
+            "Emblem Ring": "Eirika (Lv. 13 Sync)\nEirika (Lv. 13 Inheritance)"
+        },
+        "icon": "246"
+    },
+    "solarbrace+": {
+        "name": "Solar Brace+",
+        "desc": "If unit initiates combat, unit recovers HP=50% of damage dealt.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Ephraim (Lv. 13 Sync)\nEphraim (Lv. 13 Inheritance)"
+        },
+        "icon": "247"
+    },
+    "eclipsebrace+": {
+        "name": "Eclipse Brace+",
+        "desc": "If unit initiates combat, unit deals extra damage=30% of foe's Def with physical attacks and recovers HP=50% of damage dealt.",
+        "cost": 0,
+        "reference": {},
+        "icon": "248"
+    },
+    "gentility": {
+        "name": "Gentility",
+        "desc": "Unit takes 3 less damage.",
+        "cost": 2000,
+        "reference": {
+            "Emblem Ring": "Eirika (Lv. 3 Sync)\nEirika (Lv. 3 Inheritance)"
+        },
+        "icon": "249"
+    },
+    "bravery": {
+        "name": "Bravery",
+        "desc": "Unit deals +3 damage.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Ephraim (Lv. 3 Sync)\nEphraim (Lv. 3 Inheritance)"
+        },
+        "icon": "250"
+    },
+    "blueskies": {
+        "name": "Blue Skies",
+        "desc": "Unit takes 3 less damage and deals +3 damage.",
+        "cost": 0,
+        "reference": {},
+        "icon": "251"
+    },
+    "gentility+": {
+        "name": "Gentility+",
+        "desc": "Unit takes 5 less damage.",
+        "cost": 3000,
+        "reference": {
+            "Emblem Ring": "Eirika (Lv. 18 Sync)\nEirika (Lv. 18 Inheritance)"
+        },
+        "icon": "252"
+    },
+    "bravery+": {
+        "name": "Bravery+",
+        "desc": "Unit deals +5 damage.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Ephraim (Lv. 18 Sync)\nEphraim (Lv. 18 Inheritance)"
+        },
+        "icon": "253"
+    },
+    "blueskies+": {
+        "name": "Blue Skies+",
+        "desc": "Unit takes 5 less damage and deals +5 damage.",
+        "cost": 0,
+        "reference": {},
+        "icon": "254"
+    },
+    "twinstrike": {
+        "name": "Twin Strike",
+        "desc": "Use to make a sword attack followed by a lance attack from Ephraim on adjacent foe. Effective: Corrupted.\n[Dragon] +20% damage.\n[Cavalry] Ephraim deals +50% damage.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Eirika (Engage)\nEphraim (Engage)"
+        },
+        "icon": "255"
+    },
+    "holyaura": {
+        "name": "Holy Aura",
+        "desc": "Unit is Effective: Fell Dragon. Allies within 2 spaces with Effective: Dragon gain Effective: Fell Dragon.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Alear (Lv. 1 Sync)"
+        },
+        "icon": "256"
+    },
+    "holyshield": {
+        "name": "Holy Shield",
+        "desc": "Neutralizes Effective against this unit.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Alear (Lv. 20 Sync)"
+        },
+        "icon": "257"
+    },
+    "bondforger": {
+        "name": "Bond Forger",
+        "desc": "Grants Hit/Avo+20 to unit and allies within 2 spaces that are synced or engaged with an Emblem.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Alear (Lv. 5 Sync)"
+        },
+        "icon": "258"
+    },
+    "bondforger+": {
+        "name": "Bond Forger+",
+        "desc": "Grants Hit/Avo+30 to unit and allies within 2 spaces that are synced or engaged with an Emblem.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Alear (Lv. 20 Sync)"
+        },
+        "icon": "259"
+    },
+    "boonofelyos": {
+        "name": "Boon of Elyos",
+        "desc": "If unit initiates combat, grants bonus to Crit and Ddg equal to 2\u00d7 the number of allies who have acted this turn.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Alear (Lv. 21 Sync)"
+        },
+        "icon": "260"
+    },
+    "attuned": {
+        "name": "Attuned",
+        "desc": "If unit initiates combat and defeats foe, grants engage partner +4 to all seven basic stats while engaged.\n[Dragon] Extra +1 to all stats.\n[Backup] Extra +2 to Str.\n[Cavalry] Extra +2 to Dex.\n[Covert] Extra +2 to Spd.\n[Armored] Extra +2 to Def.\n[Flying] Extra +2 to Res.\n[Mystical] Extra +2 to Mag.\n[Qi Adept] Extra +2 to Lck.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Alear (Engage)"
+        },
+        "icon": "261"
+    },
+    "dragonblast": {
+        "name": "Dragon Blast",
+        "desc": "Use to make two attacks against an adjacent foe with a sword and powerful magic beam.\n[Dragon] +20% damage.\n[Backup] Adds 20% of Str to sword attack.\n[Mystical] Adds 20% of Mag to beam attack.\n[Qi Adept] Breaks foe.",
+        "cost": 0,
+        "reference": {
+            "Emblem Ring": "Alear (Engage)"
+        },
+        "icon": "262"
+    },
+    "bondblast": {
+        "name": "Bond Blast",
+        "desc": "Use to make a sword attack from the unit and engage partner followed by a magic beam attack against an adjacent foe.\n[Dragon] +20% damage.\n[Backup] +20% of Str to sword.\n[Mystical] +20% of Mag to beam.\n[Qi Adept] Breaks foe.",
+        "cost": 0,
+        "reference": {},
+        "icon": "263"
+    },
+    "divinelyinspiring": {
+        "name": "Divinely Inspiring",
+        "desc": "Adjacent allies deal +3 damage and take 1 less damage.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Alear"
+        },
+        "icon": "264"
+    },
+    "alabasterduty": {
+        "name": "Alabaster Duty",
+        "desc": "If unit is adjacent to the Divine Dragon, grants Crit+5 during combat to both of them.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Vander"
+        },
+        "icon": "265"
+    },
+    "verdantfaith": {
+        "name": "Verdant Faith",
+        "desc": "If unit is adjacent to the Divine Dragon, grants Hit+10 during combat to both of them.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Clanne"
+        },
+        "icon": "266"
+    },
+    "crimsoncheer": {
+        "name": "Crimson Cheer",
+        "desc": "If unit is adjacent to the Divine Dragon, grants Avo+10 during combat to both of them.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Framme"
+        },
+        "icon": "267"
+    },
+    "selfimprover": {
+        "name": "Self-Improver",
+        "desc": "If unit uses Wait without attacking or using items, grants Str+2 for 1 turn.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Alfred"
+        },
+        "icon": "268"
+    },
+    "energized": {
+        "name": "Energized",
+        "desc": "When unit recovers HP using an item, grants Str+2 for 1 turn.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Etie"
+        },
+        "icon": "269"
+    },
+    "movedtotears": {
+        "name": "Moved to Tears",
+        "desc": "When an ally joins a chain attack in this unit's combat, unit deals +2 damage.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Boucheron"
+        },
+        "icon": "270"
+    },
+    "gentleflower": {
+        "name": "Gentle Flower",
+        "desc": "Recovery items used by allies within 2 spaces heal +50% HP.",
+        "cost": 0,
+        "reference": {
+            "Personal": "C\u00e9line"
+        },
+        "icon": "271"
+    },
+    "fairytalefolk": {
+        "name": "Fairy-Tale Folk",
+        "desc": "If a male and a female ally are adjacent within 2 spaces, unit deals +2 damage during combat.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Chlo\u00e9"
+        },
+        "icon": "272"
+    },
+    "admiration": {
+        "name": "Admiration",
+        "desc": "If two female allies are adjacent within 2 spaces, this unit takes 2 less damage during combat.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Louis"
+        },
+        "icon": "273"
+    },
+    "fairfight": {
+        "name": "Fair Fight",
+        "desc": "If unit initiates combat, grants Hit+15 to unit and foe if foe is able to counterattack.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Diamant"
+        },
+        "icon": "274"
+    },
+    "aspiringhero": {
+        "name": "Aspiring Hero",
+        "desc": "If no other units are within 1 space of unit or foe, grants Hit+20 at a cost of Avo-10 during combat.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Amber"
+        },
+        "icon": "275"
+    },
+    "meditation": {
+        "name": "Meditation",
+        "desc": "If unit uses Wait without attacking or using items, grants Res+2 for 1 turn.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Jade"
+        },
+        "icon": "276"
+    },
+    "getbehindme": {
+        "name": "Get Behind Me!",
+        "desc": "When an ally within 2 spaces is attacked, grants Str+3 to unit for 1 turn.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Alcryst"
+        },
+        "icon": "277"
+    },
+    "sharespoils": {
+        "name": "Share Spoils",
+        "desc": "If there is an ally within 1 space, grants Hit/Avo+10 at a cost of Crit-10 to unit.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Lapis"
+        },
+        "icon": "278"
+    },
+    "generosity": {
+        "name": "Generosity",
+        "desc": "When this unit uses a healing item, adjacent allies also recover the same amount of HP.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Citrinne"
+        },
+        "icon": "279"
+    },
+    "singleminded": {
+        "name": "Single-Minded",
+        "desc": "During combat with a foe who was also unit's most recent opponent, grants Hit+20.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Ivy"
+        },
+        "icon": "280"
+    },
+    "notquite": {
+        "name": "Not *Quite*",
+        "desc": "If foe initiates combat, inflicts Hit-10 on that foe during combat.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Zelkov"
+        },
+        "icon": "281"
+    },
+    "blindingflash": {
+        "name": "Blinding Flash",
+        "desc": "If unit initiates combat, inflicts Avo-10 on foe during combat.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Kagetsu"
+        },
+        "icon": "282"
+    },
+    "bigpersonality": {
+        "name": "Big Personality",
+        "desc": "When unit uses a healing staff, grants range +1. (Actually works for all staves except rescue.)",
+        "cost": 0,
+        "reference": {
+            "Personal": "Hortensia"
+        },
+        "icon": "283"
+    },
+    "stunningsmile": {
+        "name": "Stunning Smile",
+        "desc": "If foe is male, inflicts Avo-20 on that foe during combat.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Rosado"
+        },
+        "icon": "284"
+    },
+    "disarmingsigh": {
+        "name": "Disarming Sigh",
+        "desc": "If foe is male, inflicts Hit-20 on that foe during combat.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Goldmary"
+        },
+        "icon": "285"
+    },
+    "racketofsolm": {
+        "name": "Racket of Solm",
+        "desc": "Inflicts Crit-5 on foes within 3 spaces.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Timerra"
+        },
+        "icon": "286"
+    },
+    "knightlyescort": {
+        "name": "Knightly Escort",
+        "desc": "When 2 or more female allies are within 2 spaces, grants Hit/Avo+5 to unit and those allies.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Merrin"
+        },
+        "icon": "287"
+    },
+    "bloodfury": {
+        "name": "Blood Fury",
+        "desc": "If unit's HP is not at max after combat, grants Crit+10 as long as unit's HP stays below max.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Panette"
+        },
+        "icon": "288"
+    },
+    "charmer": {
+        "name": "Charmer",
+        "desc": "During combat with a foe who was also unit's most recent opponent, inflicts Crit-10 on that foe.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Fogado"
+        },
+        "icon": "289"
+    },
+    "partyanimal": {
+        "name": "Party Animal",
+        "desc": "Grants a bonus to Hit and Avo equal to 3\u00d7 the number of allies and foes within 2 spaces.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Pandreo"
+        },
+        "icon": "290"
+    },
+    "seconds": {
+        "name": "Seconds?",
+        "desc": "On eating a packed lunch, unit may obtain another of the same item. Trigger %=Lck.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Bunet"
+        },
+        "icon": "291"
+    },
+    "makeakilling": {
+        "name": "Make a Killing",
+        "desc": "May obtain 500G when unit defeats a foe. Trigger %=Lck.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Anna"
+        },
+        "icon": "292"
+    },
+    "expertise": {
+        "name": "Expertise",
+        "desc": "Grants unit enhanced stat growth when leveling up.\nDoubles class growths.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Jean"
+        },
+        "icon": "293"
+    },
+    "trainedtokill": {
+        "name": "Trained to Kill",
+        "desc": "While unit occupies terrain that provides an Avo bonus, grants Crit+15.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Yunaka"
+        },
+        "icon": "294"
+    },
+    "curiousdance": {
+        "name": "Curious Dance",
+        "desc": "At start of turn, allies within 2 spaces of unit recover 10% of their max HP.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Seadall"
+        },
+        "icon": "295"
+    },
+    "weaponinsight": {
+        "name": "Weapon Insight",
+        "desc": "If unit is equipped with a weapon of lower level than foe's, grants Crit+20 during combat.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Lindon"
+        },
+        "icon": "296"
+    },
+    "willtowin": {
+        "name": "Will to Win",
+        "desc": "If unit's HP is 50% or less at start of combat, grants Hit/Avo+20 during combat.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Saphir"
+        },
+        "icon": "297"
+    },
+    "fellprotection": {
+        "name": "Fell Protection",
+        "desc": "Adjacent allies deal +1 damage and take 3 less damage.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Veyle"
+        },
+        "icon": "298"
+    },
+    "contemplative": {
+        "name": "Contemplative",
+        "desc": "If unit uses Wait without attacking or using items, grants Def+2 for 1 turn.",
+        "cost": 0,
+        "reference": {
+            "Personal": "Mauvier"
+        },
+        "icon": "299"
+    },
+    "runthrough": {
+        "name": "Run Through",
+        "desc": "Use to attack an adjacent foe, then move to the space opposite that foe.",
+        "cost": 0,
+        "reference": {
+            "Class": "Swordmaster"
+        },
+        "icon": "300"
+    },
+    "braveassist": {
+        "name": "Brave Assist",
+        "desc": "If unit's HP is at max while unit makes a chain attack, unit attacks twice.",
+        "cost": 0,
+        "reference": {
+            "Class": "Hero"
+        },
+        "icon": "301"
+    },
+    "pincerattack": {
+        "name": "Pincer Attack",
+        "desc": "If unit initiates combat while an ally is on the opposite side of the foe, always follow up (if weapon allows).",
+        "cost": 0,
+        "reference": {
+            "Class": "Halberdier"
+        },
+        "icon": "302"
+    },
+    "reforge": {
+        "name": "Reforge",
+        "desc": "If unit's HP is 11 or more and an adjacent ally is broken after combat, sacrifices 10 HP and removes the break status from that ally.",
+        "cost": 0,
+        "reference": {
+            "Class": "Royal Knight"
+        },
+        "icon": "303"
+    },
+    "smash+": {
+        "name": "Smash+",
+        "desc": "When making a smash attack, push the target 2 spaces instead of 1.",
+        "cost": 0,
+        "reference": {
+            "Class": "Berserker"
+        },
+        "icon": "304"
+    },
+    "merciless": {
+        "name": "Merciless",
+        "desc": "Unit deals +50% damage against broken foes.",
+        "cost": 0,
+        "reference": {
+            "Class": "Warrior"
+        },
+        "icon": "305"
+    },
+    "nodistractions": {
+        "name": "No Distractions",
+        "desc": "Grants Crit+10 during combat with a foe that can't counter.",
+        "cost": 0,
+        "reference": {
+            "Class": "Sniper"
+        },
+        "icon": "306"
+    },
+    "carefulaim": {
+        "name": "Careful Aim",
+        "desc": "If unit initiates combat without moving first, grants Hit+40 during combat.",
+        "cost": 0,
+        "reference": {
+            "Class": "Bow Knight"
+        },
+        "icon": "307"
+    },
+    "swap": {
+        "name": "Swap",
+        "desc": "Use to switch places with an adjacent ally.",
+        "cost": 0,
+        "reference": {
+            "Class": "General"
+        },
+        "icon": "308"
+    },
+    "allieddefense": {
+        "name": "Allied Defense",
+        "desc": "If unit is between an ally and a foe, reduces damage to unit by 3 during combat with that foe.",
+        "cost": 0,
+        "reference": {
+            "Class": "Great Knight"
+        },
+        "icon": "309"
+    },
+    "pivot": {
+        "name": "Pivot",
+        "desc": "Use to move to the opposite side of an adjacent ally.",
+        "cost": 0,
+        "reference": {
+            "Class": "Paladin"
+        },
+        "icon": "310"
+    },
+    "hobble": {
+        "name": "Hobble",
+        "desc": "If unit initiates combat with a knife, inflicts Mov-2 on foe for 1 turn.",
+        "cost": 0,
+        "reference": {
+            "Class": "Wolf Knight"
+        },
+        "icon": "311"
+    },
+    "cleartheway": {
+        "name": "Clear the Way",
+        "desc": "Unit's space and adjacent spaces have a movement cost of 1 for allies.",
+        "cost": 0,
+        "reference": {
+            "Class": "Griffin Knight"
+        },
+        "icon": "312"
+    },
+    "airraid": {
+        "name": "Air Raid",
+        "desc": "If unit initiates combat from a space a foe cannot enter, grants Spd+5 during combat.",
+        "cost": 0,
+        "reference": {
+            "Class": "Wyvern Knight"
+        },
+        "icon": "313"
+    },
+    "pass": {
+        "name": "Pass",
+        "desc": "Foes do not block this unit's movement.",
+        "cost": 0,
+        "reference": {
+            "Class": "Thief"
+        },
+        "icon": "314"
+    },
+    "spellharmony": {
+        "name": "Spell Harmony",
+        "desc": "If unit initiates combat with a tome, grants Atk equal to the number of adjacent allies with tomes.",
+        "cost": 0,
+        "reference": {
+            "Class": "Sage"
+        },
+        "icon": "315"
+    },
+    "chaosstyle": {
+        "name": "Chaos Style",
+        "desc": "If unit initiates combat with a physical attack against a foe armed with magic or vice versa, grants Spd+3 during combat.",
+        "cost": 0,
+        "reference": {
+            "Class": "Mage Knight"
+        },
+        "icon": "316"
+    },
+    "diffusehealer": {
+        "name": "Diffuse Healer",
+        "desc": "When unit is healed by a staff, all adjacent allies also recover 50% of the HP that the unit recovered.",
+        "cost": 0,
+        "reference": {
+            "Class": "Martial Master"
+        },
+        "icon": "317"
+    },
+    "selfhealing": {
+        "name": "Self-Healing",
+        "desc": "Unit can target itself with healing staves.",
+        "cost": 0,
+        "reference": {
+            "Class": "High Priest"
+        },
+        "icon": "318"
+    },
+    "divinespirit": {
+        "name": "Divine Spirit",
+        "desc": "Unit's engage meter is shortened one step.",
+        "cost": 0,
+        "reference": {
+            "Class": "Divine Dragon"
+        },
+        "icon": "319"
+    },
+    "fellspirit": {
+        "name": "Fell Spirit",
+        "desc": "At the start of each turn, unit's engage meter is filled by 1.",
+        "cost": 0,
+        "reference": {},
+        "icon": "320"
+    },
+    "darkspirit": {
+        "name": "Dark Spirit",
+        "desc": "Inflicts -1 to the engage meters of foes within 2 spaces at the start of the turn.",
+        "cost": 0,
+        "reference": {
+            "Class": "Fell Child\nFell Monarch\nGreat Fell Dragon"
+        },
+        "icon": "320"
+    },
+    "goldenlotus": {
+        "name": "Golden Lotus",
+        "desc": "During combat, may prevent 50% of physical damage taken. Trigger %=Dex.",
+        "cost": 0,
+        "reference": {
+            "Class": "Avenir"
+        },
+        "icon": "321"
+    },
+    "ignis": {
+        "name": "Ignis",
+        "desc": "During combat, may add half of Str to magic damage or half of Mag to all other damage. Trigger %=Dex.",
+        "cost": 0,
+        "reference": {
+            "Class": "Vidame"
+        },
+        "icon": "322"
+    },
+    "sol": {
+        "name": "Sol",
+        "desc": "Unit may recover HP=50% damage dealt. Trigger %=Dex.",
+        "cost": 0,
+        "reference": {
+            "Class": "Successeur"
+        },
+        "icon": "323"
+    },
+    "luna": {
+        "name": "Luna",
+        "desc": "While making an attack, may ignore half of foe's Def/Res. Trigger %=Dex.",
+        "cost": 0,
+        "reference": {
+            "Class": "Tireur d'\u00e9lite"
+        },
+        "icon": "324"
+    },
+    "graspingvoid": {
+        "name": "Grasping Void",
+        "desc": "When attacking with a tome, unit may deal extra damage = half of foe's Mag. Trigger %=Dex.",
+        "cost": 0,
+        "reference": {
+            "Class": "Lindwurm"
+        },
+        "icon": "325"
+    },
+    "worldtree": {
+        "name": "World Tree",
+        "desc": "When unit uses a staff, may not consume a use. Trigger %=Dex.",
+        "cost": 0,
+        "reference": {
+            "Class": "Sleipnir Rider"
+        },
+        "icon": "326"
+    },
+    "sandstorm": {
+        "name": "Sandstorm",
+        "desc": "While making a physical attack, may calculate damage with 150% of Def instead of Str. Trigger %=Dex.",
+        "cost": 0,
+        "reference": {
+            "Class": "Picket"
+        },
+        "icon": "327"
+    },
+    "backatyou": {
+        "name": "Back at You",
+        "desc": "When countering, unit may deal extra damage = half of damage taken. Trigger %=Dex.",
+        "cost": 0,
+        "reference": {
+            "Class": "Cupido"
+        },
+        "icon": "328"
+    },
+    "soulblade": {
+        "name": "Soulblade",
+        "desc": "When attacking with a sword, damage is calculated using average of foe's Def and Res.",
+        "cost": 0,
+        "reference": {
+            "Class": "Melusine"
+        },
+        "icon": "329"
+    },
+    "specialdance": {
+        "name": "Special Dance",
+        "desc": "If unit uses Dance, grants Dex/Spd/Lck+3 to target for 1 turn.",
+        "cost": 0,
+        "reference": {
+            "Class": "Dancer"
+        },
+        "icon": "330"
+    },
+    "sympathetic": {
+        "name": "Sympathetic",
+        "desc": "If foe initiates combat and if unit's HP is 50% or less, unit takes 5 less damage.",
+        "cost": 0,
+        "reference": {
+            "Bond Ring": "Caeda S"
+        },
+        "icon": "331"
+    },
+    "deadlyblade": {
+        "name": "Deadly Blade",
+        "desc": "If unit initiates combat with a sword, grants Crit+10 during combat.",
+        "cost": 0,
+        "reference": {
+            "Bond Ring": "Navarre S"
+        },
+        "icon": "332"
+    },
+    "battlewise": {
+        "name": "Battlewise",
+        "desc": "Grants a stacking Crit+1 each time unit initiates combat and defeats a foe. Bonus lasts for the rest of the battle. (Max +10)",
+        "cost": 0,
+        "reference": {
+            "Bond Ring": "Seliph S"
+        },
+        "icon": "333"
+    },
+    "renewal": {
+        "name": "Renewal",
+        "desc": "Unit recovers 5 HP each turn.",
+        "cost": 0,
+        "reference": {
+            "Bond Ring": "Deirdre S"
+        },
+        "icon": "334"
+    },
+    "windsweep": {
+        "name": "Windsweep",
+        "desc": "If unit initiates combat with a sword, foe may not counterattack. Trigger %=Lck.",
+        "cost": 0,
+        "reference": {
+            "Bond Ring": "Alm S"
+        },
+        "icon": "335"
+    },
+    "greatthunder": {
+        "name": "Great Thunder",
+        "desc": "If unit uses Thunder, Elthunder, or Thoron, deals +20% damage.",
+        "cost": 0,
+        "reference": {
+            "Bond Ring": "Mae S"
+        },
+        "icon": "336"
+    },
+    "bane": {
+        "name": "Bane",
+        "desc": "May reduce foe's HP to 1. Trigger %=half of Dex. (Certain foes are immune to this effect.)",
+        "cost": 0,
+        "reference": {
+            "Bond Ring": "Sothe S"
+        },
+        "icon": "337"
+    },
+    "mercy": {
+        "name": "Mercy",
+        "desc": "If dealing enough damage to defeat foe, instead leaves foe with 1 HP.",
+        "cost": 0,
+        "reference": {
+            "Bond Ring": "Elincia S"
+        },
+        "icon": "338"
+    },
+    "ragingfire": {
+        "name": "Raging Fire",
+        "desc": "If unit uses Fire, Elfire, or Bolganone, deals +20% damage.",
+        "cost": 0,
+        "reference": {
+            "Bond Ring": "Lilina S"
+        },
+        "icon": "339"
+    },
+    "strongarm": {
+        "name": "Strong Arm",
+        "desc": "Grants Hit+20 while unit is equipped with a smash weapon.",
+        "cost": 0,
+        "reference": {
+            "Bond Ring": "Dieck S"
+        },
+        "icon": "340"
+    },
+    "miracle": {
+        "name": "Miracle",
+        "desc": "Avoids foe's attack when unit would be defeated. Trigger %=Lck. (Max 50%)",
+        "cost": 0,
+        "reference": {
+            "Bond Ring": "Finn S"
+        },
+        "icon": "341"
+    },
+    "direthunder": {
+        "name": "Dire Thunder",
+        "desc": "When unit initiates combat with Thunder equipped, unit attacks twice. (Excludes Elthunder and Thoron.)",
+        "cost": 0,
+        "reference": {
+            "Bond Ring": "Olwen S"
+        },
+        "icon": "342"
+    },
+    "rightfulruler": {
+        "name": "Rightful Ruler",
+        "desc": "Adds +5% to trigger rate for all skills with trigger rates.",
+        "cost": 0,
+        "reference": {
+            "Bond Ring": "Chrom S"
+        },
+        "icon": "343"
+    },
+    "healtouch": {
+        "name": "Healtouch",
+        "desc": "When unit heals an ally with a staff, restores +5 HP to target.",
+        "cost": 0,
+        "reference": {
+            "Bond Ring": "Lissa S"
+        },
+        "icon": "344"
+    },
+    "drawback": {
+        "name": "Draw Back",
+        "desc": "Use to move 1 space away from adjacent ally and pull the ally along.",
+        "cost": 0,
+        "reference": {
+            "Bond Ring": "Eliwood S"
+        },
+        "icon": "345"
+    },
+    "gigaexcalibur": {
+        "name": "Giga Excalibur",
+        "desc": "If unit initiates combat with Excalibur, deals +20% damage.",
+        "cost": 0,
+        "reference": {
+            "Bond Ring": "Nino S"
+        },
+        "icon": "346"
+    },
+    "windadept": {
+        "name": "Wind Adept",
+        "desc": "If unit initiates combat with Wind equipped, unit may attack twice. Trigger %=Dex. (Excludes Elwind and Excalibur.)",
+        "cost": 0,
+        "reference": {
+            "Bond Ring": "Soren S"
+        },
+        "icon": "347"
+    },
+    "shove": {
+        "name": "Shove",
+        "desc": "Use to push an adjacent ally with less Bld 1 space away.",
+        "cost": 0,
+        "reference": {
+            "Bond Ring": "Mia S"
+        },
+        "icon": "348"
+    },
+    "flickeringflower": {
+        "name": "Flickering Flower",
+        "desc": "If unit initiates combat, freezes foe. Trigger % = total damage dealt.",
+        "cost": 0,
+        "reference": {
+            "Bond Ring": "Edelgard S"
+        },
+        "icon": "349"
+    },
+    "paraselene": {
+        "name": "Paraselene",
+        "desc": "Use to make an attack against an adjacent foe, then move 1 space away from that foe after combat.",
+        "cost": 0,
+        "reference": {
+            "Bond Ring": "Dimitri S"
+        },
+        "icon": "350"
+    },
+    "windgod": {
+        "name": "Wind God",
+        "desc": "If unit's HP=100%, grants range +1 with bows.",
+        "cost": 0,
+        "reference": {
+            "Bond Ring": "Claude S"
+        },
+        "icon": "351"
+    },
+    "chivalry": {
+        "name": "Chivalry",
+        "desc": "If unit initiates combat while foe's HP=100%, unit deals +2 damage and takes 2 less damage.",
+        "cost": 0,
+        "reference": {
+            "Bond Ring": "Xander S"
+        },
+        "icon": "352"
+    },
+    "bushido": {
+        "name": "Bushido",
+        "desc": "If unit's level is higher than foe's, grants Crit+10 during combat, and unit deals +2 damage and takes 2 less damage.",
+        "cost": 0,
+        "reference": {
+            "Bond Ring": "Ryoma S"
+        },
+        "icon": "353"
+    },
+    "lethality": {
+        "name": "Lethality",
+        "desc": "When landing a critical hit, instantly kills foe. Trigger %=30. (Excludes certain powerful foes.)",
+        "cost": 0,
+        "reference": {
+            "Bond Ring": "Marisa S"
+        },
+        "icon": "354"
+    },
+    "surestrike": {
+        "name": "Sure Strike",
+        "desc": "If unit initiates combat, attacks are guaranteed to hit. Trigger %=Dex",
+        "cost": 0,
+        "reference": {
+            "Bond Ring": "Innes S"
+        },
+        "icon": "355"
+    },
+    "spurattack": {
+        "name": "Spur Attack",
+        "desc": "Grants Atk+2 to adjacent allies.",
+        "cost": 0,
+        "reference": {
+            "Bond Ring": "Alfonse S"
+        },
+        "icon": "356"
+    },
+    "fortifydef": {
+        "name": "Fortify Def",
+        "desc": "Grants Def+2 to adjacent allies for 1 turn at start of player phase.",
+        "cost": 0,
+        "reference": {
+            "Bond Ring": "Sharena S"
+        },
+        "icon": "357"
+    },
+    "spurres": {
+        "name": "Spur Res",
+        "desc": "Grants Res+2 to adjacent allies.",
+        "cost": 0,
+        "reference": {
+            "Bond Ring": "Anna S"
+        },
+        "icon": "358"
+    },
+    "friendlyrivalry": {
+        "name": "Friendly Rivalry",
+        "desc": "At start of player phase, the Emblem will randomly switch to Edelgard, Dimitri, or Claude.",
+        "cost": 0,
+        "icon": "359",
+        "reference": {
+            "Emblem Ring": "Edelgard (Lv. 1 Sync)"
+        }
+    },
+    "gambit": {
+        "name": "Gambit",
+        "desc": "Effects change based on synced Emblem.",
+        "cost": 0,
+        "icon": "360",
+        "reference": {
+            "Emblem Ring": "Edelgard (Lv. 1 Sync)"
+        }
+    },
+    "assemblygambit": {
+        "name": "Assembly Gambit",
+        "desc": "Use to attack an adjacent foe, then move 1 space away after combat. Target foe moves to unit's previous space.",
+        "cost": 1500,
+        "icon": "360",
+        "reference": {
+            "Emblem Ring": "Edelgard (Lv. 2 Inheritance)"
+        }
+    },
+    "flamegambit": {
+        "name": "Flame Gambit",
+        "desc": "Use when synced with Edelgard to attack a foe, then set the target foe's space and nearby spaces on fire.",
+        "cost": 0,
+        "icon": "360",
+        "reference": {
+            "Emblem Ring": "Edelgard (Lv. 1 Sync)"
+        }
+    },
+    "shieldgambit": {
+        "name": "Shield Gambit",
+        "desc": "Use when synced with Dimitri to negate damage from first attacks of ranged foes targeting unit in next enemy phase.",
+        "cost": 0,
+        "icon": "360",
+        "reference": {
+            "Emblem Ring": "Edelgard (Lv. 1 Sync)"
+        }
+    },
+    "poisongambit": {
+        "name": "Poison Gambit",
+        "desc": "Use when synced with Claude to attack a foe, then poison target and all foes adjacent to it after combat.",
+        "cost": 0,
+        "icon": "360",
+        "reference": {
+            "Emblem Ring": "Edelgard (Lv. 1 Sync)"
+        }
+    },
+    "weaponsync": {
+        "name": "Weapon Sync",
+        "desc": "If unit initiates combat using same weapon type as the synced Emblem, grants Atk+5. If engaged, grants Atk+5 regardless of weapon type.",
+        "cost": 3000,
+        "icon": "361",
+        "reference": {
+            "Emblem Ring": "Edelgard (Lv. 12 Sync)\nEdelgard (Lv. 12 Inheritance)"
+        }
+    },
+    "weaponsync+": {
+        "name": "Weapon Sync+",
+        "desc": "If unit initiates combat using same weapon type as the synced Emblem, grants Atk+7. If engaged, grants Atk+7 regardless of weapon type.",
+        "cost": 5000,
+        "icon": "362",
+        "reference": {
+            "Emblem Ring": "Edelgard (Lv. 17 Sync)\nEdelgard (Lv. 17 Inheritance)"
+        }
+    },
+    "lineage": {
+        "name": "Lineage",
+        "desc": "Increases unit's earned experience by 20%.",
+        "cost": 150,
+        "icon": "363",
+        "reference": {
+            "Emblem Ring": "Edelgard (Lv. 3 Sync)\nEdelgard (Lv. 3 Inheritance)"
+        }
+    },
+    "combatarts": {
+        "name": "Combat Arts",
+        "desc": "Enables use of Edelgard, Dimitri, or Claude's Combat Art. Spends some remaining engage turns.\n[Dragon] +10% damage.\n[Covert] Avo+20.",
+        "cost": 0,
+        "icon": "364",
+        "reference": {
+            "Emblem Ring": "Edelgard (Engage)"
+        }
+    },
+    "ragingstorm": {
+        "name": "Raging Storm",
+        "desc": "After combat, take another action. (Spend 3 turns.)",
+        "cost": 0,
+        "icon": "364",
+        "reference": {}
+    },
+    "atrocity": {
+        "name": "Atrocity",
+        "desc": "Attack at double weapon's Mt. (Spend 1 turn.)",
+        "cost": 0,
+        "icon": "364",
+        "reference": {}
+    },
+    "fallenstar": {
+        "name": "Fallen Star",
+        "desc": "Avoid foe's attacks during next combat. (Spend 1 turn.)",
+        "cost": 0,
+        "icon": "364",
+        "reference": {}
+    },
+    "housesunite": {
+        "name": "Houses Unite",
+        "desc": "Use to attack with Aymr, Areadbhar, and Failnaught at 50% damage.\n*If Byleth is adjacent*: After combat, take another action.\n[Dragon] +10% damage.\n[Cavalry] +10% damage with Areadbhar.\n[Covert] +10% damage with Failnaught.\n[Armored] +10% damage with Aymr.\n[Qi Adept] Breaks foe.",
+        "cost": 0,
+        "icon": "365",
+        "reference": {
+            "Emblem Ring": "Edelgard (Engage)"
+        }
+    },
+    "housesunite+": {
+        "name": "Houses Unite+",
+        "desc": "Use to attack with Aymr, Areadbhar, and Failnaught at 50% damage. After combat, take another action.\n[Dragon] +10% damage.\n[Cavalry] +10% damage with Areadbhar.\n[Covert] +10% damage with Failnaught.\n[Armored] +10% damage with Aymr.\n[Qi Adept] Breaks foe.",
+        "cost": 0,
+        "icon": "365",
+        "reference": {
+            "Emblem Ring": "Edelgard (Engage)"
+        }
+    },
+    "lightsphere": {
+        "name": "Lightsphere",
+        "desc": "If unit initiates combat, halves chance of receiving critical hit from foe.",
+        "cost": 900,
+        "icon": "366",
+        "reference": {
+            "Emblem Ring": "Tiki (Lv. 10 Sync)\nTiki (Lv. 10 Inheritance)"
+        }
+    },
+    "starsphere": {
+        "name": "Starsphere",
+        "desc": "Grants unit enhanced stat growth when leveling up.\n15% to all growth rates.",
+        "cost": 1500,
+        "icon": "367",
+        "reference": {
+            "Emblem Ring": "Tiki (Lv. 1 Sync)\nTiki (Lv. 1 Inheritance)"
+        }
+    },
+    "lifesphere": {
+        "name": "Lifesphere",
+        "desc": "If unit uses Wait without attacking or using items, restores 20 HP and heals status effects.",
+        "cost": 1000,
+        "icon": "368",
+        "reference": {
+            "Emblem Ring": "Tiki (Lv. 8 Sync)\nTiki (Lv. 8 Inheritance)"
+        }
+    },
+    "lifesphere+": {
+        "name": "Lifesphere+",
+        "desc": "If unit uses Wait without attacking or using items, restores 30 HP and heals status effects.",
+        "cost": 2000,
+        "icon": "369",
+        "reference": {
+            "Emblem Ring": "Tiki (Lv. 14 Sync)\nTiki (Lv. 14 Inheritance)"
+        }
+    },
+    "lifesphere++": {
+        "name": "Lifesphere++",
+        "desc": "If unit uses Wait without attacking or using items, restores 40 HP and heals status effects.",
+        "cost": 3000,
+        "icon": "370",
+        "reference": {
+            "Emblem Ring": "Tiki (Lv. 19 Sync)\nTiki (Lv. 19 Inheritance)"
+        }
+    },
+    "geosphere": {
+        "name": "Geosphere",
+        "desc": "At start of player phase, if there are allies adjacent to unit, grants Def/Res+3 to unit and those allies for 1 turn.",
+        "cost": 500,
+        "icon": "371",
+        "reference": {
+            "Emblem Ring": "Tiki (Lv. 3 Sync)\nTiki (Lv. 3 Inheritance)"
+        }
+    },
+    "geosphere+": {
+        "name": "Geosphere+",
+        "desc": "At start of player phase, if there are allies adjacent to unit, grants Def/Res+5 to unit and those allies for 1 turn.",
+        "cost": 1000,
+        "icon": "372",
+        "reference": {
+            "Emblem Ring": "Tiki (Lv. 16 Sync)\nTiki (Lv. 16 Inheritance)"
+        }
+    },
+    "draconicform": {
+        "name": "Draconic Form",
+        "desc": "Unit transforms into and fights as a dragon while engaged. Grants +10 to max HP and +5 to Bld and all basic stats.\n[Armored] Negates terrain damage.\n[Mystical] Grants an extra Res+5.",
+        "cost": 0,
+        "icon": "373",
+        "reference": {
+            "Emblem Ring": "Tiki (Engage)"
+        }
+    },
+    "divineblessing": {
+        "name": "Divine Blessing",
+        "desc": "Use to grant 1 ally a Revival Stone.\n*If Marth is adjacent*: If ally is not synced, fully restore HP. If ally is synced, +3 to engage meter. If ally is engaged, restore engage turns.\n[Dragon] Restore 20 HP to ally.\n[Qi Adept] Heal their status effects.",
+        "cost": 0,
+        "icon": "375",
+        "reference": {
+            "Emblem Ring": "Tiki (Engage)"
+        }
+    },
+    "divineblessing+": {
+        "name": "Divine Blessing+",
+        "desc": "Use to grant 1 ally a Revival Stone. If ally is not synced, fully restore HP. If ally is synced, +3 to engage meter. If ally is engaged, restore engage turns.\n[Dragon] Restore 20 HP to ally.\n[Qi Adept] Heal their status effects.",
+        "cost": 0,
+        "icon": "375",
+        "reference": {
+            "Emblem Ring": "Tiki (Engage)"
+        }
+    },
+    "strdex1": {
+        "name": "Str/Dex +1",
+        "desc": "Grants Str+1 and Dex+1.",
+        "cost": 700,
+        "icon": "377",
+        "reference": {
+            "Emblem Ring": "Edelgard (Lv. 3 Inheritance)"
+        }
+    },
+    "strdex2": {
+        "name": "Str/Dex +2",
+        "desc": "Grants Str+2 and Dex+2.",
+        "cost": 1600,
+        "icon": "378",
+        "reference": {
+            "Emblem Ring": "Edelgard (Lv. 7 Inheritance)"
+        }
+    },
+    "strdex3": {
+        "name": "Str/Dex +3",
+        "desc": "Grants Str+3 and Dex+3.",
+        "cost": 4200,
+        "icon": "379",
+        "reference": {
+            "Emblem Ring": "Edelgard (Lv. 12 Inheritance)"
+        }
+    },
+    "strdex4": {
+        "name": "Str/Dex +4",
+        "desc": "Grants Str+4 and Dex+4.",
+        "cost": 6000,
+        "icon": "380",
+        "reference": {
+            "Emblem Ring": "Edelgard (Lv. 16 Inheritance)"
+        }
+    },
+    "strdex5": {
+        "name": "Str/Dex +5",
+        "desc": "Grants Str+5 and Dex+5.",
+        "cost": 8400,
+        "icon": "381",
+        "reference": {
+            "Emblem Ring": "Edelgard (Lv. 18 Inheritance)"
+        }
+    },
+    "hplck2": {
+        "name": "HP/Lck +2",
+        "desc": "Grants HP+2 and Lck+2.",
+        "cost": 200,
+        "icon": "382",
+        "reference": {
+            "Emblem Ring": "Tiki (Lv. 2 Inheritance)"
+        }
+    },
+    "hplck4": {
+        "name": "HP/Lck +4",
+        "desc": "Grants HP+4 and Lck+4.",
+        "cost": 600,
+        "icon": "383",
+        "reference": {
+            "Emblem Ring": "Tiki (Lv. 7 Inheritance)"
+        }
+    },
+    "hplck6": {
+        "name": "HP/Lck +6",
+        "desc": "Grants HP+6 and Lck+6.",
+        "cost": 1100,
+        "icon": "384",
+        "reference": {
+            "Emblem Ring": "Tiki (Lv. 12 Inheritance)"
+        }
+    },
+    "hplck8": {
+        "name": "HP/Lck +8",
+        "desc": "Grants HP+8 and Lck+8.",
+        "cost": 1900,
+        "icon": "385",
+        "reference": {
+            "Emblem Ring": "Tiki (Lv. 15 Inheritance)"
+        }
+    },
+    "hplck10": {
+        "name": "HP/Lck +10",
+        "desc": "Grants HP+10 and Lck+10.",
+        "cost": 3600,
+        "icon": "386",
+        "reference": {
+            "Emblem Ring": "Tiki (Lv. 18 Inheritance)"
+        }
+    },
+    "bowguard1": {
+        "name": "Bow Guard 1",
+        "desc": "If foe is equipped with a bow, unit takes 1 less damage during combat.",
+        "cost": 200,
+        "icon": "387",
+        "reference": {
+            "Emblem Ring": "Edelgard (Lv. 4 Inheritance)"
+        }
+    },
+    "bowguard2": {
+        "name": "Bow Guard 2",
+        "desc": "If foe is equipped with a bow, unit takes 2 less damage during combat.",
+        "cost": 400,
+        "icon": "388",
+        "reference": {
+            "Emblem Ring": "Edelgard (Lv. 8 Inheritance)"
+        }
+    },
+    "bowguard3": {
+        "name": "Bow Guard 3",
+        "desc": "If foe is equipped with a bow, unit takes 3 less damage during combat.",
+        "cost": 600,
+        "icon": "389",
+        "reference": {
+            "Emblem Ring": "Edelgard (Lv. 14 Inheritance)"
+        }
+    },
+    "bowguard4": {
+        "name": "Bow Guard 4",
+        "desc": "If foe is equipped with a bow, unit takes 4 less damage during combat.",
+        "cost": 800,
+        "icon": "390",
+        "reference": {
+            "Emblem Ring": "Edelgard (Lv. 17 Inheritance)"
+        }
+    },
+    "bowguard5": {
+        "name": "Bow Guard 5",
+        "desc": "If foe is equipped with a bow, unit takes 5 less damage during combat.",
+        "cost": 1000,
+        "icon": "391",
+        "reference": {
+            "Emblem Ring": "Edelgard (Lv. 19 Inheritance)"
+        }
+    },
+    "specialguard1": {
+        "name": "Special Guard 1",
+        "desc": "If foe is equipped with a special attack, unit takes 1 less damage during combat.",
+        "cost": 200,
+        "icon": "392",
+        "reference": {
+            "Emblem Ring": "Tiki (Lv. 4 Inheritance)"
+        }
+    },
+    "specialguard2": {
+        "name": "Special Guard 2",
+        "desc": "If foe is equipped with a special attack, unit takes 2 less damage during combat.",
+        "cost": 400,
+        "icon": "393",
+        "reference": {
+            "Emblem Ring": "Tiki (Lv. 9 Inheritance)"
+        }
+    },
+    "specialguard3": {
+        "name": "Special Guard 3",
+        "desc": "If foe is equipped with a special attack, unit takes 3 less damage during combat.",
+        "cost": 600,
+        "icon": "394",
+        "reference": {
+            "Emblem Ring": "Tiki (Lv. 13 Inheritance)"
+        }
+    },
+    "specialguard4": {
+        "name": "Special Guard 4",
+        "desc": "If foe is equipped with a special attack, unit takes 4 less damage during combat.",
+        "cost": 800,
+        "icon": "395",
+        "reference": {
+            "Emblem Ring": "Tiki (Lv. 17 Inheritance)"
+        }
+    },
+    "specialguard5": {
+        "name": "Special Guard 5",
+        "desc": "If foe is equipped with a special attack, unit takes 5 less damage during combat.",
+        "cost": 1000,
+        "icon": "396",
+        "reference": {
+            "Emblem Ring": "Tiki (Lv. 19 Inheritance)"
+        }
+    },
+    "frostdomain": {
+        "name": "Frost Domain",
+        "desc": "At start of turn, applies frost to terrain within 2 spaces of unit.",
+        "cost": 0,
+        "icon": "397",
+        "reference": {}
+    },
+    "quickriposte": {
+        "name": "Quick Riposte",
+        "desc": "If unit's HP is 80% or more and foe initiates combat, unit will always follow up (if weapon allows).",
+        "cost": 2000,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Hector (Lv. 1 Sync)\nHector (Lv. 1 Inheritance)"
+        }
+    },
+    "quickriposte+": {
+        "name": "Quick Riposte+",
+        "desc": "If unit's HP is 60% or more and foe initiates combat, unit will always follow up (if weapon allows).",
+        "cost": 3000,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Hector (Lv. 16 Sync)\nHector (Lv. 16 Inheritance)"
+        }
+    },
+    "heavyattack": {
+        "name": "Heavy Attack",
+        "desc": "When making a physical attack, if an equipped weapon's Wt exceeds unit's Bld, adds excess as damage. (Max +5)",
+        "cost": 3000,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Hector (Lv. 8 Sync)\nHector (Lv. 8 Inheritance)"
+        }
+    },
+    "piercingglare": {
+        "name": "Piercing Glare",
+        "desc": "Use when HP is full to consume 20% of max HP and prevent foes from entering the 4 spaces diagonally adjacent to unit for 1 turn.",
+        "cost": 0,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Hector (Lv. 12 Sync)"
+        }
+    },
+    "adaptability": {
+        "name": "Adaptability",
+        "desc": "When hit by a foe's attack, grants Def+2 for a physical attack or Res+2 for a magical attack after combat. Lasts until end of battle, or until activated again.",
+        "cost": 350,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Hector (Lv. 3 Sync)\nHector (Lv. 3 Inheritance)"
+        }
+    },
+    "adaptability+": {
+        "name": "Adaptability+",
+        "desc": "When hit by a foe's attack, grants Def+3 for a physical attack or Res+3 for a magical attack after combat. Lasts until end of battle, or until activated again.",
+        "cost": 700,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Hector (Lv. 19 Sync)\nHector (Lv. 19 Inheritance)"
+        }
+    },
+    "impenetrable": {
+        "name": "Impenetrable",
+        "desc": "If foe initiates combat, grants Def/Res+30% during combat.\n[Dragon] Ddg+50%.\n[Cavalry] Grants immunity to freeze.\n[Armored] Grants Def+50% instead of +30%.\n[Flying] Grants Res+50% instead of +30%.",
+        "cost": 0,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Hector (Engage)"
+        }
+    },
+    "stormseye": {
+        "name": "Storm's Eye",
+        "desc": "Grants immunity to break. Foe cannot follow up. Unit follows up. Lasts 1 turn. Sword/axe only.\n*If Lyn is adjacent*: Unit counters before foe's first attack.\n[Dragon] Prevent one critical hit.\n[Backup] Crit+20.\n[Covert] Avo+30.",
+        "cost": 0,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Hector (Engage)"
+        }
+    },
+    "stormseye+": {
+        "name": "Storm's Eye+",
+        "desc": "Grants immunity to break. Foe cannot follow up. Unit counters before foe's first attack and follows up. Lasts 1 turn. Sword/axe only.\n[Dragon] Prevent one critical hit.\n[Backup] Crit+20.\n[Covert] Avo+30.",
+        "cost": 0,
+        "icon": null,
+        "reference": {}
+    },
+    "animafocus": {
+        "name": "Anima Focus",
+        "desc": "When using tomes, unit inflicts Def-3 with fire, Hit-20 with thunder, or Mov-2 with wind magic for 1 turn.",
+        "cost": 800,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Soren (Lv. 4 Sync)\nSoren (Lv. 4 Inheritance)"
+        }
+    },
+    "keeninsight": {
+        "name": "Keen Insight",
+        "desc": "When unit deals Effective damage, deal +5 damage.",
+        "cost": 1500,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Soren (Lv. 9 Sync)\nSoren (Lv. 9 Inheritance)"
+        }
+    },
+    "keeninsight+": {
+        "name": "Keen Insight+",
+        "desc": "When unit deals Effective damage, deal +7 damage.",
+        "cost": 3000,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Soren (Lv. 18 Sync)\nSoren (Lv. 18 Inheritance)"
+        }
+    },
+    "assigndecoy": {
+        "name": "Assign Decoy",
+        "desc": "Use to make one chosen ally more likely to be targeted by enemies for 1 turn. Effect is removed after ally is targeted by or otherwise damaged by foes 3 times.",
+        "cost": 1500,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Soren (Lv. 1 Sync)\nSoren (Lv. 1 Inheritance)"
+        }
+    },
+    "blockrecovery": {
+        "name": "Block Recovery",
+        "desc": "When attacking a broken foe with a tome, grants a chance the foe will remain broken. Chance increases with high Spd.",
+        "cost": 1500,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Soren (Lv. 13 Sync)\nSoren (Lv. 13 Inheritance)"
+        }
+    },
+    "flare": {
+        "name": "Flare",
+        "desc": "When attacking with tomes, inflicts Res-20% on foe, and unit recovers 50% of damage dealt.\n[Dragon] Doubles crit rate.\n[Mystical] Extra -10% to foe's Res.\n[Qi Adept] Unit recovers 100% of damage dealt instead.",
+        "cost": 0,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Soren (Engage)"
+        }
+    },
+    "cataclysm": {
+        "name": "Cataclysm",
+        "desc": "Use to attack foes in an area with fire, thunder and wind magic at 40% damage. Wind is effective: Flying.\n*If Ike is adjacent*: Increases range.\n[Dragon] Sets terrain on fire.\n[Mystical] +10% damage.\n[Qi Adept] 20% chance of breaking target.",
+        "cost": 0,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Soren (Engage)"
+        }
+    },
+    "cataclysm+": {
+        "name": "Cataclysm+",
+        "desc": "Use to attack foes in an area with fire, thunder and wind magic at 40% damage. Wind is effective: Flying.\n[Dragon] Sets terrain on fire.\n[Mystical] +10% damage.\n[Qi Adept] 20% chance of breaking target.",
+        "cost": 0,
+        "icon": null,
+        "reference": {}
+    },
+    "groundswell": {
+        "name": "Groundswell",
+        "desc": "After unit acts or waits in flames, miasma, or similar terrain effect, unit clears effect and recovers 10 HP.",
+        "cost": 500,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Camilla (Lv. 12 Sync)\nCamilla (Lv. 12 Inheritance)"
+        }
+    },
+    "detoxify": {
+        "name": "Detoxify",
+        "desc": "Cures poison at start of turn.",
+        "cost": 250,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Camilla (Lv. 8 Sync)\nCamilla (Lv. 8 Inheritance)"
+        }
+    },
+    "decisivestrike": {
+        "name": "Decisive Strike",
+        "desc": "If unit initiates combat and lands a critical, deals 5 damage to foe after combat.",
+        "cost": 500,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Camilla (Lv. 4 Sync)\nCamilla (Lv. 4 Inheritance)"
+        }
+    },
+    "decisivestrike+": {
+        "name": "Decisive Strike+",
+        "desc": "If unit initiates combat and lands a critical, deals 10 damage to foe after combat.",
+        "cost": 1000,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Camilla (Lv. 18 Sync)\nCamilla (Lv. 18 Inheritance)"
+        }
+    },
+    "soar": {
+        "name": "Soar",
+        "desc": "Grants Mov+2. Unit can cross terrain as if flying.\n[Dragon] If unit initiates combat, deals damage to foes within 2 spaces equal to 10% of their max HP after combat.\n[Cavalry] Grants an extra Mov+2.\n[Flying] Grants an extra Mov+1.",
+        "cost": 0,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Camilla (Engage)"
+        }
+    },
+    "darkinferno": {
+        "name": "Dark Inferno",
+        "desc": "Use to deal damage to foes on certain spaces near unit and set those spaces on fire.\n*If Corrin is adjacent*: Increases range.\n[Dragon] Increases area of effect.\n[Mystical] +20% damage.\n[Qi Adept] Adds Glow to adjacent spaces.",
+        "cost": 0,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Camilla (Engage)"
+        }
+    },
+    "darkinferno+": {
+        "name": "Dark Inferno+",
+        "desc": "Use to deal damage to foes on certain spaces near unit and set those spaces on fire.\n[Dragon] Increases area of effect.\n[Mystical] +20% damage.\n[Qi Adept] Adds Glow to adjacent spaces.",
+        "cost": 0,
+        "icon": null,
+        "reference": {}
+    },
+    "strdef1": {
+        "name": "Str/Def +1",
+        "desc": "Grants Str+1 and Def+1.",
+        "cost": 700,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Hector (Lv. 2 Inheritance)"
+        }
+    },
+    "strdef2": {
+        "name": "Str/Def +2",
+        "desc": "Grants Str+2 and Def+2.",
+        "cost": 1600,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Hector (Lv. 7 Inheritance)"
+        }
+    },
+    "strdef3": {
+        "name": "Str/Def +3",
+        "desc": "Grants Str+3 and Def+3.",
+        "cost": 4200,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Hector (Lv. 12 Inheritance)"
+        }
+    },
+    "strdef4": {
+        "name": "Str/Def +4",
+        "desc": "Grants Str+4 and Def+4.",
+        "cost": 6000,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Hector (Lv. 14 Inheritance)"
+        }
+    },
+    "strdef5": {
+        "name": "Str/Def +5",
+        "desc": "Grants Str+5 and Def+5.",
+        "cost": 8400,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Hector (Lv. 18 Inheritance)"
+        }
+    },
+    "magres1": {
+        "name": "Mag/Res +1",
+        "desc": "Grants Mag+1 and Res+1.",
+        "cost": 700,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Soren (Lv. 2 Inheritance)"
+        }
+    },
+    "magres2": {
+        "name": "Mag/Res +2",
+        "desc": "Grants Mag+2 and Res+2.",
+        "cost": 1600,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Soren (Lv. 7 Inheritance)"
+        }
+    },
+    "magres3": {
+        "name": "Mag/Res +3",
+        "desc": "Grants Mag+3 and Res+3.",
+        "cost": 4200,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Soren (Lv. 12 Inheritance)"
+        }
+    },
+    "magres4": {
+        "name": "Mag/Res +4",
+        "desc": "Grants Mag+4 and Res+4.",
+        "cost": 6000,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Soren (Lv. 14 Inheritance)"
+        }
+    },
+    "magres5": {
+        "name": "Mag/Res +5",
+        "desc": "Grants Mag+5 and Res+5.",
+        "cost": 8400,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Soren (Lv. 18 Inheritance)"
+        }
+    },
+    "spdres1": {
+        "name": "Spd/Res +1",
+        "desc": "Grants Spd+1 and Res+1.",
+        "cost": 250,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Camilla (Lv. 1 Inheritance)"
+        }
+    },
+    "spdres2": {
+        "name": "Spd/Res +2",
+        "desc": "Grants Spd+2 and Res+2.",
+        "cost": 700,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Camilla (Lv. 3 Inheritance)"
+        }
+    },
+    "spdres3": {
+        "name": "Spd/Res +3",
+        "desc": "Grants Spd+3 and Res+3.",
+        "cost": 1200,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Camilla (Lv. 9 Inheritance)"
+        }
+    },
+    "spdres4": {
+        "name": "Spd/Res +4",
+        "desc": "Grants Spd+4 and Res+4.",
+        "cost": 2400,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Camilla (Lv. 14 Inheritance)"
+        }
+    },
+    "spdres5": {
+        "name": "Spd/Res +5",
+        "desc": "Grants Spd+5 and Res+5.",
+        "cost": 4800,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Camilla (Lv. 18 Inheritance)"
+        }
+    },
+    "axeguard1": {
+        "name": "Axe Guard 1",
+        "desc": "If foe is equipped with an axe, unit takes 1 less damage during combat.",
+        "cost": 200,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Hector (Lv. 4 Inheritance)"
+        }
+    },
+    "axeguard2": {
+        "name": "Axe Guard 2",
+        "desc": "If foe is equipped with an axe, unit takes 2 less damage during combat.",
+        "cost": 400,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Hector (Lv. 9 Inheritance)"
+        }
+    },
+    "axeguard3": {
+        "name": "Axe Guard 3",
+        "desc": "If foe is equipped with an axe, unit takes 3 less damage during combat.",
+        "cost": 600,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Hector (Lv. 13 Inheritance)"
+        }
+    },
+    "axeguard4": {
+        "name": "Axe Guard 4",
+        "desc": "If foe is equipped with an axe, unit takes 4 less damage during combat.",
+        "cost": 800,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Hector (Lv. 17 Inheritance)"
+        }
+    },
+    "axeguard5": {
+        "name": "Axe Guard 5",
+        "desc": "If foe is equipped with an axe, unit takes 5 less damage during combat.",
+        "cost": 1000,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Hector (Lv. 19 Inheritance)"
+        }
+    },
+    "magicguard1": {
+        "name": "Magic Guard 1",
+        "desc": "If foe is equipped with a tome, unit takes 1 less damage during combat.",
+        "cost": 200,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Soren (Lv. 3 Inheritance)"
+        }
+    },
+    "magicguard2": {
+        "name": "Magic Guard 2",
+        "desc": "If foe is equipped with a tome, unit takes 2 less damage during combat.",
+        "cost": 400,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Soren (Lv. 8 Inheritance)"
+        }
+    },
+    "magicguard3": {
+        "name": "Magic Guard 3",
+        "desc": "If foe is equipped with a tome, unit takes 3 less damage during combat.",
+        "cost": 600,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Soren (Lv. 13 Inheritance)"
+        }
+    },
+    "magicguard4": {
+        "name": "Magic Guard 4",
+        "desc": "If foe is equipped with a tome, unit takes 4 less damage during combat.",
+        "cost": 800,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Soren (Lv. 17 Inheritance)"
+        }
+    },
+    "magicguard5": {
+        "name": "Magic Guard 5",
+        "desc": "If foe is equipped with a tome, unit takes 5 less damage during combat.",
+        "cost": 1000,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Soren (Lv. 19 Inheritance)"
+        }
+    },
+    "lanceguard1": {
+        "name": "Lance Guard 1",
+        "desc": "If foe is equipped with a lance, unit takes 1 less damage during combat.",
+        "cost": 200,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Camilla (Lv. 2 Inheritance)"
+        }
+    },
+    "lanceguard2": {
+        "name": "Lance Guard 2",
+        "desc": "If foe is equipped with a lance, unit takes 2 less damage during combat.",
+        "cost": 400,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Camilla (Lv. 7 Inheritance)"
+        }
+    },
+    "lanceguard3": {
+        "name": "Lance Guard 3",
+        "desc": "If foe is equipped with a lance, unit takes 3 less damage during combat.",
+        "cost": 600,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Camilla (Lv. 13 Inheritance)"
+        }
+    },
+    "lanceguard4": {
+        "name": "Lance Guard 4",
+        "desc": "If foe is equipped with a lance, unit takes 4 less damage during combat.",
+        "cost": 800,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Camilla (Lv. 16 Inheritance)"
+        }
+    },
+    "lanceguard5": {
+        "name": "Lance Guard 5",
+        "desc": "If foe is equipped with a lance, unit takes 5 less damage during combat.",
+        "cost": 1000,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Camilla (Lv. 19 Inheritance)"
+        }
+    },
+    "convoy": {
+        "name": "Convoy",
+        "desc": "Use to deposit or retrieve weapons and items.",
+        "cost": 0,
+        "icon": null,
+        "reference": {}
+    },
+    "spconversion": {
+        "name": "SP Conversion",
+        "desc": "Grants +20 SP for each defeated foe. Triggers even without a ring or bracelet equipped.",
+        "cost": 300,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Veronica (Lv. 13 Sync)\nVeronica (Lv. 13 Inheritance)"
+        }
+    },
+    "reprisal": {
+        "name": "Reprisal",
+        "desc": "If unit's HP is not full, adds 30% of lost HP to Atk.",
+        "cost": 5000,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Veronica (Lv. 1 Sync)\nVeronica (Lv. 1 Inheritance)"
+        }
+    },
+    "reprisal+": {
+        "name": "Reprisal+",
+        "desc": "If unit's HP is not full, adds 50% of lost HP to Atk.",
+        "cost": 6000,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Veronica (Lv. 18 Sync)\nVeronica (Lv. 18 Inheritance)"
+        }
+    },
+    "levelboost": {
+        "name": "Level Boost",
+        "desc": "When unit defeats a foe of a higher level, grants Lvl+1 until the end of battle. (Max +3)",
+        "cost": 300,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Veronica (Lv. 8 Sync)\nVeronica (Lv. 8 Inheritance)"
+        }
+    },
+    "bookofworlds": {
+        "name": "Book of Worlds",
+        "desc": "Book of Worlds advances 1 stage (to max 5) for each consecutive round that unit uses Wait. Reverts to base stage if unit triggers the effect.",
+        "cost": 300,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Veronica (Lv. 3 Sync)\nVeronica (Lv. 3 Inheritance)"
+        }
+    },
+    "bookiseal": {
+        "name": "Book I: Seal",
+        "desc": "If unit initiates combat, freezes foe after combat.",
+        "cost": 0,
+        "icon": null,
+        "reference": {}
+    },
+    "bookiiflame": {
+        "name": "Book II: Flame",
+        "desc": "If unit initiates combat, freezes foe and sets foe's space on fire after combat.",
+        "cost": 0,
+        "icon": null,
+        "reference": {}
+    },
+    "bookiiideath": {
+        "name": "Book III: Death",
+        "desc": "If unit initiates combat, deals 10 damage, freezes foe, and sets foe's space on fire after combat.",
+        "cost": 0,
+        "icon": null,
+        "reference": {}
+    },
+    "bookivdream": {
+        "name": "Book IV: Dream",
+        "desc": "If unit initiates combat, restores HP equal to damage dealt during combat, then deals 10 damage, freezes foe, and sets foe's space on fire after combat.",
+        "cost": 0,
+        "icon": null,
+        "reference": {}
+    },
+    "bookvscience": {
+        "name": "Book V: Science",
+        "desc": "If unit initiates combat, restores HP to self and adjacent allies equal to damage dealt during combat, then deals 10 damage, freezes foe, and sets foe's space on fire after combat.",
+        "cost": 0,
+        "icon": null,
+        "reference": {}
+    },
+    "contract": {
+        "name": "Contract",
+        "desc": "Use to grant another action to an adjacent ally who has already acted. (Ally cannot move.)\n[Dragon] Grants Str/Mag/Def/Res+2 to ally during action.\n[Backup] Unit participates in chain attack during ally action.\n[Covert] Grants Hit/Avo+30 to ally during action.",
+        "cost": 0,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Veronica (Engage)"
+        }
+    },
+    "summonhero": {
+        "name": "Summon Hero",
+        "desc": "Use to summon a random unit.\n[Dragon] Summons a powerful unit.\n[Backup] Summoned unit has the \"Dual Strike\" skill.\n[Cavarly] Summoned unit gets Mov+1.",
+        "cost": 0,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Veronica (Engage)"
+        }
+    },
+    "bruteforce": {
+        "name": "Brute Force",
+        "desc": "While making a physical attack, critical hits deal increased damage.",
+        "cost": 1500,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Chrom (Lv. 8 Sync)\nChrom (Lv. 8 Inheritance)"
+        }
+    },
+    "charm": {
+        "name": "Charm",
+        "desc": "If unit's attack triggers a chain attack, increases chain attack accuracy to 90%.",
+        "cost": 800,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Chrom (Lv. 13 Sync)\nChrom (Lv. 13 Inheritance)"
+        }
+    },
+    "surpriseattack": {
+        "name": "Surprise Attack",
+        "desc": "If unit initiates combat from terrain that provides an Avo bonus, foe cannot counterattack.",
+        "cost": 3000,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Chrom (Lv. 1 Sync)\nChrom (Lv. 1 Inheritance)"
+        }
+    },
+    "rally": {
+        "name": "Rally",
+        "desc": "Use to grant adjacent allies +3 to all seven basic stats for 1 turn.",
+        "cost": 1500,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Chrom (Lv. 4 Sync)\nChrom (Lv. 4 Inheritance)"
+        }
+    },
+    "rally+": {
+        "name": "Rally+",
+        "desc": "Use to grant allies within 2 spaces +3 to all seven basic stats for 1 turn.",
+        "cost": 2000,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Chrom (Lv. 18 Sync)\nChrom (Lv. 18 Inheritance)"
+        }
+    },
+    "rallyspectrum": {
+        "name": "Rally Spectrum",
+        "desc": "Use to grant adjacent allies +3 to all seven basic stats for 1 turn.",
+        "cost": 0,
+        "icon": null,
+        "reference": {}
+    },
+    "otherhalf": {
+        "name": "Other Half",
+        "desc": "If unit initiates combat, Robin chain attacks. Grants Mag+10 while engaged.\n[Dragon] Robin chain attacks 2 times.\n[Backup] Guaranteed hit with chain attack.\n[Covert] Grants Mov+1 while engaged.",
+        "cost": 0,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Chrom (Engage)"
+        }
+    },
+    "gigalevinsword": {
+        "name": "Giga Levin Sword",
+        "desc": "Use to attack with a magic sword. Magic attack that uses physical attack power. Swords only.\n[Dragon] Deals extra damage = half of Str.\n[Flying] Deals extra damage = Bld.\n[Mystical] Deals extra damage = half of Mag.",
+        "cost": 0,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Chrom (Engage)"
+        }
+    },
+    "gigalevinsword+": {
+        "name": "Giga Levin Sword+",
+        "desc": "Use to attack with a magic sword. Magic attack that uses physical attack power. Swords only. Adjacent allies chain attack.\n[Dragon] Deals extra damage = half of Str.\n[Flying] Deals extra damage = Bld.\n[Mystical] Deals extra damage = half of Mag.",
+        "cost": 0,
+        "icon": null,
+        "reference": {}
+    },
+    "magdex1": {
+        "name": "Mag/Dex +1",
+        "desc": "Grants Mag+1 and Dex+1.",
+        "cost": 700,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Veronica (Lv. 2 Inheritance)"
+        }
+    },
+    "magdex2": {
+        "name": "Mag/Dex +2",
+        "desc": "Grants Mag+2 and Dex+2.",
+        "cost": 1600,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Veronica (Lv. 7 Inheritance)"
+        }
+    },
+    "magdex3": {
+        "name": "Mag/Dex +3",
+        "desc": "Grants Mag+3 and Dex+3.",
+        "cost": 4200,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Veronica (Lv. 12 Inheritance)"
+        }
+    },
+    "magdex4": {
+        "name": "Mag/Dex +4",
+        "desc": "Grants Mag+4 and Dex+4.",
+        "cost": 6000,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Veronica (Lv. 14 Inheritance)"
+        }
+    },
+    "magdex5": {
+        "name": "Mag/Dex +5",
+        "desc": "Grants Mag+5 and Dex+5.",
+        "cost": 8400,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Veronica (Lv. 18 Inheritance)"
+        }
+    },
+    "spddex1": {
+        "name": "Spd/Dex +1",
+        "desc": "Grants Spd+1 and Dex+1.",
+        "cost": 250,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Chrom (Lv. 2 Inheritance)"
+        }
+    },
+    "spddex2": {
+        "name": "Spd/Dex +2",
+        "desc": "Grants Spd+2 and Dex+2.",
+        "cost": 700,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Chrom (Lv. 7 Inheritance)"
+        }
+    },
+    "spddex3": {
+        "name": "Spd/Dex +3",
+        "desc": "Grants Spd+3 and Dex+3.",
+        "cost": 1200,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Chrom (Lv. 12 Inheritance)"
+        }
+    },
+    "spddex4": {
+        "name": "Spd/Dex +4",
+        "desc": "Grants Spd+4 and Dex+4.",
+        "cost": 2400,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Chrom (Lv. 14 Inheritance)"
+        }
+    },
+    "spddex5": {
+        "name": "Spd/Dex +5",
+        "desc": "Grants Spd+5 and Dex+5.",
+        "cost": 4800,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Chrom (Lv. 18 Inheritance)"
+        }
+    },
+    "knifeguard1": {
+        "name": "Knife Guard 1",
+        "desc": "If foe is equipped with a knife, unit takes 1 less damage during combat.",
+        "cost": 200,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Veronica (Lv. 4 Inheritance)"
+        }
+    },
+    "knifeguard2": {
+        "name": "Knife Guard 2",
+        "desc": "If foe is equipped with a knife, unit takes 2 less damage during combat.",
+        "cost": 400,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Veronica (Lv. 9 Inheritance)"
+        }
+    },
+    "knifeguard3": {
+        "name": "Knife Guard 3",
+        "desc": "If foe is equipped with a knife, unit takes 3 less damage during combat.",
+        "cost": 600,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Veronica (Lv. 13 Inheritance)"
+        }
+    },
+    "knifeguard4": {
+        "name": "Knife Guard 4",
+        "desc": "If foe is equipped with a knife, unit takes 4 less damage during combat.",
+        "cost": 800,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Veronica (Lv. 17 Inheritance)"
+        }
+    },
+    "knifeguard5": {
+        "name": "Knife Guard 5",
+        "desc": "If foe is equipped with a knife, unit takes 5 less damage during combat.",
+        "cost": 1000,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Veronica (Lv. 19 Inheritance)"
+        }
+    },
+    "swordguard1": {
+        "name": "Sword Guard 1",
+        "desc": "If foe is equipped with a sword, unit takes 1 less damage during combat.",
+        "cost": 200,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Chrom (Lv. 3 Inheritance)"
+        }
+    },
+    "swordguard2": {
+        "name": "Sword Guard 2",
+        "desc": "If foe is equipped with a sword, unit takes 2 less damage during combat.",
+        "cost": 400,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Chrom (Lv. 9 Inheritance)"
+        }
+    },
+    "swordguard3": {
+        "name": "Sword Guard 3",
+        "desc": "If foe is equipped with a sword, unit takes 3 less damage during combat.",
+        "cost": 600,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Chrom (Lv. 13 Inheritance)"
+        }
+    },
+    "swordguard4": {
+        "name": "Sword Guard 4",
+        "desc": "If foe is equipped with a sword, unit takes 4 less damage during combat.",
+        "cost": 800,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Chrom (Lv. 17 Inheritance)"
+        }
+    },
+    "swordguard5": {
+        "name": "Sword Guard 5",
+        "desc": "If foe is equipped with a sword, unit takes 5 less damage during combat.",
+        "cost": 1000,
+        "icon": null,
+        "reference": {
+            "Emblem Ring": "Chrom (Lv. 19 Inheritance)"
+        }
+    },
+    "letfly": {
+        "name": "Let Fly",
+        "desc": "Use to perform a guaranteed-hit, area-of-effect attack at the start of the next player phase. Unit loses equipped weapon.",
+        "cost": 0,
+        "icon": null,
+        "reference": {}
+    },
+    "packhunter": {
+        "name": "Pack Hunter",
+        "desc": "Allies of the same class as unit within 3 spaces participate in chain attacks.",
+        "cost": 0,
+        "icon": null,
+        "reference": {}
+    },
+    "protective": {
+        "name": "Protective",
+        "desc": "If foe initiates combat against Rafal, grants Crit+10 to unit for 1 turn.",
+        "cost": 0,
+        "icon": null,
+        "reference": {}
+    },
+    "rivalry": {
+        "name": "Rivalry",
+        "desc": "When an ally within 2 spaces defeats a foe, grants Crit+10 to unit for 1 turn.",
+        "cost": 0,
+        "icon": null,
+        "reference": {}
+    },
+    "woundedpride": {
+        "name": "Wounded Pride",
+        "desc": "When an ally within 2 spaces defeats a foe, grants Crit+10 to unit for 1 turn.",
+        "cost": 0,
+        "icon": null,
+        "reference": {}
+    },
+    "friendlyboost": {
+        "name": "Friendly Boost",
+        "desc": "When unit defeats a foe, grants Hit+20 to allies within 2 spaces for 1 turn.",
+        "cost": 0,
+        "icon": null,
+        "reference": {}
+    },
+    "survivalplan": {
+        "name": "Survival Plan",
+        "desc": "When there are more foes than allies within 3 spaces, grants Avo+20.",
+        "cost": 0,
+        "icon": null,
+        "reference": {}
+    },
+    "knightlycode": {
+        "name": "Knightly Code",
+        "desc": "If foe initiates combat and unit is adjacent to an ally, unit takes 2 less damage.",
+        "cost": 0,
+        "icon": null,
+        "reference": {}
+    },
+    "selfdefense": {
+        "name": "Self-Defense",
+        "desc": "If unit uses Wait without attacking or using items, grants Str+2 for 1 turn.",
+        "cost": 0,
+        "icon": null,
+        "reference": {}
+    },
+    "fiercebloom": {
+        "name": "Fierce Bloom",
+        "desc": "Recovery items used by allies within 2 spaces heal +50% HP.",
+        "cost": 0,
+        "icon": null,
+        "reference": {}
+    },
+    "thisendshere": {
+        "name": "This Ends Here",
+        "desc": "If unit initiates combat, grants Hit+15 to unit and foe if foe is able to counterattack.",
+        "cost": 0,
+        "icon": null,
+        "reference": {}
+    },
+    "showoff": {
+        "name": "Show-Off",
+        "desc": "When an ally within 2 spaces is attacked, grants Str+3 to unit for 1 turn.",
+        "cost": 0,
+        "icon": null,
+        "reference": {}
+    },
+    "finalsay": {
+        "name": "Final Say",
+        "desc": "During combat with a foe who was also unit's most recent opponent, grants Hit+20.",
+        "cost": 0,
+        "icon": null,
+        "reference": {}
+    },
+    "stealthassist": {
+        "name": "Stealth Assist",
+        "desc": "When unit uses a healing staff, grants range +1.",
+        "cost": 0,
+        "icon": null,
+        "reference": {}
+    },
+    "dignityofsolm": {
+        "name": "Dignity of Solm",
+        "desc": "Inflicts Crit-5 on foes within 3 spaces.",
+        "cost": 0,
+        "icon": null,
+        "reference": {}
+    },
+    "weardown": {
+        "name": "Wear Down",
+        "desc": "During combat with a foe who was also unit's most recent opponent, inflicts Crit-10 on that foe.",
+        "cost": 0,
+        "icon": null,
+        "reference": {}
+    },
+    "miasmadomain": {
+        "name": "Miasma Domain",
+        "desc": "At start of turn, applies miasma to terrain within 2 spaces of unit.",
+        "cost": 0,
+        "icon": null,
+        "reference": {}
+    },
+    "resistemblems": {
+        "name": "Resist Emblems",
+        "desc": "When attacked with an engage attack, prevents 20% of damage.",
+        "cost": 0,
+        "icon": null,
+        "reference": {}
+    },
+    "spuremblems": {
+        "name": "Spur Emblems",
+        "desc": "At start of player phase, fills adjacent allies' engage meters by 1.",
+        "cost": 0,
+        "icon": null,
+        "reference": {}
+    }
+}

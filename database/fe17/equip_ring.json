@@ -1,0 +1,6014 @@
+{
+    "marth1": {
+        "name": "Marth (Lv. 1)",
+        "ring": "marth",
+        "rank": 1,
+        "ALT_NAME": [
+            "Marth1"
+        ]
+    },
+    "marth2": {
+        "name": "Marth (Lv. 2)",
+        "ring": "marth",
+        "rank": 2,
+        "ALT_NAME": [
+            "Marth2"
+        ]
+    },
+    "marth3": {
+        "name": "Marth (Lv. 3)",
+        "ring": "marth",
+        "rank": 3,
+        "ALT_NAME": [
+            "Marth3"
+        ]
+    },
+    "marth4": {
+        "name": "Marth (Lv. 4)",
+        "ring": "marth",
+        "rank": 4,
+        "ALT_NAME": [
+            "Marth4"
+        ]
+    },
+    "marth5": {
+        "name": "Marth (Lv. 5)",
+        "ring": "marth",
+        "rank": 5,
+        "ALT_NAME": [
+            "Marth5"
+        ]
+    },
+    "marth6": {
+        "name": "Marth (Lv. 6)",
+        "ring": "marth",
+        "rank": 6,
+        "ALT_NAME": [
+            "Marth6"
+        ]
+    },
+    "marth7": {
+        "name": "Marth (Lv. 7)",
+        "ring": "marth",
+        "rank": 7,
+        "ALT_NAME": [
+            "Marth7"
+        ]
+    },
+    "marth8": {
+        "name": "Marth (Lv. 8)",
+        "ring": "marth",
+        "rank": 8,
+        "ALT_NAME": [
+            "Marth8"
+        ]
+    },
+    "marth9": {
+        "name": "Marth (Lv. 9)",
+        "ring": "marth",
+        "rank": 9,
+        "ALT_NAME": [
+            "Marth9"
+        ]
+    },
+    "marth10": {
+        "name": "Marth (Lv. 10)",
+        "ring": "marth",
+        "rank": 10,
+        "ALT_NAME": [
+            "Marth10"
+        ]
+    },
+    "marth11": {
+        "name": "Marth (Lv. 11)",
+        "ring": "marth",
+        "rank": 11,
+        "ALT_NAME": [
+            "Marth11"
+        ]
+    },
+    "marth12": {
+        "name": "Marth (Lv. 12)",
+        "ring": "marth",
+        "rank": 12,
+        "ALT_NAME": [
+            "Marth12"
+        ]
+    },
+    "marth13": {
+        "name": "Marth (Lv. 13)",
+        "ring": "marth",
+        "rank": 13,
+        "ALT_NAME": [
+            "Marth13"
+        ]
+    },
+    "marth14": {
+        "name": "Marth (Lv. 14)",
+        "ring": "marth",
+        "rank": 14,
+        "ALT_NAME": [
+            "Marth14"
+        ]
+    },
+    "marth15": {
+        "name": "Marth (Lv. 15)",
+        "ring": "marth",
+        "rank": 15,
+        "ALT_NAME": [
+            "Marth15"
+        ]
+    },
+    "marth16": {
+        "name": "Marth (Lv. 16)",
+        "ring": "marth",
+        "rank": 16,
+        "ALT_NAME": [
+            "Marth16"
+        ]
+    },
+    "marth17": {
+        "name": "Marth (Lv. 17)",
+        "ring": "marth",
+        "rank": 17,
+        "ALT_NAME": [
+            "Marth17"
+        ]
+    },
+    "marth18": {
+        "name": "Marth (Lv. 18)",
+        "ring": "marth",
+        "rank": 18,
+        "ALT_NAME": [
+            "Marth18"
+        ]
+    },
+    "marth19": {
+        "name": "Marth (Lv. 19)",
+        "ring": "marth",
+        "rank": 19,
+        "ALT_NAME": [
+            "Marth19"
+        ]
+    },
+    "marth20": {
+        "name": "Marth (Lv. 20)",
+        "ring": "marth",
+        "rank": 20,
+        "ALT_NAME": [
+            "Marth20",
+            "Marth"
+        ]
+    },
+    "sigurd1": {
+        "name": "Sigurd (Lv. 1)",
+        "ring": "sigurd",
+        "rank": 1,
+        "ALT_NAME": [
+            "Sigurd1"
+        ]
+    },
+    "sigurd2": {
+        "name": "Sigurd (Lv. 2)",
+        "ring": "sigurd",
+        "rank": 2,
+        "ALT_NAME": [
+            "Sigurd2"
+        ]
+    },
+    "sigurd3": {
+        "name": "Sigurd (Lv. 3)",
+        "ring": "sigurd",
+        "rank": 3,
+        "ALT_NAME": [
+            "Sigurd3"
+        ]
+    },
+    "sigurd4": {
+        "name": "Sigurd (Lv. 4)",
+        "ring": "sigurd",
+        "rank": 4,
+        "ALT_NAME": [
+            "Sigurd4"
+        ]
+    },
+    "sigurd5": {
+        "name": "Sigurd (Lv. 5)",
+        "ring": "sigurd",
+        "rank": 5,
+        "ALT_NAME": [
+            "Sigurd5"
+        ]
+    },
+    "sigurd6": {
+        "name": "Sigurd (Lv. 6)",
+        "ring": "sigurd",
+        "rank": 6,
+        "ALT_NAME": [
+            "Sigurd6"
+        ]
+    },
+    "sigurd7": {
+        "name": "Sigurd (Lv. 7)",
+        "ring": "sigurd",
+        "rank": 7,
+        "ALT_NAME": [
+            "Sigurd7"
+        ]
+    },
+    "sigurd8": {
+        "name": "Sigurd (Lv. 8)",
+        "ring": "sigurd",
+        "rank": 8,
+        "ALT_NAME": [
+            "Sigurd8"
+        ]
+    },
+    "sigurd9": {
+        "name": "Sigurd (Lv. 9)",
+        "ring": "sigurd",
+        "rank": 9,
+        "ALT_NAME": [
+            "Sigurd9"
+        ]
+    },
+    "sigurd10": {
+        "name": "Sigurd (Lv. 10)",
+        "ring": "sigurd",
+        "rank": 10,
+        "ALT_NAME": [
+            "Sigurd10"
+        ]
+    },
+    "sigurd11": {
+        "name": "Sigurd (Lv. 11)",
+        "ring": "sigurd",
+        "rank": 11,
+        "ALT_NAME": [
+            "Sigurd11"
+        ]
+    },
+    "sigurd12": {
+        "name": "Sigurd (Lv. 12)",
+        "ring": "sigurd",
+        "rank": 12,
+        "ALT_NAME": [
+            "Sigurd12"
+        ]
+    },
+    "sigurd13": {
+        "name": "Sigurd (Lv. 13)",
+        "ring": "sigurd",
+        "rank": 13,
+        "ALT_NAME": [
+            "Sigurd13"
+        ]
+    },
+    "sigurd14": {
+        "name": "Sigurd (Lv. 14)",
+        "ring": "sigurd",
+        "rank": 14,
+        "ALT_NAME": [
+            "Sigurd14"
+        ]
+    },
+    "sigurd15": {
+        "name": "Sigurd (Lv. 15)",
+        "ring": "sigurd",
+        "rank": 15,
+        "ALT_NAME": [
+            "Sigurd15"
+        ]
+    },
+    "sigurd16": {
+        "name": "Sigurd (Lv. 16)",
+        "ring": "sigurd",
+        "rank": 16,
+        "ALT_NAME": [
+            "Sigurd16"
+        ]
+    },
+    "sigurd17": {
+        "name": "Sigurd (Lv. 17)",
+        "ring": "sigurd",
+        "rank": 17,
+        "ALT_NAME": [
+            "Sigurd17"
+        ]
+    },
+    "sigurd18": {
+        "name": "Sigurd (Lv. 18)",
+        "ring": "sigurd",
+        "rank": 18,
+        "ALT_NAME": [
+            "Sigurd18"
+        ]
+    },
+    "sigurd19": {
+        "name": "Sigurd (Lv. 19)",
+        "ring": "sigurd",
+        "rank": 19,
+        "ALT_NAME": [
+            "Sigurd19"
+        ]
+    },
+    "sigurd20": {
+        "name": "Sigurd (Lv. 20)",
+        "ring": "sigurd",
+        "rank": 20,
+        "ALT_NAME": [
+            "Sigurd20",
+            "Sigurd"
+        ]
+    },
+    "celica1": {
+        "name": "Celica (Lv. 1)",
+        "ring": "celica",
+        "rank": 1,
+        "ALT_NAME": [
+            "Celica1"
+        ]
+    },
+    "celica2": {
+        "name": "Celica (Lv. 2)",
+        "ring": "celica",
+        "rank": 2,
+        "ALT_NAME": [
+            "Celica2"
+        ]
+    },
+    "celica3": {
+        "name": "Celica (Lv. 3)",
+        "ring": "celica",
+        "rank": 3,
+        "ALT_NAME": [
+            "Celica3"
+        ]
+    },
+    "celica4": {
+        "name": "Celica (Lv. 4)",
+        "ring": "celica",
+        "rank": 4,
+        "ALT_NAME": [
+            "Celica4"
+        ]
+    },
+    "celica5": {
+        "name": "Celica (Lv. 5)",
+        "ring": "celica",
+        "rank": 5,
+        "ALT_NAME": [
+            "Celica5"
+        ]
+    },
+    "celica6": {
+        "name": "Celica (Lv. 6)",
+        "ring": "celica",
+        "rank": 6,
+        "ALT_NAME": [
+            "Celica6"
+        ]
+    },
+    "celica7": {
+        "name": "Celica (Lv. 7)",
+        "ring": "celica",
+        "rank": 7,
+        "ALT_NAME": [
+            "Celica7"
+        ]
+    },
+    "celica8": {
+        "name": "Celica (Lv. 8)",
+        "ring": "celica",
+        "rank": 8,
+        "ALT_NAME": [
+            "Celica8"
+        ]
+    },
+    "celica9": {
+        "name": "Celica (Lv. 9)",
+        "ring": "celica",
+        "rank": 9,
+        "ALT_NAME": [
+            "Celica9"
+        ]
+    },
+    "celica10": {
+        "name": "Celica (Lv. 10)",
+        "ring": "celica",
+        "rank": 10,
+        "ALT_NAME": [
+            "Celica10"
+        ]
+    },
+    "celica11": {
+        "name": "Celica (Lv. 11)",
+        "ring": "celica",
+        "rank": 11,
+        "ALT_NAME": [
+            "Celica11"
+        ]
+    },
+    "celica12": {
+        "name": "Celica (Lv. 12)",
+        "ring": "celica",
+        "rank": 12,
+        "ALT_NAME": [
+            "Celica12"
+        ]
+    },
+    "celica13": {
+        "name": "Celica (Lv. 13)",
+        "ring": "celica",
+        "rank": 13,
+        "ALT_NAME": [
+            "Celica13"
+        ]
+    },
+    "celica14": {
+        "name": "Celica (Lv. 14)",
+        "ring": "celica",
+        "rank": 14,
+        "ALT_NAME": [
+            "Celica14"
+        ]
+    },
+    "celica15": {
+        "name": "Celica (Lv. 15)",
+        "ring": "celica",
+        "rank": 15,
+        "ALT_NAME": [
+            "Celica15"
+        ]
+    },
+    "celica16": {
+        "name": "Celica (Lv. 16)",
+        "ring": "celica",
+        "rank": 16,
+        "ALT_NAME": [
+            "Celica16"
+        ]
+    },
+    "celica17": {
+        "name": "Celica (Lv. 17)",
+        "ring": "celica",
+        "rank": 17,
+        "ALT_NAME": [
+            "Celica17"
+        ]
+    },
+    "celica18": {
+        "name": "Celica (Lv. 18)",
+        "ring": "celica",
+        "rank": 18,
+        "ALT_NAME": [
+            "Celica18"
+        ]
+    },
+    "celica19": {
+        "name": "Celica (Lv. 19)",
+        "ring": "celica",
+        "rank": 19,
+        "ALT_NAME": [
+            "Celica19"
+        ]
+    },
+    "celica20": {
+        "name": "Celica (Lv. 20)",
+        "ring": "celica",
+        "rank": 20,
+        "ALT_NAME": [
+            "Celica20",
+            "Celica"
+        ]
+    },
+    "micaiah1": {
+        "name": "Micaiah (Lv. 1)",
+        "ring": "micaiah",
+        "rank": 1,
+        "ALT_NAME": [
+            "Micaiah1"
+        ]
+    },
+    "micaiah2": {
+        "name": "Micaiah (Lv. 2)",
+        "ring": "micaiah",
+        "rank": 2,
+        "ALT_NAME": [
+            "Micaiah2"
+        ]
+    },
+    "micaiah3": {
+        "name": "Micaiah (Lv. 3)",
+        "ring": "micaiah",
+        "rank": 3,
+        "ALT_NAME": [
+            "Micaiah3"
+        ]
+    },
+    "micaiah4": {
+        "name": "Micaiah (Lv. 4)",
+        "ring": "micaiah",
+        "rank": 4,
+        "ALT_NAME": [
+            "Micaiah4"
+        ]
+    },
+    "micaiah5": {
+        "name": "Micaiah (Lv. 5)",
+        "ring": "micaiah",
+        "rank": 5,
+        "ALT_NAME": [
+            "Micaiah5"
+        ]
+    },
+    "micaiah6": {
+        "name": "Micaiah (Lv. 6)",
+        "ring": "micaiah",
+        "rank": 6,
+        "ALT_NAME": [
+            "Micaiah6"
+        ]
+    },
+    "micaiah7": {
+        "name": "Micaiah (Lv. 7)",
+        "ring": "micaiah",
+        "rank": 7,
+        "ALT_NAME": [
+            "Micaiah7"
+        ]
+    },
+    "micaiah8": {
+        "name": "Micaiah (Lv. 8)",
+        "ring": "micaiah",
+        "rank": 8,
+        "ALT_NAME": [
+            "Micaiah8"
+        ]
+    },
+    "micaiah9": {
+        "name": "Micaiah (Lv. 9)",
+        "ring": "micaiah",
+        "rank": 9,
+        "ALT_NAME": [
+            "Micaiah9"
+        ]
+    },
+    "micaiah10": {
+        "name": "Micaiah (Lv. 10)",
+        "ring": "micaiah",
+        "rank": 10,
+        "ALT_NAME": [
+            "Micaiah10"
+        ]
+    },
+    "micaiah11": {
+        "name": "Micaiah (Lv. 11)",
+        "ring": "micaiah",
+        "rank": 11,
+        "ALT_NAME": [
+            "Micaiah11"
+        ]
+    },
+    "micaiah12": {
+        "name": "Micaiah (Lv. 12)",
+        "ring": "micaiah",
+        "rank": 12,
+        "ALT_NAME": [
+            "Micaiah12"
+        ]
+    },
+    "micaiah13": {
+        "name": "Micaiah (Lv. 13)",
+        "ring": "micaiah",
+        "rank": 13,
+        "ALT_NAME": [
+            "Micaiah13"
+        ]
+    },
+    "micaiah14": {
+        "name": "Micaiah (Lv. 14)",
+        "ring": "micaiah",
+        "rank": 14,
+        "ALT_NAME": [
+            "Micaiah14"
+        ]
+    },
+    "micaiah15": {
+        "name": "Micaiah (Lv. 15)",
+        "ring": "micaiah",
+        "rank": 15,
+        "ALT_NAME": [
+            "Micaiah15"
+        ]
+    },
+    "micaiah16": {
+        "name": "Micaiah (Lv. 16)",
+        "ring": "micaiah",
+        "rank": 16,
+        "ALT_NAME": [
+            "Micaiah16"
+        ]
+    },
+    "micaiah17": {
+        "name": "Micaiah (Lv. 17)",
+        "ring": "micaiah",
+        "rank": 17,
+        "ALT_NAME": [
+            "Micaiah17"
+        ]
+    },
+    "micaiah18": {
+        "name": "Micaiah (Lv. 18)",
+        "ring": "micaiah",
+        "rank": 18,
+        "ALT_NAME": [
+            "Micaiah18"
+        ]
+    },
+    "micaiah19": {
+        "name": "Micaiah (Lv. 19)",
+        "ring": "micaiah",
+        "rank": 19,
+        "ALT_NAME": [
+            "Micaiah19"
+        ]
+    },
+    "micaiah20": {
+        "name": "Micaiah (Lv. 20)",
+        "ring": "micaiah",
+        "rank": 20,
+        "ALT_NAME": [
+            "Micaiah20",
+            "Micaiah"
+        ]
+    },
+    "roy1": {
+        "name": "Roy (Lv. 1)",
+        "ring": "roy",
+        "rank": 1,
+        "ALT_NAME": [
+            "Roy1"
+        ]
+    },
+    "roy2": {
+        "name": "Roy (Lv. 2)",
+        "ring": "roy",
+        "rank": 2,
+        "ALT_NAME": [
+            "Roy2"
+        ]
+    },
+    "roy3": {
+        "name": "Roy (Lv. 3)",
+        "ring": "roy",
+        "rank": 3,
+        "ALT_NAME": [
+            "Roy3"
+        ]
+    },
+    "roy4": {
+        "name": "Roy (Lv. 4)",
+        "ring": "roy",
+        "rank": 4,
+        "ALT_NAME": [
+            "Roy4"
+        ]
+    },
+    "roy5": {
+        "name": "Roy (Lv. 5)",
+        "ring": "roy",
+        "rank": 5,
+        "ALT_NAME": [
+            "Roy5"
+        ]
+    },
+    "roy6": {
+        "name": "Roy (Lv. 6)",
+        "ring": "roy",
+        "rank": 6,
+        "ALT_NAME": [
+            "Roy6"
+        ]
+    },
+    "roy7": {
+        "name": "Roy (Lv. 7)",
+        "ring": "roy",
+        "rank": 7,
+        "ALT_NAME": [
+            "Roy7"
+        ]
+    },
+    "roy8": {
+        "name": "Roy (Lv. 8)",
+        "ring": "roy",
+        "rank": 8,
+        "ALT_NAME": [
+            "Roy8"
+        ]
+    },
+    "roy9": {
+        "name": "Roy (Lv. 9)",
+        "ring": "roy",
+        "rank": 9,
+        "ALT_NAME": [
+            "Roy9"
+        ]
+    },
+    "roy10": {
+        "name": "Roy (Lv. 10)",
+        "ring": "roy",
+        "rank": 10,
+        "ALT_NAME": [
+            "Roy10"
+        ]
+    },
+    "roy11": {
+        "name": "Roy (Lv. 11)",
+        "ring": "roy",
+        "rank": 11,
+        "ALT_NAME": [
+            "Roy11"
+        ]
+    },
+    "roy12": {
+        "name": "Roy (Lv. 12)",
+        "ring": "roy",
+        "rank": 12,
+        "ALT_NAME": [
+            "Roy12"
+        ]
+    },
+    "roy13": {
+        "name": "Roy (Lv. 13)",
+        "ring": "roy",
+        "rank": 13,
+        "ALT_NAME": [
+            "Roy13"
+        ]
+    },
+    "roy14": {
+        "name": "Roy (Lv. 14)",
+        "ring": "roy",
+        "rank": 14,
+        "ALT_NAME": [
+            "Roy14"
+        ]
+    },
+    "roy15": {
+        "name": "Roy (Lv. 15)",
+        "ring": "roy",
+        "rank": 15,
+        "ALT_NAME": [
+            "Roy15"
+        ]
+    },
+    "roy16": {
+        "name": "Roy (Lv. 16)",
+        "ring": "roy",
+        "rank": 16,
+        "ALT_NAME": [
+            "Roy16"
+        ]
+    },
+    "roy17": {
+        "name": "Roy (Lv. 17)",
+        "ring": "roy",
+        "rank": 17,
+        "ALT_NAME": [
+            "Roy17"
+        ]
+    },
+    "roy18": {
+        "name": "Roy (Lv. 18)",
+        "ring": "roy",
+        "rank": 18,
+        "ALT_NAME": [
+            "Roy18"
+        ]
+    },
+    "roy19": {
+        "name": "Roy (Lv. 19)",
+        "ring": "roy",
+        "rank": 19,
+        "ALT_NAME": [
+            "Roy19"
+        ]
+    },
+    "roy20": {
+        "name": "Roy (Lv. 20)",
+        "ring": "roy",
+        "rank": 20,
+        "ALT_NAME": [
+            "Roy20",
+            "Roy"
+        ]
+    },
+    "leif1": {
+        "name": "Leif (Lv. 1)",
+        "ring": "leif",
+        "rank": 1,
+        "ALT_NAME": [
+            "Leif1"
+        ]
+    },
+    "leif2": {
+        "name": "Leif (Lv. 2)",
+        "ring": "leif",
+        "rank": 2,
+        "ALT_NAME": [
+            "Leif2"
+        ]
+    },
+    "leif3": {
+        "name": "Leif (Lv. 3)",
+        "ring": "leif",
+        "rank": 3,
+        "ALT_NAME": [
+            "Leif3"
+        ]
+    },
+    "leif4": {
+        "name": "Leif (Lv. 4)",
+        "ring": "leif",
+        "rank": 4,
+        "ALT_NAME": [
+            "Leif4"
+        ]
+    },
+    "leif5": {
+        "name": "Leif (Lv. 5)",
+        "ring": "leif",
+        "rank": 5,
+        "ALT_NAME": [
+            "Leif5"
+        ]
+    },
+    "leif6": {
+        "name": "Leif (Lv. 6)",
+        "ring": "leif",
+        "rank": 6,
+        "ALT_NAME": [
+            "Leif6"
+        ]
+    },
+    "leif7": {
+        "name": "Leif (Lv. 7)",
+        "ring": "leif",
+        "rank": 7,
+        "ALT_NAME": [
+            "Leif7"
+        ]
+    },
+    "leif8": {
+        "name": "Leif (Lv. 8)",
+        "ring": "leif",
+        "rank": 8,
+        "ALT_NAME": [
+            "Leif8"
+        ]
+    },
+    "leif9": {
+        "name": "Leif (Lv. 9)",
+        "ring": "leif",
+        "rank": 9,
+        "ALT_NAME": [
+            "Leif9"
+        ]
+    },
+    "leif10": {
+        "name": "Leif (Lv. 10)",
+        "ring": "leif",
+        "rank": 10,
+        "ALT_NAME": [
+            "Leif10"
+        ]
+    },
+    "leif11": {
+        "name": "Leif (Lv. 11)",
+        "ring": "leif",
+        "rank": 11,
+        "ALT_NAME": [
+            "Leif11"
+        ]
+    },
+    "leif12": {
+        "name": "Leif (Lv. 12)",
+        "ring": "leif",
+        "rank": 12,
+        "ALT_NAME": [
+            "Leif12"
+        ]
+    },
+    "leif13": {
+        "name": "Leif (Lv. 13)",
+        "ring": "leif",
+        "rank": 13,
+        "ALT_NAME": [
+            "Leif13"
+        ]
+    },
+    "leif14": {
+        "name": "Leif (Lv. 14)",
+        "ring": "leif",
+        "rank": 14,
+        "ALT_NAME": [
+            "Leif14"
+        ]
+    },
+    "leif15": {
+        "name": "Leif (Lv. 15)",
+        "ring": "leif",
+        "rank": 15,
+        "ALT_NAME": [
+            "Leif15"
+        ]
+    },
+    "leif16": {
+        "name": "Leif (Lv. 16)",
+        "ring": "leif",
+        "rank": 16,
+        "ALT_NAME": [
+            "Leif16"
+        ]
+    },
+    "leif17": {
+        "name": "Leif (Lv. 17)",
+        "ring": "leif",
+        "rank": 17,
+        "ALT_NAME": [
+            "Leif17"
+        ]
+    },
+    "leif18": {
+        "name": "Leif (Lv. 18)",
+        "ring": "leif",
+        "rank": 18,
+        "ALT_NAME": [
+            "Leif18"
+        ]
+    },
+    "leif19": {
+        "name": "Leif (Lv. 19)",
+        "ring": "leif",
+        "rank": 19,
+        "ALT_NAME": [
+            "Leif19"
+        ]
+    },
+    "leif20": {
+        "name": "Leif (Lv. 20)",
+        "ring": "leif",
+        "rank": 20,
+        "ALT_NAME": [
+            "Leif20",
+            "Leif"
+        ]
+    },
+    "lucina1": {
+        "name": "Lucina (Lv. 1)",
+        "ring": "lucina",
+        "rank": 1,
+        "ALT_NAME": [
+            "Lucina1"
+        ]
+    },
+    "lucina2": {
+        "name": "Lucina (Lv. 2)",
+        "ring": "lucina",
+        "rank": 2,
+        "ALT_NAME": [
+            "Lucina2"
+        ]
+    },
+    "lucina3": {
+        "name": "Lucina (Lv. 3)",
+        "ring": "lucina",
+        "rank": 3,
+        "ALT_NAME": [
+            "Lucina3"
+        ]
+    },
+    "lucina4": {
+        "name": "Lucina (Lv. 4)",
+        "ring": "lucina",
+        "rank": 4,
+        "ALT_NAME": [
+            "Lucina4"
+        ]
+    },
+    "lucina5": {
+        "name": "Lucina (Lv. 5)",
+        "ring": "lucina",
+        "rank": 5,
+        "ALT_NAME": [
+            "Lucina5"
+        ]
+    },
+    "lucina6": {
+        "name": "Lucina (Lv. 6)",
+        "ring": "lucina",
+        "rank": 6,
+        "ALT_NAME": [
+            "Lucina6"
+        ]
+    },
+    "lucina7": {
+        "name": "Lucina (Lv. 7)",
+        "ring": "lucina",
+        "rank": 7,
+        "ALT_NAME": [
+            "Lucina7"
+        ]
+    },
+    "lucina8": {
+        "name": "Lucina (Lv. 8)",
+        "ring": "lucina",
+        "rank": 8,
+        "ALT_NAME": [
+            "Lucina8"
+        ]
+    },
+    "lucina9": {
+        "name": "Lucina (Lv. 9)",
+        "ring": "lucina",
+        "rank": 9,
+        "ALT_NAME": [
+            "Lucina9"
+        ]
+    },
+    "lucina10": {
+        "name": "Lucina (Lv. 10)",
+        "ring": "lucina",
+        "rank": 10,
+        "ALT_NAME": [
+            "Lucina10"
+        ]
+    },
+    "lucina11": {
+        "name": "Lucina (Lv. 11)",
+        "ring": "lucina",
+        "rank": 11,
+        "ALT_NAME": [
+            "Lucina11"
+        ]
+    },
+    "lucina12": {
+        "name": "Lucina (Lv. 12)",
+        "ring": "lucina",
+        "rank": 12,
+        "ALT_NAME": [
+            "Lucina12"
+        ]
+    },
+    "lucina13": {
+        "name": "Lucina (Lv. 13)",
+        "ring": "lucina",
+        "rank": 13,
+        "ALT_NAME": [
+            "Lucina13"
+        ]
+    },
+    "lucina14": {
+        "name": "Lucina (Lv. 14)",
+        "ring": "lucina",
+        "rank": 14,
+        "ALT_NAME": [
+            "Lucina14"
+        ]
+    },
+    "lucina15": {
+        "name": "Lucina (Lv. 15)",
+        "ring": "lucina",
+        "rank": 15,
+        "ALT_NAME": [
+            "Lucina15"
+        ]
+    },
+    "lucina16": {
+        "name": "Lucina (Lv. 16)",
+        "ring": "lucina",
+        "rank": 16,
+        "ALT_NAME": [
+            "Lucina16"
+        ]
+    },
+    "lucina17": {
+        "name": "Lucina (Lv. 17)",
+        "ring": "lucina",
+        "rank": 17,
+        "ALT_NAME": [
+            "Lucina17"
+        ]
+    },
+    "lucina18": {
+        "name": "Lucina (Lv. 18)",
+        "ring": "lucina",
+        "rank": 18,
+        "ALT_NAME": [
+            "Lucina18"
+        ]
+    },
+    "lucina19": {
+        "name": "Lucina (Lv. 19)",
+        "ring": "lucina",
+        "rank": 19,
+        "ALT_NAME": [
+            "Lucina19"
+        ]
+    },
+    "lucina20": {
+        "name": "Lucina (Lv. 20)",
+        "ring": "lucina",
+        "rank": 20,
+        "ALT_NAME": [
+            "Lucina20",
+            "Lucina"
+        ]
+    },
+    "lyn1": {
+        "name": "Lyn (Lv. 1)",
+        "ring": "lyn",
+        "rank": 1,
+        "ALT_NAME": [
+            "Lyn1"
+        ]
+    },
+    "lyn2": {
+        "name": "Lyn (Lv. 2)",
+        "ring": "lyn",
+        "rank": 2,
+        "ALT_NAME": [
+            "Lyn2"
+        ]
+    },
+    "lyn3": {
+        "name": "Lyn (Lv. 3)",
+        "ring": "lyn",
+        "rank": 3,
+        "ALT_NAME": [
+            "Lyn3"
+        ]
+    },
+    "lyn4": {
+        "name": "Lyn (Lv. 4)",
+        "ring": "lyn",
+        "rank": 4,
+        "ALT_NAME": [
+            "Lyn4"
+        ]
+    },
+    "lyn5": {
+        "name": "Lyn (Lv. 5)",
+        "ring": "lyn",
+        "rank": 5,
+        "ALT_NAME": [
+            "Lyn5"
+        ]
+    },
+    "lyn6": {
+        "name": "Lyn (Lv. 6)",
+        "ring": "lyn",
+        "rank": 6,
+        "ALT_NAME": [
+            "Lyn6"
+        ]
+    },
+    "lyn7": {
+        "name": "Lyn (Lv. 7)",
+        "ring": "lyn",
+        "rank": 7,
+        "ALT_NAME": [
+            "Lyn7"
+        ]
+    },
+    "lyn8": {
+        "name": "Lyn (Lv. 8)",
+        "ring": "lyn",
+        "rank": 8,
+        "ALT_NAME": [
+            "Lyn8"
+        ]
+    },
+    "lyn9": {
+        "name": "Lyn (Lv. 9)",
+        "ring": "lyn",
+        "rank": 9,
+        "ALT_NAME": [
+            "Lyn9"
+        ]
+    },
+    "lyn10": {
+        "name": "Lyn (Lv. 10)",
+        "ring": "lyn",
+        "rank": 10,
+        "ALT_NAME": [
+            "Lyn10"
+        ]
+    },
+    "lyn11": {
+        "name": "Lyn (Lv. 11)",
+        "ring": "lyn",
+        "rank": 11,
+        "ALT_NAME": [
+            "Lyn11"
+        ]
+    },
+    "lyn12": {
+        "name": "Lyn (Lv. 12)",
+        "ring": "lyn",
+        "rank": 12,
+        "ALT_NAME": [
+            "Lyn12"
+        ]
+    },
+    "lyn13": {
+        "name": "Lyn (Lv. 13)",
+        "ring": "lyn",
+        "rank": 13,
+        "ALT_NAME": [
+            "Lyn13"
+        ]
+    },
+    "lyn14": {
+        "name": "Lyn (Lv. 14)",
+        "ring": "lyn",
+        "rank": 14,
+        "ALT_NAME": [
+            "Lyn14"
+        ]
+    },
+    "lyn15": {
+        "name": "Lyn (Lv. 15)",
+        "ring": "lyn",
+        "rank": 15,
+        "ALT_NAME": [
+            "Lyn15"
+        ]
+    },
+    "lyn16": {
+        "name": "Lyn (Lv. 16)",
+        "ring": "lyn",
+        "rank": 16,
+        "ALT_NAME": [
+            "Lyn16"
+        ]
+    },
+    "lyn17": {
+        "name": "Lyn (Lv. 17)",
+        "ring": "lyn",
+        "rank": 17,
+        "ALT_NAME": [
+            "Lyn17"
+        ]
+    },
+    "lyn18": {
+        "name": "Lyn (Lv. 18)",
+        "ring": "lyn",
+        "rank": 18,
+        "ALT_NAME": [
+            "Lyn18"
+        ]
+    },
+    "lyn19": {
+        "name": "Lyn (Lv. 19)",
+        "ring": "lyn",
+        "rank": 19,
+        "ALT_NAME": [
+            "Lyn19"
+        ]
+    },
+    "lyn20": {
+        "name": "Lyn (Lv. 20)",
+        "ring": "lyn",
+        "rank": 20,
+        "ALT_NAME": [
+            "Lyn20",
+            "Lyn"
+        ]
+    },
+    "ike1": {
+        "name": "Ike (Lv. 1)",
+        "ring": "ike",
+        "rank": 1,
+        "ALT_NAME": [
+            "Ike1"
+        ]
+    },
+    "ike2": {
+        "name": "Ike (Lv. 2)",
+        "ring": "ike",
+        "rank": 2,
+        "ALT_NAME": [
+            "Ike2"
+        ]
+    },
+    "ike3": {
+        "name": "Ike (Lv. 3)",
+        "ring": "ike",
+        "rank": 3,
+        "ALT_NAME": [
+            "Ike3"
+        ]
+    },
+    "ike4": {
+        "name": "Ike (Lv. 4)",
+        "ring": "ike",
+        "rank": 4,
+        "ALT_NAME": [
+            "Ike4"
+        ]
+    },
+    "ike5": {
+        "name": "Ike (Lv. 5)",
+        "ring": "ike",
+        "rank": 5,
+        "ALT_NAME": [
+            "Ike5"
+        ]
+    },
+    "ike6": {
+        "name": "Ike (Lv. 6)",
+        "ring": "ike",
+        "rank": 6,
+        "ALT_NAME": [
+            "Ike6"
+        ]
+    },
+    "ike7": {
+        "name": "Ike (Lv. 7)",
+        "ring": "ike",
+        "rank": 7,
+        "ALT_NAME": [
+            "Ike7"
+        ]
+    },
+    "ike8": {
+        "name": "Ike (Lv. 8)",
+        "ring": "ike",
+        "rank": 8,
+        "ALT_NAME": [
+            "Ike8"
+        ]
+    },
+    "ike9": {
+        "name": "Ike (Lv. 9)",
+        "ring": "ike",
+        "rank": 9,
+        "ALT_NAME": [
+            "Ike9"
+        ]
+    },
+    "ike10": {
+        "name": "Ike (Lv. 10)",
+        "ring": "ike",
+        "rank": 10,
+        "ALT_NAME": [
+            "Ike10"
+        ]
+    },
+    "ike11": {
+        "name": "Ike (Lv. 11)",
+        "ring": "ike",
+        "rank": 11,
+        "ALT_NAME": [
+            "Ike11"
+        ]
+    },
+    "ike12": {
+        "name": "Ike (Lv. 12)",
+        "ring": "ike",
+        "rank": 12,
+        "ALT_NAME": [
+            "Ike12"
+        ]
+    },
+    "ike13": {
+        "name": "Ike (Lv. 13)",
+        "ring": "ike",
+        "rank": 13,
+        "ALT_NAME": [
+            "Ike13"
+        ]
+    },
+    "ike14": {
+        "name": "Ike (Lv. 14)",
+        "ring": "ike",
+        "rank": 14,
+        "ALT_NAME": [
+            "Ike14"
+        ]
+    },
+    "ike15": {
+        "name": "Ike (Lv. 15)",
+        "ring": "ike",
+        "rank": 15,
+        "ALT_NAME": [
+            "Ike15"
+        ]
+    },
+    "ike16": {
+        "name": "Ike (Lv. 16)",
+        "ring": "ike",
+        "rank": 16,
+        "ALT_NAME": [
+            "Ike16"
+        ]
+    },
+    "ike17": {
+        "name": "Ike (Lv. 17)",
+        "ring": "ike",
+        "rank": 17,
+        "ALT_NAME": [
+            "Ike17"
+        ]
+    },
+    "ike18": {
+        "name": "Ike (Lv. 18)",
+        "ring": "ike",
+        "rank": 18,
+        "ALT_NAME": [
+            "Ike18"
+        ]
+    },
+    "ike19": {
+        "name": "Ike (Lv. 19)",
+        "ring": "ike",
+        "rank": 19,
+        "ALT_NAME": [
+            "Ike19"
+        ]
+    },
+    "ike20": {
+        "name": "Ike (Lv. 20)",
+        "ring": "ike",
+        "rank": 20,
+        "ALT_NAME": [
+            "Ike20",
+            "Ike"
+        ]
+    },
+    "byleth1": {
+        "name": "Byleth (Lv. 1)",
+        "ring": "byleth",
+        "rank": 1,
+        "ALT_NAME": [
+            "Byleth1"
+        ]
+    },
+    "byleth2": {
+        "name": "Byleth (Lv. 2)",
+        "ring": "byleth",
+        "rank": 2,
+        "ALT_NAME": [
+            "Byleth2"
+        ]
+    },
+    "byleth3": {
+        "name": "Byleth (Lv. 3)",
+        "ring": "byleth",
+        "rank": 3,
+        "ALT_NAME": [
+            "Byleth3"
+        ]
+    },
+    "byleth4": {
+        "name": "Byleth (Lv. 4)",
+        "ring": "byleth",
+        "rank": 4,
+        "ALT_NAME": [
+            "Byleth4"
+        ]
+    },
+    "byleth5": {
+        "name": "Byleth (Lv. 5)",
+        "ring": "byleth",
+        "rank": 5,
+        "ALT_NAME": [
+            "Byleth5"
+        ]
+    },
+    "byleth6": {
+        "name": "Byleth (Lv. 6)",
+        "ring": "byleth",
+        "rank": 6,
+        "ALT_NAME": [
+            "Byleth6"
+        ]
+    },
+    "byleth7": {
+        "name": "Byleth (Lv. 7)",
+        "ring": "byleth",
+        "rank": 7,
+        "ALT_NAME": [
+            "Byleth7"
+        ]
+    },
+    "byleth8": {
+        "name": "Byleth (Lv. 8)",
+        "ring": "byleth",
+        "rank": 8,
+        "ALT_NAME": [
+            "Byleth8"
+        ]
+    },
+    "byleth9": {
+        "name": "Byleth (Lv. 9)",
+        "ring": "byleth",
+        "rank": 9,
+        "ALT_NAME": [
+            "Byleth9"
+        ]
+    },
+    "byleth10": {
+        "name": "Byleth (Lv. 10)",
+        "ring": "byleth",
+        "rank": 10,
+        "ALT_NAME": [
+            "Byleth10"
+        ]
+    },
+    "byleth11": {
+        "name": "Byleth (Lv. 11)",
+        "ring": "byleth",
+        "rank": 11,
+        "ALT_NAME": [
+            "Byleth11"
+        ]
+    },
+    "byleth12": {
+        "name": "Byleth (Lv. 12)",
+        "ring": "byleth",
+        "rank": 12,
+        "ALT_NAME": [
+            "Byleth12"
+        ]
+    },
+    "byleth13": {
+        "name": "Byleth (Lv. 13)",
+        "ring": "byleth",
+        "rank": 13,
+        "ALT_NAME": [
+            "Byleth13"
+        ]
+    },
+    "byleth14": {
+        "name": "Byleth (Lv. 14)",
+        "ring": "byleth",
+        "rank": 14,
+        "ALT_NAME": [
+            "Byleth14"
+        ]
+    },
+    "byleth15": {
+        "name": "Byleth (Lv. 15)",
+        "ring": "byleth",
+        "rank": 15,
+        "ALT_NAME": [
+            "Byleth15"
+        ]
+    },
+    "byleth16": {
+        "name": "Byleth (Lv. 16)",
+        "ring": "byleth",
+        "rank": 16,
+        "ALT_NAME": [
+            "Byleth16"
+        ]
+    },
+    "byleth17": {
+        "name": "Byleth (Lv. 17)",
+        "ring": "byleth",
+        "rank": 17,
+        "ALT_NAME": [
+            "Byleth17"
+        ]
+    },
+    "byleth18": {
+        "name": "Byleth (Lv. 18)",
+        "ring": "byleth",
+        "rank": 18,
+        "ALT_NAME": [
+            "Byleth18"
+        ]
+    },
+    "byleth19": {
+        "name": "Byleth (Lv. 19)",
+        "ring": "byleth",
+        "rank": 19,
+        "ALT_NAME": [
+            "Byleth19"
+        ]
+    },
+    "byleth20": {
+        "name": "Byleth (Lv. 20)",
+        "ring": "byleth",
+        "rank": 20,
+        "ALT_NAME": [
+            "Byleth20",
+            "Byleth"
+        ]
+    },
+    "corrin1": {
+        "name": "Corrin (Lv. 1)",
+        "ring": "corrin",
+        "rank": 1,
+        "ALT_NAME": [
+            "Corrin1"
+        ]
+    },
+    "corrin2": {
+        "name": "Corrin (Lv. 2)",
+        "ring": "corrin",
+        "rank": 2,
+        "ALT_NAME": [
+            "Corrin2"
+        ]
+    },
+    "corrin3": {
+        "name": "Corrin (Lv. 3)",
+        "ring": "corrin",
+        "rank": 3,
+        "ALT_NAME": [
+            "Corrin3"
+        ]
+    },
+    "corrin4": {
+        "name": "Corrin (Lv. 4)",
+        "ring": "corrin",
+        "rank": 4,
+        "ALT_NAME": [
+            "Corrin4"
+        ]
+    },
+    "corrin5": {
+        "name": "Corrin (Lv. 5)",
+        "ring": "corrin",
+        "rank": 5,
+        "ALT_NAME": [
+            "Corrin5"
+        ]
+    },
+    "corrin6": {
+        "name": "Corrin (Lv. 6)",
+        "ring": "corrin",
+        "rank": 6,
+        "ALT_NAME": [
+            "Corrin6"
+        ]
+    },
+    "corrin7": {
+        "name": "Corrin (Lv. 7)",
+        "ring": "corrin",
+        "rank": 7,
+        "ALT_NAME": [
+            "Corrin7"
+        ]
+    },
+    "corrin8": {
+        "name": "Corrin (Lv. 8)",
+        "ring": "corrin",
+        "rank": 8,
+        "ALT_NAME": [
+            "Corrin8"
+        ]
+    },
+    "corrin9": {
+        "name": "Corrin (Lv. 9)",
+        "ring": "corrin",
+        "rank": 9,
+        "ALT_NAME": [
+            "Corrin9"
+        ]
+    },
+    "corrin10": {
+        "name": "Corrin (Lv. 10)",
+        "ring": "corrin",
+        "rank": 10,
+        "ALT_NAME": [
+            "Corrin10"
+        ]
+    },
+    "corrin11": {
+        "name": "Corrin (Lv. 11)",
+        "ring": "corrin",
+        "rank": 11,
+        "ALT_NAME": [
+            "Corrin11"
+        ]
+    },
+    "corrin12": {
+        "name": "Corrin (Lv. 12)",
+        "ring": "corrin",
+        "rank": 12,
+        "ALT_NAME": [
+            "Corrin12"
+        ]
+    },
+    "corrin13": {
+        "name": "Corrin (Lv. 13)",
+        "ring": "corrin",
+        "rank": 13,
+        "ALT_NAME": [
+            "Corrin13"
+        ]
+    },
+    "corrin14": {
+        "name": "Corrin (Lv. 14)",
+        "ring": "corrin",
+        "rank": 14,
+        "ALT_NAME": [
+            "Corrin14"
+        ]
+    },
+    "corrin15": {
+        "name": "Corrin (Lv. 15)",
+        "ring": "corrin",
+        "rank": 15,
+        "ALT_NAME": [
+            "Corrin15"
+        ]
+    },
+    "corrin16": {
+        "name": "Corrin (Lv. 16)",
+        "ring": "corrin",
+        "rank": 16,
+        "ALT_NAME": [
+            "Corrin16"
+        ]
+    },
+    "corrin17": {
+        "name": "Corrin (Lv. 17)",
+        "ring": "corrin",
+        "rank": 17,
+        "ALT_NAME": [
+            "Corrin17"
+        ]
+    },
+    "corrin18": {
+        "name": "Corrin (Lv. 18)",
+        "ring": "corrin",
+        "rank": 18,
+        "ALT_NAME": [
+            "Corrin18"
+        ]
+    },
+    "corrin19": {
+        "name": "Corrin (Lv. 19)",
+        "ring": "corrin",
+        "rank": 19,
+        "ALT_NAME": [
+            "Corrin19"
+        ]
+    },
+    "corrin20": {
+        "name": "Corrin (Lv. 20)",
+        "ring": "corrin",
+        "rank": 20,
+        "ALT_NAME": [
+            "Corrin20",
+            "Corrin"
+        ]
+    },
+    "eirika1": {
+        "name": "Eirika (Lv. 1)",
+        "ring": "eirika",
+        "rank": 1,
+        "ALT_NAME": [
+            "Eirika1"
+        ]
+    },
+    "eirika2": {
+        "name": "Eirika (Lv. 2)",
+        "ring": "eirika",
+        "rank": 2,
+        "ALT_NAME": [
+            "Eirika2"
+        ]
+    },
+    "eirika3": {
+        "name": "Eirika (Lv. 3)",
+        "ring": "eirika",
+        "rank": 3,
+        "ALT_NAME": [
+            "Eirika3"
+        ]
+    },
+    "eirika4": {
+        "name": "Eirika (Lv. 4)",
+        "ring": "eirika",
+        "rank": 4,
+        "ALT_NAME": [
+            "Eirika4"
+        ]
+    },
+    "eirika5": {
+        "name": "Eirika (Lv. 5)",
+        "ring": "eirika",
+        "rank": 5,
+        "ALT_NAME": [
+            "Eirika5"
+        ]
+    },
+    "eirika6": {
+        "name": "Eirika (Lv. 6)",
+        "ring": "eirika",
+        "rank": 6,
+        "ALT_NAME": [
+            "Eirika6"
+        ]
+    },
+    "eirika7": {
+        "name": "Eirika (Lv. 7)",
+        "ring": "eirika",
+        "rank": 7,
+        "ALT_NAME": [
+            "Eirika7"
+        ]
+    },
+    "eirika8": {
+        "name": "Eirika (Lv. 8)",
+        "ring": "eirika",
+        "rank": 8,
+        "ALT_NAME": [
+            "Eirika8"
+        ]
+    },
+    "eirika9": {
+        "name": "Eirika (Lv. 9)",
+        "ring": "eirika",
+        "rank": 9,
+        "ALT_NAME": [
+            "Eirika9"
+        ]
+    },
+    "eirika10": {
+        "name": "Eirika (Lv. 10)",
+        "ring": "eirika",
+        "rank": 10,
+        "ALT_NAME": [
+            "Eirika10"
+        ]
+    },
+    "eirika11": {
+        "name": "Eirika (Lv. 11)",
+        "ring": "eirika",
+        "rank": 11,
+        "ALT_NAME": [
+            "Eirika11"
+        ]
+    },
+    "eirika12": {
+        "name": "Eirika (Lv. 12)",
+        "ring": "eirika",
+        "rank": 12,
+        "ALT_NAME": [
+            "Eirika12"
+        ]
+    },
+    "eirika13": {
+        "name": "Eirika (Lv. 13)",
+        "ring": "eirika",
+        "rank": 13,
+        "ALT_NAME": [
+            "Eirika13"
+        ]
+    },
+    "eirika14": {
+        "name": "Eirika (Lv. 14)",
+        "ring": "eirika",
+        "rank": 14,
+        "ALT_NAME": [
+            "Eirika14"
+        ]
+    },
+    "eirika15": {
+        "name": "Eirika (Lv. 15)",
+        "ring": "eirika",
+        "rank": 15,
+        "ALT_NAME": [
+            "Eirika15"
+        ]
+    },
+    "eirika16": {
+        "name": "Eirika (Lv. 16)",
+        "ring": "eirika",
+        "rank": 16,
+        "ALT_NAME": [
+            "Eirika16"
+        ]
+    },
+    "eirika17": {
+        "name": "Eirika (Lv. 17)",
+        "ring": "eirika",
+        "rank": 17,
+        "ALT_NAME": [
+            "Eirika17"
+        ]
+    },
+    "eirika18": {
+        "name": "Eirika (Lv. 18)",
+        "ring": "eirika",
+        "rank": 18,
+        "ALT_NAME": [
+            "Eirika18"
+        ]
+    },
+    "eirika19": {
+        "name": "Eirika (Lv. 19)",
+        "ring": "eirika",
+        "rank": 19,
+        "ALT_NAME": [
+            "Eirika19"
+        ]
+    },
+    "eirika20": {
+        "name": "Eirika (Lv. 20)",
+        "ring": "eirika",
+        "rank": 20,
+        "ALT_NAME": [
+            "Eirika20",
+            "Eirika"
+        ]
+    },
+    "alear1": {
+        "name": "Alear (Lv. 1)",
+        "ring": "alear",
+        "rank": 1,
+        "ALT_NAME": [
+            "Alear1"
+        ]
+    },
+    "alear2": {
+        "name": "Alear (Lv. 2)",
+        "ring": "alear",
+        "rank": 2,
+        "ALT_NAME": [
+            "Alear2"
+        ]
+    },
+    "alear3": {
+        "name": "Alear (Lv. 3)",
+        "ring": "alear",
+        "rank": 3,
+        "ALT_NAME": [
+            "Alear3"
+        ]
+    },
+    "alear4": {
+        "name": "Alear (Lv. 4)",
+        "ring": "alear",
+        "rank": 4,
+        "ALT_NAME": [
+            "Alear4"
+        ]
+    },
+    "alear5": {
+        "name": "Alear (Lv. 5)",
+        "ring": "alear",
+        "rank": 5,
+        "ALT_NAME": [
+            "Alear5"
+        ]
+    },
+    "alear6": {
+        "name": "Alear (Lv. 6)",
+        "ring": "alear",
+        "rank": 6,
+        "ALT_NAME": [
+            "Alear6"
+        ]
+    },
+    "alear7": {
+        "name": "Alear (Lv. 7)",
+        "ring": "alear",
+        "rank": 7,
+        "ALT_NAME": [
+            "Alear7"
+        ]
+    },
+    "alear8": {
+        "name": "Alear (Lv. 8)",
+        "ring": "alear",
+        "rank": 8,
+        "ALT_NAME": [
+            "Alear8"
+        ]
+    },
+    "alear9": {
+        "name": "Alear (Lv. 9)",
+        "ring": "alear",
+        "rank": 9,
+        "ALT_NAME": [
+            "Alear9"
+        ]
+    },
+    "alear10": {
+        "name": "Alear (Lv. 10)",
+        "ring": "alear",
+        "rank": 10,
+        "ALT_NAME": [
+            "Alear10"
+        ]
+    },
+    "alear11": {
+        "name": "Alear (Lv. 11)",
+        "ring": "alear",
+        "rank": 11,
+        "ALT_NAME": [
+            "Alear11"
+        ]
+    },
+    "alear12": {
+        "name": "Alear (Lv. 12)",
+        "ring": "alear",
+        "rank": 12,
+        "ALT_NAME": [
+            "Alear12"
+        ]
+    },
+    "alear13": {
+        "name": "Alear (Lv. 13)",
+        "ring": "alear",
+        "rank": 13,
+        "ALT_NAME": [
+            "Alear13"
+        ]
+    },
+    "alear14": {
+        "name": "Alear (Lv. 14)",
+        "ring": "alear",
+        "rank": 14,
+        "ALT_NAME": [
+            "Alear14"
+        ]
+    },
+    "alear15": {
+        "name": "Alear (Lv. 15)",
+        "ring": "alear",
+        "rank": 15,
+        "ALT_NAME": [
+            "Alear15"
+        ]
+    },
+    "alear16": {
+        "name": "Alear (Lv. 16)",
+        "ring": "alear",
+        "rank": 16,
+        "ALT_NAME": [
+            "Alear16"
+        ]
+    },
+    "alear17": {
+        "name": "Alear (Lv. 17)",
+        "ring": "alear",
+        "rank": 17,
+        "ALT_NAME": [
+            "Alear17"
+        ]
+    },
+    "alear18": {
+        "name": "Alear (Lv. 18)",
+        "ring": "alear",
+        "rank": 18,
+        "ALT_NAME": [
+            "Alear18"
+        ]
+    },
+    "alear19": {
+        "name": "Alear (Lv. 19)",
+        "ring": "alear",
+        "rank": 19,
+        "ALT_NAME": [
+            "Alear19"
+        ]
+    },
+    "alear20": {
+        "name": "Alear (Lv. 20)",
+        "ring": "alear",
+        "rank": 20,
+        "ALT_NAME": [
+            "Alear20",
+            "Alear"
+        ]
+    },
+    "alear21": {
+        "name": "Alear (Lv. 21)",
+        "ring": "alear",
+        "rank": 21,
+        "ALT_NAME": [
+            "Alear21"
+        ]
+    },
+    "caedac": {
+        "name": "Caeda (C)",
+        "ring": "caeda",
+        "rank": "C"
+    },
+    "caedab": {
+        "name": "Caeda (B)",
+        "ring": "caeda",
+        "rank": "B"
+    },
+    "caedaa": {
+        "name": "Caeda (A)",
+        "ring": "caeda",
+        "rank": "A"
+    },
+    "caedas": {
+        "name": "Caeda (S)",
+        "ring": "caeda",
+        "rank": "S",
+        "ALT_NAME": [
+            "Caeda"
+        ]
+    },
+    "ogmac": {
+        "name": "Ogma (C)",
+        "ring": "ogma",
+        "rank": "C"
+    },
+    "ogmab": {
+        "name": "Ogma (B)",
+        "ring": "ogma",
+        "rank": "B"
+    },
+    "ogmaa": {
+        "name": "Ogma (A)",
+        "ring": "ogma",
+        "rank": "A"
+    },
+    "ogmas": {
+        "name": "Ogma (S)",
+        "ring": "ogma",
+        "rank": "S",
+        "ALT_NAME": [
+            "Ogma"
+        ]
+    },
+    "navarrec": {
+        "name": "Navarre (C)",
+        "ring": "navarre",
+        "rank": "C"
+    },
+    "navarreb": {
+        "name": "Navarre (B)",
+        "ring": "navarre",
+        "rank": "B"
+    },
+    "navarrea": {
+        "name": "Navarre (A)",
+        "ring": "navarre",
+        "rank": "A"
+    },
+    "navarres": {
+        "name": "Navarre (S)",
+        "ring": "navarre",
+        "rank": "S",
+        "ALT_NAME": [
+            "Navarre"
+        ]
+    },
+    "merricc": {
+        "name": "Merric (C)",
+        "ring": "merric",
+        "rank": "C"
+    },
+    "merricb": {
+        "name": "Merric (B)",
+        "ring": "merric",
+        "rank": "B"
+    },
+    "merrica": {
+        "name": "Merric (A)",
+        "ring": "merric",
+        "rank": "A"
+    },
+    "merrics": {
+        "name": "Merric (S)",
+        "ring": "merric",
+        "rank": "S",
+        "ALT_NAME": [
+            "Merric"
+        ]
+    },
+    "minervac": {
+        "name": "Minerva (C)",
+        "ring": "minerva",
+        "rank": "C"
+    },
+    "minervab": {
+        "name": "Minerva (B)",
+        "ring": "minerva",
+        "rank": "B"
+    },
+    "minervaa": {
+        "name": "Minerva (A)",
+        "ring": "minerva",
+        "rank": "A"
+    },
+    "minervas": {
+        "name": "Minerva (S)",
+        "ring": "minerva",
+        "rank": "S",
+        "ALT_NAME": [
+            "Minerva"
+        ]
+    },
+    "lindec": {
+        "name": "Linde (C)",
+        "ring": "linde",
+        "rank": "C"
+    },
+    "lindeb": {
+        "name": "Linde (B)",
+        "ring": "linde",
+        "rank": "B"
+    },
+    "lindea": {
+        "name": "Linde (A)",
+        "ring": "linde",
+        "rank": "A"
+    },
+    "lindes": {
+        "name": "Linde (S)",
+        "ring": "linde",
+        "rank": "S",
+        "ALT_NAME": [
+            "Linde"
+        ]
+    },
+    "tikibondc": {
+        "name": "Tiki (Bond) (C)",
+        "ring": "tikibond",
+        "rank": "C"
+    },
+    "tikibondb": {
+        "name": "Tiki (Bond) (B)",
+        "ring": "tikibond",
+        "rank": "B"
+    },
+    "tikibonda": {
+        "name": "Tiki (Bond) (A)",
+        "ring": "tikibond",
+        "rank": "A"
+    },
+    "tikibonds": {
+        "name": "Tiki (Bond) (S)",
+        "ring": "tikibond",
+        "rank": "S",
+        "ALT_NAME": [
+            "Tiki (Bond)"
+        ]
+    },
+    "krisc": {
+        "name": "Kris (C)",
+        "ring": "kris",
+        "rank": "C"
+    },
+    "krisb": {
+        "name": "Kris (B)",
+        "ring": "kris",
+        "rank": "B"
+    },
+    "krisa": {
+        "name": "Kris (A)",
+        "ring": "kris",
+        "rank": "A"
+    },
+    "kriss": {
+        "name": "Kris (S)",
+        "ring": "kris",
+        "rank": "S",
+        "ALT_NAME": [
+            "Kris"
+        ]
+    },
+    "katarinac": {
+        "name": "Katarina (C)",
+        "ring": "katarina",
+        "rank": "C"
+    },
+    "katarinab": {
+        "name": "Katarina (B)",
+        "ring": "katarina",
+        "rank": "B"
+    },
+    "katarinaa": {
+        "name": "Katarina (A)",
+        "ring": "katarina",
+        "rank": "A"
+    },
+    "katarinas": {
+        "name": "Katarina (S)",
+        "ring": "katarina",
+        "rank": "S",
+        "ALT_NAME": [
+            "Katarina"
+        ]
+    },
+    "legionc": {
+        "name": "Legion (C)",
+        "ring": "legion",
+        "rank": "C"
+    },
+    "legionb": {
+        "name": "Legion (B)",
+        "ring": "legion",
+        "rank": "B"
+    },
+    "legiona": {
+        "name": "Legion (A)",
+        "ring": "legion",
+        "rank": "A"
+    },
+    "legions": {
+        "name": "Legion (S)",
+        "ring": "legion",
+        "rank": "S",
+        "ALT_NAME": [
+            "Legion"
+        ]
+    },
+    "deirdrec": {
+        "name": "Deirdre (C)",
+        "ring": "deirdre",
+        "rank": "C"
+    },
+    "deirdreb": {
+        "name": "Deirdre (B)",
+        "ring": "deirdre",
+        "rank": "B"
+    },
+    "deirdrea": {
+        "name": "Deirdre (A)",
+        "ring": "deirdre",
+        "rank": "A"
+    },
+    "deirdres": {
+        "name": "Deirdre (S)",
+        "ring": "deirdre",
+        "rank": "S",
+        "ALT_NAME": [
+            "Deirdre"
+        ]
+    },
+    "ardenc": {
+        "name": "Arden (C)",
+        "ring": "arden",
+        "rank": "C"
+    },
+    "ardenb": {
+        "name": "Arden (B)",
+        "ring": "arden",
+        "rank": "B"
+    },
+    "ardena": {
+        "name": "Arden (A)",
+        "ring": "arden",
+        "rank": "A"
+    },
+    "ardens": {
+        "name": "Arden (S)",
+        "ring": "arden",
+        "rank": "S",
+        "ALT_NAME": [
+            "Arden"
+        ]
+    },
+    "azellec": {
+        "name": "Azelle (C)",
+        "ring": "azelle",
+        "rank": "C"
+    },
+    "azelleb": {
+        "name": "Azelle (B)",
+        "ring": "azelle",
+        "rank": "B"
+    },
+    "azellea": {
+        "name": "Azelle (A)",
+        "ring": "azelle",
+        "rank": "A"
+    },
+    "azelles": {
+        "name": "Azelle (S)",
+        "ring": "azelle",
+        "rank": "S",
+        "ALT_NAME": [
+            "Azelle"
+        ]
+    },
+    "quanc": {
+        "name": "Quan (C)",
+        "ring": "quan",
+        "rank": "C"
+    },
+    "quanb": {
+        "name": "Quan (B)",
+        "ring": "quan",
+        "rank": "B"
+    },
+    "quana": {
+        "name": "Quan (A)",
+        "ring": "quan",
+        "rank": "A"
+    },
+    "quans": {
+        "name": "Quan (S)",
+        "ring": "quan",
+        "rank": "S",
+        "ALT_NAME": [
+            "Quan"
+        ]
+    },
+    "ethlync": {
+        "name": "Ethlyn (C)",
+        "ring": "ethlyn",
+        "rank": "C"
+    },
+    "ethlynb": {
+        "name": "Ethlyn (B)",
+        "ring": "ethlyn",
+        "rank": "B"
+    },
+    "ethlyna": {
+        "name": "Ethlyn (A)",
+        "ring": "ethlyn",
+        "rank": "A"
+    },
+    "ethlyns": {
+        "name": "Ethlyn (S)",
+        "ring": "ethlyn",
+        "rank": "S",
+        "ALT_NAME": [
+            "Ethlyn"
+        ]
+    },
+    "ayrac": {
+        "name": "Ayra (C)",
+        "ring": "ayra",
+        "rank": "C"
+    },
+    "ayrab": {
+        "name": "Ayra (B)",
+        "ring": "ayra",
+        "rank": "B"
+    },
+    "ayraa": {
+        "name": "Ayra (A)",
+        "ring": "ayra",
+        "rank": "A"
+    },
+    "ayras": {
+        "name": "Ayra (S)",
+        "ring": "ayra",
+        "rank": "S",
+        "ALT_NAME": [
+            "Ayra"
+        ]
+    },
+    "lachesisc": {
+        "name": "Lachesis (C)",
+        "ring": "lachesis",
+        "rank": "C"
+    },
+    "lachesisb": {
+        "name": "Lachesis (B)",
+        "ring": "lachesis",
+        "rank": "B"
+    },
+    "lachesisa": {
+        "name": "Lachesis (A)",
+        "ring": "lachesis",
+        "rank": "A"
+    },
+    "lachesiss": {
+        "name": "Lachesis (S)",
+        "ring": "lachesis",
+        "rank": "S",
+        "ALT_NAME": [
+            "Lachesis"
+        ]
+    },
+    "lewync": {
+        "name": "Lewyn (C)",
+        "ring": "lewyn",
+        "rank": "C"
+    },
+    "lewynb": {
+        "name": "Lewyn (B)",
+        "ring": "lewyn",
+        "rank": "B"
+    },
+    "lewyna": {
+        "name": "Lewyn (A)",
+        "ring": "lewyn",
+        "rank": "A"
+    },
+    "lewyns": {
+        "name": "Lewyn (S)",
+        "ring": "lewyn",
+        "rank": "S",
+        "ALT_NAME": [
+            "Lewyn"
+        ]
+    },
+    "erinysc": {
+        "name": "Erinys (C)",
+        "ring": "erinys",
+        "rank": "C"
+    },
+    "erinysb": {
+        "name": "Erinys (B)",
+        "ring": "erinys",
+        "rank": "B"
+    },
+    "erinysa": {
+        "name": "Erinys (A)",
+        "ring": "erinys",
+        "rank": "A"
+    },
+    "erinyss": {
+        "name": "Erinys (S)",
+        "ring": "erinys",
+        "rank": "S",
+        "ALT_NAME": [
+            "Erinys"
+        ]
+    },
+    "seliphc": {
+        "name": "Seliph (C)",
+        "ring": "seliph",
+        "rank": "C"
+    },
+    "seliphb": {
+        "name": "Seliph (B)",
+        "ring": "seliph",
+        "rank": "B"
+    },
+    "selipha": {
+        "name": "Seliph (A)",
+        "ring": "seliph",
+        "rank": "A"
+    },
+    "seliphs": {
+        "name": "Seliph (S)",
+        "ring": "seliph",
+        "rank": "S",
+        "ALT_NAME": [
+            "Seliph"
+        ]
+    },
+    "almc": {
+        "name": "Alm (C)",
+        "ring": "alm",
+        "rank": "C"
+    },
+    "almb": {
+        "name": "Alm (B)",
+        "ring": "alm",
+        "rank": "B"
+    },
+    "alma": {
+        "name": "Alm (A)",
+        "ring": "alm",
+        "rank": "A"
+    },
+    "alms": {
+        "name": "Alm (S)",
+        "ring": "alm",
+        "rank": "S",
+        "ALT_NAME": [
+            "Alm"
+        ]
+    },
+    "fayec": {
+        "name": "Faye (C)",
+        "ring": "faye",
+        "rank": "C"
+    },
+    "fayeb": {
+        "name": "Faye (B)",
+        "ring": "faye",
+        "rank": "B"
+    },
+    "fayea": {
+        "name": "Faye (A)",
+        "ring": "faye",
+        "rank": "A"
+    },
+    "fayes": {
+        "name": "Faye (S)",
+        "ring": "faye",
+        "rank": "S",
+        "ALT_NAME": [
+            "Faye"
+        ]
+    },
+    "lukasc": {
+        "name": "Lukas (C)",
+        "ring": "lukas",
+        "rank": "C"
+    },
+    "lukasb": {
+        "name": "Lukas (B)",
+        "ring": "lukas",
+        "rank": "B"
+    },
+    "lukasa": {
+        "name": "Lukas (A)",
+        "ring": "lukas",
+        "rank": "A"
+    },
+    "lukass": {
+        "name": "Lukas (S)",
+        "ring": "lukas",
+        "rank": "S",
+        "ALT_NAME": [
+            "Lukas"
+        ]
+    },
+    "silquec": {
+        "name": "Silque (C)",
+        "ring": "silque",
+        "rank": "C"
+    },
+    "silqueb": {
+        "name": "Silque (B)",
+        "ring": "silque",
+        "rank": "B"
+    },
+    "silquea": {
+        "name": "Silque (A)",
+        "ring": "silque",
+        "rank": "A"
+    },
+    "silques": {
+        "name": "Silque (S)",
+        "ring": "silque",
+        "rank": "S",
+        "ALT_NAME": [
+            "Silque"
+        ]
+    },
+    "deltheac": {
+        "name": "Delthea (C)",
+        "ring": "delthea",
+        "rank": "C"
+    },
+    "deltheab": {
+        "name": "Delthea (B)",
+        "ring": "delthea",
+        "rank": "B"
+    },
+    "deltheaa": {
+        "name": "Delthea (A)",
+        "ring": "delthea",
+        "rank": "A"
+    },
+    "deltheas": {
+        "name": "Delthea (S)",
+        "ring": "delthea",
+        "rank": "S",
+        "ALT_NAME": [
+            "Delthea"
+        ]
+    },
+    "maec": {
+        "name": "Mae (C)",
+        "ring": "mae",
+        "rank": "C"
+    },
+    "maeb": {
+        "name": "Mae (B)",
+        "ring": "mae",
+        "rank": "B"
+    },
+    "maea": {
+        "name": "Mae (A)",
+        "ring": "mae",
+        "rank": "A"
+    },
+    "maes": {
+        "name": "Mae (S)",
+        "ring": "mae",
+        "rank": "S",
+        "ALT_NAME": [
+            "Mae"
+        ]
+    },
+    "gennyc": {
+        "name": "Genny (C)",
+        "ring": "genny",
+        "rank": "C"
+    },
+    "gennyb": {
+        "name": "Genny (B)",
+        "ring": "genny",
+        "rank": "B"
+    },
+    "gennya": {
+        "name": "Genny (A)",
+        "ring": "genny",
+        "rank": "A"
+    },
+    "gennys": {
+        "name": "Genny (S)",
+        "ring": "genny",
+        "rank": "S",
+        "ALT_NAME": [
+            "Genny"
+        ]
+    },
+    "saberc": {
+        "name": "Saber (C)",
+        "ring": "saber",
+        "rank": "C"
+    },
+    "saberb": {
+        "name": "Saber (B)",
+        "ring": "saber",
+        "rank": "B"
+    },
+    "sabera": {
+        "name": "Saber (A)",
+        "ring": "saber",
+        "rank": "A"
+    },
+    "sabers": {
+        "name": "Saber (S)",
+        "ring": "saber",
+        "rank": "S",
+        "ALT_NAME": [
+            "Saber"
+        ]
+    },
+    "valbarc": {
+        "name": "Valbar (C)",
+        "ring": "valbar",
+        "rank": "C"
+    },
+    "valbarb": {
+        "name": "Valbar (B)",
+        "ring": "valbar",
+        "rank": "B"
+    },
+    "valbara": {
+        "name": "Valbar (A)",
+        "ring": "valbar",
+        "rank": "A"
+    },
+    "valbars": {
+        "name": "Valbar (S)",
+        "ring": "valbar",
+        "rank": "S",
+        "ALT_NAME": [
+            "Valbar"
+        ]
+    },
+    "conradc": {
+        "name": "Conrad (C)",
+        "ring": "conrad",
+        "rank": "C"
+    },
+    "conradb": {
+        "name": "Conrad (B)",
+        "ring": "conrad",
+        "rank": "B"
+    },
+    "conrada": {
+        "name": "Conrad (A)",
+        "ring": "conrad",
+        "rank": "A"
+    },
+    "conrads": {
+        "name": "Conrad (S)",
+        "ring": "conrad",
+        "rank": "S",
+        "ALT_NAME": [
+            "Conrad"
+        ]
+    },
+    "sothec": {
+        "name": "Sothe (C)",
+        "ring": "sothe",
+        "rank": "C"
+    },
+    "sotheb": {
+        "name": "Sothe (B)",
+        "ring": "sothe",
+        "rank": "B"
+    },
+    "sothea": {
+        "name": "Sothe (A)",
+        "ring": "sothe",
+        "rank": "A"
+    },
+    "sothes": {
+        "name": "Sothe (S)",
+        "ring": "sothe",
+        "rank": "S",
+        "ALT_NAME": [
+            "Sothe"
+        ]
+    },
+    "nailahc": {
+        "name": "Nailah (C)",
+        "ring": "nailah",
+        "rank": "C"
+    },
+    "nailahb": {
+        "name": "Nailah (B)",
+        "ring": "nailah",
+        "rank": "B"
+    },
+    "nailaha": {
+        "name": "Nailah (A)",
+        "ring": "nailah",
+        "rank": "A"
+    },
+    "nailahs": {
+        "name": "Nailah (S)",
+        "ring": "nailah",
+        "rank": "S",
+        "ALT_NAME": [
+            "Nailah"
+        ]
+    },
+    "elinciac": {
+        "name": "Elincia (C)",
+        "ring": "elincia",
+        "rank": "C"
+    },
+    "elinciab": {
+        "name": "Elincia (B)",
+        "ring": "elincia",
+        "rank": "B"
+    },
+    "elinciaa": {
+        "name": "Elincia (A)",
+        "ring": "elincia",
+        "rank": "A"
+    },
+    "elincias": {
+        "name": "Elincia (S)",
+        "ring": "elincia",
+        "rank": "S",
+        "ALT_NAME": [
+            "Elincia"
+        ]
+    },
+    "leannec": {
+        "name": "Leanne (C)",
+        "ring": "leanne",
+        "rank": "C"
+    },
+    "leanneb": {
+        "name": "Leanne (B)",
+        "ring": "leanne",
+        "rank": "B"
+    },
+    "leannea": {
+        "name": "Leanne (A)",
+        "ring": "leanne",
+        "rank": "A"
+    },
+    "leannes": {
+        "name": "Leanne (S)",
+        "ring": "leanne",
+        "rank": "S",
+        "ALT_NAME": [
+            "Leanne"
+        ]
+    },
+    "nepheneec": {
+        "name": "Nephenee (C)",
+        "ring": "nephenee",
+        "rank": "C"
+    },
+    "nepheneeb": {
+        "name": "Nephenee (B)",
+        "ring": "nephenee",
+        "rank": "B"
+    },
+    "nepheneea": {
+        "name": "Nephenee (A)",
+        "ring": "nephenee",
+        "rank": "A"
+    },
+    "nephenees": {
+        "name": "Nephenee (S)",
+        "ring": "nephenee",
+        "rank": "S",
+        "ALT_NAME": [
+            "Nephenee"
+        ]
+    },
+    "sanakic": {
+        "name": "Sanaki (C)",
+        "ring": "sanaki",
+        "rank": "C"
+    },
+    "sanakib": {
+        "name": "Sanaki (B)",
+        "ring": "sanaki",
+        "rank": "B"
+    },
+    "sanakia": {
+        "name": "Sanaki (A)",
+        "ring": "sanaki",
+        "rank": "A"
+    },
+    "sanakis": {
+        "name": "Sanaki (S)",
+        "ring": "sanaki",
+        "rank": "S",
+        "ALT_NAME": [
+            "Sanaki"
+        ]
+    },
+    "naesalac": {
+        "name": "Naesala (C)",
+        "ring": "naesala",
+        "rank": "C"
+    },
+    "naesalab": {
+        "name": "Naesala (B)",
+        "ring": "naesala",
+        "rank": "B"
+    },
+    "naesalaa": {
+        "name": "Naesala (A)",
+        "ring": "naesala",
+        "rank": "A"
+    },
+    "naesalas": {
+        "name": "Naesala (S)",
+        "ring": "naesala",
+        "rank": "S",
+        "ALT_NAME": [
+            "Naesala"
+        ]
+    },
+    "tibarnc": {
+        "name": "Tibarn (C)",
+        "ring": "tibarn",
+        "rank": "C"
+    },
+    "tibarnb": {
+        "name": "Tibarn (B)",
+        "ring": "tibarn",
+        "rank": "B"
+    },
+    "tibarna": {
+        "name": "Tibarn (A)",
+        "ring": "tibarn",
+        "rank": "A"
+    },
+    "tibarns": {
+        "name": "Tibarn (S)",
+        "ring": "tibarn",
+        "rank": "S",
+        "ALT_NAME": [
+            "Tibarn"
+        ]
+    },
+    "caineghisc": {
+        "name": "Caineghis (C)",
+        "ring": "caineghis",
+        "rank": "C"
+    },
+    "caineghisb": {
+        "name": "Caineghis (B)",
+        "ring": "caineghis",
+        "rank": "B"
+    },
+    "caineghisa": {
+        "name": "Caineghis (A)",
+        "ring": "caineghis",
+        "rank": "A"
+    },
+    "caineghiss": {
+        "name": "Caineghis (S)",
+        "ring": "caineghis",
+        "rank": "S",
+        "ALT_NAME": [
+            "Caineghis"
+        ]
+    },
+    "blackknightc": {
+        "name": "Black Knight (C)",
+        "ring": "blackknight",
+        "rank": "C"
+    },
+    "blackknightb": {
+        "name": "Black Knight (B)",
+        "ring": "blackknight",
+        "rank": "B"
+    },
+    "blackknighta": {
+        "name": "Black Knight (A)",
+        "ring": "blackknight",
+        "rank": "A"
+    },
+    "blackknights": {
+        "name": "Black Knight (S)",
+        "ring": "blackknight",
+        "rank": "S",
+        "ALT_NAME": [
+            "Black Knight"
+        ]
+    },
+    "lilinac": {
+        "name": "Lilina (C)",
+        "ring": "lilina",
+        "rank": "C"
+    },
+    "lilinab": {
+        "name": "Lilina (B)",
+        "ring": "lilina",
+        "rank": "B"
+    },
+    "lilinaa": {
+        "name": "Lilina (A)",
+        "ring": "lilina",
+        "rank": "A"
+    },
+    "lilinas": {
+        "name": "Lilina (S)",
+        "ring": "lilina",
+        "rank": "S",
+        "ALT_NAME": [
+            "Lilina"
+        ]
+    },
+    "woltc": {
+        "name": "Wolt (C)",
+        "ring": "wolt",
+        "rank": "C"
+    },
+    "woltb": {
+        "name": "Wolt (B)",
+        "ring": "wolt",
+        "rank": "B"
+    },
+    "wolta": {
+        "name": "Wolt (A)",
+        "ring": "wolt",
+        "rank": "A"
+    },
+    "wolts": {
+        "name": "Wolt (S)",
+        "ring": "wolt",
+        "rank": "S",
+        "ALT_NAME": [
+            "Wolt"
+        ]
+    },
+    "dieckc": {
+        "name": "Dieck (C)",
+        "ring": "dieck",
+        "rank": "C"
+    },
+    "dieckb": {
+        "name": "Dieck (B)",
+        "ring": "dieck",
+        "rank": "B"
+    },
+    "diecka": {
+        "name": "Dieck (A)",
+        "ring": "dieck",
+        "rank": "A"
+    },
+    "diecks": {
+        "name": "Dieck (S)",
+        "ring": "dieck",
+        "rank": "S",
+        "ALT_NAME": [
+            "Dieck"
+        ]
+    },
+    "lughc": {
+        "name": "Lugh (C)",
+        "ring": "lugh",
+        "rank": "C"
+    },
+    "lughb": {
+        "name": "Lugh (B)",
+        "ring": "lugh",
+        "rank": "B"
+    },
+    "lugha": {
+        "name": "Lugh (A)",
+        "ring": "lugh",
+        "rank": "A"
+    },
+    "lughs": {
+        "name": "Lugh (S)",
+        "ring": "lugh",
+        "rank": "S",
+        "ALT_NAME": [
+            "Lugh"
+        ]
+    },
+    "rutgerc": {
+        "name": "Rutger (C)",
+        "ring": "rutger",
+        "rank": "C"
+    },
+    "rutgerb": {
+        "name": "Rutger (B)",
+        "ring": "rutger",
+        "rank": "B"
+    },
+    "rutgera": {
+        "name": "Rutger (A)",
+        "ring": "rutger",
+        "rank": "A"
+    },
+    "rutgers": {
+        "name": "Rutger (S)",
+        "ring": "rutger",
+        "rank": "S",
+        "ALT_NAME": [
+            "Rutger"
+        ]
+    },
+    "firc": {
+        "name": "Fir (C)",
+        "ring": "fir",
+        "rank": "C"
+    },
+    "firb": {
+        "name": "Fir (B)",
+        "ring": "fir",
+        "rank": "B"
+    },
+    "fira": {
+        "name": "Fir (A)",
+        "ring": "fir",
+        "rank": "A"
+    },
+    "firs": {
+        "name": "Fir (S)",
+        "ring": "fir",
+        "rank": "S",
+        "ALT_NAME": [
+            "Fir"
+        ]
+    },
+    "raighc": {
+        "name": "Raigh (C)",
+        "ring": "raigh",
+        "rank": "C"
+    },
+    "raighb": {
+        "name": "Raigh (B)",
+        "ring": "raigh",
+        "rank": "B"
+    },
+    "raigha": {
+        "name": "Raigh (A)",
+        "ring": "raigh",
+        "rank": "A"
+    },
+    "raighs": {
+        "name": "Raigh (S)",
+        "ring": "raigh",
+        "rank": "S",
+        "ALT_NAME": [
+            "Raigh"
+        ]
+    },
+    "ceciliac": {
+        "name": "Cecilia (C)",
+        "ring": "cecilia",
+        "rank": "C"
+    },
+    "ceciliab": {
+        "name": "Cecilia (B)",
+        "ring": "cecilia",
+        "rank": "B"
+    },
+    "ceciliaa": {
+        "name": "Cecilia (A)",
+        "ring": "cecilia",
+        "rank": "A"
+    },
+    "cecilias": {
+        "name": "Cecilia (S)",
+        "ring": "cecilia",
+        "rank": "S",
+        "ALT_NAME": [
+            "Cecilia"
+        ]
+    },
+    "sophiac": {
+        "name": "Sophia (C)",
+        "ring": "sophia",
+        "rank": "C"
+    },
+    "sophiab": {
+        "name": "Sophia (B)",
+        "ring": "sophia",
+        "rank": "B"
+    },
+    "sophiaa": {
+        "name": "Sophia (A)",
+        "ring": "sophia",
+        "rank": "A"
+    },
+    "sophias": {
+        "name": "Sophia (S)",
+        "ring": "sophia",
+        "rank": "S",
+        "ALT_NAME": [
+            "Sophia"
+        ]
+    },
+    "faec": {
+        "name": "Fae (C)",
+        "ring": "fae",
+        "rank": "C"
+    },
+    "faeb": {
+        "name": "Fae (B)",
+        "ring": "fae",
+        "rank": "B"
+    },
+    "faea": {
+        "name": "Fae (A)",
+        "ring": "fae",
+        "rank": "A"
+    },
+    "faes": {
+        "name": "Fae (S)",
+        "ring": "fae",
+        "rank": "S",
+        "ALT_NAME": [
+            "Fae"
+        ]
+    },
+    "nannac": {
+        "name": "Nanna (C)",
+        "ring": "nanna",
+        "rank": "C"
+    },
+    "nannab": {
+        "name": "Nanna (B)",
+        "ring": "nanna",
+        "rank": "B"
+    },
+    "nannaa": {
+        "name": "Nanna (A)",
+        "ring": "nanna",
+        "rank": "A"
+    },
+    "nannas": {
+        "name": "Nanna (S)",
+        "ring": "nanna",
+        "rank": "S",
+        "ALT_NAME": [
+            "Nanna"
+        ]
+    },
+    "finnc": {
+        "name": "Finn (C)",
+        "ring": "finn",
+        "rank": "C"
+    },
+    "finnb": {
+        "name": "Finn (B)",
+        "ring": "finn",
+        "rank": "B"
+    },
+    "finna": {
+        "name": "Finn (A)",
+        "ring": "finn",
+        "rank": "A"
+    },
+    "finns": {
+        "name": "Finn (S)",
+        "ring": "finn",
+        "rank": "S",
+        "ALT_NAME": [
+            "Finn"
+        ]
+    },
+    "osianc": {
+        "name": "Osian (C)",
+        "ring": "osian",
+        "rank": "C"
+    },
+    "osianb": {
+        "name": "Osian (B)",
+        "ring": "osian",
+        "rank": "B"
+    },
+    "osiana": {
+        "name": "Osian (A)",
+        "ring": "osian",
+        "rank": "A"
+    },
+    "osians": {
+        "name": "Osian (S)",
+        "ring": "osian",
+        "rank": "S",
+        "ALT_NAME": [
+            "Osian"
+        ]
+    },
+    "asbelc": {
+        "name": "Asbel (C)",
+        "ring": "asbel",
+        "rank": "C"
+    },
+    "asbelb": {
+        "name": "Asbel (B)",
+        "ring": "asbel",
+        "rank": "B"
+    },
+    "asbela": {
+        "name": "Asbel (A)",
+        "ring": "asbel",
+        "rank": "A"
+    },
+    "asbels": {
+        "name": "Asbel (S)",
+        "ring": "asbel",
+        "rank": "S",
+        "ALT_NAME": [
+            "Asbel"
+        ]
+    },
+    "shivac": {
+        "name": "Shiva (C)",
+        "ring": "shiva",
+        "rank": "C"
+    },
+    "shivab": {
+        "name": "Shiva (B)",
+        "ring": "shiva",
+        "rank": "B"
+    },
+    "shivaa": {
+        "name": "Shiva (A)",
+        "ring": "shiva",
+        "rank": "A"
+    },
+    "shivas": {
+        "name": "Shiva (S)",
+        "ring": "shiva",
+        "rank": "S",
+        "ALT_NAME": [
+            "Shiva"
+        ]
+    },
+    "olwenc": {
+        "name": "Olwen (C)",
+        "ring": "olwen",
+        "rank": "C"
+    },
+    "olwenb": {
+        "name": "Olwen (B)",
+        "ring": "olwen",
+        "rank": "B"
+    },
+    "olwena": {
+        "name": "Olwen (A)",
+        "ring": "olwen",
+        "rank": "A"
+    },
+    "olwens": {
+        "name": "Olwen (S)",
+        "ring": "olwen",
+        "rank": "S",
+        "ALT_NAME": [
+            "Olwen"
+        ]
+    },
+    "mareetac": {
+        "name": "Mareeta (C)",
+        "ring": "mareeta",
+        "rank": "C"
+    },
+    "mareetab": {
+        "name": "Mareeta (B)",
+        "ring": "mareeta",
+        "rank": "B"
+    },
+    "mareetaa": {
+        "name": "Mareeta (A)",
+        "ring": "mareeta",
+        "rank": "A"
+    },
+    "mareetas": {
+        "name": "Mareeta (S)",
+        "ring": "mareeta",
+        "rank": "S",
+        "ALT_NAME": [
+            "Mareeta"
+        ]
+    },
+    "linoanc": {
+        "name": "Linoan (C)",
+        "ring": "linoan",
+        "rank": "C"
+    },
+    "linoanb": {
+        "name": "Linoan (B)",
+        "ring": "linoan",
+        "rank": "B"
+    },
+    "linoana": {
+        "name": "Linoan (A)",
+        "ring": "linoan",
+        "rank": "A"
+    },
+    "linoans": {
+        "name": "Linoan (S)",
+        "ring": "linoan",
+        "rank": "S",
+        "ALT_NAME": [
+            "Linoan"
+        ]
+    },
+    "sarac": {
+        "name": "Sara (C)",
+        "ring": "sara",
+        "rank": "C"
+    },
+    "sarab": {
+        "name": "Sara (B)",
+        "ring": "sara",
+        "rank": "B"
+    },
+    "saraa": {
+        "name": "Sara (A)",
+        "ring": "sara",
+        "rank": "A"
+    },
+    "saras": {
+        "name": "Sara (S)",
+        "ring": "sara",
+        "rank": "S",
+        "ALT_NAME": [
+            "Sara"
+        ]
+    },
+    "cedc": {
+        "name": "Ced (C)",
+        "ring": "ced",
+        "rank": "C"
+    },
+    "cedb": {
+        "name": "Ced (B)",
+        "ring": "ced",
+        "rank": "B"
+    },
+    "ceda": {
+        "name": "Ced (A)",
+        "ring": "ced",
+        "rank": "A"
+    },
+    "ceds": {
+        "name": "Ced (S)",
+        "ring": "ced",
+        "rank": "S",
+        "ALT_NAME": [
+            "Ced"
+        ]
+    },
+    "chrombondc": {
+        "name": "Chrom (Bond) (C)",
+        "ring": "chrombond",
+        "rank": "C"
+    },
+    "chrombondb": {
+        "name": "Chrom (Bond) (B)",
+        "ring": "chrombond",
+        "rank": "B"
+    },
+    "chrombonda": {
+        "name": "Chrom (Bond) (A)",
+        "ring": "chrombond",
+        "rank": "A"
+    },
+    "chrombonds": {
+        "name": "Chrom (Bond) (S)",
+        "ring": "chrombond",
+        "rank": "S",
+        "ALT_NAME": [
+            "Chrom (Bond)"
+        ]
+    },
+    "lissac": {
+        "name": "Lissa (C)",
+        "ring": "lissa",
+        "rank": "C"
+    },
+    "lissab": {
+        "name": "Lissa (B)",
+        "ring": "lissa",
+        "rank": "B"
+    },
+    "lissaa": {
+        "name": "Lissa (A)",
+        "ring": "lissa",
+        "rank": "A"
+    },
+    "lissas": {
+        "name": "Lissa (S)",
+        "ring": "lissa",
+        "rank": "S",
+        "ALT_NAME": [
+            "Lissa"
+        ]
+    },
+    "gaiusc": {
+        "name": "Gaius (C)",
+        "ring": "gaius",
+        "rank": "C"
+    },
+    "gaiusb": {
+        "name": "Gaius (B)",
+        "ring": "gaius",
+        "rank": "B"
+    },
+    "gaiusa": {
+        "name": "Gaius (A)",
+        "ring": "gaius",
+        "rank": "A"
+    },
+    "gaiuss": {
+        "name": "Gaius (S)",
+        "ring": "gaius",
+        "rank": "S",
+        "ALT_NAME": [
+            "Gaius"
+        ]
+    },
+    "cordeliac": {
+        "name": "Cordelia (C)",
+        "ring": "cordelia",
+        "rank": "C"
+    },
+    "cordeliab": {
+        "name": "Cordelia (B)",
+        "ring": "cordelia",
+        "rank": "B"
+    },
+    "cordeliaa": {
+        "name": "Cordelia (A)",
+        "ring": "cordelia",
+        "rank": "A"
+    },
+    "cordelias": {
+        "name": "Cordelia (S)",
+        "ring": "cordelia",
+        "rank": "S",
+        "ALT_NAME": [
+            "Cordelia"
+        ]
+    },
+    "nowic": {
+        "name": "Nowi (C)",
+        "ring": "nowi",
+        "rank": "C"
+    },
+    "nowib": {
+        "name": "Nowi (B)",
+        "ring": "nowi",
+        "rank": "B"
+    },
+    "nowia": {
+        "name": "Nowi (A)",
+        "ring": "nowi",
+        "rank": "A"
+    },
+    "nowis": {
+        "name": "Nowi (S)",
+        "ring": "nowi",
+        "rank": "S",
+        "ALT_NAME": [
+            "Nowi"
+        ]
+    },
+    "tharjac": {
+        "name": "Tharja (C)",
+        "ring": "tharja",
+        "rank": "C"
+    },
+    "tharjab": {
+        "name": "Tharja (B)",
+        "ring": "tharja",
+        "rank": "B"
+    },
+    "tharjaa": {
+        "name": "Tharja (A)",
+        "ring": "tharja",
+        "rank": "A"
+    },
+    "tharjas": {
+        "name": "Tharja (S)",
+        "ring": "tharja",
+        "rank": "S",
+        "ALT_NAME": [
+            "Tharja"
+        ]
+    },
+    "owainc": {
+        "name": "Owain (C)",
+        "ring": "owain",
+        "rank": "C"
+    },
+    "owainb": {
+        "name": "Owain (B)",
+        "ring": "owain",
+        "rank": "B"
+    },
+    "owaina": {
+        "name": "Owain (A)",
+        "ring": "owain",
+        "rank": "A"
+    },
+    "owains": {
+        "name": "Owain (S)",
+        "ring": "owain",
+        "rank": "S",
+        "ALT_NAME": [
+            "Owain"
+        ]
+    },
+    "inigoc": {
+        "name": "Inigo (C)",
+        "ring": "inigo",
+        "rank": "C"
+    },
+    "inigob": {
+        "name": "Inigo (B)",
+        "ring": "inigo",
+        "rank": "B"
+    },
+    "inigoa": {
+        "name": "Inigo (A)",
+        "ring": "inigo",
+        "rank": "A"
+    },
+    "inigos": {
+        "name": "Inigo (S)",
+        "ring": "inigo",
+        "rank": "S",
+        "ALT_NAME": [
+            "Inigo"
+        ]
+    },
+    "severac": {
+        "name": "Severa (C)",
+        "ring": "severa",
+        "rank": "C"
+    },
+    "severab": {
+        "name": "Severa (B)",
+        "ring": "severa",
+        "rank": "B"
+    },
+    "severaa": {
+        "name": "Severa (A)",
+        "ring": "severa",
+        "rank": "A"
+    },
+    "severas": {
+        "name": "Severa (S)",
+        "ring": "severa",
+        "rank": "S",
+        "ALT_NAME": [
+            "Severa"
+        ]
+    },
+    "morganc": {
+        "name": "Morgan (C)",
+        "ring": "morgan",
+        "rank": "C"
+    },
+    "morganb": {
+        "name": "Morgan (B)",
+        "ring": "morgan",
+        "rank": "B"
+    },
+    "morgana": {
+        "name": "Morgan (A)",
+        "ring": "morgan",
+        "rank": "A"
+    },
+    "morgans": {
+        "name": "Morgan (S)",
+        "ring": "morgan",
+        "rank": "S",
+        "ALT_NAME": [
+            "Morgan"
+        ]
+    },
+    "eliwoodc": {
+        "name": "Eliwood (C)",
+        "ring": "eliwood",
+        "rank": "C"
+    },
+    "eliwoodb": {
+        "name": "Eliwood (B)",
+        "ring": "eliwood",
+        "rank": "B"
+    },
+    "eliwooda": {
+        "name": "Eliwood (A)",
+        "ring": "eliwood",
+        "rank": "A"
+    },
+    "eliwoods": {
+        "name": "Eliwood (S)",
+        "ring": "eliwood",
+        "rank": "S",
+        "ALT_NAME": [
+            "Eliwood"
+        ]
+    },
+    "hectorbondc": {
+        "name": "Hector (Bond) (C)",
+        "ring": "hectorbond",
+        "rank": "C"
+    },
+    "hectorbondb": {
+        "name": "Hector (Bond) (B)",
+        "ring": "hectorbond",
+        "rank": "B"
+    },
+    "hectorbonda": {
+        "name": "Hector (Bond) (A)",
+        "ring": "hectorbond",
+        "rank": "A"
+    },
+    "hectorbonds": {
+        "name": "Hector (Bond) (S)",
+        "ring": "hectorbond",
+        "rank": "S",
+        "ALT_NAME": [
+            "Hector (Bond)"
+        ]
+    },
+    "florinac": {
+        "name": "Florina (C)",
+        "ring": "florina",
+        "rank": "C"
+    },
+    "florinab": {
+        "name": "Florina (B)",
+        "ring": "florina",
+        "rank": "B"
+    },
+    "florinaa": {
+        "name": "Florina (A)",
+        "ring": "florina",
+        "rank": "A"
+    },
+    "florinas": {
+        "name": "Florina (S)",
+        "ring": "florina",
+        "rank": "S",
+        "ALT_NAME": [
+            "Florina"
+        ]
+    },
+    "dorcasc": {
+        "name": "Dorcas (C)",
+        "ring": "dorcas",
+        "rank": "C"
+    },
+    "dorcasb": {
+        "name": "Dorcas (B)",
+        "ring": "dorcas",
+        "rank": "B"
+    },
+    "dorcasa": {
+        "name": "Dorcas (A)",
+        "ring": "dorcas",
+        "rank": "A"
+    },
+    "dorcass": {
+        "name": "Dorcas (S)",
+        "ring": "dorcas",
+        "rank": "S",
+        "ALT_NAME": [
+            "Dorcas"
+        ]
+    },
+    "serrac": {
+        "name": "Serra (C)",
+        "ring": "serra",
+        "rank": "C"
+    },
+    "serrab": {
+        "name": "Serra (B)",
+        "ring": "serra",
+        "rank": "B"
+    },
+    "serraa": {
+        "name": "Serra (A)",
+        "ring": "serra",
+        "rank": "A"
+    },
+    "serras": {
+        "name": "Serra (S)",
+        "ring": "serra",
+        "rank": "S",
+        "ALT_NAME": [
+            "Serra"
+        ]
+    },
+    "matthewc": {
+        "name": "Matthew (C)",
+        "ring": "matthew",
+        "rank": "C"
+    },
+    "matthewb": {
+        "name": "Matthew (B)",
+        "ring": "matthew",
+        "rank": "B"
+    },
+    "matthewa": {
+        "name": "Matthew (A)",
+        "ring": "matthew",
+        "rank": "A"
+    },
+    "matthews": {
+        "name": "Matthew (S)",
+        "ring": "matthew",
+        "rank": "S",
+        "ALT_NAME": [
+            "Matthew"
+        ]
+    },
+    "rebeccac": {
+        "name": "Rebecca (C)",
+        "ring": "rebecca",
+        "rank": "C"
+    },
+    "rebeccab": {
+        "name": "Rebecca (B)",
+        "ring": "rebecca",
+        "rank": "B"
+    },
+    "rebeccaa": {
+        "name": "Rebecca (A)",
+        "ring": "rebecca",
+        "rank": "A"
+    },
+    "rebeccas": {
+        "name": "Rebecca (S)",
+        "ring": "rebecca",
+        "rank": "S",
+        "ALT_NAME": [
+            "Rebecca"
+        ]
+    },
+    "ninianc": {
+        "name": "Ninian (C)",
+        "ring": "ninian",
+        "rank": "C"
+    },
+    "ninianb": {
+        "name": "Ninian (B)",
+        "ring": "ninian",
+        "rank": "B"
+    },
+    "niniana": {
+        "name": "Ninian (A)",
+        "ring": "ninian",
+        "rank": "A"
+    },
+    "ninians": {
+        "name": "Ninian (S)",
+        "ring": "ninian",
+        "rank": "S",
+        "ALT_NAME": [
+            "Ninian"
+        ]
+    },
+    "ninoc": {
+        "name": "Nino (C)",
+        "ring": "nino",
+        "rank": "C"
+    },
+    "ninob": {
+        "name": "Nino (B)",
+        "ring": "nino",
+        "rank": "B"
+    },
+    "ninoa": {
+        "name": "Nino (A)",
+        "ring": "nino",
+        "rank": "A"
+    },
+    "ninos": {
+        "name": "Nino (S)",
+        "ring": "nino",
+        "rank": "S",
+        "ALT_NAME": [
+            "Nino"
+        ]
+    },
+    "jaffarc": {
+        "name": "Jaffar (C)",
+        "ring": "jaffar",
+        "rank": "C"
+    },
+    "jaffarb": {
+        "name": "Jaffar (B)",
+        "ring": "jaffar",
+        "rank": "B"
+    },
+    "jaffara": {
+        "name": "Jaffar (A)",
+        "ring": "jaffar",
+        "rank": "A"
+    },
+    "jaffars": {
+        "name": "Jaffar (S)",
+        "ring": "jaffar",
+        "rank": "S",
+        "ALT_NAME": [
+            "Jaffar"
+        ]
+    },
+    "mistc": {
+        "name": "Mist (C)",
+        "ring": "mist",
+        "rank": "C"
+    },
+    "mistb": {
+        "name": "Mist (B)",
+        "ring": "mist",
+        "rank": "B"
+    },
+    "mista": {
+        "name": "Mist (A)",
+        "ring": "mist",
+        "rank": "A"
+    },
+    "mists": {
+        "name": "Mist (S)",
+        "ring": "mist",
+        "rank": "S",
+        "ALT_NAME": [
+            "Mist"
+        ]
+    },
+    "titaniac": {
+        "name": "Titania (C)",
+        "ring": "titania",
+        "rank": "C"
+    },
+    "titaniab": {
+        "name": "Titania (B)",
+        "ring": "titania",
+        "rank": "B"
+    },
+    "titaniaa": {
+        "name": "Titania (A)",
+        "ring": "titania",
+        "rank": "A"
+    },
+    "titanias": {
+        "name": "Titania (S)",
+        "ring": "titania",
+        "rank": "S",
+        "ALT_NAME": [
+            "Titania"
+        ]
+    },
+    "shinonc": {
+        "name": "Shinon (C)",
+        "ring": "shinon",
+        "rank": "C"
+    },
+    "shinonb": {
+        "name": "Shinon (B)",
+        "ring": "shinon",
+        "rank": "B"
+    },
+    "shinona": {
+        "name": "Shinon (A)",
+        "ring": "shinon",
+        "rank": "A"
+    },
+    "shinons": {
+        "name": "Shinon (S)",
+        "ring": "shinon",
+        "rank": "S",
+        "ALT_NAME": [
+            "Shinon"
+        ]
+    },
+    "gatriec": {
+        "name": "Gatrie (C)",
+        "ring": "gatrie",
+        "rank": "C"
+    },
+    "gatrieb": {
+        "name": "Gatrie (B)",
+        "ring": "gatrie",
+        "rank": "B"
+    },
+    "gatriea": {
+        "name": "Gatrie (A)",
+        "ring": "gatrie",
+        "rank": "A"
+    },
+    "gatries": {
+        "name": "Gatrie (S)",
+        "ring": "gatrie",
+        "rank": "S",
+        "ALT_NAME": [
+            "Gatrie"
+        ]
+    },
+    "sorenbondc": {
+        "name": "Soren (Bond) (C)",
+        "ring": "sorenbond",
+        "rank": "C"
+    },
+    "sorenbondb": {
+        "name": "Soren (Bond) (B)",
+        "ring": "sorenbond",
+        "rank": "B"
+    },
+    "sorenbonda": {
+        "name": "Soren (Bond) (A)",
+        "ring": "sorenbond",
+        "rank": "A"
+    },
+    "sorenbonds": {
+        "name": "Soren (Bond) (S)",
+        "ring": "sorenbond",
+        "rank": "S",
+        "ALT_NAME": [
+            "Soren (Bond)"
+        ]
+    },
+    "miac": {
+        "name": "Mia (C)",
+        "ring": "mia",
+        "rank": "C"
+    },
+    "miab": {
+        "name": "Mia (B)",
+        "ring": "mia",
+        "rank": "B"
+    },
+    "miaa": {
+        "name": "Mia (A)",
+        "ring": "mia",
+        "rank": "A"
+    },
+    "mias": {
+        "name": "Mia (S)",
+        "ring": "mia",
+        "rank": "S",
+        "ALT_NAME": [
+            "Mia"
+        ]
+    },
+    "ilyanac": {
+        "name": "Ilyana (C)",
+        "ring": "ilyana",
+        "rank": "C"
+    },
+    "ilyanab": {
+        "name": "Ilyana (B)",
+        "ring": "ilyana",
+        "rank": "B"
+    },
+    "ilyanaa": {
+        "name": "Ilyana (A)",
+        "ring": "ilyana",
+        "rank": "A"
+    },
+    "ilyanas": {
+        "name": "Ilyana (S)",
+        "ring": "ilyana",
+        "rank": "S",
+        "ALT_NAME": [
+            "Ilyana"
+        ]
+    },
+    "lethec": {
+        "name": "Lethe (C)",
+        "ring": "lethe",
+        "rank": "C"
+    },
+    "letheb": {
+        "name": "Lethe (B)",
+        "ring": "lethe",
+        "rank": "B"
+    },
+    "lethea": {
+        "name": "Lethe (A)",
+        "ring": "lethe",
+        "rank": "A"
+    },
+    "lethes": {
+        "name": "Lethe (S)",
+        "ring": "lethe",
+        "rank": "S",
+        "ALT_NAME": [
+            "Lethe"
+        ]
+    },
+    "ranulfc": {
+        "name": "Ranulf (C)",
+        "ring": "ranulf",
+        "rank": "C"
+    },
+    "ranulfb": {
+        "name": "Ranulf (B)",
+        "ring": "ranulf",
+        "rank": "B"
+    },
+    "ranulfa": {
+        "name": "Ranulf (A)",
+        "ring": "ranulf",
+        "rank": "A"
+    },
+    "ranulfs": {
+        "name": "Ranulf (S)",
+        "ring": "ranulf",
+        "rank": "S",
+        "ALT_NAME": [
+            "Ranulf"
+        ]
+    },
+    "greilc": {
+        "name": "Greil (C)",
+        "ring": "greil",
+        "rank": "C"
+    },
+    "greilb": {
+        "name": "Greil (B)",
+        "ring": "greil",
+        "rank": "B"
+    },
+    "greila": {
+        "name": "Greil (A)",
+        "ring": "greil",
+        "rank": "A"
+    },
+    "greils": {
+        "name": "Greil (S)",
+        "ring": "greil",
+        "rank": "S",
+        "ALT_NAME": [
+            "Greil"
+        ]
+    },
+    "edelgardbondc": {
+        "name": "Edelgard (Bond) (C)",
+        "ring": "edelgardbond",
+        "rank": "C"
+    },
+    "edelgardbondb": {
+        "name": "Edelgard (Bond) (B)",
+        "ring": "edelgardbond",
+        "rank": "B"
+    },
+    "edelgardbonda": {
+        "name": "Edelgard (Bond) (A)",
+        "ring": "edelgardbond",
+        "rank": "A"
+    },
+    "edelgardbonds": {
+        "name": "Edelgard (Bond) (S)",
+        "ring": "edelgardbond",
+        "rank": "S",
+        "ALT_NAME": [
+            "Edelgard (Bond)"
+        ]
+    },
+    "ferdinandc": {
+        "name": "Ferdinand (C)",
+        "ring": "ferdinand",
+        "rank": "C"
+    },
+    "ferdinandb": {
+        "name": "Ferdinand (B)",
+        "ring": "ferdinand",
+        "rank": "B"
+    },
+    "ferdinanda": {
+        "name": "Ferdinand (A)",
+        "ring": "ferdinand",
+        "rank": "A"
+    },
+    "ferdinands": {
+        "name": "Ferdinand (S)",
+        "ring": "ferdinand",
+        "rank": "S",
+        "ALT_NAME": [
+            "Ferdinand"
+        ]
+    },
+    "bernadettac": {
+        "name": "Bernadetta (C)",
+        "ring": "bernadetta",
+        "rank": "C"
+    },
+    "bernadettab": {
+        "name": "Bernadetta (B)",
+        "ring": "bernadetta",
+        "rank": "B"
+    },
+    "bernadettaa": {
+        "name": "Bernadetta (A)",
+        "ring": "bernadetta",
+        "rank": "A"
+    },
+    "bernadettas": {
+        "name": "Bernadetta (S)",
+        "ring": "bernadetta",
+        "rank": "S",
+        "ALT_NAME": [
+            "Bernadetta"
+        ]
+    },
+    "dimitric": {
+        "name": "Dimitri (C)",
+        "ring": "dimitri",
+        "rank": "C"
+    },
+    "dimitrib": {
+        "name": "Dimitri (B)",
+        "ring": "dimitri",
+        "rank": "B"
+    },
+    "dimitria": {
+        "name": "Dimitri (A)",
+        "ring": "dimitri",
+        "rank": "A"
+    },
+    "dimitris": {
+        "name": "Dimitri (S)",
+        "ring": "dimitri",
+        "rank": "S",
+        "ALT_NAME": [
+            "Dimitri"
+        ]
+    },
+    "felixc": {
+        "name": "Felix (C)",
+        "ring": "felix",
+        "rank": "C"
+    },
+    "felixb": {
+        "name": "Felix (B)",
+        "ring": "felix",
+        "rank": "B"
+    },
+    "felixa": {
+        "name": "Felix (A)",
+        "ring": "felix",
+        "rank": "A"
+    },
+    "felixs": {
+        "name": "Felix (S)",
+        "ring": "felix",
+        "rank": "S",
+        "ALT_NAME": [
+            "Felix"
+        ]
+    },
+    "ingridc": {
+        "name": "Ingrid (C)",
+        "ring": "ingrid",
+        "rank": "C"
+    },
+    "ingridb": {
+        "name": "Ingrid (B)",
+        "ring": "ingrid",
+        "rank": "B"
+    },
+    "ingrida": {
+        "name": "Ingrid (A)",
+        "ring": "ingrid",
+        "rank": "A"
+    },
+    "ingrids": {
+        "name": "Ingrid (S)",
+        "ring": "ingrid",
+        "rank": "S",
+        "ALT_NAME": [
+            "Ingrid"
+        ]
+    },
+    "claudec": {
+        "name": "Claude (C)",
+        "ring": "claude",
+        "rank": "C"
+    },
+    "claudeb": {
+        "name": "Claude (B)",
+        "ring": "claude",
+        "rank": "B"
+    },
+    "claudea": {
+        "name": "Claude (A)",
+        "ring": "claude",
+        "rank": "A"
+    },
+    "claudes": {
+        "name": "Claude (S)",
+        "ring": "claude",
+        "rank": "S",
+        "ALT_NAME": [
+            "Claude"
+        ]
+    },
+    "raphaelc": {
+        "name": "Raphael (C)",
+        "ring": "raphael",
+        "rank": "C"
+    },
+    "raphaelb": {
+        "name": "Raphael (B)",
+        "ring": "raphael",
+        "rank": "B"
+    },
+    "raphaela": {
+        "name": "Raphael (A)",
+        "ring": "raphael",
+        "rank": "A"
+    },
+    "raphaels": {
+        "name": "Raphael (S)",
+        "ring": "raphael",
+        "rank": "S",
+        "ALT_NAME": [
+            "Raphael"
+        ]
+    },
+    "lysitheac": {
+        "name": "Lysithea (C)",
+        "ring": "lysithea",
+        "rank": "C"
+    },
+    "lysitheab": {
+        "name": "Lysithea (B)",
+        "ring": "lysithea",
+        "rank": "B"
+    },
+    "lysitheaa": {
+        "name": "Lysithea (A)",
+        "ring": "lysithea",
+        "rank": "A"
+    },
+    "lysitheas": {
+        "name": "Lysithea (S)",
+        "ring": "lysithea",
+        "rank": "S",
+        "ALT_NAME": [
+            "Lysithea"
+        ]
+    },
+    "flaync": {
+        "name": "Flayn (C)",
+        "ring": "flayn",
+        "rank": "C"
+    },
+    "flaynb": {
+        "name": "Flayn (B)",
+        "ring": "flayn",
+        "rank": "B"
+    },
+    "flayna": {
+        "name": "Flayn (A)",
+        "ring": "flayn",
+        "rank": "A"
+    },
+    "flayns": {
+        "name": "Flayn (S)",
+        "ring": "flayn",
+        "rank": "S",
+        "ALT_NAME": [
+            "Flayn"
+        ]
+    },
+    "azurac": {
+        "name": "Azura (C)",
+        "ring": "azura",
+        "rank": "C"
+    },
+    "azurab": {
+        "name": "Azura (B)",
+        "ring": "azura",
+        "rank": "B"
+    },
+    "azuraa": {
+        "name": "Azura (A)",
+        "ring": "azura",
+        "rank": "A"
+    },
+    "azuras": {
+        "name": "Azura (S)",
+        "ring": "azura",
+        "rank": "S",
+        "ALT_NAME": [
+            "Azura"
+        ]
+    },
+    "ryomac": {
+        "name": "Ryoma (C)",
+        "ring": "ryoma",
+        "rank": "C"
+    },
+    "ryomab": {
+        "name": "Ryoma (B)",
+        "ring": "ryoma",
+        "rank": "B"
+    },
+    "ryomaa": {
+        "name": "Ryoma (A)",
+        "ring": "ryoma",
+        "rank": "A"
+    },
+    "ryomas": {
+        "name": "Ryoma (S)",
+        "ring": "ryoma",
+        "rank": "S",
+        "ALT_NAME": [
+            "Ryoma"
+        ]
+    },
+    "hinokac": {
+        "name": "Hinoka (C)",
+        "ring": "hinoka",
+        "rank": "C"
+    },
+    "hinokab": {
+        "name": "Hinoka (B)",
+        "ring": "hinoka",
+        "rank": "B"
+    },
+    "hinokaa": {
+        "name": "Hinoka (A)",
+        "ring": "hinoka",
+        "rank": "A"
+    },
+    "hinokas": {
+        "name": "Hinoka (S)",
+        "ring": "hinoka",
+        "rank": "S",
+        "ALT_NAME": [
+            "Hinoka"
+        ]
+    },
+    "takumic": {
+        "name": "Takumi (C)",
+        "ring": "takumi",
+        "rank": "C"
+    },
+    "takumib": {
+        "name": "Takumi (B)",
+        "ring": "takumi",
+        "rank": "B"
+    },
+    "takumia": {
+        "name": "Takumi (A)",
+        "ring": "takumi",
+        "rank": "A"
+    },
+    "takumis": {
+        "name": "Takumi (S)",
+        "ring": "takumi",
+        "rank": "S",
+        "ALT_NAME": [
+            "Takumi"
+        ]
+    },
+    "sakurac": {
+        "name": "Sakura (C)",
+        "ring": "sakura",
+        "rank": "C"
+    },
+    "sakurab": {
+        "name": "Sakura (B)",
+        "ring": "sakura",
+        "rank": "B"
+    },
+    "sakuraa": {
+        "name": "Sakura (A)",
+        "ring": "sakura",
+        "rank": "A"
+    },
+    "sakuras": {
+        "name": "Sakura (S)",
+        "ring": "sakura",
+        "rank": "S",
+        "ALT_NAME": [
+            "Sakura"
+        ]
+    },
+    "xanderc": {
+        "name": "Xander (C)",
+        "ring": "xander",
+        "rank": "C"
+    },
+    "xanderb": {
+        "name": "Xander (B)",
+        "ring": "xander",
+        "rank": "B"
+    },
+    "xandera": {
+        "name": "Xander (A)",
+        "ring": "xander",
+        "rank": "A"
+    },
+    "xanders": {
+        "name": "Xander (S)",
+        "ring": "xander",
+        "rank": "S",
+        "ALT_NAME": [
+            "Xander"
+        ]
+    },
+    "camillabondc": {
+        "name": "Camilla (Bond) (C)",
+        "ring": "camillabond",
+        "rank": "C"
+    },
+    "camillabondb": {
+        "name": "Camilla (Bond) (B)",
+        "ring": "camillabond",
+        "rank": "B"
+    },
+    "camillabonda": {
+        "name": "Camilla (Bond) (A)",
+        "ring": "camillabond",
+        "rank": "A"
+    },
+    "camillabonds": {
+        "name": "Camilla (Bond) (S)",
+        "ring": "camillabond",
+        "rank": "S",
+        "ALT_NAME": [
+            "Camilla (Bond)"
+        ]
+    },
+    "leoc": {
+        "name": "Leo (C)",
+        "ring": "leo",
+        "rank": "C"
+    },
+    "leob": {
+        "name": "Leo (B)",
+        "ring": "leo",
+        "rank": "B"
+    },
+    "leoa": {
+        "name": "Leo (A)",
+        "ring": "leo",
+        "rank": "A"
+    },
+    "leos": {
+        "name": "Leo (S)",
+        "ring": "leo",
+        "rank": "S",
+        "ALT_NAME": [
+            "Leo"
+        ]
+    },
+    "elisec": {
+        "name": "Elise (C)",
+        "ring": "elise",
+        "rank": "C"
+    },
+    "eliseb": {
+        "name": "Elise (B)",
+        "ring": "elise",
+        "rank": "B"
+    },
+    "elisea": {
+        "name": "Elise (A)",
+        "ring": "elise",
+        "rank": "A"
+    },
+    "elises": {
+        "name": "Elise (S)",
+        "ring": "elise",
+        "rank": "S",
+        "ALT_NAME": [
+            "Elise"
+        ]
+    },
+    "jakobc": {
+        "name": "Jakob (C)",
+        "ring": "jakob",
+        "rank": "C"
+    },
+    "jakobb": {
+        "name": "Jakob (B)",
+        "ring": "jakob",
+        "rank": "B"
+    },
+    "jakoba": {
+        "name": "Jakob (A)",
+        "ring": "jakob",
+        "rank": "A"
+    },
+    "jakobs": {
+        "name": "Jakob (S)",
+        "ring": "jakob",
+        "rank": "S",
+        "ALT_NAME": [
+            "Jakob"
+        ]
+    },
+    "sethc": {
+        "name": "Seth (C)",
+        "ring": "seth",
+        "rank": "C"
+    },
+    "sethb": {
+        "name": "Seth (B)",
+        "ring": "seth",
+        "rank": "B"
+    },
+    "setha": {
+        "name": "Seth (A)",
+        "ring": "seth",
+        "rank": "A"
+    },
+    "seths": {
+        "name": "Seth (S)",
+        "ring": "seth",
+        "rank": "S",
+        "ALT_NAME": [
+            "Seth"
+        ]
+    },
+    "rossc": {
+        "name": "Ross (C)",
+        "ring": "ross",
+        "rank": "C"
+    },
+    "rossb": {
+        "name": "Ross (B)",
+        "ring": "ross",
+        "rank": "B"
+    },
+    "rossa": {
+        "name": "Ross (A)",
+        "ring": "ross",
+        "rank": "A"
+    },
+    "rosss": {
+        "name": "Ross (S)",
+        "ring": "ross",
+        "rank": "S",
+        "ALT_NAME": [
+            "Ross"
+        ]
+    },
+    "lutec": {
+        "name": "Lute (C)",
+        "ring": "lute",
+        "rank": "C"
+    },
+    "luteb": {
+        "name": "Lute (B)",
+        "ring": "lute",
+        "rank": "B"
+    },
+    "lutea": {
+        "name": "Lute (A)",
+        "ring": "lute",
+        "rank": "A"
+    },
+    "lutes": {
+        "name": "Lute (S)",
+        "ring": "lute",
+        "rank": "S",
+        "ALT_NAME": [
+            "Lute"
+        ]
+    },
+    "joshuac": {
+        "name": "Joshua (C)",
+        "ring": "joshua",
+        "rank": "C"
+    },
+    "joshuab": {
+        "name": "Joshua (B)",
+        "ring": "joshua",
+        "rank": "B"
+    },
+    "joshuaa": {
+        "name": "Joshua (A)",
+        "ring": "joshua",
+        "rank": "A"
+    },
+    "joshuas": {
+        "name": "Joshua (S)",
+        "ring": "joshua",
+        "rank": "S",
+        "ALT_NAME": [
+            "Joshua"
+        ]
+    },
+    "tanac": {
+        "name": "Tana (C)",
+        "ring": "tana",
+        "rank": "C"
+    },
+    "tanab": {
+        "name": "Tana (B)",
+        "ring": "tana",
+        "rank": "B"
+    },
+    "tanaa": {
+        "name": "Tana (A)",
+        "ring": "tana",
+        "rank": "A"
+    },
+    "tanas": {
+        "name": "Tana (S)",
+        "ring": "tana",
+        "rank": "S",
+        "ALT_NAME": [
+            "Tana"
+        ]
+    },
+    "ameliac": {
+        "name": "Amelia (C)",
+        "ring": "amelia",
+        "rank": "C"
+    },
+    "ameliab": {
+        "name": "Amelia (B)",
+        "ring": "amelia",
+        "rank": "B"
+    },
+    "ameliaa": {
+        "name": "Amelia (A)",
+        "ring": "amelia",
+        "rank": "A"
+    },
+    "amelias": {
+        "name": "Amelia (S)",
+        "ring": "amelia",
+        "rank": "S",
+        "ALT_NAME": [
+            "Amelia"
+        ]
+    },
+    "innesc": {
+        "name": "Innes (C)",
+        "ring": "innes",
+        "rank": "C"
+    },
+    "innesb": {
+        "name": "Innes (B)",
+        "ring": "innes",
+        "rank": "B"
+    },
+    "innesa": {
+        "name": "Innes (A)",
+        "ring": "innes",
+        "rank": "A"
+    },
+    "inness": {
+        "name": "Innes (S)",
+        "ring": "innes",
+        "rank": "S",
+        "ALT_NAME": [
+            "Innes"
+        ]
+    },
+    "gerikc": {
+        "name": "Gerik (C)",
+        "ring": "gerik",
+        "rank": "C"
+    },
+    "gerikb": {
+        "name": "Gerik (B)",
+        "ring": "gerik",
+        "rank": "B"
+    },
+    "gerika": {
+        "name": "Gerik (A)",
+        "ring": "gerik",
+        "rank": "A"
+    },
+    "geriks": {
+        "name": "Gerik (S)",
+        "ring": "gerik",
+        "rank": "S",
+        "ALT_NAME": [
+            "Gerik"
+        ]
+    },
+    "marisac": {
+        "name": "Marisa (C)",
+        "ring": "marisa",
+        "rank": "C"
+    },
+    "marisab": {
+        "name": "Marisa (B)",
+        "ring": "marisa",
+        "rank": "B"
+    },
+    "marisaa": {
+        "name": "Marisa (A)",
+        "ring": "marisa",
+        "rank": "A"
+    },
+    "marisas": {
+        "name": "Marisa (S)",
+        "ring": "marisa",
+        "rank": "S",
+        "ALT_NAME": [
+            "Marisa"
+        ]
+    },
+    "larachelc": {
+        "name": "L'Arachel (C)",
+        "ring": "larachel",
+        "rank": "C"
+    },
+    "larachelb": {
+        "name": "L'Arachel (B)",
+        "ring": "larachel",
+        "rank": "B"
+    },
+    "larachela": {
+        "name": "L'Arachel (A)",
+        "ring": "larachel",
+        "rank": "A"
+    },
+    "larachels": {
+        "name": "L'Arachel (S)",
+        "ring": "larachel",
+        "rank": "S",
+        "ALT_NAME": [
+            "L'Arachel"
+        ]
+    },
+    "alfonses": {
+        "name": "Alfonse (S)",
+        "ring": "alfonse",
+        "rank": "S",
+        "ALT_NAME": [
+            "Alfonse"
+        ]
+    },
+    "sharenas": {
+        "name": "Sharena (S)",
+        "ring": "sharena",
+        "rank": "S",
+        "ALT_NAME": [
+            "Sharena"
+        ]
+    },
+    "annas": {
+        "name": "Anna (S)",
+        "ring": "anna",
+        "rank": "S",
+        "ALT_NAME": [
+            "Anna"
+        ]
+    },
+    "edelgard1": {
+        "name": "Edelgard (Lv. 1)",
+        "ring": "edelgard",
+        "rank": 1,
+        "ALT_NAME": [
+            "Edelgard1"
+        ]
+    },
+    "edelgard2": {
+        "name": "Edelgard (Lv. 2)",
+        "ring": "edelgard",
+        "rank": 2,
+        "ALT_NAME": [
+            "Edelgard2"
+        ]
+    },
+    "edelgard3": {
+        "name": "Edelgard (Lv. 3)",
+        "ring": "edelgard",
+        "rank": 3,
+        "ALT_NAME": [
+            "Edelgard3"
+        ]
+    },
+    "edelgard4": {
+        "name": "Edelgard (Lv. 4)",
+        "ring": "edelgard",
+        "rank": 4,
+        "ALT_NAME": [
+            "Edelgard4"
+        ]
+    },
+    "edelgard5": {
+        "name": "Edelgard (Lv. 5)",
+        "ring": "edelgard",
+        "rank": 5,
+        "ALT_NAME": [
+            "Edelgard5"
+        ]
+    },
+    "edelgard6": {
+        "name": "Edelgard (Lv. 6)",
+        "ring": "edelgard",
+        "rank": 6,
+        "ALT_NAME": [
+            "Edelgard6"
+        ]
+    },
+    "edelgard7": {
+        "name": "Edelgard (Lv. 7)",
+        "ring": "edelgard",
+        "rank": 7,
+        "ALT_NAME": [
+            "Edelgard7"
+        ]
+    },
+    "edelgard8": {
+        "name": "Edelgard (Lv. 8)",
+        "ring": "edelgard",
+        "rank": 8,
+        "ALT_NAME": [
+            "Edelgard8"
+        ]
+    },
+    "edelgard9": {
+        "name": "Edelgard (Lv. 9)",
+        "ring": "edelgard",
+        "rank": 9,
+        "ALT_NAME": [
+            "Edelgard9"
+        ]
+    },
+    "edelgard10": {
+        "name": "Edelgard (Lv. 10)",
+        "ring": "edelgard",
+        "rank": 10,
+        "ALT_NAME": [
+            "Edelgard10"
+        ]
+    },
+    "edelgard11": {
+        "name": "Edelgard (Lv. 11)",
+        "ring": "edelgard",
+        "rank": 11,
+        "ALT_NAME": [
+            "Edelgard11"
+        ]
+    },
+    "edelgard12": {
+        "name": "Edelgard (Lv. 12)",
+        "ring": "edelgard",
+        "rank": 12,
+        "ALT_NAME": [
+            "Edelgard12"
+        ]
+    },
+    "edelgard13": {
+        "name": "Edelgard (Lv. 13)",
+        "ring": "edelgard",
+        "rank": 13,
+        "ALT_NAME": [
+            "Edelgard13"
+        ]
+    },
+    "edelgard14": {
+        "name": "Edelgard (Lv. 14)",
+        "ring": "edelgard",
+        "rank": 14,
+        "ALT_NAME": [
+            "Edelgard14"
+        ]
+    },
+    "edelgard15": {
+        "name": "Edelgard (Lv. 15)",
+        "ring": "edelgard",
+        "rank": 15,
+        "ALT_NAME": [
+            "Edelgard15"
+        ]
+    },
+    "edelgard16": {
+        "name": "Edelgard (Lv. 16)",
+        "ring": "edelgard",
+        "rank": 16,
+        "ALT_NAME": [
+            "Edelgard16"
+        ]
+    },
+    "edelgard17": {
+        "name": "Edelgard (Lv. 17)",
+        "ring": "edelgard",
+        "rank": 17,
+        "ALT_NAME": [
+            "Edelgard17"
+        ]
+    },
+    "edelgard18": {
+        "name": "Edelgard (Lv. 18)",
+        "ring": "edelgard",
+        "rank": 18,
+        "ALT_NAME": [
+            "Edelgard18"
+        ]
+    },
+    "edelgard19": {
+        "name": "Edelgard (Lv. 19)",
+        "ring": "edelgard",
+        "rank": 19,
+        "ALT_NAME": [
+            "Edelgard19"
+        ]
+    },
+    "edelgard20": {
+        "name": "Edelgard (Lv. 20)",
+        "ring": "edelgard",
+        "rank": 20,
+        "ALT_NAME": [
+            "Edelgard20",
+            "Edelgard"
+        ]
+    },
+    "tiki1": {
+        "name": "Tiki (Lv. 1)",
+        "ring": "tiki",
+        "rank": 1,
+        "ALT_NAME": [
+            "Tiki1"
+        ]
+    },
+    "tiki2": {
+        "name": "Tiki (Lv. 2)",
+        "ring": "tiki",
+        "rank": 2,
+        "ALT_NAME": [
+            "Tiki2"
+        ]
+    },
+    "tiki3": {
+        "name": "Tiki (Lv. 3)",
+        "ring": "tiki",
+        "rank": 3,
+        "ALT_NAME": [
+            "Tiki3"
+        ]
+    },
+    "tiki4": {
+        "name": "Tiki (Lv. 4)",
+        "ring": "tiki",
+        "rank": 4,
+        "ALT_NAME": [
+            "Tiki4"
+        ]
+    },
+    "tiki5": {
+        "name": "Tiki (Lv. 5)",
+        "ring": "tiki",
+        "rank": 5,
+        "ALT_NAME": [
+            "Tiki5"
+        ]
+    },
+    "tiki6": {
+        "name": "Tiki (Lv. 6)",
+        "ring": "tiki",
+        "rank": 6,
+        "ALT_NAME": [
+            "Tiki6"
+        ]
+    },
+    "tiki7": {
+        "name": "Tiki (Lv. 7)",
+        "ring": "tiki",
+        "rank": 7,
+        "ALT_NAME": [
+            "Tiki7"
+        ]
+    },
+    "tiki8": {
+        "name": "Tiki (Lv. 8)",
+        "ring": "tiki",
+        "rank": 8,
+        "ALT_NAME": [
+            "Tiki8"
+        ]
+    },
+    "tiki9": {
+        "name": "Tiki (Lv. 9)",
+        "ring": "tiki",
+        "rank": 9,
+        "ALT_NAME": [
+            "Tiki9"
+        ]
+    },
+    "tiki10": {
+        "name": "Tiki (Lv. 10)",
+        "ring": "tiki",
+        "rank": 10,
+        "ALT_NAME": [
+            "Tiki10"
+        ]
+    },
+    "tiki11": {
+        "name": "Tiki (Lv. 11)",
+        "ring": "tiki",
+        "rank": 11,
+        "ALT_NAME": [
+            "Tiki11"
+        ]
+    },
+    "tiki12": {
+        "name": "Tiki (Lv. 12)",
+        "ring": "tiki",
+        "rank": 12,
+        "ALT_NAME": [
+            "Tiki12"
+        ]
+    },
+    "tiki13": {
+        "name": "Tiki (Lv. 13)",
+        "ring": "tiki",
+        "rank": 13,
+        "ALT_NAME": [
+            "Tiki13"
+        ]
+    },
+    "tiki14": {
+        "name": "Tiki (Lv. 14)",
+        "ring": "tiki",
+        "rank": 14,
+        "ALT_NAME": [
+            "Tiki14"
+        ]
+    },
+    "tiki15": {
+        "name": "Tiki (Lv. 15)",
+        "ring": "tiki",
+        "rank": 15,
+        "ALT_NAME": [
+            "Tiki15"
+        ]
+    },
+    "tiki16": {
+        "name": "Tiki (Lv. 16)",
+        "ring": "tiki",
+        "rank": 16,
+        "ALT_NAME": [
+            "Tiki16"
+        ]
+    },
+    "tiki17": {
+        "name": "Tiki (Lv. 17)",
+        "ring": "tiki",
+        "rank": 17,
+        "ALT_NAME": [
+            "Tiki17"
+        ]
+    },
+    "tiki18": {
+        "name": "Tiki (Lv. 18)",
+        "ring": "tiki",
+        "rank": 18,
+        "ALT_NAME": [
+            "Tiki18"
+        ]
+    },
+    "tiki19": {
+        "name": "Tiki (Lv. 19)",
+        "ring": "tiki",
+        "rank": 19,
+        "ALT_NAME": [
+            "Tiki19"
+        ]
+    },
+    "tiki20": {
+        "name": "Tiki (Lv. 20)",
+        "ring": "tiki",
+        "rank": 20,
+        "ALT_NAME": [
+            "Tiki20",
+            "Tiki"
+        ]
+    },
+    "camilla1": {
+        "name": "Camilla (Lv. 1)",
+        "ring": "camilla",
+        "rank": 1,
+        "ALT_NAME": [
+            "Camilla1"
+        ]
+    },
+    "camilla2": {
+        "name": "Camilla (Lv. 2)",
+        "ring": "camilla",
+        "rank": 2,
+        "ALT_NAME": [
+            "Camilla2"
+        ]
+    },
+    "camilla3": {
+        "name": "Camilla (Lv. 3)",
+        "ring": "camilla",
+        "rank": 3,
+        "ALT_NAME": [
+            "Camilla3"
+        ]
+    },
+    "camilla4": {
+        "name": "Camilla (Lv. 4)",
+        "ring": "camilla",
+        "rank": 4,
+        "ALT_NAME": [
+            "Camilla4"
+        ]
+    },
+    "camilla5": {
+        "name": "Camilla (Lv. 5)",
+        "ring": "camilla",
+        "rank": 5,
+        "ALT_NAME": [
+            "Camilla5"
+        ]
+    },
+    "camilla6": {
+        "name": "Camilla (Lv. 6)",
+        "ring": "camilla",
+        "rank": 6,
+        "ALT_NAME": [
+            "Camilla6"
+        ]
+    },
+    "camilla7": {
+        "name": "Camilla (Lv. 7)",
+        "ring": "camilla",
+        "rank": 7,
+        "ALT_NAME": [
+            "Camilla7"
+        ]
+    },
+    "camilla8": {
+        "name": "Camilla (Lv. 8)",
+        "ring": "camilla",
+        "rank": 8,
+        "ALT_NAME": [
+            "Camilla8"
+        ]
+    },
+    "camilla9": {
+        "name": "Camilla (Lv. 9)",
+        "ring": "camilla",
+        "rank": 9,
+        "ALT_NAME": [
+            "Camilla9"
+        ]
+    },
+    "camilla10": {
+        "name": "Camilla (Lv. 10)",
+        "ring": "camilla",
+        "rank": 10,
+        "ALT_NAME": [
+            "Camilla10"
+        ]
+    },
+    "camilla11": {
+        "name": "Camilla (Lv. 11)",
+        "ring": "camilla",
+        "rank": 11,
+        "ALT_NAME": [
+            "Camilla11"
+        ]
+    },
+    "camilla12": {
+        "name": "Camilla (Lv. 12)",
+        "ring": "camilla",
+        "rank": 12,
+        "ALT_NAME": [
+            "Camilla12"
+        ]
+    },
+    "camilla13": {
+        "name": "Camilla (Lv. 13)",
+        "ring": "camilla",
+        "rank": 13,
+        "ALT_NAME": [
+            "Camilla13"
+        ]
+    },
+    "camilla14": {
+        "name": "Camilla (Lv. 14)",
+        "ring": "camilla",
+        "rank": 14,
+        "ALT_NAME": [
+            "Camilla14"
+        ]
+    },
+    "camilla15": {
+        "name": "Camilla (Lv. 15)",
+        "ring": "camilla",
+        "rank": 15,
+        "ALT_NAME": [
+            "Camilla15"
+        ]
+    },
+    "camilla16": {
+        "name": "Camilla (Lv. 16)",
+        "ring": "camilla",
+        "rank": 16,
+        "ALT_NAME": [
+            "Camilla16"
+        ]
+    },
+    "camilla17": {
+        "name": "Camilla (Lv. 17)",
+        "ring": "camilla",
+        "rank": 17,
+        "ALT_NAME": [
+            "Camilla17"
+        ]
+    },
+    "camilla18": {
+        "name": "Camilla (Lv. 18)",
+        "ring": "camilla",
+        "rank": 18,
+        "ALT_NAME": [
+            "Camilla18"
+        ]
+    },
+    "camilla19": {
+        "name": "Camilla (Lv. 19)",
+        "ring": "camilla",
+        "rank": 19,
+        "ALT_NAME": [
+            "Camilla19"
+        ]
+    },
+    "camilla20": {
+        "name": "Camilla (Lv. 20)",
+        "ring": "camilla",
+        "rank": 20,
+        "ALT_NAME": [
+            "Camilla20",
+            "Camilla"
+        ]
+    },
+    "soren1": {
+        "name": "Soren (Lv. 1)",
+        "ring": "soren",
+        "rank": 1,
+        "ALT_NAME": [
+            "Soren1"
+        ]
+    },
+    "soren2": {
+        "name": "Soren (Lv. 2)",
+        "ring": "soren",
+        "rank": 2,
+        "ALT_NAME": [
+            "Soren2"
+        ]
+    },
+    "soren3": {
+        "name": "Soren (Lv. 3)",
+        "ring": "soren",
+        "rank": 3,
+        "ALT_NAME": [
+            "Soren3"
+        ]
+    },
+    "soren4": {
+        "name": "Soren (Lv. 4)",
+        "ring": "soren",
+        "rank": 4,
+        "ALT_NAME": [
+            "Soren4"
+        ]
+    },
+    "soren5": {
+        "name": "Soren (Lv. 5)",
+        "ring": "soren",
+        "rank": 5,
+        "ALT_NAME": [
+            "Soren5"
+        ]
+    },
+    "soren6": {
+        "name": "Soren (Lv. 6)",
+        "ring": "soren",
+        "rank": 6,
+        "ALT_NAME": [
+            "Soren6"
+        ]
+    },
+    "soren7": {
+        "name": "Soren (Lv. 7)",
+        "ring": "soren",
+        "rank": 7,
+        "ALT_NAME": [
+            "Soren7"
+        ]
+    },
+    "soren8": {
+        "name": "Soren (Lv. 8)",
+        "ring": "soren",
+        "rank": 8,
+        "ALT_NAME": [
+            "Soren8"
+        ]
+    },
+    "soren9": {
+        "name": "Soren (Lv. 9)",
+        "ring": "soren",
+        "rank": 9,
+        "ALT_NAME": [
+            "Soren9"
+        ]
+    },
+    "soren10": {
+        "name": "Soren (Lv. 10)",
+        "ring": "soren",
+        "rank": 10,
+        "ALT_NAME": [
+            "Soren10"
+        ]
+    },
+    "soren11": {
+        "name": "Soren (Lv. 11)",
+        "ring": "soren",
+        "rank": 11,
+        "ALT_NAME": [
+            "Soren11"
+        ]
+    },
+    "soren12": {
+        "name": "Soren (Lv. 12)",
+        "ring": "soren",
+        "rank": 12,
+        "ALT_NAME": [
+            "Soren12"
+        ]
+    },
+    "soren13": {
+        "name": "Soren (Lv. 13)",
+        "ring": "soren",
+        "rank": 13,
+        "ALT_NAME": [
+            "Soren13"
+        ]
+    },
+    "soren14": {
+        "name": "Soren (Lv. 14)",
+        "ring": "soren",
+        "rank": 14,
+        "ALT_NAME": [
+            "Soren14"
+        ]
+    },
+    "soren15": {
+        "name": "Soren (Lv. 15)",
+        "ring": "soren",
+        "rank": 15,
+        "ALT_NAME": [
+            "Soren15"
+        ]
+    },
+    "soren16": {
+        "name": "Soren (Lv. 16)",
+        "ring": "soren",
+        "rank": 16,
+        "ALT_NAME": [
+            "Soren16"
+        ]
+    },
+    "soren17": {
+        "name": "Soren (Lv. 17)",
+        "ring": "soren",
+        "rank": 17,
+        "ALT_NAME": [
+            "Soren17"
+        ]
+    },
+    "soren18": {
+        "name": "Soren (Lv. 18)",
+        "ring": "soren",
+        "rank": 18,
+        "ALT_NAME": [
+            "Soren18"
+        ]
+    },
+    "soren19": {
+        "name": "Soren (Lv. 19)",
+        "ring": "soren",
+        "rank": 19,
+        "ALT_NAME": [
+            "Soren19"
+        ]
+    },
+    "soren20": {
+        "name": "Soren (Lv. 20)",
+        "ring": "soren",
+        "rank": 20,
+        "ALT_NAME": [
+            "Soren20",
+            "Soren"
+        ]
+    },
+    "hector1": {
+        "name": "Hector (Lv. 1)",
+        "ring": "hector",
+        "rank": 1,
+        "ALT_NAME": [
+            "Hector1"
+        ]
+    },
+    "hector2": {
+        "name": "Hector (Lv. 2)",
+        "ring": "hector",
+        "rank": 2,
+        "ALT_NAME": [
+            "Hector2"
+        ]
+    },
+    "hector3": {
+        "name": "Hector (Lv. 3)",
+        "ring": "hector",
+        "rank": 3,
+        "ALT_NAME": [
+            "Hector3"
+        ]
+    },
+    "hector4": {
+        "name": "Hector (Lv. 4)",
+        "ring": "hector",
+        "rank": 4,
+        "ALT_NAME": [
+            "Hector4"
+        ]
+    },
+    "hector5": {
+        "name": "Hector (Lv. 5)",
+        "ring": "hector",
+        "rank": 5,
+        "ALT_NAME": [
+            "Hector5"
+        ]
+    },
+    "hector6": {
+        "name": "Hector (Lv. 6)",
+        "ring": "hector",
+        "rank": 6,
+        "ALT_NAME": [
+            "Hector6"
+        ]
+    },
+    "hector7": {
+        "name": "Hector (Lv. 7)",
+        "ring": "hector",
+        "rank": 7,
+        "ALT_NAME": [
+            "Hector7"
+        ]
+    },
+    "hector8": {
+        "name": "Hector (Lv. 8)",
+        "ring": "hector",
+        "rank": 8,
+        "ALT_NAME": [
+            "Hector8"
+        ]
+    },
+    "hector9": {
+        "name": "Hector (Lv. 9)",
+        "ring": "hector",
+        "rank": 9,
+        "ALT_NAME": [
+            "Hector9"
+        ]
+    },
+    "hector10": {
+        "name": "Hector (Lv. 10)",
+        "ring": "hector",
+        "rank": 10,
+        "ALT_NAME": [
+            "Hector10"
+        ]
+    },
+    "hector11": {
+        "name": "Hector (Lv. 11)",
+        "ring": "hector",
+        "rank": 11,
+        "ALT_NAME": [
+            "Hector11"
+        ]
+    },
+    "hector12": {
+        "name": "Hector (Lv. 12)",
+        "ring": "hector",
+        "rank": 12,
+        "ALT_NAME": [
+            "Hector12"
+        ]
+    },
+    "hector13": {
+        "name": "Hector (Lv. 13)",
+        "ring": "hector",
+        "rank": 13,
+        "ALT_NAME": [
+            "Hector13"
+        ]
+    },
+    "hector14": {
+        "name": "Hector (Lv. 14)",
+        "ring": "hector",
+        "rank": 14,
+        "ALT_NAME": [
+            "Hector14"
+        ]
+    },
+    "hector15": {
+        "name": "Hector (Lv. 15)",
+        "ring": "hector",
+        "rank": 15,
+        "ALT_NAME": [
+            "Hector15"
+        ]
+    },
+    "hector16": {
+        "name": "Hector (Lv. 16)",
+        "ring": "hector",
+        "rank": 16,
+        "ALT_NAME": [
+            "Hector16"
+        ]
+    },
+    "hector17": {
+        "name": "Hector (Lv. 17)",
+        "ring": "hector",
+        "rank": 17,
+        "ALT_NAME": [
+            "Hector17"
+        ]
+    },
+    "hector18": {
+        "name": "Hector (Lv. 18)",
+        "ring": "hector",
+        "rank": 18,
+        "ALT_NAME": [
+            "Hector18"
+        ]
+    },
+    "hector19": {
+        "name": "Hector (Lv. 19)",
+        "ring": "hector",
+        "rank": 19,
+        "ALT_NAME": [
+            "Hector19"
+        ]
+    },
+    "hector20": {
+        "name": "Hector (Lv. 20)",
+        "ring": "hector",
+        "rank": 20,
+        "ALT_NAME": [
+            "Hector20",
+            "Hector"
+        ]
+    },
+    "veronica1": {
+        "name": "Veronica (Lv. 1)",
+        "ring": "veronica",
+        "rank": 1,
+        "ALT_NAME": [
+            "Veronica1"
+        ]
+    },
+    "veronica2": {
+        "name": "Veronica (Lv. 2)",
+        "ring": "veronica",
+        "rank": 2,
+        "ALT_NAME": [
+            "Veronica2"
+        ]
+    },
+    "veronica3": {
+        "name": "Veronica (Lv. 3)",
+        "ring": "veronica",
+        "rank": 3,
+        "ALT_NAME": [
+            "Veronica3"
+        ]
+    },
+    "veronica4": {
+        "name": "Veronica (Lv. 4)",
+        "ring": "veronica",
+        "rank": 4,
+        "ALT_NAME": [
+            "Veronica4"
+        ]
+    },
+    "veronica5": {
+        "name": "Veronica (Lv. 5)",
+        "ring": "veronica",
+        "rank": 5,
+        "ALT_NAME": [
+            "Veronica5"
+        ]
+    },
+    "veronica6": {
+        "name": "Veronica (Lv. 6)",
+        "ring": "veronica",
+        "rank": 6,
+        "ALT_NAME": [
+            "Veronica6"
+        ]
+    },
+    "veronica7": {
+        "name": "Veronica (Lv. 7)",
+        "ring": "veronica",
+        "rank": 7,
+        "ALT_NAME": [
+            "Veronica7"
+        ]
+    },
+    "veronica8": {
+        "name": "Veronica (Lv. 8)",
+        "ring": "veronica",
+        "rank": 8,
+        "ALT_NAME": [
+            "Veronica8"
+        ]
+    },
+    "veronica9": {
+        "name": "Veronica (Lv. 9)",
+        "ring": "veronica",
+        "rank": 9,
+        "ALT_NAME": [
+            "Veronica9"
+        ]
+    },
+    "veronica10": {
+        "name": "Veronica (Lv. 10)",
+        "ring": "veronica",
+        "rank": 10,
+        "ALT_NAME": [
+            "Veronica10"
+        ]
+    },
+    "veronica11": {
+        "name": "Veronica (Lv. 11)",
+        "ring": "veronica",
+        "rank": 11,
+        "ALT_NAME": [
+            "Veronica11"
+        ]
+    },
+    "veronica12": {
+        "name": "Veronica (Lv. 12)",
+        "ring": "veronica",
+        "rank": 12,
+        "ALT_NAME": [
+            "Veronica12"
+        ]
+    },
+    "veronica13": {
+        "name": "Veronica (Lv. 13)",
+        "ring": "veronica",
+        "rank": 13,
+        "ALT_NAME": [
+            "Veronica13"
+        ]
+    },
+    "veronica14": {
+        "name": "Veronica (Lv. 14)",
+        "ring": "veronica",
+        "rank": 14,
+        "ALT_NAME": [
+            "Veronica14"
+        ]
+    },
+    "veronica15": {
+        "name": "Veronica (Lv. 15)",
+        "ring": "veronica",
+        "rank": 15,
+        "ALT_NAME": [
+            "Veronica15"
+        ]
+    },
+    "veronica16": {
+        "name": "Veronica (Lv. 16)",
+        "ring": "veronica",
+        "rank": 16,
+        "ALT_NAME": [
+            "Veronica16"
+        ]
+    },
+    "veronica17": {
+        "name": "Veronica (Lv. 17)",
+        "ring": "veronica",
+        "rank": 17,
+        "ALT_NAME": [
+            "Veronica17"
+        ]
+    },
+    "veronica18": {
+        "name": "Veronica (Lv. 18)",
+        "ring": "veronica",
+        "rank": 18,
+        "ALT_NAME": [
+            "Veronica18"
+        ]
+    },
+    "veronica19": {
+        "name": "Veronica (Lv. 19)",
+        "ring": "veronica",
+        "rank": 19,
+        "ALT_NAME": [
+            "Veronica19"
+        ]
+    },
+    "veronica20": {
+        "name": "Veronica (Lv. 20)",
+        "ring": "veronica",
+        "rank": 20,
+        "ALT_NAME": [
+            "Veronica20",
+            "Veronica"
+        ]
+    },
+    "chrom1": {
+        "name": "Chrom (Lv. 1)",
+        "ring": "chrom",
+        "rank": 1,
+        "ALT_NAME": [
+            "Chrom1"
+        ]
+    },
+    "chrom2": {
+        "name": "Chrom (Lv. 2)",
+        "ring": "chrom",
+        "rank": 2,
+        "ALT_NAME": [
+            "Chrom2"
+        ]
+    },
+    "chrom3": {
+        "name": "Chrom (Lv. 3)",
+        "ring": "chrom",
+        "rank": 3,
+        "ALT_NAME": [
+            "Chrom3"
+        ]
+    },
+    "chrom4": {
+        "name": "Chrom (Lv. 4)",
+        "ring": "chrom",
+        "rank": 4,
+        "ALT_NAME": [
+            "Chrom4"
+        ]
+    },
+    "chrom5": {
+        "name": "Chrom (Lv. 5)",
+        "ring": "chrom",
+        "rank": 5,
+        "ALT_NAME": [
+            "Chrom5"
+        ]
+    },
+    "chrom6": {
+        "name": "Chrom (Lv. 6)",
+        "ring": "chrom",
+        "rank": 6,
+        "ALT_NAME": [
+            "Chrom6"
+        ]
+    },
+    "chrom7": {
+        "name": "Chrom (Lv. 7)",
+        "ring": "chrom",
+        "rank": 7,
+        "ALT_NAME": [
+            "Chrom7"
+        ]
+    },
+    "chrom8": {
+        "name": "Chrom (Lv. 8)",
+        "ring": "chrom",
+        "rank": 8,
+        "ALT_NAME": [
+            "Chrom8"
+        ]
+    },
+    "chrom9": {
+        "name": "Chrom (Lv. 9)",
+        "ring": "chrom",
+        "rank": 9,
+        "ALT_NAME": [
+            "Chrom9"
+        ]
+    },
+    "chrom10": {
+        "name": "Chrom (Lv. 10)",
+        "ring": "chrom",
+        "rank": 10,
+        "ALT_NAME": [
+            "Chrom10"
+        ]
+    },
+    "chrom11": {
+        "name": "Chrom (Lv. 11)",
+        "ring": "chrom",
+        "rank": 11,
+        "ALT_NAME": [
+            "Chrom11"
+        ]
+    },
+    "chrom12": {
+        "name": "Chrom (Lv. 12)",
+        "ring": "chrom",
+        "rank": 12,
+        "ALT_NAME": [
+            "Chrom12"
+        ]
+    },
+    "chrom13": {
+        "name": "Chrom (Lv. 13)",
+        "ring": "chrom",
+        "rank": 13,
+        "ALT_NAME": [
+            "Chrom13"
+        ]
+    },
+    "chrom14": {
+        "name": "Chrom (Lv. 14)",
+        "ring": "chrom",
+        "rank": 14,
+        "ALT_NAME": [
+            "Chrom14"
+        ]
+    },
+    "chrom15": {
+        "name": "Chrom (Lv. 15)",
+        "ring": "chrom",
+        "rank": 15,
+        "ALT_NAME": [
+            "Chrom15"
+        ]
+    },
+    "chrom16": {
+        "name": "Chrom (Lv. 16)",
+        "ring": "chrom",
+        "rank": 16,
+        "ALT_NAME": [
+            "Chrom16"
+        ]
+    },
+    "chrom17": {
+        "name": "Chrom (Lv. 17)",
+        "ring": "chrom",
+        "rank": 17,
+        "ALT_NAME": [
+            "Chrom17"
+        ]
+    },
+    "chrom18": {
+        "name": "Chrom (Lv. 18)",
+        "ring": "chrom",
+        "rank": 18,
+        "ALT_NAME": [
+            "Chrom18"
+        ]
+    },
+    "chrom19": {
+        "name": "Chrom (Lv. 19)",
+        "ring": "chrom",
+        "rank": 19,
+        "ALT_NAME": [
+            "Chrom19"
+        ]
+    },
+    "chrom20": {
+        "name": "Chrom (Lv. 20)",
+        "ring": "chrom",
+        "rank": 20,
+        "ALT_NAME": [
+            "Chrom20",
+            "Chrom"
+        ]
+    }
+}

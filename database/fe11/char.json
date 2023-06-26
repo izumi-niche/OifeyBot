@@ -1,0 +1,2114 @@
+{
+    "abel": {
+        "name": "Abel",
+        "type": "playable",
+        "portrait": "abel.png",
+        "job": "cavalier",
+        "lvl": 1,
+        "note": false,
+        "base": {
+            "hp": 2,
+            "str": 1,
+            "mag": 0,
+            "skl": 5,
+            "spd": 1,
+            "lck": 2,
+            "def": 0,
+            "res": 0
+        },
+        "growth": {
+            "hp": 25,
+            "str": 25,
+            "mag": 5,
+            "skl": 25,
+            "spd": 40,
+            "lck": 25,
+            "def": 5,
+            "res": 5
+        },
+        "rank": {
+            "lance": 30
+        },
+        "emote": "<:abel:663548486616350723>",
+        "support": {
+            "Supported by": "<:cain:663548488516370522>Cain: C-0|B-5|A-11\n<:palla:663550351600910337>Palla: C-0|B-6\n<:est:663548493092093973>Est: C-0|B-2\n<:marth:663550350774632460>Marth: C-5|B-9|A-14",
+            "Supports": "<:est:663548493092093973>Est: C-0|B-2\n<:palla:663550351600910337>Palla: C-0|B-6\n<:cain:663548488516370522>Cain: C-0|B-5|A-11"
+        }
+    },
+    "arran": {
+        "name": "Arran",
+        "type": "playable",
+        "portrait": "arran.png",
+        "job": "paladin",
+        "lvl": 10,
+        "note": false,
+        "base": {
+            "hp": 2,
+            "str": 1,
+            "mag": 0,
+            "skl": 3,
+            "spd": 4,
+            "lck": 4,
+            "def": 2,
+            "res": 0
+        },
+        "growth": {
+            "hp": 10,
+            "str": 35,
+            "mag": 0,
+            "skl": 5,
+            "spd": 30,
+            "lck": 40,
+            "def": 0,
+            "res": 10
+        },
+        "rank": {
+            "sword": 30,
+            "lance": 165
+        },
+        "emote": "<:arran:663548487350222858>",
+        "support": {
+            "Supported by": "<:marth:663550350774632460>Marth: C-5|B-8",
+            "Supports": false
+        }
+    },
+    "astram": {
+        "name": "Astram",
+        "type": "playable",
+        "portrait": "astram.png",
+        "job": "hero",
+        "lvl": 1,
+        "note": false,
+        "base": {
+            "hp": 4,
+            "str": 2,
+            "mag": 0,
+            "skl": 4,
+            "spd": 2,
+            "lck": 3,
+            "def": 1,
+            "res": 0
+        },
+        "growth": {
+            "hp": 30,
+            "str": 30,
+            "mag": 5,
+            "skl": 15,
+            "spd": 0,
+            "lck": 50,
+            "def": 5,
+            "res": 5
+        },
+        "rank": {
+            "sword": 105,
+            "axe": 30
+        },
+        "emote": "<:astram:663548487417462784>",
+        "support": {
+            "Supported by": "<:boah:663548488021180427>Boah: C-0|B-5\n<:midia:663550350892204062>Midia: C-0|B-3|A-8",
+            "Supports": "<:boah:663548488021180427>Boah: C-0|B-6\n<:midia:663550350892204062>Midia: C-0|B-3|A-8"
+        }
+    },
+    "athena": {
+        "name": "Athena",
+        "type": "playable",
+        "portrait": "athena.png",
+        "job": "myrmidon",
+        "lvl": 10,
+        "note": false,
+        "base": {
+            "hp": 9,
+            "str": 6,
+            "mag": 0,
+            "skl": 3,
+            "spd": 2,
+            "lck": 6,
+            "def": 3,
+            "res": 0
+        },
+        "growth": {
+            "hp": 25,
+            "str": 15,
+            "mag": 5,
+            "skl": 20,
+            "spd": 25,
+            "lck": 25,
+            "def": 5,
+            "res": 0
+        },
+        "rank": {
+            "sword": 75
+        },
+        "emote": "<:athena:663548487606206471>",
+        "support": {
+            "Supported by": "<:marth:663550350774632460>Marth: C-5|B-11|A-18",
+            "Supports": false
+        }
+    },
+    "bantu": {
+        "name": "Bantu",
+        "type": "playable",
+        "portrait": "bantu.png",
+        "job": "manakete",
+        "lvl": 1,
+        "note": false,
+        "base": {
+            "hp": 2,
+            "str": 2,
+            "mag": 0,
+            "skl": 2,
+            "spd": 3,
+            "lck": 1,
+            "def": 2,
+            "res": 0
+        },
+        "growth": {
+            "hp": -10,
+            "str": 0,
+            "mag": 0,
+            "skl": -10,
+            "spd": -10,
+            "lck": 10,
+            "def": 0,
+            "res": 5
+        },
+        "rank": {},
+        "emote": "<:bantu:663548487732035603>",
+        "support": {
+            "Supported by": "<:nagi:663550351441526784>Nagi: C-0\n<:tiki:663550355308806165>Tiki: C-0|B-3|A-5",
+            "Supports": false
+        }
+    },
+    "barst": {
+        "name": "Barst",
+        "type": "playable",
+        "portrait": "barst.png",
+        "job": "fighter",
+        "lvl": 3,
+        "note": false,
+        "base": {
+            "hp": 4,
+            "str": 5,
+            "mag": 0,
+            "skl": 5,
+            "spd": 2,
+            "lck": 5,
+            "def": 3,
+            "res": 0
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 25,
+            "spd": 20,
+            "lck": 40,
+            "def": 15,
+            "res": 0
+        },
+        "rank": {
+            "axe": 30
+        },
+        "emote": "<:barst:663548487819984920>",
+        "support": {
+            "Supported by": "<:cord:663548488562245673>Cord: C-0|B-6|A-13\n<:bord:663548488339947569>Bord: C-0|B-6|A-13\n<:ogma:663550351164833822>Ogma: C-5|B-10|A-16",
+            "Supports": "<:cord:663548488562245673>Cord: C-0|B-6|A-13\n<:bord:663548488339947569>Bord: C-0|B-6|A-13"
+        }
+    },
+    "beck": {
+        "name": "Beck",
+        "type": "playable",
+        "portrait": "beck.png",
+        "job": "ballistician",
+        "lvl": 1,
+        "note": false,
+        "base": {
+            "hp": 0,
+            "str": 1,
+            "mag": 0,
+            "skl": 3,
+            "spd": 0,
+            "lck": 5,
+            "def": 0,
+            "res": 0
+        },
+        "growth": {
+            "hp": 20,
+            "str": 5,
+            "mag": 0,
+            "skl": 20,
+            "spd": 20,
+            "lck": 35,
+            "def": 5,
+            "res": 5
+        },
+        "rank": {},
+        "emote": "<:beck:663548487912259602>",
+        "support": {
+            "Supported by": "<:marth:663550350774632460>Marth: C-5|B-11",
+            "Supports": false
+        }
+    },
+    "boah": {
+        "name": "Boah",
+        "type": "playable",
+        "portrait": "boah.png",
+        "job": "bishop",
+        "lvl": 1,
+        "note": false,
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 1,
+            "skl": 5,
+            "spd": 6,
+            "lck": 4,
+            "def": 2,
+            "res": 1
+        },
+        "growth": {
+            "hp": -10,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 20,
+            "def": 0,
+            "res": 10
+        },
+        "rank": {
+            "tome": 135,
+            "staff": 45
+        },
+        "emote": "<:boah:663548488021180427>",
+        "support": {
+            "Supported by": "<:astram:663548487417462784>Astram: C-0|B-6\n<:midia:663550350892204062>Midia: C-0|B-6\n<:marth:663550350774632460>Marth: C-5|B-10",
+            "Supports": "<:astram:663548487417462784>Astram: C-0|B-5\n<:tomas:663550355300286465>Tomas: C-0|B-5\n<:macellan:663550350950662154>Macellan: C-0|B-5\n<:dolph:663548489095053344>Dolph: C-0|B-5\n<:midia:663550350892204062>Midia: C-0|B-5"
+        }
+    },
+    "bord": {
+        "name": "Bord",
+        "type": "playable",
+        "portrait": "bord.png",
+        "job": "fighter",
+        "lvl": 2,
+        "note": false,
+        "base": {
+            "hp": 0,
+            "str": 3,
+            "mag": 0,
+            "skl": 3,
+            "spd": 0,
+            "lck": 1,
+            "def": 2,
+            "res": 0
+        },
+        "growth": {
+            "hp": 10,
+            "str": 15,
+            "mag": 0,
+            "skl": 30,
+            "spd": 0,
+            "lck": 35,
+            "def": 10,
+            "res": 0
+        },
+        "rank": {
+            "axe": 75
+        },
+        "emote": "<:bord:663548488339947569>",
+        "support": {
+            "Supported by": "<:barst:663548487819984920>Barst: C-0|B-6|A-13\n<:cord:663548488562245673>Cord: C-0|B-6|A-13\n<:ogma:663550351164833822>Ogma: C-5|B-10|A-16",
+            "Supports": "<:cord:663548488562245673>Cord: C-0|B-6|A-13\n<:barst:663548487819984920>Barst: C-0|B-6|A-13"
+        }
+    },
+    "caeda": {
+        "name": "Caeda",
+        "type": "playable",
+        "portrait": "caeda.png",
+        "job": "pegasusknight",
+        "lvl": 1,
+        "note": false,
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": -1,
+            "skl": 1,
+            "spd": 5,
+            "lck": 9,
+            "def": 2,
+            "res": 0
+        },
+        "growth": {
+            "hp": 10,
+            "str": 10,
+            "mag": 5,
+            "skl": 40,
+            "spd": 60,
+            "lck": 70,
+            "def": 0,
+            "res": 0
+        },
+        "rank": {
+            "lance": 30
+        },
+        "emote": "<:caeda:663846547494010883>",
+        "support": {
+            "Supported by": "<:marth:663550350774632460>Marth: C-1|B-4|A-9",
+            "Supports": "<:lorenz:663550349529055242>Lorenz: C-4\n<:jake:663550348505513994>Jake: C-5|B-10\n<:roger:663550351953100800>Roger: C-5|B-9|A-14\n<:navarre:663550351588196353>Navarre: C-5|B-10|A-16\n<:darros:663548489053110302>Darros: C-0|B-6|A-13\n<:castor:663548488574828546>Castor: C-5|B-10|A-16\n<:ogma:663550351164833822>Ogma: C-5|B-9|A-14\n<:wrys:663550355107217431>Wrys: C-0|B-6|A-13\n<:marth:663550350774632460>Marth: C-1|B-4|A-9"
+        }
+    },
+    "caesar": {
+        "name": "Caesar",
+        "type": "playable",
+        "portrait": "caesar.png",
+        "job": "mercenary",
+        "lvl": 3,
+        "note": false,
+        "base": {
+            "hp": 4,
+            "str": 1,
+            "mag": 0,
+            "skl": 0,
+            "spd": 2,
+            "lck": 6,
+            "def": 2,
+            "res": 0
+        },
+        "growth": {
+            "hp": 30,
+            "str": 20,
+            "mag": 10,
+            "skl": 10,
+            "spd": 25,
+            "lck": 20,
+            "def": 10,
+            "res": 5
+        },
+        "rank": {
+            "sword": 30
+        },
+        "emote": "<:caesar:663548488495267840>",
+        "support": {
+            "Supported by": "<:radd:663550351588196360>Radd: C-5|B-10|A-16",
+            "Supports": "<:radd:663550351588196360>Radd: C-5|B-10|A-16"
+        }
+    },
+    "cain": {
+        "name": "Cain",
+        "type": "playable",
+        "portrait": "cain.png",
+        "job": "cavalier",
+        "lvl": 1,
+        "note": false,
+        "base": {
+            "hp": 2,
+            "str": 2,
+            "mag": 0,
+            "skl": 3,
+            "spd": 0,
+            "lck": 3,
+            "def": 0,
+            "res": 0
+        },
+        "growth": {
+            "hp": 35,
+            "str": 20,
+            "mag": 5,
+            "skl": 25,
+            "spd": 40,
+            "lck": 40,
+            "def": 5,
+            "res": 5
+        },
+        "rank": {
+            "sword": 30
+        },
+        "emote": "<:cain:663548488516370522>",
+        "support": {
+            "Supported by": "<:est:663548493092093973>Est: C-0|B-2\n<:abel:663548486616350723>Abel: C-0|B-5|A-11\n<:catria:663548488839069696>Catria: C-0|B-6\n<:marth:663550350774632460>Marth: C-5|B-9|A-14",
+            "Supports": "<:est:663548493092093973>Est: C-0|B-2|A-21\n<:catria:663548488839069696>Catria: C-0|B-6\n<:abel:663548486616350723>Abel: C-0|B-5|A-11"
+        }
+    },
+    "castor": {
+        "name": "Castor",
+        "type": "playable",
+        "portrait": "castor.png",
+        "job": "hunter",
+        "lvl": 3,
+        "note": false,
+        "base": {
+            "hp": 3,
+            "str": 1,
+            "mag": 0,
+            "skl": -1,
+            "spd": 0,
+            "lck": 3,
+            "def": 1,
+            "res": 0
+        },
+        "growth": {
+            "hp": 0,
+            "str": 20,
+            "mag": 5,
+            "skl": 25,
+            "spd": 15,
+            "lck": 20,
+            "def": 15,
+            "res": 0
+        },
+        "rank": {
+            "bow": 30
+        },
+        "emote": "<:castor:663548488574828546>",
+        "support": {
+            "Supported by": "<:marth:663550350774632460>Marth: C-0|B-6|A-13\n<:caeda:663846547494010883>Caeda: C-5|B-10|A-16",
+            "Supports": false
+        }
+    },
+    "catria": {
+        "name": "Catria",
+        "type": "playable",
+        "portrait": "catria.png",
+        "job": "pegasusknight",
+        "lvl": 5,
+        "note": false,
+        "base": {
+            "hp": 4,
+            "str": 2,
+            "mag": 0,
+            "skl": 2,
+            "spd": 6,
+            "lck": 7,
+            "def": 3,
+            "res": 0
+        },
+        "growth": {
+            "hp": 30,
+            "str": 35,
+            "mag": 0,
+            "skl": 60,
+            "spd": 40,
+            "lck": 40,
+            "def": 15,
+            "res": 5
+        },
+        "rank": {
+            "lance": 75
+        },
+        "emote": "<:catria:663548488839069696>",
+        "support": {
+            "Supported by": "<:frey:663550347511332878>Frey: C-0|B-6\n<:cain:663548488516370522>Cain: C-0|B-6\n<:minerva:663550351168765952>Minerva: C-0|B-4|A-9\n<:marth:663550350774632460>Marth: C-5|B-11",
+            "Supports": "<:cain:663548488516370522>Cain: C-0|B-6\n<:frey:663550347511332878>Frey: C-0|B-5"
+        }
+    },
+    "cord": {
+        "name": "Cord",
+        "type": "playable",
+        "portrait": "cord.png",
+        "job": "fighter",
+        "lvl": 2,
+        "note": false,
+        "base": {
+            "hp": 0,
+            "str": 2,
+            "mag": 0,
+            "skl": 4,
+            "spd": 2,
+            "lck": 5,
+            "def": 2,
+            "res": 0
+        },
+        "growth": {
+            "hp": 0,
+            "str": 10,
+            "mag": 10,
+            "skl": 5,
+            "spd": 30,
+            "lck": 40,
+            "def": 10,
+            "res": 10
+        },
+        "rank": {},
+        "emote": "<:cord:663548488562245673>",
+        "support": {
+            "Supported by": "<:barst:663548487819984920>Barst: C-0|B-6|A-13\n<:bord:663548488339947569>Bord: C-0|B-6|A-13\n<:ogma:663550351164833822>Ogma: C-5|B-10|A-16",
+            "Supports": "<:bord:663548488339947569>Bord: C-0|B-6|A-13\n<:barst:663548487819984920>Barst: C-0|B-6|A-13"
+        }
+    },
+    "darros": {
+        "name": "Darros",
+        "type": "playable",
+        "portrait": "darros.png",
+        "job": "pirate",
+        "lvl": 3,
+        "note": false,
+        "base": {
+            "hp": 3,
+            "str": 1,
+            "mag": 0,
+            "skl": 1,
+            "spd": 1,
+            "lck": 3,
+            "def": 1,
+            "res": 0
+        },
+        "growth": {
+            "hp": 10,
+            "str": 20,
+            "mag": 0,
+            "skl": 5,
+            "spd": 0,
+            "lck": 40,
+            "def": 30,
+            "res": 0
+        },
+        "rank": {
+            "axe": 30
+        },
+        "emote": "<:darros:663548489053110302>",
+        "support": {
+            "Supported by": "<:caeda:663846547494010883>Caeda: C-0|B-6|A-13\n<:marth:663550350774632460>Marth: C-5|B-11|A-18",
+            "Supports": false
+        }
+    },
+    "dolph": {
+        "name": "Dolph",
+        "type": "playable",
+        "portrait": "dolph.png",
+        "job": "knight",
+        "lvl": 4,
+        "note": false,
+        "base": {
+            "hp": 4,
+            "str": 2,
+            "mag": 0,
+            "skl": 4,
+            "spd": 5,
+            "lck": 3,
+            "def": 2,
+            "res": 0
+        },
+        "growth": {
+            "hp": 10,
+            "str": 15,
+            "mag": 5,
+            "skl": 20,
+            "spd": 30,
+            "lck": 10,
+            "def": 15,
+            "res": 0
+        },
+        "rank": {
+            "lance": 75
+        },
+        "emote": "<:dolph:663548489095053344>",
+        "support": {
+            "Supported by": "<:boah:663548488021180427>Boah: C-0|B-5\n<:midia:663550350892204062>Midia: C-0|B-5\n<:tomas:663550355300286465>Tomas: C-0|B-5\n<:macellan:663550350950662154>Macellan: C-5|B-10",
+            "Supports": "<:tomas:663550355300286465>Tomas: C-5|B-10\n<:macellan:663550350950662154>Macellan: C-5|B-10\n<:midia:663550350892204062>Midia: C-0|B-5"
+        }
+    },
+    "draug": {
+        "name": "Draug",
+        "type": "playable",
+        "portrait": "draug.png",
+        "job": "knight",
+        "lvl": 1,
+        "note": false,
+        "base": {
+            "hp": 2,
+            "str": 1,
+            "mag": 0,
+            "skl": 1,
+            "spd": 3,
+            "lck": 1,
+            "def": 0,
+            "res": 0
+        },
+        "growth": {
+            "hp": 0,
+            "str": 5,
+            "mag": 5,
+            "skl": 20,
+            "spd": 40,
+            "lck": 30,
+            "def": 0,
+            "res": 0
+        },
+        "rank": {
+            "lance": 30
+        },
+        "emote": "<:draug:663548492924321826>",
+        "support": {
+            "Supported by": "<:norne:663897365005991964>Norne: C-0|B-5|A-11\n<:gordin:663550347398348831>Gordin: C-0|B-5|A-11\n<:marth:663550350774632460>Marth: C-5|B-9|A-14",
+            "Supports": "<:norne:663897365005991964>Norne: C-0|B-5|A-11\n<:gordin:663550347398348831>Gordin: C-0|B-5|A-11"
+        }
+    },
+    "elice": {
+        "name": "Elice",
+        "type": "playable",
+        "portrait": "elice.png",
+        "job": "cleric",
+        "lvl": 10,
+        "note": false,
+        "base": {
+            "hp": 2,
+            "str": 0,
+            "mag": 1,
+            "skl": 4,
+            "spd": 3,
+            "lck": 3,
+            "def": 2,
+            "res": 0
+        },
+        "growth": {
+            "hp": 40,
+            "str": 0,
+            "mag": 20,
+            "skl": 35,
+            "spd": 40,
+            "lck": 80,
+            "def": 10,
+            "res": 0
+        },
+        "rank": {
+            "staff": 195
+        },
+        "emote": "<:elice:663548493159465020>",
+        "support": {
+            "Supported by": "<:gotoh:663550347549343754>Gotoh: C-0\n<:merric:663550350900592683>Merric: C-0\n<:marth:663550350774632460>Marth: C-0|B-1",
+            "Supports": "<:gotoh:663550347549343754>Gotoh: C-0\n<:merric:663550350900592683>Merric: C-0|B-1\n<:marth:663550350774632460>Marth: C-0|B-4"
+        }
+    },
+    "est": {
+        "name": "Est",
+        "type": "playable",
+        "portrait": "est.png",
+        "job": "pegasusknight",
+        "lvl": 3,
+        "note": false,
+        "base": {
+            "hp": 3,
+            "str": 1,
+            "mag": 0,
+            "skl": 1,
+            "spd": 5,
+            "lck": 11,
+            "def": 2,
+            "res": 0
+        },
+        "growth": {
+            "hp": 10,
+            "str": 45,
+            "mag": 0,
+            "skl": 40,
+            "spd": 30,
+            "lck": 50,
+            "def": 10,
+            "res": 5
+        },
+        "rank": {
+            "lance": 75
+        },
+        "emote": "<:est:663548493092093973>",
+        "support": {
+            "Supported by": "<:cain:663548488516370522>Cain: C-0|B-2|A-21\n<:abel:663548486616350723>Abel: C-0|B-2\n<:minerva:663550351168765952>Minerva: C-0|B-3|A-6",
+            "Supports": "<:cain:663548488516370522>Cain: C-0|B-2\n<:abel:663548486616350723>Abel: C-0|B-2"
+        }
+    },
+    "etzel": {
+        "name": "Etzel",
+        "type": "playable",
+        "portrait": "etzel.png",
+        "job": "sorcerer",
+        "lvl": 6,
+        "note": false,
+        "base": {
+            "hp": 8,
+            "str": 0,
+            "mag": 8,
+            "skl": 12,
+            "spd": 5,
+            "lck": 7,
+            "def": 3,
+            "res": 6
+        },
+        "growth": {
+            "hp": 20,
+            "str": 0,
+            "mag": 10,
+            "skl": 20,
+            "spd": 20,
+            "lck": 20,
+            "def": 5,
+            "res": 10
+        },
+        "rank": {
+            "tome": 105,
+            "staff": 30
+        },
+        "emote": "<:etzel:663548493306265600>",
+        "support": {
+            "Supported by": "<:marth:663550350774632460>Marth: C-3|B-7",
+            "Supports": false
+        }
+    },
+    "frey": {
+        "name": "Frey",
+        "type": "playable",
+        "portrait": "frey.png",
+        "job": "cavalier",
+        "lvl": 1,
+        "note": false,
+        "base": {
+            "hp": 0,
+            "str": 2,
+            "mag": 0,
+            "skl": 4,
+            "spd": 0,
+            "lck": 2,
+            "def": 0,
+            "res": 0
+        },
+        "growth": {
+            "hp": 40,
+            "str": 20,
+            "mag": 5,
+            "skl": 30,
+            "spd": 45,
+            "lck": 45,
+            "def": 5,
+            "res": 5
+        },
+        "rank": {
+            "lance": 30
+        },
+        "emote": "<:frey:663550347511332878>",
+        "support": {
+            "Supported by": "<:catria:663548488839069696>Catria: C-0|B-5\n<:palla:663550351600910337>Palla: C-0|B-5\n<:marth:663550350774632460>Marth: C-5|B-9|A-14",
+            "Supports": "<:catria:663548488839069696>Catria: C-0|B-6\n<:palla:663550351600910337>Palla: C-0|B-6"
+        }
+    },
+    "gordin": {
+        "name": "Gordin",
+        "type": "playable",
+        "portrait": "gordin.png",
+        "job": "archer",
+        "lvl": 1,
+        "note": false,
+        "base": {
+            "hp": 2,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 4,
+            "def": 0,
+            "res": 0
+        },
+        "growth": {
+            "hp": 20,
+            "str": 10,
+            "mag": 0,
+            "skl": 20,
+            "spd": 5,
+            "lck": 40,
+            "def": 20,
+            "res": 5
+        },
+        "rank": {
+            "bow": 30
+        },
+        "emote": "<:gordin:663550347398348831>",
+        "support": {
+            "Supported by": "<:norne:663897365005991964>Norne: C-0|B-5|A-11\n<:draug:663548492924321826>Draug: C-0|B-5|A-11\n<:marth:663550350774632460>Marth: C-5|B-9|A-14",
+            "Supports": "<:norne:663897365005991964>Norne: C-0|B-5|A-11\n<:draug:663548492924321826>Draug: C-0|B-5|A-11"
+        }
+    },
+    "gotoh": {
+        "name": "Gotoh",
+        "type": "playable",
+        "portrait": "gotoh.png",
+        "job": "sage",
+        "lvl": 18,
+        "note": false,
+        "base": {
+            "hp": 15,
+            "str": 0,
+            "mag": 7,
+            "skl": 18,
+            "spd": 16,
+            "lck": 16,
+            "def": 10,
+            "res": 7
+        },
+        "growth": {
+            "hp": 40,
+            "str": 0,
+            "mag": 0,
+            "skl": 30,
+            "spd": 40,
+            "lck": 80,
+            "def": 0,
+            "res": 10
+        },
+        "rank": {
+            "tome": 165,
+            "staff": 195
+        },
+        "emote": "<:gotoh:663550347549343754>",
+        "support": {
+            "Supported by": "<:elice:663548493159465020>Elice: C-0\n<:marth:663550350774632460>Marth: C-0",
+            "Supports": "<:elice:663548493159465020>Elice: C-0"
+        }
+    },
+    "hardin": {
+        "name": "Hardin",
+        "type": "playable",
+        "portrait": "hardin.png",
+        "job": "cavalier",
+        "lvl": 6,
+        "note": false,
+        "base": {
+            "hp": 6,
+            "str": 4,
+            "mag": 0,
+            "skl": 5,
+            "spd": 2,
+            "lck": 3,
+            "def": 1,
+            "res": 1
+        },
+        "growth": {
+            "hp": 10,
+            "str": 15,
+            "mag": 0,
+            "skl": 30,
+            "spd": 45,
+            "lck": 30,
+            "def": 5,
+            "res": 5
+        },
+        "rank": {
+            "sword": 30,
+            "lance": 135
+        },
+        "emote": "<:hardin:663550347813584907>",
+        "support": {
+            "Supported by": "<:marth:663550350774632460>Marth: C-5|B-10|A-16",
+            "Supports": "<:vyland:663550355421921280>Vyland: C-5|B-9|A-14\n<:roshea:663550352032923658>Roshea: C-5|B-9|A-14\n<:sedgar:663900096777420831>Sedgar: C-5|B-9|A-14\n<:wolf:663550355241435136>Wolf: C-5|B-9|A-14"
+        }
+    },
+    "horace": {
+        "name": "Horace",
+        "type": "playable",
+        "portrait": "horace.png",
+        "job": "general",
+        "lvl": 3,
+        "note": false,
+        "base": {
+            "hp": 4,
+            "str": 7,
+            "mag": 0,
+            "skl": 9,
+            "spd": 4,
+            "lck": 7,
+            "def": 2,
+            "res": 0
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 5,
+            "skl": 15,
+            "spd": 10,
+            "lck": 15,
+            "def": 5,
+            "res": 0
+        },
+        "rank": {
+            "lance": 105,
+            "bow": 30
+        },
+        "emote": "<:horace:663550348102729738>",
+        "support": {
+            "Supported by": "<:marth:663550350774632460>Marth: C-5|B-11",
+            "Supports": false
+        }
+    },
+    "jagen": {
+        "name": "Jagen",
+        "type": "playable",
+        "portrait": "jagen.png",
+        "job": "paladin",
+        "lvl": 1,
+        "note": false,
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 5,
+            "spd": 1,
+            "lck": 1,
+            "def": 1,
+            "res": 0
+        },
+        "growth": {
+            "hp": 0,
+            "str": 5,
+            "mag": 10,
+            "skl": 10,
+            "spd": 5,
+            "lck": 30,
+            "def": 5,
+            "res": 5
+        },
+        "rank": {
+            "sword": 30,
+            "lance": 105
+        },
+        "emote": "<:jagen:663550348496994314>",
+        "support": {
+            "Supported by": "<:marth:663550350774632460>Marth: C-5|B-9|A-14",
+            "Supports": false
+        }
+    },
+    "jake": {
+        "name": "Jake",
+        "type": "playable",
+        "portrait": "jake.png",
+        "job": "ballistician",
+        "lvl": 1,
+        "note": false,
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 3,
+            "def": 0,
+            "res": 0
+        },
+        "growth": {
+            "hp": 0,
+            "str": 10,
+            "mag": 0,
+            "skl": 40,
+            "spd": 0,
+            "lck": 50,
+            "def": 0,
+            "res": 5
+        },
+        "rank": {},
+        "emote": "<:jake:663550348505513994>",
+        "support": {
+            "Supported by": "<:linde:663550348967018499>Linde: C-0|B-5\n<:minerva:663550351168765952>Minerva: C-0|B-5\n<:maria:663550350904786955>Maria: C-0|B-5\n<:lena:663550348899909642>Lena: C-0|B-5\n<:caeda:663846547494010883>Caeda: C-5|B-10",
+            "Supports": false
+        }
+    },
+    "jeorge": {
+        "name": "Jeorge",
+        "type": "playable",
+        "portrait": "jeorge.png",
+        "job": "sniper",
+        "lvl": 1,
+        "note": false,
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 2,
+            "spd": 3,
+            "lck": 4,
+            "def": 1,
+            "res": 0
+        },
+        "growth": {
+            "hp": 0,
+            "str": 10,
+            "mag": 5,
+            "skl": 30,
+            "spd": 10,
+            "lck": 20,
+            "def": 0,
+            "res": 5
+        },
+        "rank": {
+            "bow": 105
+        },
+        "emote": "<:jeorge:663550348581142528>",
+        "support": {
+            "Supported by": "<:marth:663550350774632460>Marth: C-5|B-9|A-15",
+            "Supports": false
+        }
+    },
+    "julian": {
+        "name": "Julian",
+        "type": "playable",
+        "portrait": "julian.png",
+        "job": "thief",
+        "lvl": 3,
+        "note": false,
+        "base": {
+            "hp": 1,
+            "str": 2,
+            "mag": 0,
+            "skl": 5,
+            "spd": 5,
+            "lck": 7,
+            "def": 3,
+            "res": 0
+        },
+        "growth": {
+            "hp": 50,
+            "str": 40,
+            "mag": 0,
+            "skl": 20,
+            "spd": 10,
+            "lck": 80,
+            "def": 25,
+            "res": 12
+        },
+        "rank": {},
+        "emote": "<:julian:663550348643926019>",
+        "support": {
+            "Supported by": "<:lena:663550348899909642>Lena: C-0|B-3|A-8",
+            "Supports": "<:rickard:663550351793717314>Rickard: C-5|B-10|A-16\n<:lena:663550348899909642>Lena: C-5|B-8|A-13"
+        }
+    },
+    "lena": {
+        "name": "Lena",
+        "type": "playable",
+        "portrait": "lena.png",
+        "job": "cleric",
+        "lvl": 3,
+        "note": false,
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 1,
+            "skl": 6,
+            "spd": 5,
+            "lck": 8,
+            "def": 2,
+            "res": -1
+        },
+        "growth": {
+            "hp": -5,
+            "str": 0,
+            "mag": 15,
+            "skl": 10,
+            "spd": 0,
+            "lck": 60,
+            "def": 0,
+            "res": 20
+        },
+        "rank": {
+            "staff": 75
+        },
+        "emote": "<:lena:663550348899909642>",
+        "support": {
+            "Supported by": "<:matthis:663550350892073017>Matthis: C-0|B-4|A-9\n<:julian:663550348643926019>Julian: C-5|B-8|A-13",
+            "Supports": "<:jake:663550348505513994>Jake: C-0|B-5\n<:matthis:663550350892073017>Matthis: C-5|B-9|A-14\n<:julian:663550348643926019>Julian: C-0|B-3|A-8"
+        }
+    },
+    "linde": {
+        "name": "Linde",
+        "type": "playable",
+        "portrait": "linde.png",
+        "job": "mage",
+        "lvl": 1,
+        "note": false,
+        "base": {
+            "hp": 2,
+            "str": 0,
+            "mag": -1,
+            "skl": 3,
+            "spd": 4,
+            "lck": 7,
+            "def": 1,
+            "res": 1
+        },
+        "growth": {
+            "hp": 20,
+            "str": 0,
+            "mag": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 60,
+            "def": 0,
+            "res": 5
+        },
+        "rank": {
+            "tome": 30
+        },
+        "emote": "<:linde:663550348967018499>",
+        "support": {
+            "Supported by": "<:merric:663550350900592683>Merric: C-0|B-4|A-20\n<:marth:663550350774632460>Marth: C-5|B-8|A-13",
+            "Supports": "<:jake:663550348505513994>Jake: C-0|B-5"
+        }
+    },
+    "lorenz": {
+        "name": "Lorenz",
+        "type": "playable",
+        "portrait": "lorenz.png",
+        "job": "general",
+        "lvl": 5,
+        "note": false,
+        "base": {
+            "hp": 6,
+            "str": 3,
+            "mag": 0,
+            "skl": 0,
+            "spd": 2,
+            "lck": 2,
+            "def": 2,
+            "res": 0
+        },
+        "growth": {
+            "hp": 10,
+            "str": 35,
+            "mag": 0,
+            "skl": 50,
+            "spd": 20,
+            "lck": 40,
+            "def": 0,
+            "res": 5
+        },
+        "rank": {
+            "lance": 165,
+            "bow": 135
+        },
+        "emote": "<:lorenz:663550349529055242>",
+        "support": {
+            "Supported by": "<:caeda:663846547494010883>Caeda: C-4",
+            "Supports": false
+        }
+    },
+    "macellan": {
+        "name": "Macellan",
+        "type": "playable",
+        "portrait": "macellan.png",
+        "job": "knight",
+        "lvl": 3,
+        "note": false,
+        "base": {
+            "hp": 2,
+            "str": 2,
+            "mag": 0,
+            "skl": 3,
+            "spd": 3,
+            "lck": 4,
+            "def": 1,
+            "res": 0
+        },
+        "growth": {
+            "hp": 0,
+            "str": 20,
+            "mag": 0,
+            "skl": 5,
+            "spd": 25,
+            "lck": 30,
+            "def": 0,
+            "res": 5
+        },
+        "rank": {
+            "lance": 30
+        },
+        "emote": "<:macellan:663550350950662154>",
+        "support": {
+            "Supported by": "<:midia:663550350892204062>Midia: C-0|B-5\n<:boah:663548488021180427>Boah: C-0|B-5\n<:tomas:663550355300286465>Tomas: C-0|B-5\n<:dolph:663548489095053344>Dolph: C-5|B-10",
+            "Supports": "<:tomas:663550355300286465>Tomas: C-0|B-5\n<:dolph:663548489095053344>Dolph: C-5|B-10\n<:midia:663550350892204062>Midia: C-0|B-5"
+        }
+    },
+    "maria": {
+        "name": "Maria",
+        "type": "playable",
+        "portrait": "maria.png",
+        "job": "cleric",
+        "lvl": 3,
+        "note": false,
+        "base": {
+            "hp": 1,
+            "str": 0,
+            "mag": 1,
+            "skl": 1,
+            "spd": 0,
+            "lck": 0,
+            "def": 3,
+            "res": 0
+        },
+        "growth": {
+            "hp": -5,
+            "str": 0,
+            "mag": 10,
+            "skl": 10,
+            "spd": 5,
+            "lck": 75,
+            "def": -5,
+            "res": 20
+        },
+        "rank": {
+            "staff": 40
+        },
+        "emote": "<:maria:663550350904786955>",
+        "support": {
+            "Supported by": "<:minerva:663550351168765952>Minerva: C-0|B-6|A-13\n<:marth:663550350774632460>Marth: C-5|B-8|A-13",
+            "Supports": "<:jake:663550348505513994>Jake: C-0|B-5\n<:minerva:663550351168765952>Minerva: C-0|B-6|A-13"
+        }
+    },
+    "marth": {
+        "name": "Marth",
+        "type": "playable",
+        "portrait": "marth.png",
+        "job": "lord",
+        "lvl": 1,
+        "note": false,
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 7,
+            "def": 0,
+            "res": 0
+        },
+        "growth": {
+            "hp": 40,
+            "str": 35,
+            "mag": 5,
+            "skl": 20,
+            "spd": 30,
+            "lck": 70,
+            "def": 15,
+            "res": 7
+        },
+        "rank": {
+            "sword": 30
+        },
+        "emote": "<:marth:663550350774632460>",
+        "support": {
+            "Supported by": "<:elice:663548493159465020>Elice: C-0|B-4\n<:caeda:663846547494010883>Caeda: C-1|B-4|A-9",
+            "Supports": "Gotoh: C-0\nNagi: C-0\nElice: C-0|B-1\nYmir: C-2|B-4\nTiki: C-1|B-5\nEtzel: C-3|B-7\nXane: C-0|B-3\nSamson: C-5|B-8\nArran: C-5|B-8\nCatria: C-5|B-11\nBeck: C-5|B-11\nHorace: C-5|B-11\nBoah: C-5|B-10\nLinde: C-5|B-8|A-13\nMinerva: C-5|B-8|A-13\nMaria: C-5|B-8|A-13\nJeorge: C-5|B-9|A-15\nAthena: C-5|B-11|A-18\nRickard: C-0|B-6|A-13\nWendell: C-0|B-6|A-13\nHardin: C-5|B-10|A-16\nMerric: C-0|B-4|A-9\nDarros: C-5|B-11|A-18\nCastor: C-0|B-6|A-13\nWrys: C-5|B-10|A-16\nCaeda: C-1|B-4|A-9\nNorne: C-5|B-10|A-16\nDraug: C-5|B-9|A-14\nGordin: C-5|B-9|A-14\nJagen: C-5|B-9|A-14\nCain: C-5|B-9|A-14\nAbel: C-5|B-9|A-14\nFrey: C-5|B-9|A-14"
+        }
+    },
+    "matthis": {
+        "name": "Matthis",
+        "type": "playable",
+        "portrait": "matthis.png",
+        "job": "cavalier",
+        "lvl": 2,
+        "note": false,
+        "base": {
+            "hp": 2,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "growth": {
+            "hp": 50,
+            "str": 25,
+            "mag": 0,
+            "skl": 5,
+            "spd": 10,
+            "lck": 30,
+            "def": 15,
+            "res": 5
+        },
+        "rank": {
+            "lance": 30
+        },
+        "emote": "<:matthis:663550350892073017>",
+        "support": {
+            "Supported by": "<:lena:663550348899909642>Lena: C-5|B-9|A-14",
+            "Supports": "<:lena:663550348899909642>Lena: C-0|B-4|A-9"
+        }
+    },
+    "merric": {
+        "name": "Merric",
+        "type": "playable",
+        "portrait": "merric.png",
+        "job": "mage",
+        "lvl": 1,
+        "note": false,
+        "base": {
+            "hp": 4,
+            "str": 0,
+            "mag": 0,
+            "skl": 2,
+            "spd": 3,
+            "lck": 3,
+            "def": 2,
+            "res": 0
+        },
+        "growth": {
+            "hp": 40,
+            "str": 0,
+            "mag": 10,
+            "skl": 30,
+            "spd": 25,
+            "lck": 45,
+            "def": 20,
+            "res": 10
+        },
+        "rank": {
+            "tome": 30
+        },
+        "emote": "<:merric:663550350900592683>",
+        "support": {
+            "Supported by": "<:marth:663550350774632460>Marth: C-0|B-4|A-9\n<:wendell:663550355233308683>Wendell: C-0|B-6|A-13\n<:elice:663548493159465020>Elice: C-0|B-1",
+            "Supports": "<:elice:663548493159465020>Elice: C-0\n<:linde:663550348967018499>Linde: C-0|B-4|A-20\n<:wendell:663550355233308683>Wendell: C-5|B-10|A-16"
+        }
+    },
+    "midia": {
+        "name": "Midia",
+        "type": "playable",
+        "portrait": "midia.png",
+        "job": "paladin",
+        "lvl": 1,
+        "note": false,
+        "base": {
+            "hp": 2,
+            "str": 0,
+            "mag": 0,
+            "skl": 6,
+            "spd": 2,
+            "lck": 7,
+            "def": 1,
+            "res": 0
+        },
+        "growth": {
+            "hp": 40,
+            "str": 15,
+            "mag": 0,
+            "skl": 25,
+            "spd": 40,
+            "lck": 10,
+            "def": 5,
+            "res": 5
+        },
+        "rank": {
+            "sword": 30,
+            "lance": 45
+        },
+        "emote": "<:midia:663550350892204062>",
+        "support": {
+            "Supported by": "<:tomas:663550355300286465>Tomas: C-0|B-5\n<:macellan:663550350950662154>Macellan: C-0|B-5\n<:dolph:663548489095053344>Dolph: C-0|B-5\n<:boah:663548488021180427>Boah: C-0|B-5\n<:astram:663548487417462784>Astram: C-0|B-3|A-8",
+            "Supports": "<:astram:663548487417462784>Astram: C-0|B-3|A-8\n<:boah:663548488021180427>Boah: C-0|B-6\n<:tomas:663550355300286465>Tomas: C-0|B-5\n<:macellan:663550350950662154>Macellan: C-0|B-5\n<:dolph:663548489095053344>Dolph: C-0|B-5"
+        }
+    },
+    "minerva": {
+        "name": "Minerva",
+        "type": "playable",
+        "portrait": "minerva.png",
+        "job": "dracoknightf",
+        "lvl": 1,
+        "note": false,
+        "base": {
+            "hp": 4,
+            "str": 1,
+            "mag": -1,
+            "skl": 1,
+            "spd": 5,
+            "lck": 6,
+            "def": 2,
+            "res": 0
+        },
+        "growth": {
+            "hp": 0,
+            "str": 25,
+            "mag": 0,
+            "skl": 30,
+            "spd": 10,
+            "lck": 40,
+            "def": 20,
+            "res": 0
+        },
+        "rank": {
+            "axe": 195
+        },
+        "emote": "<:minerva:663550351168765952>",
+        "support": {
+            "Supported by": "<:maria:663550350904786955>Maria: C-0|B-6|A-13\n<:marth:663550350774632460>Marth: C-5|B-8|A-13",
+            "Supports": "<:est:663548493092093973>Est: C-0|B-3|A-6\n<:catria:663548488839069696>Catria: C-0|B-4|A-9\n<:palla:663550351600910337>Palla: C-0|B-4|A-9\n<:jake:663550348505513994>Jake: C-0|B-5\n<:maria:663550350904786955>Maria: C-0|B-6|A-13"
+        }
+    },
+    "nagi": {
+        "name": "Nagi",
+        "type": "playable",
+        "portrait": "nagi.png",
+        "job": "manaketef",
+        "lvl": 15,
+        "note": false,
+        "base": {
+            "hp": 14,
+            "str": 8,
+            "mag": 2,
+            "skl": 11,
+            "spd": 13,
+            "lck": 10,
+            "def": 5,
+            "res": 9
+        },
+        "growth": {
+            "hp": 40,
+            "str": 30,
+            "mag": 0,
+            "skl": 50,
+            "spd": 60,
+            "lck": 90,
+            "def": 10,
+            "res": 12
+        },
+        "rank": {},
+        "emote": "<:nagi:663550351441526784>",
+        "support": {
+            "Supported by": "<:marth:663550350774632460>Marth: C-0",
+            "Supports": "<:xane:663550355241697280>Xane: C-0\n<:bantu:663548487732035603>Bantu: C-0"
+        }
+    },
+    "navarre": {
+        "name": "Navarre",
+        "type": "playable",
+        "portrait": "navarre.png",
+        "job": "myrmidon",
+        "lvl": 3,
+        "note": false,
+        "base": {
+            "hp": 3,
+            "str": 2,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 8,
+            "def": 2,
+            "res": 0
+        },
+        "growth": {
+            "hp": 40,
+            "str": 20,
+            "mag": 5,
+            "skl": 20,
+            "spd": 25,
+            "lck": 40,
+            "def": 5,
+            "res": 0
+        },
+        "rank": {
+            "sword": 75
+        },
+        "emote": "<:navarre:663550351588196353>",
+        "support": {
+            "Supported by": "<:ogma:663550351164833822>Ogma: C-0|B-6|A-13\n<:caeda:663846547494010883>Caeda: C-5|B-10|A-16",
+            "Supports": "<:ogma:663550351164833822>Ogma: C-0|B-6|A-13"
+        }
+    },
+    "norne": {
+        "name": "Norne",
+        "type": "playable",
+        "portrait": "norne.png",
+        "job": "archer",
+        "lvl": 1,
+        "note": false,
+        "base": {
+            "hp": 0,
+            "str": -1,
+            "mag": 0,
+            "skl": -2,
+            "spd": 1,
+            "lck": 3,
+            "def": 0,
+            "res": 0
+        },
+        "growth": {
+            "hp": 20,
+            "str": 15,
+            "mag": 0,
+            "skl": 20,
+            "spd": 25,
+            "lck": 30,
+            "def": 10,
+            "res": 5
+        },
+        "rank": {
+            "bow": 30
+        },
+        "emote": "<:norne:663897365005991964>",
+        "support": {
+            "Supported by": "<:gordin:663550347398348831>Gordin: C-0|B-5|A-11\n<:draug:663548492924321826>Draug: C-0|B-5|A-11\n<:marth:663550350774632460>Marth: C-5|B-10|A-16",
+            "Supports": "<:draug:663548492924321826>Draug: C-0|B-5|A-11\n<:gordin:663550347398348831>Gordin: C-0|B-5|A-11"
+        }
+    },
+    "ogma": {
+        "name": "Ogma",
+        "type": "playable",
+        "portrait": "ogma.png",
+        "job": "mercenary",
+        "lvl": 4,
+        "note": false,
+        "base": {
+            "hp": 6,
+            "str": 2,
+            "mag": 0,
+            "skl": 3,
+            "spd": 2,
+            "lck": 3,
+            "def": 1,
+            "res": 0
+        },
+        "growth": {
+            "hp": 30,
+            "str": 20,
+            "mag": 0,
+            "skl": 15,
+            "spd": 10,
+            "lck": 40,
+            "def": 15,
+            "res": 5
+        },
+        "rank": {
+            "sword": 75
+        },
+        "emote": "<:ogma:663550351164833822>",
+        "support": {
+            "Supported by": "<:navarre:663550351588196353>Navarre: C-0|B-6|A-13\n<:caeda:663846547494010883>Caeda: C-5|B-9|A-14",
+            "Supports": "<:navarre:663550351588196353>Navarre: C-0|B-6|A-13\n<:cord:663548488562245673>Cord: C-5|B-10|A-16\n<:bord:663548488339947569>Bord: C-5|B-10|A-16\n<:barst:663548487819984920>Barst: C-5|B-10|A-16"
+        }
+    },
+    "palla": {
+        "name": "Palla",
+        "type": "playable",
+        "portrait": "palla.png",
+        "job": "pegasusknight",
+        "lvl": 8,
+        "note": false,
+        "base": {
+            "hp": 6,
+            "str": 3,
+            "mag": 0,
+            "skl": 3,
+            "spd": 6,
+            "lck": 5,
+            "def": 3,
+            "res": 0
+        },
+        "growth": {
+            "hp": 30,
+            "str": 45,
+            "mag": 0,
+            "skl": 50,
+            "spd": 0,
+            "lck": 10,
+            "def": 15,
+            "res": 10
+        },
+        "rank": {
+            "lance": 135
+        },
+        "emote": "<:palla:663550351600910337>",
+        "support": {
+            "Supported by": "<:frey:663550347511332878>Frey: C-0|B-6\n<:abel:663548486616350723>Abel: C-0|B-6\n<:minerva:663550351168765952>Minerva: C-0|B-4|A-9",
+            "Supports": "<:abel:663548486616350723>Abel: C-0|B-6\n<:frey:663550347511332878>Frey: C-0|B-5"
+        }
+    },
+    "radd": {
+        "name": "Radd",
+        "type": "playable",
+        "portrait": "radd.png",
+        "job": "myrmidon",
+        "lvl": 1,
+        "note": false,
+        "base": {
+            "hp": 2,
+            "str": 1,
+            "mag": 0,
+            "skl": -1,
+            "spd": -1,
+            "lck": 1,
+            "def": 2,
+            "res": 0
+        },
+        "growth": {
+            "hp": 30,
+            "str": 30,
+            "mag": 0,
+            "skl": 15,
+            "spd": 20,
+            "lck": 40,
+            "def": 15,
+            "res": 0
+        },
+        "rank": {
+            "sword": 30
+        },
+        "emote": "<:radd:663550351588196360>",
+        "support": {
+            "Supported by": "<:caesar:663548488495267840>Caesar: C-5|B-10|A-16",
+            "Supports": "<:caesar:663548488495267840>Caesar: C-5|B-10|A-16"
+        }
+    },
+    "rickard": {
+        "name": "Rickard",
+        "type": "playable",
+        "portrait": "rickard.png",
+        "job": "thief",
+        "lvl": 1,
+        "note": false,
+        "base": {
+            "hp": 0,
+            "str": 2,
+            "mag": 0,
+            "skl": 1,
+            "spd": 2,
+            "lck": 0,
+            "def": 2,
+            "res": 0
+        },
+        "growth": {
+            "hp": 20,
+            "str": 40,
+            "mag": 0,
+            "skl": 0,
+            "spd": 10,
+            "lck": 40,
+            "def": 5,
+            "res": 12
+        },
+        "rank": {},
+        "emote": "<:rickard:663550351793717314>",
+        "support": {
+            "Supported by": "<:marth:663550350774632460>Marth: C-0|B-6|A-13\n<:julian:663550348643926019>Julian: C-5|B-10|A-16",
+            "Supports": false
+        }
+    },
+    "roger": {
+        "name": "Roger",
+        "type": "playable",
+        "portrait": "roger.png",
+        "job": "knight",
+        "lvl": 5,
+        "note": false,
+        "base": {
+            "hp": 4,
+            "str": 1,
+            "mag": 0,
+            "skl": 1,
+            "spd": 5,
+            "lck": 2,
+            "def": 2,
+            "res": 0
+        },
+        "growth": {
+            "hp": 10,
+            "str": 35,
+            "mag": 0,
+            "skl": 10,
+            "spd": 10,
+            "lck": 80,
+            "def": 0,
+            "res": 5
+        },
+        "rank": {
+            "lance": 30
+        },
+        "emote": "<:roger:663550351953100800>",
+        "support": {
+            "Supported by": "<:caeda:663846547494010883>Caeda: C-5|B-9|A-14",
+            "Supports": false
+        }
+    },
+    "roshea": {
+        "name": "Roshea",
+        "type": "playable",
+        "portrait": "roshea.png",
+        "job": "cavalier",
+        "lvl": 3,
+        "note": false,
+        "base": {
+            "hp": 4,
+            "str": 1,
+            "mag": 0,
+            "skl": 3,
+            "spd": 1,
+            "lck": 4,
+            "def": 0,
+            "res": 0
+        },
+        "growth": {
+            "hp": 50,
+            "str": 25,
+            "mag": 0,
+            "skl": 30,
+            "spd": 0,
+            "lck": 10,
+            "def": 5,
+            "res": 5
+        },
+        "rank": {
+            "lance": 30
+        },
+        "emote": "<:roshea:663550352032923658>",
+        "support": {
+            "Supported by": "<:hardin:663550347813584907>Hardin: C-5|B-9|A-14",
+            "Supports": false
+        }
+    },
+    "samson": {
+        "name": "Samson",
+        "type": "playable",
+        "portrait": "samson.png",
+        "job": "hero",
+        "lvl": 10,
+        "note": false,
+        "base": {
+            "hp": 2,
+            "str": 4,
+            "mag": 0,
+            "skl": 4,
+            "spd": 4,
+            "lck": 7,
+            "def": 2,
+            "res": 0
+        },
+        "growth": {
+            "hp": 10,
+            "str": 15,
+            "mag": 5,
+            "skl": 0,
+            "spd": 5,
+            "lck": 55,
+            "def": 10,
+            "res": 5
+        },
+        "rank": {
+            "axe": 135
+        },
+        "emote": "<:samson:663550352200564770>",
+        "support": {
+            "Supported by": "<:marth:663550350774632460>Marth: C-5|B-8",
+            "Supports": false
+        }
+    },
+    "sedgar": {
+        "name": "Sedgar",
+        "type": "playable",
+        "portrait": "sedgar.png",
+        "job": "horseman",
+        "lvl": 1,
+        "note": false,
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": -1,
+            "lck": 2,
+            "def": 0,
+            "res": -1
+        },
+        "growth": {
+            "hp": 120,
+            "str": 60,
+            "mag": 5,
+            "skl": 80,
+            "spd": 60,
+            "lck": 30,
+            "def": 80,
+            "res": 0
+        },
+        "rank": {},
+        "emote": "<:sedgar:663900096777420831>",
+        "support": {
+            "Supported by": "<:hardin:663550347813584907>Hardin: C-5|B-9|A-14",
+            "Supports": false
+        }
+    },
+    "tiki": {
+        "name": "Tiki",
+        "type": "playable",
+        "portrait": "tiki.png",
+        "job": "manaketef",
+        "lvl": 1,
+        "note": false,
+        "base": {
+            "hp": 0,
+            "str": 3,
+            "mag": 0,
+            "skl": 2,
+            "spd": 3,
+            "lck": 12,
+            "def": 2,
+            "res": 9
+        },
+        "growth": {
+            "hp": 40,
+            "str": 30,
+            "mag": 0,
+            "skl": 50,
+            "spd": 60,
+            "lck": 90,
+            "def": 10,
+            "res": 12
+        },
+        "rank": {},
+        "emote": "<:tiki:663550355308806165>",
+        "support": {
+            "Supported by": "<:marth:663550350774632460>Marth: C-1|B-5",
+            "Supports": "<:xane:663550355241697280>Xane: C-2|B-5\n<:bantu:663548487732035603>Bantu: C-0|B-3|A-5"
+        }
+    },
+    "tomas": {
+        "name": "Tomas",
+        "type": "playable",
+        "portrait": "tomas.png",
+        "job": "archer",
+        "lvl": 8,
+        "note": false,
+        "base": {
+            "hp": 6,
+            "str": 2,
+            "mag": 0,
+            "skl": 3,
+            "spd": 1,
+            "lck": 4,
+            "def": 0,
+            "res": 0
+        },
+        "growth": {
+            "hp": 25,
+            "str": 15,
+            "mag": 0,
+            "skl": 10,
+            "spd": 20,
+            "lck": 25,
+            "def": 0,
+            "res": 10
+        },
+        "rank": {
+            "bow": 75
+        },
+        "emote": "<:tomas:663550355300286465>",
+        "support": {
+            "Supported by": "<:midia:663550350892204062>Midia: C-0|B-5\n<:boah:663548488021180427>Boah: C-0|B-5\n<:macellan:663550350950662154>Macellan: C-0|B-5\n<:dolph:663548489095053344>Dolph: C-5|B-10",
+            "Supports": "<:macellan:663550350950662154>Macellan: C-0|B-5\n<:dolph:663548489095053344>Dolph: C-0|B-5\n<:midia:663550350892204062>Midia: C-0|B-5"
+        }
+    },
+    "vyland": {
+        "name": "Vyland",
+        "type": "playable",
+        "portrait": "vyland.png",
+        "job": "cavalier",
+        "lvl": 1,
+        "note": false,
+        "base": {
+            "hp": 2,
+            "str": 0,
+            "mag": 0,
+            "skl": 1,
+            "spd": 0,
+            "lck": 2,
+            "def": 0,
+            "res": 0
+        },
+        "growth": {
+            "hp": 20,
+            "str": 15,
+            "mag": 0,
+            "skl": 0,
+            "spd": 30,
+            "lck": 30,
+            "def": 0,
+            "res": 5
+        },
+        "rank": {
+            "lance": 30
+        },
+        "emote": "<:vyland:663550355421921280>",
+        "support": {
+            "Supported by": "<:hardin:663550347813584907>Hardin: C-5|B-9|A-14",
+            "Supports": false
+        }
+    },
+    "wendell": {
+        "name": "Wendell",
+        "type": "playable",
+        "portrait": "wendell.png",
+        "job": "sage",
+        "lvl": 1,
+        "note": false,
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 8,
+            "lck": 1,
+            "def": 2,
+            "res": 0
+        },
+        "growth": {
+            "hp": 20,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 40,
+            "def": 5,
+            "res": 15
+        },
+        "rank": {
+            "tome": 105,
+            "staff": 30
+        },
+        "emote": "<:wendell:663550355233308683>",
+        "support": {
+            "Supported by": "<:marth:663550350774632460>Marth: C-0|B-6|A-13\n<:merric:663550350900592683>Merric: C-5|B-10|A-16",
+            "Supports": "<:merric:663550350900592683>Merric: C-0|B-6|A-13"
+        }
+    },
+    "wolf": {
+        "name": "Wolf",
+        "type": "playable",
+        "portrait": "wolf.png",
+        "job": "horseman",
+        "lvl": 3,
+        "note": false,
+        "base": {
+            "hp": 2,
+            "str": 0,
+            "mag": -1,
+            "skl": 0,
+            "spd": 0,
+            "lck": 5,
+            "def": 0,
+            "res": -2
+        },
+        "growth": {
+            "hp": 120,
+            "str": 80,
+            "mag": 5,
+            "skl": 70,
+            "spd": 60,
+            "lck": 50,
+            "def": 60,
+            "res": 0
+        },
+        "rank": {},
+        "emote": "<:wolf:663550355241435136>",
+        "support": {
+            "Supported by": "<:hardin:663550347813584907>Hardin: C-5|B-9|A-14",
+            "Supports": false
+        }
+    },
+    "wrys": {
+        "name": "Wrys",
+        "type": "playable",
+        "portrait": "wrys.png",
+        "job": "curate",
+        "lvl": 1,
+        "note": false,
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 1,
+            "skl": 4,
+            "spd": 2,
+            "lck": 2,
+            "def": 0,
+            "res": 0
+        },
+        "growth": {
+            "hp": 0,
+            "str": 5,
+            "mag": 10,
+            "skl": 5,
+            "spd": 0,
+            "lck": 40,
+            "def": 5,
+            "res": 15
+        },
+        "rank": {},
+        "emote": "<:wrys:663550355107217431>",
+        "support": {
+            "Supported by": "<:caeda:663846547494010883>Caeda: C-0|B-6|A-13\n<:marth:663550350774632460>Marth: C-5|B-10|A-16",
+            "Supports": false
+        }
+    },
+    "xane": {
+        "name": "Xane",
+        "type": "playable",
+        "portrait": "xane.png",
+        "job": "freelancer",
+        "lvl": 1,
+        "note": false,
+        "base": {
+            "hp": 2,
+            "str": 1,
+            "mag": 1,
+            "skl": 1,
+            "spd": 2,
+            "lck": 9,
+            "def": 0,
+            "res": 0
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 10,
+            "skl": 0,
+            "spd": 0,
+            "lck": 20,
+            "def": 0,
+            "res": 17
+        },
+        "rank": {},
+        "emote": "<:xane:663550355241697280>",
+        "support": {
+            "Supported by": "<:nagi:663550351441526784>Nagi: C-0\n<:marth:663550350774632460>Marth: C-0|B-3\n<:tiki:663550355308806165>Tiki: C-2|B-5",
+            "Supports": false
+        }
+    },
+    "ymir": {
+        "name": "Ymir",
+        "type": "playable",
+        "portrait": "ymir.png",
+        "job": "warrior",
+        "lvl": 10,
+        "note": false,
+        "base": {
+            "hp": 20,
+            "str": 11,
+            "mag": 0,
+            "skl": 11,
+            "spd": 6,
+            "lck": 5,
+            "def": 4,
+            "res": 0
+        },
+        "growth": {
+            "hp": 10,
+            "str": 10,
+            "mag": 0,
+            "skl": 10,
+            "spd": 20,
+            "lck": 25,
+            "def": 10,
+            "res": 0
+        },
+        "rank": {
+            "axe": 105,
+            "bow": 30
+        },
+        "emote": "<:ymir:663550355342229505>",
+        "support": {
+            "Supported by": "<:marth:663550350774632460>Marth: C-2|B-4",
+            "Supports": false
+        }
+    }
+}

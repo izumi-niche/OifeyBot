@@ -1,0 +1,1486 @@
+{
+    "archer": {
+        "name": "Archer",
+        "gold": 1000,
+        "skill": [
+            "pursuit"
+        ],
+        "base": {
+            "hp": 30,
+            "str": 7,
+            "mag": 0,
+            "skl": 10,
+            "spd": 10,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "mov": 6
+        },
+        "rank": {
+            "bow": 4
+        }
+    },
+    "archknight": {
+        "name": "Arch Knight",
+        "gold": 3000,
+        "skill": [],
+        "base": {
+            "hp": 40,
+            "str": 10,
+            "mag": 0,
+            "skl": 8,
+            "spd": 8,
+            "lck": 0,
+            "def": 8,
+            "res": 3,
+            "mov": 9
+        },
+        "rank": {
+            "bow": 4
+        }
+    },
+    "axearmor": {
+        "name": "Axe Armor",
+        "gold": 2000,
+        "skill": [],
+        "base": {
+            "hp": 40,
+            "str": 9,
+            "mag": 0,
+            "skl": 5,
+            "spd": 3,
+            "lck": 0,
+            "def": 10,
+            "res": 0,
+            "mov": 5
+        },
+        "rank": {
+            "axe": 3
+        }
+    },
+    "axeknight": {
+        "name": "Axe Knight",
+        "gold": 1000,
+        "skill": [],
+        "base": {
+            "hp": 30,
+            "str": 7,
+            "mag": 0,
+            "skl": 6,
+            "spd": 6,
+            "lck": 0,
+            "def": 6,
+            "res": 0,
+            "mov": 8
+        },
+        "rank": {
+            "axe": 3
+        }
+    },
+    "axesoldier": {
+        "name": "Axe Soldier",
+        "gold": 1000,
+        "skill": [],
+        "base": {
+            "hp": 30,
+            "str": 6,
+            "mag": 0,
+            "skl": 5,
+            "spd": 5,
+            "lck": 0,
+            "def": 7,
+            "res": 0,
+            "mov": 6
+        },
+        "rank": {
+            "axe": 2
+        }
+    },
+    "barbarian": {
+        "name": "Barbarian",
+        "gold": 1000,
+        "skill": [],
+        "base": {
+            "hp": 35,
+            "str": 5,
+            "mag": 0,
+            "skl": 0,
+            "spd": 7,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "mov": 6
+        },
+        "rank": {
+            "axe": 3
+        }
+    },
+    "bard": {
+        "name": "Bard",
+        "gold": 2000,
+        "skill": [],
+        "base": {
+            "hp": 30,
+            "str": 0,
+            "mag": 7,
+            "skl": 7,
+            "spd": 10,
+            "lck": 0,
+            "def": 3,
+            "res": 7,
+            "mov": 6
+        },
+        "rank": {
+            "fire": 2,
+            "thunder": 2,
+            "wind": 2,
+            "light": 2
+        }
+    },
+    "baron": {
+        "name": "Baron",
+        "gold": 5000,
+        "skill": [
+            "pavise"
+        ],
+        "base": {
+            "hp": 45,
+            "str": 12,
+            "mag": 7,
+            "skl": 7,
+            "spd": 7,
+            "lck": 0,
+            "def": 12,
+            "res": 7,
+            "mov": 5
+        },
+        "rank": {
+            "sword": 4,
+            "lance": 4,
+            "axe": 4,
+            "bow": 4,
+            "fire": 4,
+            "thunder": 4,
+            "wind": 4,
+            "staff": 4
+        }
+    },
+    "bishop": {
+        "name": "Bishop",
+        "gold": 3000,
+        "skill": [],
+        "base": {
+            "hp": 35,
+            "str": 0,
+            "mag": 10,
+            "skl": 8,
+            "spd": 5,
+            "lck": 0,
+            "def": 3,
+            "res": 8,
+            "mov": 5
+        },
+        "rank": {
+            "fire": 3,
+            "thunder": 3,
+            "wind": 3,
+            "staff": 4
+        }
+    },
+    "bowarmor": {
+        "name": "Bow Armor",
+        "gold": 2000,
+        "skill": [],
+        "base": {
+            "hp": 40,
+            "str": 9,
+            "mag": 0,
+            "skl": 5,
+            "spd": 3,
+            "lck": 0,
+            "def": 10,
+            "res": 0,
+            "mov": 5
+        },
+        "rank": {
+            "bow": 3
+        }
+    },
+    "bowknight": {
+        "name": "Bow Knight",
+        "gold": 1000,
+        "skill": [],
+        "base": {
+            "hp": 30,
+            "str": 7,
+            "mag": 0,
+            "skl": 6,
+            "spd": 6,
+            "lck": 0,
+            "def": 6,
+            "res": 0,
+            "mov": 8
+        },
+        "rank": {
+            "bow": 3
+        }
+    },
+    "bowsoldier": {
+        "name": "Bow Soldier",
+        "gold": 1000,
+        "skill": [],
+        "base": {
+            "hp": 30,
+            "str": 6,
+            "mag": 0,
+            "skl": 5,
+            "spd": 5,
+            "lck": 0,
+            "def": 7,
+            "res": 0,
+            "mov": 6
+        },
+        "rank": {
+            "bow": 2
+        }
+    },
+    "brigand": {
+        "name": "Brigand",
+        "gold": 5000,
+        "skill": [],
+        "base": {
+            "hp": 35,
+            "str": 5,
+            "mag": 0,
+            "skl": 0,
+            "spd": 7,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "mov": 6
+        },
+        "rank": {
+            "axe": 3
+        }
+    },
+    "cavalier": {
+        "name": "Cavalier",
+        "gold": 1000,
+        "skill": [],
+        "base": {
+            "hp": 30,
+            "str": 7,
+            "mag": 0,
+            "skl": 6,
+            "spd": 6,
+            "lck": 0,
+            "def": 6,
+            "res": 0,
+            "mov": 8
+        },
+        "rank": {
+            "sword": 3,
+            "lance": 2
+        }
+    },
+    "child": {
+        "name": "Child",
+        "gold": 0,
+        "skill": [],
+        "base": {
+            "hp": 20,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "mov": 5
+        },
+        "rank": {}
+    },
+    "civilian": {
+        "name": "Civilian",
+        "gold": 0,
+        "skill": [],
+        "base": {
+            "hp": 20,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 10,
+            "lck": 0,
+            "def": 2,
+            "res": 0,
+            "mov": 5
+        },
+        "rank": {}
+    },
+    "dancer": {
+        "name": "Dancer",
+        "gold": 1000,
+        "skill": [
+            "dance"
+        ],
+        "base": {
+            "hp": 26,
+            "str": 3,
+            "mag": 0,
+            "skl": 1,
+            "spd": 7,
+            "lck": 0,
+            "def": 1,
+            "res": 3,
+            "mov": 6
+        },
+        "rank": {
+            "sword": 2
+        }
+    },
+    "darkbishop": {
+        "name": "Dark Bishop",
+        "gold": 5000,
+        "skill": [
+            "pursuit"
+        ],
+        "base": {
+            "hp": 40,
+            "str": 0,
+            "mag": 15,
+            "skl": 10,
+            "spd": 10,
+            "lck": 0,
+            "def": 10,
+            "res": 12,
+            "mov": 5
+        },
+        "rank": {
+            "fire": 4,
+            "thunder": 4,
+            "wind": 4,
+            "dark": 4,
+            "staff": 4
+        }
+    },
+    "darkmage": {
+        "name": "Dark Mage",
+        "gold": 3000,
+        "skill": [],
+        "base": {
+            "hp": 40,
+            "str": 0,
+            "mag": 10,
+            "skl": 8,
+            "spd": 8,
+            "lck": 0,
+            "def": 7,
+            "res": 10,
+            "mov": 5
+        },
+        "rank": {
+            "dark": 3,
+            "staff": 3
+        }
+    },
+    "darkprince": {
+        "name": "Dark Prince",
+        "gold": 0,
+        "skill": [],
+        "base": {
+            "hp": 30,
+            "str": 0,
+            "mag": 15,
+            "skl": 12,
+            "spd": 12,
+            "lck": 0,
+            "def": 10,
+            "res": 15,
+            "mov": 5
+        },
+        "rank": {
+            "fire": 4,
+            "thunder": 4,
+            "wind": 4,
+            "dark": 4
+        }
+    },
+    "dukeknight": {
+        "name": "Duke Knight",
+        "gold": 3000,
+        "skill": [],
+        "base": {
+            "hp": 40,
+            "str": 12,
+            "mag": 0,
+            "skl": 7,
+            "spd": 7,
+            "lck": 0,
+            "def": 8,
+            "res": 3,
+            "mov": 9
+        },
+        "rank": {
+            "lance": 4
+        }
+    },
+    "emperor": {
+        "name": "Emperor",
+        "gold": 6000,
+        "skill": [
+            "pavise",
+            "charm"
+        ],
+        "base": {
+            "hp": 45,
+            "str": 15,
+            "mag": 15,
+            "skl": 15,
+            "spd": 15,
+            "lck": 0,
+            "def": 15,
+            "res": 15,
+            "mov": 5
+        },
+        "rank": {
+            "sword": 4,
+            "lance": 4,
+            "axe": 4,
+            "bow": 4,
+            "fire": 4,
+            "thunder": 4,
+            "wind": 4,
+            "staff": 4
+        }
+    },
+    "falconknight": {
+        "name": "Falcon Knight",
+        "gold": 5000,
+        "skill": [
+            "adept"
+        ],
+        "base": {
+            "hp": 40,
+            "str": 7,
+            "mag": 7,
+            "skl": 12,
+            "spd": 15,
+            "lck": 0,
+            "def": 6,
+            "res": 12,
+            "mov": 8
+        },
+        "rank": {
+            "sword": 4,
+            "lance": 4,
+            "staff": 2
+        }
+    },
+    "fighter": {
+        "name": "Fighter",
+        "gold": 2000,
+        "skill": [],
+        "base": {
+            "hp": 35,
+            "str": 8,
+            "mag": 0,
+            "skl": 3,
+            "spd": 10,
+            "lck": 0,
+            "def": 8,
+            "res": 0,
+            "mov": 6
+        },
+        "rank": {
+            "axe": 4
+        }
+    },
+    "firemage": {
+        "name": "Fire Mage",
+        "gold": 1000,
+        "skill": [],
+        "base": {
+            "hp": 26,
+            "str": 0,
+            "mag": 10,
+            "skl": 6,
+            "spd": 6,
+            "lck": 0,
+            "def": 1,
+            "res": 5,
+            "mov": 5
+        },
+        "rank": {
+            "fire": 3
+        }
+    },
+    "freeknight": {
+        "name": "Free Knight",
+        "gold": 1000,
+        "skill": [],
+        "base": {
+            "hp": 30,
+            "str": 7,
+            "mag": 0,
+            "skl": 6,
+            "spd": 6,
+            "lck": 0,
+            "def": 6,
+            "res": 0,
+            "mov": 8
+        },
+        "rank": {
+            "sword": 3
+        }
+    },
+    "general": {
+        "name": "General",
+        "gold": 3000,
+        "skill": [
+            "pavise"
+        ],
+        "base": {
+            "hp": 40,
+            "str": 10,
+            "mag": 0,
+            "skl": 6,
+            "spd": 5,
+            "lck": 0,
+            "def": 12,
+            "res": 3,
+            "mov": 5
+        },
+        "rank": {
+            "sword": 4,
+            "lance": 4,
+            "axe": 3,
+            "bow": 3
+        }
+    },
+    "greatballista": {
+        "name": "Great Ballista",
+        "gold": 1000,
+        "skill": [],
+        "base": {
+            "hp": 30,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "bow": 4
+        }
+    },
+    "greatknight": {
+        "name": "Great Knight",
+        "gold": 3000,
+        "skill": [],
+        "base": {
+            "hp": 40,
+            "str": 12,
+            "mag": 0,
+            "skl": 7,
+            "spd": 7,
+            "lck": 0,
+            "def": 10,
+            "res": 3,
+            "mov": 9
+        },
+        "rank": {
+            "axe": 4
+        }
+    },
+    "hero": {
+        "name": "Hero",
+        "gold": 3000,
+        "skill": [
+            "pursuit"
+        ],
+        "base": {
+            "hp": 40,
+            "str": 12,
+            "mag": 3,
+            "skl": 12,
+            "spd": 12,
+            "lck": 0,
+            "def": 7,
+            "res": 3,
+            "mov": 6
+        },
+        "rank": {
+            "sword": 4
+        }
+    },
+    "highpriest": {
+        "name": "High Priest",
+        "gold": 3000,
+        "skill": [],
+        "base": {
+            "hp": 35,
+            "str": 0,
+            "mag": 12,
+            "skl": 9,
+            "spd": 8,
+            "lck": 0,
+            "def": 3,
+            "res": 8,
+            "mov": 5
+        },
+        "rank": {
+            "fire": 2,
+            "thunder": 2,
+            "wind": 2,
+            "staff": 4
+        }
+    },
+    "hunter": {
+        "name": "Hunter",
+        "gold": 1000,
+        "skill": [],
+        "base": {
+            "hp": 35,
+            "str": 7,
+            "mag": 0,
+            "skl": 0,
+            "spd": 7,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "mov": 6
+        },
+        "rank": {
+            "bow": 4
+        }
+    },
+    "ironballista": {
+        "name": "Iron Ballista",
+        "gold": 1000,
+        "skill": [],
+        "base": {
+            "hp": 30,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 10,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "bow": 4
+        }
+    },
+    "killerballista": {
+        "name": "Killer Ballista",
+        "gold": 1000,
+        "skill": [],
+        "base": {
+            "hp": 30,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "bow": 4
+        }
+    },
+    "knightlord": {
+        "name": "Knight Lord",
+        "gold": 3000,
+        "skill": [],
+        "base": {
+            "hp": 40,
+            "str": 10,
+            "mag": 0,
+            "skl": 7,
+            "spd": 7,
+            "lck": 0,
+            "def": 7,
+            "res": 3,
+            "mov": 9
+        },
+        "rank": {
+            "sword": 4,
+            "lance": 3
+        }
+    },
+    "lancearmor": {
+        "name": "Lance Armor",
+        "gold": 2000,
+        "skill": [],
+        "base": {
+            "hp": 40,
+            "str": 9,
+            "mag": 0,
+            "skl": 5,
+            "spd": 3,
+            "lck": 0,
+            "def": 10,
+            "res": 0,
+            "mov": 5
+        },
+        "rank": {
+            "lance": 3
+        }
+    },
+    "lanceknight": {
+        "name": "Lance Knight",
+        "gold": 1000,
+        "skill": [],
+        "base": {
+            "hp": 30,
+            "str": 7,
+            "mag": 0,
+            "skl": 6,
+            "spd": 6,
+            "lck": 0,
+            "def": 6,
+            "res": 0,
+            "mov": 8
+        },
+        "rank": {
+            "lance": 3
+        }
+    },
+    "lancesoldier": {
+        "name": "Lance Soldier",
+        "gold": 1000,
+        "skill": [],
+        "base": {
+            "hp": 30,
+            "str": 6,
+            "mag": 0,
+            "skl": 5,
+            "spd": 5,
+            "lck": 0,
+            "def": 7,
+            "res": 0,
+            "mov": 6
+        },
+        "rank": {
+            "lance": 3
+        }
+    },
+    "longballista": {
+        "name": "Long Ballista",
+        "gold": 1000,
+        "skill": [],
+        "base": {
+            "hp": 30,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0,
+            "mov": 0
+        },
+        "rank": {
+            "bow": 4
+        }
+    },
+    "lord": {
+        "name": "Lord",
+        "gold": 6000,
+        "skill": [],
+        "base": {
+            "hp": 30,
+            "str": 5,
+            "mag": 0,
+            "skl": 5,
+            "spd": 5,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "mov": 6
+        },
+        "rank": {
+            "sword": 3
+        }
+    },
+    "mage": {
+        "name": "Mage",
+        "gold": 1000,
+        "skill": [],
+        "base": {
+            "hp": 26,
+            "str": 0,
+            "mag": 7,
+            "skl": 6,
+            "spd": 6,
+            "lck": 0,
+            "def": 1,
+            "res": 5,
+            "mov": 5
+        },
+        "rank": {
+            "fire": 2,
+            "thunder": 2,
+            "wind": 2
+        }
+    },
+    "magefighterf": {
+        "name": "War Mage (F)",
+        "gold": 3000,
+        "skill": [
+            "adept"
+        ],
+        "base": {
+            "hp": 26,
+            "str": 3,
+            "mag": 12,
+            "skl": 9,
+            "spd": 12,
+            "lck": 0,
+            "def": 5,
+            "res": 10,
+            "mov": 6
+        },
+        "rank": {
+            "sword": 2,
+            "fire": 3,
+            "thunder": 3,
+            "wind": 3,
+            "staff": 3
+        }
+    },
+    "magefighterm": {
+        "name": "War Mage (M)",
+        "gold": 3000,
+        "skill": [
+            "adept"
+        ],
+        "base": {
+            "hp": 30,
+            "str": 5,
+            "mag": 12,
+            "skl": 10,
+            "spd": 10,
+            "lck": 0,
+            "def": 7,
+            "res": 7,
+            "mov": 6
+        },
+        "rank": {
+            "sword": 2,
+            "fire": 3,
+            "thunder": 3,
+            "wind": 3
+        }
+    },
+    "mageknight": {
+        "name": "Mage Knight",
+        "gold": 3000,
+        "skill": [],
+        "base": {
+            "hp": 40,
+            "str": 5,
+            "mag": 10,
+            "skl": 7,
+            "spd": 7,
+            "lck": 0,
+            "def": 5,
+            "res": 7,
+            "mov": 9
+        },
+        "rank": {
+            "sword": 3,
+            "fire": 3,
+            "thunder": 3,
+            "wind": 3
+        }
+    },
+    "masterknight": {
+        "name": "Master Knight",
+        "gold": 3000,
+        "skill": [
+            "pursuit"
+        ],
+        "base": {
+            "hp": 40,
+            "str": 12,
+            "mag": 7,
+            "skl": 12,
+            "spd": 12,
+            "lck": 0,
+            "def": 12,
+            "res": 7,
+            "mov": 9
+        },
+        "rank": {
+            "sword": 4,
+            "lance": 4,
+            "axe": 4,
+            "bow": 4,
+            "fire": 4,
+            "thunder": 4,
+            "wind": 4,
+            "light": 2,
+            "staff": 4
+        }
+    },
+    "myrmidon": {
+        "name": "Myrmidon",
+        "gold": 1000,
+        "skill": [
+            "pursuit"
+        ],
+        "base": {
+            "hp": 30,
+            "str": 7,
+            "mag": 0,
+            "skl": 10,
+            "spd": 10,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "mov": 6
+        },
+        "rank": {
+            "sword": 4
+        }
+    },
+    "paladinf": {
+        "name": "Paladin (F)",
+        "gold": 3000,
+        "skill": [],
+        "base": {
+            "hp": 40,
+            "str": 9,
+            "mag": 5,
+            "skl": 9,
+            "spd": 9,
+            "lck": 0,
+            "def": 9,
+            "res": 5,
+            "mov": 9
+        },
+        "rank": {
+            "sword": 3,
+            "lance": 2,
+            "staff": 2
+        }
+    },
+    "paladinm": {
+        "name": "Paladin (M)",
+        "gold": 3000,
+        "skill": [],
+        "base": {
+            "hp": 40,
+            "str": 9,
+            "mag": 5,
+            "skl": 9,
+            "spd": 9,
+            "lck": 0,
+            "def": 9,
+            "res": 5,
+            "mov": 9
+        },
+        "rank": {
+            "sword": 3,
+            "lance": 3
+        }
+    },
+    "pegasusknight": {
+        "name": "Pegasus Knight",
+        "gold": 3000,
+        "skill": [],
+        "base": {
+            "hp": 35,
+            "str": 7,
+            "mag": 0,
+            "skl": 7,
+            "spd": 12,
+            "lck": 0,
+            "def": 5,
+            "res": 7,
+            "mov": 8
+        },
+        "rank": {
+            "sword": 3,
+            "lance": 3
+        }
+    },
+    "pegasusrider": {
+        "name": "Pegasus Rider",
+        "gold": 1000,
+        "skill": [],
+        "base": {
+            "hp": 30,
+            "str": 6,
+            "mag": 0,
+            "skl": 5,
+            "spd": 10,
+            "lck": 0,
+            "def": 3,
+            "res": 5,
+            "mov": 8
+        },
+        "rank": {
+            "sword": 2,
+            "lance": 2
+        }
+    },
+    "pirate": {
+        "name": "Pirate",
+        "gold": 5000,
+        "skill": [],
+        "base": {
+            "hp": 35,
+            "str": 5,
+            "mag": 0,
+            "skl": 0,
+            "spd": 7,
+            "lck": 0,
+            "def": 5,
+            "res": 0,
+            "mov": 6
+        },
+        "rank": {
+            "axe": 3
+        }
+    },
+    "priest": {
+        "name": "Priest",
+        "gold": 1000,
+        "skill": [],
+        "base": {
+            "hp": 26,
+            "str": 0,
+            "mag": 7,
+            "skl": 6,
+            "spd": 6,
+            "lck": 0,
+            "def": 1,
+            "res": 7,
+            "mov": 5
+        },
+        "rank": {
+            "staff": 3
+        }
+    },
+    "prince": {
+        "name": "Prince",
+        "gold": 5000,
+        "skill": [],
+        "base": {
+            "hp": 30,
+            "str": 8,
+            "mag": 3,
+            "skl": 7,
+            "spd": 6,
+            "lck": 0,
+            "def": 7,
+            "res": 3,
+            "mov": 6
+        },
+        "rank": {
+            "sword": 4
+        }
+    },
+    "princess": {
+        "name": "Princess",
+        "gold": 5000,
+        "skill": [],
+        "base": {
+            "hp": 26,
+            "str": 5,
+            "mag": 7,
+            "skl": 5,
+            "spd": 8,
+            "lck": 0,
+            "def": 5,
+            "res": 7,
+            "mov": 6
+        },
+        "rank": {
+            "sword": 3,
+            "staff": 2
+        }
+    },
+    "queen": {
+        "name": "Queen",
+        "gold": 6000,
+        "skill": [
+            "charm"
+        ],
+        "base": {
+            "hp": 35,
+            "str": 5,
+            "mag": 15,
+            "skl": 10,
+            "spd": 12,
+            "lck": 0,
+            "def": 10,
+            "res": 15,
+            "mov": 6
+        },
+        "rank": {
+            "fire": 4,
+            "thunder": 4,
+            "wind": 4,
+            "staff": 4
+        }
+    },
+    "ranger": {
+        "name": "Ranger",
+        "gold": 3000,
+        "skill": [
+            "adept"
+        ],
+        "base": {
+            "hp": 40,
+            "str": 8,
+            "mag": 0,
+            "skl": 15,
+            "spd": 12,
+            "lck": 0,
+            "def": 8,
+            "res": 3,
+            "mov": 9
+        },
+        "rank": {
+            "sword": 4
+        }
+    },
+    "sage": {
+        "name": "Sage",
+        "gold": 5000,
+        "skill": [
+            "adept"
+        ],
+        "base": {
+            "hp": 35,
+            "str": 0,
+            "mag": 15,
+            "skl": 12,
+            "spd": 15,
+            "lck": 0,
+            "def": 3,
+            "res": 12,
+            "mov": 6
+        },
+        "rank": {
+            "fire": 3,
+            "thunder": 3,
+            "wind": 3,
+            "light": 3,
+            "staff": 3
+        }
+    },
+    "shaman": {
+        "name": "Shaman",
+        "gold": 2000,
+        "skill": [],
+        "base": {
+            "hp": 30,
+            "str": 0,
+            "mag": 8,
+            "skl": 7,
+            "spd": 7,
+            "lck": 0,
+            "def": 3,
+            "res": 10,
+            "mov": 5
+        },
+        "rank": {
+            "light": 4,
+            "staff": 3
+        }
+    },
+    "sniper": {
+        "name": "Sniper",
+        "gold": 3000,
+        "skill": [
+            "pursuit"
+        ],
+        "base": {
+            "hp": 40,
+            "str": 12,
+            "mag": 0,
+            "skl": 12,
+            "spd": 12,
+            "lck": 0,
+            "def": 7,
+            "res": 3,
+            "mov": 6
+        },
+        "rank": {
+            "bow": 4
+        }
+    },
+    "soldier": {
+        "name": "Soldier",
+        "gold": 1000,
+        "skill": [],
+        "base": {
+            "hp": 30,
+            "str": 6,
+            "mag": 0,
+            "skl": 5,
+            "spd": 5,
+            "lck": 0,
+            "def": 7,
+            "res": 0,
+            "mov": 6
+        },
+        "rank": {
+            "lance": 2
+        }
+    },
+    "swordarmor": {
+        "name": "Sword Armor",
+        "gold": 2000,
+        "skill": [],
+        "base": {
+            "hp": 40,
+            "str": 9,
+            "mag": 0,
+            "skl": 5,
+            "spd": 3,
+            "lck": 0,
+            "def": 10,
+            "res": 0,
+            "mov": 5
+        },
+        "rank": {
+            "sword": 3
+        }
+    },
+    "swordmaster": {
+        "name": "Swordmaster",
+        "gold": 3000,
+        "skill": [
+            "pursuit",
+            "adept"
+        ],
+        "base": {
+            "hp": 40,
+            "str": 12,
+            "mag": 0,
+            "skl": 15,
+            "spd": 15,
+            "lck": 0,
+            "def": 7,
+            "res": 3,
+            "mov": 6
+        },
+        "rank": {
+            "sword": 4
+        }
+    },
+    "swordsoldier": {
+        "name": "Sword Soldier",
+        "gold": 1000,
+        "skill": [],
+        "base": {
+            "hp": 30,
+            "str": 6,
+            "mag": 0,
+            "skl": 5,
+            "spd": 5,
+            "lck": 0,
+            "def": 7,
+            "res": 0,
+            "mov": 6
+        },
+        "rank": {
+            "sword": 2
+        }
+    },
+    "thief": {
+        "name": "Thief",
+        "gold": 5000,
+        "skill": [
+            "steal"
+        ],
+        "base": {
+            "hp": 26,
+            "str": 3,
+            "mag": 0,
+            "skl": 3,
+            "spd": 7,
+            "lck": 0,
+            "def": 1,
+            "res": 0,
+            "mov": 6
+        },
+        "rank": {
+            "sword": 2
+        }
+    },
+    "thieffighter": {
+        "name": "Thief Fighter",
+        "gold": 6000,
+        "skill": [
+            "pursuit",
+            "steal"
+        ],
+        "base": {
+            "hp": 30,
+            "str": 7,
+            "mag": 3,
+            "skl": 7,
+            "spd": 12,
+            "lck": 0,
+            "def": 5,
+            "res": 3,
+            "mov": 7
+        },
+        "rank": {
+            "sword": 4
+        }
+    },
+    "thundermage": {
+        "name": "Thunder Mage",
+        "gold": 1000,
+        "skill": [],
+        "base": {
+            "hp": 26,
+            "str": 0,
+            "mag": 7,
+            "skl": 9,
+            "spd": 6,
+            "lck": 0,
+            "def": 1,
+            "res": 5,
+            "mov": 5
+        },
+        "rank": {
+            "thunder": 3
+        }
+    },
+    "troubadour": {
+        "name": "Troubadour",
+        "gold": 1000,
+        "skill": [],
+        "base": {
+            "hp": 26,
+            "str": 3,
+            "mag": 3,
+            "skl": 6,
+            "spd": 6,
+            "lck": 0,
+            "def": 3,
+            "res": 3,
+            "mov": 8
+        },
+        "rank": {
+            "sword": 3,
+            "staff": 2
+        }
+    },
+    "warrior": {
+        "name": "Warrior",
+        "gold": 3000,
+        "skill": [],
+        "base": {
+            "hp": 40,
+            "str": 11,
+            "mag": 0,
+            "skl": 5,
+            "spd": 12,
+            "lck": 0,
+            "def": 10,
+            "res": 3,
+            "mov": 6
+        },
+        "rank": {
+            "axe": 4,
+            "bow": 3
+        }
+    },
+    "windmage": {
+        "name": "Wind Mage",
+        "gold": 1000,
+        "skill": [],
+        "base": {
+            "hp": 26,
+            "str": 0,
+            "mag": 7,
+            "skl": 6,
+            "spd": 9,
+            "lck": 0,
+            "def": 1,
+            "res": 5,
+            "mov": 5
+        },
+        "rank": {
+            "wind": 3
+        }
+    },
+    "wyvernknight": {
+        "name": "Wyvern Knight",
+        "gold": 1000,
+        "skill": [],
+        "base": {
+            "hp": 35,
+            "str": 9,
+            "mag": 0,
+            "skl": 5,
+            "spd": 5,
+            "lck": 0,
+            "def": 8,
+            "res": 0,
+            "mov": 9
+        },
+        "rank": {
+            "sword": 2,
+            "lance": 2
+        }
+    },
+    "wyvernlord": {
+        "name": "Wyvern Lord",
+        "gold": 5000,
+        "skill": [
+            "pursuit"
+        ],
+        "base": {
+            "hp": 40,
+            "str": 12,
+            "mag": 0,
+            "skl": 9,
+            "spd": 7,
+            "lck": 0,
+            "def": 14,
+            "res": 0,
+            "mov": 9
+        },
+        "rank": {
+            "sword": 4,
+            "lance": 4
+        }
+    },
+    "wyvernrider": {
+        "name": "Wyvern Rider",
+        "gold": 3000,
+        "skill": [],
+        "base": {
+            "hp": 40,
+            "str": 10,
+            "mag": 0,
+            "skl": 7,
+            "spd": 6,
+            "lck": 0,
+            "def": 11,
+            "res": 0,
+            "mov": 9
+        },
+        "rank": {
+            "sword": 3,
+            "lance": 3
+        }
+    }
+}

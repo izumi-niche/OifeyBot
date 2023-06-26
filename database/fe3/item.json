@@ -1,0 +1,1501 @@
+{
+    "ironsword": {
+        "name": "Iron Sword",
+        "desc": false,
+        "stats": {
+            "wlv": 1,
+            "mt": 5,
+            "hit": 90,
+            "wt": 2,
+            "rng": 1,
+            "uses": 42,
+            "price": 420,
+            "sell": 210
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "steelsword": {
+        "name": "Steel Sword",
+        "desc": false,
+        "stats": {
+            "wlv": 2,
+            "mt": 8,
+            "hit": 80,
+            "wt": 4,
+            "rng": 1,
+            "uses": 38,
+            "price": 760,
+            "sell": 380
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "killingedge": {
+        "name": "Killing Edge",
+        "desc": false,
+        "stats": {
+            "wlv": 7,
+            "mt": 8,
+            "hit": 100,
+            "wt": 2,
+            "crit": 20,
+            "rng": 1,
+            "uses": 22,
+            "price": 1100,
+            "sell": 550
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "silversword": {
+        "name": "Silver Sword",
+        "desc": false,
+        "stats": {
+            "wlv": 9,
+            "mt": 12,
+            "hit": 90,
+            "wt": 3,
+            "rng": 1,
+            "uses": 20,
+            "price": 2000,
+            "sell": 1000
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "armorslayer": {
+        "name": "Armorslayer",
+        "desc": "Effective against armored units.",
+        "stats": {
+            "wlv": 3,
+            "mt": 6,
+            "hit": 100,
+            "wt": 4,
+            "rng": 1,
+            "uses": 20,
+            "price": 1000,
+            "sell": 500
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "swordslayer": {
+        "name": "Swordslayer",
+        "desc": "Effective against Mercenaries and Heroes.",
+        "stats": {
+            "wlv": 8,
+            "mt": 8,
+            "hit": 80,
+            "wt": 4,
+            "rng": 1,
+            "uses": 12,
+            "price": 2400,
+            "sell": 1200
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "wyrmslayer": {
+        "name": "Wyrmslayer",
+        "desc": "Effective against dragons except Shadow Dragons.",
+        "stats": {
+            "wlv": 7,
+            "mt": 10,
+            "hit": 80,
+            "wt": 4,
+            "rng": 1,
+            "uses": 16,
+            "price": 1600,
+            "sell": 800
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "ladysword": {
+        "name": "Lady Sword",
+        "desc": "Effective against Thieves, Barbarians, Bandits, and Pirates.",
+        "stats": {
+            "wlv": "Ladies only",
+            "mt": 12,
+            "hit": 100,
+            "wt": 5,
+            "crit": 10,
+            "rng": 1,
+            "uses": 25,
+            "price": 1000,
+            "sell": 500
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "levinsword": {
+        "name": "Levin Sword",
+        "desc": "Hits Res, does not scale with Str.",
+        "stats": {
+            "wlv": 8,
+            "mt": 10,
+            "hit": 90,
+            "wt": 5,
+            "rng": "1-2",
+            "uses": 28,
+            "price": 1400,
+            "sell": 700
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "devilsword": {
+        "name": "Devil Sword",
+        "desc": "(21-Lck)% chance to injure wielder.",
+        "stats": {
+            "wlv": 1,
+            "mt": 18,
+            "hit": 80,
+            "wt": 10,
+            "rng": 1,
+            "uses": 19,
+            "price": 1900,
+            "sell": 950
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "mastersword": {
+        "name": "Master Sword",
+        "desc": false,
+        "stats": {
+            "wlv": 12,
+            "mt": 12,
+            "hit": 100,
+            "wt": 5,
+            "crit": 30,
+            "rng": 1,
+            "uses": 25,
+            "price": 10000,
+            "sell": 5000
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "mercurius": {
+        "name": "Mercurius",
+        "desc": "Doubles wielder's EXP gain.",
+        "stats": {
+            "wlv": 12,
+            "mt": 20,
+            "hit": 100,
+            "wt": 4,
+            "rng": 1,
+            "uses": 24,
+            "price": 24000,
+            "sell": 12000
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "rapier": {
+        "name": "Rapier",
+        "desc": "Effective against Knights, Cavaliers, Generals, and Paladins.",
+        "stats": {
+            "wlv": "Marth/Phina Prf",
+            "mt": 5,
+            "hit": 90,
+            "wt": 1,
+            "crit": 10,
+            "rng": 1,
+            "uses": 30,
+            "price": 3000,
+            "sell": 1500
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "falchion": {
+        "name": "Falchion",
+        "desc": "Effective against dragons.",
+        "stats": {
+            "wlv": "Marth Prf",
+            "mt": 10,
+            "hit": 100,
+            "wt": 10,
+            "rng": 1
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "brokensword": {
+        "name": "Broken Sword",
+        "desc": false,
+        "stats": {
+            "wlv": 1,
+            "hit": 20,
+            "wt": 20,
+            "rng": 1,
+            "price": 20,
+            "sell": 10
+        },
+        "type": "item",
+        "weapon": false
+    },
+    "ironlance": {
+        "name": "Iron Lance",
+        "desc": false,
+        "stats": {
+            "wlv": 1,
+            "mt": 7,
+            "hit": 100,
+            "wt": 6,
+            "rng": 1,
+            "uses": 38,
+            "price": 380,
+            "sell": 190
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "steellance": {
+        "name": "Steel Lance",
+        "desc": false,
+        "stats": {
+            "wlv": 2,
+            "mt": 10,
+            "hit": 90,
+            "wt": 8,
+            "rng": 1,
+            "uses": 28,
+            "price": 560,
+            "sell": 280
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "killerlance": {
+        "name": "Killer Lance",
+        "desc": false,
+        "stats": {
+            "wlv": 6,
+            "mt": 9,
+            "hit": 100,
+            "wt": 4,
+            "crit": 20,
+            "rng": 1,
+            "uses": 24,
+            "price": 1200,
+            "sell": 600
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "silverlance": {
+        "name": "Silver Lance",
+        "desc": false,
+        "stats": {
+            "wlv": 7,
+            "mt": 14,
+            "hit": 90,
+            "wt": 7,
+            "rng": 1,
+            "uses": 20,
+            "price": 1600,
+            "sell": 800
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "slimlance": {
+        "name": "Slim Lance",
+        "desc": false,
+        "stats": {
+            "wlv": 1,
+            "mt": 5,
+            "hit": 100,
+            "wt": 2,
+            "crit": 5,
+            "rng": 1,
+            "uses": 30,
+            "price": 450,
+            "sell": 220
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "ridersbane": {
+        "name": "Ridersbane",
+        "desc": "Effective against Cavaliers and Paladins.",
+        "stats": {
+            "wlv": 4,
+            "mt": 5,
+            "hit": 90,
+            "wt": 4,
+            "rng": 1,
+            "uses": 14,
+            "price": 700,
+            "sell": 350
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "javelin": {
+        "name": "Javelin",
+        "desc": false,
+        "stats": {
+            "wlv": 3,
+            "mt": 8,
+            "hit": 70,
+            "wt": 20,
+            "rng": "1-2",
+            "uses": 20,
+            "price": 600,
+            "sell": 300
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "gradivus": {
+        "name": "Gradivus",
+        "desc": "Doubles wielder's EXP gain.",
+        "stats": {
+            "wlv": 12,
+            "mt": 20,
+            "hit": 100,
+            "wt": 8,
+            "rng": "1-2",
+            "uses": 17,
+            "price": 17000,
+            "sell": 8500
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "brokenlance": {
+        "name": "Broken Lance",
+        "desc": false,
+        "stats": {
+            "wlv": 1,
+            "hit": 20,
+            "wt": 20,
+            "rng": 1,
+            "price": 20,
+            "sell": 10
+        },
+        "type": "item",
+        "weapon": false
+    },
+    "ironaxe": {
+        "name": "Iron Axe",
+        "desc": false,
+        "stats": {
+            "wlv": 1,
+            "mt": 8,
+            "hit": 80,
+            "wt": 7,
+            "rng": 1,
+            "uses": 43,
+            "price": 430,
+            "sell": 210
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "steelaxe": {
+        "name": "Steel Axe",
+        "desc": false,
+        "stats": {
+            "wlv": 2,
+            "mt": 11,
+            "hit": 70,
+            "wt": 9,
+            "rng": 1,
+            "uses": 30,
+            "price": 600,
+            "sell": 300
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "silveraxe": {
+        "name": "Silver Axe",
+        "desc": false,
+        "stats": {
+            "wlv": 10,
+            "mt": 15,
+            "hit": 90,
+            "wt": 7,
+            "rng": 1,
+            "uses": 20,
+            "price": 10000,
+            "sell": 5000
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "devilaxe": {
+        "name": "Devil Axe",
+        "desc": "21 -Lck % chance to injure wielder.",
+        "stats": {
+            "wlv": 1,
+            "mt": 20,
+            "hit": 70,
+            "wt": 20,
+            "rng": 1,
+            "uses": 9,
+            "price": 900,
+            "sell": 450
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "handaxe": {
+        "name": "Hand Axe",
+        "desc": false,
+        "stats": {
+            "wlv": 3,
+            "mt": 5,
+            "hit": 60,
+            "wt": 9,
+            "rng": "1-2",
+            "uses": 15,
+            "price": 450,
+            "sell": 220
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "brokenaxe": {
+        "name": "Broken Axe",
+        "desc": false,
+        "stats": {
+            "wlv": 1,
+            "hit": 20,
+            "wt": 20,
+            "rng": 1,
+            "price": 20,
+            "sell": 10
+        },
+        "type": "item",
+        "weapon": false
+    },
+    "ironbow": {
+        "name": "Iron Bow",
+        "desc": false,
+        "stats": {
+            "wlv": 1,
+            "mt": 6,
+            "hit": 100,
+            "wt": 4,
+            "rng": 2,
+            "uses": 33,
+            "price": 330,
+            "sell": 160
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "steelbow": {
+        "name": "Steel Bow",
+        "desc": false,
+        "stats": {
+            "wlv": 3,
+            "mt": 9,
+            "hit": 90,
+            "wt": 7,
+            "rng": 2,
+            "uses": 28,
+            "price": 560,
+            "sell": 280
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "killerbow": {
+        "name": "Killer Bow",
+        "desc": false,
+        "stats": {
+            "wlv": 6,
+            "mt": 8,
+            "hit": 100,
+            "wt": 3,
+            "crit": 20,
+            "rng": 2,
+            "uses": 20,
+            "price": 1000,
+            "sell": 500
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "silverbow": {
+        "name": "Silver Bow",
+        "desc": false,
+        "stats": {
+            "wlv": 7,
+            "mt": 13,
+            "hit": 100,
+            "wt": 6,
+            "rng": 2,
+            "uses": 22,
+            "price": 2200,
+            "sell": 1100
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "parthia": {
+        "name": "Parthia",
+        "desc": "Doubles wielder's EXP gain.",
+        "stats": {
+            "wlv": 12,
+            "mt": 20,
+            "hit": 100,
+            "wt": 7,
+            "rng": 2,
+            "uses": 17,
+            "price": 17000,
+            "sell": 8500
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "brokenbow": {
+        "name": "Broken Bow",
+        "desc": false,
+        "stats": {
+            "wlv": 1,
+            "hit": 20,
+            "wt": 20,
+            "rng": 2,
+            "price": 20,
+            "sell": 10
+        },
+        "type": "item",
+        "weapon": false
+    },
+    "arrowspate": {
+        "name": "Arrowspate",
+        "desc": "Effective against fliers.",
+        "stats": {
+            "wlv": 1,
+            "mt": 6,
+            "hit": 80,
+            "wt": 20,
+            "rng": "3-10"
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "stonehoist": {
+        "name": "Stonehoist",
+        "desc": false,
+        "stats": {
+            "wlv": 2,
+            "mt": 15,
+            "hit": 60,
+            "wt": 20,
+            "rng": "3-10"
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "thunderbolt": {
+        "name": "Thunderbolt",
+        "desc": "Hits enemy Res and does not scale with Str.",
+        "stats": {
+            "wlv": 6,
+            "mt": 10,
+            "hit": 80,
+            "wt": 20,
+            "crit": 20,
+            "rng": "3-10"
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "hoistflamme": {
+        "name": "Hoistflamme",
+        "desc": false,
+        "stats": {
+            "wlv": 5,
+            "mt": 10,
+            "hit": 90,
+            "wt": 20,
+            "rng": "3-10"
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "pachyderm": {
+        "name": "Pachyderm",
+        "desc": false,
+        "stats": {
+            "wlv": 8,
+            "mt": 20,
+            "hit": 70,
+            "wt": 20,
+            "rng": "3-10"
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "fire": {
+        "name": "Fire",
+        "desc": "Effective against Ice Dragons.",
+        "stats": {
+            "wlv": 1,
+            "mt": 5,
+            "hit": 100,
+            "rng": "1-2",
+            "uses": 25,
+            "price": 500,
+            "sell": 250
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "thunder": {
+        "name": "Thunder",
+        "desc": false,
+        "stats": {
+            "wlv": 3,
+            "mt": 6,
+            "hit": 90,
+            "wt": 1,
+            "crit": 5,
+            "rng": "1-2",
+            "uses": 21,
+            "price": 630,
+            "sell": 310
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "blizzard": {
+        "name": "Blizzard",
+        "desc": "Effective against Fire Dragons.",
+        "stats": {
+            "wlv": 5,
+            "mt": 6,
+            "hit": 90,
+            "wt": 2,
+            "rng": "1-2",
+            "uses": 23,
+            "price": 690,
+            "sell": 340
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "shaver": {
+        "name": "Shaver",
+        "desc": "Effective against flying units.",
+        "stats": {
+            "wlv": 4,
+            "mt": 5,
+            "hit": 100,
+            "crit": 20,
+            "rng": "1-2",
+            "uses": 30,
+            "price": 1500,
+            "sell": 750
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "elfire": {
+        "name": "Elfire",
+        "desc": "Effective against Ice Dragons.",
+        "stats": {
+            "wlv": 8,
+            "mt": 9,
+            "hit": 80,
+            "wt": 5,
+            "rng": "1-2",
+            "uses": 18,
+            "price": 900,
+            "sell": 450
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "bolganone": {
+        "name": "Bolganone",
+        "desc": "Effective against Ice Dragons.",
+        "stats": {
+            "wlv": 14,
+            "mt": 16,
+            "hit": 70,
+            "wt": 20,
+            "rng": "1-2",
+            "uses": 13,
+            "price": 1950,
+            "sell": 970
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "thoron": {
+        "name": "Thoron",
+        "desc": false,
+        "stats": {
+            "wlv": 12,
+            "mt": 12,
+            "hit": 100,
+            "wt": 3,
+            "crit": 10,
+            "rng": "1-2",
+            "uses": 21,
+            "price": 2100,
+            "sell": 1050
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "nosferatu": {
+        "name": "Nosferatu",
+        "desc": "All damage done to opponent with this tome heals the user.",
+        "stats": {
+            "wlv": "Ladies only",
+            "mt": 12,
+            "hit": 90,
+            "wt": 10,
+            "rng": "1-2",
+            "uses": 20,
+            "price": 4800,
+            "sell": 2400
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "Dulam": {
+        "name": "Dulam",
+        "desc": "Drops enemy's HP to 1.",
+        "stats": {
+            "wlv": 1,
+            "hit": 60,
+            "wt": 20,
+            "rng": "1-2",
+            "uses": 44
+        },
+        "type": "item",
+        "weapon": false
+    },
+    "worm": {
+        "name": "Worm",
+        "desc": false,
+        "stats": {
+            "wlv": 1,
+            "mt": 6,
+            "hit": 50,
+            "wt": 16,
+            "rng": "3-10",
+            "uses": 33
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "meteor": {
+        "name": "Meteor",
+        "desc": false,
+        "stats": {
+            "wlv": 1,
+            "mt": 12,
+            "hit": 80,
+            "wt": 20,
+            "rng": "3-10",
+            "uses": 33
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "starlight": {
+        "name": "Starlight",
+        "desc": "Only weapon that can damage anyone with Imhullu.",
+        "stats": {
+            "wlv": 12,
+            "mt": 12,
+            "hit": 100,
+            "wt": 5,
+            "rng": "1-2",
+            "uses": 12
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "aura": {
+        "name": "Aura",
+        "desc": false,
+        "stats": {
+            "wlv": "Linde Prf",
+            "mt": 20,
+            "hit": 90,
+            "wt": 6,
+            "rng": "1-2",
+            "uses": 25,
+            "price": 10000,
+            "sell": 5000
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "excalibur": {
+        "name": "Excalibur",
+        "desc": "Effective against fliers.",
+        "stats": {
+            "wlv": "Merric Prf",
+            "mt": 12,
+            "hit": 100,
+            "wt": 3,
+            "crit": 30,
+            "rng": "1-2",
+            "uses": 25,
+            "price": 10000,
+            "sell": 5000
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "imhullu": {
+        "name": "Imhullu",
+        "desc": "Makes wielder invulnerable to all attacks but Starlight.",
+        "stats": {
+            "wlv": "Gharnef Prf",
+            "mt": 14,
+            "hit": 70,
+            "wt": 14,
+            "rng": "1-2"
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "firebreath": {
+        "name": "Fire Breath",
+        "desc": "Only usable by Fire, Flying, and Mage Dragons. Effective against Ice Dragons.",
+        "stats": {
+            "wlv": 1,
+            "mt": 12,
+            "hit": 80,
+            "wt": 20,
+            "rng": "1-2"
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "icebreath": {
+        "name": "Ice Breath",
+        "desc": "Only usable by Ice Dragons, and in B1 only, Divine Dragons. Effective against Fire Dragons.",
+        "stats": {
+            "wlv": 1,
+            "mt": 10,
+            "hit": 80,
+            "wt": 20,
+            "rng": "1-2"
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "darkbreath": {
+        "name": "Dark Breath",
+        "desc": "Only usable by Earth and Shadow Dragons. Halves damage to user.",
+        "stats": {
+            "wlv": 1,
+            "mt": 12,
+            "hit": 70,
+            "wt": 20,
+            "rng": "1-2"
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "mistbreath": {
+        "name": "Mist Breath",
+        "desc": "Only usable by Divine Dragons in B2. Effective against all dragons.",
+        "stats": {
+            "wlv": 1,
+            "mt": 10,
+            "hit": 90,
+            "wt": 20,
+            "rng": "1-2"
+        },
+        "type": "weapon",
+        "weapon": true
+    },
+    "vulnerary": {
+        "name": "Vulnerary",
+        "desc": "Restores 10 HP to the user.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "doorkey": {
+        "name": "Door Key",
+        "desc": "Opens doors.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "chestkey": {
+        "name": "Chest Key",
+        "desc": "Opens chests.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "bridgekey": {
+        "name": "Bridge Key",
+        "desc": "Lowers bridges.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "silverkey": {
+        "name": "Silver Key",
+        "desc": "Unused item that was intended to open silver doors.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "purewater": {
+        "name": "Pure Water",
+        "desc": "Increases user's Res by 7, effect diminshes each turn after use.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "angelicrobe": {
+        "name": "Angelic Robe",
+        "desc": "Increases user's max HP by 7.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "powerring": {
+        "name": "Power Ring",
+        "desc": "Increases user's Str by 4.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "secretbook": {
+        "name": "Secret Book",
+        "desc": "Increases user's Skl by 5.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "dracoshield": {
+        "name": "Dracoshield",
+        "desc": "Increases user's Def by 4.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "speedring": {
+        "name": "Speed Ring",
+        "desc": "Increases user's Spd by 5.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "armscroll": {
+        "name": "Arm Scroll",
+        "desc": "Increases user's WLv by 5.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "goddessicon": {
+        "name": "Goddess Icon",
+        "desc": "Increases user's Lck by 5.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "talisman": {
+        "name": "Talisman",
+        "desc": "Increases user's Res by 3.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "boots": {
+        "name": "Boots",
+        "desc": "Increases user's Mov by 4.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "firestone": {
+        "name": "Firestone",
+        "desc": "Transforms manakete who uses it into a Fire Dragon.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "icestone": {
+        "name": "Icestone",
+        "desc": "Transforms manakete who uses it into an Ice Dragon.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "wyvernstone": {
+        "name": "Wyvernstone",
+        "desc": "Transforms manakete who uses it into a Flying Dragon.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "magestone": {
+        "name": "Magestone",
+        "desc": "Transforms manakete who uses it into a Mage Dragon.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "earthstone": {
+        "name": "Earthstone",
+        "desc": "Transforms manakete who uses it into an Earth Dragon.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "divinestone": {
+        "name": "Divinestone",
+        "desc": "Transforms manakete who uses it into a Divine Dragon.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "darkstone": {
+        "name": "Darkstone",
+        "desc": "Unused, transforms manakete who uses it into a Shadow Dragon.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "knightcrest": {
+        "name": "Knight Crest",
+        "desc": "Promotes Cavaliers and Knights at LV10 and above.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "herocrest": {
+        "name": "Hero Crest",
+        "desc": "Promotes Mercenary at LV10 and above.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "skydrakewhip": {
+        "name": "Skydrake Whip",
+        "desc": "Promotes Pegasus Knights at LV10 and above.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "guidingring": {
+        "name": "Guiding Ring",
+        "desc": "Promotes Mages and Clerics at LV10 and above.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "orionsbolt": {
+        "name": "Orion's Bolt",
+        "desc": "Promotes Archers and Hunters at LV10 and above.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "membercard": {
+        "name": "Member Card",
+        "desc": "Allows holder to access secret shops.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "silvercard": {
+        "name": "Silver Card",
+        "desc": "Grants holder a 50% discount at shops.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "lifesphere": {
+        "name": "Lifesphere",
+        "desc": "All HP is restored to the wielder at the beginning of Player Phase.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "geosphere": {
+        "name": "Geosphere",
+        "desc": "Allies within 3 tiles of wielder get +10 to hit and crit, and when used as an item, 5-15 damage is dealt to all units.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "brokengeosphere": {
+        "name": "Broken Geosphere",
+        "desc": "Allies within 3 tiles of wielder get +10 to hit and crit.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "starsphere": {
+        "name": "Starsphere",
+        "desc": "Wielder's weapons will not depreciate, +30% to all growth rates.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "lightsphere": {
+        "name": "Lightsphere",
+        "desc": "Bypasses enemy's terrain bonuses, effective bonuses, crits, and Darksphere effect.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "darksphere": {
+        "name": "Darksphere",
+        "desc": "Negates all enemy attacks towards user.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "fireemblem": {
+        "name": "Fire Emblem",
+        "desc": "Cannot be removed from Marth's inventory. Wielder can open chests.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "bindingshield": {
+        "name": "Binding Shield",
+        "desc": "Cannot be removed from Marth's inventory. Wielder can open chests. Earth Dragons are removed from the map at the start of each Player Phase.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "iotesshield": {
+        "name": "Iote's Shield",
+        "desc": "Negates effective damage towards wielder.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "aumfragment": {
+        "name": "Aum Fragment",
+        "desc": "Unused item that was intended to revive the wielder after death.",
+        "stats": {},
+        "type": "item",
+        "weapon": false
+    },
+    "warpstaff": {
+        "name": "Warp Staff",
+        "desc": "Transports an adjacent unit to any traversable tile on the map.",
+        "stats": {
+            "wlv": 5,
+            "rng": 1,
+            "uses": 7,
+            "price": 14000,
+            "sell": 7000,
+            "exp": 42
+        },
+        "type": "item",
+        "weapon": false
+    },
+    "mendstaff": {
+        "name": "Mend Staff",
+        "desc": "Restores Str +20 HP to an adjacent ally.",
+        "stats": {
+            "wlv": 2,
+            "rng": 1,
+            "uses": 16,
+            "price": 1600,
+            "sell": 800,
+            "exp": 20
+        },
+        "type": "item",
+        "weapon": false
+    },
+    "healstaff": {
+        "name": "Heal Staff",
+        "desc": "Restores Str +10 HP to an adjacent ally.",
+        "stats": {
+            "wlv": 1,
+            "rng": 1,
+            "uses": 20,
+            "price": 1000,
+            "sell": 500,
+            "exp": 14
+        },
+        "type": "item",
+        "weapon": false
+    },
+    "barrierstaff": {
+        "name": "Barrier Staff",
+        "desc": "Increase an adjacent ally's Res by 7, buff decreases by 1 per turn.",
+        "stats": {
+            "wlv": 8,
+            "rng": 1,
+            "uses": 12,
+            "price": 9600,
+            "sell": 4800,
+            "exp": 30
+        },
+        "type": "item",
+        "weapon": false
+    },
+    "physicstaff": {
+        "name": "Physic Staff",
+        "desc": "Restores Str +10 HP to an ally.",
+        "stats": {
+            "wlv": 7,
+            "rng": "All",
+            "uses": 12,
+            "price": 2400,
+            "sell": 1200,
+            "exp": 30
+        },
+        "type": "item",
+        "weapon": false
+    },
+    "recoverstaff": {
+        "name": "Recover Staff",
+        "desc": "Restores all HP to an adjacent ally.",
+        "stats": {
+            "wlv": 3,
+            "rng": 1,
+            "uses": 12,
+            "price": 2400,
+            "sell": 1200,
+            "exp": 30
+        },
+        "type": "item",
+        "weapon": false
+    },
+    "fortifystaff": {
+        "name": "Fortify Staff",
+        "desc": "Restores Str +10 to all allies except for the user.",
+        "stats": {
+            "wlv": 8,
+            "rng": "All",
+            "uses": 12,
+            "price": 9600,
+            "sell": 4800,
+            "exp": 30
+        },
+        "type": "item",
+        "weapon": false
+    },
+    "unlockstaff": {
+        "name": "Unlock Staff",
+        "desc": "Opens one door.",
+        "stats": {
+            "wlv": 8,
+            "rng": "1-2",
+            "uses": 1,
+            "price": 10000,
+            "sell": 5000,
+            "exp": 58
+        },
+        "type": "item",
+        "weapon": false
+    },
+    "watchstaff": {
+        "name": "Watch Staff",
+        "desc": "Allows you to see anything obscured by a building for a moment.",
+        "stats": {
+            "wlv": 11,
+            "rng": "All",
+            "uses": 5,
+            "price": 10000,
+            "sell": 5000,
+            "exp": 56
+        },
+        "type": "item",
+        "weapon": false
+    },
+    "silencestaff": {
+        "name": "Silence Staff",
+        "desc": "Prevents every unit on the map from using magic, friend or foe.",
+        "stats": {
+            "wlv": 10,
+            "rng": "All",
+            "uses": 5,
+            "price": 10000,
+            "sell": 5000,
+            "exp": 58
+        },
+        "type": "item",
+        "weapon": false
+    },
+    "againstaff": {
+        "name": "Again Staff",
+        "desc": "Grants every ally another turn if they have used their turn already.",
+        "stats": {
+            "wlv": 20,
+            "rng": "All",
+            "uses": 3,
+            "price": 9980,
+            "sell": 4990,
+            "exp": 56
+        },
+        "type": "item",
+        "weapon": false
+    },
+    "hammernestaff": {
+        "name": "Hammerne Staff",
+        "desc": "Repairs a weapon to full uses, cannot be used on items or staves.",
+        "stats": {
+            "wlv": "Malicia and Lena Prf",
+            "rng": 1,
+            "uses": 5,
+            "price": 50000,
+            "sell": 25000,
+            "exp": 58
+        },
+        "type": "item",
+        "weapon": false
+    },
+    "thiefstaff": {
+        "name": "Thief Staff",
+        "desc": "Opens a chest as long as a unit is not on top of it.",
+        "stats": {
+            "wlv": "Malicia Prf",
+            "rng": "All",
+            "uses": 5,
+            "price": 10000,
+            "sell": 5000,
+            "exp": 56
+        },
+        "type": "item",
+        "weapon": false
+    },
+    "rescuestaff": {
+        "name": "Rescue Staff",
+        "desc": "Brings a distant unit right next to the user.",
+        "stats": {
+            "wlv": "Yumina Prf",
+            "rng": "All",
+            "uses": 5,
+            "price": 10000,
+            "sell": 5000,
+            "exp": 58
+        },
+        "type": "item",
+        "weapon": false
+    },
+    "aumstaffb1": {
+        "name": "Aum Staff (B1)",
+        "desc": "Revives a dead allied unit.",
+        "stats": {
+            "wlv": "Elice Prf",
+            "uses": 1,
+            "price": 10000,
+            "sell": 5000,
+            "exp": 58
+        },
+        "type": "item",
+        "weapon": false
+    },
+    "aumstaffb2": {
+        "name": "Aum Staff (B2)",
+        "desc": "Revives a dead allied unit.",
+        "stats": {
+            "wlv": "Yumina and Elice Prf",
+            "uses": 5,
+            "price": 10000,
+            "sell": 5000,
+            "exp": 58
+        },
+        "type": "item",
+        "weapon": false
+    },
+    "taurusshard": {
+        "name": "Taurus Shard",
+        "desc": "5% HP Growth, 5% Str Growth, 5% Skl Growth, 5% Spd Growth, 5% Lck Growth, 5% WLv Growth, 5% Def Growth, 5% Res Growth",
+        "type": "item",
+        "stats": {},
+        "weapon": false
+    },
+    "geminishard": {
+        "name": "Gemini Shard",
+        "desc": "30% Str Growth, -10% WLv Growth, 20% Def Growth",
+        "type": "item",
+        "stats": {},
+        "weapon": false
+    },
+    "aquariusshard": {
+        "name": "Aquarius Shard",
+        "desc": "10% Str Growth, 10% Skl Growth, 10% Spd Growth, 10% WLv Growth",
+        "type": "item",
+        "stats": {},
+        "weapon": false
+    },
+    "cancershard": {
+        "name": "Cancer Shard",
+        "desc": "-10% Str Growth, 50% Def Growth",
+        "type": "item",
+        "stats": {},
+        "weapon": false
+    },
+    "librashard": {
+        "name": "Libra Shard",
+        "desc": "-10% HP Growth, 40% Spd Growth, 10% Lck Growth, 10% WLv Growth, -10% Res Growth",
+        "type": "item",
+        "stats": {},
+        "weapon": false
+    },
+    "scorpioshard": {
+        "name": "Scorpio Shard",
+        "desc": "20% Str Growth, 20% Skl Growth, 10% Spd Growth, -10% Lck Growth",
+        "type": "item",
+        "stats": {},
+        "weapon": false
+    },
+    "leoshard": {
+        "name": "Leo Shard",
+        "desc": "50% Str Growth, -10% Def Growth",
+        "type": "item",
+        "stats": {},
+        "weapon": false
+    },
+    "sagittariusshard": {
+        "name": "Sagittarius Shard",
+        "desc": "-10% HP Growth, 40% Skl Growth, 10% Spd Growth",
+        "type": "item",
+        "stats": {},
+        "weapon": false
+    },
+    "virgoshard": {
+        "name": "Virgo Shard",
+        "desc": "20% WLv Growth, -10% Def Growth, 30% Res Growth",
+        "type": "item",
+        "stats": {},
+        "weapon": false
+    },
+    "capricornshard": {
+        "name": "Capricorn Shard",
+        "desc": "20% HP Growth, -10% Skl Growth, -10% Spd Growth, 30% WLv Growth, 10% Def Growth",
+        "type": "item",
+        "stats": {},
+        "weapon": false
+    },
+    "ariesshard": {
+        "name": "Aries Shard",
+        "desc": "40% Lck Growth",
+        "type": "item",
+        "stats": {},
+        "weapon": false
+    },
+    "piscesshard": {
+        "name": "Pisces Shard",
+        "desc": "10% HP Growth, 10% Lck Growth, 10% Def Growth, 10% Res Growth",
+        "type": "item",
+        "stats": {},
+        "weapon": false
+    }
+}

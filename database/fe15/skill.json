@@ -1,0 +1,1357 @@
+{
+    "curvedshot": {
+        "name": "Curved Shot",
+        "desc": "Targets the enemy's blind spot with high accuracy.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-1",
+            "mt": "+1",
+            "hit": "+30",
+            "wexp": "15"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Iron Bow\nPython's Bow"
+        }
+    },
+    "wrathstrike": {
+        "name": "Wrath Strike",
+        "desc": "An attack with power behind it.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-1",
+            "mt": "+5",
+            "hit": "+10",
+            "wexp": "10"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Iron Sword\nIlwoon\nClive's Lance"
+        }
+    },
+    "hitandrun": {
+        "name": "Hit and Run",
+        "desc": "An attack that places emphasis on evasion.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-1",
+            "mt": "+2",
+            "hit": "+10",
+            "avoid": "+30",
+            "wexp": "20"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Iron Lance"
+        }
+    },
+    "subdue": {
+        "name": "Subdue",
+        "desc": "Leaves the enemy with 1 HP.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hit": "+20",
+            "wexp": "5"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Royal Sword\nBeloved Zofia\nRapier\nEmperor Lance"
+        }
+    },
+    "shove": {
+        "name": "Shove",
+        "desc": "Pushes an ally one space.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "wexp": "10"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Emperor Lance\nIron Shield\nRion Shield\nEmperor Shield\nLukas's Shield"
+        }
+    },
+    "swap": {
+        "name": "Swap",
+        "desc": "Lets the user swap places with an ally.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "wexp": "5"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Beloved Zofia\nSaunion\nLeather Shield\nFugue Shield\nEmperor Shield\nLukas's Shield"
+        }
+    },
+    "crosswisecut": {
+        "name": "Crosswise Cut",
+        "desc": "A highly accurate cross- strike.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-3",
+            "mt": "+3",
+            "hit": "+30",
+            "wexp": "20"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Steel Sword"
+        }
+    },
+    "heavydraw": {
+        "name": "Heavy Draw",
+        "desc": "A shot with increased power.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-2",
+            "mt": "+8",
+            "hit": "+10",
+            "wexp": "20"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Steel Bow\nPython's Bow"
+        }
+    },
+    "duelistsword": {
+        "name": "Duelist Sword",
+        "desc": "A swift strike that facilitates evasion.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-3",
+            "mt": "+3",
+            "hit": "+10",
+            "avoid": "+40",
+            "crit": "+20",
+            "wexp": "20"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Silver Sword"
+        }
+    },
+    "sunder": {
+        "name": "Sunder",
+        "desc": "A powerful swing.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-2",
+            "mt": "+4",
+            "hit": "+10",
+            "crit": "+30",
+            "wexp": "15"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Steel Sword\nZweih\u00e4nder"
+        }
+    },
+    "hexblade": {
+        "name": "Hexblade",
+        "desc": "A magically charged attack.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-3",
+            "mt": "+7",
+            "hit": "+10",
+            "wexp": "15"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Ladyblade"
+        }
+    },
+    "lifetaker": {
+        "name": "Lifetaker",
+        "desc": "Absorbs HP if the opponent is defeated.",
+        "type": "Passive",
+        "icon": "Default",
+        "stats": {
+            "hp": "-3"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Shadow Sword\nDevil Axe"
+        }
+    },
+    "lunge": {
+        "name": "Lunge",
+        "desc": "Lets the user swap places with a foe after the battle.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-3",
+            "mt": "+2",
+            "hit": "+20",
+            "crit": "+10",
+            "wexp": "10"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Ilwoon\nClive's Lance"
+        }
+    },
+    "penetrate": {
+        "name": "Penetrate",
+        "desc": "Moves the user one space past a foe after the battle.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-3",
+            "mt": "+2",
+            "hit": "+20",
+            "avoid": "+10",
+            "wexp": "10"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Brave Sword\nZweih\u00e4nder\nFernand's Lance"
+        }
+    },
+    "leoninepoise": {
+        "name": "Leonine Poise",
+        "desc": "A single, powerful hit that always strikes second.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-3",
+            "mt": "+3",
+            "hit": "+20",
+            "avoid": "+-30",
+            "crit": "+50",
+            "wexp": "25"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Emperor Lance"
+        }
+    },
+    "thunderclap": {
+        "name": "Thunderclap",
+        "desc": "A remote attack that halves terrain bonuses.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-4",
+            "mt": "+2",
+            "wexp": "20"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Lightning Sword"
+        }
+    },
+    "knightkneeler": {
+        "name": "Knightkneeler",
+        "desc": "Effective against mounted units.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-4",
+            "mt": "+5",
+            "hit": "+15",
+            "wexp": "15"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Rhomphaia"
+        }
+    },
+    "armorcrush": {
+        "name": "Armorcrush",
+        "desc": "Effective against armored units.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-4",
+            "mt": "+4",
+            "hit": "+10",
+            "wexp": "15"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Steel Lance\nRhomphaia\nClive's Lance"
+        }
+    },
+    "deathblow": {
+        "name": "Death Blow",
+        "desc": "Effective against armored units.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-4",
+            "mt": "+6",
+            "hit": "+15",
+            "wexp": "20"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Ilwoon"
+        }
+    },
+    "celestialbow": {
+        "name": "Celestial Bow",
+        "desc": "Effective against Terrors.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-4",
+            "mt": "+5",
+            "hit": "+20",
+            "wexp": "20"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Radiant Bow"
+        }
+    },
+    "grounder": {
+        "name": "Grounder",
+        "desc": "Effective against flying units.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-4",
+            "mt": "+5",
+            "hit": "+15",
+            "wexp": "25"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Brave Sword"
+        }
+    },
+    "destreza": {
+        "name": "Destreza",
+        "desc": "Guarantees a hit if the attack will defeat a foe.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-4",
+            "mt": "+3",
+            "hit": "+20",
+            "wexp": "20"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Rapier"
+        }
+    },
+    "encloser": {
+        "name": "Encloser",
+        "desc": "Stops a target from moving for a turn if the attack hits.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-4",
+            "hit": "+15",
+            "wexp": "20"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Longbow\nPython's Bow"
+        }
+    },
+    "wardarrow": {
+        "name": "Ward Arrow",
+        "desc": "Binds a target's magic for one turn if the attack hits.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-4",
+            "hit": "+15",
+            "wexp": "25"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Silver Bow"
+        }
+    },
+    "plenitude": {
+        "name": "Plenitude",
+        "desc": "Restores HP equal to damage dealt.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hit": "+10",
+            "wexp": "10"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Golden Dagger\nMila's Bow"
+        }
+    },
+    "doublelion": {
+        "name": "Double Lion",
+        "desc": "A two-hit attack.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-6",
+            "mt": "+5",
+            "hit": "+20",
+            "avoid": "+10",
+            "wexp": "20"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Royal Sword"
+        }
+    },
+    "vendetta": {
+        "name": "Vendetta",
+        "desc": "Converts half of HP lost to attack power.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-5",
+            "mt": "+3",
+            "hit": "+20",
+            "wexp": "20"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Duma's Lance"
+        }
+    },
+    "dragonhaze": {
+        "name": "Dragonhaze",
+        "desc": "Adds the user's speed stat to attack power.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-8",
+            "mt": "+5",
+            "hit": "+20",
+            "wexp": "20"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Rhomphaia"
+        }
+    },
+    "tigerstance": {
+        "name": "Tigerstance",
+        "desc": "Adds the user's skill stat to attack power.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-8",
+            "mt": "+5",
+            "hit": "+30",
+            "wexp": "25"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Zweih\u00e4nder"
+        }
+    },
+    "archballista": {
+        "name": "Archballista",
+        "desc": "Strikes enemies a distance away.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-6",
+            "mt": "+2",
+            "hit": "+10",
+            "wexp": "25"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Saunion"
+        }
+    },
+    "tranceshot": {
+        "name": "Trance Shot",
+        "desc": "Strikes enemies a great distance away.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-8",
+            "mt": "+4",
+            "hit": "+30",
+            "wexp": "30"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Parthia"
+        }
+    },
+    "shadowgambit": {
+        "name": "Shadow Gambit",
+        "desc": "An attack that bypasses terrain bonuses.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-3",
+            "mt": "+2",
+            "hit": "+20",
+            "crit": "+10",
+            "wexp": "15"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Rapier"
+        }
+    },
+    "astralblade": {
+        "name": "Astral Blade",
+        "desc": "An attack that hits five times at half damage.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-10",
+            "hit": "+15",
+            "wexp": "30"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Astra"
+        }
+    },
+    "roundhouse": {
+        "name": "Roundhouse",
+        "desc": "An attack that bypasses half of an enemy's Defense.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-7",
+            "mt": "+4",
+            "hit": "+20",
+            "avoid": "+20",
+            "crit": "+20",
+            "wexp": "20"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Silver Sword"
+        }
+    },
+    "solarthrust": {
+        "name": "Solar Thrust",
+        "desc": "A single, powerful strike.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-10",
+            "mt": "+20",
+            "hit": "+15",
+            "wexp": "30"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Sol"
+        }
+    },
+    "lunarflash": {
+        "name": "Lunar Flash",
+        "desc": "Always hits the target.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-10",
+            "mt": "+12",
+            "hit": "+500",
+            "crit": "+10",
+            "wexp": "30"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Luna"
+        }
+    },
+    "defensive": {
+        "name": "Defensive",
+        "desc": "Decreases physical damage by 5.",
+        "type": "Combat Art",
+        "icon": "Shock",
+        "stats": {
+            "hp": "-1",
+            "wexp": "15"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Saunion\nSteel Shield\nRion Shield\nEmperor Shield\nLukas's Shield"
+        }
+    },
+    "coralcover": {
+        "name": "Coral Cover",
+        "desc": "Doubles terrain bonuses.",
+        "type": "Combat Art",
+        "icon": "Shock",
+        "stats": {
+            "hp": "-2",
+            "wexp": "15"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Fugue Shield\nCoral Ring"
+        }
+    },
+    "aegis": {
+        "name": "Aegis",
+        "desc": "Halves physical damage incurred from a distance.",
+        "type": "Combat Art",
+        "icon": "Shock",
+        "stats": {
+            "hp": "-2",
+            "wexp": "20"
+        },
+        "hidden": false,
+        "reference": {}
+    },
+    "speculum": {
+        "name": "Speculum",
+        "desc": "Reflects magical attacks.",
+        "type": "Combat Art",
+        "icon": "Shield",
+        "stats": {
+            "hp": "-3",
+            "wexp": "20"
+        },
+        "hidden": false,
+        "reference": {}
+    },
+    "pavise": {
+        "name": "Pavise",
+        "desc": "Halves physical damage.",
+        "type": "Combat Art",
+        "icon": "Shock",
+        "stats": {
+            "hp": "-3",
+            "wexp": "20"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Duma's Shield"
+        }
+    },
+    "earthskiss": {
+        "name": "Earth's Kiss",
+        "desc": "Halves magical damage.",
+        "type": "Combat Art",
+        "icon": "Shock",
+        "stats": {
+            "hp": "-4",
+            "wexp": "25"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Royal Shield"
+        }
+    },
+    "windsweep": {
+        "name": "Windsweep",
+        "desc": "Prevents opponents from counterattacking.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-4",
+            "mt": "+3",
+            "hit": "+20",
+            "crit": "+10",
+            "wexp": "25"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Iron Sword\nFernand's Lance"
+        }
+    },
+    "foudroyant": {
+        "name": "Foudroyant",
+        "desc": "A powerful attack that hits a single adjacent enemy.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-8",
+            "hit": "+30",
+            "avoid": "+15",
+            "wexp": "20"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Lightning Sword"
+        }
+    },
+    "earthsboon": {
+        "name": "Earth's Boon",
+        "desc": "Awards food when opponents are defeated.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-2",
+            "mt": "+3",
+            "hit": "+20",
+            "avoid": "+5",
+            "crit": "+5",
+            "wexp": "25"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Golden Dagger\nMila's Bow"
+        }
+    },
+    "flamberge": {
+        "name": "Flamberge",
+        "desc": "A two-hit attack imbued with magic.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-15",
+            "wexp": "20"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Ladyblade"
+        }
+    },
+    "longearche": {
+        "name": "Longearche",
+        "desc": "A lance throwing attack that hits distant targets.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-3",
+            "mt": "+1",
+            "wexp": "20"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Iron Lance\nFernand's Lance"
+        }
+    },
+    "tempestlance": {
+        "name": "Tempest Lance",
+        "desc": "Unleashes a powerful attack on a single adjacent enemy.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-5",
+            "mt": "+10",
+            "hit": "+20",
+            "wexp": "20"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Steel Lance"
+        }
+    },
+    "mistdancer": {
+        "name": "Mistdancer",
+        "desc": "Grants resistance to magic when using this attack.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-3",
+            "mt": "+2",
+            "hit": "+15",
+            "avoid": "+10",
+            "wexp": "20"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Silver Lance\nClair's Lance"
+        }
+    },
+    "overrun": {
+        "name": "Overrun",
+        "desc": "Pushes an enemy unit one space after the battle.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-4",
+            "mt": "+4",
+            "hit": "+10",
+            "avoid": "+10",
+            "wexp": "20"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Silver Lance"
+        }
+    },
+    "huntersvolley": {
+        "name": "Hunter's Volley",
+        "desc": "A swift, two-hit attack.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-8",
+            "mt": "+1",
+            "hit": "+15",
+            "crit": "+10",
+            "wexp": "20"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Killer Bow"
+        }
+    },
+    "scendscale": {
+        "name": "Scendscale",
+        "desc": "Alm's ultimate art.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-16",
+            "mt": "+14",
+            "wexp": "50"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Royal Sword\nFalchion"
+        }
+    },
+    "ragnarokomega": {
+        "name": "Ragnarok \u03a9",
+        "desc": "Celica's ultimate art.",
+        "type": "Combat Art",
+        "icon": "Default",
+        "stats": {
+            "hp": "-14",
+            "mt": "+24",
+            "wexp": "25"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Beloved Zofia"
+        }
+    },
+    "triangleattack": {
+        "name": "Triangle Attack",
+        "desc": "A flurry of attacks the sisters perform in tandem.",
+        "type": "Combat Art",
+        "icon": "Person",
+        "stats": {
+            "hp": "-10",
+            "mt": "+8",
+            "hit": "+30",
+            "crit": "+40"
+        },
+        "hidden": false,
+        "reference": {}
+    },
+    "soothinglight": {
+        "name": "Soothing Light",
+        "desc": "Restores 5 HP to adjacent units each turn.",
+        "type": "Passive",
+        "icon": "Exclamation",
+        "stats": {},
+        "hidden": false,
+        "reference": {}
+    },
+    "recovery": {
+        "name": "Recovery",
+        "desc": "Restores 5 HP each turn.",
+        "type": "Passive",
+        "icon": "Default",
+        "stats": {},
+        "hidden": false,
+        "reference": {
+            "Items": "Blessed Sword\nRoyal Sword\nFalchion\nMercurius\nBeloved Zofia\nBlessed Lance\nGradivus\nBlessed Bow\nParthia\nMila's Bow\nBlessed Shield\nDracoshield\nBlessed Ring\nAngel Ring\nSpeed Ring\nMage Ring\nPrayer Ring\nCoral Ring\nMila's Ring\nAnimus Ring\nKeepsake Ring\nSage's Shield"
+        }
+    },
+    "regeneration": {
+        "name": "Regeneration",
+        "desc": "Restores HP each turn.",
+        "type": "Passive",
+        "icon": "Person",
+        "stats": {},
+        "hidden": true,
+        "reference": {}
+    },
+    "incarnation": {
+        "name": "Incarnation",
+        "desc": "Restores 5 HP each turn.",
+        "type": "Passive",
+        "icon": "Exclamation",
+        "stats": {},
+        "hidden": false,
+        "reference": {}
+    },
+    "deicide": {
+        "name": "Deicide",
+        "desc": "An attack capable of destroying gods.",
+        "type": "Passive",
+        "icon": "Sword",
+        "stats": {},
+        "hidden": false,
+        "reference": {
+            "Items": "Falchion"
+        }
+    },
+    "hex": {
+        "name": "Hex",
+        "desc": "Has a set chance of cursing the user.",
+        "type": "Passive",
+        "icon": "Default",
+        "stats": {},
+        "hidden": false,
+        "reference": {
+            "Items": "Shadow Sword\nDevil Axe"
+        }
+    },
+    "antihex": {
+        "name": "Antihex",
+        "desc": "Reduces the probability of curses.",
+        "type": "Passive",
+        "icon": "Default",
+        "stats": {},
+        "hidden": true,
+        "reference": {}
+    },
+    "transmute": {
+        "name": "Transmute",
+        "desc": "Attacks by this weapon are treated as magical attacks.",
+        "type": "Passive",
+        "icon": "Default",
+        "stats": {},
+        "hidden": false,
+        "reference": {
+            "Items": "Lightning Sword\nRadiant Bow"
+        }
+    },
+    "reconstruct": {
+        "name": "Reconstruct",
+        "desc": "Lets one grow differently than usual when leveling up.",
+        "type": "Passive",
+        "icon": "Default",
+        "stats": {},
+        "hidden": false,
+        "reference": {
+            "Items": "Demon Ring"
+        }
+    },
+    "evadecritical": {
+        "name": "Evade Critical",
+        "desc": "Prevents one from being hit by critical attacks.",
+        "type": "Passive",
+        "icon": "Default",
+        "stats": {},
+        "hidden": false,
+        "reference": {
+            "Items": "Mila's Ring"
+        }
+    },
+    "banish": {
+        "name": "Banish",
+        "desc": "Increases Attack by 10 when attacking Terrors.",
+        "type": "Passive",
+        "icon": "Exclamation",
+        "stats": {},
+        "hidden": false,
+        "reference": {}
+    },
+    "vengefulcry": {
+        "name": "Vengeful Cry",
+        "desc": "Lets one counter regardless of the attacker's distance.",
+        "type": "Passive",
+        "icon": "Default",
+        "stats": {},
+        "hidden": false,
+        "reference": {
+            "Items": "Animus Ring"
+        }
+    },
+    "wrath": {
+        "name": "Wrath",
+        "desc": "Boosts critical rate when HP is 50% or lower.",
+        "type": "Passive",
+        "icon": "Sword",
+        "stats": {},
+        "hidden": false,
+        "reference": {}
+    },
+    "magic5": {
+        "name": "Magic +5",
+        "desc": "Increases Magic by 5.",
+        "type": "Passive",
+        "icon": "Ring",
+        "stats": {
+            "mt": "+5"
+        },
+        "hidden": false,
+        "reference": {
+            "Items": "Grimoire Ring"
+        }
+    },
+    "discipline": {
+        "name": "Discipline",
+        "desc": "Increases black magic hit rate by 10%.",
+        "type": "Passive",
+        "icon": "Exclamation",
+        "stats": {
+            "hit": "+10"
+        },
+        "hidden": false,
+        "reference": {}
+    },
+    "influence": {
+        "name": "Influence",
+        "desc": "Increases black magic range by 1.",
+        "type": "Passive",
+        "icon": "Person",
+        "stats": {},
+        "hidden": false,
+        "reference": {}
+    },
+    "sophisticate": {
+        "name": "Sophisticate",
+        "desc": "Increases black magic range by 2.",
+        "type": "Passive",
+        "icon": "Ring",
+        "stats": {},
+        "hidden": false,
+        "reference": {
+            "Items": "Mage Ring"
+        }
+    },
+    "bowrange1": {
+        "name": "Bowrange +1",
+        "desc": "Increases bow range by 1.",
+        "type": "Passive",
+        "icon": "Exclamation",
+        "stats": {},
+        "hidden": false,
+        "reference": {}
+    },
+    "bowrange2": {
+        "name": "Bowrange +2",
+        "desc": "Increases bow range by 2.",
+        "type": "Passive",
+        "icon": "Exclamation",
+        "stats": {},
+        "hidden": false,
+        "reference": {}
+    },
+    "resistance5": {
+        "name": "Resistance +5",
+        "desc": "Increases Resistance by 5.",
+        "type": "Passive",
+        "icon": "Exclamation",
+        "stats": {},
+        "hidden": false,
+        "reference": {}
+    },
+    "wildfire": {
+        "name": "Wildfire",
+        "desc": "Increases hit rate and evasion by 10%.",
+        "type": "Passive",
+        "icon": "Person",
+        "stats": {
+            "hit": "+10",
+            "avoid": "+10"
+        },
+        "hidden": false,
+        "reference": {}
+    },
+    "heavyarmor": {
+        "name": "Heavy Armor",
+        "desc": "Halves damage from bows.",
+        "type": "Passive",
+        "icon": "Exclamation",
+        "stats": {},
+        "hidden": false,
+        "reference": {
+            "Items": "Kriemhild"
+        }
+    },
+    "apotrope": {
+        "name": "Apotrope",
+        "desc": "Halves damage from magic.",
+        "type": "Passive",
+        "icon": "Exclamation",
+        "stats": {},
+        "hidden": false,
+        "reference": {
+            "Items": "Kriemhild\nHexlock Shield"
+        }
+    },
+    "sanctuary": {
+        "name": "Sanctuary",
+        "desc": "Halves damage taken from Terrors.",
+        "type": "Passive",
+        "icon": "Default",
+        "stats": {},
+        "hidden": false,
+        "reference": {
+            "Items": "Blessed Shield"
+        }
+    },
+    "phantasm": {
+        "name": "Phantasm",
+        "desc": "Halves damage from bows and magic.",
+        "type": "Passive",
+        "icon": "Lance",
+        "stats": {},
+        "hidden": false,
+        "reference": {
+            "Items": "Kriemhild"
+        }
+    },
+    "divide": {
+        "name": "Divide",
+        "desc": "Has a chance of causing one to divide and multiply.",
+        "type": "Passive",
+        "icon": "Exclamation",
+        "stats": {},
+        "hidden": false,
+        "reference": {}
+    },
+    "miracle": {
+        "name": "Miracle",
+        "desc": "Grants a Luck x2 chance of surviving a mortal attack.",
+        "type": "Passive",
+        "icon": "Ring",
+        "stats": {},
+        "hidden": false,
+        "reference": {
+            "Items": "Prayer Ring"
+        }
+    },
+    "spellbound": {
+        "name": "Spellbound",
+        "desc": "Prevents a unit from using magic or warping.",
+        "type": "Passive",
+        "icon": "Spellbound",
+        "stats": {},
+        "hidden": false,
+        "reference": {}
+    },
+    "venomstrike": {
+        "name": "Venom Strike",
+        "desc": "Inflicts poison on a target if the attack hits.",
+        "type": "Passive",
+        "icon": "Default",
+        "stats": {},
+        "hidden": true,
+        "reference": {
+            "Items": "Venin Claws\nVenin Sword\nVenin Lance\nVenin Bow\nVenin Axe"
+        }
+    },
+    "stuntoxin": {
+        "name": "Stun Toxin",
+        "desc": "Inflicts stun on a target if the attack hits.",
+        "type": "Passive",
+        "icon": "Default",
+        "stats": {},
+        "hidden": true,
+        "reference": {
+            "Items": "Numbing Claws"
+        }
+    },
+    "eeriescreech": {
+        "name": "Eerie Screech",
+        "desc": "Inflicts spellbind on a target if the attack hits.",
+        "type": "Passive",
+        "icon": "Person",
+        "stats": {},
+        "hidden": false,
+        "reference": {}
+    },
+    "sparealm": {
+        "name": "Spare Alm",
+        "desc": "Prevents one from attacking Alm.",
+        "type": "Passive",
+        "icon": "Default",
+        "stats": {},
+        "hidden": true,
+        "reference": {}
+    },
+    "dumasgift": {
+        "name": "Duma's Gift",
+        "desc": "Nullifies opponents' attacks with Duma's divine power.",
+        "type": "Passive",
+        "icon": "Person",
+        "stats": {},
+        "hidden": false,
+        "reference": {}
+    },
+    "upheaval": {
+        "name": "Upheaval",
+        "desc": "Earth magic that deals damage to all opponents.",
+        "type": "Passive",
+        "icon": "Person",
+        "stats": {},
+        "hidden": false,
+        "reference": {}
+    },
+    "darkspikes": {
+        "name": "Dark Spikes",
+        "desc": "Fell dragon spikes that deal damage to foes in range.",
+        "type": "Passive",
+        "icon": "Person",
+        "stats": {},
+        "hidden": false,
+        "reference": {}
+    },
+    "dragonskin": {
+        "name": "Dragonskin",
+        "desc": "Halves damage taken.",
+        "type": "Passive",
+        "icon": "Exclamation",
+        "stats": {},
+        "hidden": false,
+        "reference": {}
+    },
+    "anathema": {
+        "name": "Anathema",
+        "desc": "Reduces evasion of all foes within three spaces by 20%.",
+        "type": "Passive",
+        "icon": "Person",
+        "stats": {},
+        "hidden": false,
+        "reference": {}
+    },
+    "bypassdefense": {
+        "name": "Bypass Defense",
+        "desc": "Bypasses opponents' defense.",
+        "type": "Passive",
+        "icon": "Exclamation",
+        "stats": {},
+        "hidden": false,
+        "reference": {
+            "Items": "Fire Breath\nWater Breath\nExpiration"
+        }
+    },
+    "nullifyailments": {
+        "name": "Nullify Ailments",
+        "desc": "Prevents ailments like poison and stun.",
+        "type": "Passive",
+        "icon": "Person",
+        "stats": {},
+        "hidden": false,
+        "reference": {}
+    },
+    "anticavalry": {
+        "name": "Anti-Cavalry",
+        "desc": "Effective against mounted units.",
+        "type": "Passive",
+        "icon": "Default",
+        "stats": {},
+        "hidden": false,
+        "reference": {
+            "Items": "Rapier\nRidersbane"
+        }
+    },
+    "antiarmor": {
+        "name": "Anti-Armor",
+        "desc": "Effective against armored units.",
+        "type": "Passive",
+        "icon": "Default",
+        "stats": {},
+        "hidden": false,
+        "reference": {
+            "Items": "Rapier"
+        }
+    },
+    "antifliers": {
+        "name": "Anti-Fliers",
+        "desc": "Effective against flying units.",
+        "type": "Passive",
+        "icon": "Default",
+        "stats": {},
+        "hidden": false,
+        "reference": {
+            "Items": "Iron Bow\nSteel Bow\nSilver Bow\nBlessed Bow\nLuna\nParthia\nMila's Bow\nLongbow\nKiller Bow\nRadiant Bow\nPython's Bow"
+        }
+    },
+    "antiterrors": {
+        "name": "Anti-Terrors",
+        "desc": "Effective against Terrors.",
+        "type": "Passive",
+        "icon": "Default",
+        "stats": {},
+        "hidden": false,
+        "reference": {
+            "Items": "Blessed Sword\nFalchion\nBlessed Lance\nBlessed Bow\nSeraphim\nClair's Lance"
+        }
+    },
+    "lethallady": {
+        "name": "Lethal Lady",
+        "desc": "Deals double damage when wielded by a female unit.",
+        "type": "Passive",
+        "icon": "Default",
+        "stats": {},
+        "hidden": true,
+        "reference": {
+            "Items": "Ladyblade"
+        }
+    },
+    "pact": {
+        "name": "Pact",
+        "desc": "Prevents the depletion of HP when using magic.",
+        "type": "Passive",
+        "icon": "Person",
+        "stats": {},
+        "hidden": false,
+        "reference": {}
+    },
+    "absolve": {
+        "name": "Absolve",
+        "desc": "Nullifies damage from terrain.",
+        "type": "Passive",
+        "icon": "Exclamation",
+        "stats": {},
+        "hidden": false,
+        "reference": {}
+    },
+    "heavenorhell": {
+        "name": "Heaven or Hell",
+        "desc": "Deals two strikes which either yield criticals or miss.\nNote: Critical hits aren't guaranteed.",
+        "hidden": false,
+        "type": "Combat Art",
+        "stats": {
+            "hp": "-4",
+            "hit": "-30",
+            "crit": "+30",
+            "wexp": "20"
+        },
+        "icon": "Lance",
+        "reference": {
+            "Items": "Wayward Lance"
+        }
+    },
+    "solotriangleatk": {
+        "name": "Solo Triangle Attack",
+        "desc": "A single-rider variant of the Triangle Attack maneuver. Strikes three times.",
+        "hidden": false,
+        "type": "Combat Art",
+        "stats": {
+            "hp": "-5",
+            "wexp": "20"
+        },
+        "icon": "Lance",
+        "reference": {
+            "Items": "Trainee's Lance"
+        }
+    },
+    "armordisruptor": {
+        "name": "Armor Disruptor",
+        "desc": "Effective against armored units. Increases hit rate.",
+        "hidden": false,
+        "type": "Combat Art",
+        "stats": {
+            "hp": "-5",
+            "mt": "+5",
+            "hit": "+30",
+            "crit": "+10",
+            "wexp": "15"
+        },
+        "icon": "Sword",
+        "reference": {
+            "Items": "Warrior's Sword"
+        }
+    }
+}

@@ -1,0 +1,476 @@
+{
+    "adept": {
+        "name": "Adept",
+        "desc": "(Speed)% for the user to do two consecutive strikes.",
+        "cost": 15,
+        "emoji": "<:adept:680454171966570548>"
+    },
+    "aether": {
+        "name": "Aether",
+        "desc": "(Skill/2)% chance to do two strikes: One with a Sol effect, and the other ignores the enemy's defense.",
+        "cost": 30,
+        "emoji": "<:aether:680454172168159266>"
+    },
+    "astra": {
+        "name": "Astra",
+        "desc": "(Skill/2)% chance for the user to strike 5 times in a row. Each strike cannot crit and can miss.",
+        "cost": 30,
+        "emoji": "<:astra:680454172403040364>"
+    },
+    "aurora": {
+        "name": "Aurora",
+        "desc": "Deals half of the damage taken by the user back to the foe.",
+        "cost": 0,
+        "emoji": "<:aurora:680454172323348502>"
+    },
+    "bane": {
+        "name": "Bane",
+        "desc": "(Skill/2)% chance to reduce foe's HP to 1.",
+        "cost": 30,
+        "emoji": "<:bane:680454172340125706>"
+    },
+    "beastfoe": {
+        "name": "Beastfoe",
+        "desc": "All attacks do effective damage against beast laguz.",
+        "cost": 15,
+        "emoji": "<:beastfoe:680454174198202418>"
+    },
+    "birdfoe": {
+        "name": "Birdfoe",
+        "desc": "All attacks do effective damage against bird laguz.",
+        "cost": 15,
+        "emoji": "<:birdfoe:680454172533194920>"
+    },
+    "blessing": {
+        "name": "Blessing",
+        "desc": "Allies adjacent to the user restore HP (equal to user\u2019s Magic) at the beginning of the turn.",
+        "cost": 15,
+        "emoji": "<:blessing:680454172684189767>"
+    },
+    "bloodtide": {
+        "name": "Blood Tide",
+        "desc": "Increases adjacent allies strength and skill by 5.",
+        "cost": 10,
+        "emoji": "<:bloodtide:680454172604104716>"
+    },
+    "blossom": {
+        "name": "Blossom",
+        "desc": "User gains less experience (1/2 of the normal amount) and if a stat fails to increase, it rolls again for a second chance.",
+        "cost": 20,
+        "emoji": "<:blossom:680454172822601728>"
+    },
+    "boon": {
+        "name": "Boon",
+        "desc": "Cures the status effects of all allies adjecent to the user at the start of the turn.",
+        "cost": 15,
+        "emoji": "<:boon:680454172864413715>"
+    },
+    "cancel": {
+        "name": "Cancel",
+        "desc": "(Speed)% chance to block all damage done to the user.",
+        "cost": 10,
+        "emoji": "<:cancel:680454173162078230>"
+    },
+    "canto": {
+        "name": "Canto",
+        "desc": "Allows the user to move again and use up any leftover movement distance.",
+        "cost": 10,
+        "emoji": "<:canto:680454173137043536>"
+    },
+    "celerity": {
+        "name": "Celerity",
+        "desc": "Grants +2 movement.",
+        "cost": 15,
+        "emoji": "<:celerity:680454173157752921>"
+    },
+    "colossus": {
+        "name": "Colossus",
+        "desc": "(Skill/2)% chance to multiply user's strength by 3.",
+        "cost": 25,
+        "emoji": "<:colossus:680454173162078462>"
+    },
+    "corona": {
+        "name": "Corona",
+        "desc": "(Skill/2)% chance to ignore foe's resistance and halves their hit rate for one turn.",
+        "cost": 30,
+        "emoji": "<:corona:680454175447842854>",
+        "ALT_NAME": ["Covid19", "Covid"]
+    },
+    "corrosion": {
+        "name": "Corrosion",
+        "desc": "(Skill/2)% chance to reduce enemy's weapon durability by (user's level).",
+        "cost": 15,
+        "emoji": "<:corrosion:680454173439033346>"
+    },
+    "counter": {
+        "name": "Counter",
+        "desc": "(Skill)% chance to return half damage to the enemy when damaged.",
+        "cost": 10,
+        "emoji": "<:counter:680454173224861743>"
+    },
+    "crtplus10": {
+        "name": "Critical +10",
+        "desc": "Grants +10 crit.",
+        "cost": 0,
+        "emoji": "<:criticalplus10:680454173736697897>",
+        "ALT_NAME": ["crit10", "crt10"]
+    },
+    "crtplus15": {
+        "name": "Critical +15",
+        "desc": "Grants +15 crit.",
+        "cost": 0,
+        "emoji": "<:criticalplus15:680454173439033392>",
+        "ALT_NAME": ["crit15", "crt15"]
+    },
+    "crtplus20": {
+        "name": "Critical +20",
+        "desc": "Grants +20 crit.",
+        "cost": 0,
+        "emoji": "<:criticalplus20:680454173850206248>",
+        "ALT_NAME": ["crit20", "crt20"]
+    },
+    "crtplus25": {
+        "name": "Critical +25",
+        "desc": "Grants +25 crit.",
+        "cost": 0,
+        "emoji": "<:criticalplus25:680454173984292864>",
+        "ALT_NAME": ["crit25", "crt25"]
+    },
+    "crtplus5": {
+        "name": "Critical +5",
+        "desc": "Grants +5 crit.",
+        "cost": 0,
+        "emoji": "<:criticalplus5:680454173623713823>",
+        "ALT_NAME": ["crit5", "crt5"]
+    },
+    "daunt": {
+        "name": "Daunt",
+        "desc": "Inflicts -5 accuracy/crit to enemies within 3 tiles.",
+        "cost": 10,
+        "emoji": "<:daunt:680454173980098570>"
+    },
+    "deadeye": {
+        "name": "Deadeye",
+        "desc": "(Skill/2)% chance to multiply damage by 3 and inflict sleep on foe.",
+        "cost": 25,
+        "emoji": "<:deadeye:680454174030561330>"
+    },
+    "disarm": {
+        "name": "Disarm",
+        "desc": "(Skill/2)% to unequip the foe's equipped weapon.",
+        "cost": 10,
+        "emoji": "<:disarm:680454173942480916>"
+    },
+    "discipline": {
+        "name": "Discipline",
+        "desc": "Doubles the user's weapon experience gain.",
+        "cost": 10,
+        "emoji": "<:discipline:680454174277763143>"
+    },
+    "dragonfoe": {
+        "name": "Dragonfoe",
+        "desc": "All attacks do effective damage against dragon laguz.",
+        "cost": 15,
+        "emoji": "<:dragonfoe:680454175603032087>"
+    },
+    "eclipse": {
+        "name": "Eclipse",
+        "desc": "(Skill/2)% chance to mutiply user's strength by 5 and ignore foe's defense.",
+        "cost": 30,
+        "emoji": "<:eclipse:680454175548768434>"
+    },
+    "flare": {
+        "name": "Flare",
+        "desc": "(Skill/2)% chance to ignore foe's resistance and restore HP based on damage dealt to the enemy.",
+        "cost": 30,
+        "emoji": "<:flare:680454175725060339>"
+    },
+    "flourish": {
+        "name": "Flourish",
+        "desc": "Command: Reduces user's attack by half.",
+        "cost": 10,
+        "emoji": "<:flourish:680454176282902590>"
+    },
+    "formshift": {
+        "name": "Formshift",
+        "desc": "User's transform gauge is always full.",
+        "cost": 0,
+        "emoji": "<:formshift:680454175989301316>"
+    },
+    "fortune": {
+        "name": "Fortune",
+        "desc": "Negates the foe's ability to inflict critical hits against the user.",
+        "cost": 20,
+        "emoji": "<:fortune:680454175884050449>"
+    },
+    "galdrar": {
+        "name": "Galdrar",
+        "desc": "Command: Effect changes depending on selected chant, new ones can be unlocked via level:\n**Lv.1 / Vigor:** Allows adjacent allies to move again.\n**Lv. 15 / Bliss:** Raises the biorhythm of adjacent allies to its highest point.\n**Lv. 15 / Sorrow:**: Lowers the biorhythm of adjacent enemies to its lowest point.\n**Lv. 30 / Valor:** Fills fully the transform gauge of adjacent laguz allies.\n**Lv. 40 / Recovery:** Restores the HP and cures the status conditions of nearby allies.\nLeanne's galdrar only affects units behind and in the front of her, and Reyson while unstransformed only affects one adjacent unit.",
+        "cost": 0,
+        "emoji": "<:galdrar:680454176077119589>"
+    },
+    "gamble": {
+        "name": "Gamble",
+        "desc": "Command: User's accuracy is halved and the critical rate is doubled for one round of combat.",
+        "cost": 10,
+        "emoji": "<:gamble:680454175997558811>"
+    },
+    "glare": {
+        "name": "Glare",
+        "desc": "Command: ([Skill/2] + [Biorhythm])% chance to inflict petrify on the target on hit.",
+        "cost": 30,
+        "emoji": "<:glare:680454175984844848>"
+    },
+    "guard": {
+        "name": "Guard",
+        "desc": "If user has a support with an adjacent unit, and that ally is attacked, (??, based on suport level?)% chance for the user to take the hit instead.",
+        "cost": 20,
+        "emoji": "<:guard:680454176177782805>"
+    },
+    "howl": {
+        "name": "Howl",
+        "desc": "(Strength)% chance to inflict paralysis on foe if they initiate combat at 2 range and damages the user.",
+        "cost": 20,
+        "emoji": "<:howl:680454175938838536>"
+    },
+    "imbue": {
+        "name": "Imbue",
+        "desc": "At the start of each turn, user restores HP as the same amount as user's magic.",
+        "cost": 15,
+        "emoji": "<:imbue:680454175997427737>"
+    },
+    "impale": {
+        "name": "Impale",
+        "desc": "(Skill/2)% chance to multiply damage by 4.",
+        "cost": 30,
+        "emoji": "<:impale:680454176039632936>"
+    },
+    "insight": {
+        "name": "Insight",
+        "desc": "Grants +20% accuracy and +5 fog vision.",
+        "cost": 0,
+        "emoji": "<:insight:680454176102416444>"
+    },
+    "ire": {
+        "name": "Ire",
+        "desc": "(Skill/2)% chance to multiply damage by 3.",
+        "cost": 30,
+        "emoji": "<:ire:680454176114868285>"
+    },
+    "lethality": {
+        "name": "Lethality",
+        "desc": "(Skill/2)% chance to kill the enemy. Cannot be used against bosses.",
+        "cost": 30,
+        "emoji": "<:lethality:680454176098222143>"
+    },
+    "luna": {
+        "name": "Luna",
+        "desc": "(Skill/2)% chance to mutiply user's strength by 3 and ignore foe's defense.",
+        "cost": 30,
+        "emoji": "<:luna:680454176072925222>"
+    },
+    "maelstrom": {
+        "name": "Maelstrom",
+        "desc": "(Skill)% chance to deal (user's strength) damage to foe if combat is happening above 1 range.",
+        "cost": 20,
+        "emoji": "<:maelstrom:680454176073187390>"
+    },
+    "mantle": {
+        "name": "Mantle",
+        "desc": "User can only be damaged by blessed weapons.",
+        "cost": 0,
+        "emoji": "<:mantle:680454176072794138>"
+    },
+    "mercy": {
+        "name": "Mercy",
+        "desc": "If user deals a death blow to foe, leave the enemy with 1 HP. If enemy is at 1 HP, they will dodge the attack. Can only be equipped by Elincia.",
+        "cost": 10,
+        "emoji": "<:mercy:680454175779455006>"
+    },
+    "miracle": {
+        "name": "Miracle",
+        "desc": "(Luck)% chance to prevent an attack from killing the user. Instead the user's HP gets reduced to half of the current HP. If the current HP is 1 HP, the user will dodge.",
+        "cost": 5,
+        "emoji": "<:miracle:680454176261537809>"
+    },
+    "nighttide": {
+        "name": "Night Tide",
+        "desc": "Increases adjacent allies defense and resistance by 5.",
+        "cost": 10,
+        "emoji": "<:nighttide:680454176182108178>"
+    },
+    "nihil": {
+        "name": "Nihil",
+        "desc": "Negates enemy's combat skills.'",
+        "cost": 20,
+        "emoji": "<:nihil:680454175989301308>"
+    },
+    "nullify": {
+        "name": "Nullify",
+        "desc": "Negates foe's effective bonus towards the user.",
+        "cost": 20,
+        "emoji": "<:nullify:680454721013940229>"
+    },
+    "paragon": {
+        "name": "Paragon",
+        "desc": "User gains double experience from combat.",
+        "cost": 15,
+        "emoji": "<:paragon:680454721206485003>"
+    },
+    "parity": {
+        "name": "Parity",
+        "desc": "Command: Negates both user's and enemy's combat skills, terrain bonuses and support bonuses.",
+        "cost": 10,
+        "emoji": "<:parity:680454721013547012>"
+    },
+    "pass": {
+        "name": "Pass",
+        "desc": "User can move through enemies.",
+        "cost": 15,
+        "emoji": "<:pass:680454720686653473>"
+    },
+    "pavise": {
+        "name": "Pavise",
+        "desc": "(Skill)% chance to ignore damage from one attack.",
+        "cost": 20,
+        "emoji": "<:pavise:680454721114341385>"
+    },
+    "provoke": {
+        "name": "Provoke",
+        "desc": "Makes user more likely to be attacked by the enemy.",
+        "cost": 10,
+        "emoji": "<:provoke:680454721139638286>"
+    },
+    "quickclaw": {
+        "name": "Quickclaw",
+        "desc": "(Speed)% chance to deal (user's strength) damage to foe if combat is happening above 1 range.",
+        "cost": 20,
+        "emoji": "<:quickclaw:680454721084850263>"
+    },
+    "rend": {
+        "name": "Rend",
+        "desc": "(Speed/2)% chance to multiply user's strength by 5 and inflict shock on the foe.",
+        "cost": 30,
+        "emoji": "<:rend:680454721126924333>"
+    },
+    "renewal": {
+        "name": "Renewal",
+        "desc": "At the beginning of each turn, user recovers HP equal to 1/10 of their max HP.",
+        "cost": 15,
+        "emoji": "<:renewal:680454721047101496>"
+    },
+    "resolve": {
+        "name": "Resolve",
+        "desc": "When user is at half HP or lower, skill and speed are increased by 1.5.\n\n**JP**: Attack is also increased, user needs to be at 20% HP or lower, and has (Strength)% chance to activate.",
+        "cost": 15,
+        "emoji": "<:resolve:680454720946569290>"
+    },
+    "roar": {
+        "name": "Roar",
+        "desc": "(Strength/2)% chance to multiply user's strength by 3 and inflict shock on the foe.",
+        "cost": 30,
+        "emoji": "<:roar:680454721345028133>"
+    },
+    "sacrifice": {
+        "name": "Sacrifice",
+        "desc": "Command: Reduces own HP to recover an ally's HP and cures the status effect. Cannot be used at 1 HP.",
+        "cost": 0,
+        "emoji": "<:sacrifice:680454721542029400>"
+    },
+    "savage": {
+        "name": "Savage",
+        "desc": "(Strength/2)% chance to multiply user's strength by 3 and halve foe's skill by one turn.",
+        "cost": 30,
+        "emoji": "<:savage:680454721596817409>"
+    },
+    "savior": {
+        "name": "Savior",
+        "desc": "User's stats aren't decreased when carrying an unit.",
+        "cost": 10,
+        "emoji": "<:savior:680454721735098368>"
+    },
+    "shade": {
+        "name": "Shade",
+        "desc": "Makes user less likely to be attacked by the enemy.",
+        "cost": 10,
+        "emoji": "<:shade:680454721747681381>"
+    },
+    "shove": {
+        "name": "Shove",
+        "desc": "Push a ally 1 tile further if user's con + 2 > ally's weight.",
+        "cost": 5,
+        "emoji": "<:shove:680454721835630692>"
+    },
+    "shriek": {
+        "name": "Shriek",
+        "desc": "(Luck)% chance to reduce foe's luck to 0 for one turn if combat is happening above 1 range.",
+        "cost": 20,
+        "emoji": "<:shriek:680454721667989646>"
+    },
+    "smite": {
+        "name": "Smite",
+        "desc": "Command: Pushes units two tiles away if user's con + 2 > ally's weight.",
+        "cost": 15,
+        "emoji": "<:smite:680454721953071197>"
+    },
+    "sol": {
+        "name": "Sol",
+        "desc": "(Skill/2)% chance to multiply damage by 3 and restore HP based on damage dealt to the enemy.",
+        "cost": 30,
+        "emoji": "<:sol:680454721810464947>"
+    },
+    "steal": {
+        "name": "Steal",
+        "desc": "Command: Steals an unequipped weapon/accessory or an item from the target's inventory if (user's speed > enemy's speed) and (user's strength > item's wt).",
+        "cost": 0,
+        "emoji": "<:steal:680454722028699682>"
+    },
+    "stillness": {
+        "name": "Stillness",
+        "desc": "User is much less likely to be targeted by enemy units.",
+        "cost": 25,
+        "emoji": "<:stillness:680454741071102003>"
+    },
+    "stun": {
+        "name": "Stun",
+        "desc": "(Skill/2)% chance to multiply user's strength by 3 and inflict paralysis on the foe.",
+        "cost": 25,
+        "emoji": "<:stun:680454721970110683>"
+    },
+    "tear": {
+        "name": "Tear",
+        "desc": "(Speed/2)% chance to mutiply user's strength by 3 for one turn and halve foe's speed for one turn.",
+        "cost": 30,
+        "emoji": "<:tear:680454722028568687>"
+    },
+    "vantage": {
+        "name": "Vantage",
+        "desc": "(Speed)% chance for the user to strike first if foe initiates combat.",
+        "cost": 10,
+        "emoji": "<:vantage:680454722527690758>"
+    },
+    "vigilance": {
+        "name": "Vigilance",
+        "desc": "Grants +20 avoid and dodge.",
+        "cost": 0,
+        "emoji": "<:vigilance:680454722825617410>"
+    },
+    "whitepool": {
+        "name": "White Pool",
+        "desc": "Increases adjacent allies magic and speed by 5.",
+        "cost": 10,
+        "emoji": "<:whitepool:680454722422964242>"
+    },
+    "wildheart": {
+        "name": "Wildheart",
+        "desc": "**Part 1:** User remains permanently shifted, but their transformation stat boosts are halved.\n**Part 2 onward:** User can shift and revert at will, but their transformation bonuses are halved. The transformation gauge still decreases, but open untransforming it is filled fully.",
+        "cost": 10,
+        "emoji": "<:wildheart:680454722519564427>"
+    },
+    "wrath": {
+        "name": "Wrath",
+        "desc": "+50 crit when user is at 30% HP or lower.\n\n**JP:** User needs to be at 20% HP or lower, and has (Skill)% chance to activate.",
+        "cost": 15,
+        "emoji": "<:wrath:680454722779742210>"
+    }
+}

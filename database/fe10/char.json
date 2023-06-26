@@ -1,0 +1,3460 @@
+{
+    "aran": {
+        "name": "Aran",
+        "affinity": "thunder",
+        "lvl": 7,
+        "job": "soldier",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "aran.png",
+        "skill": [],
+        "promo": [
+            "halberdierm",
+            "sentinelm"
+        ],
+        "base": {
+            "hp": 4,
+            "str": 2,
+            "mag": 0,
+            "skl": 4,
+            "spd": 2,
+            "lck": 6,
+            "def": 4,
+            "res": 0,
+            "con": 0
+        },
+        "growth": {
+            "hp": 50,
+            "str": 75,
+            "mag": 10,
+            "skl": 75,
+            "spd": 35,
+            "lck": 35,
+            "def": 70,
+            "res": 25
+        },
+        "support": {},
+        "rank": {
+            "lance": 31
+        }
+    },
+    "astrid": {
+        "name": "Astrid",
+        "affinity": "wind",
+        "lvl": 2,
+        "job": "bowpaladinf",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "astrid.png",
+        "skill": [
+            "paragon"
+        ],
+        "promo": [
+            "silverknightbow"
+        ],
+        "base": {
+            "hp": 0,
+            "str": 3,
+            "mag": 7,
+            "skl": 10,
+            "spd": 6,
+            "lck": 17,
+            "def": 0,
+            "res": 9,
+            "con": 0
+        },
+        "growth": {
+            "hp": 55,
+            "str": 40,
+            "mag": 20,
+            "skl": 45,
+            "spd": 40,
+            "lck": 70,
+            "def": 30,
+            "res": 50
+        },
+        "support": {},
+        "rank": {
+            "bow": 121
+        }
+    },
+    "bastian": {
+        "name": "Bastian",
+        "affinity": "wind",
+        "lvl": 10,
+        "job": "archsagewind",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "bastian.png",
+        "skill": [
+            "corrosion"
+        ],
+        "promo": [],
+        "base": {
+            "hp": 2,
+            "str": 17,
+            "mag": 15,
+            "skl": 11,
+            "spd": 4,
+            "lck": 21,
+            "def": 11,
+            "res": 15,
+            "con": 0
+        },
+        "growth": {
+            "hp": 25,
+            "str": 20,
+            "mag": 30,
+            "skl": 70,
+            "spd": 40,
+            "lck": 40,
+            "def": 25,
+            "res": 50
+        },
+        "support": {
+            "Geoffrey": {
+                "affinity": "fire",
+                "bonus": "10"
+            }
+        },
+        "rank": {
+            "fire": 181,
+            "thunder": 181,
+            "wind": 331,
+            "staff": 121
+        }
+    },
+    "blackknight": {
+        "name": "Black Knight",
+        "affinity": "dark",
+        "lvl": 20,
+        "job": "blackknight",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "blackknight.png",
+        "skill": [
+            "imbue",
+            "nihil"
+        ],
+        "promo": [],
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 20,
+            "def": 0,
+            "res": 0,
+            "con": 0
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "support": {},
+        "rank": {
+            "sword": 331,
+            "lance": 251
+        }
+    },
+    "boyd": {
+        "name": "Boyd",
+        "affinity": "fire",
+        "lvl": 8,
+        "job": "warrior",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "boyd.png",
+        "skill": [],
+        "promo": [
+            "reaver"
+        ],
+        "base": {
+            "hp": 9,
+            "str": 3,
+            "mag": -2,
+            "skl": 2,
+            "spd": 0,
+            "lck": 13,
+            "def": 2,
+            "res": 0,
+            "con": -1
+        },
+        "growth": {
+            "hp": 80,
+            "str": 65,
+            "mag": 5,
+            "skl": 45,
+            "spd": 45,
+            "lck": 40,
+            "def": 50,
+            "res": 10
+        },
+        "support": {
+            "Oscar": {
+                "affinity": "earth",
+                "bonus": "10"
+            },
+            "Rolf": {
+                "affinity": "wind",
+                "bonus": "10"
+            },
+            "Mist": {
+                "affinity": "water",
+                "bonus": "5"
+            }
+        },
+        "rank": {
+            "axe": 181
+        }
+    },
+    "brom": {
+        "name": "Brom",
+        "affinity": "water",
+        "lvl": 2,
+        "job": "axegeneral",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "brom.png",
+        "skill": [
+            "disarm"
+        ],
+        "promo": [
+            "marshallaxe"
+        ],
+        "base": {
+            "hp": 2,
+            "str": 0,
+            "mag": -1,
+            "skl": -1,
+            "spd": 1,
+            "lck": 13,
+            "def": 1,
+            "res": -1,
+            "con": -2
+        },
+        "growth": {
+            "hp": 80,
+            "str": 40,
+            "mag": 5,
+            "skl": 40,
+            "spd": 30,
+            "lck": 70,
+            "def": 60,
+            "res": 25
+        },
+        "support": {
+            "Meg": {
+                "affinity": "heaven",
+                "bonus": "10"
+            }
+        },
+        "rank": {
+            "sword": 1,
+            "axe": 71
+        }
+    },
+    "caineghis": {
+        "name": "Caineghis",
+        "affinity": "earth",
+        "lvl": 36,
+        "job": "lionking",
+        "authority": 5,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "caineghis.png",
+        "skill": [
+            "fortune",
+            "formshift",
+            "roar"
+        ],
+        "promo": [],
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 30,
+            "def": 0,
+            "res": 0,
+            "con": 0
+        },
+        "growth": {
+            "hp": 50,
+            "str": 40,
+            "mag": 10,
+            "skl": 40,
+            "spd": 20,
+            "lck": 40,
+            "def": 30,
+            "res": 10
+        },
+        "support": {
+            "Skrimir": {
+                "affinity": "fire",
+                "bonus": "10"
+            },
+            "Giffca": {
+                "affinity": "dark",
+                "bonus": "5"
+            }
+        },
+        "rank": {
+            "strike": 331
+        }
+    },
+    "calill": {
+        "name": "Calill",
+        "affinity": "dark",
+        "lvl": 6,
+        "job": "firesagef",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "calill.png",
+        "skill": [
+            "nihil"
+        ],
+        "promo": [
+            "archsagefiref"
+        ],
+        "base": {
+            "hp": 2,
+            "str": 6,
+            "mag": 9,
+            "skl": 12,
+            "spd": 9,
+            "lck": 16,
+            "def": 7,
+            "res": 7,
+            "con": 0
+        },
+        "growth": {
+            "hp": 35,
+            "str": 25,
+            "mag": 45,
+            "skl": 60,
+            "spd": 55,
+            "lck": 55,
+            "def": 15,
+            "res": 50
+        },
+        "support": {},
+        "rank": {
+            "fire": 181,
+            "thunder": 121,
+            "wind": 121
+        }
+    },
+    "danved": {
+        "name": "Danved",
+        "affinity": "fire",
+        "lvl": 9,
+        "job": "halberdierm",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "danved.png",
+        "skill": [],
+        "promo": [
+            "sentinelm"
+        ],
+        "base": {
+            "hp": 6,
+            "str": 0,
+            "mag": 2,
+            "skl": 5,
+            "spd": 3,
+            "lck": 18,
+            "def": 0,
+            "res": 0,
+            "con": 0
+        },
+        "growth": {
+            "hp": 75,
+            "str": 40,
+            "mag": 20,
+            "skl": 30,
+            "spd": 45,
+            "lck": 60,
+            "def": 45,
+            "res": 25
+        },
+        "support": {},
+        "rank": {
+            "lance": 251
+        }
+    },
+    "edward": {
+        "name": "Edward",
+        "affinity": "light",
+        "lvl": 4,
+        "job": "myrmidon",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "edward.png",
+        "skill": [
+            "wrath"
+        ],
+        "promo": [
+            "swordmasterm",
+            "truebladem"
+        ],
+        "base": {
+            "hp": 1,
+            "str": 1,
+            "mag": 0,
+            "skl": 1,
+            "spd": 1,
+            "lck": 8,
+            "def": 1,
+            "res": 0,
+            "con": -3
+        },
+        "growth": {
+            "hp": 85,
+            "str": 60,
+            "mag": 5,
+            "skl": 65,
+            "spd": 60,
+            "lck": 50,
+            "def": 35,
+            "res": 20
+        },
+        "support": {},
+        "rank": {
+            "sword": 31
+        }
+    },
+    "elincia": {
+        "name": "Elincia",
+        "affinity": "heaven",
+        "lvl": 1,
+        "job": "queen",
+        "authority": 3,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "elincia.png",
+        "skill": [
+            "renewal"
+        ],
+        "promo": [],
+        "base": {
+            "hp": -2,
+            "str": 3,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 29,
+            "def": 0,
+            "res": 0,
+            "con": 0
+        },
+        "growth": {
+            "hp": 45,
+            "str": 65,
+            "mag": 40,
+            "skl": 50,
+            "spd": 70,
+            "lck": 60,
+            "def": 20,
+            "res": 35
+        },
+        "support": {
+            "Geoffrey": {
+                "affinity": "fire",
+                "bonus": "10"
+            },
+            "Lucia": {
+                "affinity": "earth",
+                "bonus": "10"
+            },
+            "Renning": {
+                "affinity": "earth",
+                "bonus": "10"
+            }
+        },
+        "rank": {
+            "sword": 121,
+            "staff": 181
+        }
+    },
+    "ena": {
+        "name": "Ena",
+        "affinity": "earth",
+        "lvl": 22,
+        "job": "reddragonf",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "ena.png",
+        "skill": [
+            "boon",
+            "bloodtide",
+            "miracle",
+            "renewal"
+        ],
+        "promo": [],
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 18,
+            "def": 0,
+            "res": 0,
+            "con": 0
+        },
+        "growth": {
+            "hp": 50,
+            "str": 20,
+            "mag": 50,
+            "skl": 40,
+            "spd": 40,
+            "lck": 35,
+            "def": 15,
+            "res": 50
+        },
+        "support": {
+            "Nasir": {
+                "affinity": "light",
+                "bonus": "10"
+            }
+        },
+        "rank": {
+            "strike": 181
+        }
+    },
+    "fiona": {
+        "name": "Fiona",
+        "affinity": "earth",
+        "lvl": 9,
+        "job": "lanceknightf",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "fiona.png",
+        "skill": [
+            "imbue",
+            "savior"
+        ],
+        "promo": [
+            "lancepaladinf",
+            "silverknightlancef"
+        ],
+        "base": {
+            "hp": 6,
+            "str": 4,
+            "mag": 5,
+            "skl": 6,
+            "spd": 5,
+            "lck": 7,
+            "def": 3,
+            "res": 4,
+            "con": 0
+        },
+        "growth": {
+            "hp": 45,
+            "str": 40,
+            "mag": 15,
+            "skl": 40,
+            "spd": 60,
+            "lck": 55,
+            "def": 55,
+            "res": 50
+        },
+        "support": {},
+        "rank": {
+            "lance": 71
+        }
+    },
+    "gareth": {
+        "name": "Gareth",
+        "affinity": "thunder",
+        "lvl": 31,
+        "job": "reddragonm",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "gareth.png",
+        "skill": [
+            "bloodtide"
+        ],
+        "promo": [],
+        "base": {
+            "hp": 31,
+            "str": 7,
+            "mag": 0,
+            "skl": 5,
+            "spd": 3,
+            "lck": 20,
+            "def": 9,
+            "res": 4,
+            "con": 5
+        },
+        "growth": {
+            "hp": 90,
+            "str": 40,
+            "mag": 5,
+            "skl": 30,
+            "spd": 10,
+            "lck": 65,
+            "def": 30,
+            "res": 25
+        },
+        "support": {},
+        "rank": {
+            "strike": 251
+        }
+    },
+    "gatrie": {
+        "name": "Gatrie",
+        "affinity": "light",
+        "lvl": 10,
+        "job": "lancegeneral",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "gatrie.png",
+        "skill": [],
+        "promo": [
+            "marshalllance"
+        ],
+        "base": {
+            "hp": 9,
+            "str": 7,
+            "mag": 0,
+            "skl": 1,
+            "spd": 4,
+            "lck": 15,
+            "def": 4,
+            "res": 1,
+            "con": 0
+        },
+        "growth": {
+            "hp": 50,
+            "str": 60,
+            "mag": 5,
+            "skl": 45,
+            "spd": 60,
+            "lck": 30,
+            "def": 60,
+            "res": 35
+        },
+        "support": {
+            "Shinon": {
+                "affinity": "thunder",
+                "bonus": "5"
+            }
+        },
+        "rank": {
+            "lance": 181,
+            "axe": 121
+        }
+    },
+    "geoffrey": {
+        "name": "Geoffrey",
+        "affinity": "fire",
+        "lvl": 15,
+        "job": "lancepaladinm",
+        "authority": 3,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "geoffrey.png",
+        "skill": [
+            "paragon"
+        ],
+        "promo": [
+            "silverknightlancem"
+        ],
+        "base": {
+            "hp": 3,
+            "str": 7,
+            "mag": 3,
+            "skl": 8,
+            "spd": 3,
+            "lck": 19,
+            "def": 3,
+            "res": 5,
+            "con": 0
+        },
+        "growth": {
+            "hp": 60,
+            "str": 50,
+            "mag": 10,
+            "skl": 60,
+            "spd": 35,
+            "lck": 30,
+            "def": 30,
+            "res": 55
+        },
+        "support": {
+            "Lucia": {
+                "affinity": "earth",
+                "bonus": "5"
+            },
+            "Bastian": {
+                "affinity": "wind",
+                "bonus": "10"
+            },
+            "Kieran": {
+                "affinity": "wind",
+                "bonus": "5"
+            },
+            "Elincia": {
+                "affinity": "heaven",
+                "bonus": "10"
+            }
+        },
+        "rank": {
+            "lance": 181
+        }
+    },
+    "giffca": {
+        "name": "Giffca",
+        "affinity": "dark",
+        "lvl": 36,
+        "job": "liongiffca",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "giffca.png",
+        "skill": [
+            "nullify",
+            "roar"
+        ],
+        "promo": [],
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 28,
+            "def": 0,
+            "res": 0,
+            "con": 0
+        },
+        "growth": {
+            "hp": 40,
+            "str": 35,
+            "mag": 10,
+            "skl": 35,
+            "spd": 50,
+            "lck": 25,
+            "def": 30,
+            "res": 15
+        },
+        "support": {
+            "Caineghis": {
+                "affinity": "earth",
+                "bonus": "5"
+            }
+        },
+        "rank": {
+            "strike": 331
+        }
+    },
+    "haar": {
+        "name": "Haar",
+        "affinity": "wind",
+        "lvl": 11,
+        "job": "dragonmasterm",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "haar.png",
+        "skill": [
+            "cancel"
+        ],
+        "promo": [
+            "dragonlordm"
+        ],
+        "base": {
+            "hp": 11,
+            "str": 3,
+            "mag": 0,
+            "skl": 6,
+            "spd": 4,
+            "lck": 13,
+            "def": 4,
+            "res": 2,
+            "con": -1
+        },
+        "growth": {
+            "hp": 30,
+            "str": 70,
+            "mag": 5,
+            "skl": 70,
+            "spd": 30,
+            "lck": 45,
+            "def": 65,
+            "res": 20
+        },
+        "support": {
+            "Jill": {
+                "affinity": "thunder",
+                "bonus": "5"
+            }
+        },
+        "rank": {
+            "lance": 181,
+            "axe": 181
+        }
+    },
+    "heather": {
+        "name": "Heather",
+        "affinity": "fire",
+        "lvl": 7,
+        "job": "roguef",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "heather.png",
+        "skill": [
+            "pass"
+        ],
+        "promo": [
+            "whisperf"
+        ],
+        "base": {
+            "hp": 1,
+            "str": 7,
+            "mag": 7,
+            "skl": 12,
+            "spd": 13,
+            "lck": 16,
+            "def": 3,
+            "res": 11,
+            "con": 0
+        },
+        "growth": {
+            "hp": 40,
+            "str": 25,
+            "mag": 20,
+            "skl": 50,
+            "spd": 70,
+            "lck": 75,
+            "def": 30,
+            "res": 40
+        },
+        "support": {},
+        "rank": {
+            "knife": 71
+        }
+    },
+    "ike": {
+        "name": "Ike",
+        "affinity": "earth",
+        "lvl": 11,
+        "job": "hero",
+        "authority": 3,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "ikehero.png",
+        "skill": [],
+        "promo": [
+            "vanguard"
+        ],
+        "base": {
+            "hp": 6,
+            "str": 15,
+            "mag": 1,
+            "skl": 15,
+            "spd": 12,
+            "lck": 14,
+            "def": 12,
+            "res": 5,
+            "con": 0
+        },
+        "growth": {
+            "hp": 65,
+            "str": 55,
+            "mag": 10,
+            "skl": 60,
+            "spd": 35,
+            "lck": 30,
+            "def": 40,
+            "res": 15
+        },
+        "support": {
+            "Mist": {
+                "affinity": "water",
+                "bonus": "10"
+            },
+            "Titania": {
+                "affinity": "light",
+                "bonus": "5"
+            },
+            "Soren": {
+                "affinity": "dark",
+                "bonus": "5"
+            },
+            "Ranulf": {
+                "affinity": "wind",
+                "bonus": "5"
+            }
+        },
+        "rank": {
+            "sword": 251
+        }
+    },
+    "ilyana": {
+        "name": "Ilyana",
+        "affinity": "light",
+        "lvl": 12,
+        "job": "thundermagef",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "ilyana.png",
+        "skill": [
+            "shade"
+        ],
+        "promo": [
+            "thundersagef",
+            "archsagethunder"
+        ],
+        "base": {
+            "hp": 6,
+            "str": 5,
+            "mag": 9,
+            "skl": 9,
+            "spd": 9,
+            "lck": 6,
+            "def": 2,
+            "res": 4,
+            "con": 0
+        },
+        "growth": {
+            "hp": 55,
+            "str": 45,
+            "mag": 50,
+            "skl": 60,
+            "spd": 30,
+            "lck": 40,
+            "def": 30,
+            "res": 50
+        },
+        "support": {},
+        "rank": {
+            "thunder": 71
+        }
+    },
+    "janaff": {
+        "name": "Janaff",
+        "affinity": "thunder",
+        "lvl": 29,
+        "job": "hawk",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "janaff.png",
+        "skill": [
+            "insight"
+        ],
+        "promo": [],
+        "base": {
+            "hp": 28,
+            "str": 11,
+            "mag": 1,
+            "skl": 12,
+            "spd": 10,
+            "lck": 30,
+            "def": 10,
+            "res": 6,
+            "con": -4
+        },
+        "growth": {
+            "hp": 55,
+            "str": 40,
+            "mag": 15,
+            "skl": 45,
+            "spd": 25,
+            "lck": 50,
+            "def": 35,
+            "res": 10
+        },
+        "support": {
+            "Ulki": {
+                "affinity": "water",
+                "bonus": "5"
+            },
+            "Reyson": {
+                "affinity": "fire",
+                "bonus": "5"
+            }
+        },
+        "rank": {
+            "strike": 181
+        }
+    },
+    "jill": {
+        "name": "Jill",
+        "affinity": "thunder",
+        "lvl": 14,
+        "job": "dracoknightf",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "jill.png",
+        "skill": [],
+        "promo": [
+            "dragonmasterf",
+            "dragonlordf"
+        ],
+        "base": {
+            "hp": 4,
+            "str": 5,
+            "mag": 1,
+            "skl": 9,
+            "spd": 10,
+            "lck": 14,
+            "def": 4,
+            "res": 1,
+            "con": 0
+        },
+        "growth": {
+            "hp": 50,
+            "str": 45,
+            "mag": 15,
+            "skl": 45,
+            "spd": 65,
+            "lck": 60,
+            "def": 35,
+            "res": 45
+        },
+        "support": {
+            "Mist": {
+                "affinity": "water",
+                "bonus": "5"
+            },
+            "Haar": {
+                "affinity": "wind",
+                "bonus": "5"
+            }
+        },
+        "rank": {
+            "axe": 121
+        }
+    },
+    "kieran": {
+        "name": "Kieran",
+        "affinity": "wind",
+        "lvl": 11,
+        "job": "axepaladinm",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "kieran.png",
+        "skill": [
+            "gamble"
+        ],
+        "promo": [
+            "goldknightaxem"
+        ],
+        "base": {
+            "hp": 8,
+            "str": 3,
+            "mag": 1,
+            "skl": 4,
+            "spd": 4,
+            "lck": 16,
+            "def": 3,
+            "res": 1,
+            "con": 0
+        },
+        "growth": {
+            "hp": 75,
+            "str": 60,
+            "mag": 15,
+            "skl": 40,
+            "spd": 30,
+            "lck": 30,
+            "def": 60,
+            "res": 25
+        },
+        "support": {
+            "Geoffrey": {
+                "affinity": "fire",
+                "bonus": "5"
+            }
+        },
+        "rank": {
+            "axe": 181
+        }
+    },
+    "kurthnaga": {
+        "name": "Kurthnaga",
+        "affinity": "water",
+        "lvl": 20,
+        "job": "dragonprince",
+        "authority": 2,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "kurthnaga.png",
+        "skill": [
+            "nighttide"
+        ],
+        "promo": [],
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 21,
+            "def": 0,
+            "res": 0,
+            "con": 0
+        },
+        "growth": {
+            "hp": 95,
+            "str": 45,
+            "mag": 15,
+            "skl": 20,
+            "spd": 35,
+            "lck": 60,
+            "def": 25,
+            "res": 40
+        },
+        "support": {
+            "Deghinsea": {
+                "affinity": "dark",
+                "bonus": "10"
+            }
+        },
+        "rank": {
+            "strike": 181
+        }
+    },
+    "kyza": {
+        "name": "Kyza",
+        "affinity": "light",
+        "lvl": 18,
+        "job": "tiger",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "kyza.png",
+        "skill": [
+            "quickclaw"
+        ],
+        "promo": [],
+        "base": {
+            "hp": 19,
+            "str": 4,
+            "mag": 3,
+            "skl": 4,
+            "spd": 6,
+            "lck": 14,
+            "def": 6,
+            "res": 4,
+            "con": 0
+        },
+        "growth": {
+            "hp": 85,
+            "str": 40,
+            "mag": 5,
+            "skl": 45,
+            "spd": 35,
+            "lck": 50,
+            "def": 40,
+            "res": 15
+        },
+        "support": {},
+        "rank": {
+            "strike": 181
+        }
+    },
+    "laura": {
+        "name": "Laura",
+        "affinity": "wind",
+        "lvl": 1,
+        "job": "priestf",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "laura.png",
+        "skill": [],
+        "promo": [
+            "bishopf",
+            "saintf"
+        ],
+        "base": {
+            "hp": -1,
+            "str": 3,
+            "mag": 2,
+            "skl": 0,
+            "spd": 2,
+            "lck": 8,
+            "def": 1,
+            "res": 0,
+            "con": 0
+        },
+        "growth": {
+            "hp": 45,
+            "str": 20,
+            "mag": 70,
+            "skl": 70,
+            "spd": 70,
+            "lck": 50,
+            "def": 20,
+            "res": 35
+        },
+        "support": {},
+        "rank": {
+            "staff": 31
+        }
+    },
+    "leanne": {
+        "name": "Leanne",
+        "affinity": "water",
+        "lvl": 5,
+        "job": "heronleanne",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "leanne.png",
+        "skill": [
+            "blessing"
+        ],
+        "promo": [],
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 27,
+            "def": 0,
+            "res": 0,
+            "con": 0
+        },
+        "growth": {
+            "hp": 60,
+            "str": 0,
+            "mag": 40,
+            "skl": 10,
+            "spd": 20,
+            "lck": 80,
+            "def": 10,
+            "res": 40
+        },
+        "support": {
+            "Naesala": {
+                "affinity": "dark",
+                "bonus": "10"
+            },
+            "Tibarn": {
+                "affinity": "heaven",
+                "bonus": "5"
+            },
+            "Nealuchi": {
+                "affinity": "fire",
+                "bonus": "5"
+            }
+        },
+        "rank": {}
+    },
+    "lehran": {
+        "name": "Lehran",
+        "affinity": "light",
+        "lvl": 20,
+        "job": "chancellor",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "sephiran.png",
+        "skill": [
+            "mantle"
+        ],
+        "promo": [],
+        "base": {
+            "hp": -3,
+            "str": 7,
+            "mag": 0,
+            "skl": 0,
+            "spd": 4,
+            "lck": 40,
+            "def": 3,
+            "res": 0,
+            "con": 0
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "support": {
+            "Sanaki": {
+                "affinity": "light",
+                "bonus": "10"
+            },
+            "Zelgius": {
+                "affinity": "dark",
+                "bonus": "10"
+            }
+        },
+        "rank": {
+            "light": 331,
+            "dark": 331,
+            "staff": 331
+        }
+    },
+    "leonardo": {
+        "name": "Leonardo",
+        "affinity": "water",
+        "lvl": 4,
+        "job": "archer",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "leonardo.png",
+        "skill": [
+            "cancel"
+        ],
+        "promo": [
+            "sniper",
+            "marksman"
+        ],
+        "base": {
+            "hp": -2,
+            "str": -1,
+            "mag": 0,
+            "skl": 2,
+            "spd": 2,
+            "lck": 6,
+            "def": 0,
+            "res": 3,
+            "con": -3
+        },
+        "growth": {
+            "hp": 60,
+            "str": 40,
+            "mag": 15,
+            "skl": 75,
+            "spd": 35,
+            "lck": 65,
+            "def": 35,
+            "res": 55
+        },
+        "support": {},
+        "rank": {
+            "bow": 31
+        }
+    },
+    "lethe": {
+        "name": "Lethe",
+        "affinity": "heaven",
+        "lvl": 21,
+        "job": "catf",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "lethe.png",
+        "skill": [],
+        "promo": [],
+        "base": {
+            "hp": 4,
+            "str": 2,
+            "mag": 0,
+            "skl": 2,
+            "spd": 1,
+            "lck": 18,
+            "def": 2,
+            "res": 2,
+            "con": 0
+        },
+        "growth": {
+            "hp": 85,
+            "str": 35,
+            "mag": 5,
+            "skl": 30,
+            "spd": 50,
+            "lck": 45,
+            "def": 35,
+            "res": 20
+        },
+        "support": {
+            "Mordecai": {
+                "affinity": "water",
+                "bonus": "5"
+            },
+            "Lyre": {
+                "affinity": "thunder",
+                "bonus": "10"
+            }
+        },
+        "rank": {
+            "strike": 181
+        }
+    },
+    "lucia": {
+        "name": "Lucia",
+        "affinity": "earth",
+        "lvl": 14,
+        "job": "swordmasterf",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "lucia.png",
+        "skill": [
+            "parity"
+        ],
+        "promo": [
+            "truebladef"
+        ],
+        "base": {
+            "hp": 4,
+            "str": 4,
+            "mag": 6,
+            "skl": 7,
+            "spd": 5,
+            "lck": 19,
+            "def": 6,
+            "res": 7,
+            "con": 0
+        },
+        "growth": {
+            "hp": 50,
+            "str": 25,
+            "mag": 20,
+            "skl": 70,
+            "spd": 60,
+            "lck": 30,
+            "def": 15,
+            "res": 50
+        },
+        "support": {
+            "Geoffrey": {
+                "affinity": "fire",
+                "bonus": "5"
+            },
+            "Elincia": {
+                "affinity": "heaven",
+                "bonus": "10"
+            }
+        },
+        "rank": {
+            "sword": 181
+        }
+    },
+    "lyre": {
+        "name": "Lyre",
+        "affinity": "thunder",
+        "lvl": 17,
+        "job": "catf",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "lyre.png",
+        "skill": [],
+        "promo": [],
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 16,
+            "def": 0,
+            "res": 0,
+            "con": 0
+        },
+        "growth": {
+            "hp": 50,
+            "str": 35,
+            "mag": 10,
+            "skl": 65,
+            "spd": 70,
+            "lck": 50,
+            "def": 20,
+            "res": 30
+        },
+        "support": {
+            "Lethe": {
+                "affinity": "heaven",
+                "bonus": "10"
+            }
+        },
+        "rank": {
+            "strike": 181
+        }
+    },
+    "makalov": {
+        "name": "Makalov",
+        "affinity": "thunder",
+        "lvl": 7,
+        "job": "bladepaladin",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "makalov.png",
+        "skill": [],
+        "promo": [
+            "goldknightsword"
+        ],
+        "base": {
+            "hp": 2,
+            "str": 1,
+            "mag": 1,
+            "skl": 3,
+            "spd": 2,
+            "lck": 20,
+            "def": 0,
+            "res": -1,
+            "con": -1
+        },
+        "growth": {
+            "hp": 55,
+            "str": 40,
+            "mag": 15,
+            "skl": 40,
+            "spd": 75,
+            "lck": 45,
+            "def": 50,
+            "res": 25
+        },
+        "support": {
+            "Marcia": {
+                "affinity": "fire",
+                "bonus": "5"
+            }
+        },
+        "rank": {
+            "sword": 181
+        }
+    },
+    "marcia": {
+        "name": "Marcia",
+        "affinity": "fire",
+        "lvl": 5,
+        "job": "falconknight",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "marcia.png",
+        "skill": [],
+        "promo": [
+            "seraphknight"
+        ],
+        "base": {
+            "hp": 4,
+            "str": 3,
+            "mag": 1,
+            "skl": 0,
+            "spd": 1,
+            "lck": 12,
+            "def": 2,
+            "res": 2,
+            "con": 0
+        },
+        "growth": {
+            "hp": 70,
+            "str": 30,
+            "mag": 20,
+            "skl": 40,
+            "spd": 65,
+            "lck": 50,
+            "def": 35,
+            "res": 35
+        },
+        "support": {
+            "Makalov": {
+                "affinity": "thunder",
+                "bonus": "5"
+            }
+        },
+        "rank": {
+            "sword": 71,
+            "lance": 121
+        }
+    },
+    "meg": {
+        "name": "Meg",
+        "affinity": "heaven",
+        "lvl": 3,
+        "job": "armorswordf",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "meg.png",
+        "skill": [
+            "fortune"
+        ],
+        "promo": [
+            "swordgeneralf",
+            "marshallsword"
+        ],
+        "base": {
+            "hp": 1,
+            "str": 4,
+            "mag": 1,
+            "skl": 0,
+            "spd": 5,
+            "lck": 8,
+            "def": 1,
+            "res": 1,
+            "con": 0
+        },
+        "growth": {
+            "hp": 60,
+            "str": 35,
+            "mag": 15,
+            "skl": 40,
+            "spd": 65,
+            "lck": 75,
+            "def": 35,
+            "res": 50
+        },
+        "support": {
+            "Brom": {
+                "affinity": "water",
+                "bonus": "10"
+            }
+        },
+        "rank": {
+            "sword": 71
+        }
+    },
+    "mia": {
+        "name": "Mia",
+        "affinity": "fire",
+        "lvl": 7,
+        "job": "swordmasterf",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "mia.png",
+        "skill": [
+            "vantage"
+        ],
+        "promo": [
+            "truebladef"
+        ],
+        "base": {
+            "hp": 0,
+            "str": 3,
+            "mag": 1,
+            "skl": 6,
+            "spd": 6,
+            "lck": 18,
+            "def": 5,
+            "res": 0,
+            "con": -1
+        },
+        "growth": {
+            "hp": 70,
+            "str": 45,
+            "mag": 15,
+            "skl": 60,
+            "spd": 65,
+            "lck": 35,
+            "def": 40,
+            "res": 25
+        },
+        "support": {},
+        "rank": {
+            "sword": 181
+        }
+    },
+    "micaiah": {
+        "name": "Micaiah",
+        "affinity": "dark",
+        "lvl": 1,
+        "job": "lightmage",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "micaiah.png",
+        "skill": [
+            "sacrifice"
+        ],
+        "promo": [
+            "lightsage",
+            "lightpriestess"
+        ],
+        "base": {
+            "hp": -1,
+            "str": 2,
+            "mag": 3,
+            "skl": 3,
+            "spd": 2,
+            "lck": 10,
+            "def": 1,
+            "res": -3,
+            "con": 0
+        },
+        "growth": {
+            "hp": 40,
+            "str": 15,
+            "mag": 80,
+            "skl": 40,
+            "spd": 35,
+            "lck": 80,
+            "def": 20,
+            "res": 90
+        },
+        "support": {
+            "Sothe": {
+                "affinity": "wind",
+                "bonus": "10"
+            }
+        },
+        "rank": {
+            "light": 31
+        }
+    },
+    "mist": {
+        "name": "Mist",
+        "affinity": "water",
+        "lvl": 1,
+        "job": "cleric",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "mist.png",
+        "skill": [
+            "miracle"
+        ],
+        "promo": [
+            "valkyrie"
+        ],
+        "base": {
+            "hp": -2,
+            "str": 4,
+            "mag": 7,
+            "skl": 5,
+            "spd": 5,
+            "lck": 16,
+            "def": 2,
+            "res": 2,
+            "con": -1
+        },
+        "growth": {
+            "hp": 40,
+            "str": 25,
+            "mag": 45,
+            "skl": 55,
+            "spd": 50,
+            "lck": 70,
+            "def": 25,
+            "res": 40
+        },
+        "support": {
+            "Ike": {
+                "affinity": "earth",
+                "bonus": "10"
+            },
+            "Boyd": {
+                "affinity": "fire",
+                "bonus": "5"
+            },
+            "Titania": {
+                "affinity": "light",
+                "bonus": "5"
+            },
+            "Jill": {
+                "affinity": "thunder",
+                "bonus": "5"
+            }
+        },
+        "rank": {
+            "sword": 71,
+            "staff": 121
+        }
+    },
+    "mordecai": {
+        "name": "Mordecai",
+        "affinity": "water",
+        "lvl": 16,
+        "job": "tiger",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "mordecai.png",
+        "skill": [
+            "smite"
+        ],
+        "promo": [],
+        "base": {
+            "hp": 21,
+            "str": 8,
+            "mag": 1,
+            "skl": 3,
+            "spd": 4,
+            "lck": 15,
+            "def": 12,
+            "res": 3,
+            "con": 6
+        },
+        "growth": {
+            "hp": 90,
+            "str": 35,
+            "mag": 10,
+            "skl": 25,
+            "spd": 15,
+            "lck": 80,
+            "def": 45,
+            "res": 15
+        },
+        "support": {
+            "Lethe": {
+                "affinity": "heaven",
+                "bonus": "5"
+            }
+        },
+        "rank": {
+            "strike": 181
+        }
+    },
+    "muarim": {
+        "name": "Muarim",
+        "affinity": "thunder",
+        "lvl": 19,
+        "job": "tiger",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "muarim.png",
+        "skill": [],
+        "promo": [],
+        "base": {
+            "hp": 22,
+            "str": 12,
+            "mag": 3,
+            "skl": 8,
+            "spd": 6,
+            "lck": 12,
+            "def": 11,
+            "res": 8,
+            "con": 2
+        },
+        "growth": {
+            "hp": 60,
+            "str": 55,
+            "mag": 5,
+            "skl": 45,
+            "spd": 20,
+            "lck": 55,
+            "def": 35,
+            "res": 30
+        },
+        "support": {
+            "Tormod": {
+                "affinity": "fire",
+                "bonus": "10"
+            }
+        },
+        "rank": {
+            "strike": 181
+        }
+    },
+    "naesala": {
+        "name": "Naesala",
+        "affinity": "dark",
+        "lvl": 27,
+        "job": "ravenking",
+        "authority": 3,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "naesala.png",
+        "skill": [
+            "maelstrom",
+            "vantage",
+            "formshift",
+            "tear"
+        ],
+        "promo": [],
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 20,
+            "def": 0,
+            "res": 0,
+            "con": 1
+        },
+        "growth": {
+            "hp": 40,
+            "str": 45,
+            "mag": 15,
+            "skl": 30,
+            "spd": 45,
+            "lck": 55,
+            "def": 15,
+            "res": 35
+        },
+        "support": {
+            "Reyson": {
+                "affinity": "fire",
+                "bonus": "5"
+            },
+            "Leanne": {
+                "affinity": "water",
+                "bonus": "10"
+            },
+            "Nealuchi": {
+                "affinity": "fire",
+                "bonus": "10"
+            }
+        },
+        "rank": {
+            "strike": 251
+        }
+    },
+    "nailah": {
+        "name": "Nailah",
+        "affinity": "wind",
+        "lvl": 33,
+        "job": "wolfqueen",
+        "authority": 3,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "nailah.png",
+        "skill": [
+            "glare",
+            "guard",
+            "formshift",
+            "savage"
+        ],
+        "promo": [],
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 35,
+            "def": 0,
+            "res": 0,
+            "con": 3
+        },
+        "growth": {
+            "hp": 60,
+            "str": 30,
+            "mag": 15,
+            "skl": 20,
+            "spd": 20,
+            "lck": 45,
+            "def": 30,
+            "res": 30
+        },
+        "support": {
+            "Rafiel": {
+                "affinity": "heaven",
+                "bonus": "10"
+            }
+        },
+        "rank": {
+            "strike": 331
+        }
+    },
+    "nasir": {
+        "name": "Nasir",
+        "affinity": "light",
+        "lvl": 34,
+        "job": "whitedragon",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "nasir.png",
+        "skill": [
+            "boon",
+            "whitepool",
+            "nihil"
+        ],
+        "promo": [],
+        "base": {
+            "hp": 25,
+            "str": 3,
+            "mag": 10,
+            "skl": 6,
+            "spd": 4,
+            "lck": 19,
+            "def": 3,
+            "res": 10,
+            "con": -1
+        },
+        "growth": {
+            "hp": 70,
+            "str": 15,
+            "mag": 45,
+            "skl": 35,
+            "spd": 20,
+            "lck": 45,
+            "def": 15,
+            "res": 40
+        },
+        "support": {
+            "Ena": {
+                "affinity": "earth",
+                "bonus": "10"
+            }
+        },
+        "rank": {
+            "strike": 251
+        }
+    },
+    "nealuchi": {
+        "name": "Nealuchi",
+        "affinity": "fire",
+        "lvl": 22,
+        "job": "ravenm",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "nealuchi.png",
+        "skill": [
+            "wrath"
+        ],
+        "promo": [],
+        "base": {
+            "hp": 26,
+            "str": 6,
+            "mag": 2,
+            "skl": 3,
+            "spd": 10,
+            "lck": 24,
+            "def": 8,
+            "res": 7,
+            "con": -3
+        },
+        "growth": {
+            "hp": 55,
+            "str": 35,
+            "mag": 10,
+            "skl": 40,
+            "spd": 40,
+            "lck": 80,
+            "def": 40,
+            "res": 25
+        },
+        "support": {
+            "Leanne": {
+                "affinity": "water",
+                "bonus": "5"
+            },
+            "Naesala": {
+                "affinity": "dark",
+                "bonus": "10"
+            }
+        },
+        "rank": {
+            "strike": 181
+        }
+    },
+    "nephenee": {
+        "name": "Nephenee",
+        "affinity": "wind",
+        "lvl": 1,
+        "job": "halberdierf",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "nephenee.png",
+        "skill": [
+            "wrath"
+        ],
+        "promo": [
+            "sentinelf"
+        ],
+        "base": {
+            "hp": -6,
+            "str": 4,
+            "mag": 5,
+            "skl": 8,
+            "spd": 11,
+            "lck": 12,
+            "def": 4,
+            "res": 8,
+            "con": 0
+        },
+        "growth": {
+            "hp": 45,
+            "str": 35,
+            "mag": 15,
+            "skl": 70,
+            "spd": 65,
+            "lck": 40,
+            "def": 35,
+            "res": 45
+        },
+        "support": {},
+        "rank": {
+            "lance": 121
+        }
+    },
+    "nolan": {
+        "name": "Nolan",
+        "affinity": "earth",
+        "lvl": 9,
+        "job": "fighter",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "nolan.png",
+        "skill": [
+            "nihil"
+        ],
+        "promo": [
+            "warrior",
+            "reaver"
+        ],
+        "base": {
+            "hp": 7,
+            "str": 2,
+            "mag": 0,
+            "skl": 5,
+            "spd": 2,
+            "lck": 7,
+            "def": 4,
+            "res": 3,
+            "con": 1
+        },
+        "growth": {
+            "hp": 60,
+            "str": 45,
+            "mag": 20,
+            "skl": 70,
+            "spd": 60,
+            "lck": 60,
+            "def": 35,
+            "res": 40
+        },
+        "support": {},
+        "rank": {
+            "axe": 71
+        }
+    },
+    "oliver": {
+        "name": "Oliver",
+        "affinity": "fire",
+        "lvl": 8,
+        "job": "saintm",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "oliver.png",
+        "skill": [],
+        "promo": [],
+        "base": {
+            "hp": 5,
+            "str": 17,
+            "mag": 11,
+            "skl": 6,
+            "spd": 2,
+            "lck": 28,
+            "def": 9,
+            "res": 9,
+            "con": 2
+        },
+        "growth": {
+            "hp": 65,
+            "str": 55,
+            "mag": 35,
+            "skl": 35,
+            "spd": 45,
+            "lck": 30,
+            "def": 30,
+            "res": 20
+        },
+        "support": {},
+        "rank": {
+            "light": 251,
+            "staff": 181
+        }
+    },
+    "oscar": {
+        "name": "Oscar",
+        "affinity": "earth",
+        "lvl": 12,
+        "job": "lancepaladinm",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "oscar.png",
+        "skill": [],
+        "promo": [
+            "silverknightlancem"
+        ],
+        "base": {
+            "hp": 4,
+            "str": 3,
+            "mag": 2,
+            "skl": 7,
+            "spd": 4,
+            "lck": 18,
+            "def": 2,
+            "res": 3,
+            "con": 0
+        },
+        "growth": {
+            "hp": 50,
+            "str": 35,
+            "mag": 20,
+            "skl": 65,
+            "spd": 60,
+            "lck": 55,
+            "def": 30,
+            "res": 20
+        },
+        "support": {
+            "Boyd": {
+                "affinity": "fire",
+                "bonus": "10"
+            },
+            "Rolf": {
+                "affinity": "wind",
+                "bonus": "10"
+            }
+        },
+        "rank": {
+            "lance": 181
+        }
+    },
+    "pelleas": {
+        "name": "Pelleas",
+        "affinity": "water",
+        "lvl": 12,
+        "job": "darksage",
+        "authority": 1,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "pelleas.png",
+        "skill": [
+            "miracle"
+        ],
+        "promo": [
+            "archsagedark"
+        ],
+        "base": {
+            "hp": 4,
+            "str": 2,
+            "mag": 6,
+            "skl": 4,
+            "spd": 6,
+            "lck": 14,
+            "def": 4,
+            "res": 5,
+            "con": -1
+        },
+        "growth": {
+            "hp": 35,
+            "str": 25,
+            "mag": 55,
+            "skl": 45,
+            "spd": 60,
+            "lck": 40,
+            "def": 30,
+            "res": 45
+        },
+        "support": {},
+        "rank": {
+            "thunder": 181,
+            "dark": 251
+        }
+    },
+    "rafiel": {
+        "name": "Rafiel",
+        "affinity": "heaven",
+        "lvl": 12,
+        "job": "heronrafiel",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "rafiel.png",
+        "skill": [
+            "blessing"
+        ],
+        "promo": [],
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 31,
+            "def": 0,
+            "res": 0,
+            "con": 0
+        },
+        "growth": {
+            "hp": 60,
+            "str": 0,
+            "mag": 40,
+            "skl": 10,
+            "spd": 20,
+            "lck": 60,
+            "def": 10,
+            "res": 50
+        },
+        "support": {
+            "Tibarn": {
+                "affinity": "heaven",
+                "bonus": "10"
+            },
+            "Nailah": {
+                "affinity": "wind",
+                "bonus": "10"
+            }
+        },
+        "rank": {}
+    },
+    "ranulf": {
+        "name": "Ranulf",
+        "affinity": "wind",
+        "lvl": 26,
+        "job": "catm",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "ranulf.png",
+        "skill": [],
+        "promo": [],
+        "base": {
+            "hp": 24,
+            "str": 10,
+            "mag": 4,
+            "skl": 9,
+            "spd": 9,
+            "lck": 23,
+            "def": 10,
+            "res": 8,
+            "con": 0
+        },
+        "growth": {
+            "hp": 70,
+            "str": 30,
+            "mag": 15,
+            "skl": 40,
+            "spd": 35,
+            "lck": 55,
+            "def": 15,
+            "res": 10
+        },
+        "support": {
+            "Ike": {
+                "affinity": "earth",
+                "bonus": "5"
+            }
+        },
+        "rank": {
+            "strike": 181
+        }
+    },
+    "renning": {
+        "name": "Renning",
+        "affinity": "earth",
+        "lvl": 16,
+        "job": "goldknightsword",
+        "authority": 4,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "renning.png",
+        "skill": [],
+        "promo": [],
+        "base": {
+            "hp": 6,
+            "str": 12,
+            "mag": 15,
+            "skl": 16,
+            "spd": 11,
+            "lck": 24,
+            "def": 8,
+            "res": 17,
+            "con": 0
+        },
+        "growth": {
+            "hp": 40,
+            "str": 60,
+            "mag": 10,
+            "skl": 50,
+            "spd": 40,
+            "lck": 10,
+            "def": 70,
+            "res": 20
+        },
+        "support": {
+            "Elincia": {
+                "affinity": "heaven",
+                "bonus": "10"
+            }
+        },
+        "rank": {
+            "sword": 331,
+            "axe": 181
+        }
+    },
+    "reyson": {
+        "name": "Reyson",
+        "affinity": "fire",
+        "lvl": 15,
+        "job": "heronreyson",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "reyson.png",
+        "skill": [
+            "blessing"
+        ],
+        "promo": [],
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 31,
+            "def": 0,
+            "res": 0,
+            "con": 0
+        },
+        "growth": {
+            "hp": 65,
+            "str": 5,
+            "mag": 30,
+            "skl": 20,
+            "spd": 20,
+            "lck": 60,
+            "def": 20,
+            "res": 20
+        },
+        "support": {
+            "Tibarn": {
+                "affinity": "heaven",
+                "bonus": "10"
+            },
+            "Naesala": {
+                "affinity": "dark",
+                "bonus": "5"
+            },
+            "Ulki": {
+                "affinity": "water",
+                "bonus": "5"
+            },
+            "Janaff": {
+                "affinity": "thunder",
+                "bonus": "5"
+            }
+        },
+        "rank": {}
+    },
+    "rhys": {
+        "name": "Rhys",
+        "affinity": "fire",
+        "lvl": 3,
+        "job": "bishopm",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "rhys.png",
+        "skill": [],
+        "promo": [
+            "saintm"
+        ],
+        "base": {
+            "hp": 0,
+            "str": -1,
+            "mag": 6,
+            "skl": 2,
+            "spd": 0,
+            "lck": 21,
+            "def": -1,
+            "res": 6,
+            "con": -1
+        },
+        "growth": {
+            "hp": 40,
+            "str": 25,
+            "mag": 65,
+            "skl": 35,
+            "spd": 35,
+            "lck": 60,
+            "def": 20,
+            "res": 75
+        },
+        "support": {
+            "Titania": {
+                "affinity": "light",
+                "bonus": "5"
+            }
+        },
+        "rank": {
+            "light": 71,
+            "staff": 181
+        }
+    },
+    "rolf": {
+        "name": "Rolf",
+        "affinity": "wind",
+        "lvl": 1,
+        "job": "sniper",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "rolf.png",
+        "skill": [],
+        "promo": [
+            "marksman"
+        ],
+        "base": {
+            "hp": -1,
+            "str": -1,
+            "mag": -1,
+            "skl": 1,
+            "spd": 1,
+            "lck": 13,
+            "def": -1,
+            "res": -1,
+            "con": -5
+        },
+        "growth": {
+            "hp": 85,
+            "str": 75,
+            "mag": 10,
+            "skl": 45,
+            "spd": 45,
+            "lck": 35,
+            "def": 35,
+            "res": 20
+        },
+        "support": {
+            "Oscar": {
+                "affinity": "earth",
+                "bonus": "10"
+            },
+            "Boyd": {
+                "affinity": "fire",
+                "bonus": "10"
+            },
+            "Shinon": {
+                "affinity": "thunder",
+                "bonus": "5"
+            }
+        },
+        "rank": {
+            "bow": 121
+        }
+    },
+    "sanaki": {
+        "name": "Sanaki",
+        "affinity": "light",
+        "lvl": 1,
+        "job": "empress",
+        "authority": 4,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "sanaki.png",
+        "skill": [],
+        "promo": [],
+        "base": {
+            "hp": 0,
+            "str": 1,
+            "mag": 3,
+            "skl": 0,
+            "spd": -3,
+            "lck": 32,
+            "def": 7,
+            "res": 0,
+            "con": 0
+        },
+        "growth": {
+            "hp": 70,
+            "str": 40,
+            "mag": 60,
+            "skl": 60,
+            "spd": 35,
+            "lck": 55,
+            "def": 30,
+            "res": 50
+        },
+        "support": {
+            "Sigrun": {
+                "affinity": "water",
+                "bonus": "5"
+            },
+            "Sephiran": {
+                "affinity": "light",
+                "bonus": "10"
+            }
+        },
+        "rank": {
+            "fire": 251,
+            "thunder": 181,
+            "wind": 181,
+            "light": 181
+        }
+    },
+    "shinon": {
+        "name": "Shinon",
+        "affinity": "thunder",
+        "lvl": 13,
+        "job": "sniper",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "shinon.png",
+        "skill": [
+            "provoke"
+        ],
+        "promo": [
+            "marksman"
+        ],
+        "base": {
+            "hp": 10,
+            "str": 3,
+            "mag": 3,
+            "skl": 9,
+            "spd": 6,
+            "lck": 15,
+            "def": 6,
+            "res": 4,
+            "con": -1
+        },
+        "growth": {
+            "hp": 50,
+            "str": 40,
+            "mag": 15,
+            "skl": 70,
+            "spd": 65,
+            "lck": 30,
+            "def": 45,
+            "res": 20
+        },
+        "support": {
+            "Rolf": {
+                "affinity": "wind",
+                "bonus": "5"
+            },
+            "Gatrie": {
+                "affinity": "light",
+                "bonus": "5"
+            }
+        },
+        "rank": {
+            "bow": 251
+        }
+    },
+    "sigrun": {
+        "name": "Sigrun",
+        "affinity": "water",
+        "lvl": 19,
+        "job": "falconknight",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "sigrun.png",
+        "skill": [],
+        "promo": [
+            "seraphknight"
+        ],
+        "base": {
+            "hp": 4,
+            "str": 5,
+            "mag": 8,
+            "skl": 5,
+            "spd": 5,
+            "lck": 28,
+            "def": 6,
+            "res": 9,
+            "con": 0
+        },
+        "growth": {
+            "hp": 40,
+            "str": 45,
+            "mag": 10,
+            "skl": 70,
+            "spd": 25,
+            "lck": 70,
+            "def": 10,
+            "res": 50
+        },
+        "support": {
+            "Sanaki": {
+                "affinity": "light",
+                "bonus": "5"
+            },
+            "Tanith": {
+                "affinity": "earth",
+                "bonus": "5"
+            }
+        },
+        "rank": {
+            "sword": 181,
+            "lance": 251
+        }
+    },
+    "skrimir": {
+        "name": "Skrimir",
+        "affinity": "fire",
+        "lvl": 25,
+        "job": "lionskrimir",
+        "authority": 2,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "skrimir.png",
+        "skill": [
+            "resolve",
+            "provoke"
+        ],
+        "promo": [],
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 24,
+            "def": 0,
+            "res": 0,
+            "con": -1
+        },
+        "growth": {
+            "hp": 90,
+            "str": 35,
+            "mag": 5,
+            "skl": 35,
+            "spd": 25,
+            "lck": 20,
+            "def": 50,
+            "res": 5
+        },
+        "support": {
+            "Caineghis": {
+                "affinity": "earth",
+                "bonus": "10"
+            }
+        },
+        "rank": {
+            "strike": 251
+        }
+    },
+    "soren": {
+        "name": "Soren",
+        "affinity": "dark",
+        "lvl": 5,
+        "job": "windsage",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "soren.png",
+        "skill": [
+            "adept"
+        ],
+        "promo": [
+            "archsagewind"
+        ],
+        "base": {
+            "hp": -1,
+            "str": 0,
+            "mag": 4,
+            "skl": 6,
+            "spd": 2,
+            "lck": 11,
+            "def": -1,
+            "res": 6,
+            "con": -4
+        },
+        "growth": {
+            "hp": 40,
+            "str": 25,
+            "mag": 80,
+            "skl": 60,
+            "spd": 35,
+            "lck": 35,
+            "def": 25,
+            "res": 70
+        },
+        "support": {
+            "Ike": {
+                "affinity": "earth",
+                "bonus": "5"
+            }
+        },
+        "rank": {
+            "fire": 121,
+            "thunder": 121,
+            "wind": 181
+        }
+    },
+    "sothe": {
+        "name": "Sothe",
+        "affinity": "wind",
+        "lvl": 1,
+        "job": "roguem",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "sothe.png",
+        "skill": [
+            "guard"
+        ],
+        "promo": [
+            "whisperm"
+        ],
+        "base": {
+            "hp": 7,
+            "str": 4,
+            "mag": -1,
+            "skl": 3,
+            "spd": 0,
+            "lck": 15,
+            "def": 2,
+            "res": 1,
+            "con": -2
+        },
+        "growth": {
+            "hp": 30,
+            "str": 60,
+            "mag": 20,
+            "skl": 80,
+            "spd": 45,
+            "lck": 65,
+            "def": 20,
+            "res": 30
+        },
+        "support": {
+            "Micaiah": {
+                "affinity": "dark",
+                "bonus": "10"
+            }
+        },
+        "rank": {
+            "knife": 121
+        }
+    },
+    "stefan": {
+        "name": "Stefan",
+        "affinity": "heaven",
+        "lvl": 8,
+        "job": "truebladem",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "stefan.png",
+        "skill": [],
+        "promo": [],
+        "base": {
+            "hp": 4,
+            "str": 8,
+            "mag": 4,
+            "skl": 14,
+            "spd": 15,
+            "lck": 20,
+            "def": 5,
+            "res": 10,
+            "con": 2
+        },
+        "growth": {
+            "hp": 55,
+            "str": 50,
+            "mag": 20,
+            "skl": 60,
+            "spd": 60,
+            "lck": 15,
+            "def": 40,
+            "res": 50
+        },
+        "support": {},
+        "rank": {
+            "sword": 331
+        }
+    },
+    "tanith": {
+        "name": "Tanith",
+        "affinity": "earth",
+        "lvl": 16,
+        "job": "falconknight",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "tanith.png",
+        "skill": [],
+        "promo": [
+            "seraphknight"
+        ],
+        "base": {
+            "hp": 5,
+            "str": 7,
+            "mag": 5,
+            "skl": 4,
+            "spd": 4,
+            "lck": 22,
+            "def": 5,
+            "res": 7,
+            "con": 1
+        },
+        "growth": {
+            "hp": 35,
+            "str": 55,
+            "mag": 15,
+            "skl": 75,
+            "spd": 40,
+            "lck": 35,
+            "def": 40,
+            "res": 30
+        },
+        "support": {
+            "Sigrun": {
+                "affinity": "water",
+                "bonus": "5"
+            }
+        },
+        "rank": {
+            "sword": 181,
+            "lance": 181
+        }
+    },
+    "tauroneo": {
+        "name": "Tauroneo",
+        "affinity": "thunder",
+        "lvl": 14,
+        "job": "lancegeneral",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "tauroneo.png",
+        "skill": [
+            "resolve"
+        ],
+        "promo": [
+            "marshalllance"
+        ],
+        "base": {
+            "hp": 3,
+            "str": 6,
+            "mag": 7,
+            "skl": 5,
+            "spd": 4,
+            "lck": 18,
+            "def": 1,
+            "res": 5,
+            "con": -2
+        },
+        "growth": {
+            "hp": 55,
+            "str": 40,
+            "mag": 5,
+            "skl": 65,
+            "spd": 50,
+            "lck": 20,
+            "def": 45,
+            "res": 50
+        },
+        "support": {},
+        "rank": {
+            "lance": 251,
+            "axe": 181
+        }
+    },
+    "tibarn": {
+        "name": "Tibarn",
+        "affinity": "heaven",
+        "lvl": 31,
+        "job": "hawkking",
+        "authority": 4,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "tibarn.png",
+        "skill": [
+            "savior",
+            "tear",
+            "pavise",
+            "formshift"
+        ],
+        "promo": [],
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 29,
+            "def": 0,
+            "res": 0,
+            "con": 4
+        },
+        "growth": {
+            "hp": 75,
+            "str": 40,
+            "mag": 5,
+            "skl": 10,
+            "spd": 20,
+            "lck": 40,
+            "def": 40,
+            "res": 20
+        },
+        "support": {
+            "Reyson": {
+                "affinity": "fire",
+                "bonus": "10"
+            },
+            "Leanne": {
+                "affinity": "water",
+                "bonus": "5"
+            },
+            "Rafiel": {
+                "affinity": "heaven",
+                "bonus": "10"
+            }
+        },
+        "rank": {
+            "strike": 331
+        }
+    },
+    "titania": {
+        "name": "Titania",
+        "affinity": "light",
+        "lvl": 16,
+        "job": "axepaladinf",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "titania.png",
+        "skill": [
+            "counter"
+        ],
+        "promo": [
+            "goldknightaxef"
+        ],
+        "base": {
+            "hp": 1,
+            "str": 14,
+            "mag": 9,
+            "skl": 16,
+            "spd": 13,
+            "lck": 19,
+            "def": 10,
+            "res": 11,
+            "con": 0
+        },
+        "growth": {
+            "hp": 60,
+            "str": 60,
+            "mag": 15,
+            "skl": 55,
+            "spd": 50,
+            "lck": 40,
+            "def": 20,
+            "res": 30
+        },
+        "support": {
+            "Ike": {
+                "affinity": "earth",
+                "bonus": "5"
+            },
+            "Rhys": {
+                "affinity": "fire",
+                "bonus": "5"
+            },
+            "Mist": {
+                "affinity": "water",
+                "bonus": "5"
+            }
+        },
+        "rank": {
+            "axe": 251
+        }
+    },
+    "tormod": {
+        "name": "Tormod",
+        "affinity": "fire",
+        "lvl": 5,
+        "job": "firesagem",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "tormod.png",
+        "skill": [
+            "celerity"
+        ],
+        "promo": [
+            "archsagefirem"
+        ],
+        "base": {
+            "hp": 4,
+            "str": 3,
+            "mag": 0,
+            "skl": 1,
+            "spd": 4,
+            "lck": 14,
+            "def": 1,
+            "res": 0,
+            "con": -3
+        },
+        "growth": {
+            "hp": 50,
+            "str": 55,
+            "mag": 40,
+            "skl": 45,
+            "spd": 55,
+            "lck": 25,
+            "def": 35,
+            "res": 45
+        },
+        "support": {
+            "Muarim": {
+                "affinity": "thunder",
+                "bonus": "10"
+            }
+        },
+        "rank": {
+            "fire": 181,
+            "thunder": 121,
+            "wind": 71
+        }
+    },
+    "ulki": {
+        "name": "Ulki",
+        "affinity": "water",
+        "lvl": 28,
+        "job": "hawk",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "ulki.png",
+        "skill": [
+            "vigilance"
+        ],
+        "promo": [],
+        "base": {
+            "hp": 30,
+            "str": 9,
+            "mag": 2,
+            "skl": 10,
+            "spd": 11,
+            "lck": 25,
+            "def": 9,
+            "res": 8,
+            "con": 0
+        },
+        "growth": {
+            "hp": 65,
+            "str": 25,
+            "mag": 30,
+            "skl": 25,
+            "spd": 40,
+            "lck": 35,
+            "def": 30,
+            "res": 25
+        },
+        "support": {
+            "Janaff": {
+                "affinity": "thunder",
+                "bonus": "5"
+            },
+            "Reyson": {
+                "affinity": "fire",
+                "bonus": "5"
+            }
+        },
+        "rank": {
+            "strike": 181
+        }
+    },
+    "vika": {
+        "name": "Vika",
+        "affinity": "wind",
+        "lvl": 13,
+        "job": "ravenf",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "vika.png",
+        "skill": [
+            "shriek"
+        ],
+        "promo": [],
+        "base": {
+            "hp": 4,
+            "str": 2,
+            "mag": 0,
+            "skl": 0,
+            "spd": 1,
+            "lck": 14,
+            "def": 2,
+            "res": 1,
+            "con": 0
+        },
+        "growth": {
+            "hp": 60,
+            "str": 25,
+            "mag": 50,
+            "skl": 60,
+            "spd": 60,
+            "lck": 65,
+            "def": 15,
+            "res": 65
+        },
+        "support": {},
+        "rank": {
+            "strike": 181
+        }
+    },
+    "volke": {
+        "name": "Volke",
+        "affinity": "wind",
+        "lvl": 13,
+        "job": "assassin",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "volke.png",
+        "skill": [
+            "stillness"
+        ],
+        "promo": [],
+        "base": {
+            "hp": -8,
+            "str": 2,
+            "mag": -5,
+            "skl": 0,
+            "spd": -3,
+            "lck": 19,
+            "def": 4,
+            "res": 2,
+            "con": 0
+        },
+        "growth": {
+            "hp": 50,
+            "str": 50,
+            "mag": 5,
+            "skl": 60,
+            "spd": 65,
+            "lck": 20,
+            "def": 45,
+            "res": 15
+        },
+        "support": {},
+        "rank": {
+            "knife": 331
+        }
+    },
+    "volug": {
+        "name": "Volug",
+        "affinity": "earth",
+        "lvl": 15,
+        "job": "wolf",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "volug.png",
+        "skill": [
+            "howl",
+            "wildheart"
+        ],
+        "promo": [],
+        "base": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 13,
+            "def": 0,
+            "res": 0,
+            "con": 2
+        },
+        "growth": {
+            "hp": 95,
+            "str": 25,
+            "mag": 15,
+            "skl": 35,
+            "spd": 40,
+            "lck": 90,
+            "def": 15,
+            "res": 10
+        },
+        "support": {},
+        "rank": {
+            "strike": 181
+        }
+    },
+    "zelgius": {
+        "name": "Zelgius",
+        "affinity": "dark",
+        "lvl": 20,
+        "job": "marshallzelgius",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "zelgius.png",
+        "skill": [
+            "eclipse",
+            "imbue",
+            "nihil"
+        ],
+        "promo": [],
+        "base": {
+            "hp": 10,
+            "str": 7,
+            "mag": 0,
+            "skl": 5,
+            "spd": 2,
+            "lck": 20,
+            "def": 5,
+            "res": 1,
+            "con": 0
+        },
+        "growth": {
+            "hp": 0,
+            "str": 0,
+            "mag": 0,
+            "skl": 0,
+            "spd": 0,
+            "lck": 0,
+            "def": 0,
+            "res": 0
+        },
+        "support": {
+            "Sephiran": {
+                "affinity": "light",
+                "bonus": "10"
+            }
+        },
+        "rank": {
+            "sword": 331,
+            "lance": 251
+        }
+    },
+    "zihark": {
+        "name": "Zihark",
+        "affinity": "earth",
+        "lvl": 3,
+        "job": "swordmasterm",
+        "authority": 0,
+        "note": false,
+        "gauge": 0,
+        "type": "playable",
+        "portrait": "zihark.png",
+        "skill": [
+            "adept"
+        ],
+        "promo": [
+            "truebladem"
+        ],
+        "base": {
+            "hp": 0,
+            "str": 2,
+            "mag": 0,
+            "skl": 2,
+            "spd": 2,
+            "lck": 11,
+            "def": 0,
+            "res": 1,
+            "con": 0
+        },
+        "growth": {
+            "hp": 55,
+            "str": 35,
+            "mag": 10,
+            "skl": 75,
+            "spd": 70,
+            "lck": 40,
+            "def": 25,
+            "res": 35
+        },
+        "support": {},
+        "rank": {
+            "sword": 181
+        }
+    }
+}

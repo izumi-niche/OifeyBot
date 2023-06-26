@@ -1,0 +1,267 @@
+{
+    "fe13_healtouch": {
+        "name": "fe13_healtouch",
+        "id": 677298362852311061,
+        "animated": false
+    },
+    "fe13_vantageplus": {
+        "name": "fe13_vantageplus",
+        "id": 677299421268017163,
+        "animated": false
+    },
+    "fe13_acrobat": {
+        "name": "fe13_acrobat",
+        "id": 675890847115509801,
+        "animated": false
+    },
+    "fe13_allstatsplus2": {
+        "name": "fe13_allstatsplus2",
+        "id": 675890847618957335,
+        "animated": false
+    },
+    "fe13_aegisplus": {
+        "name": "fe13_aegisplus",
+        "id": 675890847702843395,
+        "animated": false
+    },
+    "fe13_avoidplus10": {
+        "name": "fe13_avoidplus10",
+        "id": 675890847744786433,
+        "animated": false
+    },
+    "fe13_armsthrift": {
+        "name": "fe13_armsthrift",
+        "id": 675890847870615592,
+        "animated": false
+    },
+    "bow": {
+        "name": "fe13_bow",
+        "id": 675890848189382682,
+        "animated": false
+    },
+    "fe13_dualguardplus": {
+        "name": "fe13_dualguardplus",
+        "id": 675890848193314818,
+        "animated": false
+    },
+    "fe13_anathema": {
+        "name": "fe13_anathema",
+        "id": 675890848247840798,
+        "animated": false
+    },
+    "fe13_conquest": {
+        "name": "fe13_conquest",
+        "id": 675890848248102956,
+        "animated": false
+    },
+    "fe13_deliverer": {
+        "name": "fe13_deliverer",
+        "id": 675890848256491548,
+        "animated": false
+    },
+    "fe13_bond": {
+        "name": "fe13_bond",
+        "id": 675890848327794728,
+        "animated": false
+    },
+    "fe13_despoil": {
+        "name": "fe13_despoil",
+        "id": 675890848386514957,
+        "animated": false
+    },
+    "fe13_dragonskin": {
+        "name": "fe13_dragonskin",
+        "id": 675890848415612928,
+        "animated": false
+    },
+    "fe13_evenrhythm": {
+        "name": "fe13_evenrhythm",
+        "id": 675890848520470559,
+        "animated": false
+    },
+    "fe13_dualsupportplus": {
+        "name": "fe13_dualsupportplus",
+        "id": 675890848566738979,
+        "animated": false
+    },
+    "fe13_dualstrikeplus": {
+        "name": "fe13_dualstrikeplus",
+        "id": 675890848604487730,
+        "animated": false
+    },
+    "fe13_indoorfighter": {
+        "name": "fe13_indoorfighter",
+        "id": 675890848650625083,
+        "animated": false
+    },
+    "fe13_hex": {
+        "name": "fe13_hex",
+        "id": 675890848755613737,
+        "animated": false
+    },
+    "fe13_focus": {
+        "name": "fe13_focus",
+        "id": 675890848768196608,
+        "animated": false
+    },
+    "fe13_hawkeye": {
+        "name": "fe13_hawkeye",
+        "id": 675890848793100298,
+        "animated": false
+    },
+    "fe13_hitrateplus10": {
+        "name": "fe13_hitrateplus10",
+        "id": 675890848826916913,
+        "animated": false
+    },
+    "fe13_hitrateplus20": {
+        "name": "fe13_hitrateplus20",
+        "id": 675890848856145965,
+        "animated": false
+    },
+    "fe13_lunaplus": {
+        "name": "fe13_lunaplus",
+        "id": 675890848881311755,
+        "animated": false
+    },
+    "fe13_iotesshield": {
+        "name": "fe13_iotesshield",
+        "id": 675890848927580229,
+        "animated": false
+    },
+    "fe13_paragon": {
+        "name": "fe13_paragon",
+        "id": 675890848990363660,
+        "animated": false
+    },
+    "fe13_outdoorfighter": {
+        "name": "fe13_outdoorfighter",
+        "id": 675890849044758561,
+        "animated": false
+    },
+    "lance": {
+        "name": "fe13_lance",
+        "id": 675890849049083934,
+        "animated": false
+    },
+    "axe": {
+        "name": "fe13_axe",
+        "id": 675890849065992202,
+        "animated": false
+    },
+    "fe13_limitbreaker": {
+        "name": "fe13_limitbreaker",
+        "id": 675890849086832640,
+        "animated": false
+    },
+    "fe13_quickburn": {
+        "name": "fe13_quickburn",
+        "id": 675890849174781980,
+        "animated": false
+    },
+    "fe13_oddrhythm": {
+        "name": "fe13_oddrhythm",
+        "id": 675890849212792842,
+        "animated": false
+    },
+    "fe13_patience": {
+        "name": "fe13_patience",
+        "id": 675890849321713692,
+        "animated": false
+    },
+    "fe13_prescience": {
+        "name": "fe13_prescience",
+        "id": 675890849392885778,
+        "animated": false
+    },
+    "fe13_resistanceplus10": {
+        "name": "fe13_resistanceplus10",
+        "id": 675890849527103489,
+        "animated": false
+    },
+    "fe13_rallyheart": {
+        "name": "fe13_rallyheart",
+        "id": 675890849535623179,
+        "animated": false
+    },
+    "sword": {
+        "name": "fe13_sword",
+        "id": 675890849543880747,
+        "animated": false
+    },
+    "fe13_rightfulking": {
+        "name": "fe13_rightfulking",
+        "id": 675890849586085968,
+        "animated": false
+    },
+    "fe13_rightfulgod": {
+        "name": "fe13_rightfulgod",
+        "id": 675890849590018058,
+        "animated": false
+    },
+    "fe13_wyrmsbane": {
+        "name": "fe13_wyrmsbane",
+        "id": 675890849611251754,
+        "animated": false
+    },
+    "fe13_specialdance": {
+        "name": "fe13_specialdance",
+        "id": 675890849858715659,
+        "animated": false
+    },
+    "tome": {
+        "name": "fe13_tome",
+        "id": 675890849908916254,
+        "animated": false
+    },
+    "fe13_discipline": {
+        "name": "fe13_discipline",
+        "id": 675890849913110579,
+        "animated": false
+    },
+    "staff": {
+        "name": "fe13_staff",
+        "id": 675890849917435925,
+        "animated": false
+    },
+    "fe13_wrath": {
+        "name": "fe13_wrath",
+        "id": 675890849946533918,
+        "animated": false
+    },
+    "fe13_slowburn": {
+        "name": "fe13_slowburn",
+        "id": 675890849959247873,
+        "animated": false
+    },
+    "fe13_zeal": {
+        "name": "fe13_zeal",
+        "id": 675890850047197184,
+        "animated": false
+    },
+    "fe13_veteran": {
+        "name": "fe13_veteran",
+        "id": 675890850055585793,
+        "animated": false
+    },
+    "fe13_tantivy": {
+        "name": "fe13_tantivy",
+        "id": 675890850240135200,
+        "animated": false
+    },
+    "fe13_paviseplus": {
+        "name": "fe13_paviseplus",
+        "id": 675890851221733377,
+        "animated": false
+    },
+    "stone": {
+        "name": "fe13_stone",
+        "id": 676176211776634900,
+        "animated": false
+    },
+    "fe13_gamble": {
+        "name": "fe13_gamble",
+        "id": 857259879697743912,
+        "animated": false
+    }
+}

@@ -1,0 +1,2988 @@
+{
+    "10elites": {
+        "name": "10 Elites",
+        "desc": "Grants power to the Mighty King of Legend.",
+        "icon": "195",
+        "reference": {}
+    },
+    "advocate": {
+        "name": "Advocate",
+        "desc": "Adjacent male allies deal 3 extra damage during combat.",
+        "icon": "95",
+        "reference": {
+            "Learned by": "Hilda (Personal ability)"
+        }
+    },
+    "aegis": {
+        "name": "Aegis",
+        "desc": "Chance to reduce bow/magic damage by half. Trigger % = Dex stat.",
+        "icon": "134",
+        "reference": {
+            "Class": "Paladin (Mastery)"
+        }
+    },
+    "agarthantechnology": {
+        "name": "Agarthan Technology",
+        "desc": "Adjacent foes deal 3 less damage during combat.",
+        "icon": "123",
+        "reference": {}
+    },
+    "alertstance": {
+        "name": "Alert Stance",
+        "desc": "If unit takes no action except Wait, grants Avo +15 for 1 turn.",
+        "icon": "196",
+        "reference": {
+            "Skill": "<:fe16_flying:712446188921553016>Flying (B)"
+        }
+    },
+    "alertstanceplus": {
+        "name": "Alert Stance+",
+        "desc": "If unit takes no action except Wait, grants Avo +30 for 1 turn.",
+        "icon": "197",
+        "reference": {
+            "Skill": "<:fe16_flying:712446188921553016>Flying (A+)"
+        }
+    },
+    "anchor": {
+        "name": "Anchor",
+        "desc": "Prevents unit from being moved.",
+        "icon": "181",
+        "reference": {}
+    },
+    "ancientdragonskin": {
+        "name": "Ancient Dragonskin",
+        "desc": "Halves all damage taken, negates some abilities and combat arts, and prevents unit from being moved.",
+        "icon": "186",
+        "reference": {
+            "Class": "Lord of the Desert (Class ability)\nLord of the Lake (Class ability)\nThe Immaculate One (Class ability)"
+        }
+    },
+    "ancientdragonwrath": {
+        "name": "Ancient Dragon Wrath",
+        "desc": "Calculates damage using the lower of foe's Prt or Rsl.",
+        "icon": "184",
+        "reference": {}
+    },
+    "animalfriend": {
+        "name": "Animal Friend",
+        "desc": "Unit recovers up to 20% of max HP at the start of each turn when adjacent to a cavalry or flying ally.",
+        "icon": "125",
+        "reference": {
+            "Learned by": "Marianne (Personal ability)"
+        }
+    },
+    "antimagicarmor": {
+        "name": "Anti-Magic Armor",
+        "desc": "Nullifies damage from magic attacks.",
+        "icon": "False",
+        "reference": {}
+    },
+    "aptitude": {
+        "name": "Aptitude",
+        "desc": "Makes each stat 20% more likely to increase on level up.",
+        "icon": "140",
+        "reference": {
+            "Learned by": "Cyril (Personal ability)"
+        }
+    },
+    "armoredblow": {
+        "name": "Armored Blow",
+        "desc": "If unit initiates combat, grants Def +6 during combat",
+        "icon": "90",
+        "reference": {
+            "Class": "Armored Knight (Mastery)\nLord of the Lake (Class ability)"
+        }
+    },
+    "armoredeffectnull": {
+        "name": "Armored Effect Null",
+        "desc": "Nullifies any extra effectiveness against armored units.",
+        "icon": "172",
+        "reference": {
+            "Skill": "<:fe16_armor:712446188665962497>Armor (S+)"
+        }
+    },
+    "authoritylv1": {
+        "name": "Authority Lv 1",
+        "desc": "Grants Mt +2 with gambits.",
+        "icon": "35",
+        "reference": {
+            "Skill": "<:fe16_authority:712446188640534568>Authority (E+)"
+        }
+    },
+    "authoritylv2": {
+        "name": "Authority Lv 2",
+        "desc": "Grants Mt +4 with gambits.",
+        "icon": "36",
+        "reference": {
+            "Skill": "<:fe16_authority:712446188640534568>Authority (D+)"
+        }
+    },
+    "authoritylv3": {
+        "name": "Authority Lv 3",
+        "desc": "Grants Mt +6 with gambits.",
+        "icon": "37",
+        "reference": {
+            "Skill": "<:fe16_authority:712446188640534568>Authority (C+)"
+        }
+    },
+    "authoritylv4": {
+        "name": "Authority Lv 4",
+        "desc": "Grants Mt +8 with gambits.",
+        "icon": "38",
+        "reference": {
+            "Skill": "<:fe16_authority:712446188640534568>Authority (B+)"
+        }
+    },
+    "authoritylv5": {
+        "name": "Authority Lv 5",
+        "desc": "Grants Mt +10 with gambits.",
+        "icon": "39",
+        "reference": {
+            "Skill": "<:fe16_authority:712446188640534568>Authority (A+)"
+        }
+    },
+    "avo10": {
+        "name": "Avo +10",
+        "desc": "Increases Avo by 10.",
+        "icon": "74",
+        "reference": {
+            "Class": "Falcon Knight (Class ability)\nGiant Bird (Class ability)\nLord of the Desert (Class ability)\nPegasus Knight (Class ability)\nWyvern Lord (Class ability)"
+        }
+    },
+    "axeavo20": {
+        "name": "Axe Avo +20",
+        "desc": "Grants Avo +20 when using an axe.",
+        "icon": "58",
+        "reference": {}
+    },
+    "axebreaker": {
+        "name": "Axebreaker",
+        "desc": "Grants Hit/Avo +20 when using a sword against axe users.",
+        "icon": "115",
+        "reference": {
+            "Skill": "<:fe16_sword:712446188841992194>Sword (B)"
+        }
+    },
+    "axecrit10": {
+        "name": "Axe Crit +10",
+        "desc": "Grants Crit +10 when using an axe.",
+        "icon": "50",
+        "reference": {
+            "Class": "Warrior (Class ability)",
+            "Skill": "<:fe16_axe:712446188758237285>Axe (S)"
+        }
+    },
+    "axefaire": {
+        "name": "Axefaire",
+        "desc": "Grants Atk +5 when using an axe.",
+        "icon": "42",
+        "reference": {
+            "Class": "Armored Lord (Class ability)\nEmperor (Class ability)\nFlame Emperor (Class ability)\nFortress Knight (Class ability)\nGreat Knight (Class ability)\nWar Master (Class ability)\nWarrior (Class ability)\nWyvern Lord (Class ability)\nWyvern Rider (Class ability)",
+            "Skill": "<:fe16_axe:712446188758237285>Axe (S+)"
+        }
+    },
+    "axeprowesslv1": {
+        "name": "Axe Prowess Lv 1",
+        "desc": "Grants Hit +7, Avo +5, and Crit Avo +5 when using an axe.",
+        "icon": "10",
+        "reference": {
+            "Skill": "<:fe16_axe:712446188758237285>Axe (E+)"
+        }
+    },
+    "axeprowesslv2": {
+        "name": "Axe Prowess Lv 2",
+        "desc": "Grants Hit +10, Avo +6, and Crit Avo +6 when using an axe.",
+        "icon": "11",
+        "reference": {
+            "Skill": "<:fe16_axe:712446188758237285>Axe (D+)"
+        }
+    },
+    "axeprowesslv3": {
+        "name": "Axe Prowess Lv 3",
+        "desc": "Grants Hit +13, Avo +7, and Crit Avo +7 when using an axe.",
+        "icon": "12",
+        "reference": {
+            "Skill": "<:fe16_axe:712446188758237285>Axe (C+)"
+        }
+    },
+    "axeprowesslv4": {
+        "name": "Axe Prowess Lv 4",
+        "desc": "Grants Hit +16, Avo +8, and Crit Avo +8 when using an axe.",
+        "icon": "13",
+        "reference": {
+            "Skill": "<:fe16_axe:712446188758237285>Axe (B+)"
+        }
+    },
+    "axeprowesslv5": {
+        "name": "Axe Prowess Lv 5",
+        "desc": "Grants Hit +20, Avo +10, and Crit Avo +10 when using an axe.",
+        "icon": "14",
+        "reference": {
+            "Skill": "<:fe16_axe:712446188758237285>Axe (A+)"
+        }
+    },
+    "battaliondesperation": {
+        "name": "Battalion Desperation",
+        "desc": "If unit initiates combat when battalion endurance is <= 1/3, unit's follow-up attack (if possible) occurs before foe's counterattack.",
+        "icon": "179",
+        "reference": {
+            "<:fe16_authority:712446188640534568>Learned by": "Ashe (C)\nBalthus (B)\nByleth (A)\nClaude (C)\nCyril (C)\nDorothea (C)\nFerdinand (C)\nHanneman (C)\nHubert (A)\nIgnatz (C)\nIngrid (C)\nJeritza (B)\nLeonie (C)\nLysithea (C)\nSeteth (A)\nShamir (C)"
+        }
+    },
+    "battalionrenewal": {
+        "name": "Battalion Renewal",
+        "desc": "Unit recovers up to 30% of max HP at the start of each turn while battalion endurance is <= 1/3.",
+        "icon": "190",
+        "reference": {
+            "<:fe16_authority:712446188640534568>Learned by": "Annette (C)\nEdelgard (A)\nFlayn (C)\nLinhardt (C)\nManuela (C)\nMarianne (C)\nMercedes (C)"
+        }
+    },
+    "battalionvantage": {
+        "name": "Battalion Vantage",
+        "desc": "When foe initiates combat, unit still attacks first if battalion endurance is <= 1/3.",
+        "icon": "188",
+        "reference": {
+            "<:fe16_authority:712446188640534568>Learned by": "Anna (C)\nByleth (C)\nCatherine (C)\nDimitri (A)\nEdelgard (C)\nFelix (C)\nIgnatz (A)\nLorenz (C)\nSylvain (C)\nYuri (C)"
+        }
+    },
+    "battalionwrath": {
+        "name": "Battalion Wrath",
+        "desc": "If foe initiates combat while unit's battalion endurance is <= 1/3, grants Crit +50.",
+        "icon": "189",
+        "reference": {
+            "<:fe16_authority:712446188640534568>Learned by": "Alois (C)\nAnnette (A)\nBernadetta (C)\nCaspar (C)\nClaude (A)\nDedue (C)\nDimitri (C)\nGilbert (C)\nHapi (C)\nHilda (C)\nHubert (C)\nJeritza (C)\nPetra (C)\nRaphael (C)\nSeteth (C)"
+        }
+    },
+    "blackmagicavo20": {
+        "name": "Black Magic Avo +20",
+        "desc": "Grants Avo +20 when using black magic.",
+        "icon": "61",
+        "reference": {
+            "<:fe16_reason:712446189089587311>Learned by": "Sylvain (Budding Talent)"
+        }
+    },
+    "blackmagiccrit10": {
+        "name": "Black Magic Crit +10",
+        "desc": "Grants Crit +10 when using black magic.",
+        "icon": "53",
+        "reference": {
+            "<:fe16_reason:712446189089587311>Learned by": "Balthus (Budding Talent)\nEdelgard (Budding Talent)\nFelix (Budding Talent)"
+        }
+    },
+    "blackmagicrange1": {
+        "name": "Black Magic Range +1",
+        "desc": "Increases black magic range by 1.",
+        "icon": "154",
+        "reference": {
+            "Class": "Valkyrie (Class ability)",
+            "Skill": "<:fe16_reason:712446189089587311>Reason (S)"
+        }
+    },
+    "blackmagicusesup": {
+        "name": "Black Magic Uses Up+",
+        "desc": "Quadruples the number of uses for black magic.",
+        "icon": "191",
+        "reference": {}
+    },
+    "blackmagicusesx2": {
+        "name": "Black Magic Uses x2",
+        "desc": "Doubles the number of uses for black magic.",
+        "icon": "158",
+        "reference": {
+            "Class": "Gremory (Class ability)\nVerrat (Class ability)\nWarlock (Class ability)"
+        }
+    },
+    "blacktomefaire": {
+        "name": "Black Tomefaire",
+        "desc": "Grants Atk +5 when using black magic.",
+        "icon": "45",
+        "reference": {
+            "Class": "Dark Flier (Class ability)\nDark Knight (Class ability)\nMortal Savant (Class ability)\nVerrat (Class ability)\nWarlock (Class ability)",
+            "Skill": "<:fe16_reason:712446189089587311>Reason (S+)"
+        }
+    },
+    "bladebreaker": {
+        "name": "Blade Breaker",
+        "desc": "If unit damages foe, foe suffers Str/Def -6 for 1 turn after combat.",
+        "icon": "127",
+        "reference": {
+            "Learned by": "Jeralt (Personal ability)"
+        }
+    },
+    "bornfighter": {
+        "name": "Born Fighter",
+        "desc": "Adjacent foes suffer Avo -10 during combat.",
+        "icon": "97",
+        "reference": {
+            "Learned by": "Caspar (Personal ability)"
+        }
+    },
+    "bowavo20": {
+        "name": "Bow Avo +20",
+        "desc": "Grants Avo +20 when using a bow.",
+        "icon": "59",
+        "reference": {}
+    },
+    "bowbreaker": {
+        "name": "Bowbreaker",
+        "desc": "Grants Hit/Avo +20 when using magic against bow users.",
+        "icon": "116",
+        "reference": {
+            "Class": "Warlock (Mastery)"
+        }
+    },
+    "bowcrit10": {
+        "name": "Bow Crit +10",
+        "desc": "Grants Crit +10 when using a bow.",
+        "icon": "51",
+        "reference": {
+            "Skill": "<:fe16_bow:712446188346933340>Bow (S)"
+        }
+    },
+    "bowfaire": {
+        "name": "Bowfaire",
+        "desc": "Grants Atk +5 when using a bow.",
+        "icon": "43",
+        "reference": {
+            "Class": "Barbarossa (Class ability)\nBow Knight (Class ability)\nSniper (Class ability)\nWyvern Master (Class ability)",
+            "Skill": "<:fe16_bow:712446188346933340>Bow (S+)"
+        }
+    },
+    "bowprowesslv1": {
+        "name": "Bow Prowess Lv 1",
+        "desc": "Grants Hit +6, Avo +6, and Crit Avo +5 when using a bow.",
+        "icon": "15",
+        "reference": {
+            "Skill": "<:fe16_bow:712446188346933340>Bow (E+)"
+        }
+    },
+    "bowprowesslv2": {
+        "name": "Bow Prowess Lv 2",
+        "desc": "Grants Hit +8, Avo +8, and Crit Avo +6 when using a bow.",
+        "icon": "16",
+        "reference": {
+            "Skill": "<:fe16_bow:712446188346933340>Bow (D+)"
+        }
+    },
+    "bowprowesslv3": {
+        "name": "Bow Prowess Lv 3",
+        "desc": "Grants Hit +10, Avo +10, and Crit Avo +7 when using a bow.",
+        "icon": "17",
+        "reference": {
+            "Skill": "<:fe16_bow:712446188346933340>Bow (C+)"
+        }
+    },
+    "bowprowesslv4": {
+        "name": "Bow Prowess Lv 4",
+        "desc": "Grants Hit +12, Avo +12, and Crit Avo +8 when using a bow.",
+        "icon": "18",
+        "reference": {
+            "Skill": "<:fe16_bow:712446188346933340>Bow (B+)"
+        }
+    },
+    "bowprowesslv5": {
+        "name": "Bow Prowess Lv 5",
+        "desc": "Grants Hit +15, Avo +15, and Crit Avo +10 when using a bow.",
+        "icon": "19",
+        "reference": {
+            "Skill": "<:fe16_bow:712446188346933340>Bow (A+)"
+        }
+    },
+    "bowrange1": {
+        "name": "Bowrange +1",
+        "desc": "Increases bow range by 1.",
+        "icon": "152",
+        "reference": {
+            "Class": "Archer (Class ability)\nSniper (Class ability)"
+        }
+    },
+    "bowrange2": {
+        "name": "Bowrange +2",
+        "desc": "Increases bow range by 2.",
+        "icon": "153",
+        "reference": {
+            "Class": "Bow Knight (Class ability)"
+        }
+    },
+    "brawlavo20": {
+        "name": "Brawl Avo +20",
+        "desc": "Grants Avo +20 when brawling.",
+        "icon": "60",
+        "reference": {
+            "Class": "War Cleric (Mastery)\nWar Monk (Mastery)"
+        }
+    },
+    "brawlcrit10": {
+        "name": "Brawl Crit +10",
+        "desc": "Grants Crit +10 when brawling.",
+        "icon": "52",
+        "reference": {
+            "Skill": "<:fe16_brawling:712446188720226344>Brawling (S)"
+        }
+    },
+    "brawlingprowesslv1": {
+        "name": "Brawling Prowess Lv 1",
+        "desc": "Grants Hit +5, Avo +7, and Crit Avo +5 when brawling.",
+        "icon": "20",
+        "reference": {
+            "Skill": "<:fe16_brawling:712446188720226344>Brawling (E+)"
+        }
+    },
+    "brawlingprowesslv2": {
+        "name": "Brawling Prowess Lv 2",
+        "desc": "Grants Hit +6, Avo +10, and Crit Avo +6 when brawling.",
+        "icon": "21",
+        "reference": {
+            "Skill": "<:fe16_brawling:712446188720226344>Brawling (D+)"
+        }
+    },
+    "brawlingprowesslv3": {
+        "name": "Brawling Prowess Lv 3",
+        "desc": "Grants Hit +7, Avo +13, and Crit Avo +7 when brawling.",
+        "icon": "22",
+        "reference": {
+            "Skill": "<:fe16_brawling:712446188720226344>Brawling (C+)"
+        }
+    },
+    "brawlingprowesslv4": {
+        "name": "Brawling Prowess Lv 4",
+        "desc": "Grants Hit +8, Avo +16, and Crit Avo +8 when brawling.",
+        "icon": "23",
+        "reference": {
+            "Skill": "<:fe16_brawling:712446188720226344>Brawling (B+)"
+        }
+    },
+    "brawlingprowesslv5": {
+        "name": "Brawling Prowess Lv 5",
+        "desc": "Grants Hit +10, Avo +20, and Crit Avo +10 when brawling.",
+        "icon": "24",
+        "reference": {
+            "Skill": "<:fe16_brawling:712446188720226344>Brawling (A+)"
+        }
+    },
+    "businessprosperity": {
+        "name": "Business Prosperity",
+        "desc": "Grants Lck +5.",
+        "icon": "69",
+        "reference": {
+            "Learned by": "Anna (Personal ability)"
+        }
+    },
+    "canto": {
+        "name": "Canto",
+        "desc": "Allows unit to move again after completing certain actions, if there is movement remaining.",
+        "icon": "150",
+        "reference": {
+            "Class": "Barbarossa (Class ability)\nBow Knight (Class ability)\nCavalier (Class ability)\nDark Flier (Class ability)\nDark Knight (Class ability)\nDeath Knight (Class ability)\nFalcon Knight (Class ability)\nGreat Knight (Class ability)\nHoly Knight (Class ability)\nPaladin (Class ability)\nPegasus Knight (Class ability)\nValkyrie (Class ability)\nWyvern Lord (Class ability)\nWyvern Master (Class ability)\nWyvern Rider (Class ability)"
+        }
+    },
+    "catnap": {
+        "name": "Catnap",
+        "desc": "If unit takes no action except Wait, recovers up to 10% of max HP.",
+        "icon": "125",
+        "reference": {
+            "Learned by": "Linhardt (Personal ability)"
+        }
+    },
+    "cavalryeffectnull": {
+        "name": "Cavalry Effect Null",
+        "desc": "Nullifies any extra effectiveness against cavalry units.",
+        "icon": "173",
+        "reference": {
+            "Skill": "<:fe16_riding:713346756645224478>Riding (S+)"
+        }
+    },
+    "charm": {
+        "name": "Charm",
+        "desc": "Adjacent allies deal 3 extra damage during combat.",
+        "icon": "94",
+        "reference": {
+            "Class": "Archbishop (Class ability)\nArmored Lord (Class ability)\nBarbarossa (Class ability)\nEmperor (Class ability)\nFlame Emperor (Class ability)\nGreat Lord (Class ability)\nHigh Lord (Class ability)\nLord (Class ability)\nSaint (Class ability)\nWyvern Master (Class ability)"
+        }
+    },
+    "circadianbeat": {
+        "name": "Circadian Beat",
+        "desc": "Grants Str/Mag +3 when indoors and Def/Res +3 when outdoors.",
+        "icon": "207",
+        "reference": {
+            "Learned by": "Constance (Personal ability)"
+        }
+    },
+    "closecounter": {
+        "name": "Close Counter",
+        "desc": "Allows unit to counterattack adjacent foes.",
+        "icon": "198",
+        "reference": {
+            "Skill": "<:fe16_bow:712446188346933340>Bow (C)"
+        }
+    },
+    "commander": {
+        "name": "Commander",
+        "desc": "Nullifies instant death effects, status effects, and movement effects, and greatly reduces damage from enemy gambits.",
+        "icon": "168",
+        "reference": {
+            "Class": "Archbishop (Class ability)\nGuardian Golem (Class ability)\nHegemon Husk (Class ability)\nKing of Liberation (Class ability)\nSaint (Class ability)"
+        }
+    },
+    "compassion": {
+        "name": "Compassion",
+        "desc": "Use Rally to grant Lck +8 to an ally.",
+        "icon": "105",
+        "reference": {
+            "Learned by": "Alois (Personal ability)"
+        }
+    },
+    "confidence": {
+        "name": "Confidence",
+        "desc": "Grants Hit/Avo +15 when unit is at full HP.",
+        "icon": "127",
+        "reference": {
+            "Learned by": "Ferdinand (Personal ability)"
+        }
+    },
+    "counterattack": {
+        "name": "Counterattack",
+        "desc": "Allows unit to counterattack regardless of distance to attacker.",
+        "icon": "182",
+        "reference": {
+            "Class": "Death Knight (Mastery)\nLord of the Desert (Class ability)\nLord of the Lake (Class ability)\nThe Immaculate One (Class ability)\nUmbral Beast (Class ability)"
+        }
+    },
+    "crestscholar": {
+        "name": "Crest Scholar",
+        "desc": "Use Rally to grant Mag +4 to an ally.",
+        "icon": "99",
+        "reference": {
+            "Learned by": "Hanneman (Personal ability)"
+        }
+    },
+    "crit20": {
+        "name": "Crit +20",
+        "desc": "Increases Crit by 20.",
+        "icon": "75",
+        "reference": {
+            "Class": "War Master (Class ability)"
+        }
+    },
+    "cursedpower": {
+        "name": "Cursed Power",
+        "desc": "Unit recovers HP on swamp terrain.",
+        "icon": "180",
+        "reference": {}
+    },
+    "dance": {
+        "name": "Dance",
+        "desc": "Use Dance to allow an ally to move again.",
+        "icon": "146",
+        "reference": {
+            "Class": "Dancer (Class ability)"
+        }
+    },
+    "darkmagicavo20": {
+        "name": "Dark Magic Avo +20",
+        "desc": "When using dark magic, Grants Avo +20 .",
+        "icon": "63",
+        "reference": {}
+    },
+    "darkmagiccrit10": {
+        "name": "Dark Magic Crit +10",
+        "desc": "When using dark magic, Grants Crit +10 .",
+        "icon": "55",
+        "reference": {}
+    },
+    "darkmagicrange1": {
+        "name": "Dark Magic Range +1",
+        "desc": "Increases dark magic range by 1.",
+        "icon": "155",
+        "reference": {
+            "Class": "Valkyrie (Class ability)"
+        }
+    },
+    "darkmagicusesx2": {
+        "name": "Dark Magic Uses x2",
+        "desc": "Doubles the number of uses for dark magic.",
+        "icon": "159",
+        "reference": {
+            "Class": "Gremory (Class ability)"
+        }
+    },
+    "darkmagicusesx4": {
+        "name": "Dark Magic Uses x4",
+        "desc": "Quadruples the number of uses for dark magic.",
+        "icon": "192",
+        "reference": {}
+    },
+    "darktomefaire": {
+        "name": "Dark Tomefaire",
+        "desc": "Grants Atk +5 when using dark magic.",
+        "icon": "47",
+        "reference": {
+            "Class": "Dark Knight (Class ability)"
+        }
+    },
+    "dartingblow": {
+        "name": "Darting Blow",
+        "desc": "If unit initiates combat, grants AS +6 during combat",
+        "icon": "89",
+        "reference": {
+            "<:fe16_flying:712446188921553016>Learned by": "Jeritza (Budding Talent)",
+            "Class": "Pegasus Knight (Mastery)"
+        }
+    },
+    "deathblow": {
+        "name": "Death Blow",
+        "desc": "If unit initiates combat, grants Str +6 during combat.",
+        "icon": "87",
+        "reference": {
+            "Class": "Brigand (Mastery)"
+        }
+    },
+    "defense2": {
+        "name": "Defense +2",
+        "desc": "Increases Def by 2.",
+        "icon": "70",
+        "reference": {
+            "Class": "Soldier (Mastery)"
+        }
+    },
+    "defensivetactics": {
+        "name": "Defensive Tactics",
+        "desc": "Battalion endurance takes half damage.",
+        "icon": "120",
+        "reference": {
+            "Skill": "<:fe16_authority:712446188640534568>Authority (B)"
+        }
+    },
+    "defiantavo": {
+        "name": "Defiant Avo",
+        "desc": "Grants Avo +30 when HP is <= 25%.",
+        "icon": "81",
+        "reference": {
+            "Class": "Falcon Knight (Mastery)"
+        }
+    },
+    "defiantcrit": {
+        "name": "Defiant Crit",
+        "desc": "Grants Crit +50 when HP is <= 25%.",
+        "icon": "82",
+        "reference": {
+            "Class": "Giant Wolf (Class ability)\nWyvern Lord (Mastery)"
+        }
+    },
+    "defiantdef": {
+        "name": "Defiant Def",
+        "desc": "Grants Def +8 when HP is <= 25%.",
+        "icon": "79",
+        "reference": {
+            "Class": "Giant Demonic Beast (Class ability)\nGreat Knight (Mastery)"
+        }
+    },
+    "defiantmag": {
+        "name": "Defiant Mag",
+        "desc": "Grants Mag +8 when HP is <= 25%.",
+        "icon": "77",
+        "reference": {
+            "Class": "Gremory (Mastery)"
+        }
+    },
+    "defiantres": {
+        "name": "Defiant Res",
+        "desc": "Grants Res +8 when HP is <= 25%.",
+        "icon": "80",
+        "reference": {
+            "Class": "Holy Knight (Mastery)"
+        }
+    },
+    "defiantspd": {
+        "name": "Defiant Spd",
+        "desc": "Grants Spd +8 when HP is <= 25%.",
+        "icon": "78",
+        "reference": {
+            "Class": "Bow Knight (Mastery)\nGiant Bird (Class ability)"
+        }
+    },
+    "defiantstr": {
+        "name": "Defiant Str",
+        "desc": "Grants Str +8 when HP is <= 25%.",
+        "icon": "76",
+        "reference": {
+            "Class": "Giant Demonic Beast (Class ability)\nHero (Mastery)"
+        }
+    },
+    "desperation": {
+        "name": "Desperation",
+        "desc": "If unit initiates combat with HP <= 50%, unit's follow-up attack (if possible) occurs before foe's counterattack.",
+        "icon": "143",
+        "reference": {
+            "Class": "Cavalier (Mastery)"
+        }
+    },
+    "dexterity4": {
+        "name": "Dexterity +4",
+        "desc": "Increases Dex by 4.",
+        "icon": "67",
+        "reference": {
+            "Skill": "<:fe16_riding:713346756645224478>Riding (C)"
+        }
+    },
+    "discipline": {
+        "name": "Discipline",
+        "desc": "Doubles skill experience earned in battle.",
+        "icon": "86",
+        "reference": {}
+    },
+    "distinguishedhouse": {
+        "name": "Distinguished House",
+        "desc": "Unit deals 2 extra damage while in formation with a battalion.",
+        "icon": "93",
+        "reference": {
+            "Learned by": "Lorenz (Personal ability)"
+        }
+    },
+    "divinedragonhorn": {
+        "name": "Divine Dragon Horn",
+        "desc": "Unit recovers 100% of HP at the start of each turn if a White Beast is within 10 spaces.",
+        "icon": "False",
+        "reference": {}
+    },
+    "dragoneffectnull": {
+        "name": "Dragon Effect Null",
+        "desc": "Cancels effectiveness against dragons.",
+        "icon": "175",
+        "reference": {}
+    },
+    "duelistsblow": {
+        "name": "Duelist's Blow",
+        "desc": "If unit initiates combat, grants Avo +20 during combat.",
+        "icon": "212",
+        "reference": {
+            "Class": "Trickster (Mastery)"
+        }
+    },
+    "effectnull": {
+        "name": "Effect Null",
+        "desc": "Cancels all types of effectiveness.",
+        "icon": "177",
+        "reference": {}
+    },
+    "enhancedfortitude": {
+        "name": "Enhanced Fortitude",
+        "desc": "Halves all damage taken, negates some abilities and combat arts, and prevents unit from being moved.",
+        "icon": "211",
+        "reference": {
+            "Class": "Umbral Beast (Class ability)"
+        }
+    },
+    "faithlv1": {
+        "name": "Faith Lv 1",
+        "desc": "Grants Hit +5, Avo +7, and Crit Avo +5 when using white magic.",
+        "icon": "30",
+        "reference": {
+            "Skill": "<:fe16_faith:712446188783140944>Faith (E+)"
+        }
+    },
+    "faithlv2": {
+        "name": "Faith Lv 2",
+        "desc": "Grants Hit +6, Avo +10, and Crit Avo +6 when using white magic.",
+        "icon": "31",
+        "reference": {
+            "Skill": "<:fe16_faith:712446188783140944>Faith (D+)"
+        }
+    },
+    "faithlv3": {
+        "name": "Faith Lv 3",
+        "desc": "Grants Hit +7, Avo +13, and Crit Avo +7 when using white magic.",
+        "icon": "32",
+        "reference": {
+            "Skill": "<:fe16_faith:712446188783140944>Faith (C+)"
+        }
+    },
+    "faithlv4": {
+        "name": "Faith Lv 4",
+        "desc": "Grants Hit +8, Avo +16, and Crit Avo +8 when using white magic.",
+        "icon": "33",
+        "reference": {
+            "Skill": "<:fe16_faith:712446188783140944>Faith (B+)"
+        }
+    },
+    "faithlv5": {
+        "name": "Faith Lv 5",
+        "desc": "Grants Hit +10, Avo +20, and Crit Avo +10 when using white magic.",
+        "icon": "34",
+        "reference": {
+            "Skill": "<:fe16_faith:712446188783140944>Faith (A+)"
+        }
+    },
+    "fiendishblow": {
+        "name": "Fiendish Blow",
+        "desc": "If unit initiates combat, grants Mag +6 during combat",
+        "icon": "88",
+        "reference": {
+            "Class": "Dark Bishop (Class ability)\nMage (Mastery)\nVerrat (Class ability)"
+        }
+    },
+    "fightingspirit": {
+        "name": "Fighting Spirit",
+        "desc": "Unit takes 5 less damage when no battalion is assigned or when battalion endurance is 0.",
+        "icon": "127",
+        "reference": {
+            "Learned by": "Catherine (Personal ability)"
+        }
+    },
+    "fire": {
+        "name": "Fire",
+        "desc": "Allows unit to cast Fire. If Fire is already available, then unit can cast it twice as often.",
+        "icon": "122",
+        "reference": {
+            "Class": "Mage (Class ability)"
+        }
+    },
+    "fistbreaker": {
+        "name": "Fistbreaker",
+        "desc": "Grants Hit/Avo +20 when using a bow against brawlers.",
+        "icon": "117",
+        "reference": {}
+    },
+    "fistfaire": {
+        "name": "Fistfaire",
+        "desc": "Grants Atk +5 when brawling.",
+        "icon": "44",
+        "reference": {
+            "Class": "Grappler (Class ability)\nWar Cleric (Class ability)\nWar Master (Class ability)\nWar Monk (Class ability)",
+            "Skill": "<:fe16_brawling:712446188720226344>Brawling (S+)"
+        }
+    },
+    "flyingeffectnull": {
+        "name": "Flying Effect Null",
+        "desc": "Nullifies any extra effectiveness against fliers.",
+        "icon": "174",
+        "reference": {
+            "Skill": "<:fe16_flying:712446188921553016>Flying (S+)"
+        }
+    },
+    "general": {
+        "name": "General",
+        "desc": "Nullifies instant death effects and halves damage from enemy gambits.",
+        "icon": "167",
+        "reference": {}
+    },
+    "giantwings": {
+        "name": "Giant Wings",
+        "desc": "Grants Avo +30 against sword, lance, or axe users.",
+        "icon": "False",
+        "reference": {}
+    },
+    "goodybasket": {
+        "name": "Goody Basket",
+        "desc": "Chance to recover up to 10% of max HP at the start of each turn. Trigger % = Lck stat.",
+        "icon": "125",
+        "reference": {
+            "Learned by": "Raphael (Personal ability)"
+        }
+    },
+    "guardian": {
+        "name": "Guardian",
+        "desc": "Adjacent female allies deal 3 extra damage during combat.",
+        "icon": "95",
+        "reference": {
+            "Learned by": "Seteth (Personal ability)"
+        }
+    },
+    "heal": {
+        "name": "Heal",
+        "desc": "Allows unit to cast Heal. If Heal is already available, then unit can cast it twice as often.",
+        "icon": "124",
+        "reference": {
+            "Class": "Priest (Class ability)\nWar Cleric (Class ability)\nWar Monk (Class ability)"
+        }
+    },
+    "heartseeker": {
+        "name": "Heartseeker",
+        "desc": "Adjacent foes suffer Avo -20 during combat.",
+        "icon": "97",
+        "reference": {
+            "Class": "Altered Demonic Beast (Class ability)\nDark Bishop (Class ability)\nDark Mage (Class ability)\nKing of Liberation (Class ability)\nWandering Beast (Class ability)"
+        }
+    },
+    "hit20": {
+        "name": "Hit +20",
+        "desc": "Increases Hit by 20.",
+        "icon": "73",
+        "reference": {
+            "Class": "Archer (Mastery)"
+        }
+    },
+    "honorablespirit": {
+        "name": "Honorable Spirit",
+        "desc": "If unit is not near an ally, grants Atk +3 when in combat with a foe one space away.",
+        "icon": "205",
+        "reference": {
+            "Learned by": "Yuri (Personal ability)"
+        }
+    },
+    "hp5": {
+        "name": "HP +5",
+        "desc": "Increases maximum HP by 5.",
+        "icon": "64",
+        "reference": {
+            "Class": "Commoner (Mastery)\nNoble (Mastery)"
+        }
+    },
+    "huntersboon": {
+        "name": "Hunter's Boon",
+        "desc": "Grants Crit +20 when foe's HP is <= 50%.",
+        "icon": "127",
+        "reference": {
+            "Learned by": "Petra (Personal ability)"
+        }
+    },
+    "immunestatus": {
+        "name": "Immune Status",
+        "desc": "Nullifies status effects and debuffs.",
+        "icon": "166",
+        "reference": {}
+    },
+    "imperiallineage": {
+        "name": "Imperial Lineage",
+        "desc": "Multiplies experience earned by 1.2.",
+        "icon": "83",
+        "reference": {
+            "Learned by": "Edelgard (Personal ability)"
+        }
+    },
+    "imperiallineage+": {
+        "name": "Imperial Lineage+",
+        "desc": "If unit takes no action except Wait, grants Res +4 for 1 turn. Multiplies experience earned by 1.2.",
+        "icon": "83",
+        "reference": {
+            "Learned by": "Edelgard (Personal ability)"
+        }
+    },
+    "infantryeffectnull": {
+        "name": "Infantry Effect Null",
+        "desc": "Cancels effectiveness against infantry units.",
+        "icon": "171",
+        "reference": {}
+    },
+    "infinitemagic": {
+        "name": "Infinite Magic",
+        "desc": "Removes the limitation on the number of times magic can be used.",
+        "icon": "169",
+        "reference": {}
+    },
+    "infirmarymaster": {
+        "name": "Infirmary Master",
+        "desc": "Adjacent allies gain Crit Avo +10 during combat.",
+        "icon": "95",
+        "reference": {
+            "Learned by": "Manuela (Personal ability)"
+        }
+    },
+    "keenintuition": {
+        "name": "Keen Intuition",
+        "desc": "Grants Avo +30 during combat with a foe 2 or more spaces away.",
+        "icon": "187",
+        "reference": {}
+    },
+    "kingofgrappling": {
+        "name": "King of Grappling",
+        "desc": "Grants Str/Def +6 when HP is <=50%.",
+        "icon": "206",
+        "reference": {
+            "Learned by": "Balthus (Personal ability)"
+        }
+    },
+    "ladyknight": {
+        "name": "Lady Knight",
+        "desc": "Grants Mt +3 and Hit +5 with gambits.",
+        "icon": "92",
+        "reference": {
+            "Learned by": "Ingrid (Personal ability)"
+        }
+    },
+    "lanceavo20": {
+        "name": "Lance Avo +20",
+        "desc": "When using a lance, Grants Avo +20 .",
+        "icon": "57",
+        "reference": {}
+    },
+    "lancebreaker": {
+        "name": "Lancebreaker",
+        "desc": "Grants Hit/Avo +20 when using an axe against lance users.",
+        "icon": "114",
+        "reference": {
+            "Skill": "<:fe16_axe:712446188758237285>Axe (B)"
+        }
+    },
+    "lancecrit10": {
+        "name": "Lance Crit +10",
+        "desc": "Grants Crit +10 when using a lance.",
+        "icon": "49",
+        "reference": {
+            "Skill": "<:fe16_lance:712446188619563049>Lance (S)"
+        }
+    },
+    "lancefaire": {
+        "name": "Lancefaire",
+        "desc": "Grants Atk +5 when using a lance.",
+        "icon": "41",
+        "reference": {
+            "Class": "Death Knight (Class ability)\nFalcon Knight (Class ability)\nGreat Knight (Class ability)\nGreat Lord (Class ability)\nHigh Lord (Class ability)\nPaladin (Class ability)",
+            "Skill": "<:fe16_lance:712446188619563049>Lance (S+)"
+        }
+    },
+    "lanceprowesslv1": {
+        "name": "Lance Prowess Lv 1",
+        "desc": "Grants Hit +6, Avo +6, and Crit Avo +5 when using a lance.",
+        "icon": "5",
+        "reference": {
+            "Skill": "<:fe16_lance:712446188619563049>Lance (E+)"
+        }
+    },
+    "lanceprowesslv2": {
+        "name": "Lance Prowess Lv 2",
+        "desc": "Grants Hit +8, Avo +8, and Crit Avo +6 when using a lance.",
+        "icon": "6",
+        "reference": {
+            "Class": "Altered Golem (Class ability)\nGolem (Class ability)",
+            "Skill": "<:fe16_lance:712446188619563049>Lance (D+)"
+        }
+    },
+    "lanceprowesslv3": {
+        "name": "Lance Prowess Lv 3",
+        "desc": "Grants Hit +10, Avo +10, and Crit Avo +7 when using a lance.",
+        "icon": "7",
+        "reference": {
+            "Skill": "<:fe16_lance:712446188619563049>Lance (C+)"
+        }
+    },
+    "lanceprowesslv4": {
+        "name": "Lance Prowess Lv 4",
+        "desc": "Grants Hit +12, Avo +12, and Crit Avo +8 when using a lance.",
+        "icon": "8",
+        "reference": {
+            "Skill": "<:fe16_lance:712446188619563049>Lance (B+)"
+        }
+    },
+    "lanceprowesslv5": {
+        "name": "Lance Prowess Lv 5",
+        "desc": "Grants Hit +15, Avo +15, and Crit Avo +10 when using a lance.",
+        "icon": "9",
+        "reference": {
+            "Class": "Guardian Golem (Class ability)",
+            "Skill": "<:fe16_lance:712446188619563049>Lance (A+)"
+        }
+    },
+    "leicesterlineage": {
+        "name": "Leicester Lineage",
+        "desc": "Multiplies experience earned by 1.2.",
+        "icon": "85",
+        "reference": {
+            "Learned by": "Claude (Personal ability)"
+        }
+    },
+    "leicesterlineage+": {
+        "name": "Leicester Lineage+",
+        "desc": "Allows unit to pass through spaces occupied by foes. Multiplies experience earned by 1.2.",
+        "icon": "85",
+        "reference": {
+            "Learned by": "Claude (Personal ability)"
+        }
+    },
+    "lethality": {
+        "name": "Lethality",
+        "desc": "Chance to instantly kill a foe when dealing damage. Trigger % = 0.25 * Dex.",
+        "icon": "131",
+        "reference": {
+            "Class": "Assassin (Mastery)"
+        }
+    },
+    "lifetaker": {
+        "name": "Lifetaker",
+        "desc": "Unit recovers HP equal to 50% of damage dealt after defeating a foe.",
+        "icon": "130",
+        "reference": {
+            "Class": "Dark Bishop (Mastery)"
+        }
+    },
+    "lilyspoise": {
+        "name": "Lily's Poise",
+        "desc": "Adjacent allies take 3 less damage during combat.",
+        "icon": "95",
+        "reference": {
+            "Learned by": "Flayn (Personal ability)"
+        }
+    },
+    "livetoserve": {
+        "name": "Live to Serve",
+        "desc": "When healing an ally with white magic, unit recovers the same amount of HP.",
+        "icon": "129",
+        "reference": {
+            "Learned by": "Mercedes (Personal ability)"
+        }
+    },
+    "lockpick": {
+        "name": "Lockpick",
+        "desc": "Allows unit to open doors and chests without keys.",
+        "icon": "148",
+        "reference": {
+            "Learned by": "Ashe (Personal ability)"
+        }
+    },
+    "locktouch": {
+        "name": "Locktouch",
+        "desc": "Allows unit to open doors and chests without keys.",
+        "icon": "148",
+        "reference": {
+            "Class": "Assassin (Class ability)\nThief (Class ability)\nTrickster (Class ability)"
+        }
+    },
+    "lonewolf": {
+        "name": "Lone Wolf",
+        "desc": "Unit deals 5 extra damage when no battalion is assigned or when battalion endurance is 0.",
+        "icon": "127",
+        "reference": {
+            "Learned by": "Felix (Personal ability)"
+        }
+    },
+    "luckyseven": {
+        "name": "Lucky Seven",
+        "desc": "Each turn, grants +5 to one of the following stats: Str, Mag, Spd, Def, Res, Hit, or Avo.",
+        "icon": "203",
+        "reference": {
+            "Class": "Trickster (Class ability)"
+        }
+    },
+    "magic2": {
+        "name": "Magic +2",
+        "desc": "Increases Mag by 2.",
+        "icon": "66",
+        "reference": {
+            "Class": "Monk (Mastery)"
+        }
+    },
+    "magicbind": {
+        "name": "Magic Bind",
+        "desc": "If unit lands a hit, targeted foe is unable to use magic for 1 turn.",
+        "icon": "170",
+        "reference": {
+            "Class": "Wandering Beast (Class ability)"
+        }
+    },
+    "manifestphantom": {
+        "name": "Manifest Phantom",
+        "desc": "Unit births phantoms.",
+        "icon": "210",
+        "reference": {
+            "Class": "Umbral Beast (Class ability)"
+        }
+    },
+    "mastermind": {
+        "name": "Mastermind",
+        "desc": "Doubles skill experience earned in battle.",
+        "icon": "86",
+        "reference": {
+            "<:fe16_sword:712446188841992194>Learned by": "Jeritza (E+)\nLysithea (Personal ability)"
+        }
+    },
+    "miasmadelta": {
+        "name": "Miasma",
+        "desc": "Allows unit to cast Miasma. If Miasma is already available, then unit can cast it twice as often.",
+        "icon": "123",
+        "reference": {
+            "Class": "Dark Bishop (Class ability)\nDark Mage (Class ability)"
+        }
+    },
+    "mightykingoflegend": {
+        "name": "Mighty King of Legend",
+        "desc": "Negates 1 attack per turn and strengthens stats while the 10 Elites are present.",
+        "icon": "194",
+        "reference": {}
+    },
+    "miracle": {
+        "name": "Miracle",
+        "desc": "Chance to survive lethal damage with 1 HP, if HP is > 1. Trigger % = Lck stat.",
+        "icon": "135",
+        "reference": {
+            "Class": "Priest (Mastery)"
+        }
+    },
+    "modelleader": {
+        "name": "Model Leader",
+        "desc": "Doubles experience earned for battalions.",
+        "icon": "119",
+        "reference": {
+            "<:fe16_authority:712446188640534568>Learned by": "Byleth (C+)\nClaude (C+)\nDimitri (C+)\nEdelgard (C+)\nSeteth (C+)\nYuri (C+)"
+        }
+    },
+    "monstereffectnull": {
+        "name": "Monster Effect Null",
+        "desc": "Nullifies any extra effectiveness against monsters.",
+        "icon": "176",
+        "reference": {
+            "Class": "Hegemon Husk (Class ability)"
+        }
+    },
+    "monstrousappeal": {
+        "name": "Monstrous Appeal",
+        "desc": "Makes all attacks effective against monsters and makes it easier for monsters to target unit.",
+        "icon": "208",
+        "reference": {
+            "Learned by": "Hapi (Personal ability)"
+        }
+    },
+    "movement1": {
+        "name": "Movement +1",
+        "desc": "Increases Mv by 1.",
+        "icon": "72",
+        "reference": {
+            "Skill": "<:fe16_riding:713346756645224478>Riding (A+)"
+        }
+    },
+    "murderousintent": {
+        "name": "Murderous Intent",
+        "desc": "If unit initiates combat, grants Hit +20 during combat.",
+        "icon": "97",
+        "reference": {
+            "Learned by": "Jeritza (Personal ability)"
+        }
+    },
+    "noncombatant": {
+        "name": "Noncombatant",
+        "desc": "Unit cannot be targeted by foes.",
+        "icon": "178",
+        "reference": {}
+    },
+    "offensivetactics": {
+        "name": "Offensive Tactics",
+        "desc": "Grants Mt +5 and Hit +20 with gambits.",
+        "icon": "121",
+        "reference": {
+            "Skill": "<:fe16_authority:712446188640534568>Authority (S+)"
+        }
+    },
+    "officerduty": {
+        "name": "Officer Duty",
+        "desc": "Grants Mt +5 with gambits.",
+        "icon": "92",
+        "reference": {
+            "Learned by": "Hubert (Personal ability)"
+        }
+    },
+    "paragon": {
+        "name": "Paragon",
+        "desc": "Doubles experience earned.",
+        "icon": "138",
+        "reference": {}
+    },
+    "pass": {
+        "name": "Pass",
+        "desc": "Allows unit to pass through spaces occupied by foes.",
+        "icon": "151",
+        "reference": {
+            "<:fe16_riding:713346756645224478>Learned by": "Anna (Budding Talent)\nBernadetta (Budding Talent)",
+            "Class": "Giant Wolf (Class ability)"
+        }
+    },
+    "pavise": {
+        "name": "Pavise",
+        "desc": "Chance to reduce sword/lance/axe/brawling damage by half. Trigger % = Dex stat.",
+        "icon": "133",
+        "reference": {
+            "Class": "Fortress Knight (Mastery)"
+        }
+    },
+    "persecutioncomplex": {
+        "name": "Persecution Complex",
+        "desc": "Grants Atk +5 when unit is not at full HP.",
+        "icon": "127",
+        "reference": {
+            "Learned by": "Bernadetta (Personal ability)"
+        }
+    },
+    "perseverance": {
+        "name": "Perseverance",
+        "desc": "Use Rally to grant Str +4 to an ally.",
+        "icon": "98",
+        "reference": {
+            "Learned by": "Annette (Personal ability)"
+        }
+    },
+    "philanderer": {
+        "name": "Philanderer",
+        "desc": "If a female ally is adjacent, unit deals 2 extra damage and takes 2 less damage during combat.",
+        "icon": "96",
+        "reference": {
+            "Learned by": "Sylvain (Personal ability)"
+        }
+    },
+    "poison": {
+        "name": "Poison",
+        "desc": "Chance to inflict poison on foe when dealing damage. Trigger % = Dex stat.",
+        "icon": "132",
+        "reference": {
+            "Class": "Wild Demonic Beast (Class ability)"
+        }
+    },
+    "poisonstrike": {
+        "name": "Poison Strike",
+        "desc": "If unit initiates combat and lands a hit, targeted foe loses up to 20% of max HP after combat.",
+        "icon": "128",
+        "reference": {
+            "Class": "Dark Mage (Mastery)\nWild Demonic Beast (Class ability)"
+        }
+    },
+    "pompcircumstance": {
+        "name": "Pomp & Circumstance",
+        "desc": "Grants Lck/Cha +4.",
+        "icon": "69",
+        "reference": {
+            "Class": "Armored Lord (Mastery)\nHigh Lord (Mastery)\nWyvern Master (Mastery)"
+        }
+    },
+    "professorsguidance": {
+        "name": "Professor's Guidance",
+        "desc": "Multiplies this unit's and adjacent allies' experience earned by 1.2.",
+        "icon": "139",
+        "reference": {
+            "Learned by": "Byleth (Personal ability)"
+        }
+    },
+    "professorsguidance+": {
+        "name": "Professor's Guidance+",
+        "desc": "Unit deals 2 extra damage during combat. Multiplies this unit's and adjacent allies' experience earned by 1.2.",
+        "icon": "139",
+        "reference": {
+            "Learned by": "Byleth (Personal ability)"
+        }
+    },
+    "quickriposte": {
+        "name": "Quick Riposte",
+        "desc": "If foe initiates combat while unit's HP is >= 50%, unit makes guaranteed follow-up attack.",
+        "icon": "144",
+        "reference": {
+            "Class": "War Master (Mastery)"
+        }
+    },
+    "rallycharm": {
+        "name": "Rally Charm",
+        "desc": "Use Rally to grant Cha +8 to an ally.",
+        "icon": "106",
+        "reference": {
+            "<:fe16_authority:712446188640534568>Learned by": "Claude (S)\nDimitri (S)\nDorothea (D)\nEdelgard (S)\nManuela (D)"
+        }
+    },
+    "rallydefense": {
+        "name": "Rally Defense",
+        "desc": "Use Rally to grant Def +4 to an ally.",
+        "icon": "101",
+        "reference": {
+            "<:fe16_authority:712446188640534568>Learned by": "Gilbert (D)\nSeteth (D)"
+        }
+    },
+    "rallydexterity": {
+        "name": "Rally Dexterity",
+        "desc": "Use Rally to grant Dex +8 to an ally.",
+        "icon": "104",
+        "reference": {
+            "<:fe16_authority:712446188640534568>Learned by": "Ferdinand (D)\nHapi (D)\nIgnatz (C+)"
+        }
+    },
+    "rallyluck": {
+        "name": "Rally Luck",
+        "desc": "Use Rally to grant Lck +8 to an ally.",
+        "icon": "105",
+        "reference": {
+            "<:fe16_authority:712446188640534568>Learned by": "Anna (D)\nFlayn (D)"
+        }
+    },
+    "rallymagic": {
+        "name": "Rally Magic",
+        "desc": "Use Rally to grant Mag +4 to an ally.",
+        "icon": "99",
+        "reference": {
+            "<:fe16_authority:712446188640534568>Learned by": "Constance (D)\nHubert (D)\nIngrid (D)"
+        }
+    },
+    "rallymovement": {
+        "name": "Rally Movement",
+        "desc": "Use Rally to grant Mv +1 to an ally.",
+        "icon": "103",
+        "reference": {
+            "<:fe16_authority:712446188640534568>Learned by": "Annette (S)\nByleth (S)"
+        }
+    },
+    "rallyresistance": {
+        "name": "Rally Resistance",
+        "desc": "Use Rally to grant Res +4 to an ally.",
+        "icon": "102",
+        "reference": {
+            "<:fe16_authority:712446188640534568>Learned by": "Annette (D)\nConstance (C)\nHubert (C+)\nSeteth (S)"
+        }
+    },
+    "rallyspeed": {
+        "name": "Rally Speed",
+        "desc": "Use Rally to grant Spd +4 to an ally.",
+        "icon": "100",
+        "reference": {
+            "<:fe16_authority:712446188640534568>Learned by": "Annette (C+)\nHubert (S)\nIgnatz (D)"
+        }
+    },
+    "rallystrength": {
+        "name": "Rally Strength",
+        "desc": "Use Rally to grant Str +4 to an ally.",
+        "icon": "98",
+        "reference": {
+            "<:fe16_authority:712446188640534568>Learned by": "Alois (D)\nBalthus (D)\nIgnatz (S)\nRaphael (D)"
+        }
+    },
+    "reasonlv1": {
+        "name": "Reason Lv 1",
+        "desc": "Grants Hit +7, Avo +5, and Crit Avo +5 when using black or dark magic.",
+        "icon": "25",
+        "reference": {
+            "Skill": "<:fe16_reason:712446189089587311>Reason (E+)"
+        }
+    },
+    "reasonlv2": {
+        "name": "Reason Lv 2",
+        "desc": "Grants Hit +10, Avo +6, and Crit Avo +6 when using black or dark magic.",
+        "icon": "26",
+        "reference": {
+            "Skill": "<:fe16_reason:712446189089587311>Reason (D+)"
+        }
+    },
+    "reasonlv3": {
+        "name": "Reason Lv 3",
+        "desc": "Grants Hit +13, Avo +7, and Crit Avo +7 when using black or dark magic.",
+        "icon": "27",
+        "reference": {
+            "Skill": "<:fe16_reason:712446189089587311>Reason (C+)"
+        }
+    },
+    "reasonlv4": {
+        "name": "Reason Lv 4",
+        "desc": "Grants Hit +16, Avo +8, and Crit Avo +8 when using black or dark magic.",
+        "icon": "28",
+        "reference": {
+            "Skill": "<:fe16_reason:712446189089587311>Reason (B+)"
+        }
+    },
+    "reasonlv5": {
+        "name": "Reason Lv 5",
+        "desc": "Grants Hit +20, Avo +10, and Crit Avo +10 when using black or dark magic.",
+        "icon": "29",
+        "reference": {
+            "Skill": "<:fe16_reason:712446189089587311>Reason (A+)"
+        }
+    },
+    "renewal": {
+        "name": "Renewal",
+        "desc": "Unit recovers up to 20% of max HP at the start of each turn.",
+        "icon": "125",
+        "reference": {
+            "Class": "Altered Demonic Beast (Class ability)\nBishop (Mastery)\nDemonic Beast (Class ability)\nFlying Demonic Beast (Class ability)\nGiant Demonic Beast (Class ability)\nGuardian Golem (Class ability)\nWandering Beast (Class ability)"
+        }
+    },
+    "resistance2": {
+        "name": "Resistance +2",
+        "desc": "Increases Res by 2.",
+        "icon": "71",
+        "reference": {
+            "Class": "Lord (Mastery)"
+        }
+    },
+    "rivalry": {
+        "name": "Rivalry",
+        "desc": "If a male ally is adjacent, unit deals 2 extra damage and takes 2 less damage during combat.",
+        "icon": "96",
+        "reference": {
+            "Learned by": "Leonie (Personal ability)"
+        }
+    },
+    "royallineage": {
+        "name": "Royal Lineage",
+        "desc": "Multiplies experience earned by 1.2.",
+        "icon": "84",
+        "reference": {
+            "Learned by": "Dimitri (Personal ability)"
+        }
+    },
+    "royallineage+": {
+        "name": "Royal Lineage+",
+        "desc": "Grants Avo +20 while unit is at full HP. Multiplies experience earned by 1.2.",
+        "icon": "84",
+        "reference": {
+            "Learned by": "Dimitri (Personal ability)"
+        }
+    },
+    "sacredpower": {
+        "name": "Sacred Power",
+        "desc": "Adjacent allies deal 3 extra damage and take 3 less damage during combat.",
+        "icon": "119",
+        "reference": {
+            "Learned by": "Rhea (Personal ability)",
+            "Class": "Enlightened One (Mastery)"
+        }
+    },
+    "sealdefense": {
+        "name": "Seal Defense",
+        "desc": "If unit damages foe during combat, foe suffers Def -6 for 1 turn after combat.",
+        "icon": "110",
+        "reference": {
+            "Class": "Giant Crawler (Class ability)\nWyvern Rider (Mastery)"
+        }
+    },
+    "sealmagic": {
+        "name": "Seal Magic",
+        "desc": "If unit damages foe during combat, foe suffers Mag -6 for 1 turn after combat.",
+        "icon": "108",
+        "reference": {
+            "<:fe16_reason:712446189089587311>Learned by": "Flayn (Budding Talent)",
+            "Class": "Agastya (Class ability)\nWhite Beast (Class ability)"
+        }
+    },
+    "sealmovement": {
+        "name": "Seal Movement",
+        "desc": "If unit damages foe during combat, foe suffers Mv -1 for 1 turn after combat.",
+        "icon": "112",
+        "reference": {
+            "<:fe16_riding:713346756645224478>Learned by": "Dimitri (Budding Talent)"
+        }
+    },
+    "sealresistance": {
+        "name": "Seal Resistance",
+        "desc": "If unit damages foe during combat, foe suffers Res -6 for 1 turn after combat.",
+        "icon": "111",
+        "reference": {
+            "Class": "Dark Knight (Mastery)"
+        }
+    },
+    "sealspeed": {
+        "name": "Seal Speed",
+        "desc": "If unit damages foe during combat, foe suffers Spd -6 for 1 turn after combat.",
+        "icon": "109",
+        "reference": {
+            "<:fe16_armor:712446188665962497>Learned by": "Ferdinand (Budding Talent)\nHilda (Budding Talent)",
+            "Class": "Giant Crawler (Class ability)"
+        }
+    },
+    "sealstrength": {
+        "name": "Seal Strength",
+        "desc": "If unit damages foe during combat, foe suffers Str -6 for 1 turn after combat.",
+        "icon": "107",
+        "reference": {
+            "<:fe16_reason:712446189089587311>Learned by": "Ignatz (Budding Talent)",
+            "Class": "Agastya (Class ability)\nAltered Demonic Beast (Class ability)\nDemonic Beast (Class ability)\nExp. Demonic Beast (Class ability)\nWhite Beast (Class ability)"
+        }
+    },
+    "songstress": {
+        "name": "Songstress",
+        "desc": "Adjacent allies recover up to 10% of max HP at the start of each turn.",
+        "icon": "126",
+        "reference": {
+            "Learned by": "Dorothea (Personal ability)"
+        }
+    },
+    "specialdance": {
+        "name": "Special Dance",
+        "desc": "When using the Dance ability, grant Dex/Spd/Lck +4 to target ally.",
+        "icon": "137",
+        "reference": {
+            "Class": "Dancer (Mastery)"
+        }
+    },
+    "speed2": {
+        "name": "Speed +2",
+        "desc": "Increases Spd by 2.",
+        "icon": "68",
+        "reference": {
+            "Class": "Myrmidon (Mastery)"
+        }
+    },
+    "staunchshield": {
+        "name": "Staunch Shield",
+        "desc": "If unit takes no action except Wait, grants Def +4 for 1 turn.",
+        "icon": "127",
+        "reference": {
+            "Learned by": "Dedue (Personal ability)"
+        }
+    },
+    "steal": {
+        "name": "Steal",
+        "desc": "Allows unit to steal a non-weapon item from a foe with a lower Spd stat.",
+        "icon": "147",
+        "reference": {
+            "Class": "Thief (Class ability)\nThief (Mastery)"
+        }
+    },
+    "stealth": {
+        "name": "Stealth",
+        "desc": "Makes it more difficult for foes to target unit.",
+        "icon": "149",
+        "reference": {
+            "Class": "Assassin (Class ability)\nTrickster (Class ability)"
+        }
+    },
+    "strength2": {
+        "name": "Strength +2",
+        "desc": "Increases Str by 2.",
+        "icon": "65",
+        "reference": {
+            "Class": "Fighter (Mastery)"
+        }
+    },
+    "surginglight": {
+        "name": "Surging Light",
+        "desc": "Performs Staggering Blow immediately.",
+        "icon": "185",
+        "reference": {
+            "Class": "The Immaculate One (Class ability)"
+        }
+    },
+    "survivalinstinct": {
+        "name": "Survival Instinct",
+        "desc": "If unit initiates combat and defeats foe, grants Str/Mag/Dex/Spd +4 for one turn.",
+        "icon": "127",
+        "reference": {
+            "Learned by": "Shamir (Personal ability)"
+        }
+    },
+    "swordavo20": {
+        "name": "Sword Avo +20",
+        "desc": "Grants Avo +20 when using a sword.",
+        "icon": "56",
+        "reference": {}
+    },
+    "swordbreaker": {
+        "name": "Swordbreaker",
+        "desc": "Grants Hit/Avo +20 when using a lance against sword users.",
+        "icon": "113",
+        "reference": {
+            "Skill": "<:fe16_lance:712446188619563049>Lance (B)"
+        }
+    },
+    "swordcrit10": {
+        "name": "Sword Crit +10",
+        "desc": "Grants Crit +10 when using a sword.",
+        "icon": "48",
+        "reference": {
+            "Class": "Swordmaster (Class ability)",
+            "Skill": "<:fe16_sword:712446188841992194>Sword (S)"
+        }
+    },
+    "swordfaire": {
+        "name": "Swordfaire",
+        "desc": "Grants Atk +5 when using a sword.",
+        "icon": "40",
+        "reference": {
+            "Class": "Assassin (Class ability)\nEnlightened One (Class ability)\nHero (Class ability)\nKing of Liberation (Class ability)\nMortal Savant (Class ability)\nSwordmaster (Class ability)",
+            "Skill": "<:fe16_sword:712446188841992194>Sword (S+)"
+        }
+    },
+    "swordprowesslv1": {
+        "name": "Sword Prowess Lv 1",
+        "desc": "Grants Hit +5, Avo +7, and Crit Avo +5 when using a sword.",
+        "icon": "0",
+        "reference": {
+            "Skill": "<:fe16_sword:712446188841992194>Sword (E+)"
+        }
+    },
+    "swordprowesslv2": {
+        "name": "Sword Prowess Lv 2",
+        "desc": "Grants Hit +6, Avo +10, and Crit Avo +6 when using a sword.",
+        "icon": "1",
+        "reference": {
+            "Skill": "<:fe16_sword:712446188841992194>Sword (D+)"
+        }
+    },
+    "swordprowesslv3": {
+        "name": "Sword Prowess Lv 3",
+        "desc": "Grants Hit +7, Avo +13, and Crit Avo +7 when using a sword.",
+        "icon": "2",
+        "reference": {
+            "Class": "Titanus (Class ability)",
+            "Skill": "<:fe16_sword:712446188841992194>Sword (C+)"
+        }
+    },
+    "swordprowesslv4": {
+        "name": "Sword Prowess Lv 4",
+        "desc": "Grants Hit +8, Avo +16, and Crit Avo +8 when using a sword.",
+        "icon": "3",
+        "reference": {
+            "Skill": "<:fe16_sword:712446188841992194>Sword (B+)"
+        }
+    },
+    "swordprowesslv5": {
+        "name": "Sword Prowess Lv 5",
+        "desc": "Grants Hit +10, Avo +20, and Crit Avo +10 when using a sword.",
+        "icon": "4",
+        "reference": {
+            "Skill": "<:fe16_sword:712446188841992194>Sword (A+)"
+        }
+    },
+    "terrainresistance": {
+        "name": "Terrain Resistance",
+        "desc": "Nullifies damage from terrain.",
+        "icon": "136",
+        "reference": {
+            "Class": "Altered Golem (Class ability)\nArchbishop (Class ability)\nBishop (Class ability)\nEnlightened One (Class ability)\nGolem (Class ability)\nHoly Knight (Class ability)\nPaladin (Class ability)\nSaint (Class ability)"
+        }
+    },
+    "tomebreaker": {
+        "name": "Tomebreaker",
+        "desc": "Grants Hit/Avo +20 when brawling against magic users.",
+        "icon": "118",
+        "reference": {
+            "Class": "Grappler (Mastery)"
+        }
+    },
+    "transmute": {
+        "name": "Transmute",
+        "desc": "If unit is hit with a magic attack during enemy phase, grants +3 to all stats until next player phase ends.",
+        "icon": "204",
+        "reference": {
+            "Class": "Dark Flier (Class ability)\nDark Flier (Mastery)"
+        }
+    },
+    "twincrests": {
+        "name": "Twin Crests",
+        "desc": "Allows unit to take two actions in one turn.",
+        "icon": "183",
+        "reference": {
+            "Class": "Hegemon Husk (Class ability)"
+        }
+    },
+    "umbralleech": {
+        "name": "Umbral Leech",
+        "desc": "Unit absorbs HP from phantoms.",
+        "icon": "209",
+        "reference": {}
+    },
+    "unarmedcombat": {
+        "name": "Unarmed Combat",
+        "desc": "Allows unit to fight without a weapon.",
+        "icon": "157",
+        "reference": {
+            "Class": "Brawler (Class ability)\nBrawler (Mastery)\nGrappler (Class ability)\nWar Cleric (Class ability)\nWar Monk (Class ability)"
+        }
+    },
+    "uncannyblow": {
+        "name": "Uncanny Blow",
+        "desc": "If unit initiates combat, grants Hit +30 during combat.",
+        "icon": "213",
+        "reference": {
+            "Class": "Valkyrie (Mastery)"
+        }
+    },
+    "unsealablemagic": {
+        "name": "Unsealable Magic",
+        "desc": "Prevents unit from being silenced.",
+        "icon": "165",
+        "reference": {}
+    },
+    "unusedskill": {
+        "name": "Unused Skill",
+        "desc": "Does nothing.",
+        "icon": "142",
+        "reference": {}
+    },
+    "vantage": {
+        "name": "Vantage",
+        "desc": "When foe initiates combat, unit still attacks first if HP is <= 50%.",
+        "icon": "141",
+        "reference": {
+            "Class": "Hero (Class ability)\nMercenary (Mastery)"
+        }
+    },
+    "veteranknight": {
+        "name": "Veteran Knight",
+        "desc": "Unit takes 2 less damage while in formation with a battalion.",
+        "icon": "93",
+        "reference": {
+            "Learned by": "Gilbert (Personal ability)"
+        }
+    },
+    "vitaldefense": {
+        "name": "Vital Defense",
+        "desc": "Makes critical hits against this unit impossible.",
+        "icon": "False",
+        "reference": {}
+    },
+    "wardingblow": {
+        "name": "Warding Blow",
+        "desc": "If unit initiates combat, grants Res +6 during combat",
+        "icon": "91",
+        "reference": {
+            "Class": "Mortal Savant (Mastery)"
+        }
+    },
+    "watchfuleye": {
+        "name": "Watchful Eye",
+        "desc": "Grants Hit +20.",
+        "icon": "73",
+        "reference": {
+            "Learned by": "Ignatz (Personal ability)"
+        }
+    },
+    "weight3": {
+        "name": "Weight -3",
+        "desc": "Reduces total equipment weight by 3.",
+        "icon": "163",
+        "reference": {
+            "Skill": "<:fe16_armor:712446188665962497>Armor (C)"
+        }
+    },
+    "weight5": {
+        "name": "Weight -5",
+        "desc": "Reduces total equipment weight by 5.",
+        "icon": "164",
+        "reference": {
+            "Class": "Fortress Knight (Class ability)",
+            "Skill": "<:fe16_armor:712446188665962497>Armor (A+)"
+        }
+    },
+    "whitemagicavoid20": {
+        "name": "White Magic Avo +20",
+        "desc": "Grants Avo +20 when using white magic.",
+        "icon": "62",
+        "reference": {
+            "<:fe16_faith:712446188783140944>Learned by": "Byleth (Budding Talent)\nDorothea (Budding Talent)"
+        }
+    },
+    "whitemagiccrit10": {
+        "name": "White Magic Crit +10",
+        "desc": "When using white magic, Grants Crit +10 .",
+        "icon": "54",
+        "reference": {}
+    },
+    "whitemagicheal10": {
+        "name": "White Magic Heal +10",
+        "desc": "Heal 10 extra HP when using white magic.",
+        "icon": "162",
+        "reference": {
+            "Class": "Bishop (Class ability)"
+        }
+    },
+    "whitemagicheal5": {
+        "name": "White Magic Heal +5",
+        "desc": "Heal 5 extra HP when using white magic.",
+        "icon": "161",
+        "reference": {
+            "Class": "Priest (Class ability)"
+        }
+    },
+    "whitemagicrange1": {
+        "name": "White Magic Range +1",
+        "desc": "Increases white magic range by 1 for attacks that damage foes.",
+        "icon": "156",
+        "reference": {
+            "Skill": "<:fe16_faith:712446188783140944>Faith (S)"
+        }
+    },
+    "whitemagicusesup": {
+        "name": "White Magic Uses Up+",
+        "desc": "Quadruples the number of uses for white magic.",
+        "icon": "193",
+        "reference": {}
+    },
+    "whitemagicusesx2": {
+        "name": "White Magic Uses x2",
+        "desc": "Doubles the number of uses for white magic.",
+        "icon": "160",
+        "reference": {
+            "Class": "Bishop (Class ability)\nGremory (Class ability)"
+        }
+    },
+    "whitetomefaire": {
+        "name": "White Tomefaire",
+        "desc": "Grants Atk +5 when using white magic.",
+        "icon": "46",
+        "reference": {
+            "Class": "Holy Knight (Class ability)",
+            "Skill": "<:fe16_faith:712446188783140944>Faith (S+)"
+        }
+    },
+    "wrath": {
+        "name": "Wrath",
+        "desc": "If foe initiates combat while unit's HP is <= 50%, grants Crit +50.",
+        "icon": "145",
+        "reference": {
+            "Class": "Warrior (Mastery)"
+        }
+    },
+    "apocalypticflame": {
+        "name": "Apocalyptic Flame",
+        "desc": "Inflicts Str -5 on foe for 1 turn, effective against Dragon foes.",
+        "stats": {
+            "might": 15,
+            "hit": 20,
+            "range": 1,
+            "durability": 3
+        },
+        "rank": "axe",
+        "reference": {}
+    },
+    "armoredstrike": {
+        "name": "Armored Strike",
+        "desc": "Might increases by 30% of user's Defence.",
+        "stats": {
+            "might": 3,
+            "crit": 10,
+            "range": 1,
+            "durability": 4
+        },
+        "rank": "axe",
+        "reference": {
+            "<:fe16_axe:712446188758237285>Learned by": "Anna (A)\nBalthus (A)\nCyril (A)\nDedue (A)\nFerdinand (A)"
+        }
+    },
+    "assassinate": {
+        "name": "Assassinate",
+        "desc": "Avoid and Crit Avoid +15, can kill enemies instantly.",
+        "stats": {
+            "might": 0,
+            "hit": 15,
+            "range": 1,
+            "durability": 5
+        },
+        "rank": "sword",
+        "reference": {
+            "Class": "Assassin (Mastery)"
+        }
+    },
+    "astra": {
+        "name": "Astra",
+        "desc": "Triggers 5 consecutive hits at 30% Might.",
+        "stats": {
+            "might": 0,
+            "hit": -10,
+            "range": 1,
+            "durability": 9
+        },
+        "rank": "sword",
+        "reference": {
+            "Class": "Swordmaster (Mastery)"
+        }
+    },
+    "atrocity": {
+        "name": "Atrocity",
+        "desc": "Effective against all foes.",
+        "stats": {
+            "might": 15,
+            "hit": 20,
+            "range": 1,
+            "durability": 4
+        },
+        "rank": "lance",
+        "reference": {}
+    },
+    "baneofmonsters": {
+        "name": "Bane of Monsters",
+        "desc": "Effective against Monster foes.",
+        "stats": {
+            "might": 6,
+            "crit": 10,
+            "range": 1,
+            "durability": 4
+        },
+        "rank": "sword",
+        "reference": {
+            "<:fe16_sword:712446188841992194>Learned by": "Balthus (C+)\nByleth (C+)\nCatherine (C+)\nClaude (C+)\nPetra (C+)"
+        }
+    },
+    "beastfang": {
+        "name": "Beast Fang",
+        "desc": "Effective against Cavalry and Dragon foes.",
+        "stats": {
+            "might": 10,
+            "crit": 30,
+            "range": 1,
+            "durability": 3
+        },
+        "rank": "sword",
+        "reference": {}
+    },
+    "bombard": {
+        "name": "Bombard",
+        "desc": "Triggers 2 consecutive hits.",
+        "stats": {
+            "might": 3,
+            "crit": 10,
+            "range": 1,
+            "durability": 3
+        },
+        "rank": "gauntlet",
+        "reference": {
+            "<:fe16_brawling:712446188720226344>Learned by": "Caspar (C+)\nCatherine (A)"
+        }
+    },
+    "breakshot": {
+        "name": "Break Shot",
+        "desc": "After combat, inflicts Def -5 on foe for 1 turn.",
+        "stats": {
+            "might": 4,
+            "hit": 5,
+            "range": "2~3",
+            "durability": 3
+        },
+        "rank": "bow",
+        "reference": {
+            "<:fe16_bow:712446188346933340>Learned by": "Anna (C+)\nIgnatz (C+)\nLeonie (C+)"
+        }
+    },
+    "burningquake": {
+        "name": "Burning Quake",
+        "desc": "Avoid and Crit Avoid +10, Might increases by 30% of user's Speed, effective against Dragon foes.",
+        "stats": {
+            "might": 8,
+            "crit": 20,
+            "range": 1,
+            "durability": 3
+        },
+        "rank": "lance",
+        "reference": {}
+    },
+    "curvedshot": {
+        "name": "Curved Shot",
+        "desc": null,
+        "stats": {
+            "might": 1,
+            "hit": 30,
+            "range": "2~3",
+            "durability": 3
+        },
+        "rank": "bow",
+        "reference": {
+            "Skill": "<:fe16_bow:712446188346933340>Bow (D)"
+        }
+    },
+    "deadeye": {
+        "name": "Deadeye",
+        "desc": null,
+        "stats": {
+            "might": 6,
+            "range": "3~5",
+            "durability": 5
+        },
+        "rank": "bow",
+        "reference": {
+            "<:fe16_bow:712446188346933340>Learned by": "Ashe (C+)\nBernadetta (C+)\nYuri (Budding Talent)"
+        }
+    },
+    "diamondaxe": {
+        "name": "Diamond Axe",
+        "desc": null,
+        "stats": {
+            "might": 14,
+            "hit": -20,
+            "range": 1,
+            "durability": 7
+        },
+        "rank": "axe",
+        "reference": {
+            "<:fe16_axe:712446188758237285>Learned by": "Balthus (C+)\nClaude (Budding Talent)\nHilda (A)\nPetra (A)\nSeteth (A)"
+        }
+    },
+    "drainingblow": {
+        "name": "Draining Blow",
+        "desc": "Restores HP equal to 50% of the damage inflicted to the enemy.",
+        "stats": {
+            "might": 5,
+            "hit": 20,
+            "range": 1,
+            "durability": 3
+        },
+        "rank": "gauntlet",
+        "reference": {
+            "<:fe16_brawling:712446188720226344>Learned by": "Balthus (C+)\nByleth (C+)\nRaphael (A)"
+        }
+    },
+    "drawback": {
+        "name": "Draw Back",
+        "desc": "User moves 1 space backwards and ally is moved to where the user was previously.",
+        "stats": {
+            "range": 1
+        },
+        "rank": "other",
+        "reference": {
+            "Class": "Monk (Mastery)"
+        }
+    },
+    "dust": {
+        "name": "Dust",
+        "desc": "Inflicts Def -5 on foe for 1 turn, effective against Dragon foes.",
+        "stats": {
+            "might": 20,
+            "range": 1,
+            "durability": 3
+        },
+        "rank": "axe",
+        "reference": {}
+    },
+    "encloser": {
+        "name": "Encloser",
+        "desc": "Inflicts Frozen on the target on contact.",
+        "stats": {
+            "might": 4,
+            "hit": 15,
+            "range": 2,
+            "durability": 3
+        },
+        "rank": "bow",
+        "reference": {
+            "<:fe16_bow:712446188346933340>Learned by": "Bernadetta (A)\nClaude (A)"
+        }
+    },
+    "eviscerate": {
+        "name": "Eviscerate",
+        "desc": "Calculates damage using the lower of foe's Def or Res.",
+        "stats": {
+            "might": 10,
+            "hit": 10,
+            "crit": 10,
+            "range": 1,
+            "durability": 3
+        },
+        "rank": "gauntlet",
+        "reference": {}
+    },
+    "exhaustivestrike": {
+        "name": "Exhaustive Strike",
+        "desc": "Depletes all of the weapon's remaining durability and adds 30% of that value to Might.",
+        "stats": {
+            "might": 3,
+            "hit": 10,
+            "range": 1,
+            "durability": 1
+        },
+        "rank": "axe",
+        "reference": {
+            "<:fe16_axe:712446188758237285>Learned by": "Alois (A)\nCaspar (A)\nHapi (Budding Talent)"
+        }
+    },
+    "fadingblow": {
+        "name": "Fading Blow",
+        "desc": "Avoid and Crit Avoid +30, after combat, user moves 1 space backwards.",
+        "stats": {
+            "might": 6,
+            "hit": 10,
+            "range": 1,
+            "durability": 3
+        },
+        "rank": "gauntlet",
+        "reference": {
+            "Skill": "<:fe16_brawling:712446188720226344>Brawling (D)"
+        }
+    },
+    "fallenstar": {
+        "name": "Fallen Star",
+        "desc": "Avoids all attacks during the next round of combat, effective against Dragon foes.",
+        "stats": {
+            "might": 10,
+            "hit": 30,
+            "crit": 10,
+            "range": "2~3",
+            "durability": 3
+        },
+        "rank": "bow",
+        "reference": {}
+    },
+    "fierceironfist": {
+        "name": "Fierce Iron Fist",
+        "desc": "Triggers 3 consecutive hits.",
+        "stats": {
+            "might": 1,
+            "crit": 10,
+            "range": 1,
+            "durability": 5
+        },
+        "rank": "gauntlet",
+        "reference": {
+            "Class": "Grappler (Mastery)"
+        }
+    },
+    "finesseblade": {
+        "name": "Finesse Blade",
+        "desc": "Avoid and Crit Avoid +10, Might increases by 30% of user's Dexterity.",
+        "stats": {
+            "might": 2,
+            "range": 1,
+            "durability": 4
+        },
+        "rank": "sword",
+        "reference": {
+            "<:fe16_sword:712446188841992194>Learned by": "Catherine (A)\nClaude (A)\nFelix (A)\nPetra (A)\nYuri (A)"
+        }
+    },
+    "flickeringflower": {
+        "name": "Flickering Flower",
+        "desc": "Inflicts Frozen on the target on contact.",
+        "stats": {
+            "might": 10,
+            "hit": 10,
+            "crit": 10,
+            "range": 1,
+            "durability": 3
+        },
+        "rank": "axe",
+        "reference": {
+            "Class": "Emperor (Mastery)"
+        }
+    },
+    "focusedstrike": {
+        "name": "Focused Strike",
+        "desc": null,
+        "stats": {
+            "might": 0,
+            "hit": 30,
+            "range": 1,
+            "durability": 3
+        },
+        "rank": "axe",
+        "reference": {
+            "<:fe16_axe:712446188758237285>Learned by": "Ashe (C+)\nFerdinand (C+)\nSeteth (C+)"
+        }
+    },
+    "foudroyantstrike": {
+        "name": "Foudroyant Strike",
+        "desc": "Effective against Armoured and Dragon foes.",
+        "stats": {
+            "might": 6,
+            "hit": 30,
+            "crit": 30,
+            "range": 1,
+            "durability": 3
+        },
+        "rank": "sword",
+        "reference": {}
+    },
+    "foulplay": {
+        "name": "Foul Play",
+        "desc": "Unit swaps positions with an ally in range.",
+        "stats": {
+            "range": "1~5"
+        },
+        "rank": "other",
+        "reference": {
+            "Class": "Trickster (Mastery)"
+        }
+    },
+    "frozenlance": {
+        "name": "Frozen Lance",
+        "desc": "Deals magic-based damage. Might increases by 30% of user's Dexterity.",
+        "stats": {
+            "might": 3,
+            "hit": 5,
+            "range": 1,
+            "durability": 4
+        },
+        "rank": "lance",
+        "reference": {
+            "<:fe16_lance:712446188619563049>Learned by": "Flayn (A)\nHubert (Budding Talent)\nIngrid (A)\nLorenz (C+)\nMarianne (Budding Talent)"
+        }
+    },
+    "glowingember": {
+        "name": "Glowing Ember",
+        "desc": "Avoid and Crit Avoid +10, Might increases by 30% of user's Defence.",
+        "stats": {
+            "might": 2,
+            "range": 1,
+            "durability": 4
+        },
+        "rank": "lance",
+        "reference": {
+            "<:fe16_lance:712446188619563049>Learned by": "Dimitri (A)\nGilbert (A)\nJeritza (A)"
+        }
+    },
+    "grounder": {
+        "name": "Grounder",
+        "desc": "Effective against Flying foes.",
+        "stats": {
+            "might": 3,
+            "hit": 20,
+            "crit": 5,
+            "range": 1,
+            "durability": 4
+        },
+        "rank": "sword",
+        "reference": {
+            "Skill": "<:fe16_sword:712446188841992194>Sword (C)"
+        }
+    },
+    "hazeslice": {
+        "name": "Haze Slice",
+        "desc": "Avoid and Crit Avoid +30.",
+        "stats": {
+            "might": 2,
+            "range": 1,
+            "durability": 5
+        },
+        "rank": "sword",
+        "reference": {
+            "<:fe16_sword:712446188841992194>Learned by": "Edelgard (C+)\nIgnatz (C+)\nJeritza (C+)\nSeteth (C+)"
+        }
+    },
+    "healingfocus": {
+        "name": "Healing Focus",
+        "desc": "Restores 50% of the user's HP.",
+        "stats": {},
+        "rank": "other",
+        "reference": {
+            "Skill": "<:fe16_brawling:712446188720226344>Brawling (B)"
+        }
+    },
+    "heavensfall": {
+        "name": "Heaven's Fall",
+        "desc": "Might increases by 30% of user's Magic",
+        "stats": {
+            "might": 10,
+            "hit": 10,
+            "crit": 10,
+            "range": "1~2",
+            "durability": 3
+        },
+        "rank": "sword",
+        "reference": {}
+    },
+    "heavydraw": {
+        "name": "Heavy Draw",
+        "desc": null,
+        "stats": {
+            "might": 8,
+            "hit": 10,
+            "range": 2,
+            "durability": 5
+        },
+        "rank": "bow",
+        "reference": {
+            "<:fe16_bow:712446188346933340>Learned by": "Felix (C+)\nHubert (C+)\nShamir (C+)"
+        }
+    },
+    "helmsplitter": {
+        "name": "Helm Splitter",
+        "desc": "Effective against Armoured foes.",
+        "stats": {
+            "might": 7,
+            "crit": 5,
+            "range": 1,
+            "durability": 5
+        },
+        "rank": "axe",
+        "reference": {
+            "Skill": "<:fe16_axe:712446188758237285>Axe (C)"
+        }
+    },
+    "hexblade": {
+        "name": "Hexblade",
+        "desc": "Deals magic-based damage.",
+        "stats": {
+            "might": 7,
+            "hit": 10,
+            "range": 1,
+            "durability": 3
+        },
+        "rank": "sword",
+        "reference": {
+            "<:fe16_sword:712446188841992194>Learned by": "Anna (A)\nConstance (A)\nDorothea (C+)\nEdelgard (A)\nIngrid (A)\nManuela (C+)"
+        }
+    },
+    "hitandrun": {
+        "name": "Hit and Run",
+        "desc": "Avoid and Crit Avoid +20, after combat, user moves 1 space backwards.",
+        "stats": {
+            "might": 4,
+            "hit": 10,
+            "range": 1,
+            "durability": 4
+        },
+        "rank": "lance",
+        "reference": {
+            "<:fe16_lance:712446188619563049>Learned by": "Flayn (C+)\nIngrid (C)\nShamir (C+)"
+        }
+    },
+    "huntersvolley": {
+        "name": "Hunter's Volley",
+        "desc": "Triggers 2 consecutive hits.",
+        "stats": {
+            "might": 1,
+            "hit": 15,
+            "crit": 10,
+            "range": "2~3",
+            "durability": 5
+        },
+        "rank": "bow",
+        "reference": {
+            "Class": "Sniper (Mastery)"
+        }
+    },
+    "knightkneeler": {
+        "name": "Knightkneeler",
+        "desc": "Effective against Cavalry foes.",
+        "stats": {
+            "might": 5,
+            "hit": 15,
+            "range": 1,
+            "durability": 4
+        },
+        "rank": "lance",
+        "reference": {
+            "Skill": "<:fe16_lance:712446188619563049>Lance (C)"
+        }
+    },
+    "lancejab": {
+        "name": "Lance Jab",
+        "desc": "Might increases by 30% of user's Speed.",
+        "stats": {
+            "might": 3,
+            "crit": 10,
+            "range": 1,
+            "durability": 5
+        },
+        "rank": "lance",
+        "reference": {
+            "<:fe16_lance:712446188619563049>Learned by": "Cyril (A)\nLeonie (A)\nShamir (A)"
+        }
+    },
+    "lightningaxe": {
+        "name": "Lightning Axe",
+        "desc": "Deals magic-based damage. Might increases by 30% of user's Resistance.",
+        "stats": {
+            "might": 4,
+            "range": 1,
+            "durability": 3
+        },
+        "rank": "axe",
+        "reference": {
+            "<:fe16_axe:712446188758237285>Learned by": "Annette (C+)\nEdelgard (A)\nSylvain (A)"
+        }
+    },
+    "mightyblow": {
+        "name": "Mighty Blow",
+        "desc": null,
+        "stats": {
+            "might": 10,
+            "hit": -5,
+            "crit": 20,
+            "range": 1,
+            "durability": 3
+        },
+        "rank": "gauntlet",
+        "reference": {
+            "<:fe16_brawling:712446188720226344>Learned by": "Alois (A)\nBalthus (A)\nCaspar (A)\nDedue (A)"
+        }
+    },
+    "monsterblast": {
+        "name": "Monster Blast",
+        "desc": "Effective against Monster foes.",
+        "stats": {
+            "might": 5,
+            "crit": 10,
+            "range": 2,
+            "durability": 4
+        },
+        "rank": "bow",
+        "reference": {
+            "<:fe16_bow:712446188346933340>Learned by": "Claude (C+)\nShamir (A)"
+        }
+    },
+    "monsterbreaker": {
+        "name": "Monster Breaker",
+        "desc": "Effective against Monster foes.",
+        "stats": {
+            "might": 9,
+            "range": 1,
+            "durability": 5
+        },
+        "rank": "axe",
+        "reference": {
+            "<:fe16_axe:712446188758237285>Learned by": "Cyril (C+)\nDedue (C+)\nEdelgard (C+)"
+        }
+    },
+    "monstercrusher": {
+        "name": "Monster Crusher",
+        "desc": "Effective against Monster foes.",
+        "stats": {
+            "might": 13,
+            "hit": 10,
+            "crit": 10,
+            "range": 1,
+            "durability": 4
+        },
+        "rank": "gauntlet",
+        "reference": {
+            "<:fe16_brawling:712446188720226344>Learned by": "Raphael (C+)"
+        }
+    },
+    "monsterpiercer": {
+        "name": "Monster Piercer",
+        "desc": "Avoid and Crit Avoid +10, effective against Monster foes.",
+        "stats": {
+            "might": 7,
+            "range": 1,
+            "durability": 4
+        },
+        "rank": "lance",
+        "reference": {
+            "<:fe16_lance:712446188619563049>Learned by": "Dimitri (C+)\nLeonie (C+)\nSeteth (C+)\nSylvain (C+)"
+        }
+    },
+    "mysticblow": {
+        "name": "Mystic Blow",
+        "desc": "Deals magic-based damage.",
+        "stats": {
+            "might": 10,
+            "hit": 10,
+            "range": 1,
+            "durability": 3
+        },
+        "rank": "gauntlet",
+        "reference": {
+            "<:fe16_brawling:712446188720226344>Learned by": "Byleth (A)\nConstance (Budding Talent)\nFelix (A)"
+        }
+    },
+    "nimblecombo": {
+        "name": "Nimble Combo",
+        "desc": "Avoid and Crit Avoid +20, triggers 2 consecutive hits.",
+        "stats": {
+            "might": 4,
+            "range": 1,
+            "durability": 3
+        },
+        "rank": "gauntlet",
+        "reference": {
+            "<:fe16_brawling:712446188720226344>Learned by": "Catherine (C+)\nFelix (C+)\nJeritza (C+)"
+        }
+    },
+    "onetwopunch": {
+        "name": "One-Two Punch",
+        "desc": "Triggers a follow-up attack.",
+        "stats": {
+            "might": 8,
+            "hit": 20,
+            "range": 1,
+            "durability": 4
+        },
+        "rank": "gauntlet",
+        "reference": {
+            "<:fe16_brawling:712446188720226344>Learned by": "Alois (C+)\nDedue (C+)"
+        }
+    },
+    "paraselene": {
+        "name": "Paraselene",
+        "desc": "Avoid and Crit Avoid +10, after combat, user moves 1 space backwards.",
+        "stats": {
+            "might": 10,
+            "range": 1,
+            "durability": 3
+        },
+        "rank": "lance",
+        "reference": {
+            "Class": "Great Lord (Mastery)"
+        }
+    },
+    "pneumagale": {
+        "name": "Pneuma Gale",
+        "desc": "Magic attack. Can attack from long range.",
+        "stats": {
+            "might": 7,
+            "hit": 10,
+            "range": "1~2",
+            "durability": 3
+        },
+        "rank": "gauntlet",
+        "reference": {
+            "Class": "War Cleric (Mastery)\nWar Monk (Mastery)"
+        }
+    },
+    "pointblankvolley": {
+        "name": "Point-Blank Volley",
+        "desc": "Avoid and Crit Avoid +10, triggers 2 consecutive hits.",
+        "stats": {
+            "might": 3,
+            "hit": 10,
+            "range": 1,
+            "durability": 4
+        },
+        "rank": "bow",
+        "reference": {
+            "<:fe16_bow:712446188346933340>Learned by": "Cyril (C+)\nLeonie (A)"
+        }
+    },
+    "ragingstorm": {
+        "name": "Raging Storm",
+        "desc": "After attacking, user can move again, effective against Dragon foes.",
+        "stats": {
+            "might": 14,
+            "hit": 10,
+            "range": 1,
+            "durability": 4
+        },
+        "rank": "axe",
+        "reference": {}
+    },
+    "reposition": {
+        "name": "Reposition",
+        "desc": "User moves ally to the space behind the user.",
+        "stats": {
+            "range": 1
+        },
+        "rank": "other",
+        "reference": {
+            "Class": "Soldier (Mastery)"
+        }
+    },
+    "ruinedsky": {
+        "name": "Ruined Sky",
+        "desc": "Avoid and Crit Avoid +10, effective against Flying and Dragon foes.",
+        "stats": {
+            "might": 13,
+            "hit": 10,
+            "crit": 10,
+            "range": 1,
+            "durability": 3
+        },
+        "rank": "lance",
+        "reference": {}
+    },
+    "rupturedheaven": {
+        "name": "Ruptured Heaven",
+        "desc": "Might increases by 30% of user's Magic, effective against Dragon foes.",
+        "stats": {
+            "might": 7,
+            "hit": 10,
+            "crit": 10,
+            "range": "1~2",
+            "durability": 3
+        },
+        "rank": "sword",
+        "reference": {}
+    },
+    "rushingblow": {
+        "name": "Rushing Blow",
+        "desc": "Avoid and Crit Avoid +10, after combat, user moves 1 space in front of the enemy.",
+        "stats": {
+            "might": 7,
+            "hit": 20,
+            "range": 1,
+            "durability": 3
+        },
+        "rank": "gauntlet",
+        "reference": {
+            "Skill": "<:fe16_brawling:712446188720226344>Brawling (C)"
+        }
+    },
+    "schismshot": {
+        "name": "Schism Shot",
+        "desc": "After combat, inflicts Res -5 on foe for 1 turn.",
+        "stats": {
+            "might": 4,
+            "hit": 15,
+            "range": "2~3",
+            "durability": 3
+        },
+        "rank": "bow",
+        "reference": {
+            "<:fe16_bow:712446188346933340>Learned by": "Hanneman (C+)\nHubert (A)"
+        }
+    },
+    "shatterslash": {
+        "name": "Shatter Slash",
+        "desc": "After combat, inflicts Def -5 on foe for 1 turn.",
+        "stats": {
+            "might": 4,
+            "hit": 10,
+            "range": 1,
+            "durability": 3
+        },
+        "rank": "lance",
+        "reference": {
+            "<:fe16_lance:712446188619563049>Learned by": "Ashe (Budding Talent)\nFerdinand (C+)\nGilbert (C+)\nHilda (C+)\nJeritza (C+)"
+        }
+    },
+    "shove": {
+        "name": "Shove",
+        "desc": "User pushes ally forward 1 space.",
+        "stats": {
+            "range": 1
+        },
+        "rank": "other",
+        "reference": {
+            "Class": "Fighter (Mastery)"
+        }
+    },
+    "smash": {
+        "name": "Smash",
+        "desc": null,
+        "stats": {
+            "might": 3,
+            "hit": 20,
+            "crit": 20,
+            "range": 1,
+            "durability": 5
+        },
+        "rank": "axe",
+        "reference": {
+            "Skill": "<:fe16_axe:712446188758237285>Axe (D)"
+        }
+    },
+    "smite": {
+        "name": "Smite",
+        "desc": "User pushes ally forward 2 spaces.",
+        "stats": {
+            "range": 1
+        },
+        "rank": "other",
+        "reference": {
+            "Skill": "<:fe16_armor:712446188665962497>Armor (B)"
+        }
+    },
+    "soulblade": {
+        "name": "Soulblade",
+        "desc": "Deals magic-based damage. Might increases by 30% of user's Resistance.",
+        "stats": {
+            "might": 2,
+            "hit": 10,
+            "range": 1,
+            "durability": 4
+        },
+        "rank": "sword",
+        "reference": {
+            "<:fe16_sword:712446188841992194>Learned by": "Anna (C+)\nConstance (C+)\nLysithea (Budding Talent)\nMarianne (C+)"
+        }
+    },
+    "spike": {
+        "name": "Spike",
+        "desc": null,
+        "stats": {
+            "might": 5,
+            "hit": 15,
+            "crit": 10,
+            "range": 1,
+            "durability": 5
+        },
+        "rank": "axe",
+        "reference": {
+            "<:fe16_axe:712446188758237285>Learned by": "Alois (C+)\nAnna (C+)\nGilbert (C+)\nHilda (C+)\nSylvain (C+)"
+        }
+    },
+    "subdue": {
+        "name": "Subdue",
+        "desc": "Leaves foe with at least 1 HP.",
+        "stats": {
+            "might": 0,
+            "hit": 20,
+            "range": 1,
+            "durability": 3
+        },
+        "rank": "sword",
+        "reference": {
+            "Class": "Lord (Mastery)"
+        }
+    },
+    "sublimeheaven": {
+        "name": "Sublime Heaven",
+        "desc": "Might increases by 30% of user's Magic, effective against Dragon foes.",
+        "stats": {
+            "might": 10,
+            "hit": 10,
+            "crit": 20,
+            "range": "1~2",
+            "durability": 3
+        },
+        "rank": "sword",
+        "reference": {}
+    },
+    "sunder": {
+        "name": "Sunder",
+        "desc": null,
+        "stats": {
+            "might": 4,
+            "crit": 15,
+            "range": 1,
+            "durability": 3
+        },
+        "rank": "sword",
+        "reference": {
+            "<:fe16_sword:712446188841992194>Learned by": "Dimitri (C+)\nFelix (C+)\nFerdinand (C+)"
+        }
+    },
+    "swap": {
+        "name": "Swap",
+        "desc": "User swaps places with the enemy.",
+        "stats": {
+            "range": 1
+        },
+        "rank": "other",
+        "reference": {
+            "Class": "Myrmidon (Mastery)"
+        }
+    },
+    "swiftstrikes": {
+        "name": "Swift Strikes",
+        "desc": "Triggers 2 consecutive hits.",
+        "stats": {
+            "might": 2,
+            "range": 1,
+            "durability": 4
+        },
+        "rank": "lance",
+        "reference": {
+            "<:fe16_lance:712446188619563049>Learned by": "Ferdinand (A)\nSeteth (A)\nSylvain (A)"
+        }
+    },
+    "sworddance": {
+        "name": "Sword Dance",
+        "desc": "Avoid and Crit Avoid +20, Might increases by 30% of user's Charm.",
+        "stats": {
+            "might": 1,
+            "range": 1,
+            "durability": 2
+        },
+        "rank": "sword",
+        "reference": {}
+    },
+    "tempestlance": {
+        "name": "Tempest Lance",
+        "desc": null,
+        "stats": {
+            "might": 8,
+            "hit": 10,
+            "range": 1,
+            "durability": 5
+        },
+        "rank": "lance",
+        "reference": {
+            "Skill": "<:fe16_lance:712446188619563049>Lance (D)"
+        }
+    },
+    "triangleattack": {
+        "name": "Triangle Attack",
+        "desc": "Can only be triggered when 3 allied Flying units (including the user) are adjacent to the same enemy.",
+        "stats": {
+            "might": 8,
+            "hit": 30,
+            "crit": 40,
+            "range": 1,
+            "durability": 3
+        },
+        "rank": "other",
+        "reference": {
+            "Class": "Pegasus Knight (Mastery)"
+        }
+    },
+    "vengeance": {
+        "name": "Vengeance",
+        "desc": "Damage increases by (user's Max HP - Current HP).",
+        "stats": {
+            "might": 2,
+            "crit": 10,
+            "range": 1,
+            "durability": 4
+        },
+        "rank": "lance",
+        "reference": {
+            "<:fe16_lance:712446188619563049>Learned by": "Bernadetta (C+)\nCyril (C+)\nDedue (C+)"
+        }
+    },
+    "waningshot": {
+        "name": "Waning Shot",
+        "desc": "After combat, inflicts Str -5 on foe for 1 turn.",
+        "stats": {
+            "might": 4,
+            "hit": 10,
+            "range": "2~3",
+            "durability": 3
+        },
+        "rank": "bow",
+        "reference": {
+            "<:fe16_bow:712446188346933340>Learned by": "Ashe (A)\nMercedes (Budding Talent)\nPetra (C+)"
+        }
+    },
+    "wardarrow": {
+        "name": "Ward Arrow",
+        "desc": "Inflicts Silence on the target on contact.",
+        "stats": {
+            "might": 4,
+            "hit": 15,
+            "range": 2,
+            "durability": 3
+        },
+        "rank": "bow",
+        "reference": {
+            "<:fe16_bow:712446188346933340>Learned by": "Hanneman (A)\nIgnatz (A)"
+        }
+    },
+    "warmastersstrike": {
+        "name": "War Master's Strike",
+        "desc": "Effective against all foes.",
+        "stats": {
+            "might": 3,
+            "hit": 30,
+            "range": 1,
+            "durability": 5
+        },
+        "rank": "axe",
+        "reference": {
+            "Class": "War Master (Mastery)"
+        }
+    },
+    "wildabandon": {
+        "name": "Wild Abandon",
+        "desc": null,
+        "stats": {
+            "might": 10,
+            "hit": -30,
+            "crit": 30,
+            "range": 1,
+            "durability": 5
+        },
+        "rank": "axe",
+        "reference": {
+            "<:fe16_axe:712446188758237285>Learned by": "Caspar (C+)\nPetra (C+)\nRaphael (C+)"
+        }
+    },
+    "windgod": {
+        "name": "Wind God",
+        "desc": null,
+        "stats": {
+            "might": 5,
+            "hit": 20,
+            "range": "2~5",
+            "durability": 3
+        },
+        "rank": "bow",
+        "reference": {
+            "Class": "Barbarossa (Mastery)"
+        }
+    },
+    "windsweep": {
+        "name": "Windsweep",
+        "desc": "Prevent enemy counter-attack.",
+        "stats": {
+            "might": 3,
+            "hit": 20,
+            "crit": 10,
+            "range": 1,
+            "durability": 5
+        },
+        "rank": "sword",
+        "reference": {
+            "<:fe16_sword:712446188841992194>Learned by": "Byleth (A)\nDimitri (A)\nJeritza (A)\nYuri (C+)"
+        }
+    },
+    "wrathstrike": {
+        "name": "Wrath Strike",
+        "desc": null,
+        "stats": {
+            "might": 5,
+            "hit": 10,
+            "range": 1,
+            "durability": 3
+        },
+        "rank": "sword",
+        "reference": {
+            "Skill": "<:fe16_sword:712446188841992194>Sword (D)"
+        }
+    }
+}

@@ -1,0 +1,194 @@
+{
+    "fe10": {
+        "name": "Radiant Dawn",
+        "default": "unit",
+        "alias": [
+            "rd",
+            "radiant",
+            "radiantdawn",
+            "dawn"
+        ],
+        "random": {
+            "pool": "database/fe10/char.json",
+            "add": [
+                "tellius"
+            ]
+        },
+        "color": "0xfaed61",
+        "data": {
+            "unit": {
+                "main": "database/fe10/char.json",
+                "add": [
+                    "support",
+                    "weapon"
+                ],
+                "entry": {
+                    "class": "database/fe10/job.json",
+                    "support": "database/fe10/char.json",
+                    "weapon": "database/fe10/item.json"
+                },
+                "bool": {
+                    "personal": [],
+                    "halfshift": [
+                        "wildheart"
+                    ],
+                    "untransform": []
+                },
+                "level": [
+                    40,
+                    40,
+                    40
+                ],
+                "custom_help": {
+                    "Averages": "text/game/averages/fe10.txt"
+                },
+                "classic_hidden": [
+                    "level"
+                ],
+                "lua": [
+                    "fe10",
+                    "Character"
+                ],
+                "comma": {
+                    "name": "compare",
+                    "size": 4
+                },
+                "stats": {
+                    "modifiers": [
+                        "hp",
+                        "str",
+                        "mag",
+                        "skl",
+                        "spd",
+                        "lck",
+                        "def",
+                        "res",
+                        "con",
+                        "atk",
+                        "as",
+                        "hit",
+                        "crit"
+                    ]
+                },
+                "prefix": {
+                    "modifiers": "$"
+                }
+            },
+            "class": {
+                "main": "database/fe10/job.json",
+                "lua": [
+                    "fe10",
+                    "Job"
+                ]
+            },
+            "item": {
+                "main": "database/fe10/item.json",
+                "lua": [
+                    "fe10",
+                    "Item"
+                ]
+            },
+            "skill": {
+                "main": "database/fe10/skill.json",
+                "lua": [
+                    "fe10",
+                    "Skill"
+                ]
+            }
+        }
+    },
+    "fe9": {
+        "name": "Path of Radiance",
+        "default": "unit",
+        "alias": [
+            "radiance",
+            "por",
+            "pathofradiance",
+            "path"
+        ],
+        "random": {
+            "pool": "database/fe9/char.json",
+            "add": [
+                "tellius"
+            ]
+        },
+        "color": "0xbaad0d",
+        "data": {
+            "unit": {
+                "main": "database/fe9/char.json",
+                "add": [
+                    "support",
+                    "weapon"
+                ],
+                "entry": {
+                    "class": "database/fe9/job.json",
+                    "support": "database/fe9/char.json",
+                    "weapon": "database/fe9/item.json"
+                },
+                "bool": {
+                    "personal": [],
+                    "untransform": []
+                },
+                "level": [
+                    20,
+                    20
+                ],
+                "custom_help": {
+                    "Averages": "text/game/averages/fe9.txt"
+                },
+                "classic_hidden": [
+                    "level"
+                ],
+                "lua": [
+                    "fe9",
+                    "Character"
+                ],
+                "comma": {
+                    "name": "compare",
+                    "size": 4
+                },
+                "stats": {
+                    "modifiers": [
+                        "hp",
+                        "str",
+                        "mag",
+                        "skl",
+                        "spd",
+                        "lck",
+                        "def",
+                        "res",
+                        "con",
+                        "atk",
+                        "as",
+                        "hit",
+                        "crit"
+                    ]
+                },
+                "prefix": {
+                    "modifiers": "$"
+                }
+            },
+            "class": {
+                "main": "database/fe9/job.json",
+                "lua": [
+                    "fe9",
+                    "Job"
+                ]
+            },
+            "item": {
+                "main": "database/fe9/item.json",
+                "lua": [
+                    "fe9",
+                    "Item"
+                ]
+            },
+            "skill": {
+                "main": "database/fe9/skill.json",
+                "lua": [
+                    "fe9",
+                    "Skill"
+                ]
+            }
+        }
+    }
+}

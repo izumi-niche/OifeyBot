@@ -1,0 +1,2917 @@
+{
+    "aida": {
+        "name": "Aida",
+        "portrait": "aida.png",
+        "gold": 3000,
+        "job": "magefighterf",
+        "lvl": 23,
+        "type": "boss",
+        "authority": 1,
+        "skill": [
+            "adept"
+        ],
+        "base": {
+            "hp": 49,
+            "str": 7,
+            "mag": 16,
+            "skl": 15,
+            "spd": 19,
+            "lck": 0,
+            "def": 11,
+            "res": 14
+        },
+        "blood": {},
+        "item": {
+            "meteor": false,
+            "miraclesword": false
+        }
+    },
+    "alva": {
+        "name": "Alva",
+        "portrait": "alva.png",
+        "gold": 3000,
+        "job": "paladinm",
+        "lvl": 18,
+        "type": "boss",
+        "authority": 0,
+        "skill": [],
+        "base": {
+            "hp": 58,
+            "str": 14,
+            "mag": 6,
+            "skl": 14,
+            "spd": 14,
+            "lck": 0,
+            "def": 14,
+            "res": 6
+        },
+        "blood": {},
+        "item": {
+            "steelsword": false,
+            "javelin": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "andrey": {
+        "name": "Andrey",
+        "portrait": "andorey.png",
+        "gold": 3000,
+        "job": "archknight",
+        "lvl": 22,
+        "type": "boss",
+        "authority": 4,
+        "skill": [],
+        "base": {
+            "hp": 60,
+            "str": 16,
+            "mag": 2,
+            "skl": 14,
+            "spd": 14,
+            "lck": 0,
+            "def": 14,
+            "res": 5
+        },
+        "blood": {
+            "ullr": false
+        },
+        "item": {
+            "bravebow": false,
+            "shieldring": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "anguilla": {
+        "name": "Anguilla",
+        "portrait": "anguilla.png",
+        "gold": 3000,
+        "job": "magefighterf",
+        "lvl": 30,
+        "type": "boss",
+        "authority": 0,
+        "skill": [
+            "wrath",
+            "pursuit",
+            "adept"
+        ],
+        "base": {
+            "hp": 80,
+            "str": 16,
+            "mag": 25,
+            "skl": 22,
+            "spd": 25,
+            "lck": 4,
+            "def": 18,
+            "res": 23
+        },
+        "blood": {
+            "thrud": false
+        },
+        "item": {
+            "thoron": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "annand": {
+        "name": "Annand",
+        "portrait": "annand.png",
+        "gold": 5000,
+        "job": "falconknight",
+        "lvl": 25,
+        "type": "boss",
+        "authority": 3,
+        "skill": [
+            "adept"
+        ],
+        "base": {
+            "hp": 65,
+            "str": 14,
+            "mag": 9,
+            "skl": 17,
+            "spd": 22,
+            "lck": 0,
+            "def": 13,
+            "res": 14
+        },
+        "blood": {},
+        "item": {
+            "silversword": false,
+            "shieldring": false
+        }
+    },
+    "arion": {
+        "name": "Arion",
+        "portrait": "arion.png",
+        "gold": 5000,
+        "job": "wyvernlord",
+        "lvl": 27,
+        "type": "boss",
+        "authority": 5,
+        "note": "To see Arion's stats on chapter 9, use \"Arion9\" instead.",
+        "skill": [
+            "pursuit",
+            "adept",
+            "nihil"
+        ],
+        "base": {
+            "hp": 70,
+            "str": 26,
+            "mag": 6,
+            "skl": 24,
+            "spd": 21,
+            "lck": 12,
+            "def": 27,
+            "res": 9
+        },
+        "blood": {
+            "dainn": true
+        },
+        "item": {
+            "gungnir": false
+        }
+    },
+    "arion9": {
+        "name": "Arion (Chapter 9)",
+        "portrait": "arion.png",
+        "gold": 5000,
+        "job": "wyvernlord",
+        "lvl": 27,
+        "type": "boss",
+        "authority": 5,
+        "skill": [
+            "pursuit",
+            "adept",
+            "nihil"
+        ],
+        "base": {
+            "hp": 70,
+            "str": 26,
+            "mag": 6,
+            "skl": 24,
+            "spd": 21,
+            "lck": 12,
+            "def": 27,
+            "res": 9
+        },
+        "blood": {
+            "dainn": true
+        },
+        "item": {
+            "gungnir": false,
+            "miraclering": true
+        },
+        "RANDOM_IGNORE": true
+    },
+    "arvis": {
+        "name": "Arvis",
+        "portrait": "arvis.png",
+        "gold": 6000,
+        "job": "emperor",
+        "lvl": 30,
+        "type": "boss",
+        "authority": 5,
+        "skill": [
+            "pavise",
+            "nihil",
+            "charm"
+        ],
+        "base": {
+            "hp": 80,
+            "str": 27,
+            "mag": 30,
+            "skl": 30,
+            "spd": 30,
+            "lck": 4,
+            "def": 30,
+            "res": 30
+        },
+        "blood": {
+            "fjalar": true,
+            "loptous": false
+        },
+        "item": {
+            "valflame": false,
+            "silverblade": false
+        }
+    },
+    "banba": {
+        "name": "Banba",
+        "portrait": "banba.png",
+        "gold": 1000,
+        "job": "firemage",
+        "lvl": 22,
+        "type": "boss",
+        "authority": 3,
+        "note": "To see Banba's stats on chapter 7, use \"Banba7\" instead.",
+        "skill": [],
+        "base": {
+            "hp": 52,
+            "str": 3,
+            "mag": 19,
+            "skl": 16,
+            "spd": 16,
+            "lck": 7,
+            "def": 11,
+            "res": 15
+        },
+        "blood": {},
+        "item": {
+            "elfire": false,
+            "legring": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "banba7": {
+        "name": "Banba (Chapter 7)",
+        "portrait": "banba.png",
+        "gold": 1000,
+        "job": "firemage",
+        "lvl": 22,
+        "type": "boss",
+        "authority": 3,
+        "skill": [],
+        "base": {
+            "hp": 52,
+            "str": 3,
+            "mag": 16,
+            "skl": 16,
+            "spd": 16,
+            "lck": 7,
+            "def": 11,
+            "res": 15
+        },
+        "blood": {},
+        "item": {
+            "elfire": false,
+            "lifering": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "baran": {
+        "name": "Baran",
+        "portrait": "baran.png",
+        "gold": 5000,
+        "job": "darkbishop",
+        "lvl": 29,
+        "type": "boss",
+        "authority": 1,
+        "skill": [
+            "pursuit"
+        ],
+        "base": {
+            "hp": 69,
+            "str": 2,
+            "mag": 23,
+            "skl": 18,
+            "spd": 18,
+            "lck": 0,
+            "def": 12,
+            "res": 20
+        },
+        "blood": {},
+        "item": {
+            "fenrir": false,
+            "jormungand": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "bleg": {
+        "name": "Bleg",
+        "portrait": "meng.png",
+        "gold": 5000,
+        "job": "falconknight",
+        "lvl": 25,
+        "type": "boss",
+        "authority": 0,
+        "skill": [
+            "pursuit",
+            "adept",
+            "nihil",
+            "critical"
+        ],
+        "base": {
+            "hp": 65,
+            "str": 19,
+            "mag": 13,
+            "skl": 23,
+            "spd": 30,
+            "lck": 30,
+            "def": 21,
+            "res": 27
+        },
+        "blood": {
+            "forseti": false
+        },
+        "item": {
+            "earthsword": false,
+            "legring": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "blume": {
+        "name": "Blume",
+        "portrait": "blume.png",
+        "gold": 5000,
+        "job": "baron",
+        "lvl": 25,
+        "type": "boss",
+        "authority": 4,
+        "note": "To see Blume's stats on chapter 8, use \"Blume8\" instead.",
+        "skill": [
+            "pavise"
+        ],
+        "base": {
+            "hp": 65,
+            "str": 21,
+            "mag": 16,
+            "skl": 13,
+            "spd": 14,
+            "lck": 3,
+            "def": 21,
+            "res": 16
+        },
+        "blood": {
+            "thrud": true
+        },
+        "item": {
+            "mjolnir": false,
+            "silverblade": true
+        }
+    },
+    "blume8": {
+        "name": "Blume (Chapter 8)",
+        "portrait": "blume.png",
+        "gold": 5000,
+        "job": "baron",
+        "lvl": 25,
+        "type": "boss",
+        "authority": 4,
+        "skill": [
+            "pavise"
+        ],
+        "base": {
+            "hp": 65,
+            "str": 21,
+            "mag": 16,
+            "skl": 13,
+            "spd": 14,
+            "lck": 3,
+            "def": 21,
+            "res": 16
+        },
+        "blood": {
+            "thrud": true
+        },
+        "item": {
+            "bolting": false,
+            "thoron": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "boldeaux": {
+        "name": "Bordeaux",
+        "portrait": "bordeaux.png",
+        "gold": 3000,
+        "job": "general",
+        "lvl": 14,
+        "type": "boss",
+        "authority": 1,
+        "skill": [
+            "pavise"
+        ],
+        "base": {
+            "hp": 54,
+            "str": 14,
+            "mag": 1,
+            "skl": 10,
+            "spd": 9,
+            "lck": 0,
+            "def": 16,
+            "res": 4
+        },
+        "blood": {},
+        "item": {
+            "steelblade": false,
+            "steelbow": false,
+            "barrierring": true
+        },
+        "RANDOM_IGNORE": true
+    },
+    "bovis": {
+        "name": "Bovis",
+        "portrait": "bovis.png",
+        "gold": 3000,
+        "job": "hero",
+        "lvl": 30,
+        "type": "boss",
+        "authority": 0,
+        "skill": [
+            "pursuit",
+            "critical",
+            "accost"
+        ],
+        "base": {
+            "hp": 80,
+            "str": 25,
+            "mag": 16,
+            "skl": 25,
+            "spd": 25,
+            "lck": 4,
+            "def": 20,
+            "res": 16
+        },
+        "blood": {},
+        "item": {
+            "silverblade": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "boyce": {
+        "name": "Boyce",
+        "portrait": "boyce.png",
+        "gold": 3000,
+        "job": "swordmaster",
+        "lvl": 27,
+        "type": "boss",
+        "authority": 1,
+        "skill": [
+            "pursuit",
+            "adept",
+            "critical",
+            "sol"
+        ],
+        "base": {
+            "hp": 72,
+            "str": 26,
+            "mag": 5,
+            "skl": 28,
+            "spd": 27,
+            "lck": 11,
+            "def": 19,
+            "res": 12
+        },
+        "blood": {},
+        "item": {
+            "silversword": false,
+            "thundersword": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "bramsel": {
+        "name": "Bramsel",
+        "portrait": "bramsel.png",
+        "gold": 3000,
+        "job": "general",
+        "lvl": 16,
+        "type": "boss",
+        "authority": 1,
+        "skill": [
+            "pavise"
+        ],
+        "base": {
+            "hp": 56,
+            "str": 14,
+            "mag": 1,
+            "skl": 10,
+            "spd": 9,
+            "lck": 0,
+            "def": 16,
+            "res": 4
+        },
+        "blood": {},
+        "item": {
+            "horseslayer": true
+        },
+        "RANDOM_IGNORE": true
+    },
+    "brian": {
+        "name": "Brian",
+        "portrait": "burian.png",
+        "gold": 3000,
+        "job": "masterknight",
+        "lvl": 30,
+        "type": "boss",
+        "authority": 4,
+        "skill": [
+            "pursuit",
+            "accost"
+        ],
+        "base": {
+            "hp": 80,
+            "str": 27,
+            "mag": 14,
+            "skl": 24,
+            "spd": 26,
+            "lck": 12,
+            "def": 27,
+            "res": 17
+        },
+        "blood": {
+            "nal": true
+        },
+        "item": {
+            "helswath": false,
+            "lifering": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "byron": {
+        "name": "Byron",
+        "portrait": "byron.png",
+        "gold": 3000,
+        "job": "masterknight",
+        "lvl": 30,
+        "type": "boss",
+        "authority": 1,
+        "skill": [
+            "pursuit"
+        ],
+        "base": {
+            "hp": 20,
+            "str": 19,
+            "mag": 14,
+            "skl": 19,
+            "spd": 19,
+            "lck": 7,
+            "def": 19,
+            "res": 14
+        },
+        "blood": {
+            "baldr": true
+        },
+        "item": {
+            "brokensword": false
+        }
+    },
+    "canis": {
+        "name": "Canis",
+        "portrait": "canis.png",
+        "gold": 2000,
+        "job": "shaman",
+        "lvl": 30,
+        "type": "boss",
+        "authority": 0,
+        "skill": [
+            "pursuit",
+            "critical"
+        ],
+        "base": {
+            "hp": 80,
+            "str": 13,
+            "mag": 21,
+            "skl": 20,
+            "spd": 20,
+            "lck": 4,
+            "def": 16,
+            "res": 23
+        },
+        "blood": {},
+        "item": {
+            "nosferatu": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "chagall2": {
+        "name": "Chagall (Chapter 2)",
+        "portrait": "chagall.png",
+        "gold": 5000,
+        "job": "baron",
+        "lvl": 10,
+        "type": "boss",
+        "authority": 2,
+        "skill": [
+            "pavise"
+        ],
+        "base": {
+            "hp": 55,
+            "str": 15,
+            "mag": 8,
+            "skl": 10,
+            "spd": 10,
+            "lck": 0,
+            "def": 15,
+            "res": 8
+        },
+        "blood": {},
+        "item": {
+            "silverblade": false,
+            "physic": true
+        },
+        "RANDOM_IGNORE": true
+    },
+    "chagall3": {
+        "name": "Chagall (Chapter 3)",
+        "portrait": "chagall.png",
+        "gold": 5000,
+        "job": "baron",
+        "lvl": 25,
+        "type": "boss",
+        "authority": 2,
+        "skill": [
+            "pavise"
+        ],
+        "base": {
+            "hp": 70,
+            "str": 19,
+            "mag": 9,
+            "skl": 14,
+            "spd": 14,
+            "lck": 0,
+            "def": 19,
+            "res": 9
+        },
+        "blood": {},
+        "item": {
+            "silverblade": true,
+            "bolganone": false
+        }
+    },
+    "cimbaeth": {
+        "name": "Cimbaeth",
+        "portrait": "kinbois.png",
+        "gold": 3000,
+        "job": "warrior",
+        "lvl": 10,
+        "type": "boss",
+        "authority": 2,
+        "skill": [],
+        "base": {
+            "hp": 50,
+            "str": 14,
+            "mag": 0,
+            "skl": 8,
+            "spd": 15,
+            "lck": 0,
+            "def": 13,
+            "res": 4
+        },
+        "blood": {},
+        "item": {
+            "silveraxe": false,
+            "handaxe": true
+        },
+        "RANDOM_IGNORE": true
+    },
+    "clement": {
+        "name": "Clement",
+        "portrait": "clement.png",
+        "gold": 3000,
+        "job": "bishop",
+        "lvl": 18,
+        "type": "boss",
+        "authority": 1,
+        "skill": [],
+        "base": {
+            "hp": 53,
+            "str": 1,
+            "mag": 15,
+            "skl": 13,
+            "spd": 10,
+            "lck": 0,
+            "def": 4,
+            "res": 13
+        },
+        "blood": {},
+        "item": {
+            "sleep": true,
+            "thunder": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "cooulter": {
+        "name": "Coulter",
+        "portrait": "coulter.png",
+        "gold": 3000,
+        "job": "wyvernrider",
+        "lvl": 19,
+        "type": "boss",
+        "authority": 0,
+        "skill": [],
+        "base": {
+            "hp": 59,
+            "str": 15,
+            "mag": 1,
+            "skl": 12,
+            "spd": 11,
+            "lck": 0,
+            "def": 16,
+            "res": 1
+        },
+        "blood": {},
+        "item": {
+            "bravesword": true,
+            "javelin": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "cuvuli": {
+        "name": "Cuvuli",
+        "portrait": "cuvuli.png",
+        "gold": 3000,
+        "job": "bishop",
+        "lvl": 22,
+        "type": "boss",
+        "authority": 3,
+        "skill": [],
+        "base": {
+            "hp": 57,
+            "str": 2,
+            "mag": 16,
+            "skl": 14,
+            "spd": 11,
+            "lck": 0,
+            "def": 5,
+            "res": 14
+        },
+        "blood": {},
+        "item": {
+            "sleep": false,
+            "physic": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "daccar": {
+        "name": "Daccar",
+        "portrait": "daccar.png",
+        "gold": 5000,
+        "job": "baron",
+        "lvl": 26,
+        "type": "boss",
+        "authority": 2,
+        "skill": [
+            "pavise"
+        ],
+        "base": {
+            "hp": 71,
+            "str": 19,
+            "mag": 9,
+            "skl": 14,
+            "spd": 14,
+            "lck": 0,
+            "def": 19,
+            "res": 9
+        },
+        "blood": {},
+        "item": {
+            "blizzard": false,
+            "tornado": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "dagon": {
+        "name": "Dagon",
+        "portrait": "ctuzof.png",
+        "gold": 5000,
+        "job": "darkbishop",
+        "lvl": 29,
+        "type": "boss",
+        "authority": 1,
+        "skill": [
+            "pursuit"
+        ],
+        "base": {
+            "hp": 69,
+            "str": 2,
+            "mag": 23,
+            "skl": 18,
+            "spd": 18,
+            "lck": 0,
+            "def": 12,
+            "res": 20
+        },
+        "blood": {},
+        "item": {
+            "fenrir": false,
+            "jormungand": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "danann": {
+        "name": "Danann",
+        "portrait": "danan.png",
+        "gold": 5000,
+        "job": "baron",
+        "lvl": 25,
+        "type": "boss",
+        "authority": 4,
+        "skill": [
+            "pavise"
+        ],
+        "base": {
+            "hp": 60,
+            "str": 21,
+            "mag": 10,
+            "skl": 14,
+            "spd": 13,
+            "lck": 0,
+            "def": 20,
+            "res": 10
+        },
+        "blood": {
+            "nal": false
+        },
+        "item": {
+            "silveraxe": false,
+            "thiefsword": true
+        },
+        "RANDOM_IGNORE": true
+    },
+    "dimaggio": {
+        "name": "DiMaggio",
+        "portrait": "dimaggio.png",
+        "gold": 2000,
+        "job": "fighter",
+        "lvl": 10,
+        "type": "boss",
+        "authority": 1,
+        "skill": [],
+        "base": {
+            "hp": 45,
+            "str": 11,
+            "mag": 0,
+            "skl": 6,
+            "spd": 13,
+            "lck": 0,
+            "def": 11,
+            "res": 1
+        },
+        "blood": {},
+        "item": {
+            "steelaxe": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "distler": {
+        "name": "Distler",
+        "portrait": "distler.png",
+        "gold": 3000,
+        "job": "general",
+        "lvl": 22,
+        "type": "boss",
+        "authority": 1,
+        "skill": [
+            "pavise"
+        ],
+        "base": {
+            "hp": 62,
+            "str": 16,
+            "mag": 2,
+            "skl": 12,
+            "spd": 11,
+            "lck": 0,
+            "def": 18,
+            "res": 5
+        },
+        "blood": {},
+        "item": {
+            "silverlance": false,
+            "javelin": false,
+            "returnring": true
+        },
+        "RANDOM_IGNORE": true
+    },
+    "dithorba": {
+        "name": "D\u00edthorba",
+        "portrait": "deet'var.png",
+        "gold": 5000,
+        "job": "falconknight",
+        "lvl": 21,
+        "type": "boss",
+        "authority": 3,
+        "skill": [
+            "adept"
+        ],
+        "base": {
+            "hp": 61,
+            "str": 13,
+            "mag": 9,
+            "skl": 16,
+            "spd": 21,
+            "lck": 0,
+            "def": 12,
+            "res": 14
+        },
+        "blood": {},
+        "item": {
+            "silversword": false,
+            "miraclering": false
+        }
+    },
+    "donovan": {
+        "name": "Donovan",
+        "portrait": "donovan.png",
+        "gold": 3000,
+        "job": "general",
+        "lvl": 20,
+        "type": "boss",
+        "authority": 1,
+        "skill": [
+            "pavise"
+        ],
+        "base": {
+            "hp": 60,
+            "str": 16,
+            "mag": 2,
+            "skl": 12,
+            "spd": 11,
+            "lck": 0,
+            "def": 18,
+            "res": 5
+        },
+        "blood": {},
+        "item": {
+            "steelsword": false,
+            "steelbow": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "draco": {
+        "name": "Draco",
+        "portrait": "draco.png",
+        "gold": 3000,
+        "job": "sniper",
+        "lvl": 30,
+        "type": "boss",
+        "authority": 0,
+        "skill": [
+            "pursuit",
+            "adept",
+            "accost"
+        ],
+        "base": {
+            "hp": 80,
+            "str": 25,
+            "mag": 13,
+            "skl": 25,
+            "spd": 25,
+            "lck": 4,
+            "def": 20,
+            "res": 16
+        },
+        "blood": {},
+        "item": {
+            "killerbow": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "duvall": {
+        "name": "Duvall",
+        "portrait": "duvall.png",
+        "gold": 3000,
+        "job": "warrior",
+        "lvl": 20,
+        "type": "boss",
+        "authority": 2,
+        "skill": [],
+        "base": {
+            "hp": 60,
+            "str": 17,
+            "mag": 0,
+            "skl": 11,
+            "spd": 18,
+            "lck": 0,
+            "def": 16,
+            "res": 5
+        },
+        "blood": {},
+        "item": {
+            "handaxe": false,
+            "powerring": true
+        },
+        "ALT_NAME": [
+            "Dobarl"
+        ],
+        "RANDOM_IGNORE": true
+    },
+    "eldigan": {
+        "name": "Eldigan",
+        "portrait": "eldigan.png",
+        "gold": 3000,
+        "job": "paladinm",
+        "lvl": 23,
+        "type": "boss",
+        "authority": 5,
+        "skill": [],
+        "base": {
+            "hp": 65,
+            "str": 22,
+            "mag": 7,
+            "skl": 18,
+            "spd": 20,
+            "lck": 7,
+            "def": 24,
+            "res": 20
+        },
+        "blood": {
+            "hodr": true
+        },
+        "item": {
+            "mystletainn": false
+        }
+    },
+    "elliot": {
+        "name": "Elliot",
+        "portrait": "elliot.png",
+        "gold": 3000,
+        "job": "dukeknight",
+        "lvl": 15,
+        "type": "boss",
+        "authority": 2,
+        "skill": [],
+        "base": {
+            "hp": 55,
+            "str": 16,
+            "mag": 1,
+            "skl": 11,
+            "spd": 11,
+            "lck": 0,
+            "def": 12,
+            "res": 4
+        },
+        "blood": {},
+        "item": {
+            "silverlance": true
+        },
+        "RANDOM_IGNORE": true
+    },
+    "elliot1": {
+        "name": "Elliot (Chapter 1)",
+        "portrait": "elliot.png",
+        "gold": 3000,
+        "job": "dukeknight",
+        "lvl": 1,
+        "type": "boss",
+        "authority": 1,
+        "skill": [],
+        "base": {
+            "hp": 41,
+            "str": 12,
+            "mag": 0,
+            "skl": 7,
+            "spd": 7,
+            "lck": 0,
+            "def": 8,
+            "res": 3
+        },
+        "blood": {},
+        "item": {
+            "silverlance": false,
+            "javelin": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "equus": {
+        "name": "Equus",
+        "portrait": "equus.png",
+        "gold": 3000,
+        "job": "bishop",
+        "lvl": 30,
+        "type": "boss",
+        "authority": 0,
+        "skill": [
+            "pursuit",
+            "critical"
+        ],
+        "base": {
+            "hp": 80,
+            "str": 13,
+            "mag": 23,
+            "skl": 21,
+            "spd": 18,
+            "lck": 4,
+            "def": 16,
+            "res": 21
+        },
+        "blood": {
+            "fjalar": false
+        },
+        "item": {
+            "bolganone": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "eriu": {
+        "name": "Eriu",
+        "portrait": "eriu.png",
+        "gold": 1000,
+        "job": "thundermage",
+        "lvl": 22,
+        "type": "boss",
+        "authority": 0,
+        "note": "To see Eriu's stats on chapter 7, use \"Eriu7\" instead.",
+        "skill": [],
+        "base": {
+            "hp": 52,
+            "str": 3,
+            "mag": 16,
+            "skl": 19,
+            "spd": 16,
+            "lck": 7,
+            "def": 11,
+            "res": 15
+        },
+        "blood": {},
+        "item": {
+            "elthunder": false,
+            "legring": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "eriu7": {
+        "name": "Eriu (Chapter 7)",
+        "portrait": "eriu.png",
+        "gold": 1000,
+        "job": "thundermage",
+        "lvl": 22,
+        "type": "boss",
+        "authority": 0,
+        "skill": [],
+        "base": {
+            "hp": 52,
+            "str": 3,
+            "mag": 13,
+            "skl": 19,
+            "spd": 16,
+            "lck": 7,
+            "def": 11,
+            "res": 15
+        },
+        "blood": {},
+        "item": {
+            "elthunder": false,
+            "lifering": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "eva": {
+        "name": "Eva",
+        "portrait": "eva.png",
+        "gold": 3000,
+        "job": "paladinm",
+        "lvl": 18,
+        "type": "boss",
+        "authority": 0,
+        "skill": [],
+        "base": {
+            "hp": 58,
+            "str": 14,
+            "mag": 6,
+            "skl": 14,
+            "spd": 14,
+            "lck": 0,
+            "def": 14,
+            "res": 6
+        },
+        "blood": {},
+        "item": {
+            "steelsword": false,
+            "javelin": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "fisher": {
+        "name": "Fisher",
+        "portrait": "fisher.png",
+        "gold": 3000,
+        "job": "greatknight",
+        "lvl": 27,
+        "type": "boss",
+        "authority": 2,
+        "skill": [],
+        "base": {
+            "hp": 67,
+            "str": 20,
+            "mag": 2,
+            "skl": 15,
+            "spd": 15,
+            "lck": 0,
+            "def": 18,
+            "res": 5
+        },
+        "blood": {},
+        "item": {
+            "silveraxe": false,
+            "shieldring": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "fotla": {
+        "name": "Fotla",
+        "portrait": "fotla.png",
+        "gold": 1000,
+        "job": "windmage",
+        "lvl": 22,
+        "type": "boss",
+        "authority": 0,
+        "skill": [],
+        "base": {
+            "hp": 52,
+            "str": 3,
+            "mag": 16,
+            "skl": 16,
+            "spd": 19,
+            "lck": 7,
+            "def": 11,
+            "res": 15
+        },
+        "blood": {},
+        "item": {
+            "elwind": false,
+            "legring": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "fotla7": {
+        "name": "Fotla (Chapter 7)",
+        "portrait": "fotla.png",
+        "gold": 1000,
+        "job": "windmage",
+        "lvl": 22,
+        "type": "boss",
+        "authority": 0,
+        "note": "To see Fotla's stats on chapter 7, use \"Fotla7\" instead.",
+        "skill": [],
+        "base": {
+            "hp": 52,
+            "str": 3,
+            "mag": 13,
+            "skl": 16,
+            "spd": 19,
+            "lck": 7,
+            "def": 11,
+            "res": 15
+        },
+        "blood": {},
+        "item": {
+            "elwind": false,
+            "lifering": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "gallus": {
+        "name": "Gallus",
+        "portrait": "gallus.png",
+        "gold": 5000,
+        "job": "darkbishop",
+        "lvl": 30,
+        "type": "boss",
+        "authority": 0,
+        "skill": [
+            "pursuit",
+            "renewal"
+        ],
+        "base": {
+            "hp": 80,
+            "str": 13,
+            "mag": 28,
+            "skl": 23,
+            "spd": 23,
+            "lck": 4,
+            "def": 23,
+            "res": 25
+        },
+        "blood": {},
+        "item": {
+            "hell": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "gerrard": {
+        "name": "Gerrard",
+        "portrait": "gerrard.png",
+        "gold": 2000,
+        "job": "fighter",
+        "lvl": 20,
+        "type": "boss",
+        "authority": 2,
+        "skill": [],
+        "base": {
+            "hp": 55,
+            "str": 14,
+            "mag": 0,
+            "skl": 9,
+            "spd": 16,
+            "lck": 0,
+            "def": 14,
+            "res": 2
+        },
+        "blood": {},
+        "item": {
+            "steelaxe": false,
+            "handaxe": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "harold": {
+        "name": "Harold",
+        "portrait": "harold.png",
+        "gold": 3000,
+        "job": "general",
+        "lvl": 10,
+        "type": "boss",
+        "authority": 1,
+        "skill": [
+            "pavise"
+        ],
+        "base": {
+            "hp": 50,
+            "str": 13,
+            "mag": 1,
+            "skl": 9,
+            "spd": 8,
+            "lck": 0,
+            "def": 15,
+            "res": 4
+        },
+        "blood": {},
+        "item": {
+            "steelaxe": false,
+            "steelbow": false,
+            "returnring": true
+        },
+        "RANDOM_IGNORE": true
+    },
+    "hilda": {
+        "name": "Hilda",
+        "portrait": "hilda.png",
+        "gold": 6000,
+        "job": "queen",
+        "lvl": 27,
+        "type": "boss",
+        "authority": 3,
+        "note": "To see Hilda's stats on chapter 10, use \"Hilda10\" instead.",
+        "skill": [
+            "pursuit",
+            "charm"
+        ],
+        "base": {
+            "hp": 70,
+            "str": 12,
+            "mag": 30,
+            "skl": 21,
+            "spd": 24,
+            "lck": 5,
+            "def": 19,
+            "res": 30
+        },
+        "blood": {
+            "fjalar": false
+        },
+        "item": {
+            "bolganone": false,
+            "fortify": false
+        }
+    },
+    "hilda10": {
+        "name": "Hilda (Chapter 10)",
+        "portrait": "hilda.png",
+        "gold": 6000,
+        "job": "queen",
+        "lvl": 27,
+        "type": "boss",
+        "authority": 4,
+        "skill": [
+            "pursuit",
+            "charm"
+        ],
+        "base": {
+            "hp": 70,
+            "str": 12,
+            "mag": 30,
+            "skl": 21,
+            "spd": 24,
+            "lck": 5,
+            "def": 19,
+            "res": 30
+        },
+        "blood": {
+            "fjalar": false
+        },
+        "item": {
+            "bolganone": true,
+            "speedring": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "ishtar": {
+        "name": "Ishtar",
+        "portrait": "ishtar.png",
+        "gold": 5000,
+        "job": "sage",
+        "lvl": 30,
+        "type": "boss",
+        "authority": 5,
+        "note": "To see Ishtar's stats on chapter 10/8, use \"Ishtar10/Ishtar8\" instead.",
+        "skill": [
+            "adept",
+            "vantage"
+        ],
+        "base": {
+            "hp": 70,
+            "str": 6,
+            "mag": 30,
+            "skl": 27,
+            "spd": 30,
+            "lck": 15,
+            "def": 18,
+            "res": 27
+        },
+        "blood": {
+            "thrud": true
+        },
+        "item": {
+            "mjolnir": false,
+            "barrierring": false
+        }
+    },
+    "ishtar10": {
+        "name": "Ishtar (Chapter 10)",
+        "portrait": "ishtar.png",
+        "gold": 5000,
+        "job": "sage",
+        "lvl": 27,
+        "type": "boss",
+        "authority": 0,
+        "skill": [
+            "adept",
+            "vantage"
+        ],
+        "base": {
+            "hp": 50,
+            "str": 5,
+            "mag": 28,
+            "skl": 24,
+            "spd": 30,
+            "lck": 13,
+            "def": 10,
+            "res": 26
+        },
+        "blood": {
+            "thrud": true
+        },
+        "item": {
+            "mjolnir": false,
+            "barrierring": false,
+            "lifering": true
+        },
+        "RANDOM_IGNORE": true
+    },
+    "ishtar8": {
+        "name": "Ishtar (Chapter 8)",
+        "portrait": "ishtar.png",
+        "gold": 5000,
+        "job": "sage",
+        "lvl": 22,
+        "type": "boss",
+        "authority": 1,
+        "skill": [
+            "adept",
+            "vantage"
+        ],
+        "base": {
+            "hp": 42,
+            "str": 5,
+            "mag": 22,
+            "skl": 24,
+            "spd": 29,
+            "lck": 12,
+            "def": 10,
+            "res": 19
+        },
+        "blood": {
+            "thrud": true
+        },
+        "item": {
+            "mjolnir": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "ishtore": {
+        "name": "Ishtore",
+        "portrait": "ishtore.png",
+        "gold": 3000,
+        "job": "magefighterm",
+        "lvl": 20,
+        "type": "boss",
+        "authority": 3,
+        "skill": [
+            "adept"
+        ],
+        "base": {
+            "hp": 50,
+            "str": 12,
+            "mag": 19,
+            "skl": 18,
+            "spd": 18,
+            "lck": 9,
+            "def": 14,
+            "res": 14
+        },
+        "blood": {
+            "thrud": false
+        },
+        "item": {
+            "bolting": false,
+            "thoron": true
+        }
+    },
+    "jacoban": {
+        "name": "Jacoban",
+        "portrait": "jacoban.png",
+        "gold": 3000,
+        "job": "hero",
+        "lvl": 20,
+        "type": "boss",
+        "authority": 2,
+        "skill": [
+            "pursuit"
+        ],
+        "base": {
+            "hp": 60,
+            "str": 18,
+            "mag": 5,
+            "skl": 18,
+            "spd": 18,
+            "lck": 0,
+            "def": 13,
+            "res": 5
+        },
+        "blood": {},
+        "item": {
+            "thundersword": true
+        },
+        "RANDOM_IGNORE": true
+    },
+    "javarro": {
+        "name": "Javarro",
+        "portrait": "javarro.png",
+        "gold": 3000,
+        "job": "ranger",
+        "lvl": 20,
+        "type": "boss",
+        "authority": 3,
+        "skill": [
+            "adept"
+        ],
+        "base": {
+            "hp": 60,
+            "str": 14,
+            "mag": 2,
+            "skl": 21,
+            "spd": 18,
+            "lck": 0,
+            "def": 14,
+            "res": 5
+        },
+        "blood": {},
+        "item": {
+            "silversword": false,
+            "skillring": true
+        },
+        "RANDOM_IGNORE": true
+    },
+    "judah": {
+        "name": "Judah",
+        "portrait": "judah.png",
+        "gold": 5000,
+        "job": "darkbishop",
+        "lvl": 22,
+        "type": "boss",
+        "authority": 1,
+        "skill": [
+            "pursuit"
+        ],
+        "base": {
+            "hp": 62,
+            "str": 2,
+            "mag": 21,
+            "skl": 16,
+            "spd": 16,
+            "lck": 0,
+            "def": 12,
+            "res": 18
+        },
+        "blood": {},
+        "item": {
+            "fenrir": false,
+            "jormungand": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "julius": {
+        "name": "Julius",
+        "portrait": "julius.png",
+        "gold": 0,
+        "job": "darkprince",
+        "lvl": 30,
+        "type": "boss",
+        "authority": 3,
+        "note": "To see Julius's stats on chapter 10, use \"Julius10\" instead.",
+        "skill": [
+            "wrath",
+            "pursuit",
+            "nihil",
+            "accost"
+        ],
+        "base": {
+            "hp": 80,
+            "str": 15,
+            "mag": 25,
+            "skl": 27,
+            "spd": 27,
+            "lck": 13,
+            "def": 25,
+            "res": 30
+        },
+        "blood": {
+            "loptous": true,
+            "fjalar": false
+        },
+        "item": {
+            "loptous": false,
+            "meteor": false
+        }
+    },
+    "julius10": {
+        "name": "Julius (Chapter 10)",
+        "portrait": "julius.png",
+        "gold": 0,
+        "job": "darkprince",
+        "lvl": 30,
+        "type": "boss",
+        "authority": 5,
+        "skill": [
+            "wrath",
+            "pursuit",
+            "accost"
+        ],
+        "base": {
+            "hp": 80,
+            "str": 15,
+            "mag": 30,
+            "skl": 27,
+            "spd": 27,
+            "lck": 13,
+            "def": 25,
+            "res": 30
+        },
+        "blood": {
+            "loptous": true,
+            "fjalar": false
+        },
+        "item": {
+            "loptous": false,
+            "legring": true
+        },
+        "RANDOM_IGNORE": true
+    },
+    "juphiel": {
+        "name": "Juphiel",
+        "portrait": "juphiel.png",
+        "gold": 5000,
+        "job": "darkbishop",
+        "lvl": 29,
+        "type": "boss",
+        "authority": 1,
+        "skill": [
+            "pursuit"
+        ],
+        "base": {
+            "hp": 69,
+            "str": 2,
+            "mag": 23,
+            "skl": 18,
+            "spd": 18,
+            "lck": 0,
+            "def": 12,
+            "res": 20
+        },
+        "blood": {},
+        "item": {
+            "fenrir": false,
+            "jormungand": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "kanatz": {
+        "name": "Kanatz",
+        "portrait": "kanatz.png",
+        "gold": 3000,
+        "job": "general",
+        "lvl": 20,
+        "type": "boss",
+        "authority": 1,
+        "skill": [
+            "pavise"
+        ],
+        "base": {
+            "hp": 60,
+            "str": 16,
+            "mag": 2,
+            "skl": 12,
+            "spd": 11,
+            "lck": 0,
+            "def": 18,
+            "res": 5
+        },
+        "blood": {},
+        "item": {
+            "silverlance": false,
+            "javelin": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "kutuzov": {
+        "name": "Kutuzov",
+        "portrait": "ctuzof.png",
+        "gold": 5000,
+        "job": "darkbishop",
+        "lvl": 20,
+        "type": "boss",
+        "authority": 1,
+        "skill": [
+            "pursuit"
+        ],
+        "base": {
+            "hp": 60,
+            "str": 2,
+            "mag": 21,
+            "skl": 16,
+            "spd": 16,
+            "lck": 0,
+            "def": 12,
+            "res": 18
+        },
+        "blood": {},
+        "item": {
+            "jormungand": false,
+            "bargainring": true
+        },
+        "RANDOM_IGNORE": true
+    },
+    "lamia": {
+        "name": "Lamia",
+        "portrait": "lamia.png",
+        "gold": 3000,
+        "job": "swordmaster",
+        "lvl": 25,
+        "type": "boss",
+        "authority": 3,
+        "skill": [
+            "pursuit",
+            "adept"
+        ],
+        "base": {
+            "hp": 65,
+            "str": 19,
+            "mag": 2,
+            "skl": 22,
+            "spd": 22,
+            "lck": 0,
+            "def": 14,
+            "res": 5
+        },
+        "blood": {},
+        "item": {
+            "silverblade": false,
+            "lifering": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "lepus": {
+        "name": "Lepus",
+        "portrait": "lepus.png",
+        "gold": 3000,
+        "job": "highpriest",
+        "lvl": 30,
+        "type": "boss",
+        "authority": 0,
+        "skill": [
+            "miracle",
+            "renewal"
+        ],
+        "base": {
+            "hp": 80,
+            "str": 13,
+            "mag": 25,
+            "skl": 22,
+            "spd": 21,
+            "lck": 4,
+            "def": 16,
+            "res": 21
+        },
+        "blood": {},
+        "item": {
+            "fortify": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "liza": {
+        "name": "Liza",
+        "portrait": "liza.png",
+        "gold": 1000,
+        "job": "thundermage",
+        "lvl": 20,
+        "type": "boss",
+        "authority": 4,
+        "skill": [],
+        "base": {
+            "hp": 46,
+            "str": 2,
+            "mag": 13,
+            "skl": 15,
+            "spd": 12,
+            "lck": 0,
+            "def": 3,
+            "res": 11
+        },
+        "blood": {},
+        "item": {
+            "elthunder": false,
+            "shieldring": false,
+            "magicring": true
+        },
+        "RANDOM_IGNORE": true
+    },
+    "lombard": {
+        "name": "Lombard",
+        "portrait": "langobalt.png",
+        "gold": 5000,
+        "job": "baron",
+        "lvl": 30,
+        "type": "boss",
+        "authority": 3,
+        "skill": [
+            "pavise"
+        ],
+        "base": {
+            "hp": 75,
+            "str": 21,
+            "mag": 10,
+            "skl": 16,
+            "spd": 16,
+            "lck": 0,
+            "def": 21,
+            "res": 10
+        },
+        "blood": {
+            "nal": true
+        },
+        "item": {
+            "helswath": false
+        }
+    },
+    "mabel": {
+        "name": "Mabel",
+        "portrait": "mabel.png",
+        "gold": 5000,
+        "job": "falconknight",
+        "lvl": 25,
+        "type": "boss",
+        "authority": 0,
+        "skill": [
+            "pursuit",
+            "adept",
+            "nihil",
+            "critical"
+        ],
+        "base": {
+            "hp": 65,
+            "str": 19,
+            "mag": 13,
+            "skl": 23,
+            "spd": 30,
+            "lck": 30,
+            "def": 21,
+            "res": 27
+        },
+        "blood": {
+            "forseti": false
+        },
+        "item": {
+            "earthsword": false,
+            "legring": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "macbeth": {
+        "name": "Macbeth",
+        "portrait": "macbeth.png",
+        "gold": 3000,
+        "job": "general",
+        "lvl": 22,
+        "type": "boss",
+        "authority": 1,
+        "skill": [
+            "pavise"
+        ],
+        "base": {
+            "hp": 62,
+            "str": 16,
+            "mag": 2,
+            "skl": 12,
+            "spd": 11,
+            "lck": 0,
+            "def": 18,
+            "res": 5
+        },
+        "blood": {},
+        "item": {
+            "steellance": false,
+            "javelin": false,
+            "shieldring": true
+        },
+        "RANDOM_IGNORE": true
+    },
+    "magorn": {
+        "name": "Magorn",
+        "portrait": "magorn.png",
+        "gold": 5000,
+        "job": "wyvernlord",
+        "lvl": 25,
+        "type": "boss",
+        "authority": 3,
+        "skill": [
+            "pursuit"
+        ],
+        "base": {
+            "hp": 70,
+            "str": 19,
+            "mag": 2,
+            "skl": 16,
+            "spd": 14,
+            "lck": 0,
+            "def": 21,
+            "res": 2
+        },
+        "blood": {},
+        "item": {
+            "bravelance": false,
+            "shieldring": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "maios": {
+        "name": "Maios",
+        "portrait": "maios.png",
+        "gold": 5000,
+        "job": "baron",
+        "lvl": 22,
+        "type": "boss",
+        "authority": 2,
+        "skill": [
+            "pavise"
+        ],
+        "base": {
+            "hp": 67,
+            "str": 18,
+            "mag": 9,
+            "skl": 13,
+            "spd": 13,
+            "lck": 0,
+            "def": 18,
+            "res": 9
+        },
+        "blood": {},
+        "item": {
+            "tornado": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "manfroy": {
+        "name": "Manfroy",
+        "portrait": "manfroy.png",
+        "gold": 5000,
+        "job": "darkbishop",
+        "lvl": 30,
+        "type": "boss",
+        "authority": 4,
+        "skill": [
+            "pursuit",
+            "adept",
+            "charm"
+        ],
+        "base": {
+            "hp": 80,
+            "str": 10,
+            "mag": 29,
+            "skl": 25,
+            "spd": 24,
+            "lck": 6,
+            "def": 23,
+            "res": 27
+        },
+        "blood": {},
+        "item": {
+            "fenrir": false,
+            "jormungand": false
+        }
+    },
+    "maykov": {
+        "name": "Maykov",
+        "portrait": "maykov.png",
+        "gold": 3000,
+        "job": "general",
+        "lvl": 24,
+        "type": "boss",
+        "authority": 1,
+        "skill": [
+            "pavise"
+        ],
+        "base": {
+            "hp": 64,
+            "str": 17,
+            "mag": 2,
+            "skl": 13,
+            "spd": 12,
+            "lck": 0,
+            "def": 19,
+            "res": 5
+        },
+        "blood": {},
+        "item": {
+            "silverlance": false,
+            "killerbow": true
+        },
+        "RANDOM_IGNORE": true
+    },
+    "meng": {
+        "name": "Meng",
+        "portrait": "meng.png",
+        "gold": 5000,
+        "job": "falconknight",
+        "lvl": 25,
+        "type": "boss",
+        "authority": 4,
+        "skill": [
+            "pursuit",
+            "adept",
+            "nihil",
+            "critical"
+        ],
+        "base": {
+            "hp": 65,
+            "str": 19,
+            "mag": 13,
+            "skl": 23,
+            "spd": 30,
+            "lck": 30,
+            "def": 21,
+            "res": 27
+        },
+        "blood": {
+            "forseti": false
+        },
+        "item": {
+            "earthsword": false,
+            "legring": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "morrigan": {
+        "name": "Morrigan",
+        "portrait": "morrigan.png",
+        "gold": 5000,
+        "job": "darkbishop",
+        "lvl": 25,
+        "type": "boss",
+        "authority": 2,
+        "skill": [
+            "pursuit"
+        ],
+        "base": {
+            "hp": 65,
+            "str": 2,
+            "mag": 22,
+            "skl": 17,
+            "spd": 17,
+            "lck": 0,
+            "def": 12,
+            "res": 19
+        },
+        "blood": {},
+        "item": {
+            "fenrir": false,
+            "jormungand": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "muhammed": {
+        "name": "Muhammed",
+        "portrait": "chagall.png",
+        "gold": 3000,
+        "job": "general",
+        "lvl": 25,
+        "type": "boss",
+        "authority": 2,
+        "skill": [
+            "pavise"
+        ],
+        "base": {
+            "hp": 65,
+            "str": 17,
+            "mag": 2,
+            "skl": 13,
+            "spd": 12,
+            "lck": 0,
+            "def": 19,
+            "res": 5
+        },
+        "blood": {},
+        "item": {
+            "bravelance": true,
+            "bravebow": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "munnir": {
+        "name": "Munnir",
+        "portrait": "gandolf.png",
+        "gold": 3000,
+        "job": "warrior",
+        "lvl": 20,
+        "type": "boss",
+        "authority": 2,
+        "skill": [],
+        "base": {
+            "hp": 60,
+            "str": 17,
+            "mag": 0,
+            "skl": 11,
+            "spd": 18,
+            "lck": 0,
+            "def": 16,
+            "res": 5
+        },
+        "blood": {},
+        "item": {
+            "handaxe": false,
+            "skillring": true
+        },
+        "RANDOM_IGNORE": true
+    },
+    "mus": {
+        "name": "Mus",
+        "portrait": "mus.png",
+        "gold": 5000,
+        "job": "baron",
+        "lvl": 30,
+        "type": "boss",
+        "authority": 0,
+        "skill": [
+            "pavise",
+            "pursuit",
+            "adept"
+        ],
+        "base": {
+            "hp": 80,
+            "str": 25,
+            "mag": 20,
+            "skl": 20,
+            "spd": 20,
+            "lck": 4,
+            "def": 25,
+            "res": 20
+        },
+        "blood": {},
+        "item": {
+            "silverlance": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "musar": {
+        "name": "Musar",
+        "portrait": "musar.png",
+        "gold": 3000,
+        "job": "mageknight",
+        "lvl": 30,
+        "type": "boss",
+        "authority": 3,
+        "skill": [
+            "pursuit"
+        ],
+        "base": {
+            "hp": 65,
+            "str": 11,
+            "mag": 23,
+            "skl": 16,
+            "spd": 20,
+            "lck": 7,
+            "def": 17,
+            "res": 19
+        },
+        "blood": {
+            "forseti": false
+        },
+        "item": {
+            "tornado": true,
+            "shieldring": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "ovis": {
+        "name": "Ovis",
+        "portrait": "ovis.png",
+        "gold": 5000,
+        "job": "sage",
+        "lvl": 30,
+        "type": "boss",
+        "authority": 0,
+        "skill": [
+            "pursuit",
+            "adept",
+            "accost"
+        ],
+        "base": {
+            "hp": 80,
+            "str": 13,
+            "mag": 28,
+            "skl": 25,
+            "spd": 28,
+            "lck": 4,
+            "def": 16,
+            "res": 25
+        },
+        "blood": {
+            "forseti": false
+        },
+        "item": {
+            "tornado": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "ovo": {
+        "name": "Ovo",
+        "portrait": "ovo.png",
+        "gold": 3000,
+        "job": "mageknight",
+        "lvl": 22,
+        "type": "boss",
+        "authority": 2,
+        "skill": [],
+        "base": {
+            "hp": 62,
+            "str": 11,
+            "mag": 14,
+            "skl": 13,
+            "spd": 13,
+            "lck": 0,
+            "def": 9,
+            "res": 11
+        },
+        "blood": {},
+        "item": {
+            "elthunder": false,
+            "shieldring": true
+        },
+        "RANDOM_IGNORE": true
+    },
+    "palmarch": {
+        "name": "Palmarch",
+        "portrait": "palmarch.png",
+        "gold": 3000,
+        "job": "bishop",
+        "lvl": 20,
+        "type": "boss",
+        "authority": 1,
+        "skill": [],
+        "base": {
+            "hp": 55,
+            "str": 2,
+            "mag": 16,
+            "skl": 14,
+            "spd": 11,
+            "lck": 0,
+            "def": 5,
+            "res": 14
+        },
+        "blood": {},
+        "item": {
+            "mend": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "pamela": {
+        "name": "Pamela",
+        "portrait": "pamela.png",
+        "gold": 5000,
+        "job": "falconknight",
+        "lvl": 23,
+        "type": "boss",
+        "authority": 3,
+        "skill": [
+            "adept"
+        ],
+        "base": {
+            "hp": 63,
+            "str": 13,
+            "mag": 9,
+            "skl": 16,
+            "spd": 21,
+            "lck": 0,
+            "def": 12,
+            "res": 14
+        },
+        "blood": {},
+        "item": {
+            "silverlance": false,
+            "shieldring": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "papilio": {
+        "name": "Papilio",
+        "portrait": "papillon.png",
+        "gold": 3000,
+        "job": "wyvernrider",
+        "lvl": 20,
+        "type": "boss",
+        "authority": 2,
+        "skill": [],
+        "base": {
+            "hp": 60,
+            "str": 16,
+            "mag": 2,
+            "skl": 13,
+            "spd": 12,
+            "lck": 0,
+            "def": 17,
+            "res": 2
+        },
+        "blood": {},
+        "item": {
+            "steelsword": false,
+            "lifering": true
+        },
+        "RANDOM_IGNORE": true
+    },
+    "philip": {
+        "name": "Philip",
+        "portrait": "philip.png",
+        "gold": 3000,
+        "job": "general",
+        "lvl": 18,
+        "type": "boss",
+        "authority": 3,
+        "skill": [
+            "pavise"
+        ],
+        "base": {
+            "hp": 58,
+            "str": 15,
+            "mag": 1,
+            "skl": 11,
+            "spd": 10,
+            "lck": 0,
+            "def": 17,
+            "res": 4
+        },
+        "blood": {},
+        "item": {
+            "silverlance": false,
+            "returnring": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "pizare": {
+        "name": "Pizare",
+        "portrait": "pizare.png",
+        "gold": 3000,
+        "job": "warrior",
+        "lvl": 20,
+        "type": "boss",
+        "authority": 2,
+        "skill": [],
+        "base": {
+            "hp": 60,
+            "str": 17,
+            "mag": 0,
+            "skl": 11,
+            "spd": 18,
+            "lck": 0,
+            "def": 16,
+            "res": 5
+        },
+        "blood": {},
+        "item": {
+            "silveraxe": false,
+            "legring": true
+        },
+        "ALT_NAME": [
+            "Pizarl",
+            "Pizart"
+        ],
+        "RANDOM_IGNORE": true
+    },
+    "porcus": {
+        "name": "Porcus",
+        "portrait": "porcus.png",
+        "gold": 6000,
+        "job": "thieffighter",
+        "lvl": 30,
+        "type": "boss",
+        "authority": 0,
+        "skill": [
+            "pursuit",
+            "steal",
+            "critical"
+        ],
+        "base": {
+            "hp": 80,
+            "str": 20,
+            "mag": 16,
+            "skl": 20,
+            "spd": 25,
+            "lck": 4,
+            "def": 18,
+            "res": 16
+        },
+        "blood": {},
+        "item": {
+            "bravesword": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "reptor": {
+        "name": "Reptor",
+        "portrait": "reptor.png",
+        "gold": 5000,
+        "job": "baron",
+        "lvl": 30,
+        "type": "boss",
+        "authority": 4,
+        "skill": [
+            "pavise"
+        ],
+        "base": {
+            "hp": 75,
+            "str": 21,
+            "mag": 30,
+            "skl": 16,
+            "spd": 16,
+            "lck": 0,
+            "def": 21,
+            "res": 10
+        },
+        "blood": {
+            "thrud": true
+        },
+        "item": {
+            "mjolnir": false,
+            "lifering": false
+        }
+    },
+    "riddell": {
+        "name": "Riddell",
+        "portrait": "riddell.png",
+        "gold": 3000,
+        "job": "paladinm",
+        "lvl": 28,
+        "type": "boss",
+        "authority": 4,
+        "skill": [
+            "pursuit",
+            "critical"
+        ],
+        "base": {
+            "hp": 65,
+            "str": 21,
+            "mag": 9,
+            "skl": 21,
+            "spd": 22,
+            "lck": 15,
+            "def": 21,
+            "res": 11
+        },
+        "blood": {},
+        "item": {
+            "bravesword": false,
+            "powerring": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "roberto": {
+        "name": "Roberto",
+        "portrait": "waltz.png",
+        "gold": 3000,
+        "job": "paladinm",
+        "lvl": 26,
+        "type": "boss",
+        "authority": 2,
+        "skill": [
+            "pursuit",
+            "accost"
+        ],
+        "base": {
+            "hp": 70,
+            "str": 21,
+            "mag": 14,
+            "skl": 22,
+            "spd": 24,
+            "lck": 15,
+            "def": 21,
+            "res": 18
+        },
+        "blood": {},
+        "item": {
+            "bravesword": false,
+            "javelin": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "rodan": {
+        "name": "Rodan",
+        "portrait": "rodan.png",
+        "gold": 3000,
+        "job": "bishop",
+        "lvl": 28,
+        "type": "boss",
+        "authority": 2,
+        "skill": [],
+        "base": {
+            "hp": 63,
+            "str": 2,
+            "mag": 18,
+            "skl": 16,
+            "spd": 13,
+            "lck": 0,
+            "def": 5,
+            "res": 16
+        },
+        "blood": {},
+        "item": {
+            "sleep": false,
+            "elthunder": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "sandima": {
+        "name": "Sandima",
+        "portrait": "sandima.png",
+        "gold": 3000,
+        "job": "darkmage",
+        "lvl": 10,
+        "type": "boss",
+        "authority": 2,
+        "skill": [],
+        "base": {
+            "hp": 50,
+            "str": 1,
+            "mag": 13,
+            "skl": 11,
+            "spd": 11,
+            "lck": 0,
+            "def": 8,
+            "res": 13
+        },
+        "blood": {},
+        "item": {
+            "fenrir": false,
+            "jormungand": false,
+            "magicring": true
+        },
+        "RANDOM_IGNORE": true
+    },
+    "schmidt": {
+        "name": "Schmidt",
+        "portrait": "slayder.png",
+        "gold": 3000,
+        "job": "greatknight",
+        "lvl": 20,
+        "type": "boss",
+        "authority": 3,
+        "skill": [],
+        "base": {
+            "hp": 60,
+            "str": 18,
+            "mag": 2,
+            "skl": 13,
+            "spd": 13,
+            "lck": 0,
+            "def": 16,
+            "res": 5
+        },
+        "blood": {},
+        "item": {
+            "braveaxe": true
+        },
+        "RANDOM_IGNORE": true
+    },
+    "scopio": {
+        "name": "Scopio",
+        "portrait": "scopio.png",
+        "gold": 3000,
+        "job": "masterknight",
+        "lvl": 29,
+        "type": "boss",
+        "authority": 3,
+        "skill": [
+            "pursuit",
+            "accost"
+        ],
+        "base": {
+            "hp": 80,
+            "str": 26,
+            "mag": 10,
+            "skl": 22,
+            "spd": 23,
+            "lck": 12,
+            "def": 24,
+            "res": 13
+        },
+        "blood": {},
+        "item": {
+            "killerbow": false,
+            "lifering": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "simia": {
+        "name": "Simia",
+        "portrait": "simia.png",
+        "gold": 3000,
+        "job": "swordmaster",
+        "lvl": 30,
+        "type": "boss",
+        "authority": 0,
+        "skill": [
+            "pursuit",
+            "adept",
+            "critical",
+            "renewal"
+        ],
+        "base": {
+            "hp": 80,
+            "str": 25,
+            "mag": 13,
+            "skl": 28,
+            "spd": 28,
+            "lck": 4,
+            "def": 20,
+            "res": 16
+        },
+        "blood": {},
+        "item": {
+            "silversword": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "slayder": {
+        "name": "Slayder",
+        "portrait": "slayder.png",
+        "gold": 3000,
+        "job": "greatknight",
+        "lvl": 20,
+        "type": "boss",
+        "authority": 2,
+        "skill": [],
+        "base": {
+            "hp": 60,
+            "str": 18,
+            "mag": 2,
+            "skl": 13,
+            "spd": 13,
+            "lck": 0,
+            "def": 16,
+            "res": 5
+        },
+        "blood": {},
+        "item": {
+            "silveraxe": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "tigris": {
+        "name": "Tigris",
+        "portrait": "tigris.png",
+        "gold": 3000,
+        "job": "warrior",
+        "lvl": 30,
+        "type": "boss",
+        "authority": 0,
+        "skill": [
+            "wrath",
+            "pursuit"
+        ],
+        "base": {
+            "hp": 80,
+            "str": 24,
+            "mag": 13,
+            "skl": 18,
+            "spd": 25,
+            "lck": 4,
+            "def": 23,
+            "res": 16
+        },
+        "blood": {},
+        "item": {
+            "silveraxe": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "travant": {
+        "name": "Travant",
+        "portrait": "travant.png",
+        "gold": 5000,
+        "job": "wyvernlord",
+        "lvl": 30,
+        "type": "boss",
+        "authority": 4,
+        "skill": [
+            "pursuit",
+            "nihil",
+            "vantage"
+        ],
+        "base": {
+            "hp": 65,
+            "str": 24,
+            "mag": 4,
+            "skl": 21,
+            "spd": 18,
+            "lck": 6,
+            "def": 26,
+            "res": 6
+        },
+        "blood": {
+            "dainn": true
+        },
+        "item": {
+            "silverlance": false,
+            "powerring": true
+        }
+    },
+    "vaha": {
+        "name": "Vaha",
+        "portrait": "vaha.png",
+        "gold": 3000,
+        "job": "magefighterf",
+        "lvl": 21,
+        "type": "boss",
+        "authority": 3,
+        "skill": [
+            "adept"
+        ],
+        "base": {
+            "hp": 47,
+            "str": 7,
+            "mag": 16,
+            "skl": 15,
+            "spd": 18,
+            "lck": 0,
+            "def": 11,
+            "res": 14
+        },
+        "blood": {},
+        "item": {
+            "meteor": false,
+            "miraclesword": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "waltz": {
+        "name": "Waltz",
+        "portrait": "waltz.png",
+        "gold": 3000,
+        "job": "ranger",
+        "lvl": 20,
+        "type": "boss",
+        "authority": 3,
+        "skill": [
+            "adept"
+        ],
+        "base": {
+            "hp": 60,
+            "str": 14,
+            "mag": 2,
+            "skl": 21,
+            "spd": 18,
+            "lck": 0,
+            "def": 14,
+            "res": 5
+        },
+        "blood": {},
+        "item": {
+            "steelblade": false,
+            "paragonring": true
+        },
+        "RANDOM_IGNORE": true
+    },
+    "yves": {
+        "name": "Yves",
+        "portrait": "yves.png",
+        "gold": 3000,
+        "job": "paladinm",
+        "lvl": 18,
+        "type": "boss",
+        "authority": 0,
+        "skill": [],
+        "base": {
+            "hp": 58,
+            "str": 14,
+            "mag": 6,
+            "skl": 14,
+            "spd": 14,
+            "lck": 0,
+            "def": 14,
+            "res": 6
+        },
+        "blood": {},
+        "item": {
+            "steelsword": false,
+            "javelin": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "zagam": {
+        "name": "Zagam",
+        "portrait": "zagam.png",
+        "gold": 5000,
+        "job": "darkbishop",
+        "lvl": 27,
+        "type": "boss",
+        "authority": 2,
+        "skill": [
+            "pursuit"
+        ],
+        "base": {
+            "hp": 67,
+            "str": 2,
+            "mag": 23,
+            "skl": 18,
+            "spd": 18,
+            "lck": 0,
+            "def": 12,
+            "res": 20
+        },
+        "blood": {},
+        "item": {
+            "fortify": false,
+            "jormungand": false
+        },
+        "RANDOM_IGNORE": true
+    },
+    "zane": {
+        "name": "Zane",
+        "portrait": "zane.png",
+        "gold": 3000,
+        "job": "dukeknight",
+        "lvl": 21,
+        "type": "boss",
+        "authority": 3,
+        "skill": [],
+        "base": {
+            "hp": 61,
+            "str": 18,
+            "mag": 2,
+            "skl": 13,
+            "spd": 13,
+            "lck": 0,
+            "def": 14,
+            "res": 5
+        },
+        "blood": {},
+        "item": {
+            "horseslayer": true,
+            "javelin": false
+        }
+    }
+}

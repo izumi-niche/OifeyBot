@@ -1,0 +1,646 @@
+{
+    "belf": {
+        "name": "Belf",
+        "job": "cavalier",
+        "lvl": 10,
+        "promo": "paladin",
+        "portrait": "bsfe_belf.png",
+        "growth": {
+            "hp": 70,
+            "atk": 40,
+            "skl": 50,
+            "spd": 50,
+            "lck": 40,
+            "wlv": 70,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 27,
+            "atk": 5,
+            "skl": 11,
+            "spd": 8,
+            "lck": 6,
+            "wlv": 13,
+            "def": 4,
+            "res": 0
+        },
+        "note": false
+    },
+    "boah": {
+        "name": "Boah",
+        "job": "bishopm",
+        "lvl": 3,
+        "promo": false,
+        "portrait": "bsfe_boah.png",
+        "growth": {
+            "hp": 10,
+            "atk": 10,
+            "skl": 10,
+            "spd": 10,
+            "lck": 10,
+            "wlv": 10,
+            "def": 10,
+            "res": 3
+        },
+        "base": {
+            "hp": 22,
+            "atk": 1,
+            "skl": 5,
+            "spd": 6,
+            "lck": 4,
+            "wlv": 12,
+            "def": 3,
+            "res": 0
+        },
+        "note": false
+    },
+    "camus": {
+        "name": "Camus",
+        "job": "paladin",
+        "lvl": 10,
+        "promo": false,
+        "portrait": "bsfe_camus.png",
+        "growth": {
+            "hp": 90,
+            "atk": 60,
+            "skl": 60,
+            "spd": 60,
+            "lck": 60,
+            "wlv": 60,
+            "def": 60,
+            "res": 60
+        },
+        "base": {
+            "hp": 38,
+            "atk": 5,
+            "skl": 7,
+            "spd": 9,
+            "lck": 10,
+            "wlv": 14,
+            "def": 6,
+            "res": 0
+        },
+        "note": false
+    },
+    "castor": {
+        "name": "Castor",
+        "job": "hunter",
+        "lvl": 3,
+        "promo": "horseman",
+        "portrait": "bsfe_castor.png",
+        "growth": {
+            "hp": 70,
+            "atk": 60,
+            "skl": 40,
+            "spd": 40,
+            "lck": 20,
+            "wlv": 20,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 21,
+            "atk": 1,
+            "skl": 0,
+            "spd": 0,
+            "lck": 3,
+            "wlv": 6,
+            "def": 0,
+            "res": 0
+        },
+        "note": false
+    },
+    "catria": {
+        "name": "Catria",
+        "job": "pegasusknight",
+        "lvl": 3,
+        "promo": "dracoknight",
+        "portrait": "bsfe_catria.png",
+        "growth": {
+            "hp": 70,
+            "atk": 40,
+            "skl": 80,
+            "spd": 80,
+            "lck": 40,
+            "wlv": 70,
+            "def": 30,
+            "res": 3
+        },
+        "base": {
+            "hp": 19,
+            "atk": 0,
+            "skl": 1,
+            "spd": 5,
+            "lck": 7,
+            "wlv": 10,
+            "def": 1,
+            "res": 0
+        },
+        "note": false
+    },
+    "dice": {
+        "name": "Dice",
+        "job": "fighter",
+        "lvl": 10,
+        "promo": false,
+        "portrait": "bsfe_dice.png",
+        "growth": {
+            "hp": 60,
+            "atk": 50,
+            "skl": 50,
+            "spd": 50,
+            "lck": 70,
+            "wlv": 60,
+            "def": 50,
+            "res": 3
+        },
+        "base": {
+            "hp": 30,
+            "atk": 8,
+            "skl": 7,
+            "spd": 9,
+            "lck": 5,
+            "wlv": 8,
+            "def": 4,
+            "res": 0
+        },
+        "note": false
+    },
+    "dolph": {
+        "name": "Dolph",
+        "job": "knight",
+        "lvl": 1,
+        "promo": "general",
+        "portrait": "bsfe_dolph.png",
+        "growth": {
+            "hp": 70,
+            "atk": 30,
+            "skl": 40,
+            "spd": 30,
+            "lck": 10,
+            "wlv": 70,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 21,
+            "atk": 2,
+            "skl": 4,
+            "spd": 5,
+            "lck": 3,
+            "wlv": 7,
+            "def": 2,
+            "res": 0
+        },
+        "note": false
+    },
+    "est": {
+        "name": "Est",
+        "job": "pegasusknight",
+        "lvl": 1,
+        "promo": "dracoknight",
+        "portrait": "bsfe_est.png",
+        "growth": {
+            "hp": 50,
+            "atk": 70,
+            "skl": 70,
+            "spd": 70,
+            "lck": 60,
+            "wlv": 70,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 16,
+            "atk": 0,
+            "skl": 0,
+            "spd": 4,
+            "lck": 10,
+            "wlv": 7,
+            "def": 0,
+            "res": 0
+        },
+        "note": false
+    },
+    "frost": {
+        "name": "Frost",
+        "job": "bishopm",
+        "lvl": 1,
+        "promo": false,
+        "portrait": "bsfe_frost.png",
+        "growth": {
+            "hp": 60,
+            "atk": 10,
+            "skl": 30,
+            "spd": 20,
+            "lck": 40,
+            "wlv": 60,
+            "def": 10,
+            "res": 3
+        },
+        "base": {
+            "hp": 22,
+            "atk": 0,
+            "skl": 0,
+            "spd": 8,
+            "lck": 1,
+            "wlv": 10,
+            "def": 3,
+            "res": 0
+        },
+        "note": false
+    },
+    "hardin": {
+        "name": "Hardin",
+        "job": "cavalier",
+        "lvl": 6,
+        "promo": "paladin",
+        "portrait": "bsfe_hardin.png",
+        "growth": {
+            "hp": 50,
+            "atk": 30,
+            "skl": 50,
+            "spd": 60,
+            "lck": 30,
+            "wlv": 70,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 25,
+            "atk": 4,
+            "skl": 5,
+            "spd": 4,
+            "lck": 3,
+            "wlv": 9,
+            "def": 2,
+            "res": 0
+        },
+        "note": false
+    },
+    "leiden": {
+        "name": "Leiden",
+        "job": "cavalier",
+        "lvl": 10,
+        "promo": "paladin",
+        "portrait": "bsfe_leiden.png",
+        "growth": {
+            "hp": 60,
+            "atk": 30,
+            "skl": 60,
+            "spd": 60,
+            "lck": 50,
+            "wlv": 90,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 26,
+            "atk": 5,
+            "skl": 8,
+            "spd": 7,
+            "lck": 8,
+            "wlv": 13,
+            "def": 3,
+            "res": 1
+        },
+        "note": false
+    },
+    "lena": {
+        "name": "Lena",
+        "job": "cleric",
+        "lvl": 3,
+        "promo": "bishopf",
+        "portrait": "bsfe_lena.png",
+        "growth": {
+            "hp": 10,
+            "atk": 20,
+            "skl": 40,
+            "spd": 20,
+            "lck": 70,
+            "wlv": 40,
+            "def": 10,
+            "res": 3
+        },
+        "base": {
+            "hp": 16,
+            "atk": 0,
+            "skl": 6,
+            "spd": 5,
+            "lck": 8,
+            "wlv": 7,
+            "def": 2,
+            "res": 0
+        },
+        "note": false
+    },
+    "macellan": {
+        "name": "Macellan",
+        "job": "knight",
+        "lvl": 1,
+        "promo": "general",
+        "portrait": "bsfe_macellan.png",
+        "growth": {
+            "hp": 50,
+            "atk": 30,
+            "skl": 10,
+            "spd": 20,
+            "lck": 10,
+            "wlv": 40,
+            "def": 10,
+            "res": 3
+        },
+        "base": {
+            "hp": 20,
+            "atk": 2,
+            "skl": 3,
+            "spd": 3,
+            "lck": 4,
+            "wlv": 5,
+            "def": 1,
+            "res": 0
+        },
+        "note": false
+    },
+    "malice": {
+        "name": "Malice",
+        "job": "mercenary",
+        "lvl": 3,
+        "promo": "hero",
+        "portrait": "bsfe_malice.png",
+        "growth": {
+            "hp": 70,
+            "atk": 40,
+            "skl": 80,
+            "spd": 80,
+            "lck": 40,
+            "wlv": 70,
+            "def": 30,
+            "res": 3
+        },
+        "base": {
+            "hp": 22,
+            "atk": 2,
+            "skl": 3,
+            "spd": 4,
+            "lck": 7,
+            "wlv": 10,
+            "def": 4,
+            "res": 1
+        },
+        "note": false
+    },
+    "midia": {
+        "name": "Midia",
+        "job": "paladin",
+        "lvl": 1,
+        "promo": false,
+        "portrait": "bsfe_midia.png",
+        "growth": {
+            "hp": 80,
+            "atk": 30,
+            "skl": 50,
+            "spd": 50,
+            "lck": 10,
+            "wlv": 50,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 20,
+            "atk": 0,
+            "skl": 6,
+            "spd": 2,
+            "lck": 7,
+            "wlv": 10,
+            "def": 1,
+            "res": 0
+        },
+        "note": false
+    },
+    "minerva": {
+        "name": "Minerva",
+        "job": "dracoknight",
+        "lvl": 1,
+        "promo": false,
+        "portrait": "bsfe_minerva.png",
+        "growth": {
+            "hp": 40,
+            "atk": 30,
+            "skl": 50,
+            "spd": 40,
+            "lck": 40,
+            "wlv": 70,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 22,
+            "atk": 1,
+            "skl": 1,
+            "spd": 5,
+            "lck": 6,
+            "wlv": 10,
+            "def": 2,
+            "res": 0
+        },
+        "note": false
+    },
+    "navarre": {
+        "name": "Navarre",
+        "job": "mercenary",
+        "lvl": 3,
+        "promo": "hero",
+        "portrait": "bsfe_navarre.png",
+        "growth": {
+            "hp": 90,
+            "atk": 50,
+            "skl": 40,
+            "spd": 50,
+            "lck": 60,
+            "wlv": 30,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 20,
+            "atk": 1,
+            "skl": 1,
+            "spd": 1,
+            "lck": 8,
+            "wlv": 9,
+            "def": 1,
+            "res": 0
+        },
+        "note": false
+    },
+    "nyna": {
+        "name": "Nyna",
+        "job": "bishopf",
+        "lvl": 1,
+        "promo": false,
+        "portrait": "bsfe_nyna.png",
+        "growth": {
+            "hp": 10,
+            "atk": 10,
+            "skl": 10,
+            "spd": 10,
+            "lck": 10,
+            "wlv": 30,
+            "def": 10,
+            "res": 3
+        },
+        "base": {
+            "hp": 18,
+            "atk": 1,
+            "skl": 1,
+            "spd": 5,
+            "lck": 18,
+            "wlv": 14,
+            "def": 2,
+            "res": 0
+        },
+        "note": false
+    },
+    "rickard": {
+        "name": "Rickard",
+        "job": "thief",
+        "lvl": 1,
+        "promo": false,
+        "portrait": "bsfe_rickard.png",
+        "growth": {
+            "hp": 50,
+            "atk": 50,
+            "skl": 20,
+            "spd": 60,
+            "lck": 40,
+            "wlv": 30,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 16,
+            "atk": 3,
+            "skl": 1,
+            "spd": 2,
+            "lck": 0,
+            "wlv": 2,
+            "def": 2,
+            "res": 0
+        },
+        "note": false
+    },
+    "roberto": {
+        "name": "Roberto",
+        "job": "horseman",
+        "lvl": 10,
+        "promo": false,
+        "portrait": "bsfe_roberto.png",
+        "growth": {
+            "hp": 40,
+            "atk": 30,
+            "skl": 30,
+            "spd": 30,
+            "lck": 40,
+            "wlv": 50,
+            "def": 10,
+            "res": 3
+        },
+        "base": {
+            "hp": 23,
+            "atk": 3,
+            "skl": 5,
+            "spd": 3,
+            "lck": 8,
+            "wlv": 10,
+            "def": 1,
+            "res": 0
+        },
+        "note": false
+    },
+    "roshea": {
+        "name": "Roshea",
+        "job": "cavalier",
+        "lvl": 1,
+        "promo": "paladin",
+        "portrait": "bsfe_roshea.png",
+        "growth": {
+            "hp": 80,
+            "atk": 40,
+            "skl": 50,
+            "spd": 40,
+            "lck": 50,
+            "wlv": 30,
+            "def": 30,
+            "res": 3
+        },
+        "base": {
+            "hp": 22,
+            "atk": 1,
+            "skl": 3,
+            "spd": 3,
+            "lck": 4,
+            "wlv": 7,
+            "def": 1,
+            "res": 0
+        },
+        "note": false
+    },
+    "tomas": {
+        "name": "Tomas",
+        "job": "archer",
+        "lvl": 1,
+        "promo": "sniper",
+        "portrait": "bsfe_tomas.png",
+        "growth": {
+            "hp": 50,
+            "atk": 20,
+            "skl": 20,
+            "spd": 30,
+            "lck": 10,
+            "wlv": 50,
+            "def": 10,
+            "res": 3
+        },
+        "base": {
+            "hp": 20,
+            "atk": 2,
+            "skl": 3,
+            "spd": 1,
+            "lck": 4,
+            "wlv": 9,
+            "def": 0,
+            "res": 0
+        },
+        "note": false
+    },
+    "wolf": {
+        "name": "Wolf",
+        "job": "horseman",
+        "lvl": 1,
+        "promo": false,
+        "portrait": "bsfe_wolf.png",
+        "growth": {
+            "hp": 70,
+            "atk": 40,
+            "skl": 10,
+            "spd": 20,
+            "lck": 50,
+            "wlv": 60,
+            "def": 20,
+            "res": 3
+        },
+        "base": {
+            "hp": 22,
+            "atk": 0,
+            "skl": 0,
+            "spd": 1,
+            "lck": 5,
+            "wlv": 6,
+            "def": 0,
+            "res": 0
+        },
+        "note": false
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "amelia": {
+        "Cavalier": [
+            [
+                "Paladin",
+                "<:gba_sword:686566426177175566>+30 \nHP +1 | Atk +1 | Skl +1 | Spd +2 | Def +1 | Res +2 | Mov +1",
+                true
+            ],
+            [
+                "Great Knight",
+                "<:gba_axe:686566425934037053>D \nHP +3 | Atk +1 | Skl +1 | Spd +2 | Def +2 | Res +2 | Con +1 | Mov -1",
+                true
+            ]
+        ],
+        "Knight": [
+            [
+                "General",
+                "<:gba_sword:686566426177175566>E <:gba_lance:686566425900482576>+40 <:gba_axe:686566425934037053>E \nHP +3 | Atk +2 | Skl +3 | Spd +2 | Def +3 | Res +3 | Con +1 | Mov +1",
+                true
+            ],
+            [
+                "Great Knight",
+                "<:gba_sword:686566426177175566>E <:gba_axe:686566425934037053>D \nHP +3 | Atk +1 | Skl +1 | Spd +2 | Def +2 | Res +2 | Mov +2",
+                true
+            ]
+        ],
+        "Super Recruit": [
+            [
+                "Paladin",
+                "<:gba_sword:686566426177175566>D \nHP +1 | Atk +1 | Skl +1 | Spd +2 | Def +1 | Res +2 | Con +3 | Mov +3",
+                true
+            ],
+            [
+                "Super Recruit",
+                "\nHP +2 | Atk +1 | Skl +1 | Spd +1 | Def +2 | Res +1",
+                true
+            ]
+        ]
+    },
+    "ross": {
+        "Fighter": [
+            [
+                "Warrior",
+                "<:gba_axe:686566425934037053>+40 <:gba_bow:686566426063929355>E \nHP +3 | Atk +1 | Skl +2 | Def +3 | Res +3 | Con +2 | Mov +1",
+                true
+            ],
+            [
+                "Hero",
+                "<:gba_sword:686566426177175566>C \nHP +4 | Atk +1 | Skl +2 | Spd +2 | Def +2 | Res +2 | Mov +1",
+                true
+            ]
+        ],
+        "Pirate": [
+            [
+                "Berserker",
+                "<:gba_axe:686566425934037053>+40 \nHP +4 | Atk +1 | Skl +1 | Spd +1 | Def +2 | Res +2 | Con +3 | Mov +1",
+                true
+            ],
+            [
+                "Warrior",
+                "<:gba_axe:686566425934037053>+40 <:gba_bow:686566426063929355>E \nHP +3 | Atk +1 | Skl +2 | Def +3 | Res +3 | Con +3 | Mov +1",
+                true
+            ]
+        ],
+        "Super Journeyman": [
+            [
+                "Hero",
+                "<:gba_sword:686566426177175566>C \nHP +4 | Atk +1 | Skl +2 | Spd +2 | Def +2 | Res +2 | Con +3 | Mov +1",
+                true
+            ],
+            [
+                "Hyper Journeyman",
+                "<:gba_axe:686566425934037053>+40 \nHP +4 | Atk +1 | Skl +2 | Spd +2 | Def +2 | Res +2 | Mov +1",
+                true
+            ]
+        ]
+    },
+    "ewan": {
+        "Mage": [
+            [
+                "Sage",
+                "<:gba_anima:686566425648693273>+40 <:gba_light:686566425988431889>D <:gba_staff:686566426039156810>D \nHP +4 | Atk +1 | Def +3 | Res +3 | Con +2 | Mov +1",
+                true
+            ],
+            [
+                "Mage Knight",
+                "<:gba_anima:686566425648693273>+40 <:gba_staff:686566426039156810>D \nHP +4 | Atk +2 | Def +2 | Res +2 | Con +3 | Mov +2",
+                true
+            ]
+        ],
+        "Shaman": [
+            [
+                "Druid",
+                "<:gba_anima:686566425648693273>D <:gba_dark:686566425783173230>+40 <:gba_staff:686566426039156810>E \nHP +4 | Spd +3 | Def +2 | Res +2 | Con +1 | Mov +1",
+                true
+            ],
+            [
+                "Summoner",
+                "<:gba_dark:686566425783173230>+40 <:gba_staff:686566426039156810>E \nHP +3 | Skl +1 | Spd +3 | Def +1 | Res +3 | Con +1 | Mov +1",
+                true
+            ]
+        ],
+        "Super Pupil": [
+            [
+                "Hyper Pupil",
+                "<:gba_anima:686566425648693273>+40 <:gba_dark:686566425783173230>D <:gba_light:686566425988431889>E \nHP +4 | Atk +2 | Spd +1 | Def +3 | Res +3 | Mov +1",
+                true
+            ],
+            [
+                "Sage",
+                "<:gba_anima:686566425648693273>+40 <:gba_light:686566425988431889>D <:gba_staff:686566426039156810>D \nHP +4 | Atk +1 | Def +3 | Res +3 | Con +2 | Mov +1",
+                true
+            ]
+        ]
+    }
+}

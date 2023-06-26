@@ -1,0 +1,404 @@
+{
+    "archer": {
+        "name": "Archer",
+        "exp": 28,
+        "promo": "sniper",
+        "weapon": [
+            "bow"
+        ],
+        "base": {
+            "hp": 16,
+            "str": 4,
+            "skl": 1,
+            "wlv": 9,
+            "spd": 4,
+            "lck": 0,
+            "def": 5,
+            "mov": 5
+        }
+    },
+    "ballistician": {
+        "name": "Ballistician",
+        "exp": 38,
+        "weapon": [
+            "ballista"
+        ],
+        "base": {
+            "hp": 20,
+            "str": 5,
+            "skl": 1,
+            "wlv": 8,
+            "spd": 3,
+            "lck": 0,
+            "def": 14,
+            "mov": 4
+        },
+        "promo": false
+    },
+    "bishop": {
+        "name": "Bishop",
+        "exp": 44,
+        "weapon": [
+            "magic",
+            "staff"
+        ],
+        "base": {
+            "hp": 22,
+            "str": 3,
+            "skl": 1,
+            "wlv": 10,
+            "spd": 14,
+            "lck": 0,
+            "def": 8,
+            "mov": 6
+        },
+        "promo": false
+    },
+    "cavalier": {
+        "name": "Cavalier",
+        "exp": 30,
+        "promo": "paladin",
+        "weapon": [
+            "sword",
+            "lance"
+        ],
+        "base": {
+            "hp": 16,
+            "str": 5,
+            "skl": 2,
+            "wlv": 8,
+            "spd": 6,
+            "lck": 0,
+            "def": 7,
+            "mov": 9
+        }
+    },
+    "dracoknight": {
+        "name": "Dracoknight",
+        "exp": 44,
+        "weapon": [
+            "sword",
+            "lance"
+        ],
+        "base": {
+            "hp": 22,
+            "str": 9,
+            "skl": 3,
+            "wlv": 10,
+            "spd": 6,
+            "lck": 0,
+            "def": 14,
+            "mov": 10
+        },
+        "promo": false
+    },
+    "fighter": {
+        "name": "Fighter",
+        "exp": 24,
+        "weapon": [
+            "axe"
+        ],
+        "base": {
+            "hp": 18,
+            "str": 5,
+            "skl": 1,
+            "wlv": 4,
+            "spd": 7,
+            "lck": 0,
+            "def": 4,
+            "mov": 6
+        },
+        "promo": false
+    },
+    "freelancer": {
+        "name": "Freelancer",
+        "exp": 40,
+        "weapon": [
+            "sword"
+        ],
+        "base": {
+            "hp": 16,
+            "str": 1,
+            "skl": 1,
+            "wlv": 2,
+            "spd": 10,
+            "lck": 0,
+            "def": 4,
+            "mov": 6
+        },
+        "promo": false
+    },
+    "general": {
+        "name": "General",
+        "exp": 50,
+        "weapon": [
+            "sword"
+        ],
+        "base": {
+            "hp": 28,
+            "str": 9,
+            "skl": 1,
+            "wlv": 13,
+            "spd": 4,
+            "lck": 0,
+            "def": 14,
+            "mov": 5
+        },
+        "promo": false
+    },
+    "hero": {
+        "name": "Hero",
+        "exp": 46,
+        "weapon": [
+            "sword"
+        ],
+        "base": {
+            "hp": 24,
+            "str": 8,
+            "skl": 14,
+            "wlv": 10,
+            "spd": 14,
+            "lck": 0,
+            "def": 8,
+            "mov": 7
+        },
+        "promo": false
+    },
+    "horseman": {
+        "name": "Horseman",
+        "exp": 30,
+        "weapon": [
+            "bow"
+        ],
+        "base": {
+            "hp": 16,
+            "str": 4,
+            "skl": 1,
+            "wlv": 3,
+            "spd": 7,
+            "lck": 0,
+            "def": 4,
+            "mov": 9
+        },
+        "promo": false
+    },
+    "hunter": {
+        "name": "Hunter",
+        "exp": 26,
+        "weapon": [
+            "bow"
+        ],
+        "base": {
+            "hp": 18,
+            "str": 6,
+            "skl": 1,
+            "wlv": 5,
+            "spd": 5,
+            "lck": 0,
+            "def": 3,
+            "mov": 6
+        },
+        "promo": false
+    },
+    "knight": {
+        "name": "Knight",
+        "exp": 32,
+        "weapon": [
+            "sword",
+            "lance"
+        ],
+        "base": {
+            "hp": 16,
+            "str": 5,
+            "skl": 1,
+            "wlv": 7,
+            "spd": 3,
+            "lck": 0,
+            "def": 11,
+            "mov": 5
+        },
+        "promo": false
+    },
+    "lord": {
+        "name": "Lord",
+        "exp": 0,
+        "weapon": [
+            "sword"
+        ],
+        "base": {
+            "hp": 18,
+            "str": 5,
+            "skl": 3,
+            "wlv": 5,
+            "spd": 7,
+            "lck": 7,
+            "def": 7,
+            "mov": 7
+        },
+        "promo": false
+    },
+    "mage": {
+        "name": "Mage",
+        "exp": 32,
+        "promo": "bishop",
+        "weapon": [
+            "magic"
+        ],
+        "base": {
+            "hp": 16,
+            "str": 1,
+            "skl": 1,
+            "wlv": 7,
+            "spd": 5,
+            "lck": 0,
+            "def": 3,
+            "mov": 6
+        }
+    },
+    "manakete": {
+        "name": "Manakete",
+        "exp": 42,
+        "weapon": [
+            "dragonstone"
+        ],
+        "base": {
+            "hp": 18,
+            "str": 1,
+            "skl": 1,
+            "wlv": 7,
+            "spd": 1,
+            "lck": 0,
+            "def": 3,
+            "mov": 6
+        },
+        "promo": false
+    },
+    "mercenary": {
+        "name": "Mercenary",
+        "exp": 28,
+        "promo": "hero",
+        "weapon": [
+            "sword"
+        ],
+        "base": {
+            "hp": 16,
+            "str": 4,
+            "skl": 8,
+            "wlv": 8,
+            "spd": 10,
+            "lck": 0,
+            "def": 5,
+            "mov": 7
+        }
+    },
+    "paladin": {
+        "name": "Paladin",
+        "exp": 44,
+        "weapon": [
+            "sword",
+            "lance"
+        ],
+        "base": {
+            "hp": 22,
+            "str": 8,
+            "skl": 7,
+            "wlv": 10,
+            "spd": 11,
+            "lck": 0,
+            "def": 9,
+            "mov": 10
+        },
+        "promo": false
+    },
+    "pegasusknight": {
+        "name": "Pegasus Knight",
+        "exp": 36,
+        "promo": "dracoknight",
+        "weapon": [
+            "sword",
+            "lance"
+        ],
+        "base": {
+            "hp": 16,
+            "str": 4,
+            "skl": 5,
+            "wlv": 9,
+            "spd": 11,
+            "lck": 0,
+            "def": 6,
+            "mov": 8
+        }
+    },
+    "pirate": {
+        "name": "Pirate",
+        "exp": 24,
+        "weapon": [
+            "axe"
+        ],
+        "base": {
+            "hp": 18,
+            "str": 5,
+            "skl": 1,
+            "wlv": 5,
+            "spd": 6,
+            "lck": 0,
+            "def": 4,
+            "mov": 6
+        },
+        "promo": false
+    },
+    "priest": {
+        "name": "Priest",
+        "exp": 30,
+        "promo": "bishop",
+        "weapon": [
+            "staff"
+        ],
+        "base": {
+            "hp": 16,
+            "str": 1,
+            "skl": 1,
+            "wlv": 7,
+            "spd": 1,
+            "lck": 0,
+            "def": 3,
+            "mov": 5
+        }
+    },
+    "sniper": {
+        "name": "Sniper",
+        "exp": 42,
+        "weapon": [
+            "bow"
+        ],
+        "base": {
+            "hp": 24,
+            "str": 7,
+            "skl": 10,
+            "wlv": 10,
+            "spd": 14,
+            "lck": 0,
+            "def": 7,
+            "mov": 7
+        },
+        "promo": false
+    },
+    "thief": {
+        "name": "Thief",
+        "exp": 40,
+        "weapon": [
+            "sword"
+        ],
+        "base": {
+            "hp": 16,
+            "str": 3,
+            "skl": 1,
+            "wlv": 2,
+            "spd": 9,
+            "lck": 0,
+            "def": 2,
+            "mov": 7
+        },
+        "promo": false
+    }
+}
