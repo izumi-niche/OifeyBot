@@ -24,3 +24,6 @@ Create a file named `token.txt` in the same folder, open it and paste your Disco
 After all of this is done and everything is correct, use `python main.py` to run the bot. Type this command anytime you need to start the bot, you don't need to do all of this again.
 
 To register the slash commands, go to `client.py` and replace the value of `OWNER_ID` with your Discord user ID. Afterwards, type `o!sync` to register them to all servers.
+
+## LICENSE
+It can be found in the `LICENSE` file. Basically, just include that license and you can do whatever you want with this.
