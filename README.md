@@ -25,5 +25,5 @@ After all of this is done and everything is correct, use `python main.py` to run
 
 To register the slash commands, go to `client.py` and replace the value of `OWNER_ID` with your Discord user ID. Afterwards, type `o!sync` to register them to all servers.
 
-## LICENSE
+## License
 It can be found in the `LICENSE` file. Basically, just include that license and you can do whatever you want with this.
