@@ -1062,7 +1062,14 @@ function Character:show_promo()
                 
                 for i, pair in ipairs(promoted_skill) do
                     if not util.value_in_table(skill, pair) then
-                        add = add .. self.Skill:new(pair):get_emoji()
+                        local current = self.Skill:new(pair)
+                        local emoji = current:get_emoji()
+                        
+                        if emoji == "" then
+                            emoji = string.format("*%s* ", current:get_name())
+                        end
+                        
+                        add = add .. emoji
                         
                         if self.promo_progressive then
                             table.insert(skill, pair)
@@ -1126,7 +1133,7 @@ function Character:get_rank_bonus(job1, job2)
         
         if add then
             if self.pack then
-                add = self.pack:get(key) .. add
+                add = self.pack:get(key, string.format("**%s:** ", util.title(key))) .. add
             end
             
             text = text .. add .. " "

@@ -618,7 +618,12 @@ setmetatable(Skill, workspaces.Skill)
 Skill.section = almanac.get("database/fe4/skill.json")
 
 function Skill:get_emoji()
-    return self.data.emoji
+    if util.emoji.config.enabled then
+        return self.data.emoji
+        
+    else
+        return ""
+    end
 end
 
 ---------------------------------------------------
@@ -674,11 +679,16 @@ function Blood:get_name(major)
 end
 
 function Blood:get_emoji(major)
-    if major then
-        return self.data.major
+    if util.emoji.config.enabled then
+        if major then
+            return self.data.major
 
+        else
+            return self.data.minor
+        end
+        
     else
-        return self.data.minor
+        return ""
     end
 end
 

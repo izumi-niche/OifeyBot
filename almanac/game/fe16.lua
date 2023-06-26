@@ -479,7 +479,8 @@ function Character:show_rank()
     local text = ""
     
     for key, value in pairs(rank) do
-        local add = pack:get("fe16_" .. key) .. util.text.rank_letter(rank_exp, value)
+        local add = pack:get("fe16_" .. key, string.format("**%s**: ", util.title(key)))
+        .. util.text.rank_letter(rank_exp, value)
         
         if growth[key] == "strong" then
             add = pack:get("fe16_strong") .. add
@@ -494,7 +495,8 @@ function Character:show_rank()
     -- add growths later if they don't have any rank
     for key, value in pairs(growth) do
         if rank[key] == nil then
-            local add = pack:get("fe16_" .. key) .. util.text.rank_letter(rank_exp, 0)
+            local add = pack:get("fe16_" .. key, string.format("**%s**: ", util.title(key)))
+            .. util.text.rank_letter(rank_exp, 0)
             
             add = pack:get("fe16_" .. value) .. add
             

@@ -452,7 +452,12 @@ setmetatable(Skill, workspaces.Skill)
 Skill.section = almanac.get("database/fe10/skill.json")
 
 function Skill:get_emoji()
-    return self.data.emoji
+    if util.emoji.config.enabled then
+        return self.data.emoji
+        
+    else
+        return ""
+    end
 end
 
 return {
