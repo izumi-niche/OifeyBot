@@ -909,7 +909,8 @@ function Item:show()
         
         for i, pair in ipairs({"Iron", "Steel", "Silver"}) do
             if data[pair] ~= nil then
-                text = text .. string.format("%s%s ", pack:get(pair), data[pair])
+                text = text .. string.format("%s%s ",pack:get(pair, string.format("**%s:** ", pair)),
+                data[pair])
             end
         end
         

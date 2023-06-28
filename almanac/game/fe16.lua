@@ -476,6 +476,18 @@ function Character:show_rank()
     local rank = self:get_rank()
     local growth = self.data.rank_growth
     
+    local function growth_emoji(s)
+        local r = pack:get(s)
+        
+        if r ~= "" then
+            return r
+            
+        else
+            return ({fe16_strong="🟦", fe16_weak="🟥"})[s]
+            
+        end
+    end
+    
     local text = ""
     
     for key, value in pairs(rank) do
@@ -483,10 +495,10 @@ function Character:show_rank()
         .. util.text.rank_letter(rank_exp, value)
         
         if growth[key] == "strong" then
-            add = pack:get("fe16_strong") .. add
+            add = growth_emoji("fe16_strong") .. add
             
         elseif growth[key] == "weak" then
-            add = pack:get("fe16_weak") .. add
+            add = growth_emoji("fe16_weak") .. add
         end
         
         text = text .. add .. "\n"
@@ -498,7 +510,7 @@ function Character:show_rank()
             local add = pack:get("fe16_" .. key, string.format("**%s**: ", util.title(key)))
             .. util.text.rank_letter(rank_exp, 0)
             
-            add = pack:get("fe16_" .. value) .. add
+            add = growth_emoji("fe16_" .. value) .. add
             
             text = text .. add .. "\n"
         end
