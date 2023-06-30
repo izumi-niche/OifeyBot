@@ -31478,6 +31478,57 @@
         },
         "refine": false
     },
+    "surfersspire": {
+        "name": "Surfer's Spire",
+        "bonus": {
+            "atk": 11,
+            "spd": 5
+        },
+        "refine": false
+    },
+    "surfersspade": {
+        "name": "Surfer's Spade",
+        "bonus": {
+            "atk": 11,
+            "spd": 5
+        },
+        "refine": false
+    },
+    "seafoamsplitter": {
+        "name": "Seafoam Splitter",
+        "bonus": {
+            "atk": 16
+        },
+        "refine": false
+    },
+    "partnershipbow": {
+        "name": "Partnership Bow",
+        "bonus": {
+            "atk": 14
+        },
+        "refine": false
+    },
+    "seasideparasol": {
+        "name": "Seaside Parasol+ (Unrefined)",
+        "bonus": {
+            "atk": 12
+        },
+        "refine": "Seaside Parasol+"
+    },
+    "seasideparasoleff": {
+        "name": "Seaside Parasol+ (Eff)",
+        "bonus": {
+            "atk": 12
+        },
+        "refine": false
+    },
+    "radiantaureola": {
+        "name": "Radiant Aureola",
+        "bonus": {
+            "atk": 14
+        },
+        "refine": false
+    },
     "prf": {
         "name": "Equip Default Weapon"
     },

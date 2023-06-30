@@ -6711,7 +6711,8 @@
             "robin6": "<:Colorless_Breath:793245229624590367>Legendary Grima",
             "robin7": "<:Green_Breath:793245230425047071>Halloween Female Grima",
             "robin9": "<:Colorless_Tome:793245230228701184>Valentines Robin",
-            "robin10": "<:Colorless_Breath:793245229624590367>Rearmed Grima"
+            "robin10": "<:Colorless_Breath:793245229624590367>Rearmed Grima",
+            "robin2R": "<:Green_Tome:793245230702788639>Female Robin (Resplendent)"
         },
         "ALT_NAME": [
             "Sheena: Princess of Gra",
@@ -7031,6 +7032,8 @@
             "Normal F Reflet",
             "Base Reflet F",
             "Normal Reflet F",
+            "robin2R",
+            "Female Robin (Resplendent)",
             "robin3",
             "Summer Robin",
             "refletf2",
@@ -10348,6 +10351,7 @@
             "ephraim3": "<:Green_Axe:793245230807384084>Brave Ephraim",
             "ephraim4": "<:Blue_Lance:793245229720404008>Winter Ephraim",
             "ephraim5": "<:Blue_Lance:793245229720404008>Duo Ephraim",
+            "ephraim6": "<:Green_Axe:793245230807384084>Summer Ephraim",
             "ephraimR": "<:Blue_Lance:793245229720404008>Ephraim (Resplendent)",
             "eldigan": "<:Red_Sword:793245230739750922>Eldigan",
             "eldigan2": "<:Blue_Lance:793245229720404008>Dancer Eldigan",
@@ -10481,7 +10485,11 @@
             "Young Ike",
             "Child Ike",
             "Mini Ike",
-            "Baby Ike"
+            "Baby Ike",
+            "Ephraim: Sunshine Valiant",
+            "Sunshine Valiant",
+            "Summer Ephraim",
+            "Summer Eph"
         ],
         "HARD_ALT_NAME": [
             "ephraim",
@@ -10667,7 +10675,14 @@
             "Young Ike",
             "Child Ike",
             "Mini Ike",
-            "Baby Ike"
+            "Baby Ike",
+            "ephraim6",
+            "Summer Ephraim",
+            "eph6",
+            "Sunshine Valiant",
+            "S Ephraim",
+            "S Eph",
+            "Summer Eph"
         ]
     },
     "christianlamonte": {
@@ -14222,6 +14237,7 @@
             "larachel": "<:Blue_Tome:793245229741899776>L'Arachel",
             "larachel2": "<:Green_Tome:793245230702788639>Halloween L'Arachel",
             "larachel3": "<:Colorless_Staff:793245230135640105>Young L'Arachel",
+            "larachel4": "<:Colorless_Staff:793245230135640105>Summer L'Arachel",
             "larachelR": "<:Blue_Tome:793245229741899776>L'Arachel (Resplendent)"
         },
         "ALT_NAME": [
@@ -14262,7 +14278,11 @@
             "Young Larchel",
             "Child Larchel",
             "Mini Larchel",
-            "Baby Larchel"
+            "Baby Larchel",
+            "L'Arachel: Summer Princess",
+            "Summer Princess",
+            "Summer L'Arachel",
+            "Summer Larchel"
         ],
         "HARD_ALT_NAME": [
             "gunnthra",
@@ -14328,7 +14348,15 @@
             "Young Larchel",
             "Child Larchel",
             "Mini Larchel",
-            "Baby Larchel"
+            "Baby Larchel",
+            "larachel4",
+            "Summer L'Arachel",
+            "larchel4",
+            "Summer Princess",
+            "S L'Arachel",
+            "S Larchel",
+            "S'Arachel",
+            "Summer Larchel"
         ]
     },
     "veronicataylor": {
@@ -15393,6 +15421,7 @@
             "ethlyn2": "<:Colorless_Dagger:793245230064205854>Dancer Ethlyn",
             "shamir": "<:Green_Bow:793245230819704892>Shamir",
             "shamir2": "<:Green_Axe:793245230807384084>Ninja Shamir",
+            "shamir3": "<:Blue_Bow:793245229708083231>Duo Shamir",
             "dorothea": "<:Colorless_Dagger:793245230064205854>Summer Dorothea",
             "dorothea2": "<:Red_Tome:793245230706196480>Harmonic Dorothea",
             "dorothea3": "<:Red_Tome:793245230706196480>Winter Dorothea"
@@ -15443,7 +15472,12 @@
             "Harmonic Karla",
             "Harmonized Karla",
             "Spring Karla",
-            "Bunny Karla"
+            "Bunny Karla",
+            "Shamir: Heartbeats United",
+            "Heartbeats United",
+            "Duo Shamir",
+            "Harmonic Shamir",
+            "Harmonized Shamir"
         ],
         "HARD_ALT_NAME": [
             "karla",
@@ -15523,7 +15557,14 @@
             "Duo Karla",
             "Harmonized Karla",
             "Spring Karla",
-            "Bunny Karla"
+            "Bunny Karla",
+            "shamir3",
+            "Duo Shamir",
+            "Heartbeats United",
+            "D Shamir",
+            "Dhamir",
+            "Harmonic Shamir",
+            "Harmonized Shamir"
         ]
     },
     "christopherbevins": {
@@ -15712,7 +15753,8 @@
         "name": "Laura Post",
         "heroes": {
             "silvia": "<:Red_Sword:793245230739750922>Silvia",
-            "catherine": "<:Red_Sword:793245230739750922>Catherine"
+            "catherine": "<:Red_Sword:793245230739750922>Catherine",
+            "shamir3": "<:Blue_Bow:793245229708083231>Duo Shamir"
         },
         "ALT_NAME": [
             "Silvia: Traveling Dancer",
@@ -15724,7 +15766,12 @@
             "Catherine: Thunder Knight",
             "Thunder Knight",
             "Base Catherine",
-            "Normal Catherine"
+            "Normal Catherine",
+            "Shamir: Heartbeats United",
+            "Heartbeats United",
+            "Duo Shamir",
+            "Harmonic Shamir",
+            "Harmonized Shamir"
         ],
         "HARD_ALT_NAME": [
             "silvia",
@@ -15742,7 +15789,14 @@
             "catherine1",
             "Thunder Knight",
             "Base Catherine",
-            "Normal Catherine"
+            "Normal Catherine",
+            "shamir3",
+            "Duo Shamir",
+            "Heartbeats United",
+            "D Shamir",
+            "Dhamir",
+            "Harmonic Shamir",
+            "Harmonized Shamir"
         ]
     },
     "stevestaley": {
@@ -21011,6 +21065,7 @@
         "name": "Erika Harlacher",
         "heroes": {
             "guinivere": "<:Blue_Tome:793245229741899776>Guinivere",
+            "guinivere2": "<:Colorless_Tome:793245230228701184>Legendary Guinivere",
             "nott": "<:Blue_Lance:793245229720404008>N\u00f3tt",
             "dagr2": "<:Green_Bow:793245230819704892>Duo Dagr"
         },
@@ -21031,7 +21086,15 @@
             "Harmonic Dagr",
             "Harmonized Dagr",
             "New Year Dagr",
-            "New years Dagr"
+            "New years Dagr",
+            "Guinivere: Queen of Bern",
+            "Queen of Bern",
+            "Legendary Guinivere",
+            "Leg Guinivere",
+            "Legend Guinivere",
+            "Legendary Guinevere",
+            "Leg Guinevere",
+            "Legend Guinevere"
         ],
         "HARD_ALT_NAME": [
             "guinivere",
@@ -21059,7 +21122,19 @@
             "Harmonic Dagr",
             "Harmonized Dagr",
             "New Year Dagr",
-            "New years Dagr"
+            "New years Dagr",
+            "guinivere2",
+            "Legendary Guinivere",
+            "guinevere2",
+            "Queen of Bern",
+            "L Guinivere",
+            "L Guinevere",
+            "Luinivere",
+            "Leg Guinivere",
+            "Legend Guinivere",
+            "Legendary Guinevere",
+            "Leg Guinevere",
+            "Legend Guinevere"
         ]
     },
     "damanmills": {
@@ -21884,7 +21959,8 @@
         "heroes": {
             "ullr": "<:Blue_Bow:793245229708083231>Ullr",
             "shez2": "<:Green_Axe:793245230807384084>Female Shez",
-            "shez3": "<:Blue_Dagger:793245229502693398>Legendary Shez"
+            "shez3": "<:Blue_Dagger:793245229502693398>Legendary Shez",
+            "shez4": "<:Red_Sword:793245230739750922>Summer Female Shez"
         },
         "ALT_NAME": [
             "Ullr: The Bowmaster",
@@ -21929,7 +22005,14 @@
             "Legend F Shez",
             "Legendary Shez F",
             "Leg Shez F",
-            "Legend Shez F"
+            "Legend Shez F",
+            "Shez: Mercenary Shine",
+            "Mercenary Shine",
+            "Summer Shez",
+            "Summer Female Shez",
+            "Summer Shez Female",
+            "Summer F Shez",
+            "Summer Shez F"
         ],
         "HARD_ALT_NAME": [
             "ullr",
@@ -22002,7 +22085,23 @@
             "Legend F Shez",
             "Legendary Shez F",
             "Leg Shez F",
-            "Legend Shez F"
+            "Legend Shez F",
+            "shez4",
+            "Summer Female Shez",
+            "shezf3",
+            "fshez3",
+            "shezfemale3",
+            "femaleshez3",
+            "Mercenary Shine",
+            "S Shez",
+            "S Female Shez",
+            "S Shez Female",
+            "S F Shez",
+            "S Shez F",
+            "Summer Shez",
+            "Summer Shez Female",
+            "Summer F Shez",
+            "Summer Shez F"
         ]
     },
     "howardwang": {
@@ -23313,6 +23412,7 @@
         "name": "Damien Haas",
         "heroes": {
             "shez": "<:Red_Sword:793245230739750922>Male Shez",
+            "shez5": "<:Blue_Lance:793245229720404008>Summer Male Shez",
             "saul": "<:Colorless_Staff:793245230135640105>Saul",
             "saul2": "<:Colorless_Staff:793245230135640105>Bridal Saul"
         },
@@ -23338,7 +23438,14 @@
             "Bridal Saul",
             "Groom Saul",
             "Bride Saul",
-            "Wedding Saul"
+            "Wedding Saul",
+            "Shez: Mercenary Shade",
+            "Mercenary Shade",
+            "Summer Shez",
+            "Summer Male Shez",
+            "Summer Shez Male",
+            "Summer M Shez",
+            "Summer Shez M"
         ],
         "HARD_ALT_NAME": [
             "shez",
@@ -23376,7 +23483,21 @@
             "Baul",
             "Groom Saul",
             "Bride Saul",
-            "Wedding Saul"
+            "Wedding Saul",
+            "shez5",
+            "Summer Male Shez",
+            "shezm2",
+            "mshez2",
+            "shezmale2",
+            "maleshez2",
+            "Mercenary Shade",
+            "S Male Shez",
+            "S Shez Male",
+            "S M Shez",
+            "S Shez M",
+            "Summer Shez Male",
+            "Summer M Shez",
+            "Summer Shez M"
         ]
     },
     "sungwoncho": {

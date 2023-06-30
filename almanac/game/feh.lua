@@ -279,7 +279,8 @@ function Character:get_info()
     
     -- Check for Legendary/Mythic and show the bonuses
     if self:is_legendary() then
-        text = text .. string.format("%s%s\n", self:blessing_icon(), util.table_stats(self.data.boost, {value_start = "+"}))
+        text = text .. string.format("%s**%s:** %s\n", self:blessing_icon(), self.data.blessing, 
+        util.table_stats(self.data.boost, {value_start = "+"}))
     end
     
      -- Check for Duo Hero

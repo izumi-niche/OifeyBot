@@ -185,7 +185,8 @@
                 "lif3": "5",
                 "eliwood5": "5",
                 "chrom8": "5",
-                "byleth8": "5"
+                "byleth8": "5",
+                "shez4": "5"
             }
         },
         "refine": {
@@ -1089,6 +1090,7 @@
                 "seteth": "3",
                 "jeralt": "3",
                 "orson": "3",
+                "shez5": "4",
                 "fjorm": "5",
                 "shiro": "5",
                 "quan": "5",
@@ -1645,7 +1647,8 @@
                 "ganglot": "5",
                 "blackknight2": "5",
                 "karla3": "5",
-                "hector6": "5"
+                "hector6": "5",
+                "ephraim6": "5"
             }
         },
         "refine": {
@@ -2155,7 +2158,8 @@
                 "bernadetta3": "5",
                 "tana5": "5",
                 "anna4": "5",
-                "hinoka5": "5"
+                "hinoka5": "5",
+                "shamir3": "5"
             }
         },
         "refine": {
@@ -4011,6 +4015,7 @@
                 "xane2": "4",
                 "lissa3": "4",
                 "lucius2": "4",
+                "larachel4": "4",
                 "elise": "5",
                 "mist": "5",
                 "genny": "5",
@@ -5041,6 +5046,7 @@
                 "xane2": "4",
                 "lissa3": "4",
                 "lucius2": "4",
+                "larachel4": "4",
                 "elise": "5",
                 "mist": "5",
                 "genny": "5",
@@ -5116,6 +5122,7 @@
                 "rhys": "4",
                 "nanna2": "4",
                 "xane2": "4",
+                "larachel4": "4",
                 "elise": "5",
                 "mist": "5",
                 "genny": "5",
@@ -5246,6 +5253,7 @@
                 "brady": "5",
                 "lena": "5",
                 "nanna2": "5",
+                "larachel4": "5",
                 "elise": "5",
                 "mist": "5",
                 "silque": "5",
@@ -6425,7 +6433,9 @@
                 "tana5": "5",
                 "chrom8": "5",
                 "hinoka5": "5",
-                "fir3": "5"
+                "fir3": "5",
+                "shamir3": "5",
+                "shez4": "5"
             }
         },
         "refine": {},
@@ -6522,7 +6532,9 @@
                 "nino4": "5",
                 "tana5": "5",
                 "hinoka5": "5",
-                "fir3": "5"
+                "fir3": "5",
+                "shamir3": "5",
+                "shez4": "5"
             }
         },
         "refine": {},
@@ -6816,6 +6828,7 @@
                 "annette2": "4",
                 "panne2": "4",
                 "rebecca2": "4",
+                "shez5": "4",
                 "lucina": "5",
                 "ephraim": "5",
                 "ike": "5",
@@ -7088,6 +7101,7 @@
                 "lewyn2": "4",
                 "lyre": "4",
                 "panne2": "4",
+                "shez5": "4",
                 "lucina": "5",
                 "ike": "5",
                 "mia": "5",
@@ -7674,7 +7688,8 @@
                 "ash2": "5",
                 "alfred": "5",
                 "robin11": "5",
-                "hector6": "5"
+                "hector6": "5",
+                "ephraim6": "5"
             }
         },
         "refine": {},
@@ -7754,7 +7769,8 @@
                 "askr2": "5",
                 "ash2": "5",
                 "alfred": "5",
-                "hector6": "5"
+                "hector6": "5",
+                "ephraim6": "5"
             }
         },
         "refine": {},
@@ -7931,7 +7947,8 @@
                 "ganglot": "5",
                 "leo4": "5",
                 "mark": "5",
-                "tiki10": "5"
+                "tiki10": "5",
+                "guinivere2": "5"
             }
         },
         "refine": {},
@@ -8011,7 +8028,8 @@
                 "ganglot": "5",
                 "leo4": "5",
                 "mark": "5",
-                "tiki10": "5"
+                "tiki10": "5",
+                "guinivere2": "5"
             }
         },
         "refine": {},
@@ -8978,6 +8996,7 @@
                 "xane2": "4",
                 "lissa3": "4",
                 "lucius2": "4",
+                "larachel4": "4",
                 "elise": "5",
                 "mist": "5",
                 "genny": "5",
@@ -9126,6 +9145,7 @@
             "Swift-Winds Balm": {
                 "serra": "3",
                 "clarine": "3",
+                "larachel4": "4",
                 "lyn2": "5"
             }
         },
@@ -10175,7 +10195,8 @@
                 "leila2": "5",
                 "linde3": "5",
                 "bernadetta3": "5",
-                "anna4": "5"
+                "anna4": "5",
+                "shamir3": "5"
             }
         },
         "refine": {},
@@ -11572,9 +11593,24 @@
                 "restriction_weapon": false,
                 "restriction_movement": false,
                 "bonus": {}
+            },
+            {
+                "name": "Brash Assault 4",
+                "description": "At start of combat, if unit's HP \u2264 99% and unit initiates combat or if foe's HP = 100% and unit initiates combat, inflicts Def/Res-4 on foe, reduces damage from foe's first attack by 30%, unit makes a guaranteed follow-up attack, and unit's next attack deals damage equal to total damage reduced (resets at end of combat; only highest value applied; does not stack).",
+                "stats": {
+                    "sp": "300"
+                },
+                "exclusive": false,
+                "slot": "Passive B",
+                "restriction_weapon": false,
+                "restriction_movement": false,
+                "bonus": {}
             }
         ],
         "reference": {
+            "Brash Assault 4": {
+                "shamir3": "5"
+            },
             "Brash Assault 3": {
                 "bartre": "4",
                 "hinata": "5",
@@ -11585,11 +11621,12 @@
             "Brash Assault 1": {}
         },
         "refine": {},
-        "icon": "80",
+        "icon": "1935",
         "HARD_ALT_NAME": [
             "Brash Assault 1",
             "Brash Assault 2",
-            "Brash Assault 3"
+            "Brash Assault 3",
+            "Brash Assault 4"
         ],
         "ALT_NAME": [],
         "slot": "Passive B",
@@ -14692,7 +14729,8 @@
                 "otr": "5",
                 "rudolf": "5",
                 "morgan4": "5",
-                "lif3": "5"
+                "lif3": "5",
+                "shez4": "5"
             }
         },
         "refine": {},
@@ -15696,7 +15734,8 @@
                 "chrom7": "5",
                 "linde3": "5",
                 "bernadetta3": "5",
-                "anna4": "5"
+                "anna4": "5",
+                "shamir3": "5"
             },
             "Swift Sparrow 1": {}
         },
@@ -17030,6 +17069,7 @@
         ],
         "reference": {
             "Wrathful Staff 3": {
+                "larachel4": "4",
                 "genny": "5",
                 "veronica": "5",
                 "laevatein2": "5",
@@ -31027,6 +31067,7 @@
             "Chill Def 3": {
                 "sedgar": "4",
                 "marth5": "4",
+                "shez5": "4",
                 "walhart": "5",
                 "jorge": "5",
                 "sue": "5",
@@ -40801,6 +40842,7 @@
             },
             "Atk/Spd Solo 3": {
                 "ogma2": "4",
+                "shez5": "5",
                 "yarne": "5",
                 "sothis": "5",
                 "hilda": "5",
@@ -44549,9 +44591,29 @@
                     ]
                 ],
                 "bonus": {}
+            },
+            {
+                "name": "Null C-Disrupt 4",
+                "description": "Inflicts Atk/Spd-4 on foe, neutralizes effects that prevent unit's counterattacks, and reduces damage from foe's first attack by 30% during combat.",
+                "stats": {
+                    "sp": "300"
+                },
+                "exclusive": false,
+                "slot": "Passive B",
+                "restriction_weapon": false,
+                "restriction_movement": [
+                    "**Can only** be used by: ",
+                    [
+                        "Infantry"
+                    ]
+                ],
+                "bonus": {}
             }
         ],
         "reference": {
+            "Null C-Disrupt 4": {
+                "guinivere2": "5"
+            },
             "Null C-Disrupt 3": {
                 "nailah": "5",
                 "sothis": "5",
@@ -44563,11 +44625,12 @@
             "Null C-Disrupt 1": {}
         },
         "refine": {},
-        "icon": "733",
+        "icon": "1938",
         "HARD_ALT_NAME": [
             "Null C-Disrupt 1",
             "Null C-Disrupt 2",
-            "Null C-Disrupt 3"
+            "Null C-Disrupt 3",
+            "Null C-Disrupt 4"
         ],
         "ALT_NAME": [],
         "slot": "Passive B",
@@ -53936,9 +53999,30 @@
                     ]
                 ],
                 "bonus": {}
+            },
+            {
+                "name": "Lull Spd/Def 4",
+                "description": "Inflicts Spd/Def-X on foe (X = 4 + number of\u3010Bonus\u3011effects active on foe; max 8; excludes stat bonuses) and neutralizes foe's bonuses to Spd/Def (from skills like Fortify, Rally, etc.) during combat.\n\u3010Bonus\u3011\nAll effects that last \"for 1 turn\" or \"that turn only.\" Includes bonuses granted by a skill like Rally or Hone and positive status effects (extra movement or effects like Dominance).",
+                "stats": {
+                    "sp": "300"
+                },
+                "exclusive": false,
+                "slot": "Passive B",
+                "restriction_weapon": false,
+                "restriction_movement": [
+                    "**Can only** be used by: ",
+                    [
+                        "Infantry",
+                        "Cavalry"
+                    ]
+                ],
+                "bonus": {}
             }
         ],
         "reference": {
+            "Lull Spd/Def 4": {
+                "shez4": "5"
+            },
             "Lull Spd/Def 3": {
                 "panne2": "5",
                 "claude": "5",
@@ -53956,20 +54040,23 @@
             "Lull Spd/Def 1": {}
         },
         "refine": {},
-        "icon": "873",
+        "icon": "1936",
         "HARD_ALT_NAME": [
             "Lull Spd/Def 1",
             "Lull Spd/Def 2",
             "Lull Spd/Def 3",
+            "Lull Spd/Def 4",
             "Lull Speed/Defense 1",
             "Lull Speed/Defense 2",
             "Lull Speed/Defense 3",
+            "Lull Speed/Defense 4",
             "Lull Speed/Defense"
         ],
         "ALT_NAME": [
             "Lull Speed/Defense 1",
             "Lull Speed/Defense 2",
             "Lull Speed/Defense 3",
+            "Lull Speed/Defense 4",
             "Lull Speed/Defense"
         ],
         "slot": "Passive B",
@@ -54060,7 +54147,8 @@
                 "sylvain2": "5",
                 "orson": "5",
                 "edelgard": "5",
-                "mareeta": "5"
+                "mareeta": "5",
+                "ephraim6": "5"
             },
             "Rouse Atk/Def 2": {},
             "Rouse Atk/Def 1": {}
@@ -62259,6 +62347,7 @@
         ],
         "reference": {
             "Blade Session 3": {
+                "larachel4": "5",
                 "tsubasa": "5"
             },
             "Blade Session 2": {},
@@ -63198,7 +63287,8 @@
                 "otr": "5",
                 "geoffrey": "5",
                 "morgan4": "5",
-                "lif3": "5"
+                "lif3": "5",
+                "shez4": "5"
             },
             "Threat. Atk/Def 1": {}
         },
@@ -65115,7 +65205,8 @@
                 "celica5": "5",
                 "byleth6": "5",
                 "askr2": "5",
-                "triandra2": "5"
+                "triandra2": "5",
+                "guinivere2": "5"
             }
         },
         "refine": {},
@@ -72165,7 +72256,8 @@
                 "shinon2": "5",
                 "chrom6": "5",
                 "tana5": "5",
-                "hinoka5": "5"
+                "hinoka5": "5",
+                "shamir3": "5"
             }
         },
         "refine": {},
@@ -78121,7 +78213,8 @@
             "Fatal Smoke 3": {
                 "lif2": "5",
                 "sigurd3": "5",
-                "freyja2": "5"
+                "freyja2": "5",
+                "shamir3": "5"
             },
             "Fatal Smoke 2": {},
             "Fatal Smoke 1": {}
@@ -81575,7 +81668,8 @@
                 "otr": "5",
                 "geoffrey": "5",
                 "morgan4": "5",
-                "lif3": "5"
+                "lif3": "5",
+                "shez4": "5"
             }
         },
         "refine": {},
@@ -101412,7 +101506,8 @@
         ],
         "reference": {
             "Atk/Def Clash 4": {
-                "lif3": "5"
+                "lif3": "5",
+                "ephraim6": "5"
             },
             "Atk/Def Clash 3": {
                 "flavia2": "5"
@@ -103854,7 +103949,8 @@
         ],
         "reference": {
             "Spd/Res Finish 4": {
-                "tiki9": "5"
+                "tiki9": "5",
+                "guinivere2": "5"
             },
             "Spd/Res Finish 3": {
                 "byleth7": "4"
@@ -105133,7 +105229,7 @@
         "skill": [
             {
                 "name": "Swift Slice",
-                "description": "If unit initiates combat or if unit is within 2 spaces of an ally, grants Atk/Spd/Def/Res+8 to unit during combat. If unit initiates combat against a non-dragon or non-beast infantry foe and unit's Spd \u2265 foe's Spd+20, grants \"effective against all weapon types\" to unit during combat. Otherwise, if unit initiates combat and unit's Spd \u2265 foe's Spd+5, grants \"effective against all weapon types\" to unit during combat.",
+                "description": "If unit initiates combat or if unit is within 2 spaces of an ally, grants Atk/Spd/Def/Res+8 to unit during combat. If unit initiates combat against a non-dragon, non-beast, infantry foe and unit's Spd \u2265 foe's Spd+20, grants \"effective against all weapon types\" to unit during combat. Otherwise, if unit initiates combat and unit's Spd \u2265 foe's Spd+5, grants \"effective against all weapon types\" to unit during combat.",
                 "stats": {
                     "sp": "300"
                 },
@@ -105146,7 +105242,8 @@
         ],
         "reference": {
             "Swift Slice": {
-                "shez3": "5"
+                "shez3": "5",
+                "shez4": "5"
             }
         },
         "refine": {},
@@ -105979,7 +106076,8 @@
                 "heidr": "5",
                 "linde3": "5",
                 "bernadetta3": "5",
-                "anna4": "5"
+                "anna4": "5",
+                "shamir3": "5"
             }
         },
         "refine": {},
@@ -111869,6 +111967,451 @@
         "ALT_NAME": [
             "Alarm Speed/Defense"
         ],
+        "slot": "Passive C",
+        "wpn": false
+    },
+    "surfersspire": {
+        "name": "Surfer's Spire",
+        "skill": [
+            {
+                "name": "Surfer's Spire",
+                "description": "Enables\u3010Canto (Rem. +1)\u3011.\nGrants Spd+5. Unit attacks twice (even if foe initiates combat, unit attacks twice). Deals damage = 20% of unit's Spd during combat (excluding area-of-effect Specials).\n\u3010Canto (Rem. +1)\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move spaces = any movement not already used that turn +1. (If unit used a movement skill that warped them, its remaining movement is 0.)\n(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than unit's remaining movement +1.)",
+                "stats": {
+                    "mt": "11",
+                    "rng": "1",
+                    "sp": "400"
+                },
+                "exclusive": true,
+                "slot": "Weapon",
+                "weapon_type": "Red_Sword",
+                "restriction_weapon": false,
+                "restriction_movement": false
+            }
+        ],
+        "reference": {
+            "Surfer's Spire": {
+                "shez4": "5"
+            }
+        },
+        "refine": {},
+        "icon": false,
+        "HARD_ALT_NAME": [
+            "shez4",
+            "Shez: Mercenary Shine",
+            "Mercenary Shine",
+            "Summer Shez",
+            "Summer Female Shez",
+            "Summer Shez Female",
+            "Summer F Shez",
+            "Summer Shez F",
+            "shezf3",
+            "fshez3",
+            "shezfemale3",
+            "femaleshez3",
+            "S Shez",
+            "S Female Shez",
+            "S Shez Female",
+            "S F Shez",
+            "S Shez F"
+        ],
+        "ALT_NAME": [],
+        "slot": "Weapon",
+        "wpn": "wep_sw156"
+    },
+    "surfersspade": {
+        "name": "Surfer's Spade",
+        "skill": [
+            {
+                "name": "Surfer's Spade",
+                "description": "Enables\u3010Canto (Rem. +1)\u3011.\nGrants Spd+5. Unit attacks twice (even if foe initiates combat, unit attacks twice). Deals damage = 20% of unit's Spd during combat (excluding area-of-effect Specials).\n\u3010Canto (Rem. +1)\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move spaces = any movement not already used that turn +1. (If unit used a movement skill that warped them, its remaining movement is 0.)\n(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than unit's remaining movement +1.)",
+                "stats": {
+                    "mt": "11",
+                    "rng": "1",
+                    "sp": "400"
+                },
+                "exclusive": true,
+                "slot": "Weapon",
+                "weapon_type": "Blue_Lance",
+                "restriction_weapon": false,
+                "restriction_movement": false
+            }
+        ],
+        "reference": {
+            "Surfer's Spade": {
+                "shez5": "5"
+            }
+        },
+        "refine": {},
+        "icon": false,
+        "HARD_ALT_NAME": [
+            "shez5",
+            "Shez: Mercenary Shade",
+            "Mercenary Shade",
+            "Summer Shez",
+            "Summer Male Shez",
+            "Summer Shez Male",
+            "Summer M Shez",
+            "Summer Shez M",
+            "shezm2",
+            "mshez2",
+            "shezmale2",
+            "maleshez2",
+            "S Male Shez",
+            "S Shez Male",
+            "S M Shez",
+            "S Shez M"
+        ],
+        "ALT_NAME": [],
+        "slot": "Weapon",
+        "wpn": "wep_lc150"
+    },
+    "seafoamsplitter": {
+        "name": "Seafoam Splitter",
+        "skill": [
+            {
+                "name": "Seafoam Splitter",
+                "description": "Accelerates Special trigger (cooldown count-1). At start of turn, if number of allies adjacent to unit \u2264 2, grants \"unit can move 1 extra space\" to unit (that turn only; does not stack). At start of combat, if unit's HP \u2265 25%, inflicts Atk/Def-6 on foe, grants Special cooldown charge +1 to unit per attack (only highest value applied; does not stack), and reduces damage from foe's first attack by 40% during combat.",
+                "stats": {
+                    "mt": "16",
+                    "rng": "1",
+                    "sp": "400"
+                },
+                "exclusive": true,
+                "slot": "Weapon",
+                "weapon_type": "Green_Axe",
+                "restriction_weapon": false,
+                "restriction_movement": false
+            }
+        ],
+        "reference": {
+            "Seafoam Splitter": {
+                "ephraim6": "5"
+            }
+        },
+        "refine": {},
+        "icon": false,
+        "HARD_ALT_NAME": [
+            "ephraim6",
+            "Ephraim: Sunshine Valiant",
+            "Sunshine Valiant",
+            "Summer Ephraim",
+            "Summer Eph",
+            "eph6",
+            "S Ephraim",
+            "S Eph"
+        ],
+        "ALT_NAME": [],
+        "slot": "Weapon",
+        "wpn": "wep_ax132"
+    },
+    "partnershipbow": {
+        "name": "Partnership Bow",
+        "skill": [
+            {
+                "name": "Partnership Bow",
+                "description": "Accelerates Special trigger (cooldown count-1). Effective against flying foes. At start of turn, inflicts\u3010Discord\u3011and\u3010Panic\u3011on nearest foes within 5 spaces of unit and foes within 2 spaces of those foes. At start of combat, if unit's HP \u2265 25%, grants Atk/Spd/Def/Res+5 to unit and inflicts Spd/Def-X on foe during combat (X = number of\u3010Bonus\u3011and\u3010Penalty\u3011\neffects active on foe \u00d7 4; max 16; excludes stat bonuses and stat penalties), and also, if any\u3010Bonus\u3011or\u3010Penalty\u3011is active on foe, neutralizes \"Special cooldown charge -X\" effects on unit and effects that prevent unit's follow-up attacks during combat.\n\u3010Discord\u3011\nInflicts Atk/Spd/Def/Res-X on unit during combat (X = 2 + number of allies within 2 spaces of unit; max 5) through its next action.\n\u3010Panic\u3011\nConverts bonuses on target into penalties through its next action.\n\u3010Bonus\u3011\nAll effects that last \"for 1 turn\" or \"that turn only.\" Includes bonuses granted by a skill like Rally or Hone and positive status effects (extra movement or effects like Dominance).\n\u3010Penalty\u3011\nAll effects that last \"on foe through its next action.\" Includes penalties inflicted by a skill like Panic or Threaten and negative status effects (preventing counterattacks, restricting movement, or the effects of a skill like Triangle Adept or Guard).",
+                "stats": {
+                    "mt": "14",
+                    "rng": "2",
+                    "sp": "400"
+                },
+                "exclusive": true,
+                "slot": "Weapon",
+                "weapon_type": "Blue_Bow",
+                "restriction_weapon": false,
+                "restriction_movement": false
+            }
+        ],
+        "reference": {
+            "Partnership Bow": {
+                "shamir3": "5"
+            }
+        },
+        "refine": {},
+        "icon": false,
+        "HARD_ALT_NAME": [
+            "shamir3",
+            "Shamir: Heartbeats United",
+            "Heartbeats United",
+            "Duo Shamir",
+            "Harmonic Shamir",
+            "Harmonized Shamir",
+            "D Shamir",
+            "Dhamir"
+        ],
+        "ALT_NAME": [],
+        "slot": "Weapon",
+        "wpn": "wep_bw105"
+    },
+    "seasideparasol": {
+        "name": "Seaside Parasol",
+        "skill": [
+            {
+                "name": "Seaside Parasol",
+                "description": "At start of turn, inflicts\u3010Guard\u3011on nearest foes within 5 spaces of unit and foes within 2 spaces of those foes equipped with a skill that can trigger the Savior effect. At start of combat, if unit's HP \u2265 25%, grants Atk/Spd+5 to unit and inflicts Res-X on foe during combat (X = number of\u3010Bonus\u3011and\u3010Penalty\u3011\neffects active on foe \u00d7 4; max 16; excludes stat bonuses and stat penalties).\n\u3010Guard\u3011\nInflicts Special cooldown charge -1 on target per attack during combat through its next action. (Only highest value applied. Does not stack.)\n\u3010Bonus\u3011\nAll effects that last \"for 1 turn\" or \"that turn only.\" Includes bonuses granted by a skill like Rally or Hone and positive status effects (extra movement or effects like Dominance).\n\u3010Penalty\u3011\nAll effects that last \"on foe through its next action.\" Includes penalties inflicted by a skill like Panic or Threaten and negative status effects (preventing counterattacks, restricting movement, or the effects of a skill like Triangle Adept or Guard).",
+                "stats": {
+                    "mt": "8",
+                    "rng": "2",
+                    "sp": "200"
+                },
+                "exclusive": false,
+                "slot": "Weapon",
+                "weapon_type": "Colorless_Staff",
+                "restriction_weapon": false,
+                "restriction_movement": false,
+                "bonus": {
+                    "atk": 8
+                }
+            },
+            {
+                "name": "Seaside Parasol+",
+                "description": "At start of turn, inflicts\u3010Guard\u3011on nearest foes within 5 spaces of unit and foes within 2 spaces of those foes equipped with a skill that can trigger the Savior effect. At start of combat, if unit's HP \u2265 25%, grants Atk/Spd+5 to unit and inflicts Res-X on foe during combat (X = number of\u3010Bonus\u3011and\u3010Penalty\u3011\neffects active on foe \u00d7 4; max 16; excludes stat bonuses and stat penalties).\n\u3010Guard\u3011\nInflicts Special cooldown charge -1 on target per attack during combat through its next action. (Only highest value applied. Does not stack.)\n\u3010Bonus\u3011\nAll effects that last \"for 1 turn\" or \"that turn only.\" Includes bonuses granted by a skill like Rally or Hone and positive status effects (extra movement or effects like Dominance).\n\u3010Penalty\u3011\nAll effects that last \"on foe through its next action.\" Includes penalties inflicted by a skill like Panic or Threaten and negative status effects (preventing counterattacks, restricting movement, or the effects of a skill like Triangle Adept or Guard).",
+                "stats": {
+                    "mt": "12",
+                    "rng": "2",
+                    "sp": "300"
+                },
+                "exclusive": false,
+                "slot": "Weapon",
+                "weapon_type": "Colorless_Staff",
+                "restriction_weapon": false,
+                "restriction_movement": false
+            }
+        ],
+        "reference": {
+            "Seaside Parasol+": {
+                "larachel4": "5"
+            },
+            "Seaside Parasol": {}
+        },
+        "refine": {
+            "special": [
+                "Calculates damage from staff like other weapons.",
+                "Foe cannot counterattack."
+            ],
+            "description": false
+        },
+        "icon": false,
+        "HARD_ALT_NAME": [
+            "seasideparasol+",
+            "larachel4",
+            "L'Arachel: Summer Princess",
+            "Summer Princess",
+            "Summer L'Arachel",
+            "Summer Larchel",
+            "larchel4",
+            "S L'Arachel",
+            "S Larchel",
+            "S'Arachel"
+        ],
+        "ALT_NAME": [],
+        "slot": "Weapon",
+        "wpn": "wep_rd059"
+    },
+    "earthwindbalm": {
+        "name": "Earthwind Balm",
+        "skill": [
+            {
+                "name": "Earthwind Balm",
+                "description": "When healing an ally with a staff, grants Spd/Def+4 to all allies for 1 turn.",
+                "stats": {
+                    "cooldown": "1",
+                    "sp": "200"
+                },
+                "exclusive": false,
+                "slot": "Special",
+                "restriction_weapon": [
+                    "**Can only** be used by: ",
+                    [
+                        "Colorless_Staff"
+                    ]
+                ],
+                "restriction_movement": false,
+                "bonus": {}
+            },
+            {
+                "name": "Earthwind Balm+",
+                "description": "When healing an ally with a staff, grants Spd/Def+6 to all allies for 1 turn.",
+                "stats": {
+                    "cooldown": "1",
+                    "sp": "300"
+                },
+                "exclusive": false,
+                "slot": "Special",
+                "restriction_weapon": [
+                    "**Can only** be used by: ",
+                    [
+                        "Colorless_Staff"
+                    ]
+                ],
+                "restriction_movement": false,
+                "bonus": {}
+            }
+        ],
+        "reference": {
+            "Earthwind Balm+": {
+                "larachel4": "5"
+            },
+            "Earthwind Balm": {}
+        },
+        "refine": {},
+        "icon": false,
+        "HARD_ALT_NAME": [
+            "earthwindbalm+"
+        ],
+        "ALT_NAME": [],
+        "slot": "Special",
+        "wpn": false
+    },
+    "sunlightbangle": {
+        "name": "Sunlight Bangle",
+        "skill": [
+            {
+                "name": "Sunlight Bangle",
+                "description": "If number of allies adjacent to unit \u2264 1, inflicts Atk/Def-X on foe during combat (X = 4 + number of spaces from start position to end position of whoever initiated combat; max 8), unit attacks twice, and when unit deals damage to foe during combat, restores 7 HP to unit (triggers even if 0 damage is dealt), but also, if unit initiates combat, foe can counterattack before unit's first attack.",
+                "stats": {
+                    "sp": "300"
+                },
+                "exclusive": true,
+                "slot": "Passive B",
+                "restriction_weapon": false,
+                "restriction_movement": false,
+                "bonus": {}
+            }
+        ],
+        "reference": {
+            "Sunlight Bangle": {
+                "ephraim6": "5"
+            }
+        },
+        "refine": {},
+        "icon": "1934",
+        "HARD_ALT_NAME": [],
+        "ALT_NAME": [],
+        "slot": "Passive B",
+        "wpn": false
+    },
+    "alarmatkdef": {
+        "name": "Alarm Atk/Def",
+        "skill": [
+            {
+                "name": "Alarm Atk/Def",
+                "description": "At start of turn, if number of allies adjacent to unit \u2264 2, grants Atk/Def+6 and\u3010Canto (\uff11)\u3011\nto unit for 1 turn. If number of allies adjacent to unit \u2264 1, grants Atk/Def+3 to unit during combat.\n\u3010Canto (\uff11)\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move \uff11 space(s).\n(Unit moves according to movement type. Once per turn. Cannot attack or assist. Only highest value applied. Does not stack. After moving, if a skill that grants another action would be triggered (like with Galeforce), Canto will trigger after the granted action. Unit's base movement has no effect on movement granted. Cannot warp (using skills like Wings of Mercy) a distance greater than \uff11 space(s).)",
+                "stats": {
+                    "sp": "300"
+                },
+                "exclusive": false,
+                "slot": "Passive C",
+                "restriction_weapon": [
+                    "**Can only** be used by: ",
+                    [
+                        "Red_Sword",
+                        "Red_Beast",
+                        "Red_Breath",
+                        "Blue_Lance",
+                        "Blue_Beast",
+                        "Blue_Breath",
+                        "Green_Axe",
+                        "Green_Beast",
+                        "Green_Breath",
+                        "Colorless_Beast",
+                        "Colorless_Breath"
+                    ]
+                ],
+                "restriction_movement": [
+                    "**Can only** be used by: ",
+                    [
+                        "Cavalry"
+                    ]
+                ],
+                "bonus": {}
+            }
+        ],
+        "reference": {
+            "Alarm Atk/Def": {
+                "ephraim6": "5"
+            }
+        },
+        "refine": {},
+        "icon": "1937",
+        "HARD_ALT_NAME": [
+            "Alarm Attack/Defense"
+        ],
+        "ALT_NAME": [
+            "Alarm Attack/Defense"
+        ],
+        "slot": "Passive C",
+        "wpn": false
+    },
+    "radiantaureola": {
+        "name": "Radiant Aureola",
+        "skill": [
+            {
+                "name": "Radiant Aureola",
+                "description": "Accelerates Special trigger (cooldown count-1). Effective against magic foes. If foe initiates combat or foe's HP \u2265 75% at start of combat, grants Atk/Spd/Def/Res+5 to unit, deals damage = 20% of unit's Res, reduces damage from foe's attacks by 20% of unit's Res (excluding area-of-effect Specials), inflicts Special cooldown charge -1 on foe per attack (only highest value applied; does not stack), and disables foe's effects that \"calculate damage using the lower of foe's Def or Res\" (excluding when dealing damage with an area-of-effect Special) during combat.",
+                "stats": {
+                    "mt": "14",
+                    "rng": "2",
+                    "sp": "400"
+                },
+                "exclusive": true,
+                "slot": "Weapon",
+                "weapon_type": "Colorless_Tome",
+                "restriction_weapon": false,
+                "restriction_movement": false
+            }
+        ],
+        "reference": {
+            "Radiant Aureola": {
+                "guinivere2": "5"
+            }
+        },
+        "refine": {},
+        "icon": false,
+        "HARD_ALT_NAME": [
+            "guinivere2",
+            "Guinivere: Queen of Bern",
+            "Queen of Bern",
+            "Legendary Guinivere",
+            "Leg Guinivere",
+            "Legend Guinivere",
+            "Legendary Guinevere",
+            "Leg Guinevere",
+            "Legend Guinevere",
+            "guinevere2",
+            "L Guinivere",
+            "L Guinevere",
+            "Luinivere"
+        ],
+        "ALT_NAME": [],
+        "slot": "Weapon",
+        "wpn": "wep_mg323"
+    },
+    "bernsnewway": {
+        "name": "Bern's New Way",
+        "skill": [
+            {
+                "name": "Bern's New Way",
+                "description": "Restores 7 HP to allies within 3 spaces of unit after combat. If unit is within 3 spaces of an ally, grants Atk/Spd/Def/Res+5 to unit during combat, grants Special cooldown charge +1 to unit per attack (only highest value applied; does not stack), and restores 7 HP to unit after combat.",
+                "stats": {
+                    "sp": "300"
+                },
+                "exclusive": true,
+                "slot": "Passive C",
+                "restriction_weapon": false,
+                "restriction_movement": false,
+                "bonus": {}
+            }
+        ],
+        "reference": {
+            "Bern's New Way": {
+                "guinivere2": "5"
+            }
+        },
+        "refine": {},
+        "icon": "1939",
+        "HARD_ALT_NAME": [],
+        "ALT_NAME": [],
         "slot": "Passive C",
         "wpn": false
     }

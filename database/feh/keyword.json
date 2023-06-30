@@ -14,7 +14,8 @@
             "Alarm Atk/Spd",
             "Fujin-Raijin Yumi",
             "Gold Serpent",
-            "Alarm Spd/Def"
+            "Alarm Spd/Def",
+            "Alarm Atk/Def"
         ],
         "reference_hero": []
     },
@@ -111,7 +112,8 @@
             "Rite of Souls",
             "Light's Restraint",
             "Staff of Lilies",
-            "Hei\u00f0r"
+            "Hei\u00f0r",
+            "Seaside Parasol"
         ],
         "reference_hero": "<:Blue_Tome:793245229741899776>Duo Mark"
     },
@@ -144,7 +146,8 @@
             "Breaker Lance",
             "Nightmare's Egg",
             "Holy Panic",
-            "Kvasir"
+            "Kvasir",
+            "Partnership Bow"
         ],
         "reference_hero": "<:Colorless_Dagger:793245230064205854>Duo Nina"
     },
@@ -291,49 +294,17 @@
             "Faithful Breath",
             "Severance",
             "Retainer's Report",
-            "Spd/Res Catch"
+            "Spd/Res Catch",
+            "Partnership Bow",
+            "Seaside Parasol"
         ],
         "reference_hero": "<:Red_Breath:793245230886944779>Duo Duma"
-    },
-    "gravity": {
-        "name": "Gravity",
-        "description": "Restricts target's movement to 1 space through its next action.",
-        "reference": [
-            "Sanngri\u00f0r",
-            "Elise's Staff",
-            "Springtime Staff",
-            "Petrify",
-            "Fallen Star",
-            "Banshee \u0398",
-            "Duskbloom Bow",
-            "Holy Pressure",
-            "Fruit of Life"
-        ],
-        "reference_hero": "<:Blue_Tome:793245229741899776>Duo Th\u00f3rr"
-    },
-    "exposure": {
-        "name": "Exposure",
-        "description": "Foe's attacks deal +10 damage.",
-        "reference": [
-            "Killing Intent",
-            "Divine Whimsy",
-            "Fate Unchanged..."
-        ],
-        "reference_hero": []
-    },
-    "foepenaltydoubler": {
-        "name": "Foe Penalty Doubler",
-        "description": "Inflicts penalty on foe's Atk/Spd/Def/Res during combat = any current penalty on each of those stats through their next action. Calculates each stat penalty independently.",
-        "reference": [
-            "Panic Smoke",
-            "Nightmare's Egg"
-        ],
-        "reference_hero": []
     },
     "bonus": {
         "name": "Bonus",
         "description": "All effects that last \"for 1 turn\" or \"that turn only.\" Includes bonuses granted by a skill like Rally or Hone and positive status effects (extra movement or effects like Dominance).",
         "reference": [
+            "Lull Spd/Def",
             "Pledged Blade",
             "Huge Fan",
             "Joyful Vows",
@@ -360,9 +331,46 @@
             "Spd/Res Ideal",
             "Queenslance",
             "Atk/Spd Hexblade",
-            "Fiery War Sword"
+            "Fiery War Sword",
+            "Partnership Bow",
+            "Seaside Parasol"
         ],
         "reference_hero": "<:Blue_Tome:793245229741899776>Duo Th\u00f3rr"
+    },
+    "gravity": {
+        "name": "Gravity",
+        "description": "Restricts target's movement to 1 space through its next action.",
+        "reference": [
+            "Sanngri\u00f0r",
+            "Elise's Staff",
+            "Springtime Staff",
+            "Petrify",
+            "Fallen Star",
+            "Banshee \u0398",
+            "Duskbloom Bow",
+            "Holy Pressure",
+            "Fruit of Life"
+        ],
+        "reference_hero": "<:Blue_Bow:793245229708083231>Duo Shamir"
+    },
+    "exposure": {
+        "name": "Exposure",
+        "description": "Foe's attacks deal +10 damage.",
+        "reference": [
+            "Killing Intent",
+            "Divine Whimsy",
+            "Fate Unchanged..."
+        ],
+        "reference_hero": []
+    },
+    "foepenaltydoubler": {
+        "name": "Foe Penalty Doubler",
+        "description": "Inflicts penalty on foe's Atk/Spd/Def/Res during combat = any current penalty on each of those stats through their next action. Calculates each stat penalty independently.",
+        "reference": [
+            "Panic Smoke",
+            "Nightmare's Egg"
+        ],
+        "reference_hero": []
     },
     "elixir": {
         "name": "Elixir",
@@ -471,7 +479,9 @@
             "Beast N Trace",
             "Flow N Trace",
             "Queenslance",
-            "Knightly Devotion"
+            "Knightly Devotion",
+            "Surfer's Spire",
+            "Surfer's Spade"
         ],
         "reference_hero": []
     },
@@ -647,7 +657,7 @@
         "reference": [
             "Severance"
         ],
-        "reference_hero": []
+        "reference_hero": "<:Blue_Bow:793245229708083231>Duo Shamir"
     },
     "dualstrike": {
         "name": "Dual Strike",
@@ -681,5 +691,13 @@
             "Gold Serpent"
         ],
         "reference_hero": "<:Blue_Lance:793245229720404008>Harmonic Cordelia"
+    },
+    "discord": {
+        "name": "Discord",
+        "description": "Inflicts Atk/Spd/Def/Res-X on unit during combat (X = 2 + number of allies within 2 spaces of unit; max 5) through its next action.",
+        "reference": [
+            "Partnership Bow"
+        ],
+        "reference_hero": []
     }
 }

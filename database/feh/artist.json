@@ -4350,7 +4350,8 @@
             "shamir2": "<:Green_Axe:793245230807384084>Ninja Shamir",
             "laegjarn4": "<:Colorless_Bow:793245230132232212>Ascended Laegjarn",
             "deen": "<:Colorless_Dagger:793245230064205854>Hatarian Deen",
-            "tiki8": "<:Green_Breath:793245230425047071>Brave Adult Tiki"
+            "tiki8": "<:Green_Breath:793245230425047071>Brave Adult Tiki",
+            "ephraim6": "<:Green_Axe:793245230807384084>Summer Ephraim"
         },
         "ALT_NAME": [
             "\u043f\u732b\uff32",
@@ -4542,7 +4543,11 @@
             "New Year Chanbray",
             "New years Chanbray",
             "New Year Chambray",
-            "New years Chambray"
+            "New years Chambray",
+            "Ephraim: Sunshine Valiant",
+            "Sunshine Valiant",
+            "Summer Ephraim",
+            "Summer Eph"
         ],
         "HARD_ALT_NAME": [
             "chromR",
@@ -4873,7 +4878,14 @@
             "New Year Chanbray",
             "New years Chanbray",
             "New Year Chambray",
-            "New years Chambray"
+            "New years Chambray",
+            "ephraim6",
+            "Summer Ephraim",
+            "eph6",
+            "Sunshine Valiant",
+            "S Ephraim",
+            "S Eph",
+            "Summer Eph"
         ]
     },
     "maiponpon": {
@@ -6312,7 +6324,8 @@
             "ilyana2": "<:Blue_Tome:793245229741899776>Halloween Ilyana",
             "velouria2": "<:Blue_Beast:793245229657751612>New Year Velouria",
             "lissa3": "<:Colorless_Staff:793245230135640105>Valentines Lissa",
-            "elise4": "<:Colorless_Staff:793245230135640105>Duo Elise"
+            "elise4": "<:Colorless_Staff:793245230135640105>Duo Elise",
+            "larachel4": "<:Colorless_Staff:793245230135640105>Summer L'Arachel"
         },
         "ALT_NAME": [
             "\u85e4\u3061\u3087\u3053",
@@ -6356,7 +6369,11 @@
             "Harmonic Elise",
             "Harmonized Elise",
             "Valentines Elise",
-            "Valentine Elise"
+            "Valentine Elise",
+            "L'Arachel: Summer Princess",
+            "Summer Princess",
+            "Summer L'Arachel",
+            "Summer Larchel"
         ],
         "HARD_ALT_NAME": [
             "hana",
@@ -6422,7 +6439,15 @@
             "Harmonic Elise",
             "Harmonized Elise",
             "Valentines Elise",
-            "Valentine Elise"
+            "Valentine Elise",
+            "larachel4",
+            "Summer L'Arachel",
+            "larchel4",
+            "Summer Princess",
+            "S L'Arachel",
+            "S Larchel",
+            "S'Arachel",
+            "Summer Larchel"
         ]
     },
     "uedayumehito": {
@@ -9239,6 +9264,7 @@
             "larcei2": "<:Green_Axe:793245230807384084>Scion Larcei",
             "jill": "<:Green_Axe:793245230807384084>Jill",
             "guinivere": "<:Blue_Tome:793245229741899776>Guinivere",
+            "guinivere2": "<:Colorless_Tome:793245230228701184>Legendary Guinivere",
             "miranda": "<:Red_Tome:793245230706196480>Miranda",
             "fernand": "<:Blue_Lance:793245229720404008>Fernand",
             "vigarde": "<:Blue_Lance:793245229720404008>Vigarde",
@@ -9440,7 +9466,15 @@
             "Death Anew",
             "Rearmed Gangl\u00f6t",
             "Rearm Gangl\u00f6t",
-            "Arm Gangl\u00f6t"
+            "Arm Gangl\u00f6t",
+            "Guinivere: Queen of Bern",
+            "Queen of Bern",
+            "Legendary Guinivere",
+            "Leg Guinivere",
+            "Legend Guinivere",
+            "Legendary Guinevere",
+            "Leg Guinevere",
+            "Legend Guinevere"
         ],
         "HARD_ALT_NAME": [
             "effieR",
@@ -9749,7 +9783,19 @@
             "R Gangl\u00f6t",
             "Rangl\u00f6t",
             "Rearm Gangl\u00f6t",
-            "Arm Gangl\u00f6t"
+            "Arm Gangl\u00f6t",
+            "guinivere2",
+            "Legendary Guinivere",
+            "guinevere2",
+            "Queen of Bern",
+            "L Guinivere",
+            "L Guinevere",
+            "Luinivere",
+            "Leg Guinivere",
+            "Legend Guinivere",
+            "Legendary Guinevere",
+            "Leg Guinevere",
+            "Legend Guinevere"
         ]
     },
     "sasashimasuisei": {
@@ -13957,6 +14003,169 @@
             "Baby Wayu"
         ]
     },
+    "fujikawaakira": {
+        "name": "Fujikawa Akira (\u85e4\u5ddd\u7965)",
+        "heroes": {
+            "robin2R": "<:Green_Tome:793245230702788639>Female Robin (Resplendent)",
+            "celica": "<:Red_Tome:793245230706196480>Celica",
+            "celica2": "<:Red_Sword:793245230739750922>Fallen Celica",
+            "marisa": "<:Red_Sword:793245230739750922>Marisa"
+        },
+        "ALT_NAME": [
+            "\u85e4\u5ddd\u7965",
+            "Robin: Mystery Tactician",
+            "Mystery Tactician",
+            "Base Robin",
+            "Normal Robin",
+            "Base Daraen",
+            "Normal Daraen",
+            "Base Reflet",
+            "Normal Reflet",
+            "Base Female Robin",
+            "Normal Female Robin",
+            "Base Robin Female",
+            "Normal Robin Female",
+            "Base F Robin",
+            "Normal F Robin",
+            "Base Robin F",
+            "Normal Robin F",
+            "Base Female Daraen",
+            "Normal Female Daraen",
+            "Base Daraen Female",
+            "Normal Daraen Female",
+            "Base F Daraen",
+            "Normal F Daraen",
+            "Base Daraen F",
+            "Normal Daraen F",
+            "Base Female Reflet",
+            "Normal Female Reflet",
+            "Base Reflet Female",
+            "Normal Reflet Female",
+            "Base F Reflet",
+            "Normal F Reflet",
+            "Base Reflet F",
+            "Normal Reflet F",
+            "Celica: Caring Princess",
+            "Caring Princess",
+            "Base Celica",
+            "Normal Celica",
+            "Base Cellica",
+            "Normal Cellica",
+            "Base Anthiese",
+            "Normal Anthiese",
+            "Base Anteze",
+            "Normal Anteze",
+            "Marisa: Crimson Flash",
+            "Crimson Flash",
+            "Base Marisa",
+            "Normal Marisa",
+            "Base Marica",
+            "Normal Marica",
+            "Celica: Imprisoned Soul",
+            "Imprisoned Soul",
+            "Fallen Celica",
+            "Fallen Cellica",
+            "Fallen Anthiese",
+            "Fallen Anteze"
+        ],
+        "HARD_ALT_NAME": [
+            "robin2R",
+            "Female Robin (Resplendent)",
+            "refletf1",
+            "freflet1",
+            "refletfemale1",
+            "femalereflet1",
+            "daraenf1",
+            "fdaraen1",
+            "daraenfemale1",
+            "femaledaraen1",
+            "robinf1",
+            "frobin1",
+            "robinfemale1",
+            "femalerobin1",
+            "reflet2",
+            "daraen2",
+            "Mystery Tactician",
+            "Female Robin",
+            "Robin Female",
+            "F Robin",
+            "Robin F",
+            "Female Daraen",
+            "Daraen Female",
+            "F Daraen",
+            "Daraen F",
+            "Female Reflet",
+            "Reflet Female",
+            "F Reflet",
+            "Reflet F",
+            "Base Female Robin",
+            "Normal Female Robin",
+            "Base Robin Female",
+            "Normal Robin Female",
+            "Base F Robin",
+            "Normal F Robin",
+            "Base Robin F",
+            "Normal Robin F",
+            "Base Female Daraen",
+            "Normal Female Daraen",
+            "Base Daraen Female",
+            "Normal Daraen Female",
+            "Base F Daraen",
+            "Normal F Daraen",
+            "Base Daraen F",
+            "Normal Daraen F",
+            "Base Female Reflet",
+            "Normal Female Reflet",
+            "Base Reflet Female",
+            "Normal Reflet Female",
+            "Base F Reflet",
+            "Normal F Reflet",
+            "Base Reflet F",
+            "Normal Reflet F",
+            "celica",
+            "Celica",
+            "celica1",
+            "anteze1",
+            "anthiese1",
+            "cellica1",
+            "Caring Princess",
+            "Cellica",
+            "Anthiese",
+            "Anteze",
+            "Base Celica",
+            "Normal Celica",
+            "Base Cellica",
+            "Normal Cellica",
+            "Base Anthiese",
+            "Normal Anthiese",
+            "Base Anteze",
+            "Normal Anteze",
+            "marisa",
+            "Marisa",
+            "marisa1",
+            "marica1",
+            "Crimson Flash",
+            "Marica",
+            "Base Marisa",
+            "Normal Marisa",
+            "Base Marica",
+            "Normal Marica",
+            "celica2",
+            "Fallen Celica",
+            "anteze2",
+            "anthiese2",
+            "cellica2",
+            "Imprisoned Soul",
+            "F Celica",
+            "F Cellica",
+            "F Anthiese",
+            "F Anteze",
+            "Felica",
+            "Fallen Cellica",
+            "Fallen Anthiese",
+            "Fallen Anteze"
+        ]
+    },
     "ichikawahalu": {
         "name": "ichikawa Halu (\u3044\u3061\u304b\u308f\u306f\u308b)",
         "heroes": {
@@ -15911,7 +16120,8 @@
             "niime": "<:Colorless_Tome:793245230228701184>Niime",
             "jeralt": "<:Blue_Lance:793245229720404008>Jeralt",
             "dimitri5": "<:Green_Axe:793245230807384084>Summer Dimitri",
-            "askr2": "<:Colorless_Tome:793245230228701184>Duo Askr"
+            "askr2": "<:Colorless_Tome:793245230228701184>Duo Askr",
+            "shez5": "<:Blue_Lance:793245229720404008>Summer Male Shez"
         },
         "ALT_NAME": [
             "\u897f\u6728\u3042\u308c\u304f",
@@ -15969,7 +16179,14 @@
             "Harmonic Askr",
             "Harmonized Askr",
             "New Year Askr",
-            "New years Askr"
+            "New years Askr",
+            "Shez: Mercenary Shade",
+            "Mercenary Shade",
+            "Summer Shez",
+            "Summer Male Shez",
+            "Summer Shez Male",
+            "Summer M Shez",
+            "Summer Shez M"
         ],
         "HARD_ALT_NAME": [
             "almR",
@@ -16065,7 +16282,21 @@
             "Harmonic Askr",
             "Harmonized Askr",
             "New Year Askr",
-            "New years Askr"
+            "New years Askr",
+            "shez5",
+            "Summer Male Shez",
+            "shezm2",
+            "mshez2",
+            "shezmale2",
+            "maleshez2",
+            "Mercenary Shade",
+            "S Male Shez",
+            "S Shez Male",
+            "S M Shez",
+            "S Shez M",
+            "Summer Shez Male",
+            "Summer M Shez",
+            "Summer Shez M"
         ]
     },
     "mikuro": {
@@ -16473,83 +16704,6 @@
             "Bunny Saleh",
             "Spring Salef",
             "Bunny Salef"
-        ]
-    },
-    "fujikawaakira": {
-        "name": "Fujikawa Akira (\u85e4\u5ddd\u7965)",
-        "heroes": {
-            "celica": "<:Red_Tome:793245230706196480>Celica",
-            "celica2": "<:Red_Sword:793245230739750922>Fallen Celica",
-            "marisa": "<:Red_Sword:793245230739750922>Marisa"
-        },
-        "ALT_NAME": [
-            "\u85e4\u5ddd\u7965",
-            "Celica: Caring Princess",
-            "Caring Princess",
-            "Base Celica",
-            "Normal Celica",
-            "Base Cellica",
-            "Normal Cellica",
-            "Base Anthiese",
-            "Normal Anthiese",
-            "Base Anteze",
-            "Normal Anteze",
-            "Marisa: Crimson Flash",
-            "Crimson Flash",
-            "Base Marisa",
-            "Normal Marisa",
-            "Base Marica",
-            "Normal Marica",
-            "Celica: Imprisoned Soul",
-            "Imprisoned Soul",
-            "Fallen Celica",
-            "Fallen Cellica",
-            "Fallen Anthiese",
-            "Fallen Anteze"
-        ],
-        "HARD_ALT_NAME": [
-            "celica",
-            "Celica",
-            "celica1",
-            "anteze1",
-            "anthiese1",
-            "cellica1",
-            "Caring Princess",
-            "Cellica",
-            "Anthiese",
-            "Anteze",
-            "Base Celica",
-            "Normal Celica",
-            "Base Cellica",
-            "Normal Cellica",
-            "Base Anthiese",
-            "Normal Anthiese",
-            "Base Anteze",
-            "Normal Anteze",
-            "marisa",
-            "Marisa",
-            "marisa1",
-            "marica1",
-            "Crimson Flash",
-            "Marica",
-            "Base Marisa",
-            "Normal Marisa",
-            "Base Marica",
-            "Normal Marica",
-            "celica2",
-            "Fallen Celica",
-            "anteze2",
-            "anthiese2",
-            "cellica2",
-            "Imprisoned Soul",
-            "F Celica",
-            "F Cellica",
-            "F Anthiese",
-            "F Anteze",
-            "Felica",
-            "Fallen Cellica",
-            "Fallen Anthiese",
-            "Fallen Anteze"
         ]
     },
     "kaeyamaguchi": {
@@ -21572,7 +21726,8 @@
         "name": "kainown",
         "heroes": {
             "chloe": "<:Blue_Lance:793245229720404008>Chlo\u00e9",
-            "cecilia3": "<:Red_Tome:793245230706196480>Bridal Cecilia"
+            "cecilia3": "<:Red_Tome:793245230706196480>Bridal Cecilia",
+            "shamir3": "<:Blue_Bow:793245229708083231>Duo Shamir"
         },
         "ALT_NAME": [
             "Chlo\u00e9: Fairy-Tale Flier",
@@ -21588,7 +21743,12 @@
             "Bridal Secilia",
             "Groom Secilia",
             "Bride Secilia",
-            "Wedding Secilia"
+            "Wedding Secilia",
+            "Shamir: Heartbeats United",
+            "Heartbeats United",
+            "Duo Shamir",
+            "Harmonic Shamir",
+            "Harmonized Shamir"
         ],
         "HARD_ALT_NAME": [
             "chloe",
@@ -21610,7 +21770,14 @@
             "Bridal Secilia",
             "Groom Secilia",
             "Bride Secilia",
-            "Wedding Secilia"
+            "Wedding Secilia",
+            "shamir3",
+            "Duo Shamir",
+            "Heartbeats United",
+            "D Shamir",
+            "Dhamir",
+            "Harmonic Shamir",
+            "Harmonized Shamir"
         ]
     },
     "pavilionushima": {
@@ -23671,6 +23838,40 @@
             "Bunny Bernie",
             "Spring Bernadeta",
             "Bunny Bernadeta"
+        ]
+    },
+    "yamanokami": {
+        "name": "yamanokami (\u3084\u307e\u306e\u304b\u307f)",
+        "heroes": {
+            "shez4": "<:Red_Sword:793245230739750922>Summer Female Shez"
+        },
+        "ALT_NAME": [
+            "\u3084\u307e\u306e\u304b\u307f",
+            "Shez: Mercenary Shine",
+            "Mercenary Shine",
+            "Summer Shez",
+            "Summer Female Shez",
+            "Summer Shez Female",
+            "Summer F Shez",
+            "Summer Shez F"
+        ],
+        "HARD_ALT_NAME": [
+            "shez4",
+            "Summer Female Shez",
+            "shezf3",
+            "fshez3",
+            "shezfemale3",
+            "femaleshez3",
+            "Mercenary Shine",
+            "S Shez",
+            "S Female Shez",
+            "S Shez Female",
+            "S F Shez",
+            "S Shez F",
+            "Summer Shez",
+            "Summer Shez Female",
+            "Summer F Shez",
+            "Summer Shez F"
         ]
     }
 }
