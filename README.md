@@ -1,7 +1,7 @@
 # OifeyBot
 
 Oifey is a bot for Discord that shows data based on the Fire Emblem games. Can be used with slash commands or text commands.
-Text commands work both with `o!` or pinging the both.
+Text commands work both with `o!` or pinging the bot.
 
 Made with [Discord.py](https://github.com/Rapptz/discord.py) to handle basic Discord API stuff, has a custom command system for an easier time when generating a lot of commands and some custom behavior.
 
