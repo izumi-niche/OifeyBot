@@ -63,7 +63,7 @@ intents.reactions = False
 intents.typing = False
 intents.voice_states = False
 intents.webhooks = False
-intents.message_content = False
+intents.message_content = True
 
 client = Oifey(intents=intents, log_handler=None)
 
