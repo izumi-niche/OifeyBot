@@ -1004,7 +1004,7 @@ function Skill:show_tier(index, minimal)
         local result = data[1]
         
         for _, pair in ipairs(data[2]) do
-            result = result .. heroes_pack:get(add .. pair)
+            result = result .. heroes_pack:get(add .. pair, util.title(pair:gsub("_", " ")) .. "; ")
         end
         
         return result
